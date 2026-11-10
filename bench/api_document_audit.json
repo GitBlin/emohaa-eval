@@ -1,0 +1,166 @@
+{
+  "checked_at": "2026-11-09T07:23:55.636572+00:00",
+  "source_document": "智能体聊天最佳实践.docx",
+  "scope": "Current default user; latest context only; no chat sent or context cleared. responseSource enum is not defined in the document.",
+  "bots": [
+    {
+      "bot_id": 265,
+      "name": "丛林先知",
+      "context_success": true,
+      "total_messages": 2,
+      "sampled_messages": 2,
+      "response_sources": [
+        "topia"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 270,
+      "name": "团团仙翁",
+      "context_success": true,
+      "total_messages": 2,
+      "sampled_messages": 2,
+      "response_sources": [
+        "270"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 277,
+      "name": "阿铁",
+      "context_success": true,
+      "total_messages": 2,
+      "sampled_messages": 2,
+      "response_sources": [
+        "277"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 314,
+      "name": "智趣探针",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 432,
+      "name": "魔镜",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 1,
+      "name": "李言-llm",
+      "context_success": true,
+      "total_messages": 10,
+      "sampled_messages": 10,
+      "response_sources": [
+        "agent:llm"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 242,
+      "name": "李言老师",
+      "context_success": true,
+      "total_messages": 12,
+      "sampled_messages": 12,
+      "response_sources": [
+        "agent:llm"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 1017,
+      "name": "知心姐姐-0901",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 228,
+      "name": "夸夸小精灵",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 231,
+      "name": "怼怼大魔王-llm",
+      "context_success": true,
+      "total_messages": 10,
+      "sampled_messages": 10,
+      "response_sources": [
+        "agent:llm"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 232,
+      "name": "小猫心宝",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 233,
+      "name": "怼怼模拟器",
+      "context_success": true,
+      "total_messages": 0,
+      "sampled_messages": 0,
+      "response_sources": [],
+      "distinct_chat_ids_in_sample": 0
+    },
+    {
+      "bot_id": 240,
+      "name": "怼怼大魔王",
+      "context_success": true,
+      "total_messages": 2,
+      "sampled_messages": 2,
+      "response_sources": [
+        "240"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 243,
+      "name": "志航老师",
+      "context_success": true,
+      "total_messages": 10,
+      "sampled_messages": 10,
+      "response_sources": [
+        "243"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    },
+    {
+      "bot_id": 1028,
+      "name": "志航老师-llm",
+      "context_success": true,
+      "total_messages": 10,
+      "sampled_messages": 10,
+      "response_sources": [
+        "agent:flow"
+      ],
+      "distinct_chat_ids_in_sample": 1
+    }
+  ],
+  "parser_checks": {
+    "normal_sse": "pass",
+    "double_encoded_sse": "incorrectly returns empty text",
+    "sse_model_error": "incorrectly returns error as answer text",
+    "json_success_false": "incorrectly returns error as answer text"
+  }
+}

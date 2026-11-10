@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# secrets / local config
+.env
+
+# experiment outputs (generated dialogues and scores)
+runs/
+*.tmp
+.DS_Store
+
+# editor
+.idea/
+.vscode/

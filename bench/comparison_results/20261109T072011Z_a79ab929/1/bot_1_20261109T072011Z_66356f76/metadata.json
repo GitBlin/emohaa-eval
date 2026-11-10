@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-11-09T07:20:11.440127+00:00",
+  "bot_id": 1,
+  "bot_name": null,
+  "user_id": "test_user_demo_01",
+  "base_url": "https://www.ai-role.cn",
+  "language": "zh",
+  "seed": 42,
+  "requested_limit": 5,
+  "actual_samples": 5,
+  "sampling": "round_robin_by_file",
+  "repeats": 1,
+  "dry_run": true,
+  "conversation_isolation": "unverified_shared_user",
+  "instruction_placement": "user_content",
+  "note": "同一用户连续请求，未确认服务端是否保留历史；仅供试跑，不是正式基准结果。"
+}
