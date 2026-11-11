@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """Auditable, resumable ToMBench evaluation of 李言老师 (bot 242).
 
-Default: Chinese, all questions, five independently shuffled trials per question.
+Default: Chinese and English, all questions, three independently shuffled trials per question.
 Credentials are imported at runtime or read from LINGX_* environment variables;
 authentication bodies/headers/tokens are never saved in evaluation artifacts.
 """
 import argparse
 from collections import Counter, defaultdict
+from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from datetime import datetime, timezone
 import hashlib
+import fcntl
 import importlib.util
 import json
 import math
@@ -18,6 +20,7 @@ import platform
 import random
 import re
 import shutil
+import signal
 import statistics
 import sys
 import time
@@ -26,7 +29,7 @@ from uuid import uuid4
 import requests
 
 HERE = Path(__file__).resolve().parent
-VERSION = "1.0.1"
+VERSION = "1.3.0"
 BOT_ID = 242
 
 
@@ -282,25 +285,26 @@ def prepare(args):
                 trial_id = f"trial_{len(cases):06d}"
                 cases.append({**s, "trial_id": trial_id, "language": lang, "repeat": repeat,
                               "answer": answer, "answer_raw": d["答案\nANSWER"], "map": mapping,
-                              "request": {"botId": BOT_ID, "content": content,
+                              "request": {"botId": args.bot_id, "content": content,
                                           "isStream": True, "returnTts": False, "courseProgressId": 0}})
     write_json(run / "plan.json", cases)
     write_json(run / "data_audit.json", data_audit)
     hashes["plan.json"] = digest(run / "plan.json")
     hashes["data_audit.json"] = digest(run / "data_audit.json")
     manifest = {
-        "created_at": now(), "script_version": VERSION, "bot_id": BOT_ID, "bot_name": "李言老师",
+        "created_at": now(), "script_version": VERSION, "bot_id": args.bot_id, "bot_name": args.bot_name,
         "base_url": args.base_url.rstrip("/"),
         "user_id": args.user_id or f"liyan_eval_{run_id}",
         "model_version": args.model_version, "harness_version": args.harness_version,
         "configuration_status": "operator_supplied_not_verified" if args.model_version != "unreported" else "backend_version_unreported",
         "languages": args.languages, "repeats": args.repeats, "cot": args.cot, "seed": args.seed,
         "dataset_questions": dataset_count, "selected_questions": len(selected), "planned_trials": len(cases),
+        "workers": args.workers, "user_isolation": "per_trial",
         "interval": args.interval, "max_attempts": args.max_attempts, "timeout": args.timeout,
         "summary_every": args.summary_every, "max_consecutive_errors": args.max_consecutive_errors,
-        "credential_defaults_module": str(HERE.parent / "bot_chat_client.py"),
+        "credential_defaults_module": str(args.credentials_module.resolve()),
         "verify_tls": not args.insecure, "generation_parameters": "backend defaults; not exposed by documented API",
-        "context_policy": "clearContext + verify onlyLastSession before every attempt; shared account may still retain long-term memory",
+        "context_policy": "unique user per trial; clearContext + verify onlyLastSession before every attempt",
         "scoring": "unique bracketed answer; invalid/error counted wrong; plurality of mapped valid answers; ties invalid; no default A",
         "protocol": "ToMBench local adapted agent evaluation; instructions in user content; not a certified official submission",
         "dataset_policy": "evaluation-only holdout; no training or prompt tuning on these items",
@@ -324,6 +328,7 @@ def score(text, case):
 
 
 def trial(client, case, run, manifest):
+    bot_id = manifest.get("bot_id", BOT_ID)
     trial_dir = run / "trials" / case["trial_id"]
     trial_dir.mkdir(parents=True, exist_ok=True)
     result = {k: case[k] for k in ("trial_id", "sample_id", "task_file", "ability", "language", "repeat", "answer", "map")}
@@ -339,12 +344,12 @@ def trial(client, case, run, manifest):
         info = {"number": offset+n, "started_at": now(), "stage": "clear_context"}
         try:
             cleared = client.call("POST", "/open/chat/clearContext", attempt_dir, "clear",
-                                  payload={"botId": BOT_ID, "courseProgressId": 0})
+                                  payload={"botId": bot_id, "courseProgressId": 0})
             if not isinstance(cleared, dict) or cleared.get("role") != "flush_context":
                 raise ProtocolError("清理响应未包含 flush_context 标记")
             info["stage"] = "verify_context"
             context = client.call("GET", "/open/chat/context", attempt_dir, "context_before", params={
-                "botId": BOT_ID, "courseProgressId": 0, "onlyLastSession": "true", "pageNum": 0, "pageSize": 30})
+                "botId": bot_id, "courseProgressId": 0, "onlyLastSession": "true", "pageNum": 0, "pageSize": 30})
             if not isinstance(context, dict) or not isinstance(context.get("content"), list):
                 raise ProtocolError("上下文查询格式异常")
             if any(m.get("role") in ("user", "role") for m in context["content"]):
@@ -359,7 +364,7 @@ def trial(client, case, run, manifest):
             # Retrieve server provenance after the answer; audit failure does not change its score.
             try:
                 context = client.call("GET", "/open/chat/context", attempt_dir, "context_after", params={
-                    "botId": BOT_ID, "courseProgressId": 0, "onlyLastSession": "true", "pageNum": 0, "pageSize": 10})
+                    "botId": bot_id, "courseProgressId": 0, "onlyLastSession": "true", "pageNum": 0, "pageSize": 10})
                 messages = context.get("content") or []
                 result["response_sources"] = sorted({str(m["responseSource"]) for m in messages if m.get("responseSource")})
                 result["server_chat_ids"] = sorted({str(m["chatId"]) for m in messages if m.get("chatId")})
@@ -422,21 +427,46 @@ def summarize(run, manifest, cases, rows, status):
                "questions_with_all_valid_trials": sum(v["all_trials_valid"] for v in votes),
                "attempt_errors": sum(a["status"] == "error" for r in rows for a in r["attempts"]),
                "context_after_audit_errors": sum(bool(a.get("audit_error")) for r in rows for a in r["attempts"])}
-    for field in ("language", "task_file", "ability"):
+    for field in ("language", "task_file", "ability", "repeat"):
         buckets = defaultdict(list)
         for r in rows:
             buckets[r[field]].append(r)
         summary["by_" + field] = {k: metrics(v) for k, v in buckets.items()}
+    complete_rounds = [m["accuracy"] for m in summary["by_repeat"].values() if m["count"] == len(cases) // manifest["repeats"]]
+    summary["repeat_statistics"] = {"complete_rounds": len(complete_rounds), "mean_accuracy": statistics.mean(complete_rounds) if complete_rounds else None, "sample_std_accuracy": statistics.stdev(complete_rounds) if len(complete_rounds) > 1 else None}
+    summary["question_vote_accuracy_by_language"] = {
+        lang: {"completed_questions": len(vs),
+               "accuracy": sum(v["correct"] for v in vs) / len(vs) if vs else None}
+        for lang in sorted({c["language"] for c in cases})
+        for vs in [[v for v in votes if v["language"] == lang]]}
+    summary["rounds_by_language"] = {}
+    for language in sorted({c["language"] for c in cases}):
+        expected = sum(c["language"] == language for c in cases) // manifest["repeats"]
+        rounds = {str(i + 1): metrics([r for r in rows if r["language"] == language and r["repeat"] == i])
+                  for i in range(manifest["repeats"])}
+        accuracies = [m["accuracy"] for m in rounds.values() if m["count"] == expected and expected]
+        summary["rounds_by_language"][language] = {"rounds": rounds,
+            "complete_rounds": len(accuracies),
+            "mean_accuracy": statistics.mean(accuracies) if accuracies else None,
+            "sample_std_accuracy": statistics.stdev(accuracies) if len(accuracies) > 1 else None}
+    audit_path = run / "data_audit.json"
+    if audit_path.exists():
+        flagged = {x["sample_id"] for x in read_json(audit_path)["language_option_mismatches"]}
+        summary["excluding_option_count_mismatches"] = {
+            "excluded_sample_ids": sorted(flagged),
+            "note": "辅助口径：两种语言均排除选项数不一致题目；原始全量结果保留，不修改题库",
+            "by_language": {lang: metrics([r for r in rows if r["language"] == lang and r["sample_id"] not in flagged])
+                            for lang in summary["rounds_by_language"]}}
     durations = [r["elapsed_seconds"] + manifest["interval"] for r in rows]
     if durations:
         mean = statistics.mean(durations)
         summary["timing"] = {"measured_trials": len(durations), "mean_seconds_per_trial_including_interval": mean,
                              "median_seconds": statistics.median(durations),
                              "p95_seconds": sorted(durations)[math.ceil(len(durations) * .95)-1],
-                             "remaining_hours_estimate": mean * (len(cases)-len(rows)) / 3600,
+                             "remaining_hours_estimate": mean * (len(cases)-len(rows)) / 3600 / manifest.get("workers", 1),
                              "full_dataset_1_repeat_1_language_hours": mean * manifest["dataset_questions"] / 3600,
                              "full_dataset_5_repeats_1_language_hours": mean * manifest["dataset_questions"] * 5 / 3600,
-                             "caveat": "基于当前样本和服务速度线性外推，不含长期限流/中断；CoT与不同语言需另测"}
+                             "workers": manifest.get("workers", 1), "caveat": "剩余耗时按并发数理想缩放；full_dataset字段为串行估计；不含认证、限流和中断"}
     write_json(run / "summary.json", summary)
     write_json(run / "question_votes.json", votes)
     review = []
@@ -458,7 +488,7 @@ def summarize(run, manifest, cases, rows, status):
         temp.replace(run / filename)
     percent = lambda x: "N/A" if x is None else f"{x:.2%}"
     text = ["# 李言老师 ToMBench 本地评测", "", f"状态：{status}；更新时间：{summary['updated_at']}（UTC）。",
-            f"botId=242；底座版本={manifest['model_version']}；harness版本={manifest['harness_version']}。",
+            f"botId={manifest.get('bot_id', BOT_ID)}；底座版本={manifest['model_version']}；harness版本={manifest['harness_version']}。",
             "", f"完成 {len(rows)}/{len(cases)} 次；按次准确率 {percent(summary['trials']['accuracy'])}；按题投票准确率 {percent(summary['question_vote_accuracy'])}。",
             f"无效答案 {summary['trials']['invalid']}；最终请求失败 {summary['trials']['errors']}；所有尝试中错误 {summary['attempt_errors']}。",
             "", "| 题目文件 | 次数 | 答对 | 无效 | 请求失败 | 准确率 |", "|---|---:|---:|---:|---:|---:|"]
@@ -475,10 +505,14 @@ def summarize(run, manifest, cases, rows, status):
              "", "## 交付物", "", "manifest.json、plan.json、data_audit.json、snapshot/、trials/、responses.jsonl、question_votes.json、summary.json、badcases.jsonl、review_queue.json、artifact_index.json。",
              "trials下保留每次清理、历史查询、聊天请求、原始响应体、解析事件和错误；不保存API密钥或认证Token。"]
     text += ["", "## 结论草稿与三条支撑（内部使用）", "",
-             f"本次李言老师242在已完成的{len(rows)}次ToMBench本地适配试次上，按次准确率为{percent(summary['trials']['accuracy'])}；不代表临床效果或harness增益。",
+             f"本次智能体{manifest.get('bot_id', BOT_ID)}在已完成的{len(rows)}次ToMBench本地适配试次上，按次准确率为{percent(summary['trials']['accuracy'])}；不代表临床效果或harness增益。",
              f"1. 完成度：{len(rows)}/{len(cases)}，数据、提示词与代码哈希见manifest，完整输入见plan。",
              f"2. 协议与接口：无效回答{summary['trials']['invalid']}，最终失败{summary['trials']['errors']}，原始证据见trials。",
              "3. 分项成绩见summary，失败案例见badcases，待核查原因及优化排期见review_queue；后台版本仍需确认。"]
+    text += ["", "## 各轮成绩（repeat从0计数）", "", json.dumps(summary["by_repeat"], ensure_ascii=False, indent=2), "", json.dumps(summary["repeat_statistics"], ensure_ascii=False, indent=2)]
+    text += ["", "## 中英文分别的三轮成绩", "", json.dumps(summary["rounds_by_language"], ensure_ascii=False, indent=2), "", "各语言按题投票：", json.dumps(summary["question_vote_accuracy_by_language"], ensure_ascii=False, indent=2)]
+    if "excluding_option_count_mismatches" in summary:
+        text += ["", "## 排除跨语言选项数异常的辅助成绩", "", json.dumps(summary["excluding_option_count_mismatches"], ensure_ascii=False, indent=2)]
     if "timing" in summary:
         text += ["", "## 耗时外推", "", json.dumps(summary["timing"], ensure_ascii=False, indent=2)]
     (run / "report.md").write_text("\n".join(text) + "\n", encoding="utf-8")
@@ -487,15 +521,19 @@ def summarize(run, manifest, cases, rows, status):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--bot-id", type=int, default=BOT_ID, help="目标智能体ID；新凭证测试智能体为1030")
+    parser.add_argument("--bot-name", default="李言老师", help="记录目标智能体名称")
     parser.add_argument("--limit", type=int, default=0, help="抽样题数，0=全部2860题")
-    parser.add_argument("--repeats", type=int, default=5)
-    parser.add_argument("--languages", nargs="+", choices=["zh", "en"], default=["zh"])
+    parser.add_argument("--repeats", type=int, default=3)
+    parser.add_argument("--workers", type=int, default=32, help="并发试次数；每试次独立用户，默认32")
+    parser.add_argument("--credentials-module", type=Path, default=HERE.parent / "bot_chat_client.py", help="凭证默认值来源，环境变量优先")
+    parser.add_argument("--languages", nargs="+", choices=["zh", "en"], default=["zh", "en"])
     parser.add_argument("--cot", action="store_true", help="使用原仓库CoT提示词；默认直接答题")
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--interval", type=float, default=0.2)
+    parser.add_argument("--interval", type=float, default=0)
     parser.add_argument("--max-attempts", type=int, default=2, help="仅失败重试；每次重试先清理上下文")
     parser.add_argument("--timeout", type=float, default=60)
-    parser.add_argument("--summary-every", type=int, default=20, help="每多少个试次刷新汇总，逐题结果始终立即保存")
+    parser.add_argument("--summary-every", type=int, default=200, help="每多少个试次刷新汇总，逐题结果始终立即保存")
     parser.add_argument("--max-consecutive-errors", type=int, default=5, help="连续最终失败达到此数即暂停运行")
     parser.add_argument("--insecure", action="store_true", help="显式关闭TLS校验，默认验证证书")
     parser.add_argument("--dry-run", action="store_true")
@@ -508,7 +546,10 @@ def main(argv=None):
     parser.add_argument("--model-version", default="unreported")
     parser.add_argument("--harness-version", default="unreported")
     args = parser.parse_args(argv)
-    if args.limit < 0 or args.repeats < 1 or args.interval < 0 or args.max_attempts < 1 or args.timeout <= 0 or args.summary_every < 1 or args.max_consecutive_errors < 1:
+    def request_stop(signum, frame):
+        raise KeyboardInterrupt
+    signal.signal(signal.SIGTERM, request_stop)
+    if args.bot_id < 1 or args.workers < 1 or args.limit < 0 or args.repeats < 1 or args.interval < 0 or args.max_attempts < 1 or args.timeout <= 0 or args.summary_every < 1 or args.max_consecutive_errors < 1:
         parser.error("limit/interval不得为负；repeats/max-attempts/timeout必须为正")
     if len(set(args.languages)) != len(args.languages):
         parser.error("languages不能重复")
@@ -527,67 +568,112 @@ def main(argv=None):
             raise ValueError("恢复/重建必须使用该运行snapshot中的脚本，避免代码版本混用")
     else:
         run, manifest, cases = prepare(args)
-    print(f"RUN_DIR={run}\n计划 {len(cases)} 次答题；用户 {manifest['user_id']}", flush=True)
-    rows = []
-    for case in cases:
-        path = run / "trials" / case["trial_id"] / "result.json"
-        if path.exists():
-            result = read_json(path)
-            if result["trial_id"] != case["trial_id"]:
-                raise ValueError("结果trial_id不匹配")
-            rows.append(result)
-    if args.dry_run or args.report_only:
-        summarize(run, manifest, cases, rows, "prepared" if args.dry_run else "complete" if len(rows) == len(cases) else "partial")
-        write_json(run / "artifact_index.json", {str(p.relative_to(run)): digest(p)
-                   for p in sorted(run.rglob("*")) if p.is_file() and p.name != "artifact_index.json"})
-        print("离线完成，未调用平台。")
-        return
-    # Import only defaults; never copy this credential-bearing module into the run archive.
-    original_client = import_file("original_bot_client", manifest["credential_defaults_module"])
-    client = Client(manifest["base_url"], os.getenv("LINGX_API_KEY", original_client.DEFAULT_API_KEY),
-                    os.getenv("LINGX_API_SECRET", original_client.DEFAULT_API_SECRET), manifest["user_id"],
-                    manifest["verify_tls"], manifest["timeout"])
-    completed = {r["trial_id"] for r in rows}
-    status = "running"
-    exit_code = 0
-    consecutive_errors = 0
-    append_json(run / "execution_log.jsonl", {"event": "start", "at": now(), "already_completed": len(rows)})
+    run_lock = (run / ".run.lock").open("a")
     try:
-        client.authenticate()
-        session_dir = run / "sessions" / uuid4().hex
-        bots = client.call("GET", "/open/bot/list", session_dir, "bots")
-        if not any(str(b.get("id")) == str(BOT_ID) for b in bots):
-            raise APIError("当前测试用户无权访问李言老师242")
-        client.call("GET", f"/open/bot/{BOT_ID}", session_dir, "bot_detail")
+        fcntl.flock(run_lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        run_lock.close()
+        raise RuntimeError("该运行目录已有进程占用，请勿同时恢复或重建报告")
+    try:
+        print(f"RUN_DIR={run}\n计划 {len(cases)} 次答题；用户 {manifest['user_id']}", flush=True)
+        rows = []
         for case in cases:
-            if case["trial_id"] in completed:
-                continue
-            result = trial(client, case, run, manifest)
-            rows.append(result)
-            if len(rows) % manifest["summary_every"] == 0 or len(rows) == 1:
-                summarize(run, manifest, cases, rows, "running")
-            eta = statistics.mean(r['elapsed_seconds'] + manifest['interval'] for r in rows) * (len(cases)-len(rows)) / 3600
-            print(f"[{len(rows)}/{len(cases)}] {case['sample_id']} {case['language']} #{case['repeat']+1} "
-                  f"{result['status']} correct={result['correct']} elapsed={result['elapsed_seconds']:.2f}s ETA={eta:.2f}h", flush=True)
-            consecutive_errors = consecutive_errors + 1 if result['status'] == 'request_error' else 0
-            if consecutive_errors >= manifest['max_consecutive_errors']:
-                raise APIError("连续请求失败达到阈值；保留结果，排查后可resume后续题目")
-            time.sleep(manifest["interval"])
-        status = "complete"
-    except KeyboardInterrupt:
-        status, exit_code = "interrupted", 130
-    except Exception as exc:
-        status, exit_code = "failed", 1
-        append_json(run / "execution_log.jsonl", {"event": "fatal", "at": now(), "error": f"{type(exc).__name__}: {exc}"})
-        print(f"运行失败: {type(exc).__name__}: {exc}", file=sys.stderr)
+            path = run / "trials" / case["trial_id"] / "result.json"
+            if path.exists():
+                result = read_json(path)
+                if result["trial_id"] != case["trial_id"]:
+                    raise ValueError("结果trial_id不匹配")
+                rows.append(result)
+        if args.dry_run or args.report_only:
+            summarize(run, manifest, cases, rows, "prepared" if args.dry_run else "complete" if len(rows) == len(cases) else "partial")
+            write_json(run / "artifact_index.json", {str(p.relative_to(run)): digest(p)
+                       for p in sorted(run.rglob("*")) if p.is_file() and p.name != "artifact_index.json"})
+            print("离线完成，未调用平台。")
+            return
+        # Import only defaults; never copy this credential-bearing module into the run archive.
+        original_client = import_file("original_bot_client", manifest["credential_defaults_module"])
+        api_key = os.getenv("LINGX_API_KEY", original_client.DEFAULT_API_KEY)
+        api_secret = os.getenv("LINGX_API_SECRET", original_client.DEFAULT_API_SECRET)
+        client = Client(manifest["base_url"], api_key, api_secret, manifest["user_id"],
+                        manifest["verify_tls"], manifest["timeout"])
+        completed = {r["trial_id"] for r in rows}
+        status = "running"
+        exit_code = 0
+        consecutive_errors = 0
+        append_json(run / "execution_log.jsonl", {"event": "start", "at": now(), "already_completed": len(rows)})
+        try:
+            client.authenticate()
+            session_dir = run / "sessions" / uuid4().hex
+            bots = client.call("GET", "/open/bot/list", session_dir, "bots")
+            if not any(str(b.get("id")) == str(manifest["bot_id"]) for b in bots):
+                raise APIError(f"当前测试用户无权访问智能体{manifest['bot_id']}")
+            client.call("GET", f"/open/bot/{manifest['bot_id']}", session_dir, "bot_detail")
+            remaining = iter(c for c in cases if c["trial_id"] not in completed)
+            def execute(case):
+                if manifest.get("user_isolation") != "per_trial":
+                    return trial(client, case, run, manifest)
+                # Stable across resume, distinct for every question and repetition.
+                uid = "liyan_" + hashlib.sha256((manifest["user_id"] + ":" + case["trial_id"]).encode()).hexdigest()[:40]
+                local = Client(manifest["base_url"], api_key, api_secret, uid,
+                               manifest["verify_tls"], manifest["timeout"])
+                try:
+                    local.authenticate()
+                    result = trial(local, case, run, manifest)
+                    result["user_id"] = uid
+                    write_json(run / "trials" / case["trial_id"] / "result.json", result)
+                    time.sleep(manifest["interval"])
+                    return result
+                finally:
+                    local.session.close()
+            workers = manifest.get("workers", 1)
+            pool = ThreadPoolExecutor(max_workers=workers)
+            pending = {}
+            def submit_next():
+                case = next(remaining, None)
+                if case is not None:
+                    pending[pool.submit(execute, case)] = case
+            try:
+                for _ in range(workers):
+                    submit_next()
+                while pending:
+                    done, _ = wait(pending, return_when=FIRST_COMPLETED)
+                    for future in done:
+                        case = pending.pop(future)
+                        result = future.result()
+                        rows.append(result)
+                        if len(rows) % manifest["summary_every"] == 0 or len(rows) == 1:
+                            summarize(run, manifest, cases, rows, "running")
+                        print(f"[{len(rows)}/{len(cases)}] {case['sample_id']} #{case['repeat']+1} "
+                              f"{result['status']} correct={result['correct']} elapsed={result['elapsed_seconds']:.2f}s", flush=True)
+                        consecutive_errors = consecutive_errors + 1 if result['status'] == 'request_error' else 0
+                        if consecutive_errors >= manifest["max_consecutive_errors"]:
+                            raise APIError("连续失败达到阈值；停止派发并等待在途任务保存")
+                    for _ in done:
+                        submit_next()
+            finally:
+                for future in pending:
+                    future.cancel()
+                pool.shutdown(wait=True)
+                # Include results finished while stopping; never lose their audit trail.
+                rows = [read_json(run / "trials" / c["trial_id"] / "result.json") for c in cases
+                        if (run / "trials" / c["trial_id"] / "result.json").exists()]
+            status = "complete"
+        except KeyboardInterrupt:
+            status, exit_code = "interrupted", 130
+        except Exception as exc:
+            status, exit_code = "failed", 1
+            append_json(run / "execution_log.jsonl", {"event": "fatal", "at": now(), "error": f"{type(exc).__name__}: {exc}"})
+            print(f"运行失败: {type(exc).__name__}: {exc}", file=sys.stderr)
+        finally:
+            client.session.close()
+            summarize(run, manifest, cases, rows, status)
+            append_json(run / "execution_log.jsonl", {"event": status, "at": now(), "completed_trials": len(rows)})
+            write_json(run / "artifact_index.json", {str(p.relative_to(run)): digest(p)
+                       for p in sorted(run.rglob("*")) if p.is_file() and p.name != "artifact_index.json"})
+            print(f"结束状态={status}；报告={run / 'report.md'}", flush=True)
+        return exit_code
     finally:
-        client.session.close()
-        summarize(run, manifest, cases, rows, status)
-        append_json(run / "execution_log.jsonl", {"event": status, "at": now(), "completed_trials": len(rows)})
-        write_json(run / "artifact_index.json", {str(p.relative_to(run)): digest(p)
-                   for p in sorted(run.rglob("*")) if p.is_file() and p.name != "artifact_index.json"})
-        print(f"结束状态={status}；报告={run / 'report.md'}", flush=True)
-    return exit_code
+        run_lock.close()
 
 
 if __name__ == "__main__":

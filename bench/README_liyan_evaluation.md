@@ -1,106 +1,128 @@
-# 李言老师（242）完整 ToMBench 评测
+# 李言老师242：并发ToMBench评测（v1.2.0）
 
-入口：`evaluate_liyan.py`。这是独立实现，未修改旧的 `bot_chat_client.py` 和试跑脚本。
-要求 Python 3.9+、requests；默认沿用现有客户端的凭证，也可通过 `LINGX_API_KEY`、`LINGX_API_SECRET`、`LINGX_BASE_URL` 覆盖。默认校验HTTPS证书。
+## 2026-11-11 新凭证与新智能体
 
-## 运行
+新凭证当前可访问 `1030 — 李言老师-bench测试`。通过 `--bot-id 1030 --bot-name 李言老师-bench测试` 切换目标；清理、历史核查、聊天、权限预检均使用同一目标ID，默认242仍保留以兼容旧调用。
+新凭证来自当前项目的bot_chat_client.py；不要使用下面旧242示例里的Lingx凭证模块。环境变量LINGX_API_KEY/SECRET若存在会优先覆盖模块。
 
 ```bash
-cd /home/wangaoyun/wangaoyun/Lingx/bench
+cd /home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt
 
-# 20题连通性/速度校准，每题一次
-python3 -u evaluate_liyan.py --limit 20 --repeats 1
+# 查询新凭证当前用户的可用智能体
+python3 bot_chat_client.py --list
 
-# 中文全部2860题，每题5次（默认设置），共14300次答题
-python3 -u evaluate_liyan.py
+# 新智能体小规模双语试跑：8题×2语言×3次=48次
+python3 -u bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --limit 8 --languages zh en --repeats 3 --workers 32 --credentials-module "$PWD/bot_chat_client.py"
 
-# 中文全量，每题一次，共2860次答题
-python3 -u evaluate_liyan.py --repeats 1
-
-# 仅准备全部输入和快照，不认证、不访问网络
-python3 evaluate_liyan.py --dry-run
-
-# 如负责人提供了版本名称，记录进manifest；脚本不会据此改变服务端配置
-python3 -u evaluate_liyan.py --model-version '实际底座版本' --harness-version '实际部署版本'
+# 新智能体双语全量：17160次，完整留档
+mkdir -p bench/run_logs
+nohup python3 -u bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --limit 0 --languages zh en --repeats 3 --workers 32 --interval 0 --summary-every 200 --max-attempts 2 --timeout 60 --credentials-module "$PWD/bot_chat_client.py" > "bench/run_logs/liyan1030_$(date +%Y%m%d_%H%M%S).log" 2>&1 &
 ```
 
-启动后会打印 `RUN_DIR`。默认输出到 `liyan_evaluations/<UTC时间>_<随机标识>/`。
-每次新运行使用一个新测试用户（认证接口会自动创建），避免清理原默认用户的历史。一次运行内，所有试次串行执行；每次尝试先调用 `clearContext`，再检查 `onlyLastSession=true` 的历史中没有旧的 `user/role` 消息，检查失败就不发送题目。不要让其他程序同时使用这次运行的用户。
-
-每题重复5次是为了打乱选项后投票，不是在同一会话里追问5遍。每次重试也重新清理。网络/平台错误最多尝试2次，无效答案不会因答得不好而重试；连续5个试次最终失败时停止继续请求并保留现场。`--max-attempts`、`--timeout`、`--interval` 可调整。
-
-默认直接答题，不启用CoT。`--cot` 可使用原仓库CoT模板，但耗时需重新校准。`--languages zh en` 可生成/评测双语；原始数据存在一处中英文选项数不一致，正式英文评测前应先核查 `data_audit.json`。
-
-## 中断与恢复
-
-Ctrl+C 后已完成试次保存不丢失。使用该次运行冻结的代码恢复，避免代码更新造成设置混用：
+项目当前分支main，origin为https://github.com/GitBlin/emohaa-eval.git。以下仅提交评测代码、测试和文档，避免把带明文凭证的bot_chat_client.py及大量本地输出一并提交：
 
 ```bash
-python3 -u /完整运行目录/snapshot/evaluate_liyan.py --resume /完整运行目录
-
-# 仅重建报告，不访问网络
-python3 /完整运行目录/snapshot/evaluate_liyan.py --report-only /完整运行目录
+git add bench/evaluate_liyan.py bench/test_evaluate_liyan.py bench/README_liyan_evaluation.md
+git diff --cached --stat
+git commit -m "Support configurable bot IDs and isolated bilingual concurrent evaluation"
+git push -u origin main
 ```
 
-恢复时使用 manifest 中冻结的语言、重复次数、用户、服务地址和其他参数；不会采用命令行上重新指定的评测参数。数据、计划和代码哈希不匹配时拒绝恢复。已经完成的试次（包括最终失败）不会再次发送；中断在途的试次会新建 attempt 目录，保留之前收到的部分响应。若需重测失败项，应另建独立运行并标记其用途，不能覆盖原始成绩。
+这里只提供推送命令，未实际commit/push。部署到另一台机器时应在当地配置API凭证，不要通过Git同步密钥。
 
-## 完整留档内容
+默认中英文各2860题，每题每语言3次，共17160个试次，32并发、interval=0、summary-every=200。这里的3轮对应每道题的repeat=0/1/2，任务可交错执行；不代表三个模型版本。
+每个试次使用独立用户（由运行标识和trial_id派生），每次尝试仍先清理上下文、核验无旧消息后再提问。每个线程独享Client/Session/Token。恢复时沿用原用户映射，跳过已有result.json；重试前再次清理。独立用户有助于减少跨题用户记忆污染，但不能证明服务端不存在机构级共享状态。
 
-| 文件/目录 | 保存内容 |
-|---|---|
-| `manifest.json` | 评测时间、242目标、模型/harness版本声明、语言、seed、重复次数、上下文策略、评分口径、运行命令、Python/requests版本、源文件和两份需求文档的SHA256 |
-| `snapshot/` | 当次评测代码、提示词代码和原始题集快照 |
-| `data_audit.json` | 两种语言的选项数量分布、标注规范化和中英文不一致项 |
-| `plan.json` | 每题原始内容、标准答案、选项映射、语言、重复编号、完整实际发送文本和请求参数 |
-| `sessions/` | 该测试用户的可用机器人列表和242详情原始响应 |
-| `trials/<试次>/attempt_<编号>/` | 每次清理、清理后验证、聊天、答题后历史查询的请求及HTTP状态、原始响应体、SSE事件、阶段与异常 |
-| `trials/<试次>/result.json` | 原始回复、答案提取、原选项映射、对错、耗时、来源和重试记录；每题原子落盘，是恢复依据 |
-| `responses.jsonl` | 全部已完成结果的方便导出版本 |
-| `question_votes.json` | 每题的投票分布和最终判定 |
-| `summary.json` | 总分、语言/题目文件/能力分项、有效回答率、格式率、错误数、完成度和耗时外推 |
-| `badcases.jsonl` | 所有答错、请求失败、无效或非严格格式的回复，附完整题目和证据路径 |
-| `review_queue.json` | 失败类别、待核查根因、下一步核查动作、待分配负责人和日期 |
-| `report.md` | 可读成绩报告、口径差异、限制、内部结论草稿及三条证据 |
-| `execution_log.jsonl` | 启动、恢复、完成、中断或致命错误日志 |
-| `artifact_index.json` | 本次所有留档文件的SHA256索引（自身除外） |
-
-结果逐题落盘，汇总默认每20次及结束时更新；如被强制终止，可用 `--report-only` 从结果重建。密钥、认证请求体、Token和Authorization值不写入结果目录。原始题目和回复完整保存在本地，不会自动上传榜单或公开失败样本。
-
-## 与 todo 文档的对应关系
-
-- “版本、日期、用例版本齐全”：manifest、源文件哈希、数据/代码快照。后台模型版本目前未提供，明确记录为 `unreported`；不能据此宣称模型版本已锁定。
-- “纯模型与模型+harness分别出成绩”：本程序只测李言老师242的线上形态，不将它称为纯Emohaa；尚不能计算harness增益。
-- “负向指标单列”：分别报告无效回答、接口失败、格式不遵循和审计失败；心理安全、幻觉记忆等指标需要另建任务，不能用这些接口指标代替。
-- “坏例定位并进入优化排期”：保存每个阶段的证据，自动生成初步类别和review_queue；根因、负责人和排期需人工确认，不凭一道错题编造归因。
-- “用例作为holdout”：题集仅用于评测；验证解析器使用模拟响应，不能拿评测题训练或按失败答案调提示词。
-- “一句话结论与三条支撑”：report生成内部草稿，附完成度、协议表现和分项/失败证据。正式对外使用前仍需确认版本和官方口径。
-- 四榜单任务中的**本次范围仅为ToMBench**。没有完成EmoBench、Psy-Arena、MentalHealthBench，也没有自动提交任何榜单。
-
-## 评分口径
-
-严格提取唯一 `[[A]]` 等答案标记；多种不同标记、裸字母、越界选项、空回复、接口错误不会猜成A。单次准确率以全部已完成试次为分母，失败计错，同时单列有效回答上的准确率。按题投票只纳入已完成指定重复次数的题，映射回原选项后取最高票；并列或没有有效票记错。每道题的有效票数和是否全部成功保留，避免把部分失败隐藏起来。
-
-这是对线上接口的适配协议：指令只能放在用户消息，温度等由服务端控制；二选一模板删除不存在的C/D选项；错误标注`A. `规范为A；不沿用原仓库默认猜A和并列取首个的评分行为。报告注明这些差异，不能直接宣称复现了论文同设置分数。清理当前会话也不能证明跨会话长期记忆被删除。
-
-## 已完成验证与预计时间
-
-2026-11-09 15:49（北京时间）执行了中文20题、每题1次真实校准：
-
-- 18/20答对，20/20有效且严格符合格式，0次请求失败，0次历史审计失败。
-- 每题清理和清理后核查均成功，回复来源均为 `agent:llm`；不据此推断底座模型名称。
-- 平均每次完整试次加0.2秒间隔为 **1.661秒**，中位1.646秒，P95约1.810秒。
-- 完整过程包括清理、清理后查询、答题、答题后查询和留档；全量每次约4个业务HTTP请求，重试会增加请求量。
-
-| 设置 | 答题次数 | 按校准速度外推 | 建议预留 |
-|---|---:|---:|---:|
-| 中文，每题1次 | 2,860 | 约1.32小时 | 1.5～2小时 |
-| 中文，每题5次（默认） | 14,300 | 约6.60小时 | 7～9小时 |
-| 中英双语，每题5次 | 28,600 | 若英文速度相同，约13.20小时 | 14～18小时，英文需另行校准 |
-
-以上是小样本线性外推，预留范围是运行安排建议，并非统计置信区间。长时间限流、服务负载、长回复、重试和CoT都会改变耗时；原始数据中的英文异常也需先核查。小样本90%不能当成全量成绩。
-
-真实校准目录：`liyan_evaluations/20261109T074955Z_145ead58/`（代码快照v1.0.0）。最终v1.0.1补充数据审计和报告交付项，聊天执行逻辑相同；全量双语28,600条输入已离线校验，未发送全量请求。最终代码通过8项离线回归测试，包括SSE二次编码/错误/截断、严格答案判定、清理失败阻断发送、重试保留证据、投票并列与断点恢复不重复发送。
+## 命令
 
 ```bash
+cd /home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench
+
+# 帮助：列出所有参数
+python3 evaluate_liyan.py --help
+
+# 查询有权限的旧凭证可用智能体
+python3 /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py --list
+
+# 离线准备全部17160个试次，不发请求
+python3 evaluate_liyan.py --dry-run --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
+
+# 小规模并发试跑：20题×2语言×3次=120次
+python3 -u evaluate_liyan.py --limit 20 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
+
+# 全量中英文：2860题×2语言×3次=17160次，32并发
+python3 -u evaluate_liyan.py --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
+
+# 后台全量：与上一条二选一，不要重复启动
+mkdir -p run_logs
+nohup python3 -u evaluate_liyan.py --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py > "run_logs/liyan_$(date +%Y%m%d_%H%M%S).log" 2>&1 &
+# shell会显示PID；日志首行RUN_DIR是完整结果目录
+
+# 查看后台日志（替换实际文件名）
+tail -f run_logs/实际日志文件.log
+
+# 优雅停止后台任务：停止派发，等待在途任务保存
+kill -TERM 实际PID
+
+# 恢复（替换实际RUN_DIR，必须用该运行的快照脚本）
+python3 -u /实际RUN_DIR/snapshot/evaluate_liyan.py --resume /实际RUN_DIR
+
+# 重建汇总报告，不联网；不能与同目录正在运行的任务同时执行
+python3 /实际RUN_DIR/snapshot/evaluate_liyan.py --report-only /实际RUN_DIR
+
+# 查看结果
+cat /实际RUN_DIR/report.md
+python3 -m json.tool /实际RUN_DIR/summary.json
+
+# 离线回归测试
 python3 test_evaluate_liyan.py
 ```
+
+命令显式选择旧凭证模块，因为当前新凭证没有242权限；不会覆盖bot_chat_client.py中的新凭证。LINGX_API_KEY/LINGX_API_SECRET环境变量若存在，会优先于模块；运行前需确认它们对应有权限的凭证。不要在命令或日志中粘贴密钥。全量会创建17160个试次用户（另有1个预检用户），应使用测试机构。已对8/16/32/64/128并发进行多轮双语测试；持续负载测试中32并发最快，具体记录见concurrency_checks/。这不保证未来负载下速度不变。
+
+## 参数完整说明
+
+| 参数 | 默认值 | 含义 |
+|---|---|---|
+| --limit | 0 | 0为全量2860题，正数为抽样题数 |
+| --repeats | 3 | 每题次数；每次独立打乱选项 |
+| --workers | 32 | 同时运行的试次上限 |
+| --languages | zh en | 可选zh、en或zh en；双语全量×3为17160次，英文有已记录数据异常，须先核对 |
+| --seed | 42 | 抽样和选项重排种子 |
+| --cot | 关闭 | 使用原数据仓库CoT模板，可能增加耗时 |
+| --interval | 0 | 每个worker完成试次后的间隔秒数，并非全局限速 |
+| --max-attempts | 2 | 每试次最多尝试次数，仅接口/协议失败重试；不因答错重试 |
+| --timeout | 60 | 网络读取超时秒数；连接超时10秒 |
+| --summary-every | 200 | 每完成200次刷新汇总；逐题结果立即保存 |
+| --max-consecutive-errors | 5 | 按完成顺序连续最终请求失败达到阈值，停止派发；在途任务等待保存 |
+| --credentials-module | ../bot_chat_client.py | 凭证来源，建议使用上方旧凭证绝对路径；环境变量优先 |
+| --base-url | LINGX_BASE_URL或https://www.ai-role.cn | 平台地址 |
+| --user-id | 自动生成 | 运行用户命名空间/预检用户；试次用户由它与trial_id派生；不要跨运行复用 |
+| --data-dir | bench/Tombench/data | 题库目录 |
+| --output-dir | bench/liyan_evaluations | 结果根目录 |
+| --model-version | unreported | 记录模型版本，不改变服务端模型 |
+| --harness-version | unreported | 记录封装版本，不改变服务端配置 |
+| --insecure | 关闭 | 显式关闭证书校验；正常运行不需要 |
+| --dry-run | 关闭 | 只准备输入、快照和报告 |
+| --resume | 无 | 恢复运行，使用manifest冻结参数；CLI workers等不会覆盖旧配置 |
+| --report-only | 无 | 从已有结果重建报告 |
+| --help | 无 | 输出帮助 |
+
+目标固定botId=242。温度、top_p、底层模型、服务端记忆开关没有公开可配置参数，不会伪造设置。
+
+## 结果与评分
+
+每次运行独立目录，保存完整输入、选项映射、响应、清理及历史审计、失败/重试、耗时、代码和数据快照。认证密钥/Token不保存。
+summary.json中的rounds_by_language分别列出中英文三轮成绩、均值和标准差，question_vote_accuracy_by_language给各语言投票准确率。by_repeat是合并语言的各轮成绩（键0/1/2），repeat_statistics给完整轮次的平均准确率和样本标准差；question_votes.json保存每题映射回原选项后的投票结果。失败与无效答案计错，并列投票不猜答案。重复测量可观察随机性与选项位置敏感性，不能消除数据偏差；三轮标准差不是置信区间。
+运行中responses.jsonl/summary.json每200次刷新，trials/*/result.json逐次落盘。停止派发后在途任务完成再汇总；恢复不会重发已有结果（包括已记录失败），未完成请求可能再次发送且会新建attempt目录。
+单个目录加进程锁，防止重复恢复互相覆盖。不同运行请使用默认自动生成的独立用户命名空间。
+
+## 双语数据异常
+
+Strange Story Task:293 的中文为赵阳是否说真话的二选一，英文故事仍是赵阳，但英文问题和四个选项变成了李华的另一道题，属于明显错配。脚本保留原题、全量执行并完整记录；summary.json的excluding_option_count_mismatches给两种语言同时排除此题的辅助成绩，不擅自修改题库或宣称全量成绩等价于官方论文成绩。
+
+## 验证与性能
+
+10项离线回归测试通过，覆盖并发用户隔离、三轮统计、双语分开汇总、异常题辅助统计、恢复、上下文阻断及SSE解析。双语全量17160个输入离线检查通过。
+性能测试原始记录：concurrency_checks/20261110T101518Z/results.json（短批次）和concurrency_checks/20261110T101720Z/results.json（每批384次持续测试）。每个配置重复2次，采用相同样本、选项映射和中英文比例；测试时max-attempts=1，避免重试掩盖失败。正式运行恢复默认2次以容忍暂时错误。
+只根据吞吐量和请求/协议/上下文可靠性选择并发，不根据holdout答题分数调参。短批次耗时不能保证全量耗时；速度外推需考虑长时间限流、磁盘留档和服务波动。

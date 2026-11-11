@@ -3,6 +3,8 @@ import json
 from pathlib import Path
 import random
 import tempfile
+import threading
+import time
 import unittest
 from unittest.mock import patch
 
@@ -100,6 +102,65 @@ class EvaluationTests(unittest.TestCase):
             self.assertEqual(s['question_vote_accuracy'], 0)
             self.assertEqual(s['trials']['accuracy'], .5)
 
+    def test_bilingual_rounds_and_flagged_subset(self):
+        cases = [{**self.case(), "trial_id": f"{lang}_{i}", "language": lang, "repeat": i}
+                 for lang in ("zh", "en") for i in range(3)]
+        rows = [{**c, **ev.score("[[A]]" if c["language"] == "zh" else "[[B]]", c),
+                 "reply": "", "attempts": [], "elapsed_seconds": 1} for c in cases]
+        manifest = {"repeats": 3, "interval": 0, "dataset_questions": 1,
+                    "model_version": "unknown", "harness_version": "unknown"}
+        with tempfile.TemporaryDirectory() as tmp:
+            run = Path(tmp)
+            ev.write_json(run/'data_audit.json', {"language_option_mismatches": [{"sample_id": "test:1"}]})
+            result = ev.summarize(run, manifest, cases, rows, "complete")
+            self.assertEqual(result['rounds_by_language']['zh']['mean_accuracy'], 1)
+            self.assertEqual(result['rounds_by_language']['en']['mean_accuracy'], 0)
+            self.assertEqual(result['rounds_by_language']['en']['complete_rounds'], 3)
+            self.assertEqual(result['excluding_option_count_mismatches']['by_language']['zh']['count'], 0)
+            self.assertEqual(result['trials']['count'], 6)
+
+    def test_parallel_users_and_round_accounting(self):
+        barrier = threading.Barrier(3)
+        lock = threading.Lock()
+        users = []
+        class MockClient:
+            def __init__(self, base, key, secret, uid, *args):
+                self.uid = uid
+                self.session = self
+            def close(self):
+                pass
+            def authenticate(self):
+                pass
+            def call(self, method, endpoint, directory, name, **kwargs):
+                if name == 'bots':
+                    return [{'id': 1030}]
+                if name == 'bot_detail':
+                    return {'id': 1030}
+                request = kwargs.get('payload') or kwargs.get('params')
+                if request is not None and request.get('botId') != 1030:
+                    raise AssertionError('all chat and context requests must target bot 1030')
+                if name == 'clear':
+                    return {'role': 'flush_context'}
+                if name.startswith('context'):
+                    return {'content': []}
+                with lock:
+                    users.append(self.uid)
+                barrier.wait(timeout=5)
+                return '[[A]]', {}
+        with tempfile.TemporaryDirectory() as tmp, patch.object(ev, 'Client', MockClient):
+            self.assertEqual(ev.main(['--bot-id', '1030', '--languages', 'zh', '--limit', '2', '--repeats', '3', '--workers', '3',
+                                      '--interval', '0', '--output-dir', tmp]), 0)
+            run = next(Path(tmp).iterdir())
+            self.assertEqual(len(users), 6)
+            self.assertEqual(len(set(users)), 6)
+            summary = ev.read_json(run/'summary.json')
+            self.assertEqual(summary['completed_trials'], 6)
+            self.assertEqual(summary['repeat_statistics']['complete_rounds'], 3)
+            self.assertTrue(all(m['count'] == 2 for m in summary['by_repeat'].values()))
+            users.clear()
+            self.assertEqual(ev.main(['--resume', str(run)]), 0)
+            self.assertEqual(users, [])
+
     def test_resume_sends_only_unfinished_trials(self):
         class MockClient:
             chat_calls = 0
@@ -125,7 +186,7 @@ class EvaluationTests(unittest.TestCase):
                 type(self).chat_calls += 1
                 return '[[A]]', {}
         with tempfile.TemporaryDirectory() as tmp, patch.object(ev, 'Client', MockClient), patch.object(ev.time, 'sleep'):
-            ev.main(['--dry-run', '--limit', '2', '--repeats', '1', '--output-dir', tmp])
+            ev.main(['--languages', 'zh', '--dry-run', '--limit', '2', '--repeats', '1', '--output-dir', tmp])
             run = next(Path(tmp).iterdir())
             manifest, cases = ev.read_json(run/'manifest.json'), ev.read_json(run/'plan.json')
             ev.trial(MockClient(), cases[0], run, manifest)
