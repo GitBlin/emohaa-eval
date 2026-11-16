@@ -1,0 +1,41 @@
+{
+  "id": "efb9124eebf84fcf9a3480d8b48fc84e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "意味着什么……我也说不准。就是很重要吧。对了，你们做咨询的，会不会把来访者说的这些事告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像没有评判我，还说不觉得奇怪……让我稍微放松了一点。不过她问这个人对我意味着什么，我其实不太想马上把心里那些话说出来。）\n（也许可以先含糊一点，试探一下她会不会追问太紧。毕竟我们才刚开始，我还不知道她能不能理解这种感受。）",
+        "reasoning": "（这个咨询师好像没有评判我，还说不觉得奇怪……让我稍微放松了一点。不过她问这个人对我意味着什么，我其实不太想马上把心里那些话说出来。）\n（也许可以先含糊一点，试探一下她会不会追问太紧。毕竟我们才刚开始，我还不知道她能不能理解这种感受。）"
+      }
+    }
+  ],
+  "created": 1794555585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1284,
+    "total_tokens": 1379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

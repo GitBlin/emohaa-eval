@@ -1,0 +1,41 @@
+{
+  "id": "40f8ca1b759e4441871e1910d00a6d70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）我……我不太知道从哪儿讲。就是家里有个人，状态不太稳定，老是让我心里悬着。可我要是说得太细，你会不会觉得……我家挺奇怪的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问家里的事，还说我习惯先顾别人……他好像看得很准。可我真的能说吗？万一说出来，他会不会觉得我家很奇怪，或者觉得我这个人有问题？）\n（而且我确实不知道从哪儿说起。那些事一团乱，每次一想就头疼。也许可以先含糊带过去，看看他什么反应，别一下子说得太深。）",
+        "reasoning": "（咨询师在问家里的事，还说我习惯先顾别人……他好像看得很准。可我真的能说吗？万一说出来，他会不会觉得我家很奇怪，或者觉得我这个人有问题？）\n（而且我确实不知道从哪儿说起。那些事一团乱，每次一想就头疼。也许可以先含糊带过去，看看他什么反应，别一下子说得太深。）"
+      }
+    }
+  ],
+  "created": 1794537965,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1298,
+    "total_tokens": 1420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f0e5d01be5d44384ae7a1155d0cbb79c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开头的话……我可能就说“我最近状态不太好，有些事想跟你们聊聊”。（想了想）这样说，会不会太严肃了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化行动，还提醒我可以先想好一句开头的话。这个提议挺实际的，但我脑子里一下子有点空，不知道该怎么说才不会显得太沉重。也许不用太正式，就像平时聊天那样带一句就好。）\n（可我又担心说出口之后气氛会变得奇怪，或者她们追问细节我应付不来。所以还是得给自己留点余地，先打个预防针，说最近状态不太好，别让她们觉得太突然。）",
+        "reasoning": "（咨询师在帮我具体化行动，还提醒我可以先想好一句开头的话。这个提议挺实际的，但我脑子里一下子有点空，不知道该怎么说才不会显得太沉重。也许不用太正式，就像平时聊天那样带一句就好。）\n（可我又担心说出口之后气氛会变得奇怪，或者她们追问细节我应付不来。所以还是得给自己留点余地，先打个预防针，说最近状态不太好，别让她们觉得太突然。）"
+      }
+    }
+  ],
+  "created": 1794557076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2700,
+    "total_tokens": 2826,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

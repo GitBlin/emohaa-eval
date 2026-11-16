@@ -1,0 +1,41 @@
+{
+  "id": "b3524bfe963744efa77ab86c18247b9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就说去交作业，或者说找老师问个题。反正……先编个普通的理由，别让人觉得奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师这么问，是担心我到了办公室不知道怎么开口吧。我确实怕说多了，或者说得不对，又惹麻烦。但我也不能什么都不说，那样老师可能更觉得我奇怪。）\n（我想了想，最保险的就是说去交作业或者问问题。这样听起来正常，也不会让人多问。先这样试试吧，反正我也不想一开始就把事情闹大。）",
+        "reasoning": "（老师这么问，是担心我到了办公室不知道怎么开口吧。我确实怕说多了，或者说得不对，又惹麻烦。但我也不能什么都不说，那样老师可能更觉得我奇怪。）\n（我想了想，最保险的就是说去交作业或者问问题。这样听起来正常，也不会让人多问。先这样试试吧，反正我也不想一开始就把事情闹大。）"
+      }
+    }
+  ],
+  "created": 1794541173,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2670,
+    "total_tokens": 2778,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

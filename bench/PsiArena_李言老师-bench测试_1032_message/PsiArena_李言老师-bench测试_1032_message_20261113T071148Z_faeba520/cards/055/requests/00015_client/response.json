@@ -1,0 +1,41 @@
+{
+  "id": "b140abc79780448eba98e0c1810b5ba9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像从小就有吧。我爸看我画的东西，从来不说好，就说“还有这个闲工夫”。慢慢地，我自己也学会了先骂自己，省得别人骂。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个声音是从什么时候开始的……我其实没仔细想过。但刚才顺着她的话说，好像确实从小就有了。我爸每次看我的画，那种眼神，还有他说的那些话，都在告诉我“你不行”。慢慢就变成我自己在心里说了。）\n（现在说出来，感觉有点怪，又有点轻松。至少她没像别人那样急着安慰我，说“别这么想”。她只是在听。）",
+        "reasoning": "（她问我这个声音是从什么时候开始的……我其实没仔细想过。但刚才顺着她的话说，好像确实从小就有了。我爸每次看我的画，那种眼神，还有他说的那些话，都在告诉我“你不行”。慢慢就变成我自己在心里说了。）\n（现在说出来，感觉有点怪，又有点轻松。至少她没像别人那样急着安慰我，说“别这么想”。她只是在听。）"
+      }
+    }
+  ],
+  "created": 1794556432,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2269,
+    "total_tokens": 2393,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

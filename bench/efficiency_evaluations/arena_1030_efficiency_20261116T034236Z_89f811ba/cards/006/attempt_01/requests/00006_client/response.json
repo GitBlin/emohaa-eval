@@ -1,0 +1,47 @@
+{
+  "id": "fd93b4b201b347a28dc46f4784910ae9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候会跟一整天，晚上回家还在。嗯……我能问一句吗，你问这些，是真觉得有用，还是就是走个流程？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师注意到我身体的感受，还问得这么细。这让我有点意外，也有点不习惯——平时没人会这么问。但胸口闷的感觉确实不是进门就散的，说出来好像也没什么。）\n（不过我还是有点拿不准，他会不会只是走个流程问问，其实并不真的在意？毕竟我连自己都说不清楚的事，他能懂吗。先如实说吧，看看他接下来怎么反应，这也能试试他到底靠不靠谱。）",
+        "reasoning": "（咨询师注意到我身体的感受，还问得这么细。这让我有点意外，也有点不习惯——平时没人会这么问。但胸口闷的感觉确实不是进门就散的，说出来好像也没什么。）\n（不过我还是有点拿不准，他会不会只是走个流程问问，其实并不真的在意？毕竟我连自己都说不清楚的事，他能懂吗。先如实说吧，看看他接下来怎么反应，这也能试试他到底靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1794800709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1461,
+    "total_tokens": 1590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

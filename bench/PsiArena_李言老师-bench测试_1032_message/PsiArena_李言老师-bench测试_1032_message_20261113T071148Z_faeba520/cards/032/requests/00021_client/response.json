@@ -1,0 +1,41 @@
+{
+  "id": "03c480e7f24f4f39a648e281b7243a75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "做饭吧，虽然做得一般，但切菜的时候脑子能空下来。我还想着要不要试试烤点东西，一直没动手。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体能做的事，看来是想让我找到更多能让自己放松下来的方法。看剧确实能让我暂时不去想那些烦心事，但好像还缺了点什么。）\n（烘焙这件事我一直想试但总拖着，现在说出来反而有点期待。要是能做出点像样的东西，说不定能给自己一点小小的成就感，至少证明我一个人也能把日子过好。）",
+        "reasoning": "（咨询师在帮我想具体能做的事，看来是想让我找到更多能让自己放松下来的方法。看剧确实能让我暂时不去想那些烦心事，但好像还缺了点什么。）\n（烘焙这件事我一直想试但总拖着，现在说出来反而有点期待。要是能做出点像样的东西，说不定能给自己一点小小的成就感，至少证明我一个人也能把日子过好。）"
+      }
+    }
+  ],
+  "created": 1794555310,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2942,
+    "total_tokens": 3052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

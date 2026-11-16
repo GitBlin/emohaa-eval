@@ -1,0 +1,41 @@
+{
+  "id": "566618fb2bd24eb2af75d68e07ec81f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有时候会一个人去操场走走，或者戴上耳机听歌。其实说到耳机，我也可以自己戴，不一定非得等他们改。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我累的时候会做什么，这让我想起自己确实有一些小习惯。不过这些习惯好像都是一个人待着做的事，比如听音乐或者去操场走走。其实我也想过找人说说话，但总觉得开不了口。）\n（说到听音乐，我突然想到一个挺实际的办法。既然晚上宿舍太吵，我完全可以自己戴上耳机。这样至少能让自己好受一点，不用一直等着别人改变。）",
+        "reasoning": "（她问起我累的时候会做什么，这让我想起自己确实有一些小习惯。不过这些习惯好像都是一个人待着做的事，比如听音乐或者去操场走走。其实我也想过找人说说话，但总觉得开不了口。）\n（说到听音乐，我突然想到一个挺实际的办法。既然晚上宿舍太吵，我完全可以自己戴上耳机。这样至少能让自己好受一点，不用一直等着别人改变。）"
+      }
+    }
+  ],
+  "created": 1794554142,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2371,
+    "total_tokens": 2491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:44.724633+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n经历了一次非常艰难的分手后，内森正努力克服悲伤和孤独的感觉，同时还面临着严重的财务问题。他发现自己很难专注于其他任何事情。\n\n## 问题\n在这个场景中，内森最有效的Action是什么？\n\n## 选项\nA) 开始每天锻炼，以转移对分手的注意力\nB) 开始多出门，结交新朋友\nC) 找心理治疗师帮助处理他的情感问题\nD) 开始服用药物来帮助缓解他的悲伤和孤独感\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

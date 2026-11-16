@@ -1,0 +1,41 @@
+{
+  "id": "e43cb12c785a42d09a2d1effbd2484f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听着像是被堵回去了，好像我不该有意见似的。可我又会想，是不是真像他们说的，是我太计较了……我从小就被教要顾家、要稳定。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我听到家里人劝我忍时是什么感觉……其实每次听他们这么说，我心里就特别堵。他们好像觉得只要忍一忍，什么问题都能过去，可他们根本不知道我有多难受。而且我从小就被教育要顾家、要稳定，现在想为自己做点什么，反而觉得自己很自私。）\n（但另一方面，我又忍不住怀疑是不是自己真的要求太多。爸妈那辈人不都是这么过来的吗？可我明明已经忍了很多次了，关系还是越来越冷。这种矛盾让我更不知道该怎么办了。）",
+        "reasoning": "（她问到我听到家里人劝我忍时是什么感觉……其实每次听他们这么说，我心里就特别堵。他们好像觉得只要忍一忍，什么问题都能过去，可他们根本不知道我有多难受。而且我从小就被教育要顾家、要稳定，现在想为自己做点什么，反而觉得自己很自私。）\n（但另一方面，我又忍不住怀疑是不是自己真的要求太多。爸妈那辈人不都是这么过来的吗？可我明明已经忍了很多次了，关系还是越来越冷。这种矛盾让我更不知道该怎么办了。）"
+      }
+    }
+  ],
+  "created": 1794552745,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1682,
+    "total_tokens": 1834,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "42c7b63a287a4cf7af59515969ef47ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点意外）换一句？我没想过还能换…可能希望它说“先别急着定自己的罪，先弄清楚是怎么回事”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望那个声音换成什么话……这问题让我有点愣住。以前从来没想过还能这样。那个声音一直就是“你不对”“你想想”，现在让我自己选一句，反而不知道该怎么选。）\n（不过她这么一问，我脑子里确实冒出来一个念头。也许可以试试不那么急着审判自己，先弄清楚到底是怎么回事。这跟我平时那种一上来就定罪的思路不太一样，但说出来好像也没那么难。）",
+        "reasoning": "（咨询师问我希望那个声音换成什么话……这问题让我有点愣住。以前从来没想过还能这样。那个声音一直就是“你不对”“你想想”，现在让我自己选一句，反而不知道该怎么选。）\n（不过她这么一问，我脑子里确实冒出来一个念头。也许可以试试不那么急着审判自己，先弄清楚到底是怎么回事。这跟我平时那种一上来就定罪的思路不太一样，但说出来好像也没那么难。）"
+      }
+    }
+  ],
+  "created": 1794539069,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2925,
+    "total_tokens": 3048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

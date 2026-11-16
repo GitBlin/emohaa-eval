@@ -1,0 +1,41 @@
+{
+  "id": "544718fc3ecf43429b78d93770fae35f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（放松了一点）今晚就先写完那几行字，然后早点睡，别再翻来覆去想了。至于下次……我想接着聊，行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我松口气之后想做什么。以前我大概会立刻列一堆计划，但现在好像没那么急了。今晚先把那几行字写完，然后早点睡，不再翻来覆去地想那些没做的事。）\n（说起来，今天聊下来确实比刚来的时候踏实些。那个打分的声音还在，但我知道它只是借住。我想跟咨询师说，下次还想接着聊，不是客套，是真的觉得有用。）",
+        "reasoning": "（咨询师问我松口气之后想做什么。以前我大概会立刻列一堆计划，但现在好像没那么急了。今晚先把那几行字写完，然后早点睡，不再翻来覆去地想那些没做的事。）\n（说起来，今天聊下来确实比刚来的时候踏实些。那个打分的声音还在，但我知道它只是借住。我想跟咨询师说，下次还想接着聊，不是客套，是真的觉得有用。）"
+      }
+    }
+  ],
+  "created": 1794537242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3674,
+    "total_tokens": 3800,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3cdd046ab3264b43b0c6095283474dad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……其实也没什么特别大的事，就是一些小事让我很烦。比如做那种心理测试，明明只是选个选项，我都能纠结很久。我也不知道为什么会这么在意这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说没有固定流程，让我从最想说的开始。这让我稍微放松了一点，但我不确定他是不是真的能理解我的问题。我最近确实因为那些测试很困扰，但直接说出来又觉得有点难为情。也许我可以先说得模糊一点，看看他的反应。）\n（我想到那些测试就烦，每次选完都后悔，但具体为什么这么纠结我也说不清楚。可能先简单提一下测试的事，不用说得太详细，毕竟我还不太了解这个咨询师会怎么看待我的问题。）",
+        "reasoning": "（咨询师说没有固定流程，让我从最想说的开始。这让我稍微放松了一点，但我不确定他是不是真的能理解我的问题。我最近确实因为那些测试很困扰，但直接说出来又觉得有点难为情。也许我可以先说得模糊一点，看看他的反应。）\n（我想到那些测试就烦，每次选完都后悔，但具体为什么这么纠结我也说不清楚。可能先简单提一下测试的事，不用说得太详细，毕竟我还不太了解这个咨询师会怎么看待我的问题。）"
+      }
+    }
+  ],
+  "created": 1794544865,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 959,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

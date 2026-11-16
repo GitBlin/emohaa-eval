@@ -1,0 +1,41 @@
+{
+  "id": "4ef4a82852784f8db8d8668154aaf822",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，就当固定的一句。想想还挺踏实的，好像退回来也有个落脚的地方，不至于一路往下掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这句话让我心里松了一下，好像终于有人告诉我，对自己好一点不是软弱。之前我总觉得骂自己才能长记性，可越骂越缩，反而不敢再开口了。）\n（把它当成固定的话，感觉像给自己准备了一个安全出口，不至于一次没做好就全盘否定。我想试试看，至少下次退回来的时候，先念这句话，而不是先怪自己。）",
+        "reasoning": "（这句话让我心里松了一下，好像终于有人告诉我，对自己好一点不是软弱。之前我总觉得骂自己才能长记性，可越骂越缩，反而不敢再开口了。）\n（把它当成固定的话，感觉像给自己准备了一个安全出口，不至于一次没做好就全盘否定。我想试试看，至少下次退回来的时候，先念这句话，而不是先怪自己。）"
+      }
+    }
+  ],
+  "created": 1794534712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3480,
+    "total_tokens": 3588,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

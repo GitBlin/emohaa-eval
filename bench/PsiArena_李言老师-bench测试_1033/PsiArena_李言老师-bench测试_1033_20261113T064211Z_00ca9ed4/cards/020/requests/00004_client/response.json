@@ -1,0 +1,41 @@
+{
+  "id": "e4ae8d66cc7e4e3da0311fea01a369b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心里那种吧……就是回到家也不想说话，什么都不想干。唉，可能跟家里那些事有点关系，但具体我也……算了，先不细说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我累是身体上的还是心理上的，这让我有点想回避。我不太想这么快就说到家里的具体事情，感觉还没准备好。也许我可以稍微带过一下，让她知道跟家里有关，但先不展开。）\n（不过我也想试探一下她会不会太急着深挖。毕竟我们才刚开始聊，我还不确定她是不是那种会一直追问、让我觉得有压力的人。先看她怎么回应吧。）",
+        "reasoning": "（咨询师在问我累是身体上的还是心理上的，这让我有点想回避。我不太想这么快就说到家里的具体事情，感觉还没准备好。也许我可以稍微带过一下，让她知道跟家里有关，但先不展开。）\n（不过我也想试探一下她会不会太急着深挖。毕竟我们才刚开始聊，我还不确定她是不是那种会一直追问、让我觉得有压力的人。先看她怎么回应吧。）"
+      }
+    }
+  ],
+  "created": 1794552943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1289,
+    "total_tokens": 1416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

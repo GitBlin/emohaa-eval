@@ -1,0 +1,41 @@
+{
+  "id": "7bf8c347360c4ada8552b24b366bd607",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……最近总觉得很累，说不上来哪里不对劲，工作也没什么劲。（低头）其实我也说不清楚自己到底怎么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用紧张，按我舒服的节奏来，还问我是什么让我想到来咨询。他看起来还算温和，但我不确定他是不是真的能理解我这种情况。毕竟第一次见面，我总不能一上来就把所有事都倒出来吧，那也太不安全了。）\n（而且我其实也说不清楚自己到底怎么了，就是觉得累，觉得没意思。也许可以先含糊地说一下最近的状态，看看他会怎么反应，再决定要不要往下讲。得留个心眼，不能一下子把底都交了。）",
+        "reasoning": "（咨询师说不用紧张，按我舒服的节奏来，还问我是什么让我想到来咨询。他看起来还算温和，但我不确定他是不是真的能理解我这种情况。毕竟第一次见面，我总不能一上来就把所有事都倒出来吧，那也太不安全了。）\n（而且我其实也说不清楚自己到底怎么了，就是觉得累，觉得没意思。也许可以先含糊地说一下最近的状态，看看他会怎么反应，再决定要不要往下讲。得留个心眼，不能一下子把底都交了。）"
+      }
+    }
+  ],
+  "created": 1794557627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1003,
+    "total_tokens": 1141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

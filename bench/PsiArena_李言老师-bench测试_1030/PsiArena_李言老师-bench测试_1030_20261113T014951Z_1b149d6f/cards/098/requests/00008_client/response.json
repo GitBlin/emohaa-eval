@@ -1,0 +1,41 @@
+{
+  "id": "500d6ef63b5c4621ba1880ccebd2e325",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "外面…挺吵的。我妈有时候在打电话，我爸回来就问作业写完没。厕所门一关，就安静了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像没有批评我，反而问我在厕所外面是什么样。他是不是想弄明白我为什么躲进去？家里确实挺吵的，妈妈总在打电话，爸爸回来就问我作业。我其实不想让他们失望，但一被问就烦，还不如躲起来。）\n（厕所门一关，好像整个世界都安静了。手机游戏里没人问我成绩，也没人催我。虽然我知道这样不好，可至少那半小时里，我不用想那些烦人的事。咨询师好像能理解这一点，也许我可以再多说一点。）",
+        "reasoning": "（这个咨询师好像没有批评我，反而问我在厕所外面是什么样。他是不是想弄明白我为什么躲进去？家里确实挺吵的，妈妈总在打电话，爸爸回来就问我作业。我其实不想让他们失望，但一被问就烦，还不如躲起来。）\n（厕所门一关，好像整个世界都安静了。手机游戏里没人问我成绩，也没人催我。虽然我知道这样不好，可至少那半小时里，我不用想那些烦人的事。咨询师好像能理解这一点，也许我可以再多说一点。）"
+      }
+    }
+  ],
+  "created": 1794540368,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1596,
+    "total_tokens": 1742,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

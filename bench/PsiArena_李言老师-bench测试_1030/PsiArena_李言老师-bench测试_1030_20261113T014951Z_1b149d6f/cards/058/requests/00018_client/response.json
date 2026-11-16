@@ -1,0 +1,41 @@
+{
+  "id": "bcd937c96f8548a4a52d615ed7423460",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）这句话……好像说得出口，比我想的短。就是怕问完气氛会僵，或者她觉得我太较真。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试着回一句具体的话，这比我想象中要简单，可我还是有点怕。万一我问了，对方真的不耐烦呢？不过她说得对，我总得从最小的开始，先不追求把整句问出口。）\n（我想到自己半夜翻来覆去，其实最难受的是那种悬着、不知道答案的感觉。也许问一句，哪怕问得笨拙，也比自己瞎猜强。可我还是会担心，这算不算太直接、太较真了。）",
+        "reasoning": "（她让我试着回一句具体的话，这比我想象中要简单，可我还是有点怕。万一我问了，对方真的不耐烦呢？不过她说得对，我总得从最小的开始，先不追求把整句问出口。）\n（我想到自己半夜翻来覆去，其实最难受的是那种悬着、不知道答案的感觉。也许问一句，哪怕问得笨拙，也比自己瞎猜强。可我还是会担心，这算不算太直接、太较真了。）"
+      }
+    }
+  ],
+  "created": 1794537467,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2953,
+    "total_tokens": 3090,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

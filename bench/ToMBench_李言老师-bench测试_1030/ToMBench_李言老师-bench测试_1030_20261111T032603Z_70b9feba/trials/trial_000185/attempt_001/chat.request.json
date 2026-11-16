@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:17.738948+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nJack, Nina, and Li Ming form a small team and are preparing for this semester's subject research project. One day, Jack sees Nina and Li Ming in a meeting. Jack does not go to disturb them, he just quietly observes at the door. Nina keeps waving to Li Ming to look at a document, but Li Ming focuses more on his own work. Jack notices that the atmosphere is a bit off. He is a bit worried.\n\n[Question]\nWhat does Jack prepare to do?\n\n[Candidate Answers]\nA. Quietly waits, communicates with them after the meeting ends.\nB. Interrupts Nina and Li Ming's meeting, stops their collaboration.\nC. Decides to join the meeting himself, to understand the ongoing discussion and ease the atmosphere.\nD. Takes the initiative to find other colleagues, chats to distract his attention.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

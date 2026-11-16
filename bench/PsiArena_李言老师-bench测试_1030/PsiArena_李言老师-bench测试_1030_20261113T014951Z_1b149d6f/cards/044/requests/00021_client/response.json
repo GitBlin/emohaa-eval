@@ -1,0 +1,41 @@
+{
+  "id": "0eaf80d714aa4f90b6ead799da4ba6c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……写“这不是你的错”会不会太肉麻了？还是简单点，就写“停一下，别急着怪自己”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算写什么，好像是在帮我把这件事具体化。可我一下子想不出来该写什么，脑子里冒出来的都是些太矫情或者太严肃的话，写出来被自己看到都觉得别扭。）\n（不过她说照顾自己不是承认有问题，这句话让我心里稍微松了一点。也许不用写得多深刻，就写一句能让自己停一下的话就行。）",
+        "reasoning": "（她问我打算写什么，好像是在帮我把这件事具体化。可我一下子想不出来该写什么，脑子里冒出来的都是些太矫情或者太严肃的话，写出来被自己看到都觉得别扭。）\n（不过她说照顾自己不是承认有问题，这句话让我心里稍微松了一点。也许不用写得多深刻，就写一句能让自己停一下的话就行。）"
+      }
+    }
+  ],
+  "created": 1794536810,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3025,
+    "total_tokens": 3133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "41cda33479a24b309f5fed6e1520a133",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先深呼吸一下，在心里重复那句“我又在着急了，这很正常”，给自己几秒钟。虽然不知道能不能每次都做到，但至少有个能抓住的东西。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体打算怎么提醒自己，看来是想帮我把这个想法落到实际。我确实需要一些能抓得住的提示，不然一紧张又容易忘。）\n（深呼吸好像是个自然的动作，能让我先停一下。在心里重复那句话，感觉比硬压着自己“别急”要温和些。也许这样能让我和那份着急拉开一点距离，不至于马上被它推着走。）",
+        "reasoning": "（她问我具体打算怎么提醒自己，看来是想帮我把这个想法落到实际。我确实需要一些能抓得住的提示，不然一紧张又容易忘。）\n（深呼吸好像是个自然的动作，能让我先停一下。在心里重复那句话，感觉比硬压着自己“别急”要温和些。也许这样能让我和那份着急拉开一点距离，不至于马上被它推着走。）"
+      }
+    }
+  ],
+  "created": 1794538547,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3234,
+    "total_tokens": 3355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

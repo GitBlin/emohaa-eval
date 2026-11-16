@@ -1,0 +1,41 @@
+{
+  "id": "32dc3366f7af402e8feafe19e7ef27e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像就是……提醒自己先别急，把话讲完。原来这样真的有用，我以前从来没注意过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我中间做了什么……其实我自己也有点意外。以前总觉得情绪一上来就控制不住，但刚才好像真的就是想着先把话说完，没让自己冲出去。）\n（可能我比自己以为的更能停下来，只是以前从没留意过。这件事让我有点想继续试试，看看能不能在别的时候也这样。）",
+        "reasoning": "（她问我中间做了什么……其实我自己也有点意外。以前总觉得情绪一上来就控制不住，但刚才好像真的就是想着先把话说完，没让自己冲出去。）\n（可能我比自己以为的更能停下来，只是以前从没留意过。这件事让我有点想继续试试，看看能不能在别的时候也这样。）"
+      }
+    }
+  ],
+  "created": 1794557196,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3274,
+    "total_tokens": 3368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

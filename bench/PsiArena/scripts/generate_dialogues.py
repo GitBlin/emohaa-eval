@@ -44,6 +44,8 @@ def main():
     out_dir = Path(args.output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     s = get_settings()
+    if args.start < 0 or args.end <= args.start or args.end > 100:
+        sys.exit("Invalid card range; require 0 <= start < end <= 100")
     print(f"mode={args.mode} | counselor={s.counselor_model} | client={s.client_model} "
           f"| cards [{args.start}, {args.end})")
 
@@ -61,7 +63,9 @@ def main():
                 continue
             feedback = Feedback(*summarize_feedback(scores_path.read_text(encoding="utf-8")))
 
-        dialogue = generate_dialogue(card, args.mode, feedback=feedback)
+        import uuid
+        dialogue = generate_dialogue(card, args.mode, feedback=feedback,
+                                     output_dir=out_dir / 'cards' / f'{card:03d}_{uuid.uuid4().hex[:8]}')
         out_path.write_text("\n".join(dialogue) + "\n", encoding="utf-8")
         print(f"[{card}] saved dialogue ({len(dialogue)} lines)")
 

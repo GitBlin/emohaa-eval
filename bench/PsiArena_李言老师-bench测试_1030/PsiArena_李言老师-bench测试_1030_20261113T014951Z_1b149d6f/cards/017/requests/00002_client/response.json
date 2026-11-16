@@ -1,0 +1,41 @@
+{
+  "id": "8b21bc807c9a4ff4beed7594ad2a2690",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他说我最近状态不太对……（停顿）其实我自己也说不太清楚，就是总觉得心里堵得慌，可要说具体因为什么，我又讲不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释咨询方式，还问起丈夫的担心...他确实挺温和的，没有一上来就追问我的问题。但提到丈夫让我有点不自在，我不想这么快就谈家里的事。也许可以先模糊地回应一下，看看他会不会继续追问。）\n（这种咨询真的能帮到我吗？我连自己都说不清楚到底哪里难受。不过既然来了，至少先试探一下他的态度吧。说“说不清楚”应该比较安全，既不会暴露太多，也能看看他接下来会怎么引导。）",
+        "reasoning": "（咨询师在解释咨询方式，还问起丈夫的担心...他确实挺温和的，没有一上来就追问我的问题。但提到丈夫让我有点不自在，我不想这么快就谈家里的事。也许可以先模糊地回应一下，看看他会不会继续追问。）\n（这种咨询真的能帮到我吗？我连自己都说不清楚到底哪里难受。不过既然来了，至少先试探一下他的态度吧。说“说不清楚”应该比较安全，既不会暴露太多，也能看看他接下来会怎么引导。）"
+      }
+    }
+  ],
+  "created": 1794535469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 976,
+    "total_tokens": 1122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

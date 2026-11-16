@@ -1,0 +1,41 @@
+{
+  "id": "7ba3f7ed480e44cc9fd884e0cb85f9a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她觉得，妈妈是爱她的，不是只盯着她的错。……可我说这话有点脸红，我平时做的好像不是这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望女儿心里觉得妈妈怎么看她，这个问题让我心里一紧。我想让女儿知道我是爱她的，可话到嘴边又觉得空，因为我自己都做不太到。）\n（我平时那些急起来的语气，女儿感受到的肯定不是“妈妈爱我”。这个念头让我有点无地自容，但也让我更清楚自己该改什么了。）",
+        "reasoning": "（她问我希望女儿心里觉得妈妈怎么看她，这个问题让我心里一紧。我想让女儿知道我是爱她的，可话到嘴边又觉得空，因为我自己都做不太到。）\n（我平时那些急起来的语气，女儿感受到的肯定不是“妈妈爱我”。这个念头让我有点无地自容，但也让我更清楚自己该改什么了。）"
+      }
+    }
+  ],
+  "created": 1794553306,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2447,
+    "total_tokens": 2553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

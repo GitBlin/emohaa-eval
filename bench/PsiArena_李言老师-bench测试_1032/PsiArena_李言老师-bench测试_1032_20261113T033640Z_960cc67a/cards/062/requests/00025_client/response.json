@@ -1,0 +1,41 @@
+{
+  "id": "414f2d1d194940b8b678fc093f550dcd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先发个消息吧，当面说我怕自己一紧张就说不清楚。发完看看他什么反应，再决定后面怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把模糊的念头变成具体行动，问我是当面说还是发消息。这让我有点紧张，但确实比一直拖着强。）\n（我平时就不太会跟领导打交道，当面说怕自己结巴，发消息又怕显得不正式。不过先发个消息也许能让我把话想清楚，也不至于一开口就被堵回来。）",
+        "reasoning": "（咨询师在帮我把模糊的念头变成具体行动，问我是当面说还是发消息。这让我有点紧张，但确实比一直拖着强。）\n（我平时就不太会跟领导打交道，当面说怕自己结巴，发消息又怕显得不正式。不过先发个消息也许能让我把话想清楚，也不至于一开口就被堵回来。）"
+      }
+    }
+  ],
+  "created": 1794544321,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3271,
+    "total_tokens": 3381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

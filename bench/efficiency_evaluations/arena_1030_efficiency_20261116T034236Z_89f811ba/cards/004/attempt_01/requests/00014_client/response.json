@@ -1,0 +1,47 @@
+{
+  "id": "0acdf270414643c4b3ad17787291a17e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我们班主任有时候会问我怎么总是一个人。但我没敢说，怕她告诉了别人，事情反而更大。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身边有没有稍微能依靠的人。我想了想，村里确实没什么人，爸妈又远。不过班主任好像留意过我几次，虽然我没敢说，但她问过我怎么总一个人。这算不算一点点接近？可我又怕说出来，她会觉得我小题大做，或者去告诉那些同学，反而更麻烦。）\n（这种犹豫让我不太敢直接肯定。也许可以先提一下老师，但得说清楚我还没想好要不要信她。毕竟之前没人真的帮过我，万一她只是随便问问呢。）",
+        "reasoning": "（咨询师在问我身边有没有稍微能依靠的人。我想了想，村里确实没什么人，爸妈又远。不过班主任好像留意过我几次，虽然我没敢说，但她问过我怎么总一个人。这算不算一点点接近？可我又怕说出来，她会觉得我小题大做，或者去告诉那些同学，反而更麻烦。）\n（这种犹豫让我不太敢直接肯定。也许可以先提一下老师，但得说清楚我还没想好要不要信她。毕竟之前没人真的帮过我，万一她只是随便问问呢。）"
+      }
+    }
+  ],
+  "created": 1794800746,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2225,
+    "total_tokens": 2365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2048,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

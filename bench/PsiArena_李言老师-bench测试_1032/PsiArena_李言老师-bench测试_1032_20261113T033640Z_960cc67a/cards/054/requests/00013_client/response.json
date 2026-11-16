@@ -1,0 +1,41 @@
+{
+  "id": "98eccb005037421ebd105d5534e2e38b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是下雨天我们仨在厨房做饼干吧，她那时候还小，笑得特别开心。想到这儿我有点难受，好像那样的日子已经离我很远了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想让她记住哪一幕……我脑子里突然冒出那个雨天，我们仨挤在厨房做饼干的画面。那时候女儿还没上学，儿子还在我肚子里，好像一切都还没那么难。）\n（可这个念头一出来，我就觉得心酸——那都多久以前的事了。现在每天光是催她起床就耗光了我所有力气，哪还有心思做饼干。我是不是把日子过反了，越活越倒退。）",
+        "reasoning": "（她问我想让她记住哪一幕……我脑子里突然冒出那个雨天，我们仨挤在厨房做饼干的画面。那时候女儿还没上学，儿子还在我肚子里，好像一切都还没那么难。）\n（可这个念头一出来，我就觉得心酸——那都多久以前的事了。现在每天光是催她起床就耗光了我所有力气，哪还有心思做饼干。我是不是把日子过反了，越活越倒退。）"
+      }
+    }
+  ],
+  "created": 1794543844,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2129,
+    "total_tokens": 2259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

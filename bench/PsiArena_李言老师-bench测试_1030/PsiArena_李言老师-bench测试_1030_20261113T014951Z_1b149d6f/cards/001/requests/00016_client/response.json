@@ -1,0 +1,41 @@
+{
+  "id": "bd2d5a7b14714e45a26fc5831c3f7338",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了很久）好像……没有。（顿了顿）不对，可能有。一个人戴着耳机走路的时候，什么都不用想，那会儿好像还行。不过那算吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有哪一刻，我只是我，也还行。这个问题让我有点发愣，好像从来没人这么问过。我得认真想一想，不能糊弄过去。）\n（回想起来，好像真的只有一个人待着的时候，才不用去比较，也不用担心别人怎么看。那种时候心里是松的，可又觉得这样是不是在逃避。说出来有点不好意思，但确实是这么回事。）",
+        "reasoning": "（她问有没有哪一刻，我只是我，也还行。这个问题让我有点发愣，好像从来没人这么问过。我得认真想一想，不能糊弄过去。）\n（回想起来，好像真的只有一个人待着的时候，才不用去比较，也不用担心别人怎么看。那种时候心里是松的，可又觉得这样是不是在逃避。说出来有点不好意思，但确实是这么回事。）"
+      }
+    }
+  ],
+  "created": 1794534668,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2668,
+    "total_tokens": 2785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

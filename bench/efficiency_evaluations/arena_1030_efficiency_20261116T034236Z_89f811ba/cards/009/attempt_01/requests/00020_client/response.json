@@ -1,0 +1,47 @@
+{
+  "id": "b1a2422c301e4e8b80e10e163db4d971",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……楼上那个邻居吧，她偶尔让我帮她拿个快递。其实不麻烦，但有时候我正忙，又不好意思说。跟她练，好像没那么大压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身边有没有拒绝起来不太有负担的人，这让我想到楼上那位邻居。她平时找我帮忙拿快递、看东西，我其实不讨厌她，只是有时候确实累。跟她练习的话，应该不会像同事那样让我紧张，因为她不会总盯着我看。）\n（不过我又有点犹豫，怕自己连这种小事都做不好。但转念一想，正因为是小事，才更适合开始。我可以先试试说“这次不行”，看看自己能不能不马上改口。）",
+        "reasoning": "（她问我身边有没有拒绝起来不太有负担的人，这让我想到楼上那位邻居。她平时找我帮忙拿快递、看东西，我其实不讨厌她，只是有时候确实累。跟她练习的话，应该不会像同事那样让我紧张，因为她不会总盯着我看。）\n（不过我又有点犹豫，怕自己连这种小事都做不好。但转念一想，正因为是小事，才更适合开始。我可以先试试说“这次不行”，看看自己能不能不马上改口。）"
+      }
+    }
+  ],
+  "created": 1794800968,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3001,
+    "total_tokens": 3143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

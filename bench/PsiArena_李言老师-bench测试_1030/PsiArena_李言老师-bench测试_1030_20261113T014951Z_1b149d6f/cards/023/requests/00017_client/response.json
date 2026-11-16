@@ -1,0 +1,41 @@
+{
+  "id": "b8313ff594e145609b9f2918fbebce6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧，就刚工作那会儿，我一个人把一个大项目接下来，客户还夸我。那时候觉得，哎，我还挺有本事的。现在想想，都有点不像我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我那几年有没有哪件小事让我觉得“我还挺行”。我脑子里第一个冒出来的就是那个项目，一个人扛下来，客户还夸我。那时候确实觉得自己有点本事，不像现在。）\n（可这话一出口，又觉得有点心酸。那时候的我，怎么就被家里这些事一点点磨成这样了。不过至少我想起来了，不是完全没影的事。）",
+        "reasoning": "（他问我那几年有没有哪件小事让我觉得“我还挺行”。我脑子里第一个冒出来的就是那个项目，一个人扛下来，客户还夸我。那时候确实觉得自己有点本事，不像现在。）\n（可这话一出口，又觉得有点心酸。那时候的我，怎么就被家里这些事一点点磨成这样了。不过至少我想起来了，不是完全没影的事。）"
+      }
+    }
+  ],
+  "created": 1794535734,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2793,
+    "total_tokens": 2913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

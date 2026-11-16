@@ -1,0 +1,41 @@
+{
+  "id": "c92d1b7b82404c9cab4b837b2f00c038",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我觉得她可能更愿意先听我说理解她……不过我也不太确定，她脾气有时候挺急的。先把话头放软一点，应该稳妥些吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问婆婆更愿意先听理解还是先捋分工，可我心里其实没底。婆婆的脾气我摸不准，有时候她愿意听好话，有时候又急着要个说法。我要是猜错了，话头又得僵住。）\n（不过，先让她知道我不是在指责她，这总归稳妥些。分工的事可以慢慢来，但话说岔了，又得冷战好几天。我不能再像上次那样把话咽回去了。）",
+        "reasoning": "（她问婆婆更愿意先听理解还是先捋分工，可我心里其实没底。婆婆的脾气我摸不准，有时候她愿意听好话，有时候又急着要个说法。我要是猜错了，话头又得僵住。）\n（不过，先让她知道我不是在指责她，这总归稳妥些。分工的事可以慢慢来，但话说岔了，又得冷战好几天。我不能再像上次那样把话咽回去了。）"
+      }
+    }
+  ],
+  "created": 1794551489,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2915,
+    "total_tokens": 3049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "35fe0500e8ee42f38d27a7cd975d8f5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说“我在认真做，不是混日子”。可那会儿话到嘴边又咽下去了，怕场面更难看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话点到了我当时的感受，被代替回答确实很难受。她问我最想补充哪一句，我脑子里立刻冒出那句“我在认真做，不是混日子”。可说完又有点不确定，这种话在亲戚面前说出来，会不会让场面更难看。我其实还是怕冲突，怕我妈当场变脸。）\n（不过，现在坐在这里说这些，好像比之前清楚了一点。我想要的不是跟她吵架，而是至少别每次都替我把话说死。也许我可以试着先从小事上不让她替我回答，不用一下子闹大。）",
+        "reasoning": "（咨询师这句话点到了我当时的感受，被代替回答确实很难受。她问我最想补充哪一句，我脑子里立刻冒出那句“我在认真做，不是混日子”。可说完又有点不确定，这种话在亲戚面前说出来，会不会让场面更难看。我其实还是怕冲突，怕我妈当场变脸。）\n（不过，现在坐在这里说这些，好像比之前清楚了一点。我想要的不是跟她吵架，而是至少别每次都替我把话说死。也许我可以试着先从小事上不让她替我回答，不用一下子闹大。）"
+      }
+    }
+  ],
+  "created": 1794542644,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 3070,
+    "total_tokens": 3215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

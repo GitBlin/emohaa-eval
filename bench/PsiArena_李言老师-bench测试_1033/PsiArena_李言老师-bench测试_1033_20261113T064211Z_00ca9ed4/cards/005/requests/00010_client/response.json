@@ -1,0 +1,41 @@
+{
+  "id": "2abcb4b022ed4c66ad57d546cc644f67",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……有过一次，小学考了第一名，我妈说了句“不错”。但紧接着又说别骄傲。就那一下，我都记到现在，是不是有点可笑？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起小时候有没有等到过，这让我想起一些事。好像确实有过那么一次，但说出来会不会显得太计较了？不过既然她问了，也许可以试着提一下。）\n（那种感觉很奇怪，明明被夸了，心里却空落落的。可能因为那句话后面总跟着别的东西，让我觉得夸奖不是纯粹的。现在想想，也许我一直在等的不是夸奖本身，而是那种不带条件的认可。）",
+        "reasoning": "（她问起小时候有没有等到过，这让我想起一些事。好像确实有过那么一次，但说出来会不会显得太计较了？不过既然她问了，也许可以试着提一下。）\n（那种感觉很奇怪，明明被夸了，心里却空落落的。可能因为那句话后面总跟着别的东西，让我觉得夸奖不是纯粹的。现在想想，也许我一直在等的不是夸奖本身，而是那种不带条件的认可。）"
+      }
+    }
+  ],
+  "created": 1794552330,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1840,
+    "total_tokens": 1964,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

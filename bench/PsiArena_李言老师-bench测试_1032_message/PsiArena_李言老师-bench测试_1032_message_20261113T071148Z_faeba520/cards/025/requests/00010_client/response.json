@@ -1,0 +1,41 @@
+{
+  "id": "c0bf0b3b14584986be48f5ce22b5837b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……不知道。我好像一直在两边拉扯。工作上也是，总觉得自己不够拼，可回到家又觉得亏欠孩子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我自己更想听哪一句……我其实一直不敢细想这个。我妈说的独立，我做不到；她做的牺牲，我又不甘心。两边都让我累。）\n（工作那边又总在催我，好像我永远不够快。家里的事已经够乱了，我到底该顾哪头。）",
+        "reasoning": "（她问我自己更想听哪一句……我其实一直不敢细想这个。我妈说的独立，我做不到；她做的牺牲，我又不甘心。两边都让我累。）\n（工作那边又总在催我，好像我永远不够快。家里的事已经够乱了，我到底该顾哪头。）"
+      }
+    }
+  ],
+  "created": 1794555031,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1854,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

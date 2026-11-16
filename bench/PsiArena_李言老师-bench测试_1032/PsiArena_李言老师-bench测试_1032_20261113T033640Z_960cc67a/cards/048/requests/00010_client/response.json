@@ -1,0 +1,41 @@
+{
+  "id": "b3a109833a1f46cc8a535a56afc84f3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在家里最明显，尤其我妈叹气的时候，她也不骂我，就是那种表情……我一下就觉得自己哪里又做错了。工作上整理东西、交接东西的时候也有点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候最明显……我一下子想到家里。我妈总是一边收拾一边叹气，也不说重话，可我就是知道她在不满意。那种感觉比被骂还难受。）\n（工作上也是，整理桌面、交接东西，我总怕别人觉得我不仔细。其实我明明已经检查好几遍了，可还是会回头再看。这大概就是那种“又来了”的感觉吧。）",
+        "reasoning": "（她问我什么时候最明显……我一下子想到家里。我妈总是一边收拾一边叹气，也不说重话，可我就是知道她在不满意。那种感觉比被骂还难受。）\n（工作上也是，整理桌面、交接东西，我总怕别人觉得我不仔细。其实我明明已经检查好几遍了，可还是会回头再看。这大概就是那种“又来了”的感觉吧。）"
+      }
+    }
+  ],
+  "created": 1794550713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1768,
+    "total_tokens": 1887,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

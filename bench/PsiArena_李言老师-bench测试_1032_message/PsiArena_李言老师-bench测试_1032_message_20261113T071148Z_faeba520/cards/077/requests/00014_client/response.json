@@ -1,0 +1,41 @@
+{
+  "id": "1a3d3632c5ef4239b65e784eb4b444db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……我有点看不起她。觉得她太脆弱了，一点事就垮。可有时候又觉得她挺可怜的。我也搞不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我怎么看那个“扛不住”的自己，这让我有点难受。她好像看穿了我一直在用别人的标准要求自己。其实我心里对那个脆弱的自己是很嫌弃的，觉得她丢人，可又忍不住心疼她。）\n（这种矛盾让我想到父母总是强调责任感，好像我稍微松懈就是错的。我是不是把他们的期待内化成了对自己的苛责？但说出来会不会显得我很软弱？还是先承认这种矛盾的感觉吧。）",
+        "reasoning": "（咨询师问到我怎么看那个“扛不住”的自己，这让我有点难受。她好像看穿了我一直在用别人的标准要求自己。其实我心里对那个脆弱的自己是很嫌弃的，觉得她丢人，可又忍不住心疼她。）\n（这种矛盾让我想到父母总是强调责任感，好像我稍微松懈就是错的。我是不是把他们的期待内化成了对自己的苛责？但说出来会不会显得我很软弱？还是先承认这种矛盾的感觉吧。）"
+      }
+    }
+  ],
+  "created": 1794559387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2240,
+    "total_tokens": 2368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

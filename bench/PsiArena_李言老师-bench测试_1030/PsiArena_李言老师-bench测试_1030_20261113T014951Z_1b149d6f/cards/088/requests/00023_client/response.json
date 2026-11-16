@@ -1,0 +1,41 @@
+{
+  "id": "40de960518fd4012bb5dfb817935e48f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望有人能听我说完吧……别急着说“这不算什么”。哪怕就听一会儿，不评价我，也行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是“我的难受希望被怎么对待”，这让我有点不知道该怎么回答。我从来没想过这个问题，因为平时难受的时候，要么被自己压下去，要么就被别人一句话带过去。现在被这么认真地问，我反而有点慌，又有点说不清的期待。）\n（我想说希望有人能听我说，但马上又觉得这个要求是不是太高了。万一我说出来，对方又觉得我矫情怎么办。可如果不说，心里又确实憋着。也许可以试着讲得简单一点，就说希望有人听，别急着评价我，这样应该不算太过分吧。）",
+        "reasoning": "（咨询师问的是“我的难受希望被怎么对待”，这让我有点不知道该怎么回答。我从来没想过这个问题，因为平时难受的时候，要么被自己压下去，要么就被别人一句话带过去。现在被这么认真地问，我反而有点慌，又有点说不清的期待。）\n（我想说希望有人能听我说，但马上又觉得这个要求是不是太高了。万一我说出来，对方又觉得我矫情怎么办。可如果不说，心里又确实憋着。也许可以试着讲得简单一点，就说希望有人听，别急着评价我，这样应该不算太过分吧。）"
+      }
+    }
+  ],
+  "created": 1794539683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 3316,
+    "total_tokens": 3471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

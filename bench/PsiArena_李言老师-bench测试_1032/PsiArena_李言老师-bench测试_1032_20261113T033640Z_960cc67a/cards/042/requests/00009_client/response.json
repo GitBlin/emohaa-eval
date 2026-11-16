@@ -1,0 +1,41 @@
+{
+  "id": "df2163a853d949eb93c8db9b088d4ffc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在公司吧，我基本不吭声，客户说什么都得应着。回了家反而绷不住，尤其我爸在的时候……他总觉得男人就该扛着，不能喊累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我白天憋情绪的场景，这让我想到公司里那些没完没了的事。我确实很少跟人争，但家里不一样，尤其是我爸那套老观念。）\n（我从小就被教育男人要扛住，不能示弱，这种话听多了，连自己都觉得说出来没意思。可越是压着，晚上越容易爆，这道理我现在才有点明白。）",
+        "reasoning": "（咨询师在问我白天憋情绪的场景，这让我想到公司里那些没完没了的事。我确实很少跟人争，但家里不一样，尤其是我爸那套老观念。）\n（我从小就被教育男人要扛住，不能示弱，这种话听多了，连自己都觉得说出来没意思。可越是压着，晚上越容易爆，这道理我现在才有点明白。）"
+      }
+    }
+  ],
+  "created": 1794543174,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1773,
+    "total_tokens": 1895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

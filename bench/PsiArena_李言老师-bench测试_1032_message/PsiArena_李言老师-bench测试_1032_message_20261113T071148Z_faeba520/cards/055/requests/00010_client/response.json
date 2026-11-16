@@ -1,0 +1,41 @@
+{
+  "id": "ba9eb21dc19f4455872def2e9267959b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "因为在那个家里，光“烦”没用啊。烦完了还是得听话，还是得考好。小时候我说想画画，我爸直接说那有什么用……从那以后我就知道，我的想法没那么重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像注意到了我总在自我否定...其实我也说不清为什么，可能从小就这样吧。在家里，表达不满好像是不被允许的，最后都会变成我不够好。）\n（想到小时候画画被说没用，那种感觉又上来了。明明美术是我唯一还有点自信的事，可连这个都被否定了，好像我做什么都不对。）",
+        "reasoning": "（她好像注意到了我总在自我否定...其实我也说不清为什么，可能从小就这样吧。在家里，表达不满好像是不被允许的，最后都会变成我不够好。）\n（想到小时候画画被说没用，那种感觉又上来了。明明美术是我唯一还有点自信的事，可连这个都被否定了，好像我做什么都不对。）"
+      }
+    }
+  ],
+  "created": 1794556407,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1764,
+    "total_tokens": 1882,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

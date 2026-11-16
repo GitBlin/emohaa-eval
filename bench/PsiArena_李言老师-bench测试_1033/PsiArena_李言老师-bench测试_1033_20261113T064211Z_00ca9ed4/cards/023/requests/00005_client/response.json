@@ -1,0 +1,41 @@
+{
+  "id": "d6ce4a239dc448458678f22c1c6b6d73",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……行吧。其实我也知道这样问不太合适，就是随口一问。至于难受嘛，就是心里堵得慌，什么都不想干，也说不上来具体为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他拒绝加微信，我心里有点堵，但又觉得他这样直接说清楚反而让我踏实。以前别人要么敷衍我，要么答应了又做不到。他至少没绕弯子。）\n（我其实也说不清那个“特别难受”是什么，就是整个人往下沉，什么都不想干。可这些说出来又觉得矫情，还是先停一下吧。）",
+        "reasoning": "（他拒绝加微信，我心里有点堵，但又觉得他这样直接说清楚反而让我踏实。以前别人要么敷衍我，要么答应了又做不到。他至少没绕弯子。）\n（我其实也说不清那个“特别难受”是什么，就是整个人往下沉，什么都不想干。可这些说出来又觉得矫情，还是先停一下吧。）"
+      }
+    }
+  ],
+  "created": 1794553103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1352,
+    "total_tokens": 1465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

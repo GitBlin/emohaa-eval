@@ -1,0 +1,41 @@
+{
+  "id": "7b1825a748494fa1b8ac16eca30b238b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "朋友……有的吧。只是最近感觉跟她们没那么近了。我也不知道是不是我自己想多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身边有没有能说话的人……这个问题让我有点难受。我本来以为可以随时找她聊的，但她好像把界限划得很清楚，只能在咨询时间里见面。这让我有点失落，也让我想起朋友的事。）\n（不过她提到可以把感受记下来，这倒是个办法。但说到能说话的人……我想到朋友，可她现在跟别人走得更近了。这种感觉很复杂，我不知道该怎么表达，可能说出来会显得我很小气吧。）",
+        "reasoning": "（咨询师在问我身边有没有能说话的人……这个问题让我有点难受。我本来以为可以随时找她聊的，但她好像把界限划得很清楚，只能在咨询时间里见面。这让我有点失落，也让我想起朋友的事。）\n（不过她提到可以把感受记下来，这倒是个办法。但说到能说话的人……我想到朋友，可她现在跟别人走得更近了。这种感觉很复杂，我不知道该怎么表达，可能说出来会显得我很小气吧。）"
+      }
+    }
+  ],
+  "created": 1794553923,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1183,
+    "total_tokens": 1303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

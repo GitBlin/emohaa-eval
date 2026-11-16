@@ -1,0 +1,47 @@
+{
+  "id": "0ca6e7f2d95146b18dacb08d6d63ffd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天……她有时候课间会叫我。要不就明天，趁她单独叫我的时候说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问什么时候说，我有点慌。想到明天就要去学校，心里又害怕又觉得不能再拖。她好像真的会帮我，可我还是怕说错话。）\n（要不就明天？趁她单独叫我的时候说，人少，我可能没那么紧张。太晚说又怕自己反悔。）",
+        "reasoning": "（老师问什么时候说，我有点慌。想到明天就要去学校，心里又害怕又觉得不能再拖。她好像真的会帮我，可我还是怕说错话。）\n（要不就明天？趁她单独叫我的时候说，人少，我可能没那么紧张。太晚说又怕自己反悔。）"
+      }
+    }
+  ],
+  "created": 1794800776,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2846,
+    "total_tokens": 2936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2560,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

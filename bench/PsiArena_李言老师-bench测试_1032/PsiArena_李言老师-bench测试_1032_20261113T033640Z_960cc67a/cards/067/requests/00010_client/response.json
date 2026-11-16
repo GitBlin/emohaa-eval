@@ -1,0 +1,41 @@
+{
+  "id": "20f265a56ab145ad9a61a11643e1669a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说，凭什么不能声张？她生病了又不是我们的错……可是话到嘴边又咽回去了，说了又能怎样呢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了我爸说“别声张”时我最想反驳什么，这句话一下子戳到了我心里最难受的地方。其实每次听到这句话，我都觉得特别委屈，好像我妈的病是我们家的错一样。）\n（我有点激动，但又不想表现得太明显。毕竟从小就被教育家丑不可外扬，现在把这些话说出来已经很难了。不过咨询师好像能理解我的感受，也许可以稍微多说一点。）",
+        "reasoning": "（咨询师提到了我爸说“别声张”时我最想反驳什么，这句话一下子戳到了我心里最难受的地方。其实每次听到这句话，我都觉得特别委屈，好像我妈的病是我们家的错一样。）\n（我有点激动，但又不想表现得太明显。毕竟从小就被教育家丑不可外扬，现在把这些话说出来已经很难了。不过咨询师好像能理解我的感受，也许可以稍微多说一点。）"
+      }
+    }
+  ],
+  "created": 1794544635,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1768,
+    "total_tokens": 1886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "03559e330c304573b865eea311a77419",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "白天一个人带孩子的时候最明显。尤其是孩子不肯睡，我越哄越急，脑子里全是“怎么连这个都做不好”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这种被审视的感觉其实一直跟着我，但确实有特别明显的时候。白天一个人带孩子时，那种孤立无援的感觉最强烈，好像所有责任都压在我身上。但更难受的是有人在场的时候，比如婆婆来帮忙，我反而更紧张，生怕她看出我哪里做得不对。）\n（我是不是太在意别人的眼光了？明明知道婆婆是好意，可就是控制不住会想她是不是在评判我。这种念头一冒出来，整个人就更累了。）",
+        "reasoning": "（这种被审视的感觉其实一直跟着我，但确实有特别明显的时候。白天一个人带孩子时，那种孤立无援的感觉最强烈，好像所有责任都压在我身上。但更难受的是有人在场的时候，比如婆婆来帮忙，我反而更紧张，生怕她看出我哪里做得不对。）\n（我是不是太在意别人的眼光了？明明知道婆婆是好意，可就是控制不住会想她是不是在评判我。这种念头一冒出来，整个人就更累了。）"
+      }
+    }
+  ],
+  "created": 1794535066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2139,
+    "total_tokens": 2270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

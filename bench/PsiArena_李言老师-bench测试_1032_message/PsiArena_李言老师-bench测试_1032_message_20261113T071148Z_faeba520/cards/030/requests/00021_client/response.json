@@ -1,0 +1,41 @@
+{
+  "id": "2a7d0e4e92754153a4117296055f08b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试追下去，哪怕难受。以前总绕开，这次想看看它到底是什么。要是太难受，我再停。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我写的时候会不会追下去，还是先放一放。我其实不太确定自己能不能面对那个怕，但好像又有点想试试。以前总习惯绕开，现在写下来，也许能看清楚一点。）\n（不过追下去会不会太难受？但既然都坐在这里聊了，总得有点改变吧。先追一追，要是真的受不了，再停下来也不迟。）",
+        "reasoning": "（她问我写的时候会不会追下去，还是先放一放。我其实不太确定自己能不能面对那个怕，但好像又有点想试试。以前总习惯绕开，现在写下来，也许能看清楚一点。）\n（不过追下去会不会太难受？但既然都坐在这里聊了，总得有点改变吧。先追一追，要是真的受不了，再停下来也不迟。）"
+      }
+    }
+  ],
+  "created": 1794555280,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2838,
+    "total_tokens": 2949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

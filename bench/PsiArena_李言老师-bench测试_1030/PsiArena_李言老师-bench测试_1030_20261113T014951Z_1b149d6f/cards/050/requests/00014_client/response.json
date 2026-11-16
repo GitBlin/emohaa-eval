@@ -1,0 +1,41 @@
+{
+  "id": "e19d7a2214be44a6b95e3651045400e3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就想着……我是不是得再能干点，她就能少叹口气。（声音有点哑）可后来她走了，我还是没让她省心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到妈妈的叹气，还说我心里会冒出什么念头。这话戳得挺准的，我确实从小就觉得她叹气是因为我没本事。那时候家里穷，我爸又那样，我总想着要是我能多挣点钱，她是不是就能少叹几口气。）\n（可后来她走了，我连让她少叹口气都没做到。这个念头一直压着我，现在被问起来，心里那股难受又翻上来了，觉得自己真是没用，连让她省心都没做到。）",
+        "reasoning": "（咨询师提到妈妈的叹气，还说我心里会冒出什么念头。这话戳得挺准的，我确实从小就觉得她叹气是因为我没本事。那时候家里穷，我爸又那样，我总想着要是我能多挣点钱，她是不是就能少叹几口气。）\n（可后来她走了，我连让她少叹口气都没做到。这个念头一直压着我，现在被问起来，心里那股难受又翻上来了，觉得自己真是没用，连让她省心都没做到。）"
+      }
+    }
+  ],
+  "created": 1794536998,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2365,
+    "total_tokens": 2502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

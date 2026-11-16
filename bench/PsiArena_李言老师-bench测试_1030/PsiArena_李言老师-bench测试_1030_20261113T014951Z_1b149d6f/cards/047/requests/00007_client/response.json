@@ -1,0 +1,41 @@
+{
+  "id": "af98899963524cfab9a7ff5c0ea0662b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我一时说不清。可能从小就这样？家里人都挺在意别人感受的，我也不想让人觉得我不好相处。（犹豫）是不是我想太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个是不是从什么时候开始的……我其实没认真想过。但好像从小就是这样，家里总说要顾及别人的感受。可我又不确定是不是这个原因，说出来会不会显得太矫情了。）\n（不过她问得挺温和的，不像是在评判我。我可以试着说一点，但别一下子说太多，先看看她的反应。）",
+        "reasoning": "（她问这个是不是从什么时候开始的……我其实没认真想过。但好像从小就是这样，家里总说要顾及别人的感受。可我又不确定是不是这个原因，说出来会不会显得太矫情了。）\n（不过她问得挺温和的，不像是在评判我。我可以试着说一点，但别一下子说太多，先看看她的反应。）"
+      }
+    }
+  ],
+  "created": 1794536770,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1489,
+    "total_tokens": 1595,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

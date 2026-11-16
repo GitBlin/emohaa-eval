@@ -1,0 +1,41 @@
+{
+  "id": "a4139fbc5cc44560bad06d347d2ca74d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如汇报里有个数字我漏讲了，其实后来补上了，可我还是会一直想。觉得那么明显我怎么会没看到，别人肯定觉得我不专业。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那个自我评判的声音最常抓住什么小事...她好像很关注我内心那个苛责自己的部分。这让我想起上周汇报时漏掉的那个数字，明明不是什么大错，但那个声音就是抓着不放。）\n（作为完美主义者，我确实总是把注意力放在这种细节上，越想越觉得自己不够好。这种自我批评已经成了习惯，甚至有点麻木了，但说出来的时候还是觉得有点难堪。）",
+        "reasoning": "（咨询师在问我那个自我评判的声音最常抓住什么小事...她好像很关注我内心那个苛责自己的部分。这让我想起上周汇报时漏掉的那个数字，明明不是什么大错，但那个声音就是抓着不放。）\n（作为完美主义者，我确实总是把注意力放在这种细节上，越想越觉得自己不够好。这种自我批评已经成了习惯，甚至有点麻木了，但说出来的时候还是觉得有点难堪。）"
+      }
+    }
+  ],
+  "created": 1794543470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2355,
+    "total_tokens": 2483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

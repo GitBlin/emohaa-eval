@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:50:28.668451+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a toy store of a shopping center, salesperson Xiao Zhang is arranging various toys. He tells mom Liu, \"We have 50 different toys, most of them are dolls, some are puzzles, but there are hardly any remote control cars.\" Liu checks and finds that there are only 10 puzzle toys.\n\n[Question]\nBefore Liu checks, how many dolls does she estimate?\n\n[Candidate Answers]\nA. Before Liu checks, she estimates there are 45 dolls.\nB. Before Liu checks, she estimates there are 50 dolls.\nC. Before Liu checks, she estimates there are 20 dolls.\nD. Before Liu checks, she estimates there are 49 dolls.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

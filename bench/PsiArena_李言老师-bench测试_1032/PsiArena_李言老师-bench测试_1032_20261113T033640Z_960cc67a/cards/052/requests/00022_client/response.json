@@ -1,0 +1,41 @@
+{
+  "id": "1c81eb32c759429fb657805339e8ea85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先把标题区写出来吧，就一个标题加个简单样式。嗯……虽然听着挺小的，但至少能开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我今晚先做哪一步，看来是想帮我把计划落到具体的动作上，别又停在空想里。我刚才已经说了定半小时，现在得给个明确的小动作才行。）\n（不过我心里还是有点没底，怕自己一坐下就又开始纠结细节。也许可以先从最简单的标题区开始，至少这一步不会让我太抗拒。先试试看吧。）",
+        "reasoning": "（她问我今晚先做哪一步，看来是想帮我把计划落到具体的动作上，别又停在空想里。我刚才已经说了定半小时，现在得给个明确的小动作才行。）\n（不过我心里还是有点没底，怕自己一坐下就又开始纠结细节。也许可以先从最简单的标题区开始，至少这一步不会让我太抗拒。先试试看吧。）"
+      }
+    }
+  ],
+  "created": 1794543796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2990,
+    "total_tokens": 3097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

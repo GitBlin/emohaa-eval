@@ -1,0 +1,41 @@
+{
+  "id": "5bcdff4145934a868f9854e1ca2c4a05",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "想说，可又觉得说了也没用，反而把家里搅乱。我总想着，只要我忍着，家还能维持着。可有时候我又怀疑，是不是我把自己看得太重要了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我心里那个真实的想不想说……其实想，特别想。可说出来会怎样呢？我妈会哭，我爸会发火，家里就更乱了。我当老师的，最怕的就是乱。）\n（而且说了又能改变什么？我总觉得，只要我忍着，这个家还能维持着。可有时候又觉得，我是不是在骗自己，其实我根本没那么大本事撑住一切。）",
+        "reasoning": "（她问我心里那个真实的想不想说……其实想，特别想。可说出来会怎样呢？我妈会哭，我爸会发火，家里就更乱了。我当老师的，最怕的就是乱。）\n（而且说了又能改变什么？我总觉得，只要我忍着，这个家还能维持着。可有时候又觉得，我是不是在骗自己，其实我根本没那么大本事撑住一切。）"
+      }
+    }
+  ],
+  "created": 1794541901,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2210,
+    "total_tokens": 2338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

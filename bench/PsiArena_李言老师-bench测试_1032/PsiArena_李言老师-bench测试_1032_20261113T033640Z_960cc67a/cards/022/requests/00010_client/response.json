@@ -1,0 +1,41 @@
+{
+  "id": "169164067b654b85b529b24aad6af930",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先回应感受吧……不过说实话，我都不太敢想她会那样。小时候考得好就夸，考不好就一条条说哪里不对，好像我难受不难受，没那么重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望妈妈先回应感受还是先想办法，这让我想起小时候的事。每次我考完试，妈妈总是先问哪里错了，我要是说难受，她就会说“难受有什么用”。）\n（其实我特别想她能先问问“你是不是很累”，但从小到大好像没人这么问过。我是不是太矫情了，都这么大了还想着这些。）",
+        "reasoning": "（咨询师问我希望妈妈先回应感受还是先想办法，这让我想起小时候的事。每次我考完试，妈妈总是先问哪里错了，我要是说难受，她就会说“难受有什么用”。）\n（其实我特别想她能先问问“你是不是很累”，但从小到大好像没人这么问过。我是不是太矫情了，都这么大了还想着这些。）"
+      }
+    }
+  ],
+  "created": 1794542201,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1832,
+    "total_tokens": 1954,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

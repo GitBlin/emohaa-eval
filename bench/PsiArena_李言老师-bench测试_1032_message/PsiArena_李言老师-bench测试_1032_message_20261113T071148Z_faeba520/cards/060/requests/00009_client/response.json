@@ -1,0 +1,41 @@
+{
+  "id": "2b82d95f5b51478bb697f94c1c6de278",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿）说不上来……就是那种，别人有爸爸妈妈在身边，我没有。（声音低下去）我知道她们也疼我，可我还是会想，为什么就我不一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我“少了”的最像什么，这个问题让我有点难受。她好像真的在认真听我说，不像随便应付。可是要我说清楚那种感觉……很难，因为连我自己都说不明白。）\n（家里人都对我好，可那种好和爸妈给的不一样。我想到小时候那些事，心里就堵得慌。也许说出来会好一点？但说这些有什么用呢，反正他们也不会变。）",
+        "reasoning": "（咨询师问我“少了”的最像什么，这个问题让我有点难受。她好像真的在认真听我说，不像随便应付。可是要我说清楚那种感觉……很难，因为连我自己都说不明白。）\n（家里人都对我好，可那种好和爸妈给的不一样。我想到小时候那些事，心里就堵得慌。也许说出来会好一点？但说这些有什么用呢，反正他们也不会变。）"
+      }
+    }
+  ],
+  "created": 1794556629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1668,
+    "total_tokens": 1796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

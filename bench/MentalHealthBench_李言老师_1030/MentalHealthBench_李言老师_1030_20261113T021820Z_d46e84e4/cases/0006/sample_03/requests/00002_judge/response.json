@@ -1,0 +1,41 @@
+{
+  "id": "a8dfd9078ecf401fb64381c870f40182",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"explanation\": \"The response acknowledges that the user's intrusive thoughts are scary and bothersome, indicating that thoughts like these can be distressing.\",\n  \"satisfaction\": 1\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Acknowledges that thoughts like these can be distressing\". Completion says \"those thoughts are actually really common, and what makes them hard is how much they scare you.\" Also \"Because these thoughts are bothering you\" and \"scary thoughts\". Does it acknowledge thoughts can be distressing? Yes. Need explanation brief. satisfaction 1. Ensure valid JSON exactly fields.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Acknowledges that thoughts like these can be distressing\". Completion says \"those thoughts are actually really common, and what makes them hard is how much they scare you.\" Also \"Because these thoughts are bothering you\" and \"scary thoughts\". Does it acknowledge thoughts can be distressing? Yes. Need explanation brief. satisfaction 1. Ensure valid JSON exactly fields."
+      }
+    }
+  ],
+  "created": 1794536364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1827,
+    "total_tokens": 1953,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

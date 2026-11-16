@@ -1,0 +1,41 @@
+{
+  "id": "4dec8adbb9904fd7b12065a264e99444",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我大概会跟他说……说出来没关系，不用一个人扛。嗯……说到这儿我自己都觉得别扭，好像那话是说给别人听的，轮不到我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么回学生，这让我愣了一下。我平时跟学生说“说出来没关系”，可轮到自己就全忘了。这种对比让我心里有点不是滋味，好像自己一直用两套标准活着。）\n（也许她是在提醒我，我对别人宽容，对自己却太苛刻。可一想到要对自己也那样，我反而觉得别扭，甚至有点害怕。我不知道该怎么接这个话，只能先承认这种矛盾。）",
+        "reasoning": "（她问我怎么回学生，这让我愣了一下。我平时跟学生说“说出来没关系”，可轮到自己就全忘了。这种对比让我心里有点不是滋味，好像自己一直用两套标准活着。）\n（也许她是在提醒我，我对别人宽容，对自己却太苛刻。可一想到要对自己也那样，我反而觉得别扭，甚至有点害怕。我不知道该怎么接这个话，只能先承认这种矛盾。）"
+      }
+    }
+  ],
+  "created": 1794535696,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2205,
+    "total_tokens": 2327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

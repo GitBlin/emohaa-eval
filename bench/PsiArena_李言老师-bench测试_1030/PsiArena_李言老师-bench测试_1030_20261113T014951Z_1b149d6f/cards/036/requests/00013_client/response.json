@@ -1,0 +1,41 @@
+{
+  "id": "9b4574308db34e8ea5fd85277ad28de5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是一些很小的事。有次我忘带笔，他默默递了一支过来；还有一次我值日，他路过时说了句“辛苦了”。就这么点事，我却记了好久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问起那点温暖是怎么来的，我其实有点想讲，又怕讲出来显得自己太在意那些小事。可他问得很温和，不像是在评判我。）\n（那些事真的都很小，小到说出来可能别人会觉得没什么。但对我来说，每次他主动递东西或者多问一句，我都会记很久。也许我可以试着说一点，不用全说。）",
+        "reasoning": "（他问起那点温暖是怎么来的，我其实有点想讲，又怕讲出来显得自己太在意那些小事。可他问得很温和，不像是在评判我。）\n（那些事真的都很小，小到说出来可能别人会觉得没什么。但对我来说，每次他主动递东西或者多问一句，我都会记很久。也许我可以试着说一点，不用全说。）"
+      }
+    }
+  ],
+  "created": 1794536371,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2235,
+    "total_tokens": 2356,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

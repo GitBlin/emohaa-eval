@@ -1,0 +1,41 @@
+{
+  "id": "c979bcf67ce541b89a1c7187dfbdad56",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……在家里的时候吧。有时候明明没什么大事，我也会突然觉得喘不过气。可能是我太敏感了？我也说不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近什么时候感觉特别明显。我其实不太想马上说太多，毕竟才刚开始，还不确定她能不能理解我。但她的语气还算温和，没有逼我。）\n（我想先给一点模糊的回应，说在家里的时候吧，但又不想直接提公婆的事。可以稍微带一句，说不好是我太敏感还是真的有问题，这样也算试探她会不会急着下判断。）",
+        "reasoning": "（咨询师在问我最近什么时候感觉特别明显。我其实不太想马上说太多，毕竟才刚开始，还不确定她能不能理解我。但她的语气还算温和，没有逼我。）\n（我想先给一点模糊的回应，说在家里的时候吧，但又不想直接提公婆的事。可以稍微带一句，说不好是我太敏感还是真的有问题，这样也算试探她会不会急着下判断。）"
+      }
+    }
+  ],
+  "created": 1794535645,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1119,
+    "total_tokens": 1234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

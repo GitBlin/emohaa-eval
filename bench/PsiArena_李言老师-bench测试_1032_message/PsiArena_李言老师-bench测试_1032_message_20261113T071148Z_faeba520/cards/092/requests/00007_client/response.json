@@ -1,0 +1,41 @@
+{
+  "id": "8d6716803d1245f7bb410c7ba0801bbb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要是心里的吧……身体上也睡不好，老想着这些事。您说，我这样是不是有点问题？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我累是身体上的还是心里的……这个问题让我想到最近确实总睡不好，白天也没精神。但要说只是身体累，好像又不全是，心里那种闷闷的感觉更重一些。）\n（不过现在说这些还有点早，我不太想一下子全摊开。他前面说可以慢慢来，那我先承认是心里累，再稍微提一点身体上的反应，应该就可以了。）",
+        "reasoning": "（他问我累是身体上的还是心里的……这个问题让我想到最近确实总睡不好，白天也没精神。但要说只是身体累，好像又不全是，心里那种闷闷的感觉更重一些。）\n（不过现在说这些还有点早，我不太想一下子全摊开。他前面说可以慢慢来，那我先承认是心里累，再稍微提一点身体上的反应，应该就可以了。）"
+      }
+    }
+  ],
+  "created": 1794558210,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1436,
+    "total_tokens": 1544,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

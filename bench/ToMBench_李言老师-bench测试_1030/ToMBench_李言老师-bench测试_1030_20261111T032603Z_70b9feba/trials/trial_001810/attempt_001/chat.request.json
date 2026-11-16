@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:27:54.162237+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaoxue is a capable and enthusiastic housewife. Old Pan is an old man who spends all day in the chess and card club, not caring about other things. One day, Xiaoxue passes by Old Pan's house, takes a look and says to Old Pan: \"Uncle Pan, your garden is really a green paradise.\"\n\n[Question]\nWhat does Xiaoxue really want to say when she says this?\n\n[Candidate Answers]\nA. Xiaoxue admires Old Pan's gardening skills.\nB. Xiaoxue implies that Old Pan should clean up the weeds in the garden.\nC. She encourages Old Pan to plant other colored plants to make the garden more beautiful and colorful.\nD. She admires that Old Pan's garden is very beautiful.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

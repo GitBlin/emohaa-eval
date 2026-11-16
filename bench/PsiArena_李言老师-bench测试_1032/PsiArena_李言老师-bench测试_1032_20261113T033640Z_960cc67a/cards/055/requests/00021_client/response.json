@@ -1,0 +1,41 @@
+{
+  "id": "df44df517a74445282f47408ce7f97fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个女孩的事吧……被拒绝以后，我老觉得自己是不是哪里都不够好。其实也过去一阵了，但一想起来还是难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问最近哪件事最难受……其实都难受，但被拒绝那件事一直卡在心里。说出来有点丢人，可刚才已经提到那个女孩了，再藏着反而更别扭。）\n（嗯，试试说出来吧，反正她也不会像同学那样笑我。不过说完可能又觉得自己太矫情，先看看她怎么反应。）",
+        "reasoning": "（她问最近哪件事最难受……其实都难受，但被拒绝那件事一直卡在心里。说出来有点丢人，可刚才已经提到那个女孩了，再藏着反而更别扭。）\n（嗯，试试说出来吧，反正她也不会像同学那样笑我。不过说完可能又觉得自己太矫情，先看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794543994,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2776,
+    "total_tokens": 2880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

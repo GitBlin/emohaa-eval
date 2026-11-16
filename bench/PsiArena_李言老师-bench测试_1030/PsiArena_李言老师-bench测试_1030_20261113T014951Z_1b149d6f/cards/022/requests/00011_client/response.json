@@ -1,0 +1,41 @@
+{
+  "id": "08f5cda2cfe043ee8881dfc255b21c44",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如别人夸我，我就赶紧说“哪有哪有，我这算什么”。其实心里又特别想人家再多夸两句。挺矛盾的，说完了自己还别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体怎么贬低自己……我其实经常这样，话一出口就后悔。比如朋友夸我，我马上就说“哪有哪有，我这算什么”。其实心里是希望她们再多夸我几句，可嘴上又把自己往下压。这感觉真矛盾，说出来都有点难为情。）\n（还有那种情形，大家一起做事，我总抢着说“都怪我”。明明不一定是我，但先认了错好像就安全了。可事后又觉得委屈，好像没人真觉得我重要。我是不是一直在用这种方式换一点点注意？）",
+        "reasoning": "（她问我具体怎么贬低自己……我其实经常这样，话一出口就后悔。比如朋友夸我，我马上就说“哪有哪有，我这算什么”。其实心里是希望她们再多夸我几句，可嘴上又把自己往下压。这感觉真矛盾，说出来都有点难为情。）\n（还有那种情形，大家一起做事，我总抢着说“都怪我”。明明不一定是我，但先认了错好像就安全了。可事后又觉得委屈，好像没人真觉得我重要。我是不是一直在用这种方式换一点点注意？）"
+      }
+    }
+  ],
+  "created": 1794535706,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2098,
+    "total_tokens": 2252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

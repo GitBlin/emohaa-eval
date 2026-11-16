@@ -1,0 +1,41 @@
+{
+  "id": "111bc675a73b47f58fc5d86747bb96f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能会听会儿歌吧，声音小一点的那种。……不过我怕自己坚持不了几天，我这个人挺容易半途而废的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把计划一步步落实，问我写完本子后做什么。之前我提过听轻音乐，但没细想。现在觉得这个可以试试，不用太复杂，反正比刷手机强。）\n（不过我心里还是有点没底，怕自己坚持不了几天。这种自我怀疑一直都有，说出来反而轻松点。毕竟我对自己总是很没信心。）",
+        "reasoning": "（咨询师在帮我把计划一步步落实，问我写完本子后做什么。之前我提过听轻音乐，但没细想。现在觉得这个可以试试，不用太复杂，反正比刷手机强。）\n（不过我心里还是有点没底，怕自己坚持不了几天。这种自我怀疑一直都有，说出来反而轻松点。毕竟我对自己总是很没信心。）"
+      }
+    }
+  ],
+  "created": 1794556545,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2784,
+    "total_tokens": 2894,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

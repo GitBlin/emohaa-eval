@@ -1,0 +1,41 @@
+{
+  "id": "22b14655873d4a98bb90fb862614f449",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……提醒自己一句，又来了。然后去走两圈，别躺着刷手机了。就是不知道到时候做不做得到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么应对挑毛病的情况，这让我有点紧张。我其实还没想那么远，但既然说了要试试，总得有个办法。我想到刷手机那个循环，越刷越难受，也许换个方式会好点。）\n（不过我又担心自己做不到，这种自我怀疑太熟悉了。但咨询师问得挺具体，我总不能说“不知道”吧。先走走路这个说法应该比较实际，至少比躺着强。）",
+        "reasoning": "（咨询师在问我怎么应对挑毛病的情况，这让我有点紧张。我其实还没想那么远，但既然说了要试试，总得有个办法。我想到刷手机那个循环，越刷越难受，也许换个方式会好点。）\n（不过我又担心自己做不到，这种自我怀疑太熟悉了。但咨询师问得挺具体，我总不能说“不知道”吧。先走走路这个说法应该比较实际，至少比躺着强。）"
+      }
+    }
+  ],
+  "created": 1794558409,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2636,
+    "total_tokens": 2763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

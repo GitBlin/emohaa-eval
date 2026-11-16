@@ -1,0 +1,41 @@
+{
+  "id": "e1cbcd94332f491dafc40e5053e171e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕他们觉得我讲得没意思、能力不行吧。唉，其实我也知道他们可能根本没在意我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我分析停一下会不会显得奇怪，还问我最担心别人怎么看我。这让我想到自己确实总在预设别人的反应，好像做什么都会被评判。）\n（或许可以试着承认这种担心，但也要表达出想改变的意愿。毕竟一直这样下去太累了，得找点实际的办法试试看。）",
+        "reasoning": "（咨询师在帮我分析停一下会不会显得奇怪，还问我最担心别人怎么看我。这让我想到自己确实总在预设别人的反应，好像做什么都会被评判。）\n（或许可以试着承认这种担心，但也要表达出想改变的意愿。毕竟一直这样下去太累了，得找点实际的办法试试看。）"
+      }
+    }
+  ],
+  "created": 1794544213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2667,
+    "total_tokens": 2760,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

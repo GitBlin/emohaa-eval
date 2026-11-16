@@ -1,0 +1,41 @@
+{
+  "id": "1ae7252361ad4dfbbcca0f01f79aa85d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候考试没考好吧……他不太骂我，就是沉默，然后摇摇头。那种沉默比骂人还难受，我到现在都记得。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是具体情境，我好像一下子被拉回小时候了。那种感觉太熟悉了，成绩单、饭桌、我爸的沉默，全都冒出来。）\n（我其实不太想细说，但既然已经聊到这儿了，也许说出来能让她明白为什么我现在总这么怕。可说完又有点后悔，怕自己显得太矫情。）",
+        "reasoning": "（她问的是具体情境，我好像一下子被拉回小时候了。那种感觉太熟悉了，成绩单、饭桌、我爸的沉默，全都冒出来。）\n（我其实不太想细说，但既然已经聊到这儿了，也许说出来能让她明白为什么我现在总这么怕。可说完又有点后悔，怕自己显得太矫情。）"
+      }
+    }
+  ],
+  "created": 1794545612,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2032,
+    "total_tokens": 2140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

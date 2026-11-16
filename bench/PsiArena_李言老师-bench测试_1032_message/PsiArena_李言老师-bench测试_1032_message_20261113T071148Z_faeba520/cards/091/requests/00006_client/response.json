@@ -1,0 +1,41 @@
+{
+  "id": "1e7271db1ea34b3e9fa2ccf2d06d85d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像谁的语气……（愣了一下，皱眉思考）我没想过这个。可能就是我自己吧？不过……（犹豫）有时候听着有点像我妈说话的样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她拒绝了加微信，但语气还算平静，没有让我觉得被嫌弃。我其实有点松了口气，又有点失落。她问那个声音像谁……我从来没想过这个问题。被这么一问，我脑子里突然闪过我妈说话的样子，但我不太想承认。）\n（可能先含糊地说“不知道”比较好，可那个念头已经冒出来了。我不确定要不要说下去，说出来会不会显得我怪父母？还是先试探着提一下，看看她怎么反应吧。）",
+        "reasoning": "（她拒绝了加微信，但语气还算平静，没有让我觉得被嫌弃。我其实有点松了口气，又有点失落。她问那个声音像谁……我从来没想过这个问题。被这么一问，我脑子里突然闪过我妈说话的样子，但我不太想承认。）\n（可能先含糊地说“不知道”比较好，可那个念头已经冒出来了。我不确定要不要说下去，说出来会不会显得我怪父母？还是先试探着提一下，看看她怎么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794558197,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1502,
+    "total_tokens": 1633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

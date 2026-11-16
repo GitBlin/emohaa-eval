@@ -1,0 +1,41 @@
+{
+  "id": "b8aeced01c014759ad454cf18b2c3de0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说……“我知道你们是为我好，可我也想为自己好一次。”就这一句，我在心里说过好多次，从来没真说出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想回的那句话是什么……其实我心里一直有，只是从来不敢说出口。说出来会不会显得我太不孝了？可是不说，那种憋着的感觉又很难受。）\n（“为你好”这三个字压了我太多年。我想说我也知道他们是为我好，可我也想为自己好一次。可能说出来会有点冲，但至少是真心话。）",
+        "reasoning": "（她问我想回的那句话是什么……其实我心里一直有，只是从来不敢说出口。说出来会不会显得我太不孝了？可是不说，那种憋着的感觉又很难受。）\n（“为你好”这三个字压了我太多年。我想说我也知道他们是为我好，可我也想为自己好一次。可能说出来会有点冲，但至少是真心话。）"
+      }
+    }
+  ],
+  "created": 1794536060,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2325,
+    "total_tokens": 2435,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

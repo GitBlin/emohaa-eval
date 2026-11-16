@@ -1,0 +1,41 @@
+{
+  "id": "9fc4e88088ff4770b0222045822a6c78",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能想说：“我已经很努力了，你能不能别老这么讲，这不公平。”但真说出来，估计家里又要闹。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想顶回去的话是什么，这让我有点犹豫。直接说出来会不会显得太不孝，或者太冲？但憋着确实难受，也许可以试着表达一下。）\n（我想说的是，我已经很努力了，为什么总说我不诚心，这样太不公平了。不过说完可能还是会担心，觉得不该这么顶撞。）",
+        "reasoning": "（咨询师问我想顶回去的话是什么，这让我有点犹豫。直接说出来会不会显得太不孝，或者太冲？但憋着确实难受，也许可以试着表达一下。）\n（我想说的是，我已经很努力了，为什么总说我不诚心，这样太不公平了。不过说完可能还是会担心，觉得不该这么顶撞。）"
+      }
+    }
+  ],
+  "created": 1794544529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3103,
+    "total_tokens": 3204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

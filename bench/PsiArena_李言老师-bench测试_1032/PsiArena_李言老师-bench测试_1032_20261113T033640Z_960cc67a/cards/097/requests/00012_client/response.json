@@ -1,0 +1,41 @@
+{
+  "id": "aff2cd1fb7b5483cbb2347d02218ba6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近一直都这样，不只是晚上。白天也总觉得有根弦绷着，好像放松就是偷懒。……我家里其实挺看重效率的，说这些我都有点不好意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我是这件事本身还是最近一直这样。其实他这么一问，我反而有点分不清了。最近好像确实一直这样，不只是晚上，白天也总有种没着没落的感觉。）\n（但说到家里，我有点犹豫。爸妈那边……他们习惯了效率，连我状态不好都像是没管理好自己。说出来有点丢人，可又觉得不说的话，好像绕不开这个事。）",
+        "reasoning": "（他问我是这件事本身还是最近一直这样。其实他这么一问，我反而有点分不清了。最近好像确实一直这样，不只是晚上，白天也总有种没着没落的感觉。）\n（但说到家里，我有点犹豫。爸妈那边……他们习惯了效率，连我状态不好都像是没管理好自己。说出来有点丢人，可又觉得不说的话，好像绕不开这个事。）"
+      }
+    }
+  ],
+  "created": 1794550956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1989,
+    "total_tokens": 2115,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

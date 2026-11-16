@@ -1,0 +1,41 @@
+{
+  "id": "1eedb2d6e0294f8ea2973013ee0eb63b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……（沉默几秒）可能是吧。在家里说这些，他们只会说“别想那么多，好好学习就行了”。所以后来我就不太说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说他在意我说的话...还问我是不是以前没人认真听我说话。他好像真的在关注我的感受，不像爸妈那样只会说\"别想太多\"。但我不确定他是不是对每个人都这么说。）\n（也许可以稍微试探一下他是不是真的愿意听？不过还是别一下子说太多，万一他其实只是客套呢。先含糊地承认一下，但不要说得太具体，看看他接下来会怎么回应。）",
+        "reasoning": "（这个咨询师说他在意我说的话...还问我是不是以前没人认真听我说话。他好像真的在关注我的感受，不像爸妈那样只会说\"别想太多\"。但我不确定他是不是对每个人都这么说。）\n（也许可以稍微试探一下他是不是真的愿意听？不过还是别一下子说太多，万一他其实只是客套呢。先含糊地承认一下，但不要说得太具体，看看他接下来会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794555743,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1302,
+    "total_tokens": 1428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

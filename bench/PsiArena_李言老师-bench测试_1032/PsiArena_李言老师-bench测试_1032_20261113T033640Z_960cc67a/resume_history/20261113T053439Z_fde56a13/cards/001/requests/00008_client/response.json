@@ -1,0 +1,41 @@
+{
+  "id": "d28823ef211c4e84a35338ea95155dc5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是那种……笑着、看着比较温和的表情吧。其实说到这个，我想到我爸妈，他们在聚会上就特别会跟人打交道，笑得也很自然。我好像怎么学都学不来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他刚才没有评判我小心翼翼，还说我这样没关系，这让我稍微放松了一点。不过问到我容易被哪种表情吸引，我突然想到家里的事。爸妈总说跟人打交道要会看眼色，尤其聚会的时候，他们笑得特别自然，跟谁都能聊。我好像就是那时候学会先看表情的。）\n（可越看越觉得自己不会。他们那种轻松的样子，我学不来。我要是凑过去，别人会不会觉得我笑得很假。其实我挺怕自己一开口就破坏了气氛，还不如就在旁边看着。）",
+        "reasoning": "（他刚才没有评判我小心翼翼，还说我这样没关系，这让我稍微放松了一点。不过问到我容易被哪种表情吸引，我突然想到家里的事。爸妈总说跟人打交道要会看眼色，尤其聚会的时候，他们笑得特别自然，跟谁都能聊。我好像就是那时候学会先看表情的。）\n（可越看越觉得自己不会。他们那种轻松的样子，我学不来。我要是凑过去，别人会不会觉得我笑得很假。其实我挺怕自己一开口就破坏了气氛，还不如就在旁边看着。）"
+      }
+    }
+  ],
+  "created": 1794541053,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 1539,
+    "total_tokens": 1696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

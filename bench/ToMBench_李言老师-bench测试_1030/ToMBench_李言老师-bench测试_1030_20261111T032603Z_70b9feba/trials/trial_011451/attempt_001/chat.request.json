@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:38:14.304286+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nBusiness tycoon Mr. Zhao recently faced difficulties and failures, experiencing significant losses. Prepared to bid on a highly valuable piece of land in the city, on the eve of the bidding, he invited several competitors to a dinner. During the dinner, he openly discussed his recent business failures and challenges. He appeared so sincere that his competitors couldn't help but feel sympathy, believing that he had no chance in the upcoming bid.\n\n[Question]\nWhy does Mr. Zhao say so?\n\n[Candidate Answers]\nA. Mr. Zhao says this to conceal his true intentions, making his competitors relax their guard and gain an advantage in the bid.\nB. Mr. Zhao says this because he really faces business failures and challenges, hoping his competitors will offer support.\nC. Mr. Zhao says this because he wants to establish a closer cooperation with his competitors to collectively address market challenges.\nD. Mr. Zhao says this to flaunt his wealth and success, deliberately appearing generous and magnanimous at the dinner.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

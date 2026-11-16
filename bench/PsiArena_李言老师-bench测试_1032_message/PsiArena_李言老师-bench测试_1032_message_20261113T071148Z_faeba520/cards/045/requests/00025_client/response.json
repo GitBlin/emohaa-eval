@@ -1,0 +1,41 @@
+{
+  "id": "9c22e9a458d1428995a6d99f6f386e17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我试试。（停顿，语气稍微轻松了一点）谢谢你今天听我说这么多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到下次可以聊聊写下来的感觉，这让我有点意外，也有点被重视的感觉。原来我写的那些东西，是有人愿意听的。）\n（不过我还是有点不确定，今晚真的能写出来吗？会不会又像以前一样，拿起笔就不知道写什么，或者写了一堆自己都看不下去的东西。但既然说了要试试，总得先迈出这一步。）",
+        "reasoning": "（咨询师提到下次可以聊聊写下来的感觉，这让我有点意外，也有点被重视的感觉。原来我写的那些东西，是有人愿意听的。）\n（不过我还是有点不确定，今晚真的能写出来吗？会不会又像以前一样，拿起笔就不知道写什么，或者写了一堆自己都看不下去的东西。但既然说了要试试，总得先迈出这一步。）"
+      }
+    }
+  ],
+  "created": 1794555821,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3093,
+    "total_tokens": 3194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

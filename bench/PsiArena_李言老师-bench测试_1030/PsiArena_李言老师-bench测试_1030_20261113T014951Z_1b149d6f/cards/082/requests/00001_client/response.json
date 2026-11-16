@@ -1,0 +1,41 @@
+{
+  "id": "3e6445e2b3c24b22bc2bebb0a2bf6689",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。说实话我不太确定这种咨询到底有没有用，我就是最近有点睡不好。你们一般是怎么做的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系，说明他准备开始咨询流程。作为来访者，我对这种正式场合有些戒备，毕竟我平时就不太习惯向别人敞开心扉，尤其是面对陌生人。）\n（毕竟我是个自尊心很强的人，来自那种重视面子的家庭，从小就被教育不能轻易示弱。在这种初次见面的情况下，我需要先试探一下对方的专业性和咨询方式，看看他是否值得信任。直接问咨询内容和方法比较合适，这样既不会暴露太多自己的问题，又能了解这个咨询师的水平。）\n（好了，那么现在就像这样对心理咨询师说吧。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系，说明他准备开始咨询流程。作为来访者，我对这种正式场合有些戒备，毕竟我平时就不太习惯向别人敞开心扉，尤其是面对陌生人。）\n（毕竟我是个自尊心很强的人，来自那种重视面子的家庭，从小就被教育不能轻易示弱。在这种初次见面的情况下，我需要先试探一下对方的专业性和咨询方式，看看他是否值得信任。直接问咨询内容和方法比较合适，这样既不会暴露太多自己的问题，又能了解这个咨询师的水平。）\n（好了，那么现在就像这样对心理咨询师说吧。）"
+      }
+    }
+  ],
+  "created": 1794539181,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 850,
+    "total_tokens": 1018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 142,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

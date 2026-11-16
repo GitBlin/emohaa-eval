@@ -1,0 +1,41 @@
+{
+  "id": "21fee8c2c5e147fcafe9b383b4a45af7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有是有。上周跟我妈打电话，本来聊得还行，后来她突然说了句什么，我也记不太清了……反正挂了之后我就一直不太舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近家里有没有哪件小事让我反复想起，这让我有点犹豫。我其实不太想这么快就深入具体的事情，毕竟我们才刚开始，我还不太确定能不能信任她。不过她问得挺温和的，也许可以先稍微提一点表面的东西。）\n（我想到上周和妈妈打电话的事，但不想说太多细节，就模糊地提一下好了。这样既回应了她，又不会暴露太多内心的感受。而且我也确实不知道该怎么描述那种不舒服的感觉，说出来可能显得我很矫情。）",
+        "reasoning": "（咨询师问我最近家里有没有哪件小事让我反复想起，这让我有点犹豫。我其实不太想这么快就深入具体的事情，毕竟我们才刚开始，我还不太确定能不能信任她。不过她问得挺温和的，也许可以先稍微提一点表面的东西。）\n（我想到上周和妈妈打电话的事，但不想说太多细节，就模糊地提一下好了。这样既回应了她，又不会暴露太多内心的感受。而且我也确实不知道该怎么描述那种不舒服的感觉，说出来可能显得我很矫情。）"
+      }
+    }
+  ],
+  "created": 1794542458,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1086,
+    "total_tokens": 1231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

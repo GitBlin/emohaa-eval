@@ -1,0 +1,41 @@
+{
+  "id": "decbc2e52f3c4d84b3570e23672c80fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）有一次，我妈跑到我公司楼下，当着同事的面说些莫名其妙的话……我当时脸都烧起来了，恨不得找个地缝钻进去。后来同事问我，我就说她身体不舒服，糊弄过去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我有没有一次特别想说却忍住的事，她好像想让我回忆具体的情境。这让我想起那天在办公室的事，那种又怕又羞的感觉一下子涌上来。）\n（我其实一直不敢细想那件事，但既然她问了，也许说出来会好受一点。妈妈来公司那次，我到现在都觉得丢脸，可当时除了硬撑着，我什么也做不了。）",
+        "reasoning": "（咨询师在问我有没有一次特别想说却忍住的事，她好像想让我回忆具体的情境。这让我想起那天在办公室的事，那种又怕又羞的感觉一下子涌上来。）\n（我其实一直不敢细想那件事，但既然她问了，也许说出来会好受一点。妈妈来公司那次，我到现在都觉得丢脸，可当时除了硬撑着，我什么也做不了。）"
+      }
+    }
+  ],
+  "created": 1794537997,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2162,
+    "total_tokens": 2294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

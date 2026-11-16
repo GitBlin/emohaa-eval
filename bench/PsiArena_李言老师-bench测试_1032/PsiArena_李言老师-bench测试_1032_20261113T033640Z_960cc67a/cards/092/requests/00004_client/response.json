@@ -1,0 +1,41 @@
+{
+  "id": "d018b59fe80c4b829e003a2f64681245",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……上课的时候吧，老师叫了个名字，我心里一下就堵得慌。哎，我这样问会不会有点奇怪——我说的事，你不会跟别人讲吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次具体发生什么，但我现在还不太想直接说姐姐的事，感觉有点丢人。先含糊一点，看看他会不会追问太多。）\n（不过我也想试探一下，如果我说了比较私人的事，他会不会随便告诉别人。这样问应该不算奇怪吧。）",
+        "reasoning": "（咨询师在问我最近一次具体发生什么，但我现在还不太想直接说姐姐的事，感觉有点丢人。先含糊一点，看看他会不会追问太多。）\n（不过我也想试探一下，如果我说了比较私人的事，他会不会随便告诉别人。这样问应该不算奇怪吧。）"
+      }
+    }
+  ],
+  "created": 1794546023,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1154,
+    "total_tokens": 1253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

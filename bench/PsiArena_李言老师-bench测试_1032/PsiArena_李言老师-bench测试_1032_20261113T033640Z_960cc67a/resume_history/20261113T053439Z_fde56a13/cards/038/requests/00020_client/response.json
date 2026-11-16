@@ -1,0 +1,41 @@
+{
+  "id": "644c51fd5c174d20a31fa5fe8b070d38",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先问他是不是还在意我……可这么问，好像显得我很卑微。要不还是先问他最近怎么老躲着我吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想先确认哪个，我其实两个都想知道，但要是先问“你是不是还在意我”，好像把自己摆得太低了，万一他敷衍一句我更难受。问“为什么疏远”至少听起来像在说事情，不那么像乞求。）\n（可说到底，我真正怕的是他根本没把我当回事。只是让我直接问这个，我可能还是开不了口。先问疏远的事吧，至少有个由头，不至于一上来就把自己全交出去。）",
+        "reasoning": "（她问我想先确认哪个，我其实两个都想知道，但要是先问“你是不是还在意我”，好像把自己摆得太低了，万一他敷衍一句我更难受。问“为什么疏远”至少听起来像在说事情，不那么像乞求。）\n（可说到底，我真正怕的是他根本没把我当回事。只是让我直接问这个，我可能还是开不了口。先问疏远的事吧，至少有个由头，不至于一上来就把自己全交出去。）"
+      }
+    }
+  ],
+  "created": 1794543022,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2832,
+    "total_tokens": 2965,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

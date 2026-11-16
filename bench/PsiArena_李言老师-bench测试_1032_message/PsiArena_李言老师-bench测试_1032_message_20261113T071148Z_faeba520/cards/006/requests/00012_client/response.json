@@ -1,0 +1,41 @@
+{
+  "id": "ed47f07a021c4324b21f3d423b201cec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提过，跟我爸说过一点，他就让我别多事，说安稳最重要。单位里……更没人说了，说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有跟别人提过，这让我想起那些尝试。其实我试过，不止一次。可每次说完，换来的都是那种眼神，好像我才是那个不懂事的人。家里人也一样，他们不关心什么对错，只关心我别惹事。）\n（我好像一直在等一个能真正听懂的人，可等来的都是让我闭嘴。说到这儿，心里挺不是滋味的，有点委屈，又有点觉得自己傻。）",
+        "reasoning": "（她问我有没有跟别人提过，这让我想起那些尝试。其实我试过，不止一次。可每次说完，换来的都是那种眼神，好像我才是那个不懂事的人。家里人也一样，他们不关心什么对错，只关心我别惹事。）\n（我好像一直在等一个能真正听懂的人，可等来的都是让我闭嘴。说到这儿，心里挺不是滋味的，有点委屈，又有点觉得自己傻。）"
+      }
+    }
+  ],
+  "created": 1794554107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1978,
+    "total_tokens": 2103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

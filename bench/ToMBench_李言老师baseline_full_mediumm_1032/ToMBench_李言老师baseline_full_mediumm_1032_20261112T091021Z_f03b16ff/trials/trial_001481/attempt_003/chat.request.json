@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:30:11.015780+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ming and Xiao Qiang are college roommates, but their majors are different, so they do not communicate much. In the evening, Xiao Ming suddenly receives a notice that he needs to submit an assignment, which requires a computer, but his computer is in the lab. Xiao Ming hopes to borrow Xiao Qiang's computer. However, Xiao Qiang says that he has an appointment with his friends to play online games together in the evening.\n\n[Question]\nHow does Xiao Ming persuade Xiao Qiang to lend him the computer?\n\n[Candidate Answers]\nA. Xiao Qiang, can you lend me your computer tonight? I can lend you my computer for the whole day tomorrow, so you can have more time to play with your friends.\nB. Xiao Qiang, can you lend me your computer? I will return it to you as soon as possible, and I treat you to milk tea tomorrow.\nC. Qiang, if you lend me your computer now, I can find a place to do my homework, and you and your friends can play games elsewhere.\nD. I really do not expect to have such an urgent assignment, if I do not submit it, my grades may be affected. Can you help me?",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

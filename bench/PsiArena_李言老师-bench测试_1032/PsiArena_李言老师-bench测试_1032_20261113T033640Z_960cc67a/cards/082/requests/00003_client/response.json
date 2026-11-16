@@ -1,0 +1,41 @@
+{
+  "id": "1f88cc563b044daea4aee56491aaefa8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……就是跟人打交道的时候吧。具体也说不准，有时候开会开着开着就觉得不对劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我什么时候最明显……其实每次团队开会的时候最难受，但我不想显得太脆弱。先随便说个模糊的场合应付一下吧，看看他会不会追问。说“跟人打交道”应该够笼统了，他应该不会揪着细节不放。）\n（其实我心里清楚是那些比我年轻的人让我不舒服，但这话现在说不出口。先含糊带过，看他怎么接。要是他太急着挖，我可能就不太想继续了。）",
+        "reasoning": "（他问我什么时候最明显……其实每次团队开会的时候最难受，但我不想显得太脆弱。先随便说个模糊的场合应付一下吧，看看他会不会追问。说“跟人打交道”应该够笼统了，他应该不会揪着细节不放。）\n（其实我心里清楚是那些比我年轻的人让我不舒服，但这话现在说不出口。先含糊带过，看他怎么接。要是他太急着挖，我可能就不太想继续了。）"
+      }
+    }
+  ],
+  "created": 1794545403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1044,
+    "total_tokens": 1164,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

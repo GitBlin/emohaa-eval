@@ -1,0 +1,41 @@
+{
+  "id": "809a9f03ed4944548cae075a4fb04b9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "带个本子吧，记下来，省得回头又忘了。（顿了顿）今天这么聊下来……好像没那么堵了，至少知道明天先干啥。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我带不带本子，这问题挺细的，说明她真在帮我琢磨怎么去做。我本来脑子里乱，现在被这么一问，反而清楚点。带个本子记电话，比光看看强，省得回头又忘。）\n（今天聊下来，好像没那么堵了。以前觉得这些事只能自己扛，现在至少知道下一步能干啥，心里有点底。）",
+        "reasoning": "（她问我带不带本子，这问题挺细的，说明她真在帮我琢磨怎么去做。我本来脑子里乱，现在被这么一问，反而清楚点。带个本子记电话，比光看看强，省得回头又忘。）\n（今天聊下来，好像没那么堵了。以前觉得这些事只能自己扛，现在至少知道下一步能干啥，心里有点底。）"
+      }
+    }
+  ],
+  "created": 1794537047,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3561,
+    "total_tokens": 3680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

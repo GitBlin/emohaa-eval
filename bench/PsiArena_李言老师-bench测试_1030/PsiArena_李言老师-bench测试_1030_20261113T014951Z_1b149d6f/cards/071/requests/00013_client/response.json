@@ -1,0 +1,41 @@
+{
+  "id": "8fa963f5d2504077a4e5a26d6a73d7f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句……大概是“你怎么连这个都做不好”。说出来我自己都吓一跳，这话怎么这么像我妈。可我又觉得，好像也不全是她，是我自己后来学会这么说的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我凶自己时心里冒出的第一句话。这问题戳得有点深，我平时其实不太敢去听那个声音。她这么一问，我脑子里马上跳出那些话，可说出来又觉得难为情，好像承认了自己很苛刻似的。不过她一直没评判我，也许可以试着说说看。）\n（我发现自己最常说的就是“你怎么连这个都做不好”。说出口的时候心里一紧，感觉那声音真的很像我妈，可又好像不完全是她，更像是这些年我自己学会的。有点不想承认，但又觉得说出来或许能松口气。）",
+        "reasoning": "（咨询师在问我凶自己时心里冒出的第一句话。这问题戳得有点深，我平时其实不太敢去听那个声音。她这么一问，我脑子里马上跳出那些话，可说出来又觉得难为情，好像承认了自己很苛刻似的。不过她一直没评判我，也许可以试着说说看。）\n（我发现自己最常说的就是“你怎么连这个都做不好”。说出口的时候心里一紧，感觉那声音真的很像我妈，可又好像不完全是她，更像是这些年我自己学会的。有点不想承认，但又觉得说出来或许能松口气。）"
+      }
+    }
+  ],
+  "created": 1794538541,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 2297,
+    "total_tokens": 2462,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a40136edccde4e2487d5542c88a6bb4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句话……大概是“怎么又来了”。说完又觉得自己挺糟糕的，孩子还那么小。我是不是有点太没耐心了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他倒是很坦诚，直接说没孩子，这反而让我没那么防备了。不过被这么一问，我脑子里又乱起来，好像有很多话堵在胸口，又不知道从哪句开始说。）\n（我是不是该说点什么？可真的说出来，会不会显得我很失败？那种“怎么又来了”“我快撑不住了”的念头，平时连自己都不敢承认。也许可以先含糊地提一下，看看他接不接得住。）",
+        "reasoning": "（他倒是很坦诚，直接说没孩子，这反而让我没那么防备了。不过被这么一问，我脑子里又乱起来，好像有很多话堵在胸口，又不知道从哪句开始说。）\n（我是不是该说点什么？可真的说出来，会不会显得我很失败？那种“怎么又来了”“我快撑不住了”的念头，平时连自己都不敢承认。也许可以先含糊地提一下，看看他接不接得住。）"
+      }
+    }
+  ],
+  "created": 1794535841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1485,
+    "total_tokens": 1610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f63605d28c564386963464fcfd6d695e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）她不肯吃药，我一个人劝不动……我想让医生知道这个，看能不能有别的方法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想让医生知道哪一点……其实我心里清楚，最怕的就是自己一个人扛不住。可这话说出来，好像就承认了我不行似的。但医生应该能理解吧，毕竟他们见得多。）\n（也许可以先从最实际的说起，比如她不肯吃药这件事。这个说出来好像没那么难，也不会显得我太软弱。）",
+        "reasoning": "（她问我最想让医生知道哪一点……其实我心里清楚，最怕的就是自己一个人扛不住。可这话说出来，好像就承认了我不行似的。但医生应该能理解吧，毕竟他们见得多。）\n（也许可以先从最实际的说起，比如她不肯吃药这件事。这个说出来好像没那么难，也不会显得我太软弱。）"
+      }
+    }
+  ],
+  "created": 1794557000,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2557,
+    "total_tokens": 2654,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

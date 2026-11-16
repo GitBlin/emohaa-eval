@@ -1,0 +1,41 @@
+{
+  "id": "9a989cacd6cc40d3a36a614cc1bfc4fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，没去看过。去医院得花钱，再说……我也不太信这个能查出啥。不过你这么一说，我有点犯嘀咕，是不是该去看看？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有去看医生，看来是关心我身体。但我确实没去过，一来没钱，二来觉得看医生也解决不了心里的事。不过她这么问，是不是觉得我该去查查？）\n（我其实也担心这身体是不是真出了毛病，毕竟胸口闷、睡不着，拖久了怕更糟。可她要是让我去医院，我又有点犯怵，怕真查出什么，也怕花钱。）",
+        "reasoning": "（她问我有没有去看医生，看来是关心我身体。但我确实没去过，一来没钱，二来觉得看医生也解决不了心里的事。不过她这么问，是不是觉得我该去查查？）\n（我其实也担心这身体是不是真出了毛病，毕竟胸口闷、睡不着，拖久了怕更糟。可她要是让我去医院，我又有点犯怵，怕真查出什么，也怕花钱。）"
+      }
+    }
+  ],
+  "created": 1794556059,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2388,
+    "total_tokens": 2513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1014a4b03a8e4381aa19afa707c24ae4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先跟我妈说吧，她可能好说话一点。我会先在心里想好怎么讲，不想到时候又说不出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清最后一步了，问我打算先跟谁说。我其实心里有点数了，妈妈虽然也忙，但比爸爸好说话一点，至少她不会只“嗯”一声。）\n（不过要开口还是有点难，我得想好怎么讲，不然到时候又咽回去了。这几次聊下来，好像没那么乱了，知道自己要什么了。）",
+        "reasoning": "（咨询师在帮我理清最后一步了，问我打算先跟谁说。我其实心里有点数了，妈妈虽然也忙，但比爸爸好说话一点，至少她不会只“嗯”一声。）\n（不过要开口还是有点难，我得想好怎么讲，不然到时候又咽回去了。这几次聊下来，好像没那么乱了，知道自己要什么了。）"
+      }
+    }
+  ],
+  "created": 1794540459,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3431,
+    "total_tokens": 3538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

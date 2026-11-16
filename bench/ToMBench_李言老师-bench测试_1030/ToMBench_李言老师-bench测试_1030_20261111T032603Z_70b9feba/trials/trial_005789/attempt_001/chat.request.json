@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:53.650933+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ling's roommate is someone who always pushes household chores onto her, relying on Xiao Ling's care. Xiao Ling has had enough and complains to her husband who is in a different location, saying, \"I'm really fed up with my roommate. He always makes me do all the cleaning. I want to rent a new place.\" In reality, her husband also knows about Xiao Ling's situation with her roommate, but to avoid spending money on renting a new place, he laughs and says, \"Maybe you just need to look at it from a different perspective. Perhaps your roommate sees you as a good sister. Don't be too anxious; after all, there will always be challenges in life.\"\n\n[Question]\nWhy did Xiao Ling's husband say so?\n\n[Candidate Answers]\nA. Xiao Ling's husband, to convince her to stay, intentionally suggests that her roommate sees her as a good sister.\nB. He is trying to encourage Xiao Ling to continue taking on household chores because he believes she is better at handling them.\nC. Xiao Ling's husband thinks Xiao Ling is overly anxious and shouldn't feel too much pressure about household chores.\nD. Xiao Ling's husband thinks she should find a new roommate to avoid being overburdened with household chores.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "47de687bd5b1433e829a7ab21894a375",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像别的时候也会有……比如一想到第二天又是这样一天，晚上躺下心就慌。我是不是有点不太对劲了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我发抖是不是只在哄睡时出现。我一下子想到很多时刻，不只是孩子不肯睡。有时候明明什么都没发生，心里也慌得厉害。这种状态让我自己都觉得不太对劲，但又不敢细想。）\n（她一直很稳，没有急着评价我。也许我可以再往下说一点，说说那些说不清的时刻。但说完又怕她觉得我太脆弱，或者觉得我当妈妈当得不够好。）",
+        "reasoning": "（她问我发抖是不是只在哄睡时出现。我一下子想到很多时刻，不只是孩子不肯睡。有时候明明什么都没发生，心里也慌得厉害。这种状态让我自己都觉得不太对劲，但又不敢细想。）\n（她一直很稳，没有急着评价我。也许我可以再往下说一点，说说那些说不清的时刻。但说完又怕她觉得我太脆弱，或者觉得我当妈妈当得不够好。）"
+      }
+    }
+  ],
+  "created": 1794535075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2356,
+    "total_tokens": 2476,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

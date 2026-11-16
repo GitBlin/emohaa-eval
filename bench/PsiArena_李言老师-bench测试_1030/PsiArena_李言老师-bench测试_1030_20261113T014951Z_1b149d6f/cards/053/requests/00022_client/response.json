@@ -1,0 +1,41 @@
+{
+  "id": "239febf3c12b44e08b4f7c22014e7c8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻呼了口气）我想说……你已经尽力了，先停一下也没关系。说出来有点别扭，但好像没那么沉了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我认出之后想对自己说什么，这个问题让我有点意外。以前我总在分析自己哪里做得不够，很少想过要对自己说点什么。但刚才那一圈绕回来，确实让我看清了那个“证明自己”的惯性，心里反而松了一点。）\n（我想试着对自己说一句不那么苛刻的话。不用多漂亮，就是能让我在下次又急起来的时候，稍微停一停。说“你已经尽力了”可能有点难，但“先停一下”应该能做到。）",
+        "reasoning": "（咨询师问我认出之后想对自己说什么，这个问题让我有点意外。以前我总在分析自己哪里做得不够，很少想过要对自己说点什么。但刚才那一圈绕回来，确实让我看清了那个“证明自己”的惯性，心里反而松了一点。）\n（我想试着对自己说一句不那么苛刻的话。不用多漂亮，就是能让我在下次又急起来的时候，稍微停一停。说“你已经尽力了”可能有点难，但“先停一下”应该能做到。）"
+      }
+    }
+  ],
+  "created": 1794537239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3401,
+    "total_tokens": 3535,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

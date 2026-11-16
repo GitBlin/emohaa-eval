@@ -1,0 +1,41 @@
+{
+  "id": "c27addd92d2f402498a6aefb56d59760",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像越紧张越会冒出来。特别是检查的时候，一边检查一边就开始怀疑自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我那个念头最常什么时候出现……我其实自己也说不准，就是那种突然冒出来的时候。有时候是在工作，有时候是在跟男朋友说话，甚至洗东西的时候也会。好像越紧张越容易冒出来。）\n（我有点怕说太多，怕她又觉得我乱。但既然都聊到这儿了，也许可以试着说一点。其实我最近发现，检查的时候反而最明显，好像越检查越觉得自己不对劲。）",
+        "reasoning": "（她刚才问我那个念头最常什么时候出现……我其实自己也说不准，就是那种突然冒出来的时候。有时候是在工作，有时候是在跟男朋友说话，甚至洗东西的时候也会。好像越紧张越容易冒出来。）\n（我有点怕说太多，怕她又觉得我乱。但既然都聊到这儿了，也许可以试着说一点。其实我最近发现，检查的时候反而最明显，好像越检查越觉得自己不对劲。）"
+      }
+    }
+  ],
+  "created": 1794544789,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3232,
+    "total_tokens": 3346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

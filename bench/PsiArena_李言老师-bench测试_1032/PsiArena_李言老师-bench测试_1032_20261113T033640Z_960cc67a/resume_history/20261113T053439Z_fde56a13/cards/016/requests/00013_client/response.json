@@ -1,0 +1,41 @@
+{
+  "id": "4edfb35fdc224e7ea215761229b82415",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有。我家不太说这些，我妈总说“大人的事你别管”。我好像也习惯了，什么都憋着，假装没事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我有没有问过爸妈……这让我一下子回到小时候那种不敢开口的感觉。家里的事从来不是我能问的，问了就像在添乱。我妈总说“大人的事你别管”，我爸更是一脸不耐烦。我那时候就学会了闭嘴，假装什么都没发生。）\n（现在想想，可能就是从那时候起，我总觉得家里的事我得负责，可又什么都做不了。这种矛盾一直压着我，让我到现在都怕开口问，怕一问就真的把家拆了。）",
+        "reasoning": "（她问起我有没有问过爸妈……这让我一下子回到小时候那种不敢开口的感觉。家里的事从来不是我能问的，问了就像在添乱。我妈总说“大人的事你别管”，我爸更是一脸不耐烦。我那时候就学会了闭嘴，假装什么都没发生。）\n（现在想想，可能就是从那时候起，我总觉得家里的事我得负责，可又什么都做不了。这种矛盾一直压着我，让我到现在都怕开口问，怕一问就真的把家拆了。）"
+      }
+    }
+  ],
+  "created": 1794541895,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2109,
+    "total_tokens": 2242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

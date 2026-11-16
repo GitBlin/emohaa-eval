@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:52.331345+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang San is an engineer at the company, and Li Si is Zhang San's leader. This morning, Li Si suddenly wants to drink coffee, but the coffee shop is a bit far from the company, and Li Si does not want to go buy it himself. So Li Si asks Zhang San to go buy coffee for him now.\n\n[Question]\nHow does Li Si persuade Zhang San to go buy coffee for him now?\n\n[Candidate Answers]\nA. Zhang San, you should have free time during your lunch break, if it is convenient, can you help me buy a cup of coffee then?\nB. Zhang San, you just finish that project very well, as a reward from me, can you help me buy a cup of coffee?\nC. Zhang San, I hear that the coffee shop has a new flavor, how about we go buy a cup of coffee together, I treat?\nD. Zhang San, can you go to the coffee shop to buy me a cup of coffee?",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

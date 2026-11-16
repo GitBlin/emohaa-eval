@@ -1,0 +1,41 @@
+{
+  "id": "f699d0caa50b485ba012863c314a3749",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能是小时候吧。我妈一个人带我，她心情不好的时候家里就很安静，我就会想是不是我惹她不高兴了。所以……我好像很早就学会先看别人的脸色。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最早从什么时候开始这样挑剔自己……这问题让我有点猝不及防。好像从小到大，我都习惯了先看别人脸色，再想自己是不是哪里做得不对。妈妈一个人带我，她情绪不好的时候，整个家都安静得让人害怕。）\n（我想到小时候那些事，家里气氛一沉，我就觉得是我的问题。说出来好像有点怪妈妈，可我也不想怪她，她也不容易。只是我好像一直没机会说，我其实也很累。）",
+        "reasoning": "（她问我最早从什么时候开始这样挑剔自己……这问题让我有点猝不及防。好像从小到大，我都习惯了先看别人脸色，再想自己是不是哪里做得不对。妈妈一个人带我，她情绪不好的时候，整个家都安静得让人害怕。）\n（我想到小时候那些事，家里气氛一沉，我就觉得是我的问题。说出来好像有点怪妈妈，可我也不想怪她，她也不容易。只是我好像一直没机会说，我其实也很累。）"
+      }
+    }
+  ],
+  "created": 1794537426,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2106,
+    "total_tokens": 2249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

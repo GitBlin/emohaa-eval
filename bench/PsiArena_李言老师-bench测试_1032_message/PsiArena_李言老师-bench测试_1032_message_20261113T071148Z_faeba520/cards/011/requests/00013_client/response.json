@@ -1,0 +1,41 @@
+{
+  "id": "74fb7213a2d7482395980db3b2e55d12",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会怕别人觉得我不是个好妈妈吧。亲戚来看孩子，说几句关心的话，我反而更紧张，总觉得他们在看我做得够不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果没做到最好，最先冒出来的是什么……我脑子里马上就是我妈的声音，还有那些亲戚的眼神。好像我稍微松一点，所有人都会觉得我这个妈妈不称职。）\n（这种压力不是我自己想出来的，是从小到大被灌进去的。现在当了妈妈，周围人一句“孩子带得真好”或者“怎么瘦了”，都能让我反复琢磨半天。）",
+        "reasoning": "（她问我如果没做到最好，最先冒出来的是什么……我脑子里马上就是我妈的声音，还有那些亲戚的眼神。好像我稍微松一点，所有人都会觉得我这个妈妈不称职。）\n（这种压力不是我自己想出来的，是从小到大被灌进去的。现在当了妈妈，周围人一句“孩子带得真好”或者“怎么瘦了”，都能让我反复琢磨半天。）"
+      }
+    }
+  ],
+  "created": 1794554329,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1979,
+    "total_tokens": 2093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

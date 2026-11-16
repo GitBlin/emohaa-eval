@@ -1,0 +1,41 @@
+{
+  "id": "53bac4319a09462d8467364ff2ed840c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不好意思）写过一句“我不是多余的”。（低头）写的时候没多想，后来看到，心里稍微松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到歌和写下的句子，我脑子里先冒出来的是那句“我不是多余的”。其实写的时候也没多想，就是烦到不行，随手划拉出来的。说出来有点难为情，好像太直白了。）\n（不过她一直没笑我，也没说这算什么。也许可以试着告诉她，虽然说完可能会有点不好意思，但心里好像松了一点点。）",
+        "reasoning": "（她问到歌和写下的句子，我脑子里先冒出来的是那句“我不是多余的”。其实写的时候也没多想，就是烦到不行，随手划拉出来的。说出来有点难为情，好像太直白了。）\n（不过她一直没笑我，也没说这算什么。也许可以试着告诉她，虽然说完可能会有点不好意思，但心里好像松了一点点。）"
+      }
+    }
+  ],
+  "created": 1794537647,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2956,
+    "total_tokens": 3062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

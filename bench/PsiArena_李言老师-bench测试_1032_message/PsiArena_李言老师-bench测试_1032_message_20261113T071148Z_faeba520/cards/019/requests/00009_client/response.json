@@ -1,0 +1,41 @@
+{
+  "id": "bcec3d6d6e77402ea91380aa1d73fa24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点酸，也有点委屈吧……明明我工作也挺努力的，可一回到家，好像那些都不算数。就只看我有没有对象。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我感受，这让我有点想回避，但又觉得她好像真的在听。家里那种比较的氛围，让我从小就觉得自己不够好，现在说出来反而有点委屈。）\n（不过既然都说到这了，也许可以再讲一点。那种永远达不到标准的感觉，其实挺累的，每次相亲前都会冒出来。）",
+        "reasoning": "（咨询师问我感受，这让我有点想回避，但又觉得她好像真的在听。家里那种比较的氛围，让我从小就觉得自己不够好，现在说出来反而有点委屈。）\n（不过既然都说到这了，也许可以再讲一点。那种永远达不到标准的感觉，其实挺累的，每次相亲前都会冒出来。）"
+      }
+    }
+  ],
+  "created": 1794554720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1672,
+    "total_tokens": 1773,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

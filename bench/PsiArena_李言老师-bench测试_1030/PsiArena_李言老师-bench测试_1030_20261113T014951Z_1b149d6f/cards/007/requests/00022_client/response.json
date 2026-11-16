@@ -1,0 +1,41 @@
+{
+  "id": "ba820a06e78f4d15abcc6973ce5af961",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了下）其实都难受。吵是直接睡不着……但更难受的是，他们聊得那么热闹，我像隔着一层玻璃。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我宿舍的事，是吵得难受还是插不上话更难受。其实这两件事都压着我，但仔细想想，吵是表面的，插不上话才让我觉得自己像个局外人。不过我不想一下子把话说太重，怕显得自己太矫情。）\n（也许我可以先承认吵确实影响我，再把那种被排除在外的感觉说出来。这样既回答了问题，也不至于太激动。）",
+        "reasoning": "（咨询师问我宿舍的事，是吵得难受还是插不上话更难受。其实这两件事都压着我，但仔细想想，吵是表面的，插不上话才让我觉得自己像个局外人。不过我不想一下子把话说太重，怕显得自己太矫情。）\n（也许我可以先承认吵确实影响我，再把那种被排除在外的感觉说出来。这样既回答了问题，也不至于太激动。）"
+      }
+    }
+  ],
+  "created": 1794534893,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3164,
+    "total_tokens": 3283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

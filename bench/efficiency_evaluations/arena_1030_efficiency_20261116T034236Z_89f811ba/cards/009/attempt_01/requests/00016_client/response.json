@@ -1,0 +1,47 @@
+{
+  "id": "3d940271c3a54db58b10e2a81b397766",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想说“这只是一次拒绝，不是我这个人不好”。这样说，心里好像能松一点点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那个“停一下”具体化，让我想一句提醒自己的话。这让我觉得，好像真的可以为自己做点什么了。心里有点跃跃欲试，又有点怕自己做不到。）\n（我想用简单一点的话，别太复杂，不然到时候一紧张又忘了。也许可以跟自己说，这只是一次拒绝，不是整个人都变坏了。这样想的时候，心里稍微松了一点。）",
+        "reasoning": "（咨询师在帮我把那个“停一下”具体化，让我想一句提醒自己的话。这让我觉得，好像真的可以为自己做点什么了。心里有点跃跃欲试，又有点怕自己做不到。）\n（我想用简单一点的话，别太复杂，不然到时候一紧张又忘了。也许可以跟自己说，这只是一次拒绝，不是整个人都变坏了。这样想的时候，心里稍微松了一点。）"
+      }
+    }
+  ],
+  "created": 1794800870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2561,
+    "total_tokens": 2674,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

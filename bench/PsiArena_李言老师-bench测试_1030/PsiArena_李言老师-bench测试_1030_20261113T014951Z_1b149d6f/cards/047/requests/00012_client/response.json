@@ -1,0 +1,41 @@
+{
+  "id": "eb74d1e0170e413b972682d8f35d51c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯，一直都在。不光是妈妈，好像对谁都是，总觉得自己做得还不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这份“对不起”现在还常常带着吗……我好像从来没往这个方向想过。以前只觉得那是应该的，现在被她一问，心里突然有点酸。）\n（确实，不只是对妈妈，好像对身边所有人都是这样。同事、学生家长，甚至学生本身，我总怕自己哪里做得不够好。这种感觉好像一直都在，只是平时不敢承认。）",
+        "reasoning": "（她问我这份“对不起”现在还常常带着吗……我好像从来没往这个方向想过。以前只觉得那是应该的，现在被她一问，心里突然有点酸。）\n（确实，不只是对妈妈，好像对身边所有人都是这样。同事、学生家长，甚至学生本身，我总怕自己哪里做得不够好。这种感觉好像一直都在，只是平时不敢承认。）"
+      }
+    }
+  ],
+  "created": 1794536796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2074,
+    "total_tokens": 2174,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

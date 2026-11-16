@@ -1,0 +1,41 @@
+{
+  "id": "81a37268f90148529a6e61f447cae4d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低声）就是……有时候觉得自己挺没价值的。好像我这个人，不值得被别人大大方方地承认。（苦笑）说出来有点丢人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到委屈没处说，这让我心里有点发酸。他说得对，我确实一直把这些感受闷着，连自己都不太敢承认。）\n（想到家里那些事，我忽然觉得不只是他不敢公开的问题。从小到大，我好像也被教成要憋着、要懂事。这种熟悉的感觉让我有点难受，但又忍不住想说下去。）",
+        "reasoning": "（咨询师提到委屈没处说，这让我心里有点发酸。他说得对，我确实一直把这些感受闷着，连自己都不太敢承认。）\n（想到家里那些事，我忽然觉得不只是他不敢公开的问题。从小到大，我好像也被教成要憋着、要懂事。这种熟悉的感觉让我有点难受，但又忍不住想说下去。）"
+      }
+    }
+  ],
+  "created": 1794555570,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1772,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

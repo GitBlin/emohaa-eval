@@ -1,0 +1,41 @@
+{
+  "id": "59ee72fca76848a1b3f11606c8e4d89f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（鼻子有点酸）就……有点堵。其实我知道不该怪他们，他们也是为我好。可有时候想想，怎么好像我这辈子都在证明自己够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在心里的感受，还提到委屈这个词。我本来不想承认的，但被她这么一说，好像心里那根弦被拨了一下。九十多分那件事，我很久没想起来了，现在提起来，胸口确实有点堵。）\n（我好像一直习惯了说“没什么”，可这会儿真的觉得有点酸。也许可以说得实在一点，不用再装得那么无所谓了。）",
+        "reasoning": "（咨询师问我现在心里的感受，还提到委屈这个词。我本来不想承认的，但被她这么一说，好像心里那根弦被拨了一下。九十多分那件事，我很久没想起来了，现在提起来，胸口确实有点堵。）\n（我好像一直习惯了说“没什么”，可这会儿真的觉得有点酸。也许可以说得实在一点，不用再装得那么无所谓了。）"
+      }
+    }
+  ],
+  "created": 1794556772,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1789,
+    "total_tokens": 1910,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c3b6fe7ce3b945b48fe5780c29e51a48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……家里吧。我爸妈总说朋友多重要，要好好处关系。可他们自己吵成那样，我有时候就觉得……挺矛盾的。好像我的难受，得先看看有没有道理，才配说出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到是不是在家里学到的。这让我想到爸妈总说朋友多重要，好像我要是为朋友难过，就得先证明自己没做错什么。其实家里那种气氛，让我觉得自己的感受总是排在别人后面。）\n（我有点想说清楚那种感觉，但又怕说得太乱。也许可以提一下，家里人总把朋友的事看得比我的情绪重，这样她应该能明白一些。）",
+        "reasoning": "（她问到是不是在家里学到的。这让我想到爸妈总说朋友多重要，好像我要是为朋友难过，就得先证明自己没做错什么。其实家里那种气氛，让我觉得自己的感受总是排在别人后面。）\n（我有点想说清楚那种感觉，但又怕说得太乱。也许可以提一下，家里人总把朋友的事看得比我的情绪重，这样她应该能明白一些。）"
+      }
+    }
+  ],
+  "created": 1794534655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2180,
+    "total_tokens": 2313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

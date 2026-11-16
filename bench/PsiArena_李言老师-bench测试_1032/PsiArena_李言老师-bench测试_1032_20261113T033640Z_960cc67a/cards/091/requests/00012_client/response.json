@@ -1,0 +1,41 @@
+{
+  "id": "9d9c51928527474aa2cb6996ba0cac61",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）可能就是想让他们知道，我也会累吧。不是不想努力，只是有时候真的撑不住了。（停顿）说出来又觉得，好像在抱怨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我希望家人听见我哪一部分。这个问题让我有点难受，因为我自己都很少允许自己去想这种期待。我总觉得说出来会显得矫情，或者根本没人真的想听。）\n（但咨询师问得很温和，好像可以试着说一点点。我想到的是，其实我不需要他们夸我，只是想让他们知道我也会累。可这话说出来又好像在抱怨，我马上就想补一句，怕被当成不知足。）",
+        "reasoning": "（咨询师问的是我希望家人听见我哪一部分。这个问题让我有点难受，因为我自己都很少允许自己去想这种期待。我总觉得说出来会显得矫情，或者根本没人真的想听。）\n（但咨询师问得很温和，好像可以试着说一点点。我想到的是，其实我不需要他们夸我，只是想让他们知道我也会累。可这话说出来又好像在抱怨，我马上就想补一句，怕被当成不知足。）"
+      }
+    }
+  ],
+  "created": 1794546033,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2020,
+    "total_tokens": 2145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

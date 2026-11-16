@@ -1,0 +1,41 @@
+{
+  "id": "b630ba36bb05405f998c1fa6c2fa2e4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是……习惯了。在家里也是，话到嘴边先咽回去，怕说了让爸妈不高兴。其实也没什么大事，就是……唉，我也说不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在生活里是不是也总先替别人考虑，这让我有点不知道怎么说。好像确实是这样，但真要说清楚又觉得乱。可能我习惯了吧，家里从小就这样，说多了反而像在抱怨。）\n（不过她好像没有嫌我麻烦，还愿意听。我想试着说一点点，但又怕说着说着就收不住。还是先简单回应一下吧，别一下子扯太远。）",
+        "reasoning": "（她问我在生活里是不是也总先替别人考虑，这让我有点不知道怎么说。好像确实是这样，但真要说清楚又觉得乱。可能我习惯了吧，家里从小就这样，说多了反而像在抱怨。）\n（不过她好像没有嫌我麻烦，还愿意听。我想试着说一点点，但又怕说着说着就收不住。还是先简单回应一下吧，别一下子扯太远。）"
+      }
+    }
+  ],
+  "created": 1794538511,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1359,
+    "total_tokens": 1479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c1f686837fbc4776a5556bac52083949",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）这么一问，我好像想起来了……小时候家里条件还行，但爸妈忙，我要是闹情绪，他们就说我不懂事。慢慢地我就不太敢提了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种小心是从什么时候开始的……这个问题让我有点意外，好像真的被戳到了什么。以前没人这么问过我，我自己也没仔细想过。）\n（仔细想想，可能真的是从小就这样。家里条件不差，但爸妈总是很忙，我要是闹情绪或者提要求，就会被说“不懂事”。慢慢地我就学会了不提，不提就不会被说，也不会让他们烦。好像从那个时候起，我就觉得自己的需要是多余的。）",
+        "reasoning": "（她问我这种小心是从什么时候开始的……这个问题让我有点意外，好像真的被戳到了什么。以前没人这么问过我，我自己也没仔细想过。）\n（仔细想想，可能真的是从小就这样。家里条件不差，但爸妈总是很忙，我要是闹情绪或者提要求，就会被说“不懂事”。慢慢地我就学会了不提，不提就不会被说，也不会让他们烦。好像从那个时候起，我就觉得自己的需要是多余的。）"
+      }
+    }
+  ],
+  "created": 1794552184,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1966,
+    "total_tokens": 2097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

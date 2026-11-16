@@ -1,0 +1,41 @@
+{
+  "id": "5807c85f5b494502bb60fc0174948738",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）……你这么一问，我有点说不上来。好像分不太清，反正那个声音一出来，就跟我爸的语气差不多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这么问，是想让我分辨那个“落后”的声音到底来自哪里。我确实从来没想过这个问题，一直以为就是自己不够好。可仔细想想，那个声音好像真的跟饭桌上的话很像。）\n（但承认了又有点别扭，好像把责任推给家里似的。不过现在坐在这儿，好像可以试着说出来，哪怕说得有点乱。）",
+        "reasoning": "（咨询师这么问，是想让我分辨那个“落后”的声音到底来自哪里。我确实从来没想过这个问题，一直以为就是自己不够好。可仔细想想，那个声音好像真的跟饭桌上的话很像。）\n（但承认了又有点别扭，好像把责任推给家里似的。不过现在坐在这儿，好像可以试着说出来，哪怕说得有点乱。）"
+      }
+    }
+  ],
+  "created": 1794535075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2253,
+    "total_tokens": 2361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

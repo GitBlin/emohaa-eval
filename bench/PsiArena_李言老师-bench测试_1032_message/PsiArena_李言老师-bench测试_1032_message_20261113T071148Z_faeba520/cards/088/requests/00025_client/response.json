@@ -1,0 +1,41 @@
+{
+  "id": "a50b03fa35fe48c98aa1c665aba4aff1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "刚紧起来的时候吧……那时候还来得及。要是等到很难受了，我可能又只顾着咬手了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候最需要那句话，是在帮我把这个出口放得更准。刚紧起来的时候我可能还顾不上，等绷得很难受了才会意识到。这让我想起写作业卡住、手不自觉放到嘴边的那种时刻。）\n（我想说清楚自己最容易失控的那个点，但又怕说得太绝对。也许可以提一下，绷得太久的时候，连对自己说句话都变得很费劲。）",
+        "reasoning": "（咨询师问我什么时候最需要那句话，是在帮我把这个出口放得更准。刚紧起来的时候我可能还顾不上，等绷得很难受了才会意识到。这让我想起写作业卡住、手不自觉放到嘴边的那种时刻。）\n（我想说清楚自己最容易失控的那个点，但又怕说得太绝对。也许可以提一下，绷得太久的时候，连对自己说句话都变得很费劲。）"
+      }
+    }
+  ],
+  "created": 1794558128,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3061,
+    "total_tokens": 3173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

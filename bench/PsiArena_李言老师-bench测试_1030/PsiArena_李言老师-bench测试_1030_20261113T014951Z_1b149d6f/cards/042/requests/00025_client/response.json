@@ -1,0 +1,41 @@
+{
+  "id": "8b85632070bb4e709e84d32b4525f1f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "定在九点吧，最晚九点半，孩子睡了我也该停了。……行，今天先这样，我回去试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我定个停手的点，这其实是在帮我具体化行动计划。我脑子里第一个冒出来的就是九点，因为再晚孩子睡了，家里安静下来，反而更容易胡思乱想。）\n（但说实话，定这个点我心里也没底，怕事情一多又拖过去。不过既然说了要试试，那就先这么定着，至少有个方向。）",
+        "reasoning": "（咨询师让我定个停手的点，这其实是在帮我具体化行动计划。我脑子里第一个冒出来的就是九点，因为再晚孩子睡了，家里安静下来，反而更容易胡思乱想。）\n（但说实话，定这个点我心里也没底，怕事情一多又拖过去。不过既然说了要试试，那就先这么定着，至少有个方向。）"
+      }
+    }
+  ],
+  "created": 1794536673,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3823,
+    "total_tokens": 3931,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

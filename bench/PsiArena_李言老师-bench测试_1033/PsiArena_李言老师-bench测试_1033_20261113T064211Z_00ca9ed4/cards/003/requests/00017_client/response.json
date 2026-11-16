@@ -1,0 +1,41 @@
+{
+  "id": "d1164d27516e4128930955533a4c9e85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）说实话……我也分不清。当时就觉得肯定是借口。现在你这么一问，好像确实没准人家真有事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“被拒”这件事拆开看，想知道我能不能分辨对方是真的忙还是客套。说实话，我当时根本没往“真忙”那边想，直接就认定是自己有问题了。现在回想，好像确实有点太快下结论了。）\n（不过这么一想，也许我一直在用一个假设惩罚自己，然后干脆不试了。这种感觉挺复杂的，有点懊恼，也有点想试着改改看。）",
+        "reasoning": "（咨询师在帮我把“被拒”这件事拆开看，想知道我能不能分辨对方是真的忙还是客套。说实话，我当时根本没往“真忙”那边想，直接就认定是自己有问题了。现在回想，好像确实有点太快下结论了。）\n（不过这么一想，也许我一直在用一个假设惩罚自己，然后干脆不试了。这种感觉挺复杂的，有点懊恼，也有点想试着改改看。）"
+      }
+    }
+  ],
+  "created": 1794552203,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2491,
+    "total_tokens": 2609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

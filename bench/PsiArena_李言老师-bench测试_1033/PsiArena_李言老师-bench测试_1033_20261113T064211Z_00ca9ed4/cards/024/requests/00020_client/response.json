@@ -1,0 +1,41 @@
+{
+  "id": "d40bf987b85742e1b6716bf2ff9fe112",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "攥个东西吧，我紧张的时候手总想抓点什么。就是……就算我没缩回去，她要是根本不听我说呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪种方式最容易想起来，看来是希望我找一个实在的抓手。手边攥个东西这办法，听起来简单，可我在那种紧张的时候，真能记得住吗？不过比起数三下，好像还是攥东西更自然一点，我平时紧张也会不自觉捏衣角。）\n（可光有办法还不够，我心里还是打鼓。真到了婆婆沉脸的时候，我攥着东西、心里数着，可嘴上还是说不出话，那又有什么用呢。我得把这份担心也说出来，不然总觉得不踏实。）",
+        "reasoning": "（她问我哪种方式最容易想起来，看来是希望我找一个实在的抓手。手边攥个东西这办法，听起来简单，可我在那种紧张的时候，真能记得住吗？不过比起数三下，好像还是攥东西更自然一点，我平时紧张也会不自觉捏衣角。）\n（可光有办法还不够，我心里还是打鼓。真到了婆婆沉脸的时候，我攥着东西、心里数着，可嘴上还是说不出话，那又有什么用呢。我得把这份担心也说出来，不然总觉得不踏实。）"
+      }
+    }
+  ],
+  "created": 1794553185,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2899,
+    "total_tokens": 3043,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

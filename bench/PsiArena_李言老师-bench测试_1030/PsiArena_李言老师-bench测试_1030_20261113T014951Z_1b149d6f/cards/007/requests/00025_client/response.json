@@ -1,0 +1,41 @@
+{
+  "id": "2710aba16e5549409de40e055c84051b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）行，我记下了。明天图书馆回来，就问他那句作业。（停了下）今天……聊这些，好像没那么闷了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把明天的计划说得很具体，图书馆回来、找他在的时候问作业。这让我稍微松了口气，至少不是让我一下子面对所有人。不过心里还是有点打鼓，怕到时候真开口又卡住。）\n（但既然已经聊到这一步，我也确实想试试。先点头答应下来，再跟咨询师说一句“有个人能说说这些事挺好的”，算是把这次谈话的收尾表达出来。不用太煽情，点到为止。）",
+        "reasoning": "（咨询师把明天的计划说得很具体，图书馆回来、找他在的时候问作业。这让我稍微松了口气，至少不是让我一下子面对所有人。不过心里还是有点打鼓，怕到时候真开口又卡住。）\n（但既然已经聊到这一步，我也确实想试试。先点头答应下来，再跟咨询师说一句“有个人能说说这些事挺好的”，算是把这次谈话的收尾表达出来。不用太煽情，点到为止。）"
+      }
+    }
+  ],
+  "created": 1794534905,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3508,
+    "total_tokens": 3638,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

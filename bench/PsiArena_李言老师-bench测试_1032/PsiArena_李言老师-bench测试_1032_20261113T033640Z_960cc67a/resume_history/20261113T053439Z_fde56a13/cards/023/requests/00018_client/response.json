@@ -1,0 +1,41 @@
+{
+  "id": "3ef47e8f55b441b2929d98558ae52790",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以把手机屏幕按亮一下，或者手放在桌边停一下，提醒自己别急着接话。听起来有点傻，但我确实需要个动作。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“停一下”变成具体的小动作，这让我觉得有点方向了。但我还是担心自己做不到，毕竟一慌起来就什么都忘了。我得想想什么动作能真的提醒到我，不能太复杂，不然到时候根本想不起来用。）\n（手机是我最常看的东西，设个提醒可能比较实际。不过我又怕这听起来很傻，好像连这种事都要靠手机。但总比什么都不做强，至少是个开始。）",
+        "reasoning": "（咨询师在帮我把“停一下”变成具体的小动作，这让我觉得有点方向了。但我还是担心自己做不到，毕竟一慌起来就什么都忘了。我得想想什么动作能真的提醒到我，不能太复杂，不然到时候根本想不起来用。）\n（手机是我最常看的东西，设个提醒可能比较实际。不过我又怕这听起来很傻，好像连这种事都要靠手机。但总比什么都不做强，至少是个开始。）"
+      }
+    }
+  ],
+  "created": 1794542252,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2738,
+    "total_tokens": 2869,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

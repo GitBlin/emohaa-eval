@@ -1,0 +1,41 @@
+{
+  "id": "f6ac1815fe1c4d30bbd5d8f5f4ed02de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就前两天，同事随口说了句“你怎么还没对象啊”，我脸一下就沉了，差点跟她吵起来。其实人家也没恶意，可我当时就是……火往上冒。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次炸出来是什么情况。我本来不想提同事那件事，但刚才说到憋着的气，好像确实和这个有关。其实我也不是真想冲人家发火，就是那句话一出来，我脑子里就想起家里那些话，控制不住。）\n（说出来有点丢人，但也许她能明白这不是我故意找茬。我有点怕她听完觉得我脾气差，可又觉得她前面没急着评判我，或许可以试试看。）",
+        "reasoning": "（她问我最近一次炸出来是什么情况。我本来不想提同事那件事，但刚才说到憋着的气，好像确实和这个有关。其实我也不是真想冲人家发火，就是那句话一出来，我脑子里就想起家里那些话，控制不住。）\n（说出来有点丢人，但也许她能明白这不是我故意找茬。我有点怕她听完觉得我脾气差，可又觉得她前面没急着评判我，或许可以试试看。）"
+      }
+    }
+  ],
+  "created": 1794553122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1992,
+    "total_tokens": 2128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "97f4696b0670440e8283fb9e05923056",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……最近，说不上好。就是总觉得心里悬着，上课的时候也会走神。可你要问我具体怎么了，我也不太清楚，就是难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师看起来挺温和的，没有给我压力，还告诉我可以自己控制说多少。这让我稍微放松了一点，但心里还是有点防备。他问最近过得怎么样，我其实不太想直接说家里的事，毕竟还不熟。先说说工作上的状态吧，这样既回答了问题，又没暴露太多。）\n（最近确实很累，注意力总是不集中，但具体原因又说不清楚。这种模糊的表达应该可以吧，既能让咨询师了解我的状态，又不用马上深入那些让我难受的事情。）",
+        "reasoning": "（心理咨询师看起来挺温和的，没有给我压力，还告诉我可以自己控制说多少。这让我稍微放松了一点，但心里还是有点防备。他问最近过得怎么样，我其实不太想直接说家里的事，毕竟还不熟。先说说工作上的状态吧，这样既回答了问题，又没暴露太多。）\n（最近确实很累，注意力总是不集中，但具体原因又说不清楚。这种模糊的表达应该可以吧，既能让咨询师了解我的状态，又不用马上深入那些让我难受的事情。）"
+      }
+    }
+  ],
+  "created": 1794552737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1016,
+    "total_tokens": 1161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

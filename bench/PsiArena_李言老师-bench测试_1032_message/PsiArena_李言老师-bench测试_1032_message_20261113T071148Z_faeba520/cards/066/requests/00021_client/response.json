@@ -1,0 +1,41 @@
+{
+  "id": "ab8f589bff324f31a7bba6411e72393f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这个好像可行。放下手机的时候，正好也是我容易胡思乱想的时候。可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她是在帮我把那个动作和日常习惯绑在一起，这样确实比单纯靠记性可靠。放下手机的时候，我每天都会做，而且通常是在晚上，容易胡思乱想。）\n（也许可以试试。不过我也得承认，以前定过类似的计划，最后都没坚持下来，所以心里有点没底。但这次好像不太一样，不是逼自己改变什么，只是提醒自己别装没事。）",
+        "reasoning": "（她是在帮我把那个动作和日常习惯绑在一起，这样确实比单纯靠记性可靠。放下手机的时候，我每天都会做，而且通常是在晚上，容易胡思乱想。）\n（也许可以试试。不过我也得承认，以前定过类似的计划，最后都没坚持下来，所以心里有点没底。但这次好像不太一样，不是逼自己改变什么，只是提醒自己别装没事。）"
+      }
+    }
+  ],
+  "created": 1794557001,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2910,
+    "total_tokens": 3021,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

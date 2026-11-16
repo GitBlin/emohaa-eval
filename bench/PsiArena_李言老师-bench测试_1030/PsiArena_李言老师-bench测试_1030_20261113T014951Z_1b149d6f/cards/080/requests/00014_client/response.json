@@ -1,0 +1,41 @@
+{
+  "id": "c514437a26b84e71afd6b14c30b2d61f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里从小就不谈这些，我也没学会怎么开口。加上怕一开口就变味，怕她觉得我不信任她、在查她。所以话到嘴边，又咽回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我们为什么平时没法直接聊这些，这问题一下戳到我了。我好像从来没想过“通道”这个词，但她说得对，我们之间确实缺了这么一条路。）\n（我从小家里就不谈这些，我也就习惯了憋着。可面对她，我总怕一开口就变味，怕她多想，更怕她反问我是不是不信任她。这些话平时根本不会往外说，现在说出来心里有点发紧。）",
+        "reasoning": "（她问我们为什么平时没法直接聊这些，这问题一下戳到我了。我好像从来没想过“通道”这个词，但她说得对，我们之间确实缺了这么一条路。）\n（我从小家里就不谈这些，我也就习惯了憋着。可面对她，我总怕一开口就变味，怕她多想，更怕她反问我是不是不信任她。这些话平时根本不会往外说，现在说出来心里有点发紧。）"
+      }
+    }
+  ],
+  "created": 1794539031,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2351,
+    "total_tokens": 2488,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "139202c1fe0342a38e103a5d8b3391b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了很久）其实……我一直想当老师。（自嘲地笑）是不是挺可笑的，都二十六了，还想着换行，可我又没那个资格。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问抛开现在的工作我想做什么……这个问题我其实偷偷想过很多次，但一直不敢认真想。说出来会不会显得我很不切实际？）\n（当老师这个念头好像一直都在，只是每次冒出来就被我自己压下去。现在被这么一问，反而有点忍不住了，可是说完又觉得自己在痴人说梦。）",
+        "reasoning": "（他问抛开现在的工作我想做什么……这个问题我其实偷偷想过很多次，但一直不敢认真想。说出来会不会显得我很不切实际？）\n（当老师这个念头好像一直都在，只是每次冒出来就被我自己压下去。现在被这么一问，反而有点忍不住了，可是说完又觉得自己在痴人说梦。）"
+      }
+    }
+  ],
+  "created": 1794557687,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2244,
+    "total_tokens": 2350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

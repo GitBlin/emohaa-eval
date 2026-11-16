@@ -1,0 +1,41 @@
+{
+  "id": "0493c673a8c8499db68b6fe463ff0564",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是“你还有那么多事没做完”。我总得先把该做的都做完，才敢歇，可事情永远做不完。也许……我得学着给自己留点空？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才在帮我把“休息就心虚”这件事重新理解，不是给我下诊断，而是在问我最近一次想歇会儿时脑子里冒出的第一句话。这让我想到，我好像确实总在等一个“可以歇”的许可，可那个许可从来没来过。我可能得承认，我连休息都要先证明自己配。）\n（也许我可以试着说一个很小的改变，比如每天给自己留十分钟，不为了什么。这个念头一出来，我自己都觉得有点不习惯，甚至有点蠢。但既然咨询师在问具体的，我就先说出来，看看自己能不能做到。）",
+        "reasoning": "（咨询师刚才在帮我把“休息就心虚”这件事重新理解，不是给我下诊断，而是在问我最近一次想歇会儿时脑子里冒出的第一句话。这让我想到，我好像确实总在等一个“可以歇”的许可，可那个许可从来没来过。我可能得承认，我连休息都要先证明自己配。）\n（也许我可以试着说一个很小的改变，比如每天给自己留十分钟，不为了什么。这个念头一出来，我自己都觉得有点不习惯，甚至有点蠢。但既然咨询师在问具体的，我就先说出来，看看自己能不能做到。）"
+      }
+    }
+  ],
+  "created": 1794543814,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 2972,
+    "total_tokens": 3135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

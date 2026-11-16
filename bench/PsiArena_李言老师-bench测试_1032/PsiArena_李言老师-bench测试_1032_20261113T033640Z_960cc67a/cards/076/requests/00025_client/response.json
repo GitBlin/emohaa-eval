@@ -1,0 +1,41 @@
+{
+  "id": "aed9266cc0c64a03af346af18743ce13",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "关键词吧，完整句子我肯定会改来改去。先写三行关键词，再在旁边标一个“说慢点”，可能更适合我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，咨询师问我更想先写成关键词还是完整句子，这是在帮我把周会的准备具体化。我其实怕写完整句子，因为一写就想改到完美，反而更焦虑。关键词更轻一点，能让我先抓住重点。不过我也担心只写关键词会漏掉内容，所以想加一个小标记提醒自己。这样既不过度准备，也不至于空着。得把这种矛盾感说出来，别显得太笃定。",
+        "reasoning": "嗯，咨询师问我更想先写成关键词还是完整句子，这是在帮我把周会的准备具体化。我其实怕写完整句子，因为一写就想改到完美，反而更焦虑。关键词更轻一点，能让我先抓住重点。不过我也担心只写关键词会漏掉内容，所以想加一个小标记提醒自己。这样既不过度准备，也不至于空着。得把这种矛盾感说出来，别显得太笃定。"
+      }
+    }
+  ],
+  "created": 1794545231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3390,
+    "total_tokens": 3519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

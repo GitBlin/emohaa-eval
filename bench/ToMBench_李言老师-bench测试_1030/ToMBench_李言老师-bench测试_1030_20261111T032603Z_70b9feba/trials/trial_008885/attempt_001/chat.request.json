@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:35:11.080903+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe residents of the town all know, Li Yue grows up with her grandmother, and the bond between the grandmother and granddaughter is very deep. One day, the grandmother takes out a traditional cheongsam she sews by herself, and lets Li Yue try it on. Although Li Yue thinks the color and style of the cheongsam are a bit outdated, she praises her grandmother that the cheongsam is very beautiful and fits very well.\n\n[Question]\nWhy does Li Yue say this?\n\n[Candidate Answers]\nA. Li Yue does not want to disappoint or embarrass her grandmother, which shows Li Yue's deep love and respect for her grandmother.\nB. Li Yue praises the cheongsam as beautiful because she wants to please her grandmother in order to gain the inheritance rights of her grandmother.\nC. Li Yue says this because she is threatened by her grandmother, if she does not praise the cheongsam, she will be punished.\nD. Li Yue thinks the cheongsam is really beautiful, her praise is completely out of her own true feelings.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

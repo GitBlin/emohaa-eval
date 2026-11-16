@@ -1,0 +1,41 @@
+{
+  "id": "6fe3388c4be34b0790dd506b522ef5fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "唉，我真的不太确定……说实话，问这些我心里更乱了。其实我自己都觉得，为了一瓶眼霜这样，是不是有点可笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师还在追问眼霜最后的位置，好像很执着于找到它。可我已经说过不确定了，再问这些细节让我有点烦。其实我更想说的是心里那种堵得慌的感觉，不是眼霜本身。）\n（不过她这么问，可能也是在帮我理清思路吧。但我现在真的不想再纠结那个袋子了，越说越觉得自己可笑。为了一瓶眼霜这样，说出来都觉得丢人。）",
+        "reasoning": "（咨询师还在追问眼霜最后的位置，好像很执着于找到它。可我已经说过不确定了，再问这些细节让我有点烦。其实我更想说的是心里那种堵得慌的感觉，不是眼霜本身。）\n（不过她这么问，可能也是在帮我理清思路吧。但我现在真的不想再纠结那个袋子了，越说越觉得自己可笑。为了一瓶眼霜这样，说出来都觉得丢人。）"
+      }
+    }
+  ],
+  "created": 1794543468,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1494,
+    "total_tokens": 1614,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "843b9d4fda6d41488fb6b43f5428e80f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话我也说不清楚……就是最近总觉得很累，跟我妈通完电话之后更明显。但具体是哪里出了问题，我自己也讲不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我随便说，节奏由我定……听起来倒是挺轻松的，但我还是不太确定她到底会怎么处理我说的话。毕竟第一次见面，我总不能什么都往外倒吧。先随便说点表面的东西，看看她的反应再说。）\n（其实我也说不清自己到底怎么了，就是最近总觉得累，跟我妈通完电话更累。但具体哪里累，我又讲不上来，这种感觉挺烦的。）",
+        "reasoning": "（她让我随便说，节奏由我定……听起来倒是挺轻松的，但我还是不太确定她到底会怎么处理我说的话。毕竟第一次见面，我总不能什么都往外倒吧。先随便说点表面的东西，看看她的反应再说。）\n（其实我也说不清自己到底怎么了，就是最近总觉得累，跟我妈通完电话更累。但具体哪里累，我又讲不上来，这种感觉挺烦的。）"
+      }
+    }
+  ],
+  "created": 1794553251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1003,
+    "total_tokens": 1125,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

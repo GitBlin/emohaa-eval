@@ -1,0 +1,41 @@
+{
+  "id": "0a0400a891004f029216e71fe326967e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点低）我会想跟她说……你不是故意的，别一直骂自己了。说出来的时候，心里怪酸的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对那个害怕的自己说句话……我其实从来没这么想过。之前一想到那天就只剩自责，觉得她太怂了。可刚才咨询师说“她是真的怕”，我忽然觉得那个自己好像也没那么可恨。）\n（如果真要跟她说点什么，大概会想告诉她别一直怪自己吧。她不是不想帮，只是不知道怎么办。这样想的时候，心里有点酸，但也松了一点点。）",
+        "reasoning": "（她让我对那个害怕的自己说句话……我其实从来没这么想过。之前一想到那天就只剩自责，觉得她太怂了。可刚才咨询师说“她是真的怕”，我忽然觉得那个自己好像也没那么可恨。）\n（如果真要跟她说点什么，大概会想告诉她别一直怪自己吧。她不是不想帮，只是不知道怎么办。这样想的时候，心里有点酸，但也松了一点点。）"
+      }
+    }
+  ],
+  "created": 1794536404,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3108,
+    "total_tokens": 3225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

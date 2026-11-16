@@ -1,0 +1,41 @@
+{
+  "id": "0b1b986f88704765ba33b14da4265d6b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就上周那件事吧，我想先跟那个同事聊聊。不过我怕自己到时候又打退堂鼓，或者说着说着就变成道歉了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我梳理具体的行动计划了，这让我觉得有点踏实。不过想到真要开口，心里还是有点打鼓。上周那件事一直堵着，也许先从这个说起会容易些？毕竟已经过去几天了，情绪没那么冲。）\n（可我又担心自己到时候说着说着就变味，或者对方根本没耐心听。这些顾虑现在说出来也没关系吧，咨询师应该能帮我理一理。）",
+        "reasoning": "（咨询师在帮我梳理具体的行动计划了，这让我觉得有点踏实。不过想到真要开口，心里还是有点打鼓。上周那件事一直堵着，也许先从这个说起会容易些？毕竟已经过去几天了，情绪没那么冲。）\n（可我又担心自己到时候说着说着就变味，或者对方根本没耐心听。这些顾虑现在说出来也没关系吧，咨询师应该能帮我理一理。）"
+      }
+    }
+  ],
+  "created": 1794541459,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2917,
+    "total_tokens": 3037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

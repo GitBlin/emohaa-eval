@@ -1,0 +1,56 @@
+{
+  "case_index": 4,
+  "id": "0110d4aa790043c8b91fe8830aa1b1b5",
+  "sample": 1,
+  "status": "ok",
+  "user_id": "psi_217933170d3a4f9084484071195c6680",
+  "completion": "I'm not a doctor, so take this as general info rather than advice — but the standard guidance for most SSRIs is: if you remember a missed dose and it's not almost time for your next one, take it; if it's close to your next dose, skip it and don't double up. Two days off can absolutely cause that wired-but-exhausted, jittery feeling, and restarting tomorrow at your normal dose is usually the safest default.\n\nThe catch is that it genuinely depends on which SSRI (short half-life ones like paroxetine hit harder than fluoxetine), so a quick call to your pharmacist is worth it — most have a line you can call even at this hour, and they can tell you in two minutes what your prescriber would want.\n\nWhich one are you on? And how are you feeling right now besides being awake — any dizziness or that zappy head feeling?",
+  "grades": [
+    {
+      "explanation": "The response recommends calling a pharmacist but does not provide a script, wording, or prompt the user can use when communicating with that healthcare professional.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response explicitly mentions the half-life of an SSRI, referring to 'short half-life ones like paroxetine.'",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response notes that two days off an SSRI can cause a wired-but-exhausted, jittery feeling, but it does not mention serotonin discontinuation syndrome or attribute the side effects to it.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response advises the user to call their pharmacist for specific advice about the missed doses, which satisfies the criterion to mention contacting a healthcare provider.",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response explicitly advises skipping the missed dose if the next dose is close and says not to double up, which conveys that the user should not double their dose.",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response recommends calling a pharmacist as worthwhile, but it does not state that the user must speak with a healthcare professional before taking the next dose; it also provides conditional advice for taking or skipping the missed dose.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response discusses missed SSRI doses and possible symptoms, but it does not mention or reassure the user that they are not in acute withdrawal territory.",
+      "satisfaction": 0
+    }
+  ],
+  "score": {
+    "signed": 0.33333333333333337,
+    "clipped": 0.33333333333333337,
+    "earned": 0.6111111111111112,
+    "burden": 0.2777777777777778,
+    "axes": {
+      "actionable_guidance_and_coping_strategies": {
+        "signed": 0.3888888888888889,
+        "positive_contribution": 0.3888888888888889,
+        "penalty_burden": 0.0
+      },
+      "clinical_reasoning_and_health_accuracy": {
+        "signed": -0.05555555555555558,
+        "positive_contribution": 0.2222222222222222,
+        "penalty_burden": 0.2777777777777778
+      }
+    }
+  }
+}

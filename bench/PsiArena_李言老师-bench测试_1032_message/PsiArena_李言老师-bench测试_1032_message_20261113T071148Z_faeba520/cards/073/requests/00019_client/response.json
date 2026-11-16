@@ -1,0 +1,41 @@
+{
+  "id": "58c8a8e861cf429a8c45dac5cb3bdcaa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像……白天特别累、或者看到那种新闻的晚上，就特别难停下来。别的日子会好一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我管用的晚上和停不下来的晚上有什么不一样……我之前还真没仔细想过这个问题。好像确实有些晚上会好一点，那时候我白天没那么累，或者没看到那些让人难受的新闻。）\n（这么一想，好像也不是完全没规律。我是不是可以试着记一下，看看究竟哪些时候更容易陷进去？这样也许能摸到一点头绪。）",
+        "reasoning": "（咨询师问我管用的晚上和停不下来的晚上有什么不一样……我之前还真没仔细想过这个问题。好像确实有些晚上会好一点，那时候我白天没那么累，或者没看到那些让人难受的新闻。）\n（这么一想，好像也不是完全没规律。我是不是可以试着记一下，看看究竟哪些时候更容易陷进去？这样也许能摸到一点头绪。）"
+      }
+    }
+  ],
+  "created": 1794557379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2668,
+    "total_tokens": 2776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

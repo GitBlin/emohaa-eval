@@ -1,0 +1,47 @@
+{
+  "id": "583d519e2c2b4d5b95a6b46c77d583d4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头，又有点迟疑）他们……应该不会吧，他们更关心我成绩。说了可能还嫌我分心。（停顿，声音变小）老师，你接触过我这样的……嗯，像我这种人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我会不会觉得爸妈能理解我这份“闷”，这让我有点不知道怎么回答。他们平时只关心成绩，很少问我开不开心，可我又不想让咨询师觉得我在怪父母。也许可以试探一下咨询师会不会站我这边，还是也会像我爸妈那样觉得学习更重要。）\n（然后我又想到，如果咨询师真的能理解我，是不是可以问问她，像我这种情况的人多不多。这样既不会显得我太脆弱，也能知道她会不会像别人一样觉得我奇怪。）",
+        "reasoning": "（咨询师问我会不会觉得爸妈能理解我这份“闷”，这让我有点不知道怎么回答。他们平时只关心成绩，很少问我开不开心，可我又不想让咨询师觉得我在怪父母。也许可以试探一下咨询师会不会站我这边，还是也会像我爸妈那样觉得学习更重要。）\n（然后我又想到，如果咨询师真的能理解我，是不是可以问问她，像我这种情况的人多不多。这样既不会显得我太脆弱，也能知道她会不会像别人一样觉得我奇怪。）"
+      }
+    }
+  ],
+  "created": 1794800586,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 1493,
+    "total_tokens": 1646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d16f172fcd3a45b299949fe06ed7ea04",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "紧张吧……一紧张就更想不起来了。而且不光是眼霜，我还会想到以前丢的那把梳子，越想越多，好像我什么都管不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那个声音出现时的感受，是紧张还是清醒。这让我想到每次丢东西或者做错事时，那种被审视的感觉特别强烈。其实那个声音一出来我就慌了，根本没法冷静思考，只会不停地责怪自己。）\n（而且这种自责好像会蔓延开来，不光是眼霜，连以前丢过的梳子、别的东西都会一起涌上来。我好像不是真的在找东西，而是在反复证明自己不够好。这种感觉说出来有点难为情，但好像确实是这样。）",
+        "reasoning": "（咨询师在问我那个声音出现时的感受，是紧张还是清醒。这让我想到每次丢东西或者做错事时，那种被审视的感觉特别强烈。其实那个声音一出来我就慌了，根本没法冷静思考，只会不停地责怪自己。）\n（而且这种自责好像会蔓延开来，不光是眼霜，连以前丢过的梳子、别的东西都会一起涌上来。我好像不是真的在找东西，而是在反复证明自己不够好。这种感觉说出来有点难为情，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794543481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1808,
+    "total_tokens": 1953,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

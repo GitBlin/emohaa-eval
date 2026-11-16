@@ -1,0 +1,41 @@
+{
+  "id": "5c3b9e4ee22646589692caeec50117bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点空落落的，好像没管她心里不踏实。不过也松了口气，家里没那么紧绷。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是想让我留意那次忍住之后自己的感受。我回想一下，那天其实心里并不轻松，反而有点不踏实，好像少了点什么。）\n（可能我一直觉得，不管着就是没尽责，所以一旦没盯，就会怀疑自己是不是失职了。这种不安比说出口还难受，但女儿没顶嘴，又让我隐约觉得这样也许不是坏事。）",
+        "reasoning": "（她这么问，是想让我留意那次忍住之后自己的感受。我回想一下，那天其实心里并不轻松，反而有点不踏实，好像少了点什么。）\n（可能我一直觉得，不管着就是没尽责，所以一旦没盯，就会怀疑自己是不是失职了。这种不安比说出口还难受，但女儿没顶嘴，又让我隐约觉得这样也许不是坏事。）"
+      }
+    }
+  ],
+  "created": 1794553314,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2657,
+    "total_tokens": 2760,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

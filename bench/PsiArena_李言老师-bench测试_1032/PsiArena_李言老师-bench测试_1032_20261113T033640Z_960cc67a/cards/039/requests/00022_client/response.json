@@ -1,0 +1,41 @@
+{
+  "id": "73743ef894044f39870d9f75925e386e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般是我做决定的时候吧，她不说重话，但那种“你行不行啊”的语气，让我觉得自己总是做不对。（顿了顿）现在想想，我好像一直在等她说一句“你可以”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我妈那种语气最常出现在什么时候……这让我一下子想起很多小时候的事。每次我想自己做决定，我妈就会用那种语气，好像我什么都不懂似的。其实现在想想，她可能也是怕我走错路，但那种不信任的感觉一直留在我心里。）\n（在咨询师面前说这些，好像比刚才轻松一点了。至少我能把这种感受说出来，不用再一个人憋着。也许接下来可以想想，我是不是真的需要我妈的认可才能做决定。）",
+        "reasoning": "（她问的是我妈那种语气最常出现在什么时候……这让我一下子想起很多小时候的事。每次我想自己做决定，我妈就会用那种语气，好像我什么都不懂似的。其实现在想想，她可能也是怕我走错路，但那种不信任的感觉一直留在我心里。）\n（在咨询师面前说这些，好像比刚才轻松一点了。至少我能把这种感受说出来，不用再一个人憋着。也许接下来可以想想，我是不是真的需要我妈的认可才能做决定。）"
+      }
+    }
+  ],
+  "created": 1794543032,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 3000,
+    "total_tokens": 3148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

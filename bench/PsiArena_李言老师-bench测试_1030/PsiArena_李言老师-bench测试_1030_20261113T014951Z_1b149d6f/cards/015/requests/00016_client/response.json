@@ -1,0 +1,41 @@
+{
+  "id": "59eee41688fa4cfb822bb47e151cda34",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）一直都有吧。以前家里一有矛盾，我也是先替他们找理由，说他们也不容易。现在对他，好像还是这一套。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这个“找理由”是最近才有还是早就有了，好像想让我看清自己一直以来的模式。我愣了一下，脑子里闪过好多以前的事，确实不是最近才开始的。）\n（我从小就习惯这样，家里一有矛盾，我就先找理由说服自己别闹。现在想想，我好像一直在用这个办法撑日子，可撑到现在，心里只剩累。）",
+        "reasoning": "（咨询师在问我这个“找理由”是最近才有还是早就有了，好像想让我看清自己一直以来的模式。我愣了一下，脑子里闪过好多以前的事，确实不是最近才开始的。）\n（我从小就习惯这样，家里一有矛盾，我就先找理由说服自己别闹。现在想想，我好像一直在用这个办法撑日子，可撑到现在，心里只剩累。）"
+      }
+    }
+  ],
+  "created": 1794535339,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2612,
+    "total_tokens": 2728,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

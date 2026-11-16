@@ -1,0 +1,47 @@
+{
+  "id": "1ee5dd05416a469fa5aedac3a539ccc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就想着……是不是我太没用了，爸妈才不在身边。他们说要挣钱，我知道，可我还是……有点怪他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我晚上哭的时候心里想什么……我其实没跟别人说过这些。有点怕说出来显得太软弱，但刚才她都认真听了，也许可以讲一点。就是那种没人要的感觉，特别难受。）\n（爸妈总说在外面挣钱是为了我，可我真的只想他们能陪陪我。这种话平时根本没人听我说，说出来好像是在怪他们，又好像是我太不懂事。）",
+        "reasoning": "（她问我晚上哭的时候心里想什么……我其实没跟别人说过这些。有点怕说出来显得太软弱，但刚才她都认真听了，也许可以讲一点。就是那种没人要的感觉，特别难受。）\n（爸妈总说在外面挣钱是为了我，可我真的只想他们能陪陪我。这种话平时根本没人听我说，说出来好像是在怪他们，又好像是我太不懂事。）"
+      }
+    }
+  ],
+  "created": 1794800731,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1895,
+    "total_tokens": 2007,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1792,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

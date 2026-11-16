@@ -1,0 +1,41 @@
+{
+  "id": "c412109c79d646cab27f6caa46cba08b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清楚……就是最近工作的时候总集中不了注意力，脑子里乱乱的。嗯，先聊这个可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我想先聊哪方面……我其实也不太确定。他说可以随时暂停或调整，这让我稍微放心一点，至少不是那种必须按部就班、不能被打断的流程。但我还是不太想直接说太深的东西。）\n（也许可以先说说最近的状态，不用一上来就讲那些模糊的梦和记忆。就说工作的时候不太能集中，这样既在回答他的问题，又没有把自己完全暴露出来。看看他会怎么接。）",
+        "reasoning": "（他问我想先聊哪方面……我其实也不太确定。他说可以随时暂停或调整，这让我稍微放心一点，至少不是那种必须按部就班、不能被打断的流程。但我还是不太想直接说太深的东西。）\n（也许可以先说说最近的状态，不用一上来就讲那些模糊的梦和记忆。就说工作的时候不太能集中，这样既在回答他的问题，又没有把自己完全暴露出来。看看他会怎么接。）"
+      }
+    }
+  ],
+  "created": 1794543495,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 958,
+    "total_tokens": 1082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

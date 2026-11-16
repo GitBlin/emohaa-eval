@@ -1,0 +1,41 @@
+{
+  "id": "e78c6064cbe04ebf935993ea6c6db62a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，明早我跟你说说。不过我这人记性差，早上又难受，可能到时候就懒得提了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有逼我保证，反而说做不到也没关系，这让我心里松了一点。可一想到明早还得专门说这事，又觉得有点麻烦，甚至有点不想面对。）\n（不过既然只是说说感受，不是汇报成败，那倒可以试试。只是我不太想把它弄得太正式，说出来怪别扭的。）",
+        "reasoning": "（咨询师没有逼我保证，反而说做不到也没关系，这让我心里松了一点。可一想到明早还得专门说这事，又觉得有点麻烦，甚至有点不想面对。）\n（不过既然只是说说感受，不是汇报成败，那倒可以试试。只是我不太想把它弄得太正式，说出来怪别扭的。）"
+      }
+    }
+  ],
+  "created": 1794536640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3019,
+    "total_tokens": 3116,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

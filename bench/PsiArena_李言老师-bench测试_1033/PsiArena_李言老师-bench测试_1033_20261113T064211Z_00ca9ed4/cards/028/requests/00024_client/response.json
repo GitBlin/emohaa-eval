@@ -1,0 +1,41 @@
+{
+  "id": "6bcdb03ad69044c28ad9df3c680962f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，听出来了。可是真到那天，对着我妈，我不知道还能不能停住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她注意到我停住了，还肯定了这个“难”字。好像在她眼里，这已经算一次小小的成功。我心里有点松动，可又忍不住想到真正面对妈妈时的样子。）\n（刚才在咨询里能停住，是因为知道对面是她。但换成我妈，那种压迫感会一下子回来。我怕自己又忍不住补一堆解释，到时候前功尽弃。）",
+        "reasoning": "（她注意到我停住了，还肯定了这个“难”字。好像在她眼里，这已经算一次小小的成功。我心里有点松动，可又忍不住想到真正面对妈妈时的样子。）\n（刚才在咨询里能停住，是因为知道对面是她。但换成我妈，那种压迫感会一下子回来。我怕自己又忍不住补一堆解释，到时候前功尽弃。）"
+      }
+    }
+  ],
+  "created": 1794553393,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3389,
+    "total_tokens": 3489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

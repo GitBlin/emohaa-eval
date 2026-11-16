@@ -1,0 +1,41 @@
+{
+  "id": "f81b7a3f6af3452ea1b348ebec497235",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "停一秒……听着简单，可我做得到吗？不过试试好像也不亏。那我是不是可以从很小的事开始，比如不想笑的时候就不硬笑？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说的这个“停一秒”好像挺简单的，可我真的能做到吗？我习惯了顺着那个声音走，从来没试过停下来问自己。不过她说得对，那个声音像我妈，但不一定就是对的。）\n（我有点想试试，又有点怕。万一停下来之后，发现自己根本不知道想要什么怎么办。但至少可以先从一件小事开始，比如不勉强自己笑，不用每次都那么累。）",
+        "reasoning": "（她说的这个“停一秒”好像挺简单的，可我真的能做到吗？我习惯了顺着那个声音走，从来没试过停下来问自己。不过她说得对，那个声音像我妈，但不一定就是对的。）\n（我有点想试试，又有点怕。万一停下来之后，发现自己根本不知道想要什么怎么办。但至少可以先从一件小事开始，比如不勉强自己笑，不用每次都那么累。）"
+      }
+    }
+  ],
+  "created": 1794552197,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2432,
+    "total_tokens": 2552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

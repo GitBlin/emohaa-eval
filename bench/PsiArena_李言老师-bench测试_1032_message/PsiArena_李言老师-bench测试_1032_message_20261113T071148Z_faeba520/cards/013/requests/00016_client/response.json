@@ -1,0 +1,41 @@
+{
+  "id": "beee924853d34de28136f4aa2ae24d84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）好像……有时候会犹豫一下。就是心里有个声音说，凭什么要缩回去。但最后大多还是缩了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我下次这句话冒出来时，我是缩回去还是犹豫一下。他好像是想让我看清自己面对这种声音时的真实反应。我仔细想想，好像确实不是每次都一样，有时候心里会挣扎一下。）\n（这种挣扎其实说明我内心并不完全认同那句话，只是习惯性地被它影响。如果我能抓住那个犹豫的瞬间，也许就能慢慢试着不被它牵着走。）",
+        "reasoning": "（咨询师问我下次这句话冒出来时，我是缩回去还是犹豫一下。他好像是想让我看清自己面对这种声音时的真实反应。我仔细想想，好像确实不是每次都一样，有时候心里会挣扎一下。）\n（这种挣扎其实说明我内心并不完全认同那句话，只是习惯性地被它影响。如果我能抓住那个犹豫的瞬间，也许就能慢慢试着不被它牵着走。）"
+      }
+    }
+  ],
+  "created": 1794554528,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2550,
+    "total_tokens": 2662,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

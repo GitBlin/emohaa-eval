@@ -1,0 +1,41 @@
+{
+  "id": "65f8d26b1da34345815a173ddb674a09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点闷）就上次一起吃饭，她全程在跟另一个人聊，我插了几次话都没接上。我坐在那儿，突然觉得自己像个多余的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说“被边缘化”，这个词戳到我了。其实我一直不太敢承认自己在乎这些，总觉得在乎就输了。但最近那件事确实让我特别难受，憋了好几天，连代码都写不进去。说出来会不会显得我太计较？算了，反正都聊到这儿了。）\n（她问的是哪件事最强烈，那就说那次吃饭吧。本来想轻描淡写带过去，但话到嘴边还是忍不住把那种被晾在旁边的感觉讲出来了。说完又有点后悔，怕显得自己小心眼。）",
+        "reasoning": "（她说“被边缘化”，这个词戳到我了。其实我一直不太敢承认自己在乎这些，总觉得在乎就输了。但最近那件事确实让我特别难受，憋了好几天，连代码都写不进去。说出来会不会显得我太计较？算了，反正都聊到这儿了。）\n（她问的是哪件事最强烈，那就说那次吃饭吧。本来想轻描淡写带过去，但话到嘴边还是忍不住把那种被晾在旁边的感觉讲出来了。说完又有点后悔，怕显得自己小心眼。）"
+      }
+    }
+  ],
+  "created": 1794543094,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2211,
+    "total_tokens": 2362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

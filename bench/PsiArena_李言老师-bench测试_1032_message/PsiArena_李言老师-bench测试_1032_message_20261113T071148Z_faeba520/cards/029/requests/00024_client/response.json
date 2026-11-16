@@ -1,0 +1,41 @@
+{
+  "id": "303f1133f7c04d559e4fb94c83caa681",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点犯怵，不过好像也没那么压得慌了。至少知道从哪儿下手了。要是中间又卡住，我还能再来聊聊吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在心里什么感觉，看来是在帮我把注意力从“怎么处理”转到“感受”上。想想那一堆要退要送的东西，确实有点犯怵，但好像也没之前那么压得慌了。）\n（之前总觉得这事没指望，现在至少知道从哪儿下手。整理的时候要是卡住了，或者又冒出那种想买的冲动，我是不是可以再来这儿说说？）",
+        "reasoning": "（咨询师问我现在心里什么感觉，看来是在帮我把注意力从“怎么处理”转到“感受”上。想想那一堆要退要送的东西，确实有点犯怵，但好像也没之前那么压得慌了。）\n（之前总觉得这事没指望，现在至少知道从哪儿下手。整理的时候要是卡住了，或者又冒出那种想买的冲动，我是不是可以再来这儿说说？）"
+      }
+    }
+  ],
+  "created": 1794555283,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3153,
+    "total_tokens": 3272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

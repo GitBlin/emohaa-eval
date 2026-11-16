@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:25.813583+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLin Feng is a strict vegetarian, his diet is completely plant-based, he believes this lifestyle is beneficial to health and the environment. His friend Chen Nan, on the other hand, is a meat lover, his diet is dominated by meat, he believes meat is an important source of healthy eating and physical maintenance. Lin Feng plans to invite Chen Nan to participate in a certain activity.\n\n[Question]\nWhat activity does Lin Feng most likely invite Chen Nan to participate in?\n\n[Candidate Answers]\nA. Vegetarian cooking class\nB. Barbecue party\nC. Seafood festival\nD. Plant-based milk tasting event",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

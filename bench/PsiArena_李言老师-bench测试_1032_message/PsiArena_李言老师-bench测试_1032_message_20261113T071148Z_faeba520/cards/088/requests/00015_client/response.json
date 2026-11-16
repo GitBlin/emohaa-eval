@@ -1,0 +1,41 @@
+{
+  "id": "6fdf0f3e0c2e4aceaff48190ff82dfd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一个同桌吧……不过上次我提了一点，他就说“别想太多”。我就没再往下说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有能放松的朋友……我脑子里其实闪过了一个人，就是同桌。但想到他上次说“别想太多”，我就觉得算了。说出来好像显得我很计较，可那会儿确实有点难受。）\n（可能我确实挺想有人能听我说话的，但又怕说多了人家嫌烦。反正也就那样吧，自己忍忍就过去了。）",
+        "reasoning": "（她问我有没有能放松的朋友……我脑子里其实闪过了一个人，就是同桌。但想到他上次说“别想太多”，我就觉得算了。说出来好像显得我很计较，可那会儿确实有点难受。）\n（可能我确实挺想有人能听我说话的，但又怕说多了人家嫌烦。反正也就那样吧，自己忍忍就过去了。）"
+      }
+    }
+  ],
+  "created": 1794558091,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2175,
+    "total_tokens": 2276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

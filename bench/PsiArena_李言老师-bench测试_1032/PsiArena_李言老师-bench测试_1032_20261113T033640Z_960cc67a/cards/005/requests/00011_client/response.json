@@ -1,0 +1,41 @@
+{
+  "id": "9f89a6a23a3649e480331e965cc82b1d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）您这么一问，我还有点不习惯。就是……怕自己开口了，对方其实不想理我，那我就显得特别多余。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然这样直接问我“今天怎么样”，让我有点措手不及。他好像真的在关心我此刻的感受，而不是像别人那样敷衍地问候。这让我心里有点暖，但又有点不习惯。）\n（我想到自己总是等着别人先开口，好像主动说话就是件很冒险的事。万一对方不想理我呢？那种被晾着的感觉太难受了。但咨询师这样问，让我觉得也许可以试着说说看。）",
+        "reasoning": "（咨询师突然这样直接问我“今天怎么样”，让我有点措手不及。他好像真的在关心我此刻的感受，而不是像别人那样敷衍地问候。这让我心里有点暖，但又有点不习惯。）\n（我想到自己总是等着别人先开口，好像主动说话就是件很冒险的事。万一对方不想理我呢？那种被晾着的感觉太难受了。但咨询师这样问，让我觉得也许可以试着说说看。）"
+      }
+    }
+  ],
+  "created": 1794541368,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1807,
+    "total_tokens": 1933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

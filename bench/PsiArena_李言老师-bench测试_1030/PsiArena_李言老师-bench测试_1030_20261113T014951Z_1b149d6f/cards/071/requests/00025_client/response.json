@@ -1,0 +1,41 @@
+{
+  "id": "f1abf18127bc4626a9edd16b5cc4410e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……那句话来了，就让它响着，不搭理它。以前我总跟它辩，越辩越乱。现在先试试选完就往前，不回头审。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么应付那句“是不是选错了”，我其实也没完全想好。不过刚才说“先认了”的时候，心里好像松了一点。也许我可以不跟那句话较劲，就让它响着。）\n（我想起那个下午清静的感觉，没人打分，挺自在的。要是选完之后能停一下，不马上回头审自己，也许就不会又陷进去。三秒不改，先试试看吧。）",
+        "reasoning": "（她问我怎么应付那句“是不是选错了”，我其实也没完全想好。不过刚才说“先认了”的时候，心里好像松了一点。也许我可以不跟那句话较劲，就让它响着。）\n（我想起那个下午清静的感觉，没人打分，挺自在的。要是选完之后能停一下，不马上回头审自己，也许就不会又陷进去。三秒不改，先试试看吧。）"
+      }
+    }
+  ],
+  "created": 1794538612,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3804,
+    "total_tokens": 3934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

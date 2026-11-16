@@ -1,0 +1,41 @@
+{
+  "id": "b1b32c6d07024a378790c5c1756d04a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一反应……有点慌。就觉得，是不是我这个人真的哪里不对劲。但说完我又有点后悔，好像承认了似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师似乎没有直接否定我的担忧，反而在引导我说出当时的感受。他刚才说分数只是参考，不能当诊断，这让我稍微松了口气，但又有点怀疑他是不是在安慰我。）\n（我其实很害怕那个分数是真的，但又不敢直接承认。说出来可能会好受一点，可我又怕一旦承认了，就真的证明自己有问题。这种矛盾让我不知道该不该继续说下去。）",
+        "reasoning": "（这个咨询师似乎没有直接否定我的担忧，反而在引导我说出当时的感受。他刚才说分数只是参考，不能当诊断，这让我稍微松了口气，但又有点怀疑他是不是在安慰我。）\n（我其实很害怕那个分数是真的，但又不敢直接承认。说出来可能会好受一点，可我又怕一旦承认了，就真的证明自己有问题。这种矛盾让我不知道该不该继续说下去。）"
+      }
+    }
+  ],
+  "created": 1794537590,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1402,
+    "total_tokens": 1515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

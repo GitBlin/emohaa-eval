@@ -1,0 +1,47 @@
+{
+  "id": "b65a16f93c97444dabed51dbfc3ef366",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最明显……大概是考试成绩出来的时候吧。考得好是应该的，考不好，家里气氛就很沉，没人骂我，但那种沉默更难受。（语速慢下来）好像我整个人就只剩下那个分数。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到了家里最明显的时候……这让我想起很多事。其实我不太想直接说父母，但刚才已经提到家里了，再绕开反而显得奇怪。）\n（小时候考得好是应该的，考不好就是态度问题。这种话听多了，慢慢就觉得自己的价值全挂在成绩和表现上。现在跟人相处，也总怕自己哪里没做好就被否定。）",
+        "reasoning": "（她问到了家里最明显的时候……这让我想起很多事。其实我不太想直接说父母，但刚才已经提到家里了，再绕开反而显得奇怪。）\n（小时候考得好是应该的，考不好就是态度问题。这种话听多了，慢慢就觉得自己的价值全挂在成绩和表现上。现在跟人相处，也总怕自己哪里没做好就被否定。）"
+      }
+    }
+  ],
+  "created": 1794800594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1713,
+    "total_tokens": 1843,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

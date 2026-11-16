@@ -1,0 +1,41 @@
+{
+  "id": "1422993af8fe43f9ba3ba4930843d9c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，明天课间吧，就在教室后面。我试试，可能还是会有点紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很认真地帮我想办法，还具体到明天课间。我心里有点想试，但又怕到时候话到嘴边说不出来，或者他拒绝了我会更难受。不过既然都聊到这了，我觉得可以定个具体点的地方，比如课间在教室后面，那样没那么多人看着，我也没那么紧张。）\n（其实我也在想，除了跟同桌说话，我那个老躲厕所玩手机的事是不是也得改改。但一下子改太多，我怕自己做不到，反而更泄气。先试试跟同桌开口这一件吧，别的以后再说。）",
+        "reasoning": "（咨询师好像很认真地帮我想办法，还具体到明天课间。我心里有点想试，但又怕到时候话到嘴边说不出来，或者他拒绝了我会更难受。不过既然都聊到这了，我觉得可以定个具体点的地方，比如课间在教室后面，那样没那么多人看着，我也没那么紧张。）\n（其实我也在想，除了跟同桌说话，我那个老躲厕所玩手机的事是不是也得改改。但一下子改太多，我怕自己做不到，反而更泄气。先试试跟同桌开口这一件吧，别的以后再说。）"
+      }
+    }
+  ],
+  "created": 1794540434,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2861,
+    "total_tokens": 3001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

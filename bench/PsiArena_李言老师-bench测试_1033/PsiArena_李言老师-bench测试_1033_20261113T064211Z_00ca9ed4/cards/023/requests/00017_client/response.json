@@ -1,0 +1,41 @@
+{
+  "id": "d05baa2edb2349e698529bbf8f9e13f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那句“我们是为你好”。每次听到这句，我就忍不住想顶回去。可我也知道，顶回去只会越吵越凶。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我最容易在哪句话上被带着吵起来，这问题一下戳到我了。我太清楚那句话是什么了，就是“我们是为你好”，每次听到这句，火就压不住。）\n（可我也知道，光发火没用。我得说出这句话，但说完之后，我更想知道下次真听到了，自己能不能做到不立刻顶回去。哪怕只是先停一下。）",
+        "reasoning": "（她问到我最容易在哪句话上被带着吵起来，这问题一下戳到我了。我太清楚那句话是什么了，就是“我们是为你好”，每次听到这句，火就压不住。）\n（可我也知道，光发火没用。我得说出这句话，但说完之后，我更想知道下次真听到了，自己能不能做到不立刻顶回去。哪怕只是先停一下。）"
+      }
+    }
+  ],
+  "created": 1794553140,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2657,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "561f5e2ba4d6447e81dd5da69066e688",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是……几次模拟考试之后吧。我也说不太清楚，反正成绩一直上不去，然后就开始有点……不太对劲了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种心里乱的感觉是从什么时候开始的。她语气挺温和的，还说不怪我……但我还是不太想马上说太多，毕竟才刚开始。不过她问得也不算太深入，只是时间点而已。）\n（我可以稍微说一点，比如模考之后，但也不用讲太细。其实我也想知道她会不会像别人一样，觉得我就是不够努力。先给个大概的时间，看她怎么反应吧。）",
+        "reasoning": "（咨询师在问我这种心里乱的感觉是从什么时候开始的。她语气挺温和的，还说不怪我……但我还是不太想马上说太多，毕竟才刚开始。不过她问得也不算太深入，只是时间点而已。）\n（我可以稍微说一点，比如模考之后，但也不用讲太细。其实我也想知道她会不会像别人一样，觉得我就是不够努力。先给个大概的时间，看她怎么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794543183,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1094,
+    "total_tokens": 1214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

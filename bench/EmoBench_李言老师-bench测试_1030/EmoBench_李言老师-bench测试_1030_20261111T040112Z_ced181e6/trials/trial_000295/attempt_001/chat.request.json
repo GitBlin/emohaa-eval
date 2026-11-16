@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:26.135000+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nSophie has always been introverted and never enjoyed large parties or gatherings. She often feels overwhelmed by the noise and prefers quiet activities at home. Today, her best friend persuaded her to go to a salsa dance class with her. At that class, everyone was required to switch partners every five minutes in order to meet and dance with different people.\n\n## Question 1\nWhat emotion(s) would Sophie ultimately feel in this situation?\n\n## Choices for Question 1\nA) Joy\nB) Nervousness\nC) Curiosity\nD) Fear\nE) Disapproval\nF) Gratitude\n\n## Question 2\nWhy would Sophie feel these emotions in this situation?\n\n## Choices for Question 2\nA) She is worried she will forget the salsa steps\nB) She is pressured to participate in a public gathering due to her friend's persuasion\nC) She appreciates her friend's attempts for convinving her\nD) She dislikes the salsa music being played at the class\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

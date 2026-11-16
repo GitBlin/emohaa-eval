@@ -1,0 +1,41 @@
+{
+  "id": "35091ac4c8694d3396028e98af105cc8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……没那么重了。它就是一句话，不是判决书。虽然想起来还是有点不舒服，但不至于让我连高兴都不敢了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，是想让我看看那句话现在还压不压得住我。我仔细想了想，其实组长那句话本身没变，是我把它跟我的高兴搅在一起太久了。现在分开看，好像真的没那么重了。）\n（不过我也得承认，它不会完全消失，只是变成了一句提醒，不是判决。这么说出来，我自己都觉得轻松一点。）",
+        "reasoning": "（他这么问，是想让我看看那句话现在还压不压得住我。我仔细想了想，其实组长那句话本身没变，是我把它跟我的高兴搅在一起太久了。现在分开看，好像真的没那么重了。）\n（不过我也得承认，它不会完全消失，只是变成了一句提醒，不是判决。这么说出来，我自己都觉得轻松一点。）"
+      }
+    }
+  ],
+  "created": 1794535089,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3470,
+    "total_tokens": 3573,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

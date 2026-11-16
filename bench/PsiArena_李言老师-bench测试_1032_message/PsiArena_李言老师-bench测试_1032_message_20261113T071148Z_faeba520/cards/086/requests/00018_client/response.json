@@ -1,0 +1,41 @@
+{
+  "id": "1b4a4df6b42841b7af0e98210cfe2d99",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想从吃饭开始吧，吃的时候停一下，问问自己是不是真的饿了。不过……我怕自己做不到，会不会又变成逼自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我从哪件小事开始留意身体的感觉，她好像很支持我自己找到的方向。我想到吃饭时那个声音一直跟着我，每次夹菜都紧张，那不如就从一顿饭开始试试。不过说完又有点担心，万一做不到是不是又证明我不够好，所以得加一句别太苛刻。）\n（毕竟我是那种容易自责的人，哪怕在探索解决方案的时候，也会先给自己留点余地。说“一顿饭”比说“每天”要轻松些，先试试看，不行再说。）",
+        "reasoning": "（咨询师问我从哪件小事开始留意身体的感觉，她好像很支持我自己找到的方向。我想到吃饭时那个声音一直跟着我，每次夹菜都紧张，那不如就从一顿饭开始试试。不过说完又有点担心，万一做不到是不是又证明我不够好，所以得加一句别太苛刻。）\n（毕竟我是那种容易自责的人，哪怕在探索解决方案的时候，也会先给自己留点余地。说“一顿饭”比说“每天”要轻松些，先试试看，不行再说。）"
+      }
+    }
+  ],
+  "created": 1794558062,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2488,
+    "total_tokens": 2629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

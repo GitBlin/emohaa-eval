@@ -1,0 +1,41 @@
+{
+  "id": "8ad0bf20d57e4cb8a60dce975122725b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先停一下，问问自己“真有那么严重吗”。（停顿）可能还是得从小事练起，不然光想也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我想怎么回应那个“万一选错了”的念头。我一下子想到的，就是别急着被它拖进去，先停一下。可我又怕自己做不到，毕竟这毛病跟了我这么久。也许可以先从那种不太要紧的小事上练，就算选得不完美，也不会有什么大后果。）\n（不过我还是有点不确定，这种“停一下”的办法真的有用吗？万一停下来之后，反而更纠结了呢。可既然咨询师这么问，我想试着说说看，哪怕只是先想个简单的办法。）",
+        "reasoning": "（咨询师在问我想怎么回应那个“万一选错了”的念头。我一下子想到的，就是别急着被它拖进去，先停一下。可我又怕自己做不到，毕竟这毛病跟了我这么久。也许可以先从那种不太要紧的小事上练，就算选得不完美，也不会有什么大后果。）\n（不过我还是有点不确定，这种“停一下”的办法真的有用吗？万一停下来之后，反而更纠结了呢。可既然咨询师这么问，我想试着说说看，哪怕只是先想个简单的办法。）"
+      }
+    }
+  ],
+  "created": 1794557163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2480,
+    "total_tokens": 2625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

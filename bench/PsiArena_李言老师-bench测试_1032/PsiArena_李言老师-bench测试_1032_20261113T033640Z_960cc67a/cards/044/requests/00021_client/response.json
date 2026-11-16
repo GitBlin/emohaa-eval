@@ -1,0 +1,41 @@
+{
+  "id": "a9c184172db9444f965974ccc56d5bb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我试试。可能就写：“我不是一个人，至少现在不是。”写出来感觉有点别扭，但好像也没那么糟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我写下此刻最想抓住的一句话……这让我有点慌，因为平时我连自己到底想要什么都说不清楚。不过她问得很温和，好像写什么都行，不会评判我。）\n（我脑子里冒出很多话，比如“别丢下我”或者“我是不是很没用”，但最后觉得“我不是一个人，至少现在不是”最能让我稍微安心一点。虽然写下来有点别扭，但说出来好像也没那么难。）",
+        "reasoning": "（咨询师让我写下此刻最想抓住的一句话……这让我有点慌，因为平时我连自己到底想要什么都说不清楚。不过她问得很温和，好像写什么都行，不会评判我。）\n（我脑子里冒出很多话，比如“别丢下我”或者“我是不是很没用”，但最后觉得“我不是一个人，至少现在不是”最能让我稍微安心一点。虽然写下来有点别扭，但说出来好像也没那么难。）"
+      }
+    }
+  ],
+  "created": 1794550556,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2918,
+    "total_tokens": 3041,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

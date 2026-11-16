@@ -1,0 +1,41 @@
+{
+  "id": "255180c38ccc4d1ca776789656b0d0cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有联系，我们算是一起工作的同事。（停顿）所以每天都会见到，反而更难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近和那个人有没有联系……他好像很自然地就把话题引到那个人身上了。我本来以为说了“胡思乱想”之后他会继续安慰我，没想到他直接问到了具体的人。这让我有点紧张，不知道该说多少。）\n（不过前面几轮下来，他确实没有评判我，也没有急着给建议。也许可以稍微多透露一点，但还不想说得太深。毕竟这件事牵扯到的东西太多了，我自己都还没理清楚。）",
+        "reasoning": "（咨询师在问我最近和那个人有没有联系……他好像很自然地就把话题引到那个人身上了。我本来以为说了“胡思乱想”之后他会继续安慰我，没想到他直接问到了具体的人。这让我有点紧张，不知道该说多少。）\n（不过前面几轮下来，他确实没有评判我，也没有急着给建议。也许可以稍微多透露一点，但还不想说得太深。毕竟这件事牵扯到的东西太多了，我自己都还没理清楚。）"
+      }
+    }
+  ],
+  "created": 1794555560,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1483,
+    "total_tokens": 1608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

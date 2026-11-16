@@ -1,0 +1,41 @@
+{
+  "id": "683a0c3ef8aa48a189360f5784098f78",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）可以试试。就是……我怕到时候又想不起来，或者觉得说了也没用。能不能写下来？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（到了后期，咨询师帮我把那句自我宽慰的话变成了夜里可以用的具体办法。我其实有点怕自己做不到，但想到晚上睡不着时能有个抓手，心里又踏实些。）\n（我担心自己会忘，所以想把它写下来。这比空口答应更实在，也算是我愿意为自己做的一件小事。）",
+        "reasoning": "（到了后期，咨询师帮我把那句自我宽慰的话变成了夜里可以用的具体办法。我其实有点怕自己做不到，但想到晚上睡不着时能有个抓手，心里又踏实些。）\n（我担心自己会忘，所以想把它写下来。这比空口答应更实在，也算是我愿意为自己做的一件小事。）"
+      }
+    }
+  ],
+  "created": 1794539075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3263,
+    "total_tokens": 3359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

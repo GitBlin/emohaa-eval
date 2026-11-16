@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_000203",
+  "sample_id": "EU:4",
+  "task": "EU",
+  "language": "zh",
+  "repeat": 0,
+  "category": "complex_emotions",
+  "fine_category": "emotion_transition",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "D",
+    "answer_q2": "A"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_be20eb8b0f0c52e3ea9214f3960a17f0428205e1",
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "reply": "```json\n{\n  \"answer_q1\": \"D\",\n  \"answer_q2\": \"A\"\n}\n```",
+  "prediction_original": {
+    "answer_q1": "D",
+    "answer_q2": "A"
+  },
+  "component_correct": {
+    "answer_q1": true,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:19:58.455395+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "D",
+    "answer_q2": "A"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.091747246682644,
+  "finished_at": "2026-11-12T11:20:00.547100+00:00"
+}

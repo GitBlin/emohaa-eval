@@ -1,0 +1,41 @@
+{
+  "id": "65cc5e0e3d6846019ee663bc23901254",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说……感觉有点怪，好像说不出口。而且说了又能怎么样呢，成绩也不会变。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我对自己说“我已经挺努力了”……可这话听着好陌生，好像从来没人这么跟我说过。我爸妈最多说“下次再努力”，同桌也不会在意我努不努力。我自己说，感觉怪怪的，像是在骗自己。）\n（不过……如果真要说，是不是也说明我可以不用一直等着别人来认可我？但光说这一句，成绩也不会变好，同桌也不会突然对我热情。我有点想试试，又怕试了之后更失落。）",
+        "reasoning": "（咨询师让我对自己说“我已经挺努力了”……可这话听着好陌生，好像从来没人这么跟我说过。我爸妈最多说“下次再努力”，同桌也不会在意我努不努力。我自己说，感觉怪怪的，像是在骗自己。）\n（不过……如果真要说，是不是也说明我可以不用一直等着别人来认可我？但光说这一句，成绩也不会变好，同桌也不会突然对我热情。我有点想试试，又怕试了之后更失落。）"
+      }
+    }
+  ],
+  "created": 1794543254,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2483,
+    "total_tokens": 2609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

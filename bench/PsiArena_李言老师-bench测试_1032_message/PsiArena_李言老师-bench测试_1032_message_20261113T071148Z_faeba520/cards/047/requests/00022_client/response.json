@@ -1,0 +1,41 @@
+{
+  "id": "a9e8345a5e6c4debaaeda389defb1e05",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……对学生说过，他们做错题的时候我就会这么说。对同事也说过。可轮到我自己，好像从来没这么讲过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有对别人说过类似的话……这让我想起平时安慰学生和同事的时候，我确实很自然地会说“没关系，慢慢来”。可轮到自己，怎么就那么难开口呢。也许我一直对别人宽容，对自己却特别苛刻。）\n（这个发现让我有点意外，也有点心酸。好像我从来没意识到，我对自己和对别人的态度差这么多。不过现在想想，这或许正是我需要改变的地方。）",
+        "reasoning": "（她问我有没有对别人说过类似的话……这让我想起平时安慰学生和同事的时候，我确实很自然地会说“没关系，慢慢来”。可轮到自己，怎么就那么难开口呢。也许我一直对别人宽容，对自己却特别苛刻。）\n（这个发现让我有点意外，也有点心酸。好像我从来没意识到，我对自己和对别人的态度差这么多。不过现在想想，这或许正是我需要改变的地方。）"
+      }
+    }
+  ],
+  "created": 1794555995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2940,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

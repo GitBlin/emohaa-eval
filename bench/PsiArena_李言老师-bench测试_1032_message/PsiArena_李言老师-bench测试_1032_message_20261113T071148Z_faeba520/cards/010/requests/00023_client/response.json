@@ -1,0 +1,41 @@
+{
+  "id": "ce7744b3f3724a249651e15ccf372abe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先找个周末试试，先写下来，再找机会说。可能得先自己打个草稿，免得到时候又说不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候行动，这让我有点紧张。其实我心里还没底，但既然说出来了，总得有个方向。我想先自己理清楚，免得一开口就乱。）\n（周末可能是个相对轻松的时间，爸妈不会那么忙，我也能准备好。不过我还是担心自己到时候会不会又退缩，所以得先打个草稿，至少让自己心里有点底。）",
+        "reasoning": "（咨询师问我打算什么时候行动，这让我有点紧张。其实我心里还没底，但既然说出来了，总得有个方向。我想先自己理清楚，免得一开口就乱。）\n（周末可能是个相对轻松的时间，爸妈不会那么忙，我也能准备好。不过我还是担心自己到时候会不会又退缩，所以得先打个草稿，至少让自己心里有点底。）"
+      }
+    }
+  ],
+  "created": 1794554380,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2959,
+    "total_tokens": 3070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "26416df8628246d18dec93afc06a3e17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次同事让我整理书架，我弄了半天，总怕顺序不对。其实没人说什么，我自己先紧张得不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近在单位有没有特别小心的事。她好像一直很温和，没有急着评判我。也许可以稍微说一点具体的，但不用全倒出来。想到整理书架那件事，心里就有点发紧。）\n（我确实怕出错，尤其是别人经手过的东西。说不清是怕弄乱还是怕被怪。这样讲出来，她应该能明白我不是故意那么紧张的吧。）",
+        "reasoning": "（咨询师问我最近在单位有没有特别小心的事。她好像一直很温和，没有急着评判我。也许可以稍微说一点具体的，但不用全倒出来。想到整理书架那件事，心里就有点发紧。）\n（我确实怕出错，尤其是别人经手过的东西。说不清是怕弄乱还是怕被怪。这样讲出来，她应该能明白我不是故意那么紧张的吧。）"
+      }
+    }
+  ],
+  "created": 1794557248,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1820,
+    "total_tokens": 1934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

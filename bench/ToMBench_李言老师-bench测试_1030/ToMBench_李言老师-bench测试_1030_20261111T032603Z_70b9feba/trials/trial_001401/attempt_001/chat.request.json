@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:27:29.410658+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLia is a great chef, in a cooking competition, she prepares a special dish. Sam is her assistant, he adds seasoning to the dish according to Lia's instructions, but he adds the wrong seasoning halfway. At the same time, Chris is Lia's opponent, he knows about Sam's mistake, but decides not to tell anyone. After the competition results come out, Lia's dish gets high praise from the judges because of its unique taste, but Lia herself feels confused about this unexpected change.\n\n[Question]\nWhat kind of emotion does Sam feel when he realizes he might have added the wrong seasoning?\n\n[Candidate Answers]\nA. Sam probably feels confused, because he is not sure if he really makes a mistake.\nB. Sam probably feels proud, because the dish gets good reviews from the judges.\nC. Sam probably feels nervous and worried, because his mistake might affect the outcome of the competition.\nD. Sam probably feels satisfied, because he thinks he follows Lia's instructions.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

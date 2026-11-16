@@ -1,0 +1,41 @@
+{
+  "id": "65f707028d0148b0abbd718dd2e932a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音很小）我有我的好……说起来还是有点别扭，但好像没那么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对自己说那句话……我第一反应是抗拒，觉得别扭，甚至有点想躲开。可刚才我明明能对朋友说出“你有你的好”，为什么轮到自己就这么难呢？）\n（或许我可以试着小声说出来，哪怕声音很小，哪怕心里还不完全相信。至少先迈出这一步，看看说出来之后自己是什么感觉。）",
+        "reasoning": "（她让我对自己说那句话……我第一反应是抗拒，觉得别扭，甚至有点想躲开。可刚才我明明能对朋友说出“你有你的好”，为什么轮到自己就这么难呢？）\n（或许我可以试着小声说出来，哪怕声音很小，哪怕心里还不完全相信。至少先迈出这一步，看看说出来之后自己是什么感觉。）"
+      }
+    }
+  ],
+  "created": 1794553988,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2910,
+    "total_tokens": 3003,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

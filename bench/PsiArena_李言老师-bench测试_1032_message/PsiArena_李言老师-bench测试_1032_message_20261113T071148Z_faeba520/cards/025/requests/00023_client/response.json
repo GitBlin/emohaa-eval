@@ -1,0 +1,41 @@
+{
+  "id": "584b46cf765e4c649984e046d7cb416e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……肩膀好像没那么紧了。挺奇怪的，一句软一点的话，比硬撑着管用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注身体感受，这让我有点意外。我平时很少会注意这些，但刚才确实感觉到肩膀没那么紧了。）\n（也许我可以试着诚实地说出这种变化，这样既回应了咨询师的问题，也能让自己更真实地面对当下的状态。）",
+        "reasoning": "（咨询师在引导我关注身体感受，这让我有点意外。我平时很少会注意这些，但刚才确实感觉到肩膀没那么紧了。）\n（也许我可以试着诚实地说出这种变化，这样既回应了咨询师的问题，也能让自己更真实地面对当下的状态。）"
+      }
+    }
+  ],
+  "created": 1794555079,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3049,
+    "total_tokens": 3129,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

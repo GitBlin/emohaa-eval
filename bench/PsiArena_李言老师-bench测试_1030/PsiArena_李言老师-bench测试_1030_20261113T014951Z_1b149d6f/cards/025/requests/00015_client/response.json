@@ -1,0 +1,41 @@
+{
+  "id": "ba1531c53f724814a6079fe3b1470a69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概就是那句“懂事”吧，家里没人明着立规矩，可它一直在那儿。我现在当妈，好像也自动接着用这套来要求自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是想让我回到那个“懂事”的源头。可我一想到爸妈，心里就有点乱，他们确实没逼我，可那种期待又无处不在。我得把这种矛盾说出来，但又不想显得在怪他们。）\n（其实我自己也清楚，现在当妈了，这种“得做好”的劲儿就像长在身上一样。说出来反而有点难受，好像终于承认了，我一直在替那个“懂事”的规矩活着。）",
+        "reasoning": "（她这么问，是想让我回到那个“懂事”的源头。可我一想到爸妈，心里就有点乱，他们确实没逼我，可那种期待又无处不在。我得把这种矛盾说出来，但又不想显得在怪他们。）\n（其实我自己也清楚，现在当妈了，这种“得做好”的劲儿就像长在身上一样。说出来反而有点难受，好像终于承认了，我一直在替那个“懂事”的规矩活着。）"
+      }
+    }
+  ],
+  "created": 1794535883,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2552,
+    "total_tokens": 2682,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

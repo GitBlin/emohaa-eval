@@ -1,0 +1,41 @@
+{
+  "id": "c199424e914f4e798608136197c6e60b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）这周末回家吃饭吧，她做饭的时候一般心情还行。（有点不确定）不过我怕说着说着又变成老样子，忍不住解释一堆。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我定个时间，我其实心里没底。周末回去吃饭，我妈肯定在厨房忙，那时候说会不会太突然？不过她提过挑她不忙的时候，那会儿好像确实合适。先说出来，至少比一直憋着强。）\n（但光说一句就停住，她要是追问呢？我有点怕自己又习惯性地解释下去。得记住那句“我先自己缓缓”，别被带跑。）",
+        "reasoning": "（她让我定个时间，我其实心里没底。周末回去吃饭，我妈肯定在厨房忙，那时候说会不会太突然？不过她提过挑她不忙的时候，那会儿好像确实合适。先说出来，至少比一直憋着强。）\n（但光说一句就停住，她要是追问呢？我有点怕自己又习惯性地解释下去。得记住那句“我先自己缓缓”，别被带跑。）"
+      }
+    }
+  ],
+  "created": 1794538057,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2803,
+    "total_tokens": 2928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

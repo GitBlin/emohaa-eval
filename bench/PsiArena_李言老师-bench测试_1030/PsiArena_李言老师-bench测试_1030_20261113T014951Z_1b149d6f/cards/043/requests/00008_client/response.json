@@ -1,0 +1,41 @@
+{
+  "id": "92e7c4493c2e4990b4b060a698692266",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概就是上次考试成绩出来以后。她这次考得挺好的，然后就……话变少了，我问她题她也爱答不理的。我就老想，是不是我成绩差，她不想跟我一块儿了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起同桌冷淡的时间点，让我一下子想起那些细节。其实我早就想说了，只是之前不敢讲。现在她这么问，好像真的愿意听，我有点想告诉她更多。）\n（可说着说着又觉得委屈，好像我一直在讨好她，却换不来同样的回应。这种比较让我难受，也让我觉得自己很没用。也许说出来，她能帮我看看是不是我想多了。）",
+        "reasoning": "（她问起同桌冷淡的时间点，让我一下子想起那些细节。其实我早就想说了，只是之前不敢讲。现在她这么问，好像真的愿意听，我有点想告诉她更多。）\n（可说着说着又觉得委屈，好像我一直在讨好她，却换不来同样的回应。这种比较让我难受，也让我觉得自己很没用。也许说出来，她能帮我看看是不是我想多了。）"
+      }
+    }
+  ],
+  "created": 1794536599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1677,
+    "total_tokens": 1806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

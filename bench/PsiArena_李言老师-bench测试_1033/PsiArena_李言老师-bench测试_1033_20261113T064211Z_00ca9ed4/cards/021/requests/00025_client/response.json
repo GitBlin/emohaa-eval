@@ -1,0 +1,41 @@
+{
+  "id": "96b22a6898e94c43823ce0bdb7b10731",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就下次喝茶的时候吧，等她倒茶的空档，我顺口问一句。（停顿）说出来心里好像踏实点，虽然还是有点打鼓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算什么时候把话头递过去，这让我有点慌，我还没想那么细。不过刚才聊下来，好像确实可以试着做点什么，不用一上来就掏心窝子。）\n（我想着，也许不用逼自己定太死，就找个自然的时候，比如她倒茶时我顺口问一句。这样既不会太刻意，也能让自己有个开始。）",
+        "reasoning": "（她问我打算什么时候把话头递过去，这让我有点慌，我还没想那么细。不过刚才聊下来，好像确实可以试着做点什么，不用一上来就掏心窝子。）\n（我想着，也许不用逼自己定太死，就找个自然的时候，比如她倒茶时我顺口问一句。这样既不会太刻意，也能让自己有个开始。）"
+      }
+    }
+  ],
+  "created": 1794553129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3585,
+    "total_tokens": 3704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:13.819059+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n亚当和我建立了一个健康的工作关系，并且总是相互尊重。但昨天他没有明显理由地冲我大发脾气。\n\n## 问题\n在这个场景中，我最有效的Response是什么？\n\n## 选项\nA) “你无权这么和我说话”\nB) “有什么事情困扰你吗？你看起来很沮丧”\nC) “我认为继续一起工作是不健康的”\nD) “不好意思，但我必须报告你的这种行为”\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

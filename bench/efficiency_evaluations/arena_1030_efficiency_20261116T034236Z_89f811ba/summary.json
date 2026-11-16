@@ -1,0 +1,791 @@
+{
+  "wall_seconds": 441.0529820649972,
+  "statuses": [
+    {
+      "card": 1,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/001/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 2,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/002/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 0,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/000/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 3,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/003/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 4,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/004/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 7,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/007/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 5,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/005/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 6,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/006/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 8,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/008/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    },
+    {
+      "card": 9,
+      "attempts": [
+        {
+          "attempt": 1,
+          "directory": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/efficiency_evaluations/arena_1030_efficiency_20261116T034236Z_89f811ba/cards/009/attempt_01",
+          "complete": true
+        }
+      ],
+      "complete": true
+    }
+  ],
+  "all_attempts": {
+    "selected_cases": 250,
+    "chat_attempts": 250,
+    "setup_failures": 0,
+    "successful_chats": 250,
+    "failed_chats": 0,
+    "success_rate": 1.0,
+    "first_text": {
+      "n": 250,
+      "p50_seconds": 1.6842728434985474,
+      "p95_seconds": 2.3871418573004117
+    },
+    "complete": {
+      "n": 250,
+      "p50_seconds": 2.216428242998518,
+      "p95_seconds": 2.9553585335002936
+    },
+    "successful_and_first_text_within": {
+      "1": 0.0,
+      "2": 0.764,
+      "3": 0.984,
+      "5": 0.992
+    },
+    "text_gaps": {
+      "scope": "successful requests only; each request contributes one maximum",
+      "measured_requests": 250,
+      "requests_with_at_least_two_text_events": 250,
+      "single_text_event_requests": 0,
+      "max_gap_p50_seconds": 0.11193224850103434,
+      "max_gap_p95_seconds": 0.22915811860038948,
+      "max_gap_seconds": 0.6467173439996259,
+      "requests_exceeding_gap": {
+        "0.5": 4,
+        "1": 0,
+        "2": 0
+      },
+      "tail_wait_p50_seconds": 0.023419997500241152,
+      "tail_wait_p95_seconds": 0.026542255051026586
+    },
+    "answer_format_valid": 0,
+    "correct_answers": 0
+  },
+  "completed_session_turns": {
+    "selected_cases": 250,
+    "chat_attempts": 250,
+    "setup_failures": 0,
+    "successful_chats": 250,
+    "failed_chats": 0,
+    "success_rate": 1.0,
+    "first_text": {
+      "n": 250,
+      "p50_seconds": 1.6842728434985474,
+      "p95_seconds": 2.3871418573004117
+    },
+    "complete": {
+      "n": 250,
+      "p50_seconds": 2.216428242998518,
+      "p95_seconds": 2.9553585335002936
+    },
+    "successful_and_first_text_within": {
+      "1": 0.0,
+      "2": 0.764,
+      "3": 0.984,
+      "5": 0.992
+    },
+    "text_gaps": {
+      "scope": "successful requests only; each request contributes one maximum",
+      "measured_requests": 250,
+      "requests_with_at_least_two_text_events": 250,
+      "single_text_event_requests": 0,
+      "max_gap_p50_seconds": 0.11193224850103434,
+      "max_gap_p95_seconds": 0.22915811860038948,
+      "max_gap_seconds": 0.6467173439996259,
+      "requests_exceeding_gap": {
+        "0.5": 4,
+        "1": 0,
+        "2": 0
+      },
+      "tail_wait_p50_seconds": 0.023419997500241152,
+      "tail_wait_p95_seconds": 0.026542255051026586
+    },
+    "answer_format_valid": 0,
+    "correct_answers": 0
+  },
+  "by_turn_group": {
+    "01": {
+      "selected_cases": 10,
+      "chat_attempts": 10,
+      "setup_failures": 0,
+      "successful_chats": 10,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 10,
+        "p50_seconds": 1.3510572585018963,
+        "p95_seconds": 1.7872599514990724
+      },
+      "complete": {
+        "n": 10,
+        "p50_seconds": 1.5519382140009839,
+        "p95_seconds": 1.9881867267988125
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 1.0,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 10,
+        "requests_with_at_least_two_text_events": 10,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.10491666500092833,
+        "max_gap_p95_seconds": 0.2198081065989754,
+        "max_gap_seconds": 0.23220524299904355,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.02198001550095796,
+        "tail_wait_p95_seconds": 0.02334274220120278
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "02-05": {
+      "selected_cases": 40,
+      "chat_attempts": 40,
+      "setup_failures": 0,
+      "successful_chats": 40,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 40,
+        "p50_seconds": 1.5622493874998327,
+        "p95_seconds": 2.0431979205985034
+      },
+      "complete": {
+        "n": 40,
+        "p50_seconds": 1.9948405809991527,
+        "p95_seconds": 2.4879688447494117
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.925,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 40,
+        "requests_with_at_least_two_text_events": 40,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.1073642524988827,
+        "max_gap_p95_seconds": 0.16673629519882524,
+        "max_gap_seconds": 0.19121063399870764,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.02244380599768192,
+        "tail_wait_p95_seconds": 0.02713519350181736
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "06-15": {
+      "selected_cases": 100,
+      "chat_attempts": 100,
+      "setup_failures": 0,
+      "successful_chats": 100,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 100,
+        "p50_seconds": 1.745767522997994,
+        "p95_seconds": 2.353327759298372
+      },
+      "complete": {
+        "n": 100,
+        "p50_seconds": 2.288896649499293,
+        "p95_seconds": 2.925218801248047
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.71,
+        "3": 0.99,
+        "5": 0.99
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 100,
+        "requests_with_at_least_two_text_events": 100,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.11631132699949376,
+        "max_gap_p95_seconds": 0.20478318060031594,
+        "max_gap_seconds": 0.5278980260009121,
+        "requests_exceeding_gap": {
+          "0.5": 1,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.023147412999605876,
+        "tail_wait_p95_seconds": 0.02524392695104325
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "16-25": {
+      "selected_cases": 100,
+      "chat_attempts": 100,
+      "setup_failures": 0,
+      "successful_chats": 100,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 100,
+        "p50_seconds": 1.7965577494996978,
+        "p95_seconds": 2.398945806349911
+      },
+      "complete": {
+        "n": 100,
+        "p50_seconds": 2.2857744864995766,
+        "p95_seconds": 3.1195202359001994
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.73,
+        "3": 0.97,
+        "5": 0.99
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 100,
+        "requests_with_at_least_two_text_events": 100,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.11569658950065786,
+        "max_gap_p95_seconds": 0.2973759929995139,
+        "max_gap_seconds": 0.6467173439996259,
+        "requests_exceeding_gap": {
+          "0.5": 3,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.024365564499021275,
+        "tail_wait_p95_seconds": 0.029267592198448256
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    }
+  },
+  "per_card": {
+    "0": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.8978303120020428,
+        "p95_seconds": 2.366956297000433
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.3562199959997088,
+        "p95_seconds": 2.673910669799807
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.68,
+        "3": 0.96,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.11134564399981173,
+        "max_gap_p95_seconds": 0.22933271719957699,
+        "max_gap_seconds": 0.29617534399949363,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.02252102000056766,
+        "tail_wait_p95_seconds": 0.02571969580021687
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "1": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.6668846530010342,
+        "p95_seconds": 2.4875941416015843
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.2472967030007567,
+        "p95_seconds": 3.0782248214003625
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.68,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.11214621899853228,
+        "max_gap_p95_seconds": 0.5219858811993612,
+        "max_gap_seconds": 0.6467173439996259,
+        "requests_exceeding_gap": {
+          "0.5": 2,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.023106278997147456,
+        "tail_wait_p95_seconds": 0.025238731201534394
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "2": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.7452302600031544,
+        "p95_seconds": 2.3306008326006116
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.3760067990006064,
+        "p95_seconds": 2.9625622457984715
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.72,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.12053203500181553,
+        "max_gap_p95_seconds": 0.22592842360099885,
+        "max_gap_seconds": 0.5278980260009121,
+        "requests_exceeding_gap": {
+          "0.5": 1,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.023670238002523547,
+        "tail_wait_p95_seconds": 0.026566582198574905
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "3": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.7960925289989973,
+        "p95_seconds": 2.3685926876009034
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.3019126170001982,
+        "p95_seconds": 3.1369055052011388
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.68,
+        "3": 0.96,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.12631910200070706,
+        "max_gap_p95_seconds": 0.23467623860051387,
+        "max_gap_seconds": 0.30760210899825324,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.022924801996850874,
+        "tail_wait_p95_seconds": 0.026707383601024048
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "4": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.6916290090011898,
+        "p95_seconds": 2.2183703301983764
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.0602052089998324,
+        "p95_seconds": 2.8152238684000617
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.88,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.1094626909980434,
+        "max_gap_p95_seconds": 0.13753260060038883,
+        "max_gap_seconds": 0.16673847200218006,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.023370013001112966,
+        "tail_wait_p95_seconds": 0.0306284554004378
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "5": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.6704606129969761,
+        "p95_seconds": 2.201206866200664
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.215819498997007,
+        "p95_seconds": 2.7818094360023675
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.8,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.10814917700190563,
+        "max_gap_p95_seconds": 0.2972413964002041,
+        "max_gap_seconds": 0.501875794998341,
+        "requests_exceeding_gap": {
+          "0.5": 1,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.02254032999917399,
+        "tail_wait_p95_seconds": 0.025849828802165575
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "6": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.6393681929985178,
+        "p95_seconds": 2.2387601889982762
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.174317078999593,
+        "p95_seconds": 2.7517901977997097
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.8,
+        "3": 0.96,
+        "5": 0.96
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.1163179270006367,
+        "max_gap_p95_seconds": 0.17360138860094593,
+        "max_gap_seconds": 0.23868849700011197,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.022940441998798633,
+        "tail_wait_p95_seconds": 0.025931106998905305
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "7": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.7516524759994354,
+        "p95_seconds": 2.3189864094005315
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.2456554740019783,
+        "p95_seconds": 2.9519616946010503
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.76,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.09945497700027772,
+        "max_gap_p95_seconds": 0.1988724283983174,
+        "max_gap_seconds": 0.2023651859999518,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.023273804999917047,
+        "tail_wait_p95_seconds": 0.026214085599349343
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "8": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.5714623559979373,
+        "p95_seconds": 2.066321558000345
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.07628520399885,
+        "p95_seconds": 2.552772997401916
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.88,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.10596581000208971,
+        "max_gap_p95_seconds": 0.1715361059985298,
+        "max_gap_seconds": 0.19013882500075852,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.02428160500130616,
+        "tail_wait_p95_seconds": 0.02894122279903967
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    },
+    "9": {
+      "selected_cases": 25,
+      "chat_attempts": 25,
+      "setup_failures": 0,
+      "successful_chats": 25,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 25,
+        "p50_seconds": 1.6839074210001854,
+        "p95_seconds": 2.4096810119975998
+      },
+      "complete": {
+        "n": 25,
+        "p50_seconds": 2.175594133997947,
+        "p95_seconds": 2.941092230399954
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 0.76,
+        "3": 0.96,
+        "5": 0.96
+      },
+      "text_gaps": {
+        "scope": "successful requests only; each request contributes one maximum",
+        "measured_requests": 25,
+        "requests_with_at_least_two_text_events": 25,
+        "single_text_event_requests": 0,
+        "max_gap_p50_seconds": 0.12273697199998423,
+        "max_gap_p95_seconds": 0.20169590879886523,
+        "max_gap_seconds": 0.24926772999970126,
+        "requests_exceeding_gap": {
+          "0.5": 0,
+          "1": 0,
+          "2": 0
+        },
+        "tail_wait_p50_seconds": 0.024200838000979275,
+        "tail_wait_p95_seconds": 0.026470366602006832
+      },
+      "answer_format_valid": 0,
+      "correct_answers": 0
+    }
+  }
+}

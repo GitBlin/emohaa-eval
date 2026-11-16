@@ -1,0 +1,74 @@
+{
+  "trial_id": "trial_000040",
+  "sample_id": "EU:41",
+  "task": "EU",
+  "language": "en",
+  "repeat": 0,
+  "category": "complex_emotions",
+  "fine_category": "unexpected_outcome",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "A",
+    "answer_q2": "B"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_fcca832e3a6d0d754b5a0d846be7a83bf0aa52d5",
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "reply": "```json\n{\n    \"answer_q1\": \"A\",\n    \"answer_q2\": \"B\"\n}\n```",
+  "prediction_original": {
+    "answer_q1": "A",
+    "answer_q2": "B"
+  },
+  "component_correct": {
+    "answer_q1": true,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:43:00.494310+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T11:43:22.414074+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "A",
+    "answer_q2": "B"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 36.25406131520867,
+  "finished_at": "2026-11-12T11:43:36.748345+00:00"
+}

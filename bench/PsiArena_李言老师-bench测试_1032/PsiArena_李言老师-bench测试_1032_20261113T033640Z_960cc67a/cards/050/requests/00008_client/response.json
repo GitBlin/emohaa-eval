@@ -1,0 +1,41 @@
+{
+  "id": "a631c02e57964b398a0f53dd5e2bbd87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就在工地大门口，灰扑扑的，旁边人走来走去，就我一个人杵着。唉……其实我妈走了以后，家里就一直不太像个家了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体站在哪儿，是想让我把那个场景说得更清楚吧。他好像不是随便问问，是真的在听。那个工地门口，我确实记得很清楚，灰扑扑的，人来人往，就我一个人杵在那儿。）\n（说到家里，心里还是有点堵。我爸那样，我也管不了，以前我妈在的时候还能撑着，现在什么都没了。这些事平时我都不愿意想，但今天好像能说一点出来了。）",
+        "reasoning": "（咨询师问我具体站在哪儿，是想让我把那个场景说得更清楚吧。他好像不是随便问问，是真的在听。那个工地门口，我确实记得很清楚，灰扑扑的，人来人往，就我一个人杵在那儿。）\n（说到家里，心里还是有点堵。我爸那样，我也管不了，以前我妈在的时候还能撑着，现在什么都没了。这些事平时我都不愿意想，但今天好像能说一点出来了。）"
+      }
+    }
+  ],
+  "created": 1794543592,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1563,
+    "total_tokens": 1692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

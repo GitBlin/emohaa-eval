@@ -1,0 +1,41 @@
+{
+  "id": "f363c1d8e0e0418496144299a7cec5e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……没看清，也没好意思凑过去看。现在想想，我光顾着自己难受了，连她在忙什么都不知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，是想帮我分清楚当时到底是什么情况吧。可我当时光顾着难受了，哪还顾得上看她到底在忙什么。现在回想起来，就记得她一直盯着手机，我连问都没敢问。）\n（其实我有点怕承认自己连这都没搞清楚，好像显得我根本没真正关心她在做什么，只顾着自己慌。不过也许这正是问题所在，我总把注意力放在自己身上，猜来猜去。）",
+        "reasoning": "（她问得挺细的，是想帮我分清楚当时到底是什么情况吧。可我当时光顾着难受了，哪还顾得上看她到底在忙什么。现在回想起来，就记得她一直盯着手机，我连问都没敢问。）\n（其实我有点怕承认自己连这都没搞清楚，好像显得我根本没真正关心她在做什么，只顾着自己慌。不过也许这正是问题所在，我总把注意力放在自己身上，猜来猜去。）"
+      }
+    }
+  ],
+  "created": 1794550297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2488,
+    "total_tokens": 2616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

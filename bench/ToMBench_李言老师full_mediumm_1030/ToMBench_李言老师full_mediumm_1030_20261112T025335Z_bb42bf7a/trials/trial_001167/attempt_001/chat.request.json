@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:55:16.074049+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAnna donates a precious antique at a charity event organized by the company. She puts the antique in a special display area. Carl, a new employee, does not understand the value and importance of this antique, mistakes it for discarded items, and throws it into the trash can during cleaning. At the same time, Bo sees this scene, but because he is Anna's competitor and hopes to surpass Anna at the party, he deliberately does not tell Carl the truth. When Anna finds out that the antique is missing, she feels extremely shocked and disappointed, and starts looking around. Later, Carl realizes the mistake he may have made after hearing colleagues discuss the value of the antique.\n\n[Question]\nWhat is the possible intention behind Bo's behavior?\n\n[Candidate Answers]\nA. Bo thinks that Carl realizes his mistake and corrects it, so he chooses not to tell him.\nB. Bo possibly keeps silent out of competitive motives, hoping to gain an advantage at the company party.\nC. Bo possibly chooses not to tell Carl that the antique is mishandled because of a conflict with Anna.\nD. Bo possibly does not have time to tell Carl that Anna's antique is mishandled due to busy work.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

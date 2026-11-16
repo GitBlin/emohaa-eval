@@ -1,0 +1,41 @@
+{
+  "id": "e25f549506dc4dd089f3395a0f101cb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是情绪先吧……然后就整个人都不舒服了。不好意思，我说得有点乱，你会不会觉得我这样很矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个……是情绪先上来还是身体先不舒服。我其实没仔细想过，好像就是一下子整个人都不对了，分不清先后。不过她说每个人感受不一样，这话让我稍微松了口气，至少没被说成矫情。）\n（可我还是有点不放心，她会不会觉得我太敏感了？我平时最怕别人觉得我小题大做，所以总习惯先往自己身上找原因。现在说这些，好像有点太暴露了，得收一收。）",
+        "reasoning": "（她问我这个……是情绪先上来还是身体先不舒服。我其实没仔细想过，好像就是一下子整个人都不对了，分不清先后。不过她说每个人感受不一样，这话让我稍微松了口气，至少没被说成矫情。）\n（可我还是有点不放心，她会不会觉得我太敏感了？我平时最怕别人觉得我小题大做，所以总习惯先往自己身上找原因。现在说这些，好像有点太暴露了，得收一收。）"
+      }
+    }
+  ],
+  "created": 1794544469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1324,
+    "total_tokens": 1454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

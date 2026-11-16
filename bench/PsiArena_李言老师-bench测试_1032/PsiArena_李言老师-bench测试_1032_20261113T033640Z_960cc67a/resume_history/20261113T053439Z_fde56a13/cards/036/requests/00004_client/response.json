@@ -1,0 +1,41 @@
+{
+  "id": "1c74c403d886455cbde6213a4c48baea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点自责吧……又有点酸酸的，说不上来。反正就是不太想说话，也不太想被人注意到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我难受的具体感觉，可我自己都理不清。他说会保密，但刚才我试探着问的时候，他回答得那么干脆，反而让我有点不踏实。也许他只是按流程说这些话。）\n（我其实不想这么快就说出心里的事，但总得说点什么。那种感觉……像是堵着，又像是酸酸的。我想到班上那些画面，可又觉得现在讲出来太早了。还是先含糊一点吧，反正他也听不出什么。）",
+        "reasoning": "（咨询师在问我难受的具体感觉，可我自己都理不清。他说会保密，但刚才我试探着问的时候，他回答得那么干脆，反而让我有点不踏实。也许他只是按流程说这些话。）\n（我其实不想这么快就说出心里的事，但总得说点什么。那种感觉……像是堵着，又像是酸酸的。我想到班上那些画面，可又觉得现在讲出来太早了。还是先含糊一点吧，反正他也听不出什么。）"
+      }
+    }
+  ],
+  "created": 1794542895,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1168,
+    "total_tokens": 1295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

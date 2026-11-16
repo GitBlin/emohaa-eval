@@ -1,0 +1,41 @@
+{
+  "id": "3ab7f7ad5fda41a3bc858d35a1e2fe1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯…那就好。做错什么…我也说不太清楚。就是有时候心里挺烦的，闷闷的，但不知道怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说不会告诉我妈妈，除非涉及安全……听起来好像可以稍微放心一点。但我还是不太确定该说多少。她问我是不是觉得自己做错了什么，我其实自己也说不清楚，就是有时候会觉得很烦。）\n（也许可以稍微说一点点，不用说得太明白。反正她也不会告诉我妈妈，先看看她怎么反应吧。我确实有时候觉得挺难受的，但又不知道该怎么讲清楚。）",
+        "reasoning": "（这个咨询师说不会告诉我妈妈，除非涉及安全……听起来好像可以稍微放心一点。但我还是不太确定该说多少。她问我是不是觉得自己做错了什么，我其实自己也说不清楚，就是有时候会觉得很烦。）\n（也许可以稍微说一点点，不用说得太明白。反正她也不会告诉我妈妈，先看看她怎么反应吧。我确实有时候觉得挺难受的，但又不知道该怎么讲清楚。）"
+      }
+    }
+  ],
+  "created": 1794540340,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1099,
+    "total_tokens": 1217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

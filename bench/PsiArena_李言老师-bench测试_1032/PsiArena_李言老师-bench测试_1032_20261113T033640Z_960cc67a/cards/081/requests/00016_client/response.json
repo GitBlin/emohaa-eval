@@ -1,0 +1,41 @@
+{
+  "id": "b6f8902da1a24601b12cea05cbbc4fc2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟吧……（想了想）闹钟一响就合上。这样好像没那么吓人，至少我知道它有个头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在进入后期阶段了，咨询师在帮我把想法落地，问我是想用时间限制还是章节限制。我得选一个更具体的，不能含糊。）\n（说实话，我确实怕自己一读就收不住，但十分钟听起来没那么吓人，至少比“读完一章”更可控。而且咨询师好像真的在认真帮我想办法，不是那种空泛的安慰。）",
+        "reasoning": "（现在进入后期阶段了，咨询师在帮我把想法落地，问我是想用时间限制还是章节限制。我得选一个更具体的，不能含糊。）\n（说实话，我确实怕自己一读就收不住，但十分钟听起来没那么吓人，至少比“读完一章”更可控。而且咨询师好像真的在认真帮我想办法，不是那种空泛的安慰。）"
+      }
+    }
+  ],
+  "created": 1794545431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2400,
+    "total_tokens": 2509,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

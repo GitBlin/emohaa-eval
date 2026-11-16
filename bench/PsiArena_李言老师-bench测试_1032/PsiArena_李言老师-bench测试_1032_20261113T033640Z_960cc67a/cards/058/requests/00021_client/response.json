@@ -1,0 +1,41 @@
+{
+  "id": "e1ee3805beb14285be201d46aa54d6ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "其实……可能想聊几句吧。但又怕一开口就变成抱怨，她接不住，我又更难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想报平安还是聊几句……这让我有点意外，我好像一直只敢想报平安，从来没认真想过其实我也想和我妈多说说话。可我又怕一开口就变成抱怨，她以前总说“说出来就好了”，但每次我说完她也没真的接住。）\n（也许我可以试着把这两种想法都说出来？先承认自己其实想聊，再坦白我担心她接不住。这样既没有完全退缩，也没有一下子把话说得太满。）",
+        "reasoning": "（她问我更想报平安还是聊几句……这让我有点意外，我好像一直只敢想报平安，从来没认真想过其实我也想和我妈多说说话。可我又怕一开口就变成抱怨，她以前总说“说出来就好了”，但每次我说完她也没真的接住。）\n（也许我可以试着把这两种想法都说出来？先承认自己其实想聊，再坦白我担心她接不住。这样既没有完全退缩，也没有一下子把话说得太满。）"
+      }
+    }
+  ],
+  "created": 1794544084,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3007,
+    "total_tokens": 3133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

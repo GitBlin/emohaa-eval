@@ -1,0 +1,41 @@
+{
+  "id": "737984d3201b47368b2d47cc8b463050",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想放在早上出门前吧，那会儿还没开始跑单，心里没那么乱。晚上回来太累了，肯定又找借口不练。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候练最不容易被挤掉，这让我得想想自己一天到底怎么过的。送外卖的时间不固定，有时候晚上回来累得只想躺着，但早上出门前那会儿好像还能挤出点空。）\n（我有点担心又给自己找借口，但说实话，早上比晚上靠谱。晚上一累就什么都不想干了，早上虽然也困，但至少还没被一天的疲惫压垮。这样定下来，心里反而踏实一点。）",
+        "reasoning": "（咨询师问我什么时候练最不容易被挤掉，这让我得想想自己一天到底怎么过的。送外卖的时间不固定，有时候晚上回来累得只想躺着，但早上出门前那会儿好像还能挤出点空。）\n（我有点担心又给自己找借口，但说实话，早上比晚上靠谱。晚上一累就什么都不想干了，早上虽然也困，但至少还没被一天的疲惫压垮。这样定下来，心里反而踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794538820,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3043,
+    "total_tokens": 3171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

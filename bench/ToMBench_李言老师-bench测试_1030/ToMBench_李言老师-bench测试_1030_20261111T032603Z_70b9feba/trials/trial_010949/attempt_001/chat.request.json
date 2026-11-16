@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:33.973820+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMiss Zhou is a well-known novelist, famous for drawing inspiration from her rich life experiences for her works. At a literary symposium, an enthusiastic reader asks her if she ever experiences the intense love story described in her novel. Miss Zhou smiles and answers that her inspiration mostly comes from the books and movies she reads, and her own life is relatively plain. In fact, she has a passionate but short-lived romance, which directly influences her creation.\n\n[Question]\nWhy does Miss Zhou say this?\n\n[Candidate Answers]\nA. Miss Zhou just gets nominated for an important literary award, she says this to show her professionalism and dedication as a writer.\nB. Miss Zhou says this because she hopes to encourage readers to believe that good novel creation can rely entirely on imagination, not on personal experience.\nC. Miss Zhou is misunderstood in a previous interview, she deliberately answers this way to avoid being misunderstood again or causing unnecessary controversy.\nD. Miss Zhou says this because she wants to protect her privacy, she does not want to publicly discuss her personal life, especially her emotional experiences.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

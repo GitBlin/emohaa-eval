@@ -1,0 +1,41 @@
+{
+  "id": "5bff5cc571104678925eb4ec52612608",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "问过……她说没事，让我别多想。可她的态度明明就是变了啊。（有些激动）我为了她，连原来一起玩的人都疏远了，结果……我是不是很傻？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我有没有试着问过那个女孩……其实我试过，但那种小心翼翼的感觉现在想起来还是很难受。我不想显得太在意，可又忍不住去猜是不是自己哪里不好。）\n（那时候为了留住她，我连原来的朋友都不怎么来往了。现在想想，好像把自己弄得更孤单了。这件事我一直没跟别人说过，说出来有点难堪。）",
+        "reasoning": "（她问起我有没有试着问过那个女孩……其实我试过，但那种小心翼翼的感觉现在想起来还是很难受。我不想显得太在意，可又忍不住去猜是不是自己哪里不好。）\n（那时候为了留住她，我连原来的朋友都不怎么来往了。现在想想，好像把自己弄得更孤单了。这件事我一直没跟别人说过，说出来有点难堪。）"
+      }
+    }
+  ],
+  "created": 1794555765,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1876,
+    "total_tokens": 1997,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

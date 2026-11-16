@@ -1,0 +1,41 @@
+{
+  "id": "b78701d54c3a4beeb1a00e6c107448f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕他们觉得我难相处、太用力吧。其实我表面上看起来挺正常的，可心里经常很累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最怕别人知道后怎么看我，这个问题让我有点紧张。我其实很怕被看穿内心，但又隐约觉得她好像不是要逼我。我想到平时同事那种轻松自如的样子，心里有点堵。）\n（也许可以稍微松一点，但我不想一下子说太多。就说怕被觉得难相处吧，这样既回答了又不至于太暴露。后面那句“太用力”是我真实的感觉，说出来有点难为情。）",
+        "reasoning": "（咨询师问我最怕别人知道后怎么看我，这个问题让我有点紧张。我其实很怕被看穿内心，但又隐约觉得她好像不是要逼我。我想到平时同事那种轻松自如的样子，心里有点堵。）\n（也许可以稍微松一点，但我不想一下子说太多。就说怕被觉得难相处吧，这样既回答了又不至于太暴露。后面那句“太用力”是我真实的感觉，说出来有点难为情。）"
+      }
+    }
+  ],
+  "created": 1794541075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1503,
+    "total_tokens": 1623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

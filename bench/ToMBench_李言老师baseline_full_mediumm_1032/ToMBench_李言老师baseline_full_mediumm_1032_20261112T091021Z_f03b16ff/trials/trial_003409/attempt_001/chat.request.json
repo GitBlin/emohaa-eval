@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:02:22.450584+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nBai Ruo is a new employee, Tian Qi is the department manager, and Zhi Hong is Tian Qi's friend. During the company's lunch time, the spirited Tian Qi invites Bai Ruo and Zhi Hong to have lunch together. At the meal, Tian Qi implies that Zhi Hong's conditions are very good. After the meal, Zhi Hong quietly opens the folder, takes out a bunch of roses and gives them to Tian Qi, then smiles slightly at Tian Qi and leaves for some unknown reason. Tian Qi smiles and takes the roses, turns around and walks towards Bai Ruo, and gives the roses to Bai Ruo. Bai Ruo takes the roses and looks at Tian Qi and Zhi Hong in confusion.\n\n[Question]\nWhy does Zhi Hong give that bunch of roses to Tian Qi?\n\n[Candidate Answers]\nA. Zhi Hong wants to pursue Tian Qi, so he gives him roses.\nB. Someone else asks Zhi Hong to pass the roses to Tian Qi.\nC. Zhi Hong wants to express his feelings to Bai Ruo through Tian Qi.\nD. The bunch of roses is originally what Tian Qi asks Zhi Hong to buy on his behalf.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

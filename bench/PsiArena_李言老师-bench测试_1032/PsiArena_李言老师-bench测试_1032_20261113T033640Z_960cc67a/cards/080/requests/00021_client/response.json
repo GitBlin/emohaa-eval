@@ -1,0 +1,41 @@
+{
+  "id": "09291ce2348b4970bbde1063a142d8e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先弄清她为什么不说，但问的时候得注意别带着火气。不然她可能又缩回去了……我打算先问原因，再讲我自己的感受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“被瞒着”和“自我怀疑”分开，这让我稍微松了口气。但我确实更想先知道她为什么不说，又怕自己问的时候带着情绪，变成另一种指责。）\n（我得把这两件事分清楚，不能混在一起谈。先问原因，再讲感受，这样可能不会让她觉得我在兴师问罪。）",
+        "reasoning": "（咨询师在帮我把“被瞒着”和“自我怀疑”分开，这让我稍微松了口气。但我确实更想先知道她为什么不说，又怕自己问的时候带着情绪，变成另一种指责。）\n（我得把这两件事分清楚，不能混在一起谈。先问原因，再讲感受，这样可能不会让她觉得我在兴师问罪。）"
+      }
+    }
+  ],
+  "created": 1794545432,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3046,
+    "total_tokens": 3161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

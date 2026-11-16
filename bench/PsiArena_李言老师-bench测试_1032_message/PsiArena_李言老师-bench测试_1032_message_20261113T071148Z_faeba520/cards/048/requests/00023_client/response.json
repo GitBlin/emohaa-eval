@@ -1,0 +1,41 @@
+{
+  "id": "e995e8c8134f4d89836b03377c462d0f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他大概会说“先别急，东西没了可以再找，你先喘口气”。这么一想，好像没那么紧了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个朋友会说什么，我脑子里一下就冒出个画面——有人拍拍我说“先别急”。这让我有点意外，好像真的没那么孤单了。可我又怕这只是嘴上说说，真到了那时候，我还能想起这句话吗？）\n（想到这儿，我有点不确定自己能不能做到，但至少现在觉得这个方向是对的。也许可以试试，哪怕只是先记住这一句话。）",
+        "reasoning": "（她问我那个朋友会说什么，我脑子里一下就冒出个画面——有人拍拍我说“先别急”。这让我有点意外，好像真的没那么孤单了。可我又怕这只是嘴上说说，真到了那时候，我还能想起这句话吗？）\n（想到这儿，我有点不确定自己能不能做到，但至少现在觉得这个方向是对的。也许可以试试，哪怕只是先记住这一句话。）"
+      }
+    }
+  ],
+  "created": 1794555986,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3119,
+    "total_tokens": 3228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

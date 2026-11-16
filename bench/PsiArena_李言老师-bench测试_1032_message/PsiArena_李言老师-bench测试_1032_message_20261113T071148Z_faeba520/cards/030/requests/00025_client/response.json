@@ -1,0 +1,41 @@
+{
+  "id": "49aa4ec5d1454b2d8c7968cf458ec09b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是自责吧，觉得怎么又是我没话说。不过写出来之后，好像能看清一点，没那么怕了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我写下来时第一反应是什么，我本来以为会是难受，但仔细一想，好像不是。那种沉默的瞬间，其实更多是自责，觉得怎么又没话说了，是不是我的问题。这跟之前聊到的、我总把原因揽到自己身上是连着的。说出来之后，反而有点看清了，今晚动笔好像也没那么可怕了。）",
+        "reasoning": "（咨询师问我写下来时第一反应是什么，我本来以为会是难受，但仔细一想，好像不是。那种沉默的瞬间，其实更多是自责，觉得怎么又没话说了，是不是我的问题。这跟之前聊到的、我总把原因揽到自己身上是连着的。说出来之后，反而有点看清了，今晚动笔好像也没那么可怕了。）"
+      }
+    }
+  ],
+  "created": 1794555296,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3189,
+    "total_tokens": 3295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

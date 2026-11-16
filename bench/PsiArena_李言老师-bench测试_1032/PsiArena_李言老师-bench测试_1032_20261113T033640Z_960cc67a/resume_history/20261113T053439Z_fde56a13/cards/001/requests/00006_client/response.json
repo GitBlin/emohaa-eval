@@ -1,0 +1,41 @@
+{
+  "id": "d2980cfd2c434a4eb74a7591bca8550e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在教室里吧……还有走廊上。就是那种大家都在聊天，我却不知道要不要凑过去的时候，最明显。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没有直接否定我的担心，反而说这很正常……这让我稍微松了口气。不过她问我在哪些场合最明显，我其实不太想细说，因为那些场景想起来就难受。）\n（但既然她问了，我还是稍微说一点吧。教室和走廊最让我不自在，尤其是看到别人聚在一起的时候。不过说到一半我又有点后悔，怕自己说得太多，或者显得太矫情。）",
+        "reasoning": "（咨询师好像没有直接否定我的担心，反而说这很正常……这让我稍微松了口气。不过她问我在哪些场合最明显，我其实不太想细说，因为那些场景想起来就难受。）\n（但既然她问了，我还是稍微说一点吧。教室和走廊最让我不自在，尤其是看到别人聚在一起的时候。不过说到一半我又有点后悔，怕自己说得太多，或者显得太矫情。）"
+      }
+    }
+  ],
+  "created": 1794541041,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1352,
+    "total_tokens": 1465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

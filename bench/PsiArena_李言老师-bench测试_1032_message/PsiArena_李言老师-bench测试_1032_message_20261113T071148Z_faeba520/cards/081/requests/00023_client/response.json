@@ -1,0 +1,41 @@
+{
+  "id": "2a1b63ab6a1540ddabbd4ea008b9b083",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "随便挑一本吧，别挑那种太厚的。其实我书架上有几本一直没拆封的，看着就烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪本书开始，还提到随便挑一本顺手的。我本来以为她会让我认真规划，结果她这么一说，我反而有点懵，好像自己一直把读书这事想得太重了。那些没拆封的书堆着，看着就烦，不如先别管它们。）\n（我是不是可以就挑本轻松的，不逼自己非得读那些“有用”的？反正目标都这么小了，再纠结选哪本，又变成给自己加压力了。先翻起来再说吧。）",
+        "reasoning": "（她问我从哪本书开始，还提到随便挑一本顺手的。我本来以为她会让我认真规划，结果她这么一说，我反而有点懵，好像自己一直把读书这事想得太重了。那些没拆封的书堆着，看着就烦，不如先别管它们。）\n（我是不是可以就挑本轻松的，不逼自己非得读那些“有用”的？反正目标都这么小了，再纠结选哪本，又变成给自己加压力了。先翻起来再说吧。）"
+      }
+    }
+  ],
+  "created": 1794557798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3028,
+    "total_tokens": 3165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

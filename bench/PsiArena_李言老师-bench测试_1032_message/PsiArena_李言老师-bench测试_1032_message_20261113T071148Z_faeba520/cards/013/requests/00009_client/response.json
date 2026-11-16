@@ -1,0 +1,41 @@
+{
+  "id": "b184bbe111f042f19c0c8df7475524d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）说实话……我不知道。真让我不管家里怎么想，我反而有点慌。好像我自己都拿不准，到底想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才问的是如果我暂时不考虑家里的期待，自己会更倾向哪一边。这个问题让我有点慌，因为其实我从来没认真想过“不考虑家里”是什么样子。从小到大，父母的意见就像背景音一样一直在那里，我好像习惯了先想他们会不会满意。）\n（现在被这么一问，我反而有点不确定自己到底想要什么了。说心动吧，又怕那不实际；说稳当吧，又觉得不甘心。可能我真正怕的是，万一我选了自己想要的，结果过得不好，那就没人能怪了，只能怪自己。）",
+        "reasoning": "（咨询师刚才问的是如果我暂时不考虑家里的期待，自己会更倾向哪一边。这个问题让我有点慌，因为其实我从来没认真想过“不考虑家里”是什么样子。从小到大，父母的意见就像背景音一样一直在那里，我好像习惯了先想他们会不会满意。）\n（现在被这么一问，我反而有点不确定自己到底想要什么了。说心动吧，又怕那不实际；说稳当吧，又觉得不甘心。可能我真正怕的是，万一我选了自己想要的，结果过得不好，那就没人能怪了，只能怪自己。）"
+      }
+    }
+  ],
+  "created": 1794554502,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1782,
+    "total_tokens": 1930,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

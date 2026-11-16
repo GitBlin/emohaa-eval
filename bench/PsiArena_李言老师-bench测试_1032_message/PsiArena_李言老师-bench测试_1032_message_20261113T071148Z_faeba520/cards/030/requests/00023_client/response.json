@@ -1,0 +1,41 @@
+{
+  "id": "23eac459b9a34c63acba30ce87ba8084",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写一句……“写出来不是为了马上解决，只是先让它有个地方待着。”这样可能会松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我今晚动笔前给自己留一句什么话……我忽然有点不知道说什么好。以前总觉得要对自己狠一点，逼自己撑住，可今天这么聊下来，好像可以对自己松一点。那句“我已经在试着面对了”冒出来的时候，心里有点酸，但也踏实。）\n（也许我可以说得再短一点，不用那么完整。就告诉自己，写出来不是为了逼自己立刻解决什么，只是先让它有个地方待着。）",
+        "reasoning": "（她问我今晚动笔前给自己留一句什么话……我忽然有点不知道说什么好。以前总觉得要对自己狠一点，逼自己撑住，可今天这么聊下来，好像可以对自己松一点。那句“我已经在试着面对了”冒出来的时候，心里有点酸，但也踏实。）\n（也许我可以说得再短一点，不用那么完整。就告诉自己，写出来不是为了逼自己立刻解决什么，只是先让它有个地方待着。）"
+      }
+    }
+  ],
+  "created": 1794555290,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3017,
+    "total_tokens": 3139,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb137adc7eeb4e9eb5a867f41eb554ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "判断力……不是一下就能练出来的吧。要不先学“不确定也能开口”？比如先说一句“我还没想好，但觉得可以再想想”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没有直接给我一个办法，反而把选择交给了我。这让我有点不习惯，但也觉得她是在认真听我说话。我确实更怕被看轻，可判断力这种东西不是一下子就能练出来的吧。）\n（如果要在不确定的时候也能稳稳表达，那我得先找到一句哪怕心里没底、说出来也不至于太丢人的话。也许可以从小范围开始，不用一上来就面对很多人。）",
+        "reasoning": "（她好像没有直接给我一个办法，反而把选择交给了我。这让我有点不习惯，但也觉得她是在认真听我说话。我确实更怕被看轻，可判断力这种东西不是一下子就能练出来的吧。）\n（如果要在不确定的时候也能稳稳表达，那我得先找到一句哪怕心里没底、说出来也不至于太丢人的话。也许可以从小范围开始，不用一上来就面对很多人。）"
+      }
+    }
+  ],
+  "created": 1794548171,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2719,
+    "total_tokens": 2843,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

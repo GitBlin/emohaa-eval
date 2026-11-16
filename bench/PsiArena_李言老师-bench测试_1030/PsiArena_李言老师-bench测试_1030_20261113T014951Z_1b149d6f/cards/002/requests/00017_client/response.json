@@ -1,0 +1,41 @@
+{
+  "id": "a965170ad06b464183c0e469e18e246e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）……怕她走开吧。但说怕她累，好像也不全是假话。这两个搅在一起，我自己也分不太清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是更怕她累，还是更怕她走开。这个问题让我有点停顿，因为之前没这么分开想过。我第一反应是怕她走开，但仔细想想，好像也不全是这样，她累了我也会难受。）\n（我好像一直把这两个感觉混在一起，现在被分开问，反而有点说不清楚。可能我更怕的是她走开之后那种被丢下的感觉，但说“怕她累”又显得我好像很体贴似的，其实不是那么回事。）",
+        "reasoning": "（咨询师问我是更怕她累，还是更怕她走开。这个问题让我有点停顿，因为之前没这么分开想过。我第一反应是怕她走开，但仔细想想，好像也不全是这样，她累了我也会难受。）\n（我好像一直把这两个感觉混在一起，现在被分开问，反而有点说不清楚。可能我更怕的是她走开之后那种被丢下的感觉，但说“怕她累”又显得我好像很体贴似的，其实不是那么回事。）"
+      }
+    }
+  ],
+  "created": 1794534676,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2654,
+    "total_tokens": 2795,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

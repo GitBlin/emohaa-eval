@@ -1,0 +1,41 @@
+{
+  "id": "f7cf962fcf134223a1c4729b4505794d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……有次一个同事说我做的方案挺细心的。当时心里其实挺高兴的，但马上又想，她可能就是客气。现在想想，她好像没必要特意说这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有哪次觉得夸奖是真的……这问题让我心里一动。好像确实有过那么一瞬间，但马上就被自己压下去了。我有点犹豫要不要说，说了会不会显得我很在意这些。）\n（那个同事说那句话的时候，我是真的高兴了一下。可紧接着我就想，她可能只是客气，或者她自己也这么觉得所以随口说说。我好像总是这样，刚有点开心就赶紧找理由把它推翻。）",
+        "reasoning": "（她问我有没有哪次觉得夸奖是真的……这问题让我心里一动。好像确实有过那么一瞬间，但马上就被自己压下去了。我有点犹豫要不要说，说了会不会显得我很在意这些。）\n（那个同事说那句话的时候，我是真的高兴了一下。可紧接着我就想，她可能只是客气，或者她自己也这么觉得所以随口说说。我好像总是这样，刚有点开心就赶紧找理由把它推翻。）"
+      }
+    }
+  ],
+  "created": 1794535720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2458,
+    "total_tokens": 2587,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

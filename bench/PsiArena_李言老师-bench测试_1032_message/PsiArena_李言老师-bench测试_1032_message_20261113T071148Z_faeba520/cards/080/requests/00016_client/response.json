@@ -1,0 +1,41 @@
+{
+  "id": "3c506f4ecfc14f6b9c51a83e6d6c6fde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对，家里就那样，做得好是应该的，做差了就是我的问题。现在想想，我好像一直在等别人满意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是让我回想家里的事吧。其实我从小就是这样，做得好是应该的，做不好就全是我的错。）\n（那时候爸妈很少夸我，时间长了，我也觉得自己不能出错。现在想想，这个习惯一直带到了婚姻里，连老婆看什么小说，我都先往自己身上揽。）",
+        "reasoning": "（她这么问，是让我回想家里的事吧。其实我从小就是这样，做得好是应该的，做不好就全是我的错。）\n（那时候爸妈很少夸我，时间长了，我也觉得自己不能出错。现在想想，这个习惯一直带到了婚姻里，连老婆看什么小说，我都先往自己身上揽。）"
+      }
+    }
+  ],
+  "created": 1794557702,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2407,
+    "total_tokens": 2506,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

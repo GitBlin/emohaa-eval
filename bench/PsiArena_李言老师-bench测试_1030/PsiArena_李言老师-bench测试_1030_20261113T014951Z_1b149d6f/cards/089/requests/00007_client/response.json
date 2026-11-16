@@ -1,0 +1,41 @@
+{
+  "id": "fe088eb545f94e40a63ce73282369976",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……小时候我爸妈就老说“为你好”，然后替我做决定。（声音低了些）不过这些跟现在的事，好像也不是一回事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他好像没急着反驳我，也没给我贴标签。反而在问我以前是不是也被衡量过……这句话让我有点不知道该怎么接。小时候爸妈总说“为你好”，然后替我做决定，那种感觉确实很像被一套标准框住。）\n（但我又不想一下子说得太深，毕竟才刚聊没几次，我还不确定他会不会真的理解。先含含糊糊提一下家里的事，看看他什么反应吧。）",
+        "reasoning": "（他好像没急着反驳我，也没给我贴标签。反而在问我以前是不是也被衡量过……这句话让我有点不知道该怎么接。小时候爸妈总说“为你好”，然后替我做决定，那种感觉确实很像被一套标准框住。）\n（但我又不想一下子说得太深，毕竟才刚聊没几次，我还不确定他会不会真的理解。先含含糊糊提一下家里的事，看看他什么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794539551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1612,
+    "total_tokens": 1737,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

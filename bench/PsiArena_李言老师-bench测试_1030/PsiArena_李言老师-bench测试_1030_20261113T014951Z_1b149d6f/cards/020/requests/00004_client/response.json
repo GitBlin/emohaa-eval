@@ -1,0 +1,41 @@
+{
+  "id": "4300f20e75f845959f8faa47e44ed925",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）都有吧……在家里好像总得小心点，说什么做什么都怕不对。不过……这个说起来挺复杂的，我也不知道从哪讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是有什么话不敢讲……他好像没急着评判我，反而顺着我的感受在问。可我现在还不太想直接说家里那些事，毕竟才刚开始谈，我也不知道他会不会真的理解。）\n（提到家里气氛我就想到公婆，但一下子说不清楚。也许可以稍微提一点，看看他什么反应，但又不想说得太深。）",
+        "reasoning": "（咨询师问我是不是有什么话不敢讲……他好像没急着评判我，反而顺着我的感受在问。可我现在还不太想直接说家里那些事，毕竟才刚开始谈，我也不知道他会不会真的理解。）\n（提到家里气氛我就想到公婆，但一下子说不清楚。也许可以稍微提一点，看看他什么反应，但又不想说得太深。）"
+      }
+    }
+  ],
+  "created": 1794535648,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1230,
+    "total_tokens": 1340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

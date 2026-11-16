@@ -1,0 +1,41 @@
+{
+  "id": "ef5e1bfd480b4c89a65ba39ebd99e9e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀会绷得很紧，手指也有点发僵，打字老出错。越出错我就越慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体反应，好像是在帮我留意焦虑具体的表现。我确实一急起来就肩膀发紧，手指也不听使唤，这些细节说出来会不会显得太琐碎了？）\n（不过现在比刚开始放松一些了，可以试着讲得具体点。也许可以从身体反应慢慢想到，下次能不能在那种时候稍微停一下，哪怕只是动动肩膀也好。）",
+        "reasoning": "（咨询师问我身体反应，好像是在帮我留意焦虑具体的表现。我确实一急起来就肩膀发紧，手指也不听使唤，这些细节说出来会不会显得太琐碎了？）\n（不过现在比刚开始放松一些了，可以试着讲得具体点。也许可以从身体反应慢慢想到，下次能不能在那种时候稍微停一下，哪怕只是动动肩膀也好。）"
+      }
+    }
+  ],
+  "created": 1794545051,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2446,
+    "total_tokens": 2550,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

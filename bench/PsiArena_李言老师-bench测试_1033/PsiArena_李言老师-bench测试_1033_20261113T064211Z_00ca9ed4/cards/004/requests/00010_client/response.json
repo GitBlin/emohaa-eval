@@ -1,0 +1,41 @@
+{
+  "id": "607b4624e6b6477d81cdf20784741967",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "老师啊……班主任吧，但她挺忙的。而且我怕说了，那几个人知道是我告的状，会更凶。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问有没有能说上话的老师……我脑子里第一个想到的是班主任，可她平时挺忙的，而且我总觉得她不会真的管这种事。爸妈都说忍一忍了，老师会不会也觉得我太小题大做？）\n（可是不说的话，每天去学校都那么难受。我有点想说又不敢说，万一老师去找那些人，他们肯定更来劲。但老师问得挺认真的，也许……也许我可以稍微透一点？）",
+        "reasoning": "（老师问有没有能说上话的老师……我脑子里第一个想到的是班主任，可她平时挺忙的，而且我总觉得她不会真的管这种事。爸妈都说忍一忍了，老师会不会也觉得我太小题大做？）\n（可是不说的话，每天去学校都那么难受。我有点想说又不敢说，万一老师去找那些人，他们肯定更来劲。但老师问得挺认真的，也许……也许我可以稍微透一点？）"
+      }
+    }
+  ],
+  "created": 1794552323,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1817,
+    "total_tokens": 1940,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

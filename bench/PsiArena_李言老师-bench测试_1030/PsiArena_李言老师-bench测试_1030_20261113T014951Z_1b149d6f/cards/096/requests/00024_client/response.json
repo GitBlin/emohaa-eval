@@ -1,0 +1,41 @@
+{
+  "id": "7fb4d39876a440e7b7fbd0480f12fe9f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记得……那块地方是我自己的，涂几下就行，不用做好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望自己记得什么……这个问题让我有点意外。以前没人问过我想记住什么，都是别人让我记住该做什么。她好像真的在关心我自己的感受，而不是在检查我有没有完成任务。）\n（我想了想，其实我不想再给自己加一条新的“必须完成”的规矩。涂几下就涂几下，画得不好也没关系，不用评价自己。这大概是我现在最想记住的——那块地方是我自己的，我可以随便用，不用做到什么标准。）",
+        "reasoning": "（她问我希望自己记得什么……这个问题让我有点意外。以前没人问过我想记住什么，都是别人让我记住该做什么。她好像真的在关心我自己的感受，而不是在检查我有没有完成任务。）\n（我想了想，其实我不想再给自己加一条新的“必须完成”的规矩。涂几下就涂几下，画得不好也没关系，不用评价自己。这大概是我现在最想记住的——那块地方是我自己的，我可以随便用，不用做到什么标准。）"
+      }
+    }
+  ],
+  "created": 1794540228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3408,
+    "total_tokens": 3526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

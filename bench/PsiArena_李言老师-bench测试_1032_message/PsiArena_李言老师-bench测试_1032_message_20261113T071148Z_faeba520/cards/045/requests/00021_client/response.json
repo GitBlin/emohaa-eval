@@ -1,0 +1,41 @@
+{
+  "id": "fe205f2c1a8e473c957a66c7ddfb9e43",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不确定）可能就写写每天发生的事吧，或者心里冒出来的那些乱七八糟的念头。（停顿）这样……真的有用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我写点什么……其实我心里是有东西的，只是以前总觉得写出来也没人看、没意义。可她这么一问，我好像又想起那种一个人写字的安静感觉。）\n（也许可以先从很小的、不费力气的事情开始试试。不用写得多好，就当给自己留个出口。这样想着，心里好像没那么堵了。）",
+        "reasoning": "（她问我写点什么……其实我心里是有东西的，只是以前总觉得写出来也没人看、没意义。可她这么一问，我好像又想起那种一个人写字的安静感觉。）\n（也许可以先从很小的、不费力气的事情开始试试。不用写得多好，就当给自己留个出口。这样想着，心里好像没那么堵了。）"
+      }
+    }
+  ],
+  "created": 1794555805,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2758,
+    "total_tokens": 2862,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

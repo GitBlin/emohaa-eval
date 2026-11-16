@@ -1,0 +1,41 @@
+{
+  "id": "b8cd461c101d4e4da25864b8b5abf78b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点难过吧，好像一直在替别人活着。而且我妈总说家里的事不要往外说，所以我一直憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说我像妈妈是在保护自己，还问我心里什么感觉。我其实从来没这么想过，察言观色原来不是天生的，是小时候练出来的。想到这里有点难受，好像小时候那个躲起来的我还在。）\n（家里的事我一般不会跟外人讲，但刚才说出来了，好像也没那么可怕。她问得挺温和的，也许可以再讲一点，比如我妈总说家里的事别往外说，这种压力一直压着我。）",
+        "reasoning": "（她刚才说我像妈妈是在保护自己，还问我心里什么感觉。我其实从来没这么想过，察言观色原来不是天生的，是小时候练出来的。想到这里有点难受，好像小时候那个躲起来的我还在。）\n（家里的事我一般不会跟外人讲，但刚才说出来了，好像也没那么可怕。她问得挺温和的，也许可以再讲一点，比如我妈总说家里的事别往外说，这种压力一直压着我。）"
+      }
+    }
+  ],
+  "created": 1794557119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1844,
+    "total_tokens": 1967,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

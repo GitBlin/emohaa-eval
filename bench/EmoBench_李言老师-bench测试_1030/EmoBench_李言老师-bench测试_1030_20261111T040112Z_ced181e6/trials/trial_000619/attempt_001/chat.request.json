@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:41.406180+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n我因为朋友没有邀请我参加他的生日派对而感到恼火。然后，我意识到他也在背后对其他人说我坏话。\n\n## 问题 1\n在这种情况下，我最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 生气\nB) 失望\nC) 嫉妒\nD) 紧张\nE) 气恼\nF) 感激\n\n## 问题 2\n我为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 虽然我一开始只是恼火，但发现朋友在说我的坏话，我的恼火变成了生气\nB) 我没有被邀请参加生日派对\nC) 我的朋友没有提前告诉我关于派对的事情\nD) 我总是被排除在派对之外\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

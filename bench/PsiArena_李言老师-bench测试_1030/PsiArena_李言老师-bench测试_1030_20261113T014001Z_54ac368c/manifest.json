@@ -1,0 +1,84 @@
+{
+  "started_at": "2026-11-13T01:40:01.384301+00:00",
+  "plan": {
+    "workers": 2,
+    "client_history": "full",
+    "cards": [
+      0,
+      1
+    ],
+    "turns": 25,
+    "mode": "psycho",
+    "protocol": "code",
+    "partial_session": false,
+    "judge_enabled": true,
+    "planned_requests": {
+      "counselor": 50,
+      "client": 50,
+      "judge": 6
+    },
+    "memory_policy": "independent user per card; clear once; preserve within-session history; audit every turn",
+    "retry_policy": "no automatic retries; rerun generation in a new run/user after failures"
+  },
+  "sha256": {
+    "psiarena/__init__.py": "be0ff03b2ff0924218bfc7e9cf16df1c4c1f49ec4370ff08190d5aeb225b8356",
+    "psiarena/config.py": "3ddb6720af8589394745ec1178852a992707de54d4f5890ffa65c24bc4b27ef8",
+    "psiarena/data.py": "91006b94d2be8f9f900c3bb618beb6e07aa27e73a1902f2d65f496ba72e7c89e",
+    "psiarena/evaluate.py": "48b4ae487e1ccb50c733af30a246e4b41f60589fbeb2129504c08902522deca3",
+    "psiarena/pipeline.py": "18c6c514f1712187c5e917a84c491f2d830728192877fa94285b84eb8c1dad5a",
+    "psiarena/scoring.py": "731036fab8622b1a83597750d9efa557825d40157f208bbd3e31a16acebee1ab",
+    "psiarena/ai_role_transport.py": "dc9b1645750352358010ee2dbd12aaff8a4bac6435fadc8fd091743221186695",
+    "psiarena/runtime.py": "b9d5474ae14090c72cda9d7e8ea4f097e42f017f579c6efdf0bc2bd4ca7d8de3",
+    "psiarena/ai_role.py": "b8f4dbc5ad57d5d69c465c30724d950921100c058685011e047ab8cb239f34f8",
+    "scripts/aggregate_scores.py": "0c7188b288259fba8ae3ee15c3f752130da192f1b7a32979a4eeac474dddd0aa",
+    "scripts/evaluate_dialogues.py": "a706f5926fda6c792ab493ab41ad17e9fd0b0bf810b2dfe389e496108d29cd30",
+    "scripts/generate_dialogues.py": "01c12a6c28304f20f5dba267dde1a9d51b30785ad4b260d965e90cb79f4f9353",
+    "scripts/smoke_liyan.py": "b690bd48afa9568d6a27034507ece690aedb42c9eb4a8a0c2776db4aa1a5c474",
+    "scripts/list_models.py": "a05467e6fe9cee2049af13c88644bcc0b55674643f82bbed6f07de5ab4b999f4",
+    "scripts/verify_memory.py": "ea2ff82f678928b8eaf10f1bafcd2ab4a6b730a1f92a1b9cff7f473a29dfd0a5",
+    "data/knowledge.txt": "9b8df7dbeb9b74ca3438ce07c26cd35d18462b3a70911944df42a2bd6df18581",
+    "data/role_cards.json": "515f450442bad5fd70dfd92c659573167549cf7ee305b611d991cfa13f655d58",
+    "data/prompts/client_dialogue_prefix.txt": "5d9b150d053b863704311acae71f649098e321e388f4c075c89332e5a46d35ff",
+    "data/prompts/client_dialogue_suffix.txt": "cd4e119ab034a72e5c28ea463618f596ba2731eb4510f44e639b318a94a6f0e3",
+    "data/prompts/client_eval_prefix.txt": "f54ae34c5f05acd7a63e8ddf4bbdbb3150e6e26dc81c5b793d491871830b8121",
+    "data/prompts/counselor_psycho.txt": "2d2416dbc80aec5f424f47e0d12f6732b7315efee8a1154327751c087221073b",
+    "data/prompts/counselor_rewrite.txt": "05b53a03587ccb3f3a6b167da9ac1889101d81fa76a0938619647a39f46a3102",
+    "data/prompts/eval_client.txt": "51618a842ecd650bdc81ee9813ded1a212c741fc226d942a86a68723a9f81555",
+    "data/prompts/eval_counselor.txt": "cd074061676309116ef978c752d45ff2604373887d7958dbb673551889f3528f",
+    "data/prompts/eval_counselor_system.txt": "67818916545d1c5026c61513fad6a35be16d0a21b95c5ad8e116f8f72b02ecc2",
+    "data/prompts/eval_supervisor.txt": "36e9df7e191efefb7422716da3238458d03938d21b3b8153703ece57500fe459",
+    "data/prompts/feedback_client.txt": "3b8247c9eda0eb68fb581bb1f2a5b39c02f7cf5c473869033d6e3b1a6c8194fb",
+    "data/prompts/feedback_counselor.txt": "0fb25465910f2e4e145869a71ad32f6c3339934ad6d180b4b4b77f6566b51aad",
+    "data/prompts/feedback_supervisor.txt": "612a0fa1d30331e4131e58a0e2761f49f2dfb16b0d31f078f53fdb874d299166",
+    "data/prompts/rewrite_finalize.txt": "ab91037fdcb133a80a8486b3dfa42dc1a8606daa8a249c57bde35efe8c11ca46",
+    "data/prompts/rewrite_improve_system.txt": "2decb70d10d023e6ceb2cea1574f55e86984bac814ef14b09b35f4f5a6991b3e",
+    "data/prompts/rewrite_improve_user.txt": "2c2b7e4fec20637ebe28598beb18e3d1a02018e227a25ea220fb0b1b01bef7ff",
+    "data/prompts/rewrite_reflect.txt": "3485265030e377ac2f819761d7e0b1225dcabe77c777a99d9671a4e59a76b94c",
+    "data/prompts/supervisor_system.txt": "7164a18dde58804a03d77a45356eb9961ffdc6a5cbbe6c8989343f2d434b2c5b"
+  },
+  "provider": "ai_role",
+  "bot_id": 1030,
+  "roles": {
+    "counselor": {
+      "model": "ai-role-bot-1030",
+      "base_url": "",
+      "thinking": null
+    },
+    "client": {
+      "model": "deepseek-v4.1-flash-1017",
+      "base_url": "https://axonhub.ai-role.cn/v1",
+      "thinking": "disabled"
+    },
+    "judge": {
+      "model": "deepseek-v4.1-flash-1017",
+      "base_url": "https://axonhub.ai-role.cn/v1",
+      "thinking": "disabled"
+    }
+  },
+  "temperature": 0.7,
+  "default_max_tokens": 2048,
+  "judge_max_tokens": 4096,
+  "timeout": 120.0,
+  "counselor_parameters": "platform-controlled; temperature/model/token usage may be undisclosed",
+  "comparability": "ai-role product adaptation: full server history; system instructions embedded as user content"
+}

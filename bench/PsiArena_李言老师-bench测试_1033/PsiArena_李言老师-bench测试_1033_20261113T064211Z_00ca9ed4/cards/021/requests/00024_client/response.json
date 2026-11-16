@@ -1,0 +1,41 @@
+{
+  "id": "bd8813adb6be44468ced62734fc95763",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能就随口问问她家里怎么样吧，先听她说。（笑了笑）我这人不太会主动开口，但真聊起来，好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在帮我把“开口”这件事落到具体的一小步上，不是让我一次说太多。我想到那个同事，心里觉得可以先从最平常的话开始，比如问问她家里怎么样，这样不会太突兀。）\n（可我也清楚自己，真到了那会儿，可能又习惯性地把话咽回去。得先承认这一点，别把话说得太满，免得做不到又觉得自己不行。）",
+        "reasoning": "（她这是在帮我把“开口”这件事落到具体的一小步上，不是让我一次说太多。我想到那个同事，心里觉得可以先从最平常的话开始，比如问问她家里怎么样，这样不会太突兀。）\n（可我也清楚自己，真到了那会儿，可能又习惯性地把话咽回去。得先承认这一点，别把话说得太满，免得做不到又觉得自己不行。）"
+      }
+    }
+  ],
+  "created": 1794553126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3479,
+    "total_tokens": 3600,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

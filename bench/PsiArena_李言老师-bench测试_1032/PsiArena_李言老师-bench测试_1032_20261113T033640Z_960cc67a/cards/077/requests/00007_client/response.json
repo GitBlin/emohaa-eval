@@ -1,0 +1,41 @@
+{
+  "id": "b6ea09d480034ec89ab3f04cb78ba10e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……现在还说不太上来。其实我更想知道，你会不会也觉得我应该赶紧回去上班？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在意哪个瞬间，可我现在还没准备好把那些画面摊开。我总觉得他可能会像其他人一样，觉得我小题大做。）\n（而且他这么问，是不是想让我快点好起来、回去上班？我得先确认一下，他是不是也站在“必须承担责任”那一边。）",
+        "reasoning": "（他问我在意哪个瞬间，可我现在还没准备好把那些画面摊开。我总觉得他可能会像其他人一样，觉得我小题大做。）\n（而且他这么问，是不是想让我快点好起来、回去上班？我得先确认一下，他是不是也站在“必须承担责任”那一边。）"
+      }
+    }
+  ],
+  "created": 1794545162,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1423,
+    "total_tokens": 1508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

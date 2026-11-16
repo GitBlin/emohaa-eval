@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:40:49.715114+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang San walks into the conference room and finds the atmosphere is extremely tense. The company's top leaders are all here, and they just go through a very sensitive topic discussion. To break this deadlock, Zhang San takes a deep breath, then says with a smile, \"Dear leaders, do you know why our company's performance is always so good? That is because we have the most professional team and the top technology, of course, and the good luck my handsome face brings!\" After hearing this, everyone can't help but laugh.\n\n[Question]\nWhy does Zhang San say this?\n\n[Candidate Answers]\nA. Zhang San says this because he wants to ease the tense atmosphere in the conference room.\nB. Zhang San thinks he is the company's top technical staff.\nC. Zhang San wants to take this opportunity to show his confidence and professional ability to the leadership.\nD. Zhang San thinks the company's performance really relates to his handsome face.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

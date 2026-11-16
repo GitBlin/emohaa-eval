@@ -1,0 +1,47 @@
+{
+  "id": "f13dbbe05d4d4cf98bededbbe2a3db54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）愿意试试吧，虽然还不太习惯。至少今天回去，我可以先自己按一下，不急着找她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说的对，刚才确实是我自己的手，不是别人。但要把这个当成习惯，我还是有点不确定，好像自己一个人做点什么，总缺了点什么似的。）\n（不过她问得挺具体，不是逼我马上做到，只是问愿不愿意。我可以先试着答应一个小的，别太满，也别太勉强。这样说出来，好像也没那么难。）",
+        "reasoning": "（她说的对，刚才确实是我自己的手，不是别人。但要把这个当成习惯，我还是有点不确定，好像自己一个人做点什么，总缺了点什么似的。）\n（不过她问得挺具体，不是逼我马上做到，只是问愿不愿意。我可以先试着答应一个小的，别太满，也别太勉强。这样说出来，好像也没那么难。）"
+      }
+    }
+  ],
+  "created": 1794800660,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3198,
+    "total_tokens": 3305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

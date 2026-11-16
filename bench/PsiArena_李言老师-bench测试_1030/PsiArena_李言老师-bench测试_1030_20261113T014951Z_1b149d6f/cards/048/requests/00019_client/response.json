@@ -1,0 +1,41 @@
+{
+  "id": "0ff8758f99e349cdb926eb3d45a78579",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先从那个录像开始吧。它一放起来，我就试着喊停一下，哪怕只是停几秒。不然它一放，我整个人就跟着沉进去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这一点点从哪里放出来，我想到的其实是那盘反复播放的录像。每次一空下来它就自动开始放，我拦不住。如果能先做到在它开始的时候喊停，哪怕只是停几秒，也许就不会被它整个吞进去。）\n（可我又不太确定这算不算真的“放出来”，还是只是想让自己好受一点。但眼下我能想到的、最具体也最不吓人的第一步，就是先管住那个自动播放的开关。）",
+        "reasoning": "（她问我这一点点从哪里放出来，我想到的其实是那盘反复播放的录像。每次一空下来它就自动开始放，我拦不住。如果能先做到在它开始的时候喊停，哪怕只是停几秒，也许就不会被它整个吞进去。）\n（可我又不太确定这算不算真的“放出来”，还是只是想让自己好受一点。但眼下我能想到的、最具体也最不吓人的第一步，就是先管住那个自动播放的开关。）"
+      }
+    }
+  ],
+  "created": 1794537024,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 3098,
+    "total_tokens": 3239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

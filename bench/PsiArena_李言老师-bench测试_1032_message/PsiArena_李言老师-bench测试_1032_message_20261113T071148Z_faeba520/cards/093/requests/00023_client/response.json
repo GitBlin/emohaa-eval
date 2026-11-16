@@ -1,0 +1,41 @@
+{
+  "id": "d5f5f624c5f44decaba616fbc07634cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就说“这周太累了，想歇歇”。这个理由是真的，也不算撒谎。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像很希望我给出具体打算，那我就先想个最简单的说法吧。说“就是想歇歇”应该最不容易被追问，也不用解释太多。）\n（说实话，想到要开口还是有点紧张，但比之前聊相亲的时候轻松一些。至少这件事我还能自己控制。）",
+        "reasoning": "（她好像很希望我给出具体打算，那我就先想个最简单的说法吧。说“就是想歇歇”应该最不容易被追问，也不用解释太多。）\n（说实话，想到要开口还是有点紧张，但比之前聊相亲的时候轻松一些。至少这件事我还能自己控制。）"
+      }
+    }
+  ],
+  "created": 1794558301,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2839,
+    "total_tokens": 2919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "061305059d3a49d2a424a596b6fb1249",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心下次做不出来，别人就发现我其实没那么行。（停顿）好像我一直在证明自己，停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我担心什么……其实这个问题我最近也想过。每次方案过了，我第一反应不是高兴，而是怕下次就露馅了。这种担心好像一直都在，只是平时忙起来就压下去了。）\n（可能我真正怕的是，如果我不一直拼、不一直绷着，别人就会发现我其实没那么能干。这个想法让我有点不安，但好像也确实是这么回事。）",
+        "reasoning": "（咨询师问我担心什么……其实这个问题我最近也想过。每次方案过了，我第一反应不是高兴，而是怕下次就露馅了。这种担心好像一直都在，只是平时忙起来就压下去了。）\n（可能我真正怕的是，如果我不一直拼、不一直绷着，别人就会发现我其实没那么能干。这个想法让我有点不安，但好像也确实是这么回事。）"
+      }
+    }
+  ],
+  "created": 1794546163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2311,
+    "total_tokens": 2419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8b791c96da9d4990b6bebf49c502367f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）如果那不是我的错……我好像从来没这么对自己说过话。总觉得先反省自己，家里才不会更僵。可有时候也委屈，凭什么总是我先低头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这次问得很直接，让我去想如果那不是我的错该怎么对自己说。这个角度我以前没试过，心里有点被戳到的感觉。但马上又觉得这不太对，好像是在给自己开脱。从小家里就教我要先想别人的感受，现在突然让我对自己宽容，我有点做不到。）\n（而且现在家里情况本来就不好，老公失业后整个人都缩着，我要是再只顾着心疼自己，会不会太自私了。我其实更想知道，他到底是怎么想的，是不是也觉得我们之间没话说了。可这话说出来，又显得我在推卸责任。）",
+        "reasoning": "（咨询师这次问得很直接，让我去想如果那不是我的错该怎么对自己说。这个角度我以前没试过，心里有点被戳到的感觉。但马上又觉得这不太对，好像是在给自己开脱。从小家里就教我要先想别人的感受，现在突然让我对自己宽容，我有点做不到。）\n（而且现在家里情况本来就不好，老公失业后整个人都缩着，我要是再只顾着心疼自己，会不会太自私了。我其实更想知道，他到底是怎么想的，是不是也觉得我们之间没话说了。可这话说出来，又显得我在推卸责任。）"
+      }
+    }
+  ],
+  "created": 1794535290,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1935,
+    "total_tokens": 2097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

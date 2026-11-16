@@ -1,0 +1,41 @@
+{
+  "id": "e9ed5b1324fd4b8ea63288c2ac284bd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……大概是失业以后吧，整个人就散了。其实我妈走了以后，我心里就一直空落落的，只是那会儿还得干活，顾不上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才没有顺着我自嘲的话头批评我，反而说躺着刷手机不代表没出息。这让我稍微松了口气，感觉她不是在敷衍。她问我这种状态从什么时候开始明显，我得想想……失业那天站在工地门口的时候，好像整个人就泄了气，啥都不想动。但再往前，我妈走了以后，心里就一直空落落的，只是那时候还得干活，没法停下来。）",
+        "reasoning": "（咨询师刚才没有顺着我自嘲的话头批评我，反而说躺着刷手机不代表没出息。这让我稍微松了口气，感觉她不是在敷衍。她问我这种状态从什么时候开始明显，我得想想……失业那天站在工地门口的时候，好像整个人就泄了气，啥都不想动。但再往前，我妈走了以后，心里就一直空落落的，只是那时候还得干活，没法停下来。）"
+      }
+    }
+  ],
+  "created": 1794543636,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2374,
+    "total_tokens": 2491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "211df51516ef4accb798009a0da6f347",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……好像真不多。下班回家就是盯作业、收拾、准备第二天，周末也围着孩子转。说起来有点心酸，我好像很久没为自己安排过什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有能让自己松口气的事，这问题听起来不难，可我想了半天居然想不出来。每天就是学校、家里、孩子作业，好像真的没有什么是专门留给自己的。）\n（也许我该老实说，不是不想放松，是觉得没那个时间。说出来有点心酸，但好像也确实是这么回事。）",
+        "reasoning": "（她问我有没有能让自己松口气的事，这问题听起来不难，可我想了半天居然想不出来。每天就是学校、家里、孩子作业，好像真的没有什么是专门留给自己的。）\n（也许我该老实说，不是不想放松，是觉得没那个时间。说出来有点心酸，但好像也确实是这么回事。）"
+      }
+    }
+  ],
+  "created": 1794535854,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1550,
+    "total_tokens": 1659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

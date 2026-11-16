@@ -1,0 +1,41 @@
+{
+  "id": "446d777b3477454dad2e79af58598170",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……就自己看书、看电视吧。也不太会主动去找别人玩。现在想想，好像一直这样，想靠近又怕打扰别人。是不是得改改这个？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我小时候怎么度过没人陪的时间……看来是想帮我找到这种孤独感的源头。我确实从小就不太会主动找人玩，总是一个人待着。现在想想，这种习惯好像一直延续到现在，虽然心里渴望亲近，但真到了要迈出那一步的时候又退缩了。）\n（说到改变，我其实一直想试试主动约人，但又怕被拒绝。也许可以从小事开始？比如约一个比较熟的同事吃午饭，就算被拒绝也不会太尴尬。这样慢慢练习，说不定能让自己更自然一点。）",
+        "reasoning": "（她问我小时候怎么度过没人陪的时间……看来是想帮我找到这种孤独感的源头。我确实从小就不太会主动找人玩，总是一个人待着。现在想想，这种习惯好像一直延续到现在，虽然心里渴望亲近，但真到了要迈出那一步的时候又退缩了。）\n（说到改变，我其实一直想试试主动约人，但又怕被拒绝。也许可以从小事开始？比如约一个比较熟的同事吃午饭，就算被拒绝也不会太尴尬。这样慢慢练习，说不定能让自己更自然一点。）"
+      }
+    }
+  ],
+  "created": 1794541119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2492,
+    "total_tokens": 2643,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

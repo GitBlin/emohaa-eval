@@ -1,0 +1,41 @@
+{
+  "id": "73f25c2f8704451c891f20427978bf18",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）周四吧，那天他一般加班，家里安静。（停顿）说出来好像就定了，不那么飘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把这件事具体化，问我哪个晚上、留出时间。我心里其实有点怕自己又拖，但又觉得如果不定下来，这周可能又过去了。周四他加班，正好没人打扰，这个时间比较合适。）\n（我说出来之后，好像给自己一个交代了。今天聊下来，我发现至少知道自己卡在哪，也知道可以先做点什么，虽然还是有点不踏实，但没那么空了。）",
+        "reasoning": "（咨询师在帮我把这件事具体化，问我哪个晚上、留出时间。我心里其实有点怕自己又拖，但又觉得如果不定下来，这周可能又过去了。周四他加班，正好没人打扰，这个时间比较合适。）\n（我说出来之后，好像给自己一个交代了。今天聊下来，我发现至少知道自己卡在哪，也知道可以先做点什么，虽然还是有点不踏实，但没那么空了。）"
+      }
+    }
+  ],
+  "created": 1794557733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3214,
+    "total_tokens": 3328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

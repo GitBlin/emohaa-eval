@@ -1,0 +1,41 @@
+{
+  "id": "be6f5836d688426cbebedb680a419fbb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就在客厅。他嫌我不听话，说什么相亲的事，我顶了两句，他抄起碗就砸地上。碎片溅到我脚边……我妈就站旁边，一句话没说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在哪儿、看到了什么……以前没人这么问过。我手还在抖，但好像不是害怕，是觉得终于有人肯听我说了。那就说那次的事吧，说完心里可能松一点。）\n（那时候家里为了相亲的事吵得厉害，我不同意，我爸就砸了碗。碗碎在脚边，我整个人都僵住了。我妈站在旁边没出声，她从来都是这样。现在想起来，我最怕的其实不是碗碎，是那种没人帮我的感觉。）",
+        "reasoning": "（他问我在哪儿、看到了什么……以前没人这么问过。我手还在抖，但好像不是害怕，是觉得终于有人肯听我说了。那就说那次的事吧，说完心里可能松一点。）\n（那时候家里为了相亲的事吵得厉害，我不同意，我爸就砸了碗。碗碎在脚边，我整个人都僵住了。我妈站在旁边没出声，她从来都是这样。现在想起来，我最怕的其实不是碗碎，是那种没人帮我的感觉。）"
+      }
+    }
+  ],
+  "created": 1794553112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 1674,
+    "total_tokens": 1821,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ce01c75ebd149ff81c2bc501f44f283",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）我想说……我也很努力了，你能不能别老觉得我做得不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我心底最想被听见的话，这让我心里一下子翻涌起来。这么多年好像从没人这么问过，我自己也没敢认真想过。）\n（我其实知道那句话是什么，只是说出来会显得我很不懂事、很计较。可不说出来，又觉得憋得慌。也许我可以试着说一点点，不用全说完。）",
+        "reasoning": "（咨询师问的是我心底最想被听见的话，这让我心里一下子翻涌起来。这么多年好像从没人这么问过，我自己也没敢认真想过。）\n（我其实知道那句话是什么，只是说出来会显得我很不懂事、很计较。可不说出来，又觉得憋得慌。也许我可以试着说一点点，不用全说完。）"
+      }
+    }
+  ],
+  "created": 1794535870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2371,
+    "total_tokens": 2467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

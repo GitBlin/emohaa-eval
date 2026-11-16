@@ -1,0 +1,41 @@
+{
+  "id": "8a0f3cce5541434b979cea9f8d979fa9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最担心的……可能是别人觉得我没尽到责任吧。在我家，好像妈妈就该什么都扛着，我妈那辈也是这样过来的，我从小看惯了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如果松手会担心什么，这让我想到家里那些期待的目光。其实我害怕的不是孩子出事，而是别人觉得我这个妈妈不够格。）\n（在我家，好像妈妈就该把所有事都扛下来，不能喊累也不能出错。我从小看我妈就是这样，现在轮到我了，可我真的好累，又不敢说。）",
+        "reasoning": "（咨询师在问我如果松手会担心什么，这让我想到家里那些期待的目光。其实我害怕的不是孩子出事，而是别人觉得我这个妈妈不够格。）\n（在我家，好像妈妈就该把所有事都扛下来，不能喊累也不能出错。我从小看我妈就是这样，现在轮到我了，可我真的好累，又不敢说。）"
+      }
+    }
+  ],
+  "created": 1794535046,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1668,
+    "total_tokens": 1776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

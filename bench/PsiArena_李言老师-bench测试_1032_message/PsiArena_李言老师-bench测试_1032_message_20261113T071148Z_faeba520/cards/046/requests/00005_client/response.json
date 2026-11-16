@@ -1,0 +1,41 @@
+{
+  "id": "93c0f2d2b2864f32aad7db362c90a230",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能吧，我也没细想过，反正说了也没什么用。对了……我如果提到工作上的事，你会不会跟公司或者家里人说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应咨询师的问题。当前第5轮初期。需要表现防御性试探，模糊描述感受，可能测试界限。规则：每轮只针对规则中一个方面。第5轮可以继续模糊描述，或者测试界限？需要自然。咨询师问是否习惯压情绪。可以承认一点，但保持模糊，并可能反问咨询师会不会把来访者说的话告诉别人？这是测试伦理界限。需要简短2-3句。可以表达不确定，试探保密。比如“可能吧，我也没细想过。对了，我如果说了些工作上的事，你会不会跟我公司或者家里人说？” 这符合测试界限。需要自然、犹豫。不要太深入。可以。",
+        "reasoning": "我们需要回应咨询师的问题。当前第5轮初期。需要表现防御性试探，模糊描述感受，可能测试界限。规则：每轮只针对规则中一个方面。第5轮可以继续模糊描述，或者测试界限？需要自然。咨询师问是否习惯压情绪。可以承认一点，但保持模糊，并可能反问咨询师会不会把来访者说的话告诉别人？这是测试伦理界限。需要简短2-3句。可以表达不确定，试探保密。比如“可能吧，我也没细想过。对了，我如果说了些工作上的事，你会不会跟我公司或者家里人说？” 这符合测试界限。需要自然、犹豫。不要太深入。可以。"
+      }
+    }
+  ],
+  "created": 1794555782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 176,
+    "prompt_tokens": 1247,
+    "total_tokens": 1423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 145,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

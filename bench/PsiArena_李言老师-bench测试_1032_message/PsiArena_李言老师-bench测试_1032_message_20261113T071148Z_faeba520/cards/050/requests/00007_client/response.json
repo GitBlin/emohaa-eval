@@ -1,0 +1,41 @@
+{
+  "id": "a5ed495bf6da47698fc788e0c7a1009e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里……唉，我妈走了以后，就剩我爸，可他……他自己脑子也不太清楚了。说了他也不懂，有时候还添乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到家里的事，这让我心里有点发紧。她好像真的在关心我，但家里那些事说起来太沉重了，我还没准备好全盘托出。母亲走了以后，家就不像个家了，父亲那个样子，提起来都难受。）\n（不过她问得挺温和的，不是那种逼着人说的感觉。也许我可以稍微透露一点，就说家里没人了，这样她应该能明白，又不用我一下子把那些伤心事都翻出来。说完这句，心里好像松了一点点，但又有点怕她接着往下问。）",
+        "reasoning": "（咨询师问到家里的事，这让我心里有点发紧。她好像真的在关心我，但家里那些事说起来太沉重了，我还没准备好全盘托出。母亲走了以后，家就不像个家了，父亲那个样子，提起来都难受。）\n（不过她问得挺温和的，不是那种逼着人说的感觉。也许我可以稍微透露一点，就说家里没人了，这样她应该能明白，又不用我一下子把那些伤心事都翻出来。说完这句，心里好像松了一点点，但又有点怕她接着往下问。）"
+      }
+    }
+  ],
+  "created": 1794558972,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1487,
+    "total_tokens": 1636,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

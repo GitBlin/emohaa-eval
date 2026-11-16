@@ -1,0 +1,47 @@
+{
+  "id": "e55d952bf9344728874525b18a893652",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "发完消息等回复的时候吧。手机一放下，那声音就开始说“你看，人家懒得理你”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪个时刻那个声音最容易冒出来……其实我心里清楚，就是发完消息等回复的时候。手指悬在屏幕上，脑子里就开始自动播放了。）\n（承认这个有点难为情，但既然想试试，总得先看清楚它什么时候来。等回复那几秒，确实是最难受的，什么都还没发生，我已经替人家想好答案了。）",
+        "reasoning": "（她问我哪个时刻那个声音最容易冒出来……其实我心里清楚，就是发完消息等回复的时候。手指悬在屏幕上，脑子里就开始自动播放了。）\n（承认这个有点难为情，但既然想试试，总得先看清楚它什么时候来。等回复那几秒，确实是最难受的，什么都还没发生，我已经替人家想好答案了。）"
+      }
+    }
+  ],
+  "created": 1794800660,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3278,
+    "total_tokens": 3382,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

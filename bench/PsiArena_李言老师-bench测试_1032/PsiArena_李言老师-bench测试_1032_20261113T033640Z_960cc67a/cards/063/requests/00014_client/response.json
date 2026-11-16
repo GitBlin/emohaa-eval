@@ -1,0 +1,41 @@
+{
+  "id": "ca5dd977587d4e0db15a7b616a730516",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她大概会说“早跟你说过，别把日子搞这么复杂”……那种口气，比骂我还难受。她明明也是为我好，可我一听就想躲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她一下子点到了我最怕的地方，我确实不是怕材料，是怕我妈那种眼神和话。可被她这么直接问出来，我又有点慌，好像还没准备好把这一层全摊开。）\n（我想绕一下，先说说我妈那种“为你好”的口气，其实比直接骂我还让人难受。这样既回应了她，又不用马上把最深的失望说出来。）",
+        "reasoning": "（她一下子点到了我最怕的地方，我确实不是怕材料，是怕我妈那种眼神和话。可被她这么直接问出来，我又有点慌，好像还没准备好把这一层全摊开。）\n（我想绕一下，先说说我妈那种“为你好”的口气，其实比直接骂我还让人难受。这样既回应了她，又不用马上把最深的失望说出来。）"
+      }
+    }
+  ],
+  "created": 1794544408,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2283,
+    "total_tokens": 2403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

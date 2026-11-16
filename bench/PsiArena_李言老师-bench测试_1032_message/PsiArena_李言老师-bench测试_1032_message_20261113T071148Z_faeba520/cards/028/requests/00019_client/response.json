@@ -1,0 +1,41 @@
+{
+  "id": "b6e5e80994344bed82f46d6440cfadb0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……几百块吧。其实我自己也负担得起。就是，一想到花钱做这种“没用”的事，心里就过不去那个坎。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问课程的价格，这让我有点意外，但也让我意识到自己确实在钱这个问题上卡住了。那个课程其实不贵，可我就是会把它想得很严重，好像花这笔钱就是做了什么大逆不道的事。）\n（这种感觉很奇怪，明明是我自己赚的钱，却总要先在心里过一遍父母那关。也许我真正怕的不是花钱，而是花钱之后那种“又没听他们话”的愧疚感。）",
+        "reasoning": "（咨询师在问课程的价格，这让我有点意外，但也让我意识到自己确实在钱这个问题上卡住了。那个课程其实不贵，可我就是会把它想得很严重，好像花这笔钱就是做了什么大逆不道的事。）\n（这种感觉很奇怪，明明是我自己赚的钱，却总要先在心里过一遍父母那关。也许我真正怕的不是花钱，而是花钱之后那种“又没听他们话”的愧疚感。）"
+      }
+    }
+  ],
+  "created": 1794559019,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2571,
+    "total_tokens": 2696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

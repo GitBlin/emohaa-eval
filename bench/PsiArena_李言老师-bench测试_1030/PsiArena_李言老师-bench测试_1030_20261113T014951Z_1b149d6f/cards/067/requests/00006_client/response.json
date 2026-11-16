@@ -1,0 +1,41 @@
+{
+  "id": "2e54a085c856459c88c1b9a3d534ae50",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候会突然说些我听不懂的话，情绪一下子就很激动……（声音低下去）我其实挺怕的。可她毕竟是家里人，我又不能不管。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有评判我，反而说我这份担心值得在意，让我心里稍微松了一点。可我还是不敢直接说“我妈”，好像一说出口，家里那点事就全被摊开了。先含糊地说“家里人”，看看她会不会追着问下去。而且我确实也说不清楚，她的状态时好时坏，我连该从哪件事讲起都不知道，这种乱糟糟的感觉本身就让我很烦。）\n（要是我讲得太细，她会不会觉得我小题大做？还是先停一下，把那种“说不清”的感觉丢给她，看她怎么接。这样既不算完全躲开，也能试探她会不会嫌我绕。）",
+        "reasoning": "（咨询师没有评判我，反而说我这份担心值得在意，让我心里稍微松了一点。可我还是不敢直接说“我妈”，好像一说出口，家里那点事就全被摊开了。先含糊地说“家里人”，看看她会不会追着问下去。而且我确实也说不清楚，她的状态时好时坏，我连该从哪件事讲起都不知道，这种乱糟糟的感觉本身就让我很烦。）\n（要是我讲得太细，她会不会觉得我小题大做？还是先停一下，把那种“说不清”的感觉丢给她，看她怎么接。这样既不算完全躲开，也能试探她会不会嫌我绕。）"
+      }
+    }
+  ],
+  "created": 1794537970,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 174,
+    "prompt_tokens": 1424,
+    "total_tokens": 1598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

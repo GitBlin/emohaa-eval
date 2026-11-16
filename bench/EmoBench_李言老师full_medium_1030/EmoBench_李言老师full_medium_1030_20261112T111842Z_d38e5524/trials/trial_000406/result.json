@@ -1,0 +1,55 @@
+{
+  "trial_id": "trial_000406",
+  "sample_id": "EA:7",
+  "task": "EA",
+  "language": "en",
+  "repeat": 0,
+  "category": "Personal-Others",
+  "fine_category": null,
+  "question_type": "Action",
+  "labels": {
+    "answer": "A"
+  },
+  "maps": {
+    "answer": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_14517a2b0fc0b81906e13814799b583ddc293334",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "```json\n{\n    \"answer\": \"B\"\n}\n```",
+  "prediction_original": {
+    "answer": "B"
+  },
+  "component_correct": {
+    "answer": false
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:19:18.724235+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer": "B"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.007539886981249,
+  "finished_at": "2026-11-12T11:19:20.731746+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0459f60cf3ed4665b0fc988721e6e91f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在少了，但我回家还是会不自觉地紧张。他随口问一句“最近怎么样”，我都要想半天怎么答，怕答得不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我和爸爸相处时那种平静的语气还会不会出现，这让我一下子想到很多。他好像没有急着评判我爸，这让我稍微放松一点。）\n（但我确实还是怕让他们失望，尤其是回家的时候。那种“最近怎么样”听起来像关心，可在我耳朵里总变成在检查我有没有进步。可能是我自己太敏感了吧，但那种压力是真的。）",
+        "reasoning": "（咨询师问我和爸爸相处时那种平静的语气还会不会出现，这让我一下子想到很多。他好像没有急着评判我爸，这让我稍微放松一点。）\n（但我确实还是怕让他们失望，尤其是回家的时候。那种“最近怎么样”听起来像关心，可在我耳朵里总变成在检查我有没有进步。可能是我自己太敏感了吧，但那种压力是真的。）"
+      }
+    }
+  ],
+  "created": 1794557764,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2234,
+    "total_tokens": 2345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

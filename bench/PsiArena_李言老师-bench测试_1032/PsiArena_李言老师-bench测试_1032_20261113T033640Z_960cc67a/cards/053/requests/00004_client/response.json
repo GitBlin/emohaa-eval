@@ -1,0 +1,41 @@
+{
+  "id": "5eb07f8a18d24d328ec1f69088460d27",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是小组活动的时候，本来应该合作，结果几个孩子抢东西、吵起来……我站在那儿，突然觉得特别没劲。对了，你们做咨询的，会不会也像我妈妈那样，最后给我一堆建议？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的情境，试图让我说得更细。但我现在还没准备好把那些细节都摊开来说，感觉有点被追问得紧。而且我确实有点担心，如果我说太多，会不会被当成一个不合格的老师。）\n（我想稍微试探一下她的态度，看看她会不会像我妈那样，听完就给我一堆建议或者评判。毕竟我妈就是心理咨询师，我太熟悉那种“专业”的回应方式了，有时候反而让人觉得有压力。）",
+        "reasoning": "（心理咨询师在问我具体的情境，试图让我说得更细。但我现在还没准备好把那些细节都摊开来说，感觉有点被追问得紧。而且我确实有点担心，如果我说太多，会不会被当成一个不合格的老师。）\n（我想稍微试探一下她的态度，看看她会不会像我妈那样，听完就给我一堆建议或者评判。毕竟我妈就是心理咨询师，我太熟悉那种“专业”的回应方式了，有时候反而让人觉得有压力。）"
+      }
+    }
+  ],
+  "created": 1794543731,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1186,
+    "total_tokens": 1332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

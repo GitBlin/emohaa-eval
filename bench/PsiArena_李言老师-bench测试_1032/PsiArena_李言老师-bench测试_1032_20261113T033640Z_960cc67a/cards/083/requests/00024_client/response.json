@@ -1,0 +1,41 @@
+{
+  "id": "680bd14599414541aca02806891ea764",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "饮食开销倒还好，主要还是就医检查那块……一提到去医院，我还是有点发怵。不过聊到这儿，好像没那么抗拒了，或许可以先从简单的检查试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我最拿不准的地方了……饮食开销其实还好，真正让我卡住的是就医检查。一想到医院，那种紧张感又上来了，但这次好像没那么强烈了。）\n（可能跟这段时间聊下来有关，我能感觉到自己没那么抗拒了。不过还是有点怕，怕检查出什么，也怕那些繁琐的流程。但身体一直这样拖着也不是办法，或许可以先从简单的地方入手试试。）",
+        "reasoning": "（咨询师问到我最拿不准的地方了……饮食开销其实还好，真正让我卡住的是就医检查。一想到医院，那种紧张感又上来了，但这次好像没那么强烈了。）\n（可能跟这段时间聊下来有关，我能感觉到自己没那么抗拒了。不过还是有点怕，怕检查出什么，也怕那些繁琐的流程。但身体一直这样拖着也不是办法，或许可以先从简单的地方入手试试。）"
+      }
+    }
+  ],
+  "created": 1794545633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3222,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:08.132125+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Lei visits a person he is not very familiar with for some business. As they chat, the other person's mother suddenly offers Zhang Lei two Ferrero chocolates. Zhang Lei eats them in surprise. After finishing the chocolates and chatting for a while, the aunt says, \"There is also a watermelon at home, do you want me to cut it for you?\"\n\n[Question]\nWhat is the real intention of the other person's mother when she says this?\n\n[Candidate Answers]\nA. The other person's mother thinks the watermelon is very delicious and wants Zhang Lei to try it.\nB. The other person's mother wants Zhang Lei to leave as soon as possible.\nC. The other person's mother wants to show her generosity.\nD. The other person's mother wants Zhang Lei to eat more.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

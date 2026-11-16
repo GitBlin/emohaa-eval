@@ -1,0 +1,41 @@
+{
+  "id": "02e84d44ce944506a737fa38659fc511",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像……是我拆快递的时候。明明拆的时候应该开心，可那个声音就冒出来说“你看，又买了吧”。（苦笑）挺讽刺的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是那个声音最常出现的时刻，我得想想。其实不只是买东西之后，很多时候都会冒出来，尤其是看到别人分享的时候，或者一个人待着的时候。但好像有个更具体的场景，就是拆快递的时候，那种感觉特别明显。）\n（我想把那个拆快递的瞬间说出来，因为那时候最真实，自己心里清楚东西可能用不上，那个声音就特别响。这样讲应该能让咨询师明白我不是随便说说，是真的被这个困扰着。）",
+        "reasoning": "（咨询师问的是那个声音最常出现的时刻，我得想想。其实不只是买东西之后，很多时候都会冒出来，尤其是看到别人分享的时候，或者一个人待着的时候。但好像有个更具体的场景，就是拆快递的时候，那种感觉特别明显。）\n（我想把那个拆快递的瞬间说出来，因为那时候最真实，自己心里清楚东西可能用不上，那个声音就特别响。这样讲应该能让咨询师明白我不是随便说说，是真的被这个困扰着。）"
+      }
+    }
+  ],
+  "created": 1794549683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2267,
+    "total_tokens": 2406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

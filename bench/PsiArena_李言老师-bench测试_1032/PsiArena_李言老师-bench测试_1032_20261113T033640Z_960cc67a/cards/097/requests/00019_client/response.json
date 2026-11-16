@@ -1,0 +1,41 @@
+{
+  "id": "3c17ff220c344cc8be5135ab8d22f556",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "五分钟……听起来好像还行。但我怕一拿起笔，脑子里又开始惦记那些没回的消息。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到五分钟随便涂两笔，这个提议听起来没那么大压力。但我心里马上想到的还是那些睡前必须完成的事，好像不先处理完它们，我根本没资格去画。）\n（不过她这么一说，我确实有点动摇。也许可以试试，但顺序得先理清楚，不然我肯定会一边画一边惦记着消息没回。）",
+        "reasoning": "（她提到五分钟随便涂两笔，这个提议听起来没那么大压力。但我心里马上想到的还是那些睡前必须完成的事，好像不先处理完它们，我根本没资格去画。）\n（不过她这么一说，我确实有点动摇。也许可以试试，但顺序得先理清楚，不然我肯定会一边画一边惦记着消息没回。）"
+      }
+    }
+  ],
+  "created": 1794550984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2685,
+    "total_tokens": 2781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

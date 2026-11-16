@@ -1,0 +1,41 @@
+{
+  "id": "46c9f881a9744365b1b555b77b9023d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下去）他们笑我，说我衣服旧，还推我一下……我就跑。老师，我这样是不是很没用？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我他们具体说什么做什么……可我真不想说那些细节。说多了好像更丢人，而且我怕他问我为什么不告诉老师。其实我心里有点想试试他是不是真的不会说出去，或者会不会像别人一样觉得我太软弱。）\n（不过还是先别讲太多吧。就说他们笑我，推我一下，然后我跑掉。这样应该够了吧。对了，我可以问问他会不会觉得我太软，看他怎么反应。）",
+        "reasoning": "（他问我他们具体说什么做什么……可我真不想说那些细节。说多了好像更丢人，而且我怕他问我为什么不告诉老师。其实我心里有点想试试他是不是真的不会说出去，或者会不会像别人一样觉得我太软弱。）\n（不过还是先别讲太多吧。就说他们笑我，推我一下，然后我跑掉。这样应该够了吧。对了，我可以问问他会不会觉得我太软，看他怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794534803,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1212,
+    "total_tokens": 1338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

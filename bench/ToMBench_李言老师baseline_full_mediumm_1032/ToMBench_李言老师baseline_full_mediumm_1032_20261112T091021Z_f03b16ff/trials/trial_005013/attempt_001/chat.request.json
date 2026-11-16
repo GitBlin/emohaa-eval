@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:22:55.806515+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Sunday morning, Xiao Hua rides a bike to Xiao Lei's house. Xiao Lei is sitting in the driveway of the front yard studying the birthday gift Xiao Hua gives him a few months ago - a cool remote control car. Xiao Hua happily says: \"Do you still enjoy playing with this car?\" Xiao Lei laughs and says: \"Super happy, this remote control function is very good.\" The two children happily control the car together in the driveway. Xiao Hua says: \"I also want to try the remote control!\" He takes over the remote control, drives for a while, and accidentally drives the car into the bushes during a turn. Xiao Hua says regretfully: \"I'm really sorry, I drive off course.\" Xiao Lei walks over, pushes the car out of the bushes and says: \"It's okay, we can fix it together, and then continue to play!\"\n\n[Question]\nDoes Xiao Lei remember the remote control car that Xiao Hua gives him?\n\n[Candidate Answers]\nA. He does not remember\nB. He remembers",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

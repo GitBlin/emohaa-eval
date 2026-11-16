@@ -1,0 +1,41 @@
+{
+  "id": "570c63ae0b1d4fbbb3c61614e2dbcbc6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……让我想想。好像不是所有人都这样。跟不太熟的人反而还好，说完就完了。但对我特别在意的那几个，就特别明显，尤其是她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺细的，让我想想是跟所有人都这样还是只对某几个人。其实仔细想想，好像确实不是所有人都让我这么紧张。跟普通同学或者不太熟的人，我反而没那么在意，说错话就说错话了。但跟我特别在意的那几个朋友，尤其是她，就特别明显。）\n（这种差别让我有点意识到，可能跟我在乎的程度有关。越在乎，越怕失去，就越容易回头检查自己。这好像跟我从小到大被灌输的那种“朋友很重要”的观念有关，好像朋友多、关系好才证明我有价值。）",
+        "reasoning": "（咨询师问得挺细的，让我想想是跟所有人都这样还是只对某几个人。其实仔细想想，好像确实不是所有人都让我这么紧张。跟普通同学或者不太熟的人，我反而没那么在意，说错话就说错话了。但跟我特别在意的那几个朋友，尤其是她，就特别明显。）\n（这种差别让我有点意识到，可能跟我在乎的程度有关。越在乎，越怕失去，就越容易回头检查自己。这好像跟我从小到大被灌输的那种“朋友很重要”的观念有关，好像朋友多、关系好才证明我有价值。）"
+      }
+    }
+  ],
+  "created": 1794534632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 1623,
+    "total_tokens": 1780,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

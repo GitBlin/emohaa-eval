@@ -1,0 +1,41 @@
+{
+  "id": "e8d39cc3ad12458dac94329ca9e01814",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是最近吧……跟一个同事走得比较近，可每次我想聊以后，他就岔开话题。那种卡住的感觉就特别强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到卡住的感觉从什么时候开始，这个问题让我有点想回避，但又觉得她好像真的在听。最近和那个同事的事让我特别难受，也许可以稍微说一点。）\n（不过一下子全部说出来还是有点难，先提一下最近发生的事，看看她怎么反应。毕竟我还不太确定她能不能理解这种感情上的纠结。）",
+        "reasoning": "（咨询师问到卡住的感觉从什么时候开始，这个问题让我有点想回避，但又觉得她好像真的在听。最近和那个同事的事让我特别难受，也许可以稍微说一点。）\n（不过一下子全部说出来还是有点难，先提一下最近发生的事，看看她怎么反应。毕竟我还不太确定她能不能理解这种感情上的纠结。）"
+      }
+    }
+  ],
+  "created": 1794536403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1654,
+    "total_tokens": 1759,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

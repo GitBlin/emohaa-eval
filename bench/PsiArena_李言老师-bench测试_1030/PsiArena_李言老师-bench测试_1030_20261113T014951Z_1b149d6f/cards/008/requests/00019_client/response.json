@@ -1,0 +1,41 @@
+{
+  "id": "6c889152bd16436cb860193b5d2132ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "收的信号……我可以说“哎，先不聊了，下午还有个表要赶”，或者看看时间，说“差不多了”。这样应该不突兀吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想一个“收”的信号，这倒是挺实际的。以前我总是一松就松到底，然后慌慌张张地补救，现在提前想好怎么收，好像确实能让我没那么怕。）\n（看时间或者顺势把话题带到工作上，这两个办法都不突兀，听起来也不会让人觉得我在刻意躲。不过说实话，我有点怀疑自己到时候真能那么自然地做到吗？）",
+        "reasoning": "（她让我想一个“收”的信号，这倒是挺实际的。以前我总是一松就松到底，然后慌慌张张地补救，现在提前想好怎么收，好像确实能让我没那么怕。）\n（看时间或者顺势把话题带到工作上，这两个办法都不突兀，听起来也不会让人觉得我在刻意躲。不过说实话，我有点怀疑自己到时候真能那么自然地做到吗？）"
+      }
+    }
+  ],
+  "created": 1794535066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2930,
+    "total_tokens": 3048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "795ac1f814564dce8a2599b1bcf2860f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微坐直了点）备一两句话……这个我倒是没想过。听起来好像可行，至少不用干坐着。就是怕到时候一紧张，全忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我准备开场的话，好像确实能缓解那种干坐着不知道说什么的尴尬。不过心里还是有点打鼓，怕自己一紧张就忘了，或者说出来显得太刻意。）\n（但又想，总比什么都不准备强吧。至少有个东西能抓一下，不至于一坐下就慌。也许可以试试，反正也没什么损失。）",
+        "reasoning": "（她让我准备开场的话，好像确实能缓解那种干坐着不知道说什么的尴尬。不过心里还是有点打鼓，怕自己一紧张就忘了，或者说出来显得太刻意。）\n（但又想，总比什么都不准备强吧。至少有个东西能抓一下，不至于一坐下就慌。也许可以试试，反正也没什么损失。）"
+      }
+    }
+  ],
+  "created": 1794552988,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2618,
+    "total_tokens": 2725,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

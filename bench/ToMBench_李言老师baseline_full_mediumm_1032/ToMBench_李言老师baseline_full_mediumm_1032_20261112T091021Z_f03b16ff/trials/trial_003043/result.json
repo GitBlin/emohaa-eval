@@ -1,0 +1,60 @@
+{
+  "trial_id": "trial_003043",
+  "sample_id": "Scalar Implicature Test:187",
+  "task_file": "Scalar Implicature Test",
+  "ability": "Knowledge: Information-knowledge links",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "A",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:58:43.202687+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:59:05.075082+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 6,
+      "started_at": "2026-11-13T01:59:28.818879+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "c433268bc67f4bb2a2a2d6211bc0fd14"
+  ],
+  "started_at": "2026-11-13T01:58:43.202687+00:00",
+  "finished_at": "2026-11-13T01:59:43.131210+00:00",
+  "elapsed_seconds": 59.928716238588095,
+  "user_id": "liyan_3477214f6d7fdc8875bc5a8d73fef0b75cf43981"
+}

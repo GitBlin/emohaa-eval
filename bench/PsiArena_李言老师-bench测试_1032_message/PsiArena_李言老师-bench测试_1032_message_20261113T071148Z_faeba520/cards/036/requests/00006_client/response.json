@@ -1,0 +1,41 @@
+{
+  "id": "ad994e2a23fa4c0395967959b8a23ebd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）就是……教室里有时候会有点吵，有人说话什么的。我……我不知道怎么说清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到上课时周围的情况，是想让我具体说说当时发生了什么吧。但我现在还不太想直接讲那个男生被欺负的事，感觉说出来会很难堪，也怕自己讲不清楚。）\n（也许我可以先含糊一点，说教室里有点吵，然后试探一下咨询师会不会追问细节。毕竟我现在还没完全信任她，不想一下子把心里的事全倒出来。）",
+        "reasoning": "（咨询师问到上课时周围的情况，是想让我具体说说当时发生了什么吧。但我现在还不太想直接讲那个男生被欺负的事，感觉说出来会很难堪，也怕自己讲不清楚。）\n（也许我可以先含糊一点，说教室里有点吵，然后试探一下咨询师会不会追问细节。毕竟我现在还没完全信任她，不想一下子把心里的事全倒出来。）"
+      }
+    }
+  ],
+  "created": 1794555416,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1335,
+    "total_tokens": 1437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

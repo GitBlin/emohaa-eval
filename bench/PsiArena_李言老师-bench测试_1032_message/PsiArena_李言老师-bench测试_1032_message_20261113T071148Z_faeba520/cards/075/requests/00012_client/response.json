@@ -1,0 +1,41 @@
+{
+  "id": "4a0cbe9f6dc7479a90d251370c758318",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……我朋友本来就不多，这种事也不好意思跟她们讲。说了她们也帮不上，还显得我矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身边有没有人能让我缓一缓，这让我有点不知道怎么说。我平时真的没什么人可以讲这些，朋友不多，也不想让他们觉得我烦。我妈那边就更不用说了，说了只会让她更担心。）\n（想到这儿，心里有点发酸。好像我一直都是自己扛着，也没觉得有什么不对，但被这么一问，突然觉得挺孤单的。不过说出来会不会显得我很惨，或者很没用？）",
+        "reasoning": "（咨询师问我身边有没有人能让我缓一缓，这让我有点不知道怎么说。我平时真的没什么人可以讲这些，朋友不多，也不想让他们觉得我烦。我妈那边就更不用说了，说了只会让她更担心。）\n（想到这儿，心里有点发酸。好像我一直都是自己扛着，也没觉得有什么不对，但被这么一问，突然觉得挺孤单的。不过说出来会不会显得我很惨，或者很没用？）"
+      }
+    }
+  ],
+  "created": 1794557413,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2044,
+    "total_tokens": 2164,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

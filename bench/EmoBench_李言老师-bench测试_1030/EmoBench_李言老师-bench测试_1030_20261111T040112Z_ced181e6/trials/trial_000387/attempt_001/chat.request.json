@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:37.994152+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nIn a trivia challenge, Aaron's team was lagging behind. Suddenly, a question from his expertise area popped up, and Aaron swiftly buzzed in to answer. He looked around at his team with a smirk and winked. His answer was announced incorrect.\n\n## Question 1\nWhat emotion(s) would Aaron ultimately feel in this situation?\n\n## Choices for Question 1\nA) Pride & Joy\nB) Pride & Amusement\nC) Disappointment & Amusement\nD) Disappointment & Pride\nE) Embarrassment & Disappointment\nF) Embarrassment & Curiosity\n\n## Question 2\nWhy would Aaron feel these emotions in this situation?\n\n## Choices for Question 2\nA) He knew the right answer to the question & His team won the trivia challenge\nB) He found out his answer to a question in his expertise was wrong answer & His team won the trivia challenge\nC) He jokingly winked at his teammates before giving the right answer & His team won the trivia challenge\nD) He gave the wrong answer despite showing confidence in his choice & He found out his answer to a question in his expertise was wrong answer\nE) He gave the wrong answer despite showing confidence in his choice & His team won the trivia challenge\nF) He gave the wrong answer despite showing confidence in his choice & He knew the right answer to the question\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

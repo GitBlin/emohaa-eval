@@ -1,0 +1,41 @@
+{
+  "id": "00af4c774eca41539eec8367214530c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）撕掉吧。留着我会忍不住回头去看，又开始较真写得好不好。撕了反而轻松。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我要怎么处理写下来的东西，这让我有点意外。我本来以为只是随便写写，没想过之后怎么处理。撕掉还是留着，好像不只是个习惯问题。撕掉的话，我会觉得轻松，但又有点舍不得；留着的话，又怕自己回头看会较真。这种纠结本身就挺像我的，什么都要想清楚。不过咨询师问得挺细的，也许他是在帮我找到一种真正能放松的方式。）",
+        "reasoning": "（咨询师在问我要怎么处理写下来的东西，这让我有点意外。我本来以为只是随便写写，没想过之后怎么处理。撕掉还是留着，好像不只是个习惯问题。撕掉的话，我会觉得轻松，但又有点舍不得；留着的话，又怕自己回头看会较真。这种纠结本身就挺像我的，什么都要想清楚。不过咨询师问得挺细的，也许他是在帮我找到一种真正能放松的方式。）"
+      }
+    }
+  ],
+  "created": 1794540252,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3059,
+    "total_tokens": 3183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

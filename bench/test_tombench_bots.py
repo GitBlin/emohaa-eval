@@ -139,7 +139,7 @@ def main(argv=None):
     parser.add_argument("--interval", type=float, default=1, help="请求之间的间隔秒数")
     parser.add_argument("--dry-run", action="store_true", help="只生成题目，不认证、不请求平台")
     parser.add_argument("--data-dir", type=Path, default=HERE / "Tombench/data")
-    parser.add_argument("--output-dir", type=Path, default=HERE / "pilot_results")
+    parser.add_argument("--output-dir", type=Path, default=None)
     parser.add_argument("--user-id", default=os.getenv("LINGX_USER_ID", DEFAULT_USER_ID))
     parser.add_argument("--key", default=os.getenv("LINGX_API_KEY", DEFAULT_API_KEY))
     parser.add_argument("--secret", default=os.getenv("LINGX_API_SECRET", DEFAULT_API_SECRET))
@@ -168,7 +168,9 @@ def main(argv=None):
         rng = random.Random(args.seed)
         prepared = [prepare_sample(s, args.language, rng) for s in samples]
         run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ") + "_" + uuid4().hex[:8]
-        output = args.output_dir / f"bot_{args.bot_id or 'preview'}_{run_id}"
+        bot_slug = re.sub(r"[^\w.-]+", "_", (bot or {}).get("name") or "bot").strip("._-")[:64] or "bot"
+        prefix = f"ToMBench_{bot_slug}_{args.bot_id or 'preview'}_pilot"
+        output = (args.output_dir or HERE / prefix) / f"{prefix}_{run_id}"
         output.mkdir(parents=True, exist_ok=False)
         metadata = {"created_at": datetime.now(timezone.utc).isoformat(),
                     "bot_id": args.bot_id, "bot_name": bot.get("name") if bot else None,

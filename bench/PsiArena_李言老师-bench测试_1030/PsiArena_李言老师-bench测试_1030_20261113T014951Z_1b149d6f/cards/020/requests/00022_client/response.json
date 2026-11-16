@@ -1,0 +1,41 @@
+{
+  "id": "c12c4a93dd014bd082797482fc5047db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）稳一点。虽然还是会虚，但至少这句话是我自己的，不用先看别人脸色。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我确认这句话说出来之后的感觉，好像是想让我更清楚自己的状态。这句“我有点难受，这是真的”确实比之前那些话都轻一些，不用去争对错，也不用解释太多。心里稍微稳了一点，但也不是完全踏实，还是会担心说出来之后别人怎么反应。）\n（不过至少我能对自己说这句话了，这算是一个开始吧。我想把这种“稳”和“虚”都讲出来，不用装作已经很有力量的样子。）",
+        "reasoning": "（咨询师在帮我确认这句话说出来之后的感觉，好像是想让我更清楚自己的状态。这句“我有点难受，这是真的”确实比之前那些话都轻一些，不用去争对错，也不用解释太多。心里稍微稳了一点，但也不是完全踏实，还是会担心说出来之后别人怎么反应。）\n（不过至少我能对自己说这句话了，这算是一个开始吧。我想把这种“稳”和“虚”都讲出来，不用装作已经很有力量的样子。）"
+      }
+    }
+  ],
+  "created": 1794535721,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3261,
+    "total_tokens": 3386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

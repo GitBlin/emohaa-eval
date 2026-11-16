@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_000564",
+  "sample_id": "Discrepant Emotions:22",
+  "task_file": "Discrepant Emotions",
+  "ability": "Emotion: Discrepant emotions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "A",
+    "B": "D",
+    "C": "B",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "C",
+  "prediction_original": "B",
+  "reply": "[[C]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:16:21.990612+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:16:43.697115+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "666186748abc42249266d37b47f62e4f"
+  ],
+  "started_at": "2026-11-12T09:16:21.990612+00:00",
+  "finished_at": "2026-11-12T09:16:49.865574+00:00",
+  "elapsed_seconds": 27.875067502260208,
+  "user_id": "liyan_12f6db5d91a1825dddbae70dc4c2e6c5ba6ae926"
+}

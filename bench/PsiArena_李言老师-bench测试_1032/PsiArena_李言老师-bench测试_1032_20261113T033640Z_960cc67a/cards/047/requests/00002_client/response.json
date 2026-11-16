@@ -1,0 +1,41 @@
+{
+  "id": "a1534295bd254fe68e99b90907c9313b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……我也说不太清楚。有时候在学校里，明明没什么大事，我就突然很想哭，然后一整天都不对劲。我自己也觉得挺莫名其妙的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师看起来挺温和的，说节奏由我掌握……但我还是不太确定该说到什么程度。她问最近最不舒服的是什么，可我真的不知道该怎么讲清楚。也许先随便说一点表面的东西，看看她怎么反应比较安全。毕竟第一次见面，我不能一下子就把什么都倒出来。）",
+        "reasoning": "（咨询师看起来挺温和的，说节奏由我掌握……但我还是不太确定该说到什么程度。她问最近最不舒服的是什么，可我真的不知道该怎么讲清楚。也许先随便说一点表面的东西，看看她怎么反应比较安全。毕竟第一次见面，我不能一下子就把什么都倒出来。）"
+      }
+    }
+  ],
+  "created": 1794543404,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 944,
+    "total_tokens": 1042,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a6177a217acc4f48877ca85478ee79c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "累……可能是晚上吧。总是睡不好，躺下就开始想事情，停不下来。白天在幼儿园还要一直撑着，不能让孩子们看出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说不用紧张，想到哪儿说到哪儿……这让我稍微放松了一点，但还是不太确定该说多少。最近确实很累，晚上睡不好，白天在幼儿园又要一直撑着，可这些说出来会不会显得我很矫情？）\n（他问最近有什么事情让我觉得累，我可以说晚上睡不好，但不想解释为什么睡不好。先这样模糊地回应一下，看看他会不会追问太多。）",
+        "reasoning": "（心理咨询师说不用紧张，想到哪儿说到哪儿……这让我稍微放松了一点，但还是不太确定该说多少。最近确实很累，晚上睡不好，白天在幼儿园又要一直撑着，可这些说出来会不会显得我很矫情？）\n（他问最近有什么事情让我觉得累，我可以说晚上睡不好，但不想解释为什么睡不好。先这样模糊地回应一下，看看他会不会追问太多。）"
+      }
+    }
+  ],
+  "created": 1794538499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1024,
+    "total_tokens": 1143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "998bb658d6d443488bfceb1171ca202d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能更怕自己语气一软，就变成抱怨了。要不我先写下来，照着说？这样是不是有点太刻意了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更担心被拒绝还是语气变软，这让我想到过去开口时总是不自觉带着试探和委屈，结果反而没说清楚。我其实害怕的是自己先退缩，把请求说得像抱怨。）\n（也许我可以试着把话写下来，这样就不用当面纠结语气了。但写下来会不会又显得太正式，让他觉得我在小题大做？不过至少比临场慌掉好。）",
+        "reasoning": "（咨询师问我更担心被拒绝还是语气变软，这让我想到过去开口时总是不自觉带着试探和委屈，结果反而没说清楚。我其实害怕的是自己先退缩，把请求说得像抱怨。）\n（也许我可以试着把话写下来，这样就不用当面纠结语气了。但写下来会不会又显得太正式，让他觉得我在小题大做？不过至少比临场慌掉好。）"
+      }
+    }
+  ],
+  "created": 1794548495,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3215,
+    "total_tokens": 3333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

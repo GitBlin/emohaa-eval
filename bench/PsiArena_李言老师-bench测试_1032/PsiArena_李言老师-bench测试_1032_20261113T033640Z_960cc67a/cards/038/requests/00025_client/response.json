@@ -1,0 +1,41 @@
+{
+  "id": "3c05f1c2e8d34b49b9557b493e5adee5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）明天晚饭后可以。我会先跟他说清楚，我只是想听他说说真心话，不是逼他给答案。（顿了顿）说实话，还是有点发怵，但好像比之前清楚点了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我具体时间，我其实心里有点慌，但也知道再拖下去只会更难受。明天晚饭后可以，至少我能提前想好怎么开口。）\n（不过我还是担心自己一紧张就说不清楚，或者又被他岔开话题。我想先跟他讲明白，这次不是逼他，只是想听他说说真实想法。）",
+        "reasoning": "（他问我具体时间，我其实心里有点慌，但也知道再拖下去只会更难受。明天晚饭后可以，至少我能提前想好怎么开口。）\n（不过我还是担心自己一紧张就说不清楚，或者又被他岔开话题。我想先跟他讲明白，这次不是逼他，只是想听他说说真实想法。）"
+      }
+    }
+  ],
+  "created": 1794550336,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3165,
+    "total_tokens": 3282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

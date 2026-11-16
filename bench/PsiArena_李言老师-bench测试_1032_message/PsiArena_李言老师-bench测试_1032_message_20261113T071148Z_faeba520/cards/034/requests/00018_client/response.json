@@ -1,0 +1,41 @@
+{
+  "id": "f1bc6cfb29fd4c91b3e6c2bffe939c1d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……先别打断我，也别马上说“这有什么好说的”。哪怕最后他还是不认同，起码让我把话讲完。这样想是不是太理想化了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体希望他做到什么，这让我有点慌。我其实没想那么细，就是觉得他应该认真听我说完，别急着否定我。可我又怕自己要求太多，显得太自私。）\n（也许我可以先说出最基础的期待，比如他别打断我。但说完又觉得不安，担心这样的期待是不是太理想化了。毕竟他以前的态度让我觉得，他可能根本不会耐心听。）",
+        "reasoning": "（咨询师在问我具体希望他做到什么，这让我有点慌。我其实没想那么细，就是觉得他应该认真听我说完，别急着否定我。可我又怕自己要求太多，显得太自私。）\n（也许我可以先说出最基础的期待，比如他别打断我。但说完又觉得不安，担心这样的期待是不是太理想化了。毕竟他以前的态度让我觉得，他可能根本不会耐心听。）"
+      }
+    }
+  ],
+  "created": 1794555442,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2454,
+    "total_tokens": 2583,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

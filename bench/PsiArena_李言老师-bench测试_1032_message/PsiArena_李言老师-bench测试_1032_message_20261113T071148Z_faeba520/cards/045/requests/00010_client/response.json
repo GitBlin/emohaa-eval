@@ -1,0 +1,41 @@
+{
+  "id": "b1f18fcc2ac44629a3ccc6cf0fa4aac0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低下头，声音很轻）会冒出……很想找个人靠一靠。可是我又觉得，这么大了还这样想，是不是很可笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我如果不对自己说“别想太多”，心里会冒出什么……这个问题让我有点慌。我一直都在压着那些感觉，现在要我说出来，反而不知道从哪开口。）\n（可是刚才他说“那些感受本来就该被听见”，这句话让我心里动了一下。也许我可以试着说一点点，但真的要说出来的时候，又觉得自己很可笑。一个成年人，怎么会有这么说不出口的念头。）",
+        "reasoning": "（他问我如果不对自己说“别想太多”，心里会冒出什么……这个问题让我有点慌。我一直都在压着那些感觉，现在要我说出来，反而不知道从哪开口。）\n（可是刚才他说“那些感受本来就该被听见”，这句话让我心里动了一下。也许我可以试着说一点点，但真的要说出来的时候，又觉得自己很可笑。一个成年人，怎么会有这么说不出口的念头。）"
+      }
+    }
+  ],
+  "created": 1794555765,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1778,
+    "total_tokens": 1897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

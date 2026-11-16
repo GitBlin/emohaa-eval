@@ -1,0 +1,41 @@
+{
+  "id": "bbeb191ab7b246428de9c04305a24e93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像我爸……他说话总是不咸不淡的，做得好也是应该的。我说这些是不是有点在怪父母？我也不想显得不懂感恩。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这个“这算什么”的声音像谁的语气。我一下子就想到了我爸，他总爱那样说话，淡淡的，好像什么都是应该的。可我又有点犹豫，这样说自己父母是不是不太好……但那种感觉确实很熟悉，从小听到大。）\n（我心里有点乱，一方面觉得说出来会轻松些，另一方面又怕显得在怪父母。算了，还是说吧，反正咨询师也不会评判我。只是说完可能还得补一句，免得听起来像我在抱怨。）",
+        "reasoning": "（咨询师问我这个“这算什么”的声音像谁的语气。我一下子就想到了我爸，他总爱那样说话，淡淡的，好像什么都是应该的。可我又有点犹豫，这样说自己父母是不是不太好……但那种感觉确实很熟悉，从小听到大。）\n（我心里有点乱，一方面觉得说出来会轻松些，另一方面又怕显得在怪父母。算了，还是说吧，反正咨询师也不会评判我。只是说完可能还得补一句，免得听起来像我在抱怨。）"
+      }
+    }
+  ],
+  "created": 1794555633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2385,
+    "total_tokens": 2520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

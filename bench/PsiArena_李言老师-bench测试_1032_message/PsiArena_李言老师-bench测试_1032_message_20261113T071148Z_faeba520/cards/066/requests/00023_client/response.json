@@ -1,0 +1,41 @@
+{
+  "id": "6f4bc1bcad4f4c4ca4ff5b4341c474af",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（感受了一下）呼吸会变长一点，肩膀没那么紧了。以前我根本没注意过这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么知道自己真的慢下来了……这个问题让我得停下来想想。以前我好像从来没留意过自己身体的变化，总是直接跳到“我该怎么解决”。现在被她这么一问，我试着回想，刚才说到手放胸口的时候，确实呼吸会变长一点，肩膀也没那么紧了。）\n（不过说实话，我还是有点拿不准，这到底算不算真的慢下来了。会不会只是我自己的错觉？但至少……能注意到这些细微的感觉，对我来说已经挺不一样了。）",
+        "reasoning": "（她问我怎么知道自己真的慢下来了……这个问题让我得停下来想想。以前我好像从来没留意过自己身体的变化，总是直接跳到“我该怎么解决”。现在被她这么一问，我试着回想，刚才说到手放胸口的时候，确实呼吸会变长一点，肩膀也没那么紧了。）\n（不过说实话，我还是有点拿不准，这到底算不算真的慢下来了。会不会只是我自己的错觉？但至少……能注意到这些细微的感觉，对我来说已经挺不一样了。）"
+      }
+    }
+  ],
+  "created": 1794557013,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3094,
+    "total_tokens": 3216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

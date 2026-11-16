@@ -1,0 +1,46 @@
+{
+  "trial_id": "trial_000482",
+  "sample_id": "Completion of Failed Actions:13",
+  "task_file": "Completion of Failed Actions",
+  "ability": "Intention: Completion of failed actions",
+  "language": "zh",
+  "repeat": 2,
+  "answer": "A",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "C",
+  "prediction_original": "D",
+  "reply": "[[C]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T03:26:34.909554+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "354305478b8b404b8c56656c70f03411"
+  ],
+  "started_at": "2026-11-11T03:26:34.909554+00:00",
+  "finished_at": "2026-11-11T03:26:36.512682+00:00",
+  "elapsed_seconds": 1.603230256587267,
+  "user_id": "liyan_309f918a52774ff3f4cdb77ce311950feaedae8f"
+}

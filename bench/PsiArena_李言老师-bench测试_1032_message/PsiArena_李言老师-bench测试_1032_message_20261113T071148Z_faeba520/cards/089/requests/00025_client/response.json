@@ -1,0 +1,41 @@
+{
+  "id": "e244879bba03457f9ddeb7e804a668c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就说一句“你在这儿呢”。别的也想不出来了，简单点就好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我站上去会对自己说什么，这让我想到刚才说的那些话。我不想再给自己定标准，也不想用那种很正式的方式对自己说话，那样反而像在完成任务。）\n（也许就是很平常的一句，像“你在这儿呢”就够了。说太多反而显得刻意，我不想把这件事弄得太重。）",
+        "reasoning": "（她问我站上去会对自己说什么，这让我想到刚才说的那些话。我不想再给自己定标准，也不想用那种很正式的方式对自己说话，那样反而像在完成任务。）\n（也许就是很平常的一句，像“你在这儿呢”就够了。说太多反而显得刻意，我不想把这件事弄得太重。）"
+      }
+    }
+  ],
+  "created": 1794558138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3119,
+    "total_tokens": 3204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

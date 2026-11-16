@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_002455",
+  "sample_id": "Scalar Implicature Test:4",
+  "task_file": "Scalar Implicature Test",
+  "ability": "Knowledge: Information-knowledge links",
+  "language": "en",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "B",
+    "B": "A",
+    "C": "D",
+    "D": "C"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:57:31.868162+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:57:53.509165+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 6,
+      "started_at": "2026-11-13T01:58:17.324454+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-13T01:57:31.868162+00:00",
+  "finished_at": "2026-11-13T01:58:36.808177+00:00",
+  "elapsed_seconds": 64.94016522914171,
+  "user_id": "liyan_5fc46a274bcd70c180b6ac05699b6d102ef2fac4"
+}

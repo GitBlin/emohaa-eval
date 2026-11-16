@@ -1,0 +1,41 @@
+{
+  "id": "676a45f28c79481681110db6e361cfa6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，谁都没说。跟爸妈讲他们只会问成绩，同学……他们看起来都挺正常的，我说这些好像很奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我最近有没有跟谁提过这些...我确实没跟任何人说过。爸妈那边肯定不行，他们只会觉得我矫情或者不够努力。同学就更不可能了，他们都那么优秀，我要是说这些，显得多奇怪啊。）\n（其实有时候看到别人聚在一起聊天，我也会想凑过去，但就是迈不出那一步。总觉得他们不会真的想听我说这些，说不定还会觉得我很烦。算了，还是自己憋着吧，反正也习惯了。）",
+        "reasoning": "（她问起我最近有没有跟谁提过这些...我确实没跟任何人说过。爸妈那边肯定不行，他们只会觉得我矫情或者不够努力。同学就更不可能了，他们都那么优秀，我要是说这些，显得多奇怪啊。）\n（其实有时候看到别人聚在一起聊天，我也会想凑过去，但就是迈不出那一步。总觉得他们不会真的想听我说这些，说不定还会觉得我很烦。算了，还是自己憋着吧，反正也习惯了。）"
+      }
+    }
+  ],
+  "created": 1794540138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1623,
+    "total_tokens": 1754,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

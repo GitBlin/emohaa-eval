@@ -1,0 +1,41 @@
+{
+  "id": "f2d7051db2034226b88e87d0b4d38d64",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "刚来的时候，我觉得问题全在我身上，越想越乱。现在……好像知道那个声音是从哪来的了，心里没那么跟自己较劲了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最不一样的是什么。刚来的时候我满脑子都是“我是不是做错了”，现在好像能分清楚哪些是那个老声音，哪些是我真的在尽力。心里没那么堵，大概是因为不再全怪自己了。）\n（不过说实话，这种轻松感还有点陌生，我不太确定明天又会怎么样。但至少现在，我知道手里有句话能抓一下。）",
+        "reasoning": "（她问我最不一样的是什么。刚来的时候我满脑子都是“我是不是做错了”，现在好像能分清楚哪些是那个老声音，哪些是我真的在尽力。心里没那么堵，大概是因为不再全怪自己了。）\n（不过说实话，这种轻松感还有点陌生，我不太确定明天又会怎么样。但至少现在，我知道手里有句话能抓一下。）"
+      }
+    }
+  ],
+  "created": 1794554378,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3057,
+    "total_tokens": 3169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

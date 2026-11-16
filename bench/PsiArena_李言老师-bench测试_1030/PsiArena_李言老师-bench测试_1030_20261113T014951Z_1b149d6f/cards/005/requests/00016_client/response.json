@@ -1,0 +1,41 @@
+{
+  "id": "42db96d234b44da4bb4d10299cf4b89f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上吧，刚到公司那会儿，还没什么人找我。不过我怕自己坚持不了几天，又忍不住去刷。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找那个容易留出来的时段，好像是想让我从具体的地方开始改。我一下子想到早上，那时候确实没什么人找我，比较安静。）\n（不过心里马上又冒出担心，怕自己连这么小的事都坚持不了。要是又失败了，可能比现在更难受吧。）",
+        "reasoning": "（咨询师在帮我找那个容易留出来的时段，好像是想让我从具体的地方开始改。我一下子想到早上，那时候确实没什么人找我，比较安静。）\n（不过心里马上又冒出担心，怕自己连这么小的事都坚持不了。要是又失败了，可能比现在更难受吧。）"
+      }
+    }
+  ],
+  "created": 1794534857,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2590,
+    "total_tokens": 2680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

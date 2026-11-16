@@ -1,0 +1,41 @@
+{
+  "id": "b29fd87d1ec3424a807800ad69f5c830",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像我妈吧……她总说女人要能忍，家不能散。可我心里又有个声音在喊，凭什么总是我忍。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我那个声音像谁，让我一下子想到我妈。她总说女人要忍，家不能散。可我心里其实很烦这种话，又不敢真说出来。）\n（我发现自己一直在按他们的标准活，连难受都要先怀疑是不是自己错。这种感觉很憋，但又说不清该怎么挣脱。）",
+        "reasoning": "（咨询师问我那个声音像谁，让我一下子想到我妈。她总说女人要忍，家不能散。可我心里其实很烦这种话，又不敢真说出来。）\n（我发现自己一直在按他们的标准活，连难受都要先怀疑是不是自己错。这种感觉很憋，但又说不清该怎么挣脱。）"
+      }
+    }
+  ],
+  "created": 1794552749,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1806,
+    "total_tokens": 1903,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

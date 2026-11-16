@@ -1,0 +1,41 @@
+{
+  "id": "ec5fb0fbe46c489a9d03bb889c723530",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "更像我妈的口气吧……不过说出来有点难受，好像我自己也学会了那样催自己。这算不算我也在帮着管我？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个心虚的声音像谁的口气……我第一反应是我妈。但仔细想想，也不完全是她，好像我自己也学会了那样催自己。这种感觉有点难受，像是发现自己在帮着她管我。）\n（不过说出来好像会轻松一点。至少能分清哪些是她的声音，哪些是我自己的。也许我可以试着在发呆的时候，把那个声音当成背景，而不是命令。）",
+        "reasoning": "（她问我那个心虚的声音像谁的口气……我第一反应是我妈。但仔细想想，也不完全是她，好像我自己也学会了那样催自己。这种感觉有点难受，像是发现自己在帮着她管我。）\n（不过说出来好像会轻松一点。至少能分清哪些是她的声音，哪些是我自己的。也许我可以试着在发呆的时候，把那个声音当成背景，而不是命令。）"
+      }
+    }
+  ],
+  "created": 1794536096,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3251,
+    "total_tokens": 3361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

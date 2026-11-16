@@ -1,0 +1,41 @@
+{
+  "id": "5888480e7d4e4434b5fa62dfac152d09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今晚吧……吃完饭，我先提一句。不过我怕到时候又怂了，话到嘴边就咽回去。你说我该怎么开口才好？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候问他。我想到今晚可能就有机会，但又怕自己临阵退缩，像以前一样话到嘴边又咽回去。也许可以先给他一点暗示，不用一下子把最怕的话全说出来，这样好像没那么难。）\n（而且我也想问问咨询师，如果到时候我还是开不了口该怎么办。这种担心挺实际的，毕竟我太了解自己了，总是关键时刻就躲。）",
+        "reasoning": "（咨询师问我打算什么时候问他。我想到今晚可能就有机会，但又怕自己临阵退缩，像以前一样话到嘴边又咽回去。也许可以先给他一点暗示，不用一下子把最怕的话全说出来，这样好像没那么难。）\n（而且我也想问问咨询师，如果到时候我还是开不了口该怎么办。这种担心挺实际的，毕竟我太了解自己了，总是关键时刻就躲。）"
+      }
+    }
+  ],
+  "created": 1794554693,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2336,
+    "total_tokens": 2451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

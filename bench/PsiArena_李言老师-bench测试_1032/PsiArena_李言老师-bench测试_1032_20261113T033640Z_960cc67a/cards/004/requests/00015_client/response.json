@@ -1,0 +1,41 @@
+{
+  "id": "e47f66508c5047bd9f560313b441f6a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说“我最近有点难受”……这话我从来没跟他们说过。感觉有点怪，我怕他们问东问西，我又说不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着跟爸妈说难受，可我从来没说过这种话。他们每次打电话就问成绩，我要是突然说难受，他们会不会觉得我矫情，或者嫌我添麻烦？）\n（不过咨询师说得也对，一个人扛着太累了。也许可以先说一点点，不用一下子全说出来。但真的很难开口，我得想想怎么讲才不会显得太奇怪。）",
+        "reasoning": "（咨询师让我试着跟爸妈说难受，可我从来没说过这种话。他们每次打电话就问成绩，我要是突然说难受，他们会不会觉得我矫情，或者嫌我添麻烦？）\n（不过咨询师说得也对，一个人扛着太累了。也许可以先说一点点，不用一下子全说出来。但真的很难开口，我得想想怎么讲才不会显得太奇怪。）"
+      }
+    }
+  ],
+  "created": 1794541149,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2248,
+    "total_tokens": 2358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

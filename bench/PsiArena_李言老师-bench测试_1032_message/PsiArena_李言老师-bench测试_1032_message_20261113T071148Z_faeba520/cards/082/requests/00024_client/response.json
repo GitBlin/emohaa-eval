@@ -1,0 +1,41 @@
+{
+  "id": "73fe2a4b88474f93a4ee0c7b1bdf5a95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀一紧，我就试着把肩放下，顺便把到嘴边的话咽回去，先听。哪怕只听进去半句，也比顶出去强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在帮我具体化那个打断动作，不是随口问问。我要是说得太笼统，等于没想清楚，回头又抓不住。）\n（肩膀一紧的时候，我最先能做的就是松一下，哪怕只是把肩放下来。然后再把话咽回去，先听。这两步简单，但真做起来不容易，得给自己留点余地。）",
+        "reasoning": "（她这是在帮我具体化那个打断动作，不是随口问问。我要是说得太笼统，等于没想清楚，回头又抓不住。）\n（肩膀一紧的时候，我最先能做的就是松一下，哪怕只是把肩放下来。然后再把话咽回去，先听。这两步简单，但真做起来不容易，得给自己留点余地。）"
+      }
+    }
+  ],
+  "created": 1794557874,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3206,
+    "total_tokens": 3316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

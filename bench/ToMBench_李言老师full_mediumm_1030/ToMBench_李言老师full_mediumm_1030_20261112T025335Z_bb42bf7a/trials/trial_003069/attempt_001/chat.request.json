@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:58:06.437528+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAt a class reunion, a classmate asks Li Yang if he likes the recent activity organized by a not-so-popular classmate. Li Yang smiles and answers that he thinks the activity is interesting, it is a good team-building opportunity, and everyone should have the chance to show their organizational skills. Li Yang actually only goes once, and he does not go to the activities held afterwards.\n\n[Question]\nWhy does Li Yang say this?\n\n[Candidate Answers]\nA. Li Yang says this because he really thinks the activity is interesting, it is a good experience for him.\nB. Li Yang just experiences a personal setback, he says this to cover up his dissatisfaction.\nC. Li Yang says this because he does not want to hurt the organizer's feelings, and he also wants to maintain harmonious social relations among classmates.\nD. Li Yang wants to establish an image of an active participant among classmates, he answers this way to improve his social status.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "70950d00ba464ed1b1721ee7050c8e72",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候听听广播，或者相声。听着别人在那儿说笑，心里能松一点。（顿了顿）不过说出来有点不好意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像真的在认真听我说话，不是随便应付。她问我车上会做什么，让我觉得她关心的是我这个人，而不只是我的问题。我确实在车上会听点东西，但从来没跟别人提过，怕人家觉得我矫情。）\n（想到听相声那段，心里有点复杂。那是我为数不多能放松的时刻，可又觉得有点丢人，三十岁的人了还靠这个。不过既然她问了，说出来应该没事吧？反正她也不会笑话我。）",
+        "reasoning": "（这个咨询师好像真的在认真听我说话，不是随便应付。她问我车上会做什么，让我觉得她关心的是我这个人，而不只是我的问题。我确实在车上会听点东西，但从来没跟别人提过，怕人家觉得我矫情。）\n（想到听相声那段，心里有点复杂。那是我为数不多能放松的时刻，可又觉得有点丢人，三十岁的人了还靠这个。不过既然她问了，说出来应该没事吧？反正她也不会笑话我。）"
+      }
+    }
+  ],
+  "created": 1794556793,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2269,
+    "total_tokens": 2402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

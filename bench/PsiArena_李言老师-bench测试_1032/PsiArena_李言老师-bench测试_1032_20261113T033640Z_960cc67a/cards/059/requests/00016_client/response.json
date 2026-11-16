@@ -1,0 +1,41 @@
+{
+  "id": "5b7e3c77cf644cf7b3f1d18525c7725a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是怕说错话吧……被拒绝还能接受，说错话就更像是我这个人不行。嗯……这么想是不是太敏感了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更担心拒绝还是怕说错话，这让我有点意外，好像之前没这么直接想过。我确实更怕说错话吧，因为拒绝还能接受，说错话就感觉自己整个人被否定了。但这么想是不是又太敏感了？）\n（她好像没有觉得我过度，反而说这挺常见。那我是不是可以试着说说，下次遇到类似情况我能怎么办，而不是一直陷在猜来猜去里。）",
+        "reasoning": "（她问我更担心拒绝还是怕说错话，这让我有点意外，好像之前没这么直接想过。我确实更怕说错话吧，因为拒绝还能接受，说错话就感觉自己整个人被否定了。但这么想是不是又太敏感了？）\n（她好像没有觉得我过度，反而说这挺常见。那我是不是可以试着说说，下次遇到类似情况我能怎么办，而不是一直陷在猜来猜去里。）"
+      }
+    }
+  ],
+  "created": 1794544191,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2384,
+    "total_tokens": 2511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7aa9a534f2114c6785d661413628bbc4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能就发一句“好久没聊了，最近咋样”，简单点，不吓人。说完这个，我好像心里没那么堵了，谢谢你陪我捋这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算发点什么，好像真的在认真帮我想这一步。我心里有点松动，又有点拿不准，毕竟很久没联系了，怕显得突兀。）\n（不过想想，发一句简单的问候应该没那么难。就说最近看到她发的东西，顺口问问，不刻意，也不至于一上来就倒苦水。这样我也不会太有压力。）",
+        "reasoning": "（她问我打算发点什么，好像真的在认真帮我想这一步。我心里有点松动，又有点拿不准，毕竟很久没联系了，怕显得突兀。）\n（不过想想，发一句简单的问候应该没那么难。就说最近看到她发的东西，顺口问问，不刻意，也不至于一上来就倒苦水。这样我也不会太有压力。）"
+      }
+    }
+  ],
+  "created": 1794553576,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3593,
+    "total_tokens": 3708,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

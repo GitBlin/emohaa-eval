@@ -1,0 +1,41 @@
+{
+  "id": "78c645c995ea4942a066b63ecc612fbf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，加上这句，我心里踏实点。原来还能这么问啊，我之前都不敢想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师提议加一句“以后有事我还能来找你吗”，这让我感觉她是在帮我想得更周全。我有点担心自己说太多会显得烦人，但这句话确实能让我心里更有底。）\n（想到明天真的要去说，我还是会紧张，但已经不像之前那么害怕了。至少现在我知道该说什么，也知道说完还能去找老师。）",
+        "reasoning": "（老师提议加一句“以后有事我还能来找你吗”，这让我感觉她是在帮我想得更周全。我有点担心自己说太多会显得烦人，但这句话确实能让我心里更有底。）\n（想到明天真的要去说，我还是会紧张，但已经不像之前那么害怕了。至少现在我知道该说什么，也知道说完还能去找老师。）"
+      }
+    }
+  ],
+  "created": 1794552369,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3136,
+    "total_tokens": 3232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

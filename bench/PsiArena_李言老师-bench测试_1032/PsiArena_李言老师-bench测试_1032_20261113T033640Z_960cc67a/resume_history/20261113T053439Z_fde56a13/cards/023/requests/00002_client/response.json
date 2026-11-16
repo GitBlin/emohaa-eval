@@ -1,0 +1,41 @@
+{
+  "id": "98de8d00345a44e08edfef2434d25797",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来好像还行……但我也有点怕说多了被评判。其实我也说不清楚，最近就是很容易烦、容易炸，工作上一点小事都能让我整晚睡不着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的流程，说节奏由我掌握，家里的事可以说多少算多少。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢完全信任。毕竟过去那些事让我对“为我好”的人都有防备心。）\n（现在需要继续试探一下，看看这个咨询师是不是真的能理解我的处境。得先模糊地提一下家庭问题，但不要说得太具体，看看对方的反应。也许可以问问咨询会不会记录我说的话，这样能测试一下保密性，也能继续观察咨询师的态度。）",
+        "reasoning": "（刚才咨询师解释了咨询的流程，说节奏由我掌握，家里的事可以说多少算多少。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢完全信任。毕竟过去那些事让我对“为我好”的人都有防备心。）\n（现在需要继续试探一下，看看这个咨询师是不是真的能理解我的处境。得先模糊地提一下家庭问题，但不要说得太具体，看看对方的反应。也许可以问问咨询会不会记录我说的话，这样能测试一下保密性，也能继续观察咨询师的态度。）"
+      }
+    }
+  ],
+  "created": 1794542146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 997,
+    "total_tokens": 1148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4ffc32052138418aa7a8ee1cb3d86368",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就这两天吧，找个他没那么投入游戏的时候……中午吃饭那会儿可能行。虽然还是有点紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我打算什么时候开口，看来是想帮我把想法落实到具体行动上。我确实得想想时间，不能总是拖着。）\n（晚上说可能不太合适，他打游戏的时候估计听不进去。中午吃饭的时候人比较放松，也许能说上话。但我还是有点紧张，怕到时候又开不了口。）",
+        "reasoning": "（咨询师在问我打算什么时候开口，看来是想帮我把想法落实到具体行动上。我确实得想想时间，不能总是拖着。）\n（晚上说可能不太合适，他打游戏的时候估计听不进去。中午吃饭的时候人比较放松，也许能说上话。但我还是有点紧张，怕到时候又开不了口。）"
+      }
+    }
+  ],
+  "created": 1794554170,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2797,
+    "total_tokens": 2892,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

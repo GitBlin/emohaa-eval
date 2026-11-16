@@ -1,0 +1,41 @@
+{
+  "id": "50cd2c88627b4eeb8bab32b9981e1721",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……坐在旁边听着吧。他们聊得挺开心的，我也不知道能说什么，怕说错话。有时候觉得自己像个外人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我跟同学在一起是什么状态……其实我每次都坐在旁边，假装看书或者看手机，其实根本看不进去。他们聊得那么自然，我插嘴怕说错话，不插嘴又觉得自己像个透明人。）\n（这种感觉真的很难受，但我又不知道该怎么说清楚。也许应该承认自己确实融不进去，但又不想显得太可怜。说“像个外人”应该能让她明白一点吧。）",
+        "reasoning": "（她问我跟同学在一起是什么状态……其实我每次都坐在旁边，假装看书或者看手机，其实根本看不进去。他们聊得那么自然，我插嘴怕说错话，不插嘴又觉得自己像个透明人。）\n（这种感觉真的很难受，但我又不知道该怎么说清楚。也许应该承认自己确实融不进去，但又不想显得太可怜。说“像个外人”应该能让她明白一点吧。）"
+      }
+    }
+  ],
+  "created": 1794558379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1796,
+    "total_tokens": 1913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

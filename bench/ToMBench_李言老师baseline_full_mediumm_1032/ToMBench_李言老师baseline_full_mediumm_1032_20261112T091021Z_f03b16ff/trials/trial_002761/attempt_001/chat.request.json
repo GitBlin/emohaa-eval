@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:53:23.230927+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOne afternoon, the tense atmosphere in the company seems thicker than usual. Xuemei observes Junbo handling a very picky customer. She pretends to focus on her own work, but in fact, she constantly pays attention to the interaction between Junbo and the customer. Junbo tries to maintain a professional attitude, but he seems a bit at a loss in the face of the customer's continuous questioning. At this time, Zhiqiang, an experienced salesman, shows a vague concern for the situation without direct intervention. Xuemei gently walks to the copier nearby, seems to handle documents, but her eyes occasionally glance at Junbo. Suddenly, she quickly writes a few lines, carefully puts a note on Junbo's notebook. Junbo just glances at the note and then continues to handle the customer's problems. Zhiqiang witnesses this scene on his way to Junbo's workstation, a smile crosses his face, and then he returns to his own workstation.\n\n[Question]\nWhy does Xuemei leave that note for Junbo?\n\n[Candidate Answers]\nA. Xuemei wants Junbo to leave temporarily.\nB. Xuemei is a warm-hearted person.\nC. Xuemei tries to distract the customer.\nD. Xuemei leaves that note unintentionally.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

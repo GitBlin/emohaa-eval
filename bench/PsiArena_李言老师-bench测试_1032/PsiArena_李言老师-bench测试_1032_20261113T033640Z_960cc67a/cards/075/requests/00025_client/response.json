@@ -1,0 +1,41 @@
+{
+  "id": "58ceb5dbeae5447981f5dbc15ffeca70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候会犯困，不过也还行。要是真困了，我就早点练，别拖到躺下。先这样试试吧，我想看看自己能不能守住这一周。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我晚上状态怎么样，是担心我坚持不了吧。确实晚上有时候累得只想躺着，但那个时间没人打扰，反倒能静下来。要是犯困了就早点练，别硬拖到睡前。）\n（这一周先试试看，五分钟也不长。要是真能坚持下来，至少说明我不是什么都做不好。到时候再跟她聊聊，看能不能再往前迈一小步。）",
+        "reasoning": "（她问我晚上状态怎么样，是担心我坚持不了吧。确实晚上有时候累得只想躺着，但那个时间没人打扰，反倒能静下来。要是犯困了就早点练，别硬拖到睡前。）\n（这一周先试试看，五分钟也不长。要是真能坚持下来，至少说明我不是什么都做不好。到时候再跟她聊聊，看能不能再往前迈一小步。）"
+      }
+    }
+  ],
+  "created": 1794545181,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3324,
+    "total_tokens": 3446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

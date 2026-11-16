@@ -1,0 +1,41 @@
+{
+  "id": "52a0feed1a2b42f693de203eeaca610b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "光是想想就觉得……不自在，好像心虚，怕人家觉得我脸皮厚。那个声音肯定马上就说“你配吗”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想象只说“谢谢”的感觉……光是想想就觉得不自在。好像承认了别人的夸奖，就等于承认自己真的不错，可这跟我从小习惯的那套完全相反。心里那个声音肯定会马上跳出来，说我不配。）\n（而且我总觉得，别人夸我只是客套，我要是当真了，显得多自以为是。这种念头压得我喘不过气，可能我根本不敢让自己被看见。）",
+        "reasoning": "（她让我想象只说“谢谢”的感觉……光是想想就觉得不自在。好像承认了别人的夸奖，就等于承认自己真的不错，可这跟我从小习惯的那套完全相反。心里那个声音肯定会马上跳出来，说我不配。）\n（而且我总觉得，别人夸我只是客套，我要是当真了，显得多自以为是。这种念头压得我喘不过气，可能我根本不敢让自己被看见。）"
+      }
+    }
+  ],
+  "created": 1794535711,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2224,
+    "total_tokens": 2342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

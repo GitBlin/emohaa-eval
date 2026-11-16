@@ -1,0 +1,41 @@
+{
+  "id": "bf78fb9b7d8e4e198e1103d3d2b13c22",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是一些……关系上的事。我跟我男朋友最近有点不对劲。但具体哪里不对，我又说不上来，可能是我自己太敏感了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎没有评判我“碎”或“不严重”，反而在确认这种困扰是真实的。但我不确定她是不是真的能理解，还是只是职业性地安慰。毕竟我们才刚开始，我还没法完全信任她。）\n（也许可以先说一点表面的，比如最近和男友之间有点不对劲。但我不想一下子全说出来，万一她像我父母一样觉得是我太敏感呢。还是先看看她的反应吧。）",
+        "reasoning": "（咨询师似乎没有评判我“碎”或“不严重”，反而在确认这种困扰是真实的。但我不确定她是不是真的能理解，还是只是职业性地安慰。毕竟我们才刚开始，我还没法完全信任她。）\n（也许可以先说一点表面的，比如最近和男友之间有点不对劲。但我不想一下子全说出来，万一她像我父母一样觉得是我太敏感呢。还是先看看她的反应吧。）"
+      }
+    }
+  ],
+  "created": 1794543061,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1222,
+    "total_tokens": 1344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

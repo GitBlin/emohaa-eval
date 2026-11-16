@@ -1,0 +1,41 @@
+{
+  "id": "db70f56623244c1caeee9224b4915d2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先别搞得那么正式，就坐她旁边说“妈想请你帮个忙”，然后再说暗号的事。要是她愿意听，我再接着问她那句话。万一她说“随便”，我也别急着失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么开这个头，说明她是在帮我把这件事想得更具体，而不是催我。我确实有点紧张，怕自己一开口就变成说教，所以得先想好一句简单的话，不能太长。说“妈妈想请你帮个忙”可能比“妈想跟你说个事”更软一些，也让她觉得被需要。不过我又担心自己到时候一紧张就忘了，所以得给自己留个退路，提醒自己哪怕说砸了也别急。）\n（她这么一问，我反而觉得这件事没那么难了，至少可以先从一句话开始。周末那会儿她刚写完作业，气氛应该还行，我就照这个思路试试。要是她能应一声，我就往下说；要是不理我，我也别马上又急。）",
+        "reasoning": "（她问我打算怎么开这个头，说明她是在帮我把这件事想得更具体，而不是催我。我确实有点紧张，怕自己一开口就变成说教，所以得先想好一句简单的话，不能太长。说“妈妈想请你帮个忙”可能比“妈想跟你说个事”更软一些，也让她觉得被需要。不过我又担心自己到时候一紧张就忘了，所以得给自己留个退路，提醒自己哪怕说砸了也别急。）\n（她这么一问，我反而觉得这件事没那么难了，至少可以先从一句话开始。周末那会儿她刚写完作业，气氛应该还行，我就照这个思路试试。要是她能应一声，我就往下说；要是不理我，我也别马上又急。）"
+      }
+    }
+  ],
+  "created": 1794535936,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 210,
+    "prompt_tokens": 3505,
+    "total_tokens": 3715,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 162,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

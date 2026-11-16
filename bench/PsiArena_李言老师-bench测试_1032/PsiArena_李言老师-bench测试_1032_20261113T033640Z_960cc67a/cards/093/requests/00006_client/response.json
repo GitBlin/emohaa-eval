@@ -1,0 +1,41 @@
+{
+  "id": "22dd840b30a441cab30c2f83b3202675",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般希望别人先开口……但这样又显得我很被动。唉，我也不知道，反正我经常觉得自己跟别人不太一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方在问我更希望谁先开口，这其实是在试探我在人际互动中的舒适区。我确实不太擅长主动，但直接承认又有点难为情，好像显得自己很没用。）\n（也许可以稍微透露一点自己的习惯，但不能说得太深。毕竟现在还没完全信任这个咨询师，先观察一下对方的反应再说。）",
+        "reasoning": "（对方在问我更希望谁先开口，这其实是在试探我在人际互动中的舒适区。我确实不太擅长主动，但直接承认又有点难为情，好像显得自己很没用。）\n（也许可以稍微透露一点自己的习惯，但不能说得太深。毕竟现在还没完全信任这个咨询师，先观察一下对方的反应再说。）"
+      }
+    }
+  ],
+  "created": 1794546061,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1356,
+    "total_tokens": 1457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

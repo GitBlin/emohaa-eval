@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-13T01:56:59.173214+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Xia is an employee of a decoration company, and a classmate runs a health spa and often talks about the benefits of vegetarianism in his circle of friends. Once Zhang Xia invites him to dinner and specifically orders a full vegetarian feast for him. He asks Zhang Xia, \"Do you guys who do decoration, when you get off work and go home, do you often decorate here and fix there?\"\n\n[Question]\nWhat does he really mean when Zhang Xia's classmate says this?\n\n[Candidate Answers]\nA. He is interested in decoration and wants to know more about this industry.\nB. He thinks Zhang Xia works too hard and should change a job.\nC. He implies that he does not eat vegetarian every day and suggests Zhang Xia to order some meat dishes.\nD. He wants Zhang Xia to help him decorate the health spa.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

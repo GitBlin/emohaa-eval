@@ -1,0 +1,41 @@
+{
+  "id": "bb36ca0b9b5c4e98adc6ecb664339d6c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫地点头）写纸上……好像没那么难开口。那我就写“老师，下课有人推我，我害怕”，这样行吗？会不会太短了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我愿不愿意一起想第一句怎么写，听起来她是真的想帮我，不是随便说说。我心里有点动，可又觉得写纸条太正式了，万一班主任觉得我小题大做怎么办。但要是只写一两句，应该不会太麻烦她吧。）\n（我其实很怕写得太长，像在诉苦，别人会烦。所以我想写得短一点，就写“有人推我，我害怕”，这样至少能把心里最重的那块说出来。可我又不确定这样写够不够，老师会不会觉得我没说清楚。）",
+        "reasoning": "（老师问我愿不愿意一起想第一句怎么写，听起来她是真的想帮我，不是随便说说。我心里有点动，可又觉得写纸条太正式了，万一班主任觉得我小题大做怎么办。但要是只写一两句，应该不会太麻烦她吧。）\n（我其实很怕写得太长，像在诉苦，别人会烦。所以我想写得短一点，就写“有人推我，我害怕”，这样至少能把心里最重的那块说出来。可我又不确定这样写够不够，老师会不会觉得我没说清楚。）"
+      }
+    }
+  ],
+  "created": 1794534849,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2326,
+    "total_tokens": 2479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

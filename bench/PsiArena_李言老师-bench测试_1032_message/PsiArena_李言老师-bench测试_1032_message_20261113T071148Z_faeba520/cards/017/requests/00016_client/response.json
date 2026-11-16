@@ -1,0 +1,41 @@
+{
+  "id": "1697be57b04f485e9726dc092ebb0799",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想问他……如果一直没有孩子，你会不会后悔娶我。这话在心里转了好久了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试着问一次，我脑子里第一个冒出来的就是那句最怕的。可问出来会不会太沉重了，他会不会觉得我在试探他。）\n（不过刚才也说了，我一直在猜，猜得自己越来越难受。也许真该问一次，哪怕声音抖一点。）",
+        "reasoning": "（她让我试着问一次，我脑子里第一个冒出来的就是那句最怕的。可问出来会不会太沉重了，他会不会觉得我在试探他。）\n（不过刚才也说了，我一直在猜，猜得自己越来越难受。也许真该问一次，哪怕声音抖一点。）"
+      }
+    }
+  ],
+  "created": 1794554690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2256,
+    "total_tokens": 2337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

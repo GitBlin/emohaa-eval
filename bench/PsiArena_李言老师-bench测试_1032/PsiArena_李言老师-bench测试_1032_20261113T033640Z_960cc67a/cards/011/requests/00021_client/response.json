@@ -1,0 +1,41 @@
+{
+  "id": "540eac458acd4122b64a8a2af8492ad0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是怕那种“我不行了”的感觉吧。内容说出来还好，可一旦承认自己需要帮忙，心里就特别别扭。也许……我可以先试着说具体一点，比如让他陪孩子一小时？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更怕的是别人听见内容，还是听见时那种“我不行了”的感觉。这让我有点犹豫，因为他问得很准，好像直接戳到了我心里那个最别扭的地方。我确实更怕别人觉得我不行，内容本身反而没那么可怕。）\n（可我又想到，如果一直这么怕，是不是就永远没法开口了。也许我可以试着从一件很小的事开始，比如明确告诉他我需要他陪孩子多久，而不是说“我不行了”。这样好像能让我稍微好受一点，也更容易说出口。）",
+        "reasoning": "（咨询师问我更怕的是别人听见内容，还是听见时那种“我不行了”的感觉。这让我有点犹豫，因为他问得很准，好像直接戳到了我心里那个最别扭的地方。我确实更怕别人觉得我不行，内容本身反而没那么可怕。）\n（可我又想到，如果一直这么怕，是不是就永远没法开口了。也许我可以试着从一件很小的事开始，比如明确告诉他我需要他陪孩子多久，而不是说“我不行了”。这样好像能让我稍微好受一点，也更容易说出口。）"
+      }
+    }
+  ],
+  "created": 1794548486,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2988,
+    "total_tokens": 3142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

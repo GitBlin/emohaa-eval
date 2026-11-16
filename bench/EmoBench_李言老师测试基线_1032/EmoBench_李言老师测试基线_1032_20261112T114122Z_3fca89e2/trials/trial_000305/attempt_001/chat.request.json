@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:47:47.344073+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n小格在一个保守的家庭中长大，因此并没有太多选择工作的自由。他申请了一个满足家人要求但自己不喜欢的工作。最后公司拒绝了他并且祝他好运，他舒了口气。\n\n## 问题 1\n在这种情况下，小格最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 钦佩\nB) 尴尬\nC) 生气\nD) 绝望\nE) 愧疚\nF) 释怀\n\n## 问题 2\n小格为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 他被他不喜欢的工作拒绝了\nB) 小格害怕让他的家人失望\nC) 小格担心工作的责任\nD) 小格担心即将到来的面试\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

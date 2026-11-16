@@ -1,0 +1,41 @@
+{
+  "id": "fd90058dfe8044658f809bf7c9b6d61f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……前几天吃饭的时候。她一边给我夹菜一边说，让我多跟同学来往，别老闷着。可说完又补一句，成绩不能掉。我当时就不知道该怎么接话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我妈的声音，让我有点意外。本来在说学校的事，突然转到家里，我还没准备好。）\n（其实我不太想聊家里的事，尤其是爸妈对我的期望。但她的语气很温和，好像不是要逼我，只是顺着刚才的话问下去。我犹豫了一下，还是决定稍微说一点，但不想说得太深。）",
+        "reasoning": "（她问起我妈的声音，让我有点意外。本来在说学校的事，突然转到家里，我还没准备好。）\n（其实我不太想聊家里的事，尤其是爸妈对我的期望。但她的语气很温和，好像不是要逼我，只是顺着刚才的话问下去。我犹豫了一下，还是决定稍微说一点，但不想说得太深。）"
+      }
+    }
+  ],
+  "created": 1794548131,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1732,
+    "total_tokens": 1850,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

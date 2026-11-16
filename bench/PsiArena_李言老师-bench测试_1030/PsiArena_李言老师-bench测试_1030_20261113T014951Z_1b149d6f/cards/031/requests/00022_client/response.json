@@ -1,0 +1,41 @@
+{
+  "id": "f45ab8fd079946f589cb703477c1bbc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "简单的吧……太复杂我肯定顾不上。也许手机里存一句话？或者手上做个小动作什么的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问什么样的提醒容易注意到……我平时紧张起来脑子一片空白，太复杂的东西根本想不起来。得是那种简单直接的，比如手机里存句话，或者手上做个小动作。也许把手机屏保换成一句话比较合适，每次看时间都能瞄到。）\n（不过我又有点担心，这种提醒会不会显得太刻意、太傻。但转念一想，反正只有我自己知道，又不给别人看。先试试看吧，总比什么都不做强。）",
+        "reasoning": "（她问什么样的提醒容易注意到……我平时紧张起来脑子一片空白，太复杂的东西根本想不起来。得是那种简单直接的，比如手机里存句话，或者手上做个小动作。也许把手机屏保换成一句话比较合适，每次看时间都能瞄到。）\n（不过我又有点担心，这种提醒会不会显得太刻意、太傻。但转念一想，反正只有我自己知道，又不给别人看。先试试看吧，总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1794536121,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3367,
+    "total_tokens": 3489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

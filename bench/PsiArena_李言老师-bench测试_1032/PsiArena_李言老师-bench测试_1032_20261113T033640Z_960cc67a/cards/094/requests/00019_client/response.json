@@ -1,0 +1,41 @@
+{
+  "id": "370f87e2c53d460a936aa1daa8e01691",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧，看到“通过”那两个字的时候，肩膀好像掉下来一点。（停顿）但马上又开始想明天还有什么没做完。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我方案通过那几分钟里身体或心里有没有松下来的瞬间。我有点不太确定，那种感觉太短暂了，好像抓不住。但仔细想想，看到“通过”那两个字的时候，确实有那么一下肩膀没那么紧。）\n（不过马上又想到明天还有别的事，那种松的感觉就没了。我好像总是这样，刚有点轻松就立刻被后面的任务压回去，连喘口气都觉得不该。）",
+        "reasoning": "（咨询师在问我方案通过那几分钟里身体或心里有没有松下来的瞬间。我有点不太确定，那种感觉太短暂了，好像抓不住。但仔细想想，看到“通过”那两个字的时候，确实有那么一下肩膀没那么紧。）\n（不过马上又想到明天还有别的事，那种松的感觉就没了。我好像总是这样，刚有点轻松就立刻被后面的任务压回去，连喘口气都觉得不该。）"
+      }
+    }
+  ],
+  "created": 1794546175,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2587,
+    "total_tokens": 2707,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

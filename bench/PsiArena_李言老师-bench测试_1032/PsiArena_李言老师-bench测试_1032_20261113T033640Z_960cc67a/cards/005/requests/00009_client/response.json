@@ -1,0 +1,41 @@
+{
+  "id": "ff090682340d4028ae84d3b6276f734c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候……我爸妈工作忙，我经常一个人在家等他们回来。他们也不是不管我，就是……我得自己猜他们今天心情怎么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了“熟悉”这个词，让我一下子想到小时候的事。那种等爸妈回应的感觉，好像和现在等消息是同一种滋味。但说出来会不会显得我太脆弱了？毕竟都是过去的事了。）\n（可既然咨询师都问到了，我犹豫着要不要提。家里那种氛围，说不上多糟，但就是总得猜他们满不满意。算了，先试探着说一点吧，看看咨询师怎么接。）",
+        "reasoning": "（咨询师问到了“熟悉”这个词，让我一下子想到小时候的事。那种等爸妈回应的感觉，好像和现在等消息是同一种滋味。但说出来会不会显得我太脆弱了？毕竟都是过去的事了。）\n（可既然咨询师都问到了，我犹豫着要不要提。家里那种氛围，说不上多糟，但就是总得猜他们满不满意。算了，先试探着说一点吧，看看咨询师怎么接。）"
+      }
+    }
+  ],
+  "created": 1794541358,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1631,
+    "total_tokens": 1757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

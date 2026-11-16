@@ -1,0 +1,41 @@
+{
+  "id": "edf31467a748482abfdf5181e41489fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要就是给我自己用的小工具吧，记录点东西、整理点想法。嗯……这么一说，好像也没必要做得那么正式。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个项目最核心的用途或服务对象，看来是想帮我把模糊的想法具体化。我有点犹豫，因为说出来好像显得这个项目太私人了，但既然之前已经松口聊到这一步，也许可以试着坦白一点。）\n（想到这是自己的小工具，心里反而没那么大压力了。它不涉及别人评价，只是自己用的东西，这让我觉得可以稍微放下完美主义，先承认它的存在。）",
+        "reasoning": "（咨询师问这个项目最核心的用途或服务对象，看来是想帮我把模糊的想法具体化。我有点犹豫，因为说出来好像显得这个项目太私人了，但既然之前已经松口聊到这一步，也许可以试着坦白一点。）\n（想到这是自己的小工具，心里反而没那么大压力了。它不涉及别人评价，只是自己用的东西，这让我觉得可以稍微放下完美主义，先承认它的存在。）"
+      }
+    }
+  ],
+  "created": 1794543822,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3195,
+    "total_tokens": 3318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

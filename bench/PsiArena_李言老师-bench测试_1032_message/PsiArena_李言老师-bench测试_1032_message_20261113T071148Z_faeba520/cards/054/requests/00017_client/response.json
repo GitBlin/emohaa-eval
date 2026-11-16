@@ -1,0 +1,41 @@
+{
+  "id": "ae66f800a2094812bd3529f00d3c6e34",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "停一下……问自己一句。听起来不难，可我怕到时候急起来，根本想不起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我先停一下，像对别人那样问自己。这听起来好像没那么难，可我又怕自己到时候根本想不起来。不过，如果只是先停一下……也许可以试试，总比一直这样强。）\n（只是，光停一下就能改变什么吗？我心里还是有点没底，不知道自己能不能真的做到。）",
+        "reasoning": "（她让我先停一下，像对别人那样问自己。这听起来好像没那么难，可我又怕自己到时候根本想不起来。不过，如果只是先停一下……也许可以试试，总比一直这样强。）\n（只是，光停一下就能改变什么吗？我心里还是有点没底，不知道自己能不能真的做到。）"
+      }
+    }
+  ],
+  "created": 1794556309,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2468,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

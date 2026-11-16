@@ -1,0 +1,41 @@
+{
+  "id": "a0b5b879dd5d48bc806e41e0d9d90fae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……也许可以跟他说，爸爸最近状态不好，在想办法，可能有时候脾气急，但不是冲你。这样讲，好像没那么难开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，是让我想一个具体的说法。我脑子里先冒出来的还是那句“别学我”，但太硬了，孩子听了只会觉得我又在说教。我想让他知道我不是不想改，只是有时候真的撑不住。也许可以蹲下来，跟他平着说，说爸爸最近状态不好，但爸爸在努力。这样不至于吓到他，也把话递出去了。）\n（可我又有点怕，怕说了之后做不到，孩子会失望。不过话说回来，连试都不试，那不就一直卡在这儿了吗。先想好怎么说，别的再说吧。）",
+        "reasoning": "（他这么问，是让我想一个具体的说法。我脑子里先冒出来的还是那句“别学我”，但太硬了，孩子听了只会觉得我又在说教。我想让他知道我不是不想改，只是有时候真的撑不住。也许可以蹲下来，跟他平着说，说爸爸最近状态不好，但爸爸在努力。这样不至于吓到他，也把话递出去了。）\n（可我又有点怕，怕说了之后做不到，孩子会失望。不过话说回来，连试都不试，那不就一直卡在这儿了吗。先想好怎么说，别的再说吧。）"
+      }
+    }
+  ],
+  "created": 1794559019,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 2640,
+    "total_tokens": 2798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

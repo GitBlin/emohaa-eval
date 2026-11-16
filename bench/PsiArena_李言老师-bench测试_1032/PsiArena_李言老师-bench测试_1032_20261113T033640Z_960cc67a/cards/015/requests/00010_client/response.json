@@ -1,0 +1,41 @@
+{
+  "id": "ada0647fa5f447fea6d99b06d1a231e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他能说一句“我没走”，哪怕只是抱一下也行。可我又觉得……说出来好像很卑微。而且我爸妈以前吵架也是这样，谁都不肯先低头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望他怎样回应……其实我从来没认真想过这个问题，以前只会觉得他不说话就是不在乎。现在被这么一问，才发现我好像一直只知道自己不想要什么，却说不清想要什么。）\n（可是就算我说了，他真能听懂吗？想到爸妈以前也是这样，吵起来谁也不肯先软下来，最后都是冷战收场。我好像不知不觉也变成了这样，明明最讨厌冷战，自己却也在用沉默赌气。）",
+        "reasoning": "（她问我希望他怎样回应……其实我从来没认真想过这个问题，以前只会觉得他不说话就是不在乎。现在被这么一问，才发现我好像一直只知道自己不想要什么，却说不清想要什么。）\n（可是就算我说了，他真能听懂吗？想到爸妈以前也是这样，吵起来谁也不肯先软下来，最后都是冷战收场。我好像不知不觉也变成了这样，明明最讨厌冷战，自己却也在用沉默赌气。）"
+      }
+    }
+  ],
+  "created": 1794541783,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1806,
+    "total_tokens": 1939,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

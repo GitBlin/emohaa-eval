@@ -1,0 +1,41 @@
+{
+  "id": "be0648e8988445598fbeff95eeca1acf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般……就自己憋着，装作没事，然后一个人反复想。有时候会发个朋友圈，看看有没有人点赞，好像那样心里能舒服一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我现在遇到不舒服的事会怎么应对……我有点不知道从哪儿说起。其实我很少跟人正面说，怕说了反而更糟。）\n（可能我会先躲开吧，装作没事，然后自己一个人反复想。有时候还会去发点东西，看看有没有人点赞，好像那样能好受一点。）",
+        "reasoning": "（他问我现在遇到不舒服的事会怎么应对……我有点不知道从哪儿说起。其实我很少跟人正面说，怕说了反而更糟。）\n（可能我会先躲开吧，装作没事，然后自己一个人反复想。有时候还会去发点东西，看看有没有人点赞，好像那样能好受一点。）"
+      }
+    }
+  ],
+  "created": 1794556516,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1506,
+    "total_tokens": 1610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

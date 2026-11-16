@@ -1,0 +1,41 @@
+{
+  "id": "277a6c954d4a4cefb39398138c29487a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……我自己会一直想。他说完可能就过去了，我倒会在心里翻来覆去好几天。这样真的很累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是担心他说“你想多了”还是担心自己反复琢磨。这个问题让我意识到，最折磨我的其实不是他那句话本身，而是事后自己没完没了地回想。这说明我可能太在意别人的反应了，尤其是怕被否定。）\n（既然已经到了后期阶段，我应该开始想想怎么改变这个局面。也许我可以试着把注意力从“他会怎么想”挪到“我能做什么”上，比如先练习不把他的话太当回事。）",
+        "reasoning": "（咨询师问我是担心他说“你想多了”还是担心自己反复琢磨。这个问题让我意识到，最折磨我的其实不是他那句话本身，而是事后自己没完没了地回想。这说明我可能太在意别人的反应了，尤其是怕被否定。）\n（既然已经到了后期阶段，我应该开始想想怎么改变这个局面。也许我可以试着把注意力从“他会怎么想”挪到“我能做什么”上，比如先练习不把他的话太当回事。）"
+      }
+    }
+  ],
+  "created": 1794548343,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2355,
+    "total_tokens": 2480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

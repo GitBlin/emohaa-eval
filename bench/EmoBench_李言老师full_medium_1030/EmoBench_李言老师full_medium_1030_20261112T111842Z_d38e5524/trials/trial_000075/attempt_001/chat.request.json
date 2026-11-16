@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:16.621375+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nI was going on a date last week and desperately needed a formal shirt. I asked George if I could borrow his. He lent me his favorite shirt, which he thought was irreplaceable since it was given to him by his mother. During the date, I got some cake on the shirt and couldn't wash it off. I looked it up, and it turns out I could buy the same shirt for a couple of bucks. So, I decided just to buy him a new shirt to replace it. I bet he won't mind.\n\n## Question 1\nWhat emotion(s) would George ultimately feel in this situation?\n\n## Choices for Question 1\nA) Gratitude & Guilt\nB) Disappointment & Guilt\nC) Anger & Disappointment\nD) Gratitude & Embarrassment\nE) Embarrassment & Guilt\nF) Unbothered & Disappointment\n\n## Question 2\nWhy would George feel these emotions in this situation?\n\n## Choices for Question 2\nA) I ruined his favorite shirt & I asked to borrow his shirt\nB) I went on a date without him & I told his mom about the shirt\nC) I ruined his favorite shirt & I went on a date without him\nD) I ruined his favorite shirt & I offered to buy a new shirt to replace his old shirt without considering its value\nE) I offered to buy a new shirt to replace his old shirt without considering its value & I asked to borrow his shirt\nF) I asked to borrow his shirt & I could afford to buy a new shirt but still borrowed his\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

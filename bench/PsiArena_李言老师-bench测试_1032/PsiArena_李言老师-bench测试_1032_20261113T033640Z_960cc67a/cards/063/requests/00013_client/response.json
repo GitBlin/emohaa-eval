@@ -1,0 +1,41 @@
+{
+  "id": "5c313df280734e65acec336646570111",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要带什么材料吧……可我又怕带不齐，白跑一趟。你说，我是不是一直在绕圈子，其实最怕的还是我妈怎么看我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像终于抓到我最乱的地方了，不是不想办，是连从哪儿问起都没底。可我又不想显得太没用，好像连这点事都问不明白。）\n（妈妈那边的眼神和话，比窗口本身更压人。我嘴上说先弄清楚窗口，其实心里一直在绕着她会不会又否定我。也许我该承认，让我发紧的不只是手续。）",
+        "reasoning": "（她好像终于抓到我最乱的地方了，不是不想办，是连从哪儿问起都没底。可我又不想显得太没用，好像连这点事都问不明白。）\n（妈妈那边的眼神和话，比窗口本身更压人。我嘴上说先弄清楚窗口，其实心里一直在绕着她会不会又否定我。也许我该承认，让我发紧的不只是手续。）"
+      }
+    }
+  ],
+  "created": 1794544403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2177,
+    "total_tokens": 2293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

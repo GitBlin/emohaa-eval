@@ -1,0 +1,41 @@
+{
+  "id": "73a12b27aed748eeb808cfb804c9cab1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你是那种会记录我说的话的人吗？我不太清楚咨询到底要干什么，就是聊天吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应作为来访者，15岁女高中生，初期防御试探。第一轮只针对一个方面：询问咨询内容和方法，表现防御。简短2-3句，口语化，犹豫。不要谢谢。可以问“你是心理老师吗？你会把我们说的告诉别人吗？” 或者“我其实不知道咨询是干嘛的，就是聊天吗？你会不会觉得我矫情？” 需要符合初期。只一个方面：询问内容和方法。不要深入。简短。",
+        "reasoning": "我们需要回应作为来访者，15岁女高中生，初期防御试探。第一轮只针对一个方面：询问咨询内容和方法，表现防御。简短2-3句，口语化，犹豫。不要谢谢。可以问“你是心理老师吗？你会把我们说的告诉别人吗？” 或者“我其实不知道咨询是干嘛的，就是聊天吗？你会不会觉得我矫情？” 需要符合初期。只一个方面：询问内容和方法。不要深入。简短。"
+      }
+    }
+  ],
+  "created": 1794545816,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 837,
+    "total_tokens": 959,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

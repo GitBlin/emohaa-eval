@@ -1,0 +1,41 @@
+{
+  "id": "e87b7883c47e429e8ee466d59b045a8d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……我都是陪她看完就走，也没想过还能跟医生单独说这些。总觉得家丑说出去不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有跟医生单独聊过，我确实从来没想过还能这样。每次去医院我都只顾着把她安顿好，生怕出什么岔子，哪有心思去跟医生说自己。而且家里一直觉得这些事不该往外说，跟外人讲总觉得不太对。不过她这么一问，我倒是有点动摇了。）\n（也许医生真的能帮上忙？可我又担心说了之后，医生会不会觉得我们家很奇怪，或者觉得我不够孝顺。这种念头一冒出来就让人不踏实。）",
+        "reasoning": "（她问我有没有跟医生单独聊过，我确实从来没想过还能这样。每次去医院我都只顾着把她安顿好，生怕出什么岔子，哪有心思去跟医生说自己。而且家里一直觉得这些事不该往外说，跟外人讲总觉得不太对。不过她这么一问，我倒是有点动摇了。）\n（也许医生真的能帮上忙？可我又担心说了之后，医生会不会觉得我们家很奇怪，或者觉得我不够孝顺。这种念头一冒出来就让人不踏实。）"
+      }
+    }
+  ],
+  "created": 1794556995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2458,
+    "total_tokens": 2590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

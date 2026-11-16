@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:44:46.358515+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a jewelry store, there are 30 watches. The salesperson tells the store manager that the vast majority are made in Switzerland, and a very small part are domestically produced or Japanese watches. After checking, the manager finds that only 2 watches are made in Japan.\n\n[Question]\nAfter checking, how many watches does the manager guess are made in Switzerland?\n\n[Candidate Answers]\nA. After checking, the manager guesses that 10 watches are made in Switzerland.\nB. After checking, the manager guesses that 28 watches are made in Switzerland.\nC. After checking, the manager guesses that 25 watches are made in Switzerland.\nD. After checking, the manager guesses that 20 watches are made in Switzerland.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

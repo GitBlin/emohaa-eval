@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T03:00:11.451248+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Saturday morning, Xiao Rong and Xiao Li meet at the school gate. Xiao Li excitedly says: \"My birthday party is this afternoon, do you come?\" Xiao Rong remembers, she promises to go to another friend's concert today. She hesitates for a moment, then says: \"Oh, I probably go to a concert. I'm sorry, I promise before.\" Xiao Li disappointingly says: \"Oh, it's okay. Next time.\"\n\n[Question]\nDoes anyone say something inappropriate in this story?\n\n[Candidate Answers]\nA. No one in the story says anything inappropriate.\nB. Someone in the story says something inappropriate.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

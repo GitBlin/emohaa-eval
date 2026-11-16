@@ -1,0 +1,41 @@
+{
+  "id": "322ffd0e5dc04c2abedb85e8c6dd11c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）周末吧，孩子睡得早一点的时候。我提前把想说的话在心里过一遍，别一开口就绕到别的事情上去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么挑这个晚上，看来是想让我把计划说得具体一点。之前我总觉得自己开口就是抱怨，现在有个具体的话头，心里稍微有点底了。）\n（周末孩子睡得早的时候可能比较合适，他那时候也没那么累。不过我还是担心话一出口就变味，所以得提醒自己别绕太多，先把那句“我最近有点累”说出去再说。）",
+        "reasoning": "（她问我打算怎么挑这个晚上，看来是想让我把计划说得具体一点。之前我总觉得自己开口就是抱怨，现在有个具体的话头，心里稍微有点底了。）\n（周末孩子睡得早的时候可能比较合适，他那时候也没那么累。不过我还是担心话一出口就变味，所以得提醒自己别绕太多，先把那句“我最近有点累”说出去再说。）"
+      }
+    }
+  ],
+  "created": 1794552621,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2980,
+    "total_tokens": 3097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

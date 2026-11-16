@@ -1,0 +1,41 @@
+{
+  "id": "2e5c9fb3d68744418789266fb295a2cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就是下班以后吧，一个人待着的时候。白天忙起来还好，一安静下来就会想很多……不过我也不确定是不是这个原因。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎想引导我去具体描述那种不舒服的感觉出现的情境，但我还没准备好那么快深入。我担心说得太多会暴露自己的脆弱，也怕对方只是走个流程。）\n（我想先试探一下咨询师会怎么处理我这种模糊的表达，看看他是不是真的在意我的感受。也许我可以稍微提一下工作上的事，但不要说得太细，这样既能回应他，又不会让自己太不安。）",
+        "reasoning": "（咨询师似乎想引导我去具体描述那种不舒服的感觉出现的情境，但我还没准备好那么快深入。我担心说得太多会暴露自己的脆弱，也怕对方只是走个流程。）\n（我想先试探一下咨询师会怎么处理我这种模糊的表达，看看他是不是真的在意我的感受。也许我可以稍微提一下工作上的事，但不要说得太细，这样既能回应他，又不会让自己太不安。）"
+      }
+    }
+  ],
+  "created": 1794553920,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1087,
+    "total_tokens": 1207,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

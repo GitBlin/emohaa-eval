@@ -1,0 +1,41 @@
+{
+  "id": "fc6665cc400246e189088fc88a99ab3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提过，她就说“你爸也是为你好，你别惹他生气”。为你好……呵，这话我从小听到大。你说，我是不是连生气都不该？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有跟妈妈提过那件事。她好像很在意我当时是不是一个人扛着。可提了又怎样呢，在我们家这种事根本说不出口。妈妈自己也活在那种环境里，她比谁都清楚，但她选择了沉默。我要是去问她，她大概只会说“你爸也是为你好”。）\n（其实我最近才慢慢想明白，妈妈的沉默不是她不在乎我，是她也怕。这个家就是这样，谁都不敢真的开口。可明白归明白，心里还是堵得慌，觉得连最亲的人都没站在我这边。）",
+        "reasoning": "（咨询师问我有没有跟妈妈提过那件事。她好像很在意我当时是不是一个人扛着。可提了又怎样呢，在我们家这种事根本说不出口。妈妈自己也活在那种环境里，她比谁都清楚，但她选择了沉默。我要是去问她，她大概只会说“你爸也是为你好”。）\n（其实我最近才慢慢想明白，妈妈的沉默不是她不在乎我，是她也怕。这个家就是这样，谁都不敢真的开口。可明白归明白，心里还是堵得慌，觉得连最亲的人都没站在我这边。）"
+      }
+    }
+  ],
+  "created": 1794553115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 1775,
+    "total_tokens": 1933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

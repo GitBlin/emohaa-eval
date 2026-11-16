@@ -1,0 +1,41 @@
+{
+  "id": "2fc647e7f1e14dd5a9cd2acb5703c4dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……好像真没有。我妈就是那种什么都答应的人，累得不行也不说。我小时候想过，我以后不要这样，可现在……唉，说出来有点丢人，我好像越来越像她了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我家里有没有人说过“不”……这个问题让我有点慌。我从来没想过家里有谁拒绝过别人，好像真的没有。妈妈总是默默接受，爸爸也习惯了大家围着他转。）\n（我其实也想过拒绝，但每次话到嘴边就咽回去了。说出来会不会显得我很自私？家里那种氛围，好像谁先说“不”谁就破坏了什么。这种感觉让我心里发紧。）",
+        "reasoning": "（她问我家里有没有人说过“不”……这个问题让我有点慌。我从来没想过家里有谁拒绝过别人，好像真的没有。妈妈总是默默接受，爸爸也习惯了大家围着他转。）\n（我其实也想过拒绝，但每次话到嘴边就咽回去了。说出来会不会显得我很自私？家里那种氛围，好像谁先说“不”谁就破坏了什么。这种感觉让我心里发紧。）"
+      }
+    }
+  ],
+  "created": 1794535026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1749,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

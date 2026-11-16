@@ -1,0 +1,41 @@
+{
+  "id": "58e6abf9e5504bad8b1a105f55da08f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）……我试试。嗯……她其实挺难受的，只是她不敢说。说了怕别人嫌她烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我去问问那个小孩难不难受……这让我心里有点发酸。我其实一直都知道她难受，只是从来不敢承认。现在被这样问，好像终于有人允许我去看那个被藏起来的自己了。）\n（可是承认这些有什么用呢？会不会又像以前一样，说出来反而更难受。不过……也许我可以试着说说看，就一点点。）",
+        "reasoning": "（咨询师让我去问问那个小孩难不难受……这让我心里有点发酸。我其实一直都知道她难受，只是从来不敢承认。现在被这样问，好像终于有人允许我去看那个被藏起来的自己了。）\n（可是承认这些有什么用呢？会不会又像以前一样，说出来反而更难受。不过……也许我可以试着说说看，就一点点。）"
+      }
+    }
+  ],
+  "created": 1794553948,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1823,
+    "total_tokens": 1930,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9fac987e0b2040558dc03ab23d6c6a03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……是有点担心。我爸妈要是知道我来这儿，估计会问东问西的。他们……挺在意我学习的。所以，能不能就别让他们知道？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是担心父母知道些什么……他刚才说会保密，但又要跟父母说危险的事。这让我有点不放心，我爸妈要是知道我来咨询，肯定觉得我心思没放在学习上。不过也许可以先试探一下，看看他会不会站在我这边。）\n（其实我真正想说的是，我有时候觉得跟人说话特别累，但又特别想有朋友。可这种话怎么说得出口呢，说出来好像显得我很矫情。还是先问问能不能别让爸妈知道吧，至少这样我还能放心一点。）",
+        "reasoning": "（咨询师问我是不是担心父母知道些什么……他刚才说会保密，但又要跟父母说危险的事。这让我有点不放心，我爸妈要是知道我来咨询，肯定觉得我心思没放在学习上。不过也许可以先试探一下，看看他会不会站在我这边。）\n（其实我真正想说的是，我有时候觉得跟人说话特别累，但又特别想有朋友。可这种话怎么说得出口呢，说出来好像显得我很矫情。还是先问问能不能别让爸妈知道吧，至少这样我还能放心一点。）"
+      }
+    }
+  ],
+  "created": 1794552145,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1107,
+    "total_tokens": 1257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

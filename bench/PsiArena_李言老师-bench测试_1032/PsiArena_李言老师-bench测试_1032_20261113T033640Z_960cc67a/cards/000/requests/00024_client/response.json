@@ -1,0 +1,41 @@
+{
+  "id": "650fa5a151b848dbb551aded9e021158",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧，同事问我是不是不太舒服，我马上说“没事”。其实那天我状态很差，但就是不想被看出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我最近一次说“没事”的时候，这让我一下子想到上周同事那件事。其实我不想显得太脆弱，但既然聊到这儿了，也许可以稍微说一点。）\n（我确实习惯把情绪藏起来，尤其在工作场合。同事突然问我是不是不舒服，我第一反应就是否认，因为不想被当成情绪化的人。可这种“没事”说多了，连自己都觉得有点假。）",
+        "reasoning": "（她问起我最近一次说“没事”的时候，这让我一下子想到上周同事那件事。其实我不想显得太脆弱，但既然聊到这儿了，也许可以稍微说一点。）\n（我确实习惯把情绪藏起来，尤其在工作场合。同事突然问我是不是不舒服，我第一反应就是否认，因为不想被当成情绪化的人。可这种“没事”说多了，连自己都觉得有点假。）"
+      }
+    }
+  ],
+  "created": 1794541169,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3096,
+    "total_tokens": 3213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

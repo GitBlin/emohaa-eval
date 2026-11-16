@@ -1,0 +1,41 @@
+{
+  "id": "85ce1555a32244638c9a6726b7c78200",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我也说不好，好像从小就这样了。嗯，其实我有点不想说家里的事，现在说这些是不是太早了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这种绷着是从什么时候开始的，这问题让我有点想回避。我其实不太确定，或者说不太想现在就说家里那些事。感觉还没到能敞开的程度。）\n（她刚才说这份小心是在保护自己，这话让我有点意外，也有点被理解的感觉。但我还是习惯性地想把话题推开，用一句“从小就这样”带过去，看看她会不会继续追问。）",
+        "reasoning": "（咨询师问我这种绷着是从什么时候开始的，这问题让我有点想回避。我其实不太确定，或者说不太想现在就说家里那些事。感觉还没到能敞开的程度。）\n（她刚才说这份小心是在保护自己，这话让我有点意外，也有点被理解的感觉。但我还是习惯性地想把话题推开，用一句“从小就这样”带过去，看看她会不会继续追问。）"
+      }
+    }
+  ],
+  "created": 1794539796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1585,
+    "total_tokens": 1699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

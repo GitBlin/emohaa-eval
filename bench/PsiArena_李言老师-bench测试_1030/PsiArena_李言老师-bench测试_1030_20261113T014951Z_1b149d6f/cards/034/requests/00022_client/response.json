@@ -1,0 +1,41 @@
+{
+  "id": "d695fe464b014ec189f0c97557176c10",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）……我妈。那语气其实是我妈的，我把它安到他头上了。想到这儿有点难受，好像我一直在冤枉他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我那句话的语气更像谁，这让我一下子想到妈妈。她那种欲言又止的失望眼神，比直接骂我还让人难受。我好像一直把这种语气带在身上，连对自己说话都像她。）\n（可我也想到男朋友，他其实没那样说过我。是我自己把妈妈的语气安到他头上了。这个发现让我有点内疚，又有点松动，好像一直堵着的地方裂开了一条缝。）",
+        "reasoning": "（咨询师问我那句话的语气更像谁，这让我一下子想到妈妈。她那种欲言又止的失望眼神，比直接骂我还让人难受。我好像一直把这种语气带在身上，连对自己说话都像她。）\n（可我也想到男朋友，他其实没那样说过我。是我自己把妈妈的语气安到他头上了。这个发现让我有点内疚，又有点松动，好像一直堵着的地方裂开了一条缝。）"
+      }
+    }
+  ],
+  "created": 1794536287,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3335,
+    "total_tokens": 3459,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

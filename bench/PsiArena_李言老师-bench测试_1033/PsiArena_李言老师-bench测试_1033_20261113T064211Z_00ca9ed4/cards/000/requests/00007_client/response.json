@@ -1,0 +1,41 @@
+{
+  "id": "8b35f06207744be8ae8465ceec87f723",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……不太说吧，可能就脸色变了，或者一句“你怎么又这样”。反正那种时候我就知道，自己让他们失望了。其实也不是什么大事，我是不是有点小题大做了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是家里怎么对我，这问题让我有点不想往下说。小时候那些事，提起来就闷得慌，好像又回到那种小心翼翼的感觉里。）\n（不过刚才他没有评判我敏感，还说我这样是有原因的，这让我稍微松了一点。也许可以试探着说一点，但不用全倒出来。先让他知道那不是什么愉快的回忆，看看他接下来怎么接。）",
+        "reasoning": "（咨询师问的是家里怎么对我，这问题让我有点不想往下说。小时候那些事，提起来就闷得慌，好像又回到那种小心翼翼的感觉里。）\n（不过刚才他没有评判我敏感，还说我这样是有原因的，这让我稍微松了一点。也许可以试探着说一点，但不用全倒出来。先让他知道那不是什么愉快的回忆，看看他接下来怎么接。）"
+      }
+    }
+  ],
+  "created": 1794552164,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1515,
+    "total_tokens": 1640,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

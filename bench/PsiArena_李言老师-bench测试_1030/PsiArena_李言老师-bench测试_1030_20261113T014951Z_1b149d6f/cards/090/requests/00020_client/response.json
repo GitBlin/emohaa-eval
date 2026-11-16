@@ -1,0 +1,41 @@
+{
+  "id": "80f961a0ff4d4a28aa13740210645998",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就告诉自己“别想了”“没什么大不了的”，硬压下去。其实越这么说越难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我忍的时候心里跟自己说什么……我平时还真没细想过。就是觉得难受，然后告诉自己别想了，好像这样就能压下去。）\n（可其实压不住，越说别想越乱。说出来有点丢人，好像我连自己都管不好。她会不会觉得我特没用？）",
+        "reasoning": "（她问我忍的时候心里跟自己说什么……我平时还真没细想过。就是觉得难受，然后告诉自己别想了，好像这样就能压下去。）\n（可其实压不住，越说别想越乱。说出来有点丢人，好像我连自己都管不好。她会不会觉得我特没用？）"
+      }
+    }
+  ],
+  "created": 1794539851,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2888,
+    "total_tokens": 2975,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

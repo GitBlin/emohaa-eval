@@ -1,0 +1,41 @@
+{
+  "id": "8c2758ae2a3a4a17a058d2f3b6547dd2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "估计还是我妈那句“人家会怎么看你”吧，来得最快。不过现在后面好像能跟上一句别的了，虽然还不太稳。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是明天烦起来时最先冒出来的念头。她好像是想让我具体一点，看看我能不能抓住那个瞬间。我其实心里清楚，那种烦一上来，最先跳出来的肯定是我妈的话。）\n（那种“人家会怎么看你”的声音太熟了，几乎条件反射。不过现在我也知道，光有那个声音不够，后面还能跟着一句别的。虽然还不太稳，但至少能想起来。）",
+        "reasoning": "（咨询师问的是明天烦起来时最先冒出来的念头。她好像是想让我具体一点，看看我能不能抓住那个瞬间。我其实心里清楚，那种烦一上来，最先跳出来的肯定是我妈的话。）\n（那种“人家会怎么看你”的声音太熟了，几乎条件反射。不过现在我也知道，光有那个声音不够，后面还能跟着一句别的。虽然还不太稳，但至少能想起来。）"
+      }
+    }
+  ],
+  "created": 1794554773,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3179,
+    "total_tokens": 3301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

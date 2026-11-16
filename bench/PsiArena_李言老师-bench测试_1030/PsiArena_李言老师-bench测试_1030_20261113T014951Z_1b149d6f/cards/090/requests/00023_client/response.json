@@ -1,0 +1,41 @@
+{
+  "id": "fe4b50357cce4291bea1184f1f83f160",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想把这句话写在手机备忘录里，设成提醒，跟那个“离开一会儿”的提醒放一起。这样一响，我就想起来还能这么做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么记住这种感觉……我平时记性不太好，但手机是我最常用的东西。设个提醒应该能帮上忙，而且刚才聊到手机提醒时我也觉得可行。不过光靠提醒可能不够，也许可以写下来贴在能看到的地方。）\n（想到这些具体的小办法，心里稍微踏实了一点。以前总觉得没办法，现在好像有了能试一试的方向。虽然不知道能不能做好，但至少不是完全没头绪了。）",
+        "reasoning": "（她问我怎么记住这种感觉……我平时记性不太好，但手机是我最常用的东西。设个提醒应该能帮上忙，而且刚才聊到手机提醒时我也觉得可行。不过光靠提醒可能不够，也许可以写下来贴在能看到的地方。）\n（想到这些具体的小办法，心里稍微踏实了一点。以前总觉得没办法，现在好像有了能试一试的方向。虽然不知道能不能做好，但至少不是完全没头绪了。）"
+      }
+    }
+  ],
+  "created": 1794539866,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3218,
+    "total_tokens": 3344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

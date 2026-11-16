@@ -1,0 +1,41 @@
+{
+  "id": "9e39310883a0422190f181587fca6c7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来……有时候是闷，有时候又像被什么揪着。我最近老做梦，醒来心里堵得慌，可记不清梦到什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那种压着的感觉更像什么，是闷闷的沉还是发紧。我其实说不清楚，但好像两者都有。我不想说得太具体，因为我自己也还没理明白。）\n（我想到最近那些梦，画面模糊但醒来后心里很不舒服。也许可以提一下这个，但又怕说得太多。还是先含糊地描述一下那种感觉吧，顺便试探性地提一句梦，看看咨询师会怎么接。）",
+        "reasoning": "（咨询师在问我那种压着的感觉更像什么，是闷闷的沉还是发紧。我其实说不清楚，但好像两者都有。我不想说得太具体，因为我自己也还没理明白。）\n（我想到最近那些梦，画面模糊但醒来后心里很不舒服。也许可以提一下这个，但又怕说得太多。还是先含糊地描述一下那种感觉吧，顺便试探性地提一句梦，看看咨询师会怎么接。）"
+      }
+    }
+  ],
+  "created": 1794536960,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1419,
+    "total_tokens": 1549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

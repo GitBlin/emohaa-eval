@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:26:28.853673+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hua and Xiao Qiang went to the zoo together and found the rabbits very cute. There were carrots for sale at the zoo's ticket booth for visitors to feed the rabbits. Xiao Qiang, however, took out a bag of carrots that he had prepared in advance, but he didn't tell Xiao Hua that the carrots were his own and not purchased from the booth. The zookeepers do not recommend that visitors feed the animals with their own food. After they left, they overheard a zookeeper saying that the rabbits were very popular and had eaten too much. As they were leaving, Xiao Qiang revealed that the carrots they had fed the rabbits were the ones he had brought.\n\n[Question]\nXiao Hua does not tell Xiao Qiang about the zoo's rule against feeding, what kind of emotion does he feel?\n\n[Candidate Answers]\nA. Xiao Hua possibly feels happy, because he thinks Xiao Qiang feeding the rabbit is an act of expressing love.\nB. Xiao Hua possibly feels guilty and anxious, because he does not tell Xiao Qiang the rules of the zoo, which leads to the adverse reaction of the rabbit.\nC. Xiao Hua possibly feels indifferent, because he thinks Xiao Qiang feeding the rabbit does not lead to serious consequences.\nD. Xiao Hua possibly feels confused, because he is unsure whether he should tell Xiao Qiang the rules of the zoo in this situation.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ff713d4af694689a55b41a0791e7134",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "至少别马上打断我，先听我说完。别每次都用“为你好”压我……可说实话，我也不太信她真会听。家里一直觉得女孩的事就该听父母的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望妈妈怎么回应，这让我想起很多次我还没说完就被打断的场景。其实我要的真的不多，就是她能先听我把话说完，别急着用“为你好”来压我。）\n（可我又觉得这个要求挺可笑的，因为在我家，女孩的意见好像从来都不重要。这种想法让我有点烦躁，语气可能也会变得有点冲。）",
+        "reasoning": "（她问我希望妈妈怎么回应，这让我想起很多次我还没说完就被打断的场景。其实我要的真的不多，就是她能先听我把话说完，别急着用“为你好”来压我。）\n（可我又觉得这个要求挺可笑的，因为在我家，女孩的意见好像从来都不重要。这种想法让我有点烦躁，语气可能也会变得有点冲。）"
+      }
+    }
+  ],
+  "created": 1794542180,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1757,
+    "total_tokens": 1879,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

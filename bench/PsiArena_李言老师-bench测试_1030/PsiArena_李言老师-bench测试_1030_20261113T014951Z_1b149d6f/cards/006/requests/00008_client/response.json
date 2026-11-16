@@ -1,0 +1,41 @@
+{
+  "id": "0db41d26764c48dbb46fe4cbf3c0afb7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……容易烦躁吧。以前回家还会跟妻子聊聊，现在她一问我工作上的事，我就烦，不想提。孩子闹一点，我也忍不住发火，事后又后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我家里人看到我什么变化，这问题一下子戳到心里去了。最近确实和家里人越来越别扭，但平时我都不愿意承认。）\n（我想到妻子那副欲言又止的样子，还有孩子躲着我的眼神，心里就堵得慌。也许该说出来，虽然有点难堪。）",
+        "reasoning": "（咨询师问我家里人看到我什么变化，这问题一下子戳到心里去了。最近确实和家里人越来越别扭，但平时我都不愿意承认。）\n（我想到妻子那副欲言又止的样子，还有孩子躲着我的眼神，心里就堵得慌。也许该说出来，虽然有点难堪。）"
+      }
+    }
+  ],
+  "created": 1794534825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1671,
+    "total_tokens": 1777,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

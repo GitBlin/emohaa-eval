@@ -1,0 +1,41 @@
+{
+  "id": "1b342de18f13424b84e6066bd573bef2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会，回去以后越想越憋。（停顿）我想，下次也许可以试着说一点点，不用全说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我说“没事”之后会不会更难受，这让我想起每次聚会后回家的那种憋闷。好像确实是这样，东西咽回去，心里反而更堵。）\n（但我也在想，是不是可以试着不总这样。也许下次不用说得太多，就试着说一点点，哪怕只是承认“有点累”。这样会不会比全咽下去好一些？我有点想试试，又有点怕。）",
+        "reasoning": "（她问我说“没事”之后会不会更难受，这让我想起每次聚会后回家的那种憋闷。好像确实是这样，东西咽回去，心里反而更堵。）\n（但我也在想，是不是可以试着不总这样。也许下次不用说得太多，就试着说一点点，哪怕只是承认“有点累”。这样会不会比全咽下去好一些？我有点想试试，又有点怕。）"
+      }
+    }
+  ],
+  "created": 1794558256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2558,
+    "total_tokens": 2667,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

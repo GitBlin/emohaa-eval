@@ -1,0 +1,41 @@
+{
+  "id": "6c6e4da128184171bb2481349c1136f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想找个没那么正式的时候，比如晚上散步，边走边说，可能没那么难开口。不过我也怕说着说着又绕回老样子……先试一句看看他反应吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我打算怎么跟老公开口，这让我有点紧张但也觉得该试试。我平时总是憋着，现在被这么一问，反而觉得可以找个不那么正式的时机，比如散步的时候，这样压力小一点。）\n（但我也担心自己到时候说不出口，或者他一急又变成讲道理，那我就又缩回去了。所以我想先说一句试试，看看他的反应，不行就慢慢来。）",
+        "reasoning": "（咨询师在问我打算怎么跟老公开口，这让我有点紧张但也觉得该试试。我平时总是憋着，现在被这么一问，反而觉得可以找个不那么正式的时机，比如散步的时候，这样压力小一点。）\n（但我也担心自己到时候说不出口，或者他一急又变成讲道理，那我就又缩回去了。所以我想先说一句试试，看看他的反应，不行就慢慢来。）"
+      }
+    }
+  ],
+  "created": 1794552952,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3081,
+    "total_tokens": 3205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

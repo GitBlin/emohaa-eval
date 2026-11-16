@@ -1,0 +1,41 @@
+{
+  "id": "998fd4083a2e4979b94fd56a418caa31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……我不知道怎么开口，跟这么小的孩子说这些，感觉怪别扭的。而且我从小家里也不是那种会道歉的氛围，我妈说话都是命令式的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有跟孩子道歉或解释，这让我心里一紧。我其实根本没做，也不知道该怎么开口，总觉得跟那么小的孩子说这些怪别扭的。）\n（而且我忽然想到，这种“别扭”好像跟我从小到大的经历有关。我妈说话就是命令式的，从没跟我道过歉，我好像也习惯了把情绪憋着。这可能不只是这一次的问题。）",
+        "reasoning": "（咨询师问我有没有跟孩子道歉或解释，这让我心里一紧。我其实根本没做，也不知道该怎么开口，总觉得跟那么小的孩子说这些怪别扭的。）\n（而且我忽然想到，这种“别扭”好像跟我从小到大的经历有关。我妈说话就是命令式的，从没跟我道过歉，我好像也习惯了把情绪憋着。这可能不只是这一次的问题。）"
+      }
+    }
+  ],
+  "created": 1794551599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1950,
+    "total_tokens": 2068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

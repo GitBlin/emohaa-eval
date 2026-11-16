@@ -1,0 +1,41 @@
+{
+  "id": "43f97c437ebd48889304db799edde731",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟朋友在一起的时候吧，随便点也没关系。可相亲就完全不一样，好像一坐下就得证明自己值得被选。其实我有时候也想，我到底是想找对象，还是只是不想让家里失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候不那么怕被评价……让我想想。跟朋友在一起的时候确实轻松些，不用端着。可一说到相亲，那种感觉又不一样了，好像对方带着任务来，我也像在完成任务。）\n（嗯……其实我最近一直在想，我好像从来没问过自己到底想不想要这些。每次都是被推着走，心里其实挺空的。）",
+        "reasoning": "（她问我什么时候不那么怕被评价……让我想想。跟朋友在一起的时候确实轻松些，不用端着。可一说到相亲，那种感觉又不一样了，好像对方带着任务来，我也像在完成任务。）\n（嗯……其实我最近一直在想，我好像从来没问过自己到底想不想要这些。每次都是被推着走，心里其实挺空的。）"
+      }
+    }
+  ],
+  "created": 1794542176,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2218,
+    "total_tokens": 2343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

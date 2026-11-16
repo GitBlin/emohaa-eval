@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:57.684120+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nVincent asked Janice to be his pretend girlfriend with no feeling involved, so that he could make his ex jealous, to which Janice agreed. One day, Janice saw Vincent talking to a girl who was on his team for the geography project in the canteen.\n\n## Question 1\nWhat emotion(s) would Janice ultimately feel in this situation?\n\n## Choices for Question 1\nA) Admiration\nB) Embarrassment\nC) Jealousy\nD) Disapproval\nE) Guilt\nF) Unbothered\n\n## Question 2\nWhy would Janice feel these emotions in this situation?\n\n## Choices for Question 2\nA) She is confident in her relationship with Vincent\nB) She thinks the girl might steal Vincent from her\nC) The relationship between her and Vincent is fake and there is no feelings involved\nD) She is less interested in Vincent's social life\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

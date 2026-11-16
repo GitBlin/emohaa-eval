@@ -1,0 +1,41 @@
+{
+  "id": "a9e179e609b04c78b4b4e4f54b33c8b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕她反应太淡吧，或者觉得我突然说这个干嘛。不过想想，就算她只是笑笑，好像也没什么大不了的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我担心朋友会怎么回应……其实我根本没想过她会怎么回，只是觉得说出这种话本身就很别扭。但咨询师这么一问，好像让我更具体地去想这件事了。）\n（也许我可以先试着想想最坏的结果？如果朋友反应冷淡，我大概会有点失落，但也不至于怎样。不过这么一想，好像也没那么可怕了。反而有点想知道她真实的反应。）",
+        "reasoning": "（她问我担心朋友会怎么回应……其实我根本没想过她会怎么回，只是觉得说出这种话本身就很别扭。但咨询师这么一问，好像让我更具体地去想这件事了。）\n（也许我可以先试着想想最坏的结果？如果朋友反应冷淡，我大概会有点失落，但也不至于怎样。不过这么一想，好像也没那么可怕了。反而有点想知道她真实的反应。）"
+      }
+    }
+  ],
+  "created": 1794555103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2477,
+    "total_tokens": 2590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

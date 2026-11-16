@@ -1,0 +1,41 @@
+{
+  "id": "be4ea8d972294ca7bcc9dc2ee1d530fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先练几遍吧，真一上来就说，我怕自己又软了。不过光练也不行……可能得找件小事先试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我先练还是真说一次，我第一反应是怕真说会搞砸。毕竟婆婆那种人，我一开口她肯定又要压回来。）\n（不过光在心里练，好像也练不出什么胆量。得找个小点的事先说，不能一上来就硬碰。这样想心里稍微踏实一点。）",
+        "reasoning": "（她问我先练还是真说一次，我第一反应是怕真说会搞砸。毕竟婆婆那种人，我一开口她肯定又要压回来。）\n（不过光在心里练，好像也练不出什么胆量。得找个小点的事先说，不能一上来就硬碰。这样想心里稍微踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794553006,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3012,
+    "total_tokens": 3114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

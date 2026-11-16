@@ -1,0 +1,41 @@
+{
+  "id": "efb4675a02a942b1841ffe1330bb8d96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步的时候吧，边走边说，可能没那么紧张。吃饭时面对面，我反而不知道怎么开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“开口”这件事具体化，这让我稍微踏实一点。不过想到要说出口，还是会紧张，怕自己临阵退缩。）\n（散步的时候可能比吃饭好，面对面坐着说这些，我大概会不自在。先把时机定下来，也算给自己一个台阶。）",
+        "reasoning": "（咨询师在帮我把“开口”这件事具体化，这让我稍微踏实一点。不过想到要说出口，还是会紧张，怕自己临阵退缩。）\n（散步的时候可能比吃饭好，面对面坐着说这些，我大概会不自在。先把时机定下来，也算给自己一个台阶。）"
+      }
+    }
+  ],
+  "created": 1794557904,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2596,
+    "total_tokens": 2680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

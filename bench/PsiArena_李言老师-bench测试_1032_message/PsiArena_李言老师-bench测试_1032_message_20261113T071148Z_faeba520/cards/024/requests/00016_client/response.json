@@ -1,0 +1,41 @@
+{
+  "id": "f7e2c0a6774645ac84f05b81f5a7cd6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想跟自己说……慢一点，别一下子倒出来。就说感受，别急着说谁对谁错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我稳住自己的一句话，这让我有点意外。以前我总想着怎么把话说对，现在她好像更在意我能不能先稳住自己。）\n（我想了想，可能我需要提醒自己慢一点，不要一下子把所有的委屈都倒出来。说感受比说对错更重要，这样也许就不会又变成争吵。）",
+        "reasoning": "（咨询师问我稳住自己的一句话，这让我有点意外。以前我总想着怎么把话说对，现在她好像更在意我能不能先稳住自己。）\n（我想了想，可能我需要提醒自己慢一点，不要一下子把所有的委屈都倒出来。说感受比说对错更重要，这样也许就不会又变成争吵。）"
+      }
+    }
+  ],
+  "created": 1794555038,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2362,
+    "total_tokens": 2456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

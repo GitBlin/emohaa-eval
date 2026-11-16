@@ -1,0 +1,41 @@
+{
+  "id": "f09aa874dc404f03bbe05c76ec536b62",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是“我妈就那样，你别计较”。一听这句，我就觉得自己又得把话咽回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最怕听到哪句话……这个问题让我一下子想到丈夫可能会说的话。其实我心里早就知道他会怎么回应，只是从来不敢承认。）\n（“我妈就这样，你别跟她计较”——这句话我听过太多次了。每次听到都觉得自己被推开了，好像我的感受根本不重要。说出来反而更难受，所以我才一直忍着不说。）",
+        "reasoning": "（她问我最怕听到哪句话……这个问题让我一下子想到丈夫可能会说的话。其实我心里早就知道他会怎么回应，只是从来不敢承认。）\n（“我妈就这样，你别跟她计较”——这句话我听过太多次了。每次听到都觉得自己被推开了，好像我的感受根本不重要。说出来反而更难受，所以我才一直忍着不说。）"
+      }
+    }
+  ],
+  "created": 1794551457,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2116,
+    "total_tokens": 2210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

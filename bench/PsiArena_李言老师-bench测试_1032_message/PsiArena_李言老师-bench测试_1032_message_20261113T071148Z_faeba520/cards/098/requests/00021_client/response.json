@@ -1,0 +1,41 @@
+{
+  "id": "f8317758e6ae40c18ef5d8d0884564cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "图书馆角落挺安静的，就是我不敢去，怕人家觉得我怪。体育课后面坐着发呆应该也行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我有没有别的安静方式，这让我想到在学校里其实有些地方可以待着。他好像真的在帮我想办法，不是随便问问。）\n（我有点犹豫要不要说图书馆，因为那里太安静了，怕自己待不住。不过体育课后面坐一会儿这个应该可以试试，至少比躲厕所好点。）",
+        "reasoning": "（咨询师在问我有没有别的安静方式，这让我想到在学校里其实有些地方可以待着。他好像真的在帮我想办法，不是随便问问。）\n（我有点犹豫要不要说图书馆，因为那里太安静了，怕自己待不住。不过体育课后面坐一会儿这个应该可以试试，至少比躲厕所好点。）"
+      }
+    }
+  ],
+  "created": 1794558692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2877,
+    "total_tokens": 2973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

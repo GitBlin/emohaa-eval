@@ -1,0 +1,41 @@
+{
+  "id": "9caaced76b9e453f95e90328d89d4d85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天……明天下午放学后吧，那会儿她没那么忙。我说的时候要是卡住了，就按刚才练的那句开头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在问我打算什么时候跟班主任开口……我有点慌，但又觉得她说的有道理。避开确实只是暂时的，可要我自己去说，还是害怕。我得想个具体点的，又别太急，给自己留点余地。）\n（明天下午……那时候班主任应该没那么忙，人也少一点。我其实还是怕，但总得试试，不然一直这样下去也不是办法。）",
+        "reasoning": "（这个咨询师在问我打算什么时候跟班主任开口……我有点慌，但又觉得她说的有道理。避开确实只是暂时的，可要我自己去说，还是害怕。我得想个具体点的，又别太急，给自己留点余地。）\n（明天下午……那时候班主任应该没那么忙，人也少一点。我其实还是怕，但总得试试，不然一直这样下去也不是办法。）"
+      }
+    }
+  ],
+  "created": 1794552352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2702,
+    "total_tokens": 2816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

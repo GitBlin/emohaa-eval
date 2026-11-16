@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:40:38.137781+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaodong, Xiaoxi, and Xiaonan are playing a flying chess game. Xiaonan is the birthday boy today, he is playing the game with full concentration, without paying attention to anything else. Xiaodong and Xiaoxi often exchange glances during the game, occasionally smiling slightly. Xiaodong quietly shows his chess piece to Xiaoxi. Xiaoxi looks at the chess piece in Xiaodong's hand, then glances at Xiaonan, then nods. In the subsequent game, although Xiaodong and Xiaoxi are competitors, they cooperate cleverly several times, and in the end, Xiaonan wins the game.\n\n[Question]\nWhy does Xiaoxi nod after looking at Xiaodong's chess piece?\n\n[Candidate Answers]\nA. Xiaoxi understands that Xiaodong wants to help the birthday boy Xiaonan win the game.\nB. Xiaoxi just responds casually, without understanding Xiaodong's intention.\nC. Xiaoxi agrees with Xiaodong's game strategy suggestion.\nD. Xiaoxi makes a suitable game decision after seeing the chess piece in Xiaodong's hand.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

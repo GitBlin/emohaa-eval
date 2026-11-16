@@ -1,0 +1,41 @@
+{
+  "id": "ea0bf2fdb9b748da8c65db6731f276ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最难说的好像是“我想自己待会儿”这几个字，一说出来就觉得自己挺自私的。可仔细想想，也就一顿饭的事，好像也没那么严重。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想想哪几个字最难说出口。其实我脑子里第一个蹦出来的就是“自己待会儿”这几个字，说出来好像显得我很自私，别人会不会觉得我连这点忙都不肯帮。）\n（可我又想到，带饭这事确实不算大，真拒绝了天也不会塌。只是心里那个“别让人失望”的念头太强了，一张嘴就先把自己劝回去了。）",
+        "reasoning": "（她让我想想哪几个字最难说出口。其实我脑子里第一个蹦出来的就是“自己待会儿”这几个字，说出来好像显得我很自私，别人会不会觉得我连这点忙都不肯帮。）\n（可我又想到，带饭这事确实不算大，真拒绝了天也不会塌。只是心里那个“别让人失望”的念头太强了，一张嘴就先把自己劝回去了。）"
+      }
+    }
+  ],
+  "created": 1794552529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2971,
+    "total_tokens": 3089,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

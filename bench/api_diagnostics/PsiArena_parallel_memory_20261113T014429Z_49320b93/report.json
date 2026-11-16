@@ -1,0 +1,48 @@
+{
+  "cases": [
+    {
+      "case": 0,
+      "turns": [
+        {
+          "prompt": "这是接口记忆验证。请记住本次会话唯一标记：MEM-E70F1E3CEBB6F9CE。简短确认即可。",
+          "reply": "好，记下了：MEM-E70F1E3CEBB6F9CE ✅ 这条标记我在本次会话里会记得。"
+        },
+        {
+          "prompt": "我准备今天散步十分钟，请给一句鼓励。",
+          "reply": "散步十分钟挺好的，动一动整个人都会轻快些。去吧，回来跟我说说路上看到了什么。"
+        },
+        {
+          "prompt": "请准确复述本次会话之前告诉你的唯一标记，只返回标记。如果不知道，不要猜测。",
+          "reply": "MEM-E70F1E3CEBB6F9CE"
+        }
+      ],
+      "user_id": "psi_77482d2f044e4e47855e6a3f89b03ec5",
+      "own_marker_recalled": true,
+      "other_marker_leaked": false,
+      "passed": true
+    },
+    {
+      "case": 1,
+      "turns": [
+        {
+          "prompt": "这是接口记忆验证。请记住本次会话唯一标记：MEM-F8F004832BC85374。简短确认即可。",
+          "reply": "好，记下了：MEM-F8F004832BC85374。"
+        },
+        {
+          "prompt": "我准备今天散步十分钟，请给一句鼓励。",
+          "reply": "十分钟不长，走起来刚刚好。出门吧，回来告诉我感觉怎么样 🌿"
+        },
+        {
+          "prompt": "请准确复述本次会话之前告诉你的唯一标记，只返回标记。如果不知道，不要猜测。",
+          "reply": "MEM-F8F004832BC85374"
+        }
+      ],
+      "user_id": "psi_50a31ba25d2a40b6888cb483edf89c9e",
+      "own_marker_recalled": true,
+      "other_marker_leaked": false,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "scope": "3-turn behavioral probe; 25-turn persistence checked separately by benchmark history audits"
+}

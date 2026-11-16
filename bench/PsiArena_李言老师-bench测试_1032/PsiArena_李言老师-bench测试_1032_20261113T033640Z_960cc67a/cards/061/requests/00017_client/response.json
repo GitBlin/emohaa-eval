@@ -1,0 +1,41 @@
+{
+  "id": "b1560a423c834d20bb0e2a59f7a20b54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能，我截图还留着。要不我回去把原文一条条看清楚？……我是说，我是不是也该做点更靠谱的评估，而不是光靠一个网上的分数。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没有直接否定我的担心，而是在帮我把那个吓人的词拆开来看。这让我稍微松了口气，也许我该按她说的，先去弄清楚那些条目到底在问什么，而不是一个人瞎想。）\n（不过光看原文可能还是不够，我怕自己又理解偏了。也许我可以问问她有没有更靠谱的评估方式，这样总比自己抱着一个分数反复琢磨要踏实。）",
+        "reasoning": "（她好像没有直接否定我的担心，而是在帮我把那个吓人的词拆开来看。这让我稍微松了口气，也许我该按她说的，先去弄清楚那些条目到底在问什么，而不是一个人瞎想。）\n（不过光看原文可能还是不够，我怕自己又理解偏了。也许我可以问问她有没有更靠谱的评估方式，这样总比自己抱着一个分数反复琢磨要踏实。）"
+      }
+    }
+  ],
+  "created": 1794544289,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2636,
+    "total_tokens": 2760,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

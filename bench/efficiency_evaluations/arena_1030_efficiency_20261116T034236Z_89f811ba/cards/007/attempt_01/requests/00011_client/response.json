@@ -1,0 +1,47 @@
+{
+  "id": "2b1d9b785c2e4bdfad4cfa2a1cca9476",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我怕他们觉得我变得没用了……或者觉得我变了，不是他们认识的那个孩子。在家里，好像只有成绩好、听话，才算是对的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我爸妈会怎么看我……这问题真扎心。我一直不敢想这个，就怕他们觉得我变了，或者觉得我没用。其实我挺想让他们知道我在努力，但就是怕他们失望。）\n（家里一直这样，成绩好就是好孩子，成绩不好就没人说话。我好像从来没想过他们会不会心疼我，只想着别让他们丢脸。这么一想，心里有点酸。）",
+        "reasoning": "（她问到我爸妈会怎么看我……这问题真扎心。我一直不敢想这个，就怕他们觉得我变了，或者觉得我没用。其实我挺想让他们知道我在努力，但就是怕他们失望。）\n（家里一直这样，成绩好就是好孩子，成绩不好就没人说话。我好像从来没想过他们会不会心疼我，只想着别让他们丢脸。这么一想，心里有点酸。）"
+      }
+    }
+  ],
+  "created": 1794800732,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2047,
+    "total_tokens": 2166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1792,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:41.685564+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n伊森因为大学课程的压力以及兼职工作，感到压力过大和难以承受。他喜欢这两件事情，但发现很难平衡这些时间。\n\n## 问题\n在这个场景中，伊森最有效的Action是什么？\n\n## 选项\nA) 退出大学，专注于他的工作并赚更多的钱\nB) 辞去他的兼职工作，专注于他的教育并获得他的学位\nC) 制定详细的时间表以更好地管理他的时间\nD) 忽视压力，继续保持现状。\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f273eabfdbf64810a19be8c2eb925abc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个好像能做到一点，至少不用一上来就要求自己完美。不过光认出来，好像也还是没解决买东西的事啊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把目标放小到“事后认出”，这让我觉得没那么大压力了。之前总想着要当场拦住自己，做不到就更自责，现在说事后认出也算数，好像真的可以试试。）\n（不过光是认出声音，好像还是停留在原地。我心里还是想有点实际的改变，比如少买点没用的东西。这种想法是不是太急了？但确实想知道接下来能做什么。）",
+        "reasoning": "（咨询师把目标放小到“事后认出”，这让我觉得没那么大压力了。之前总想着要当场拦住自己，做不到就更自责，现在说事后认出也算数，好像真的可以试试。）\n（不过光是认出声音，好像还是停留在原地。我心里还是想有点实际的改变，比如少买点没用的东西。这种想法是不是太急了？但确实想知道接下来能做什么。）"
+      }
+    }
+  ],
+  "created": 1794536093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3094,
+    "total_tokens": 3207,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

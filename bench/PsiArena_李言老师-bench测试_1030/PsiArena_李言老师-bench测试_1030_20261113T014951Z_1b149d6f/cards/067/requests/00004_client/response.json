@@ -1,0 +1,41 @@
+{
+  "id": "5fd4a43ea97b43d39fadd84d5534af16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）家里的事吧……一些乱七八糟的，我也说不好。唉，其实我是不是不该在这儿说这些？会不会耽误你时间？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我走神时脑子里冒出来的是什么。我其实不太想说得太具体，毕竟才刚开始，还不知道这人靠不靠谱。但总得说点什么……家里的那些事，模模糊糊提一下应该没关系吧。不过说完又有点后悔，怕对方追问太多。还是把话题往别处带一带，问问咨询的事，看看这人到底会怎么处理我这种含糊其辞的情况。）",
+        "reasoning": "（咨询师在问我走神时脑子里冒出来的是什么。我其实不太想说得太具体，毕竟才刚开始，还不知道这人靠不靠谱。但总得说点什么……家里的那些事，模模糊糊提一下应该没关系吧。不过说完又有点后悔，怕对方追问太多。还是把话题往别处带一带，问问咨询的事，看看这人到底会怎么处理我这种含糊其辞的情况。）"
+      }
+    }
+  ],
+  "created": 1794537962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1189,
+    "total_tokens": 1309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

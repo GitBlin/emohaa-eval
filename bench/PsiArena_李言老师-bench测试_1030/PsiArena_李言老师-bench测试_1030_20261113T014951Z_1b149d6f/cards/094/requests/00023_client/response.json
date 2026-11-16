@@ -1,0 +1,41 @@
+{
+  "id": "fb6da04043c943318b8eb04d5221f383",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不好意思）有一次方案被客户点名夸了，我嘴上没说什么，其实偷偷高兴了一整天。就是……没好意思跟人讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有偷偷觉得做得不错的时候，我第一反应还是有点不好意思承认。但刚才聊下来，心里好像松了一点，也许可以说说那个方案的事。）\n（那个方案被夸的时候，我确实高兴了一下，可马上又觉得不能太当真。现在说出来，反而有点想看看她怎么回应。）",
+        "reasoning": "（她问我有没有偷偷觉得做得不错的时候，我第一反应还是有点不好意思承认。但刚才聊下来，心里好像松了一点，也许可以说说那个方案的事。）\n（那个方案被夸的时候，我确实高兴了一下，可马上又觉得不能太当真。现在说出来，反而有点想看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794540195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3338,
+    "total_tokens": 3437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

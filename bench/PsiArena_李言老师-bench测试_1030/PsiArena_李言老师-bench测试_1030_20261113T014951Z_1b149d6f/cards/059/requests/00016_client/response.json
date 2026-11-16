@@ -1,0 +1,41 @@
+{
+  "id": "2c0a7ff84109447aad18cd95cebb8a09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……不太踏实，反而更累。（停顿）我在想，是不是可以试着哪次少回放一点，或者说话前别改那么多遍？就是不知道真做起来行不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这样先挑自己毛病，心里能不能真的踏实下来。说实话，被这么一问，我有点愣住，因为以前从没这么想过。我好像确实从来没踏实过，反而越挑越累。）\n（但既然聊到这里了，我也开始想，是不是真能做点不一样的事。比如哪天试着少回放一次，或者说话时不那么反复改。不过我又怕自己做不到，怕一开口还是老样子。）",
+        "reasoning": "（咨询师问我这样先挑自己毛病，心里能不能真的踏实下来。说实话，被这么一问，我有点愣住，因为以前从没这么想过。我好像确实从来没踏实过，反而越挑越累。）\n（但既然聊到这里了，我也开始想，是不是真能做点不一样的事。比如哪天试着少回放一次，或者说话时不那么反复改。不过我又怕自己做不到，怕一开口还是老样子。）"
+      }
+    }
+  ],
+  "created": 1794537454,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2630,
+    "total_tokens": 2765,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

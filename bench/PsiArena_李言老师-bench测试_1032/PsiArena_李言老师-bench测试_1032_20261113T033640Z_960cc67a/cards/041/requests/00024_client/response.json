@@ -1,0 +1,41 @@
+{
+  "id": "604a9ab5b8974087b136f929b772a0de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "经常是我刚说“我有点不舒服”，他就半开玩笑接一句“你是不是又敏感了”。那一瞬间我就不太想说了，好像话还没落地就被堵回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我他打断我的具体时刻，这让我想起很多次我刚开始说感受就被他轻描淡写带过去的场景。心里有点发紧，但我知道这是在帮我理清问题。）\n（我想试着说清楚，可一开口又有点犹豫，怕自己讲得太多显得矫情。不过既然已经聊到这儿了，还是把那种“刚开口就被堵回去”的难受说出来吧。）",
+        "reasoning": "（咨询师在问我他打断我的具体时刻，这让我想起很多次我刚开始说感受就被他轻描淡写带过去的场景。心里有点发紧，但我知道这是在帮我理清问题。）\n（我想试着说清楚，可一开口又有点犹豫，怕自己讲得太多显得矫情。不过既然已经聊到这儿了，还是把那种“刚开口就被堵回去”的难受说出来吧。）"
+      }
+    }
+  ],
+  "created": 1794543167,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3352,
+    "total_tokens": 3477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

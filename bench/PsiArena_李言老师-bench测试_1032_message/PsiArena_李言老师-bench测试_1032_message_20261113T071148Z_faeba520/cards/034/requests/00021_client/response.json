@@ -1,0 +1,41 @@
+{
+  "id": "d0d4d7799299436da7e4fae9b60442ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写点什么……可以吗？我平时不太会给自己留这种东西。不过，也许可以在手机里记一句，只有我自己看得到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我能不能留点什么提醒，这让我有点意外。我平时很少会为自己做这种事，总觉得太矫情。但刚才确实没那么堵了，也许可以试试。）\n（写下来这个念头让我有点犹豫，因为万一被看到就麻烦了。但藏在手机里的话，好像也没那么难。我想先写一句看看，不用太长，自己看得懂就行。）",
+        "reasoning": "（她问我能不能留点什么提醒，这让我有点意外。我平时很少会为自己做这种事，总觉得太矫情。但刚才确实没那么堵了，也许可以试试。）\n（写下来这个念头让我有点犹豫，因为万一被看到就麻烦了。但藏在手机里的话，好像也没那么难。我想先写一句看看，不用太长，自己看得懂就行。）"
+      }
+    }
+  ],
+  "created": 1794555452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2747,
+    "total_tokens": 2855,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

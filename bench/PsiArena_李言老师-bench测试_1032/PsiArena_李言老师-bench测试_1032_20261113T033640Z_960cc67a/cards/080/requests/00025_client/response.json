@@ -1,0 +1,41 @@
+{
+  "id": "767cb6fa1c644d42af7da64429edccc2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "如果我发现自己声音变大，或者她开始不看我，我就先喝口水，说“我有点急，缓一下”。这样总比硬撑到吵起来强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算用什么信号提醒自己停下来，说明她也觉得这件事不能硬撑。我想到之前自己一急就容易说重话，那样反而会把事情搞砸。）\n（我得给自己定个简单点的提醒方式，不能太复杂，不然到时候根本顾不上。喝口水这个动作比较自然，说出来也不至于太尴尬，还能给彼此一点缓冲。）\n（这样定下来，心里好像稍微有点底了。至少不是完全没准备就去谈。）",
+        "reasoning": "（她问我打算用什么信号提醒自己停下来，说明她也觉得这件事不能硬撑。我想到之前自己一急就容易说重话，那样反而会把事情搞砸。）\n（我得给自己定个简单点的提醒方式，不能太复杂，不然到时候根本顾不上。喝口水这个动作比较自然，说出来也不至于太尴尬，还能给彼此一点缓冲。）\n（这样定下来，心里好像稍微有点底了。至少不是完全没准备就去谈。）"
+      }
+    }
+  ],
+  "created": 1794545468,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3431,
+    "total_tokens": 3562,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ec045adf5ec46f88352bae48dfbf959",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我还真没想过。好像从小到大，我就默认了他那种方式。要说希望……唉，我也不知道，可能就想他问问我在学校累不累吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望爸爸怎么表达关心，这让我一下子有点不知道怎么回答。我从来没想过这个问题，好像在我心里，爸爸的关心就是和成绩连在一起的，别的样子我想象不出来。）\n（而且这个问题让我意识到，我好像一直在等别人来关心我，却从没想过自己真正想要什么。这种感觉有点陌生，也有点让人不安。）",
+        "reasoning": "（咨询师问我希望爸爸怎么表达关心，这让我一下子有点不知道怎么回答。我从来没想过这个问题，好像在我心里，爸爸的关心就是和成绩连在一起的，别的样子我想象不出来。）\n（而且这个问题让我意识到，我好像一直在等别人来关心我，却从没想过自己真正想要什么。这种感觉有点陌生，也有点让人不安。）"
+      }
+    }
+  ],
+  "created": 1794543364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1885,
+    "total_tokens": 1995,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

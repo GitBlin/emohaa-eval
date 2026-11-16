@@ -1,0 +1,41 @@
+{
+  "id": "f5074e98e24e48e3802a0990be48b49b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我还真没仔细想过。对了，我想问一下，我们聊的这些，您会告诉别人吗？我就是有点担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种状态从什么时候开始，可我真的记不清。我不想这么快就翻旧账，感觉还没准备好信任她。而且她问得这么直接，让我有点警惕，是不是想挖我过去的事？）\n（我得先试探一下她的界限，看看她会不会太急着深挖。毕竟我还没完全放松下来，不能一下子全盘托出。这样问既能把话题拉回来，也能看看她怎么处理我的防备。）",
+        "reasoning": "（咨询师在问我这种状态从什么时候开始，可我真的记不清。我不想这么快就翻旧账，感觉还没准备好信任她。而且她问得这么直接，让我有点警惕，是不是想挖我过去的事？）\n（我得先试探一下她的界限，看看她会不会太急着深挖。毕竟我还没完全放松下来，不能一下子全盘托出。这样问既能把话题拉回来，也能看看她怎么处理我的防备。）"
+      }
+    }
+  ],
+  "created": 1794541331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1256,
+    "total_tokens": 1380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

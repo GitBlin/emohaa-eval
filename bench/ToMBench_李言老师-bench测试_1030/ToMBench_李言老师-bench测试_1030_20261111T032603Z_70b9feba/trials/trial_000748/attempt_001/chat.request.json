@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:50.710409+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn the evening, mom is cooking in the kitchen, Xiao Ming and the nanny sit around the dining table eating. Xiao Ming picks up a piece of fish, holds it in mid-air, his eyebrows are furrowed, there are many bones in the fish. Mom notices Xiao Ming's action, she looks at Xiao Ming, yells, then looks at the nanny who is eating attentively. The nanny is a bit surprised when she hears the yell, she looks at Xiao Ming, tells Xiao Ming to put the fish back.\n\n[Question]\nWhat do you think the nanny thinks?\n\n[Candidate Answers]\nA. The nanny possibly feels happy, because Xiao Ming's mom wants to improve her working conditions.\nB. The nanny feels relieved, she thinks the employer cares about her.\nC. The nanny feels pressured, because she thinks she cannot solve Xiao Ming's picky eating problem.\nD. The nanny feels guilty and uneasy, because she does not fulfill her job duties.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

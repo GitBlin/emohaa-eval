@@ -1,0 +1,41 @@
+{
+  "id": "80f5541f84d04bde9270211780c6e60a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……越是重要的人，越是这样。普通同学我倒无所谓。可能是因为，我特别怕她们哪天就不理我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是对所有人都这样，还是某些人特别明显。这让我想起小时候在家里，爸妈离婚前总是气氛紧张，我得看着他们的脸色说话。后来朋友就成了我唯一的依靠，可能是从那时候起，我就特别怕失去朋友，怕她们觉得我不好。）\n（现在想想，好像确实不只是对那个朋友，而是所有我在意的人。我总觉得自己得表现好一点，别人才不会离开我。这种感觉……好像一直都有，只是最近特别强烈。）",
+        "reasoning": "（她问我是对所有人都这样，还是某些人特别明显。这让我想起小时候在家里，爸妈离婚前总是气氛紧张，我得看着他们的脸色说话。后来朋友就成了我唯一的依靠，可能是从那时候起，我就特别怕失去朋友，怕她们觉得我不好。）\n（现在想想，好像确实不只是对那个朋友，而是所有我在意的人。我总觉得自己得表现好一点，别人才不会离开我。这种感觉……好像一直都有，只是最近特别强烈。）"
+      }
+    }
+  ],
+  "created": 1794552167,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1603,
+    "total_tokens": 1729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

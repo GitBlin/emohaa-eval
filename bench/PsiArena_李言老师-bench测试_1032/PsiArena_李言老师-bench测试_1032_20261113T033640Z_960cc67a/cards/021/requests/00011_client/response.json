@@ -1,0 +1,41 @@
+{
+  "id": "6e1a25869c91419d9712df7e68a017b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那种水果糖，橘子味的。可现在我妈也总提我小时候的事，一遍一遍地说，我听着心里特别慌，不知道她是不是在交代什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问外公塞糖的细节，是想让我多回忆一些温暖的画面吧。可一说到糖，我心里反而更堵了，因为现在我妈躺在病床上，也总是提起我小时候的事，像是在交代什么似的。）\n（我其实不太想继续往那个方向说，那会让我更难受。但既然已经说到这儿了，也许可以稍微提一下我妈现在的情况，看看咨询师能不能理解这种重复回忆让我有多不安。）",
+        "reasoning": "（咨询师在问外公塞糖的细节，是想让我多回忆一些温暖的画面吧。可一说到糖，我心里反而更堵了，因为现在我妈躺在病床上，也总是提起我小时候的事，像是在交代什么似的。）\n（我其实不太想继续往那个方向说，那会让我更难受。但既然已经说到这儿了，也许可以稍微提一下我妈现在的情况，看看咨询师能不能理解这种重复回忆让我有多不安。）"
+      }
+    }
+  ],
+  "created": 1794548870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1866,
+    "total_tokens": 1997,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7f7962d4a1fb4536a2b8b5b90c796385",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）累，老是累。早上最明显，醒来就跟没睡一样。（叹气）以前以为就是没休息好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身体上有没有一直不舒服的地方……我其实早就觉得累，但以前总以为是没睡好。现在被她这么一问，好像那些紧绷和疲惫一直压着，从来没松过。）\n（早上醒来最明显，整个人像被抽空一样。说这些的时候，我有点想哭，又觉得说出来会不会太矫情。）",
+        "reasoning": "（她问我身体上有没有一直不舒服的地方……我其实早就觉得累，但以前总以为是没睡好。现在被她这么一问，好像那些紧绷和疲惫一直压着，从来没松过。）\n（早上醒来最明显，整个人像被抽空一样。说这些的时候，我有点想哭，又觉得说出来会不会太矫情。）"
+      }
+    }
+  ],
+  "created": 1794556954,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3034,
+    "total_tokens": 3135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

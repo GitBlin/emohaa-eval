@@ -1,0 +1,41 @@
+{
+  "id": "683446d588b345f3aeb1c89f0527d3c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（下意识揉了揉肩膀）肩膀老是发紧，晚上躺下也睡不踏实，脑子停不下来。以前没太在意，这么一说好像一直都在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体上的感觉，好像是想让我注意到那些被忽略的信号。我确实很少去想身体怎么样，总是硬撑着。不过这么一问，好像肩膀和胸口真的有点不对劲。）\n（这种紧绷感其实一直都在，只是我习惯了不去管它。晚上也睡不好，脑子里全是工作的事。说出来之后，反而有点意识到自己可能一直在透支。）",
+        "reasoning": "（咨询师在问我身体上的感觉，好像是想让我注意到那些被忽略的信号。我确实很少去想身体怎么样，总是硬撑着。不过这么一问，好像肩膀和胸口真的有点不对劲。）\n（这种紧绷感其实一直都在，只是我习惯了不去管它。晚上也睡不好，脑子里全是工作的事。说出来之后，反而有点意识到自己可能一直在透支。）"
+      }
+    }
+  ],
+  "created": 1794536784,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1756,
+    "total_tokens": 1866,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:50.335050+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Friday afternoon, the manager shares his promotion news in the office, and Xiao Wang joins the celebration team. Xiao Liu expresses sincere congratulations on the manager's promotion. Xiao Liu says to Xiao Wang, \"Seeing our team's efforts get rewards really excites everyone.\" Xiao Wang replies, \"That's right, this is an inspiration for all of us.\" The manager says with emotion, \"Thank you for your support, unity is strength, let us create more miracles together.\"\n\n[Question]\nIf there is, which sentence is inappropriate?\n\n[Candidate Answers]\nA. Thank you for everyone's support, unity is strength, let us create more miracles together.\nB. Seeing our team's efforts get rewards really excites everyone.\nC. Yes, this motivates all of us.\nD. No one says what they should not say.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

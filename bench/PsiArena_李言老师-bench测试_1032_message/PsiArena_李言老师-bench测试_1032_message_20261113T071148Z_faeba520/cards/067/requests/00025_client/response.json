@@ -1,0 +1,41 @@
+{
+  "id": "1bf5efaef97e469788fb94c75ece08d0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……就从医生那趟说起吧。我想先把要说的写在纸上，下次带来一起看看行不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我下次想从哪儿说起，还特意提到医生那趟。我心里其实一直在打鼓，医生那件事最让我发怵，但也是现在最该去面对的。我不想再像以前那样拖着，越拖越慌。）\n（而且今天聊完确实松了一点，感觉有人愿意听我讲这些，不用马上解释清楚。那就先定个方向吧，下次就从医生那趟开始，把要准备的东西写下来，这样我心里也有个底。）",
+        "reasoning": "（她刚才问我下次想从哪儿说起，还特意提到医生那趟。我心里其实一直在打鼓，医生那件事最让我发怵，但也是现在最该去面对的。我不想再像以前那样拖着，越拖越慌。）\n（而且今天聊完确实松了一点，感觉有人愿意听我讲这些，不用马上解释清楚。那就先定个方向吧，下次就从医生那趟开始，把要准备的东西写下来，这样我心里也有个底。）"
+      }
+    }
+  ],
+  "created": 1794557022,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3225,
+    "total_tokens": 3351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

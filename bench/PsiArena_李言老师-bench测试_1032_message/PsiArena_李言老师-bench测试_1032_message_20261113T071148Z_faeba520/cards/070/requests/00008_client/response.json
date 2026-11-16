@@ -1,0 +1,41 @@
+{
+  "id": "9b7d182de1d749a9b67a5f56d95eed67",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能会……觉得自己会变得不够好，别人就会发现我其实没那么行。说起来有点好笑，我小时候家里也总说“你可以做得更好”，听着像鼓励，但后来好像就变成了不能停。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问如果“别搞砸了”的声音变小会担心什么，这让我一下子想到小时候。那时候妈妈总是说“你可以做得更好”，听起来是鼓励，但总让我觉得现在还不够好。）\n（我好像一直活在这种感觉里，做得好是应该的，做不好就是我的问题。现在面对来访者的时候，那种声音又冒出来了，我害怕自己不够格，害怕辜负别人的信任。）",
+        "reasoning": "（咨询师问如果“别搞砸了”的声音变小会担心什么，这让我一下子想到小时候。那时候妈妈总是说“你可以做得更好”，听起来是鼓励，但总让我觉得现在还不够好。）\n（我好像一直活在这种感觉里，做得好是应该的，做不好就是我的问题。现在面对来访者的时候，那种声音又冒出来了，我害怕自己不够格，害怕辜负别人的信任。）"
+      }
+    }
+  ],
+  "created": 1794557111,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1649,
+    "total_tokens": 1781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

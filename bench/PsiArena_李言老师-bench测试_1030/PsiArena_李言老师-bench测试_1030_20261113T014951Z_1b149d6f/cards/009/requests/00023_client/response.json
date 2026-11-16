@@ -1,0 +1,41 @@
+{
+  "id": "26d95bb3438d4a3eb13ec30eb3e99ad9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是对方等着的那段时间吧……我会一直想她是不是在等我，是不是觉得我不靠谱。消息本身倒还好，就是那个“等”让我坐不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我最紧张哪一刻……其实不是消息弹出来那下，是弹出来之后对方一直等着、我却没回的那段空白。那种感觉像是我欠了人家什么。）\n（我好像能说清楚一点了，就是那种“被等着”的压力，比消息本身更压人。以前我从来没这么细想过，现在说出来，自己也更明白了一点。）",
+        "reasoning": "（她问的是我最紧张哪一刻……其实不是消息弹出来那下，是弹出来之后对方一直等着、我却没回的那段空白。那种感觉像是我欠了人家什么。）\n（我好像能说清楚一点了，就是那种“被等着”的压力，比消息本身更压人。以前我从来没这么细想过，现在说出来，自己也更明白了一点。）"
+      }
+    }
+  ],
+  "created": 1794535099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3439,
+    "total_tokens": 3555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

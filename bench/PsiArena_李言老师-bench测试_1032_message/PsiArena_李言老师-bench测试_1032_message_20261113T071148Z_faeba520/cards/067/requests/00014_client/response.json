@@ -1,0 +1,41 @@
+{
+  "id": "7d2801c1418e4b04aca74e4e3634f360",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪上来的时候吧……她胡言乱语，我完全不知道该怎么接。还有……我真的怕这事传到单位去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问哪件事最让我撑不住……其实每件都压得我喘不过气，但最怕的还是她情绪上来的时候。那种时候她整个人都变了，说的话我完全听不懂，我根本不知道该怎么接。）\n（而且这种事又不能跟别人说，同事要是知道了会怎么看我……家里的事从来都是关起门来自己扛，可我真的快扛不动了。）",
+        "reasoning": "（她问哪件事最让我撑不住……其实每件都压得我喘不过气，但最怕的还是她情绪上来的时候。那种时候她整个人都变了，说的话我完全听不懂，我根本不知道该怎么接。）\n（而且这种事又不能跟别人说，同事要是知道了会怎么看我……家里的事从来都是关起门来自己扛，可我真的快扛不动了。）"
+      }
+    }
+  ],
+  "created": 1794556985,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2166,
+    "total_tokens": 2275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

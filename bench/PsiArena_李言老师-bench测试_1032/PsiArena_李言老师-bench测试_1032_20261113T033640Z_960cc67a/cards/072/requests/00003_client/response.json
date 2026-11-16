@@ -1,0 +1,41 @@
+{
+  "id": "3bf837b325c549afa8d66cbd953d6398",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）卧室那个角落吧……堆了好多空罐子和笔记本。其实我也知道该扔，可每次拿起来又觉得，万一以后用得上呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我家里最烦的地方，这让我有点紧张。她好像很温和，但我还不确定能不能完全信任她。提到卧室角落和那些空罐子、笔记本，心里就发紧，好像被看穿了一样。）\n（我不想说得太深，毕竟才刚开始。但那些东西……说扔又舍不得，总觉得以后会用上。这种矛盾的感觉让我很烦躁，可能稍微提一下就行，不用全盘托出。）",
+        "reasoning": "（咨询师问我家里最烦的地方，这让我有点紧张。她好像很温和，但我还不确定能不能完全信任她。提到卧室角落和那些空罐子、笔记本，心里就发紧，好像被看穿了一样。）\n（我不想说得太深，毕竟才刚开始。但那些东西……说扔又舍不得，总觉得以后会用上。这种矛盾的感觉让我很烦躁，可能稍微提一下就行，不用全盘托出。）"
+      }
+    }
+  ],
+  "created": 1794544905,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1072,
+    "total_tokens": 1200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

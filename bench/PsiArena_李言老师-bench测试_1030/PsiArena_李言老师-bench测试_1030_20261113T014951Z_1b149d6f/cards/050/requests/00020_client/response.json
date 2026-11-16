@@ -1,0 +1,41 @@
+{
+  "id": "2e26647ff1f748bcb4c86c29a01fa5fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "以前工地上有几个工友，散了之后也没怎么联系了……不过好像有一个在物流园那边干过。（犹豫）我这人平时也不爱找人，突然去问，怪别扭的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我身边有没有干过搬货送货的人。我想了想，工地那会儿认识几个工友，有的散工去了物流园。可我这人平时也没跟人走动，真去开口问，总觉得拉不下脸。）\n（不过他说得对，光坐着想也没用。先问问工友，总比在家干耗着强。要是能有个活干，心里也能踏实一点。）",
+        "reasoning": "（他问我身边有没有干过搬货送货的人。我想了想，工地那会儿认识几个工友，有的散工去了物流园。可我这人平时也没跟人走动，真去开口问，总觉得拉不下脸。）\n（不过他说得对，光坐着想也没用。先问问工友，总比在家干耗着强。要是能有个活干，心里也能踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794537030,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3067,
+    "total_tokens": 3196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

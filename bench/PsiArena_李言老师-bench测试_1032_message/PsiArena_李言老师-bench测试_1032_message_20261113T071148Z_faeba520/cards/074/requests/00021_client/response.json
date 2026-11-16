@@ -1,0 +1,41 @@
+{
+  "id": "cb625909bced49f086e86341a50d9da5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "午休的时候吧，大家各吃各的，没人找我。不过也就那一会儿，下午一忙起来又没了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我公司里有没有像自己的时刻，我脑子里先冒出来的是午休。那时候大家各忙各的，没人来推活儿，我好像能喘口气。但想到下午，又觉得这种空隙太短了，短到刚松一点就没了。我是不是可以试着把这种感觉说出来，虽然有点乱。）\n（其实我有点犹豫，说午休会不会显得我要求太低。但刚才聊到“不用回话”的时候，我确实想到那段时间。只是每次快结束就开始担心，担心又有什么任务等着我。这种担心好像比工作本身还累。）",
+        "reasoning": "（咨询师在问我公司里有没有像自己的时刻，我脑子里先冒出来的是午休。那时候大家各忙各的，没人来推活儿，我好像能喘口气。但想到下午，又觉得这种空隙太短了，短到刚松一点就没了。我是不是可以试着把这种感觉说出来，虽然有点乱。）\n（其实我有点犹豫，说午休会不会显得我要求太低。但刚才聊到“不用回话”的时候，我确实想到那段时间。只是每次快结束就开始担心，担心又有什么任务等着我。这种担心好像比工作本身还累。）"
+      }
+    }
+  ],
+  "created": 1794557398,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2932,
+    "total_tokens": 3086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ee7dfb5e44714ce09550077f154b4a02",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）上个月吧，一个同事主动帮我分担了任务，我当时第一反应是……她是不是想让我欠她人情。后来想想，人家可能真的只是好心。我这样是不是挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起最近一次怀疑别人好意的事，这让我马上想到了小周。她对我好的时候，我第一反应就是她是不是有什么目的。这种想法确实很累，但好像已经成了习惯，不这么想反而会不安。）\n（我其实也希望能像别人那样自然地接受善意，可每次都会忍不住分析对方的动机。说出来有点难为情，但咨询师好像没有评判我的意思，也许可以再坦白一点。）",
+        "reasoning": "（咨询师问起最近一次怀疑别人好意的事，这让我马上想到了小周。她对我好的时候，我第一反应就是她是不是有什么目的。这种想法确实很累，但好像已经成了习惯，不这么想反而会不安。）\n（我其实也希望能像别人那样自然地接受善意，可每次都会忍不住分析对方的动机。说出来有点难为情，但咨询师好像没有评判我的意思，也许可以再坦白一点。）"
+      }
+    }
+  ],
+  "created": 1794558228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2385,
+    "total_tokens": 2524,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

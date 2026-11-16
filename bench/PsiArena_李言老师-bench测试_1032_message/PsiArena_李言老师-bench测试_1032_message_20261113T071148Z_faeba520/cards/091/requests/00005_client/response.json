@@ -1,0 +1,41 @@
+{
+  "id": "ac31a45e14024fd1a47a740ee6985fba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……会一直回放白天说过的话，哪句是不是说错了。想着想着又觉得自己想太多，很没意思。（停顿了一下）对了，我能不能……以后有需要的时候直接联系你？比如加个微信什么的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我一个人在家想什么……其实脑子很乱，一会儿想着白天说错的话，一会儿又觉得自己想太多。但我不想一下子说那么深。）\n（还有，我有点想试试他——如果我问他要联系方式，他会不会答应？这算不算越界？我想知道这个人靠不靠谱。）",
+        "reasoning": "（他问我一个人在家想什么……其实脑子很乱，一会儿想着白天说错的话，一会儿又觉得自己想太多。但我不想一下子说那么深。）\n（还有，我有点想试试他——如果我问他要联系方式，他会不会答应？这算不算越界？我想知道这个人靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1794558192,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1377,
+    "total_tokens": 1492,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

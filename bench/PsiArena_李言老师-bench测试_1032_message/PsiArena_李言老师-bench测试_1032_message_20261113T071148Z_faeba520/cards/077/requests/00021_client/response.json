@@ -1,0 +1,41 @@
+{
+  "id": "c57464d2ff6845ea953ac1afd2573ccd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候分得清，有时候……好像已经混在一起了。我骂自己的时候，用的就是他的口气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这个声音到底是谁的，我心里其实一直分不清。有时候觉得那明明就是我自己在骂自己，可又好像是我爸在背后盯着。这种混乱让我有点烦躁，又觉得说出来也没用。）\n（但既然已经聊到这儿了，我试着把那种感觉描述出来吧。也许说出口能让我稍微看清一点，哪怕还是分不太清。）",
+        "reasoning": "（咨询师问到这个声音到底是谁的，我心里其实一直分不清。有时候觉得那明明就是我自己在骂自己，可又好像是我爸在背后盯着。这种混乱让我有点烦躁，又觉得说出来也没用。）\n（但既然已经聊到这儿了，我试着把那种感觉描述出来吧。也许说出口能让我稍微看清一点，哪怕还是分不太清。）"
+      }
+    }
+  ],
+  "created": 1794559429,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2915,
+    "total_tokens": 3020,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

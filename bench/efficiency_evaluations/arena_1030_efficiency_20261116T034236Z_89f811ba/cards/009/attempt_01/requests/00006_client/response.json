@@ -1,0 +1,47 @@
+{
+  "id": "e6d7678cc4dc488480d673e7c60be600",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "平时……好像也常这样。我总怕自己哪里做得不好，让别人失望。说不太清楚，反正就是习惯了先怪自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没有直接回答我是不是太冷漠，而是问我这种念头是不是平时就有。这让我有点意外，也有点被看穿的感觉。我确实经常这样，但平时不会去想它。）\n（而且她刚才提到自己也会被情绪影响，让我稍微放松了一点。也许可以说一点点，不用说得太清楚。先承认平时也会这样，但别展开太多。）",
+        "reasoning": "（她好像没有直接回答我是不是太冷漠，而是问我这种念头是不是平时就有。这让我有点意外，也有点被看穿的感觉。我确实经常这样，但平时不会去想它。）\n（而且她刚才提到自己也会被情绪影响，让我稍微放松了一点。也许可以说一点点，不用说得太清楚。先承认平时也会这样，但别展开太多。）"
+      }
+    }
+  ],
+  "created": 1794800826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1393,
+    "total_tokens": 1502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

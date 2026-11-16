@@ -1,0 +1,41 @@
+{
+  "id": "b38a339231b04c358f169dcc3c0b20e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……我说的话你会保密吗？我在医院工作，有些事不太想让别人知道。其实我也说不太清楚，就是最近总觉得很累，做什么都没劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询方式，听起来比较自由，但我还是有点不放心。她问我最想聊什么，可我自己都说不清楚。也许先问问保密的事情比较重要，毕竟我在医院工作，有些话不能随便说出去。）\n（而且我确实不知道从哪说起，最近整个人都很乱。这样模糊地回答应该可以吧，既试探了她的态度，又不用马上深入。希望她不会觉得我在敷衍。）",
+        "reasoning": "（咨询师解释了咨询方式，听起来比较自由，但我还是有点不放心。她问我最想聊什么，可我自己都说不清楚。也许先问问保密的事情比较重要，毕竟我在医院工作，有些话不能随便说出去。）\n（而且我确实不知道从哪说起，最近整个人都很乱。这样模糊地回答应该可以吧，既试探了她的态度，又不用马上深入。希望她不会觉得我在敷衍。）"
+      }
+    }
+  ],
+  "created": 1794545136,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 970,
+    "total_tokens": 1095,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

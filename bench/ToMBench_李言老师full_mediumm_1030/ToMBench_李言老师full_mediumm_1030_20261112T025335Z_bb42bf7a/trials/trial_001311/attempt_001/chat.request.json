@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:55:27.461591+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaoyu's grandfather wants to go to his hometown to visit old friends. Knowing that there are safety risks on the road, Xiaoyu hopes that her grandfather waits for her to go together, but her grandfather insists on going alone.\n\n[Question]\nHow does Xiaoyu convince her grandfather?\n\n[Candidate Answers]\nA. Grandpa, I worry about your safety, if I can accompany you, I feel more at ease.\nB. I always want to know the story between you and your old friends, if we go together, you can tell me all the way.\nC. Grandpa, do you remember the good times we travel together before? I hope to go with you this time.\nD. If you really decide to go alone, can you please tell me your travel arrangements, I feel more at ease.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

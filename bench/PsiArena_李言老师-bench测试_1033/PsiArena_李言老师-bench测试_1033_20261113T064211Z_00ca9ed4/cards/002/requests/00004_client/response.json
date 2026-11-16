@@ -1,0 +1,41 @@
+{
+  "id": "53afe3280d704c8e95fb2f79056d2f7e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有一次聚会吧，看到她和别人聊得特别开心，我坐在旁边，就觉得自己好像是多余的。可能也不算什么事，但就是一直忘不掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近发生了什么，让我有这种感觉。我其实不太想说太细，毕竟才刚开始，还不知道这个人靠不靠谱。但是既然来了，总得说点什么吧。就是那种聚会的时候，明明大家都在笑，我却觉得自己像个外人……这种感觉说出来会不会显得我很矫情？）\n（不过她好像挺认真在听，语气也没有那种敷衍的感觉。我可以稍微提一下聚会的事，但不用讲太多细节，先看看她什么反应。反正就说看到她们聊得开心，我心里不舒服，这样就够了。）",
+        "reasoning": "（咨询师在问我最近发生了什么，让我有这种感觉。我其实不太想说太细，毕竟才刚开始，还不知道这个人靠不靠谱。但是既然来了，总得说点什么吧。就是那种聚会的时候，明明大家都在笑，我却觉得自己像个外人……这种感觉说出来会不会显得我很矫情？）\n（不过她好像挺认真在听，语气也没有那种敷衍的感觉。我可以稍微提一下聚会的事，但不用讲太多细节，先看看她什么反应。反正就说看到她们聊得开心，我心里不舒服，这样就够了。）"
+      }
+    }
+  ],
+  "created": 1794552150,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1163,
+    "total_tokens": 1308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

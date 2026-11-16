@@ -1,0 +1,41 @@
+{
+  "id": "1d368292506e4d33907c4d2bbbcb971d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开口前吧。憋着的时候最难受，脑子里演练一百遍。真说出口……可能反而没那么可怕了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最难的是开口前还是说出口之后……这问题挺具体的。我想了想，确实是开口前最难，那种憋着的感觉，脑子里反复演练，越想越怕。真说出口之后反而没那么可怕了，至少不用再一个人扛着。）\n（不过我又想到，说完之后他们接什么话也挺关键的。要是他们一上来就反驳，我可能又缩回去了。所以这个难，可能两头都有点，但开口前那种压着的感觉更磨人。）",
+        "reasoning": "（咨询师在问我最难的是开口前还是说出口之后……这问题挺具体的。我想了想，确实是开口前最难，那种憋着的感觉，脑子里反复演练，越想越怕。真说出口之后反而没那么可怕了，至少不用再一个人扛着。）\n（不过我又想到，说完之后他们接什么话也挺关键的。要是他们一上来就反驳，我可能又缩回去了。所以这个难，可能两头都有点，但开口前那种压着的感觉更磨人。）"
+      }
+    }
+  ],
+  "created": 1794558281,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2410,
+    "total_tokens": 2541,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

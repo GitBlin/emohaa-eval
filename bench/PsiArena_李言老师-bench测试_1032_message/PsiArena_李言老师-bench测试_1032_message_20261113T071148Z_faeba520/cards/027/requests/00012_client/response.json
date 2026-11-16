@@ -1,0 +1,41 @@
+{
+  "id": "9c8999a4663641a586eaa831eebe927a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是我奶奶吧。家里聚会的时候，她老爱比较谁家孩子有出息，我妈就在旁边附和。那种气氛，你说不上谁对谁错，但就是让人喘不过气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起“输”这个说法的来源，让我一下子想到小时候那些场景。奶奶总在饭桌上比较谁家孩子有出息，我妈就在旁边点头。我那时候就明白了，示弱是会被看轻的。）\n（可要具体说清楚是谁让我感受到的，又觉得很难讲。好像不是某一件具体的事，而是整个家里都弥漫着这种气氛。说出来会不会显得我太计较了？但咨询师问得这么细，也许她真的想弄明白。）",
+        "reasoning": "（她问起“输”这个说法的来源，让我一下子想到小时候那些场景。奶奶总在饭桌上比较谁家孩子有出息，我妈就在旁边点头。我那时候就明白了，示弱是会被看轻的。）\n（可要具体说清楚是谁让我感受到的，又觉得很难讲。好像不是某一件具体的事，而是整个家里都弥漫着这种气氛。说出来会不会显得我太计较了？但咨询师问得这么细，也许她真的想弄明白。）"
+      }
+    }
+  ],
+  "created": 1794555086,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 2003,
+    "total_tokens": 2152,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

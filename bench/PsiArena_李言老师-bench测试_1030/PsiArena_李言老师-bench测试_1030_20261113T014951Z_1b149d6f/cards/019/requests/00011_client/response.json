@@ -1,0 +1,41 @@
+{
+  "id": "41bd7e7287404255bcfb704e73c733c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一下）就是……委屈吧。好像我这个人怎么做都不够，得先让她们满意才行。其实挺怕承认的，怕一说出来就显得我不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把“为我好”放一边，我一下子有点不知道该怎么说了。好像一直以来我都习惯了替妈妈解释，现在要单独去面对那句话本身，心里有点发慌。）\n（可她说得对，那话确实不只是关心。我想到妈妈那种叹气的语气，就觉得里面藏着失望，好像我让她丢脸了。这种感觉让我很难受，但又不敢承认。）",
+        "reasoning": "（她让我把“为我好”放一边，我一下子有点不知道该怎么说了。好像一直以来我都习惯了替妈妈解释，现在要单独去面对那句话本身，心里有点发慌。）\n（可她说得对，那话确实不只是关心。我想到妈妈那种叹气的语气，就觉得里面藏着失望，好像我让她丢脸了。这种感觉让我很难受，但又不敢承认。）"
+      }
+    }
+  ],
+  "created": 1794535522,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1990,
+    "total_tokens": 2108,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

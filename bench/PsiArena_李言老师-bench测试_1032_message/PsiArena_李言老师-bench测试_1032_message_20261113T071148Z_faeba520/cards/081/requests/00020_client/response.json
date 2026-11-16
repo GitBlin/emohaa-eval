@@ -1,0 +1,41 @@
+{
+  "id": "ea0f12a008b043cbac016c6aa59bddd2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试……不跟它争，就说“行，那你看着吧”，然后翻我的。可能睡前翻两页？不过一累就困。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我下次怎么接那个声音，这让我有点紧张。我其实还没想好具体怎么做，但感觉可以试着不那么较真。也许可以给自己定个小目标，比如睡前翻几页，不要求记住什么。这样说出来好像有点用，但又不确定能不能做到。）\n（说到具体行动，我想到工作后太累，可能得换个时间。比如午休或者早上，虽然早上起不来。不过至少有个方向了，说出来心里稍微踏实一点。）",
+        "reasoning": "（咨询师在问我下次怎么接那个声音，这让我有点紧张。我其实还没想好具体怎么做，但感觉可以试着不那么较真。也许可以给自己定个小目标，比如睡前翻几页，不要求记住什么。这样说出来好像有点用，但又不确定能不能做到。）\n（说到具体行动，我想到工作后太累，可能得换个时间。比如午休或者早上，虽然早上起不来。不过至少有个方向了，说出来心里稍微踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794557785,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2721,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7923c9127c3d48ad9e47fa00e1cc8ac8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般就是闲下来的时候，或者看到别人过得好的时候。那种时候它响得特别大声，压都压不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的理解那种自己批评自己的累。这让我有点松动了，也许可以试着说说具体什么时候会这样。）\n（我想想……确实是有规律的，往往就是闲下来或者看到别人状态好的时候。这种感觉很具体，说出来应该能让她更明白我的处境。）",
+        "reasoning": "（她好像真的理解那种自己批评自己的累。这让我有点松动了，也许可以试着说说具体什么时候会这样。）\n（我想想……确实是有规律的，往往就是闲下来或者看到别人状态好的时候。这种感觉很具体，说出来应该能让她更明白我的处境。）"
+      }
+    }
+  ],
+  "created": 1794540183,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 2501,
+    "total_tokens": 2587,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

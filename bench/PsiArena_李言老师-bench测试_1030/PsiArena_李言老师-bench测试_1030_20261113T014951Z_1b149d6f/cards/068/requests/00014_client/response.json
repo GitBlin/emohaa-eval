@@ -1,0 +1,41 @@
+{
+  "id": "004392c4c15e41a497ba67190690d4d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "光是想想就觉得喉咙发紧。（苦笑）我怕她追问，然后我又得解释半天，最后还是我安慰她收场。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试着跟妈妈说那句话，我光是想一想就觉得喉咙发紧。妈妈一担心就会追问，我怕自己反而更累，也怕她失望。）\n（可我又不想一直这样下去，连难受都得藏着。也许可以先不急着说，先想清楚我到底在怕什么，这样至少不是完全被堵住。）",
+        "reasoning": "（她让我试着跟妈妈说那句话，我光是想一想就觉得喉咙发紧。妈妈一担心就会追问，我怕自己反而更累，也怕她失望。）\n（可我又不想一直这样下去，连难受都得藏着。也许可以先不急着说，先想清楚我到底在怕什么，这样至少不是完全被堵住。）"
+      }
+    }
+  ],
+  "created": 1794538042,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2451,
+    "total_tokens": 2549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

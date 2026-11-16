@@ -1,0 +1,41 @@
+{
+  "id": "63a984299beb426f824257190c7326de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小提醒……（想了想）我口袋里放颗小扣子吧，停的时候捏一下，就当提醒自己。这件事不用跟谁解释，我自己知道就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我能不能找个只有自己知道的小提醒，这个提议让我觉得具体又踏实。盛饭时停一下，这个动作本身就能帮我缓一缓，可手里要是有点什么，好像更容易定住。）\n（我想起口袋里那颗旧纽扣，捏着它心里会有点着落。不用让婆婆知道，也不用解释，就当是给自己留个小小的记号。）",
+        "reasoning": "（她问我能不能找个只有自己知道的小提醒，这个提议让我觉得具体又踏实。盛饭时停一下，这个动作本身就能帮我缓一缓，可手里要是有点什么，好像更容易定住。）\n（我想起口袋里那颗旧纽扣，捏着它心里会有点着落。不用让婆婆知道，也不用解释，就当是给自己留个小小的记号。）"
+      }
+    }
+  ],
+  "created": 1794535920,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3527,
+    "total_tokens": 3642,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

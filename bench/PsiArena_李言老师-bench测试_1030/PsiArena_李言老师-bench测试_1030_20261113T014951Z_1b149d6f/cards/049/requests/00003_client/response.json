@@ -1,0 +1,41 @@
+{
+  "id": "be7f88eb178f449784decd4832b813a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）其实……我有点担心，说了你也会像我爸妈那样，跟我讲一堆道理，让我\"理性看待\"。我不太想要那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我从最近一次出错说起，还问我那一刻心里在想什么。可我真的不太想这么快就谈具体的事，感觉像是在被推着走。而且我对他还不太了解，不知道他会不会真的理解我，还是只会用那些标准的话来应付我。）\n（也许我可以稍微试探一下，看看他是不是那种只会按流程走的人。毕竟我父母就是那样，讲道理一套一套的，可从来不管我心里什么感受。如果他也是那样，那我说再多也没用。）",
+        "reasoning": "（咨询师想让我从最近一次出错说起，还问我那一刻心里在想什么。可我真的不太想这么快就谈具体的事，感觉像是在被推着走。而且我对他还不太了解，不知道他会不会真的理解我，还是只会用那些标准的话来应付我。）\n（也许我可以稍微试探一下，看看他是不是那种只会按流程走的人。毕竟我父母就是那样，讲道理一套一套的，可从来不管我心里什么感受。如果他也是那样，那我说再多也没用。）"
+      }
+    }
+  ],
+  "created": 1794536947,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1091,
+    "total_tokens": 1230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:16.575289+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nRecently, Xiaohua comes back from abroad and attends a banquet. At the table, the host brings a lot of Maotai liquor. Not long after the start, Xiaohua's friend, the experienced wine taster Xiaozhang, takes a sip of the Maotai on the table and says, \"Maotai is different, it tastes good.\", then finds an excuse to switch to red wine.\n\n[Question]\nWhat does Xiaozhang really mean when he says this?\n\n[Candidate Answers]\nA. Xiaozhang thinks the variety of wines at this banquet should be more diverse\nB. Xiaozhang thinks the quality of Maotai is better than red wine\nC. Xiaozhang likes to drink red wine, not Maotai\nD. Xiaozhang hints that the host's Maotai may not be real",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

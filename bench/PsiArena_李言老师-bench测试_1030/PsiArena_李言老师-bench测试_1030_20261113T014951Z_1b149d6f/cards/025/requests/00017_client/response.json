@@ -1,0 +1,41 @@
+{
+  "id": "6ff139aad8e44727b5a4abfe24f26d27",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小事……比如我下班回家，不立刻冲过去接手孩子，先坐下来喝口水？可我又怕婆婆觉得我一回来就偷懒。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我从小事开始试，这让我想到每天最紧绷的时刻——下班回家那会儿。其实我心里清楚，一进门就急着接手孩子，更多是怕别人觉得我不够上心。但真要开口说“让我先歇十分钟”，又觉得这话卡在喉咙里。）\n（也许可以试试从这件事开始松一松，但得想好怎么说才不会显得像在推卸责任。毕竟婆婆帮忙带孩子已经很辛苦了，我要是直接说累，会不会让她觉得我不领情？）",
+        "reasoning": "（咨询师让我从小事开始试，这让我想到每天最紧绷的时刻——下班回家那会儿。其实我心里清楚，一进门就急着接手孩子，更多是怕别人觉得我不够上心。但真要开口说“让我先歇十分钟”，又觉得这话卡在喉咙里。）\n（也许可以试试从这件事开始松一松，但得想好怎么说才不会显得像在推卸责任。毕竟婆婆帮忙带孩子已经很辛苦了，我要是直接说累，会不会让她觉得我不领情？）"
+      }
+    }
+  ],
+  "created": 1794535895,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2766,
+    "total_tokens": 2904,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

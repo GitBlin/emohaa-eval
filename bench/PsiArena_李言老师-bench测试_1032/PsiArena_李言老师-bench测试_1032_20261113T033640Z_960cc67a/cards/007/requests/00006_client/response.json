@@ -1,0 +1,41 @@
+{
+  "id": "8c1fdf9dadd141679bc9f54b2a10ebdc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……比如晚上想早点睡，第二天有课的时候。宿舍里他们还在打游戏，声音挺大的，我躺床上就一直想着明天的课，越急越睡不着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我学习压力什么时候冒出来，这让我有点犹豫。其实我本来想说说宿舍的事，但既然她问了，我就顺着说吧。不过我还是不太确定该说多少，毕竟才刚开始聊。）\n（我想提一下晚上睡不着的时候，但又觉得这好像跟学习压力没什么直接关系。而且我有点担心说太多会被觉得矫情，或者被当成在抱怨。不过她刚才说不会矫情，也许可以稍微说一点？）",
+        "reasoning": "（心理咨询师问我学习压力什么时候冒出来，这让我有点犹豫。其实我本来想说说宿舍的事，但既然她问了，我就顺着说吧。不过我还是不太确定该说多少，毕竟才刚开始聊。）\n（我想提一下晚上睡不着的时候，但又觉得这好像跟学习压力没什么直接关系。而且我有点担心说太多会被觉得矫情，或者被当成在抱怨。不过她刚才说不会矫情，也许可以稍微说一点？）"
+      }
+    }
+  ],
+  "created": 1794548131,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1368,
+    "total_tokens": 1503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

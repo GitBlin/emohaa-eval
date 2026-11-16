@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:12.671629+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hong's mother is a very enlightened mother, Xiao Hong is a child with dreams and goals. Xiao Hong wins first place in the school's long-distance running competition, her mother Zhang Juan learns this news.\n\n[Question]\nZhang Juan should be proud of Xiao Hong, but why does she look a little sad?\n\n[Candidate Answers]\nA. Zhang Juan thinks of her deceased husband who is the champion of the school, so she feels sad.\nB. Zhang Juan does not like the school's teachers, so she feels dissatisfied with this competition.\nC. Zhang Juan wants Xiao Hong to give up sports and focus on artistic creation, Xiao Hong's rebellion makes her feel sad.\nD. Because Zhang Juan is the runner-up in the school, so she envies Xiao Hong for winning the championship. The sadness is her jealousy.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

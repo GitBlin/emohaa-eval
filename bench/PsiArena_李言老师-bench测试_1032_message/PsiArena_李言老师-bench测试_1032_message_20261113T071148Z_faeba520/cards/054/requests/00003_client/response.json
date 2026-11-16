@@ -1,0 +1,41 @@
+{
+  "id": "107cf5ad2abf41e693b6fb9ed45e5772",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……我也分不清。有时候早上起来就觉得没劲，可又说不上来哪儿不舒服。可能是我自己想太多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体是身体累还是心里烦……其实我自己也分不太清。说累吧，睡一觉也不见好；说烦吧，又好像不只是烦。这种问题让我有点不知道该怎么回答，好像怎么说都不太对。）\n（而且我有点担心，如果我说得太严重，她会不会觉得我小题大做？毕竟带孩子累是正常的，别人也这么过来的。还是先含糊一点吧，别一下子说太多。）",
+        "reasoning": "（咨询师在问我具体是身体累还是心里烦……其实我自己也分不太清。说累吧，睡一觉也不见好；说烦吧，又好像不只是烦。这种问题让我有点不知道该怎么回答，好像怎么说都不太对。）\n（而且我有点担心，如果我说得太严重，她会不会觉得我小题大做？毕竟带孩子累是正常的，别人也这么过来的。还是先含糊一点吧，别一下子说太多。）"
+      }
+    }
+  ],
+  "created": 1794556213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1093,
+    "total_tokens": 1216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

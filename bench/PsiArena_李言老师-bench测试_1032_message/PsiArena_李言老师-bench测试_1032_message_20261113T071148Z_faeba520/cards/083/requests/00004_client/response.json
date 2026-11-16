@@ -1,0 +1,41 @@
+{
+  "id": "72a0de0d4b8342619f9d453544cd0842",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是累的时候，或者晚上一个人待着的时候吧。就是那种，说不上来的不舒服。我也讲不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师倒是没有急着说服我，还承认我可以怀疑，这点让我稍微放松了一点。不过她问起难受的情况，我确实说不太清楚，就是觉得累，睡不好，肠胃也不舒服。要不要告诉她我其实一直拖着没去医院呢……算了，先含糊地说说症状吧，看她怎么接。）\n（她会不会觉得我小题大做？或者反过来劝我去医院检查？我有点怕她这么说。还是先简单提一下症状，别说得太细，看看她的反应再说。）",
+        "reasoning": "（这个咨询师倒是没有急着说服我，还承认我可以怀疑，这点让我稍微放松了一点。不过她问起难受的情况，我确实说不太清楚，就是觉得累，睡不好，肠胃也不舒服。要不要告诉她我其实一直拖着没去医院呢……算了，先含糊地说说症状吧，看她怎么接。）\n（她会不会觉得我小题大做？或者反过来劝我去医院检查？我有点怕她这么说。还是先简单提一下症状，别说得太细，看看她的反应再说。）"
+      }
+    }
+  ],
+  "created": 1794557836,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1173,
+    "total_tokens": 1308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

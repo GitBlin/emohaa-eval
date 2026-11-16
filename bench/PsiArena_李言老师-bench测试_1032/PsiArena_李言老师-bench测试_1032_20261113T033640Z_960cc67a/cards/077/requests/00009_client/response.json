@@ -1,0 +1,41 @@
+{
+  "id": "e454a12aa76841f09150417970e8181c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最轻的小事……可能就是在护士站整理一下东西吧。可我又觉得，这样是不是太没用了，别人都在忙，我却只做这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“有用”这个词，让我心里一紧。从小到大，父母总说人要有价值，不能拖累别人。在医院里也是，大家都很忙，我请假已经让团队多担了，要是回去还只能做最轻的事，那算什么？）\n（可是她问得这么具体，好像真的在替我想办法。我是不是太苛刻了，连对自己都这样。想到那些小患者，心里又软了一下，但马上又觉得自己连这点事都做不好。）",
+        "reasoning": "（咨询师提到“有用”这个词，让我心里一紧。从小到大，父母总说人要有价值，不能拖累别人。在医院里也是，大家都很忙，我请假已经让团队多担了，要是回去还只能做最轻的事，那算什么？）\n（可是她问得这么具体，好像真的在替我想办法。我是不是太苛刻了，连对自己都这样。想到那些小患者，心里又软了一下，但马上又觉得自己连这点事都做不好。）"
+      }
+    }
+  ],
+  "created": 1794545169,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1617,
+    "total_tokens": 1757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "12a8fb7d66d64aa4a23d4a256eca2195",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它大概会说“你肯定没听懂，快问，不问就出错了”。特别急，好像不问就来不及了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我停下来的两秒里那个声音会说什么。这让我想到平时那种急着确认的冲动，好像不问就浑身不自在。我得如实说，那个声音很急，催着我去问，好像不问就会出大事。但我也知道，其实很多事问一遍就够了。）\n（而且我意识到，这个声音不光是催我，还带着一种威胁，让我害怕万一没听懂会显得很蠢。这种怕被看穿的感觉，比事情本身还让我紧张。我可能得把这个也说出来。）",
+        "reasoning": "（她问我停下来的两秒里那个声音会说什么。这让我想到平时那种急着确认的冲动，好像不问就浑身不自在。我得如实说，那个声音很急，催着我去问，好像不问就会出大事。但我也知道，其实很多事问一遍就够了。）\n（而且我意识到，这个声音不光是催我，还带着一种威胁，让我害怕万一没听懂会显得很蠢。这种怕被看穿的感觉，比事情本身还让我紧张。我可能得把这个也说出来。）"
+      }
+    }
+  ],
+  "created": 1794538843,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2909,
+    "total_tokens": 3046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

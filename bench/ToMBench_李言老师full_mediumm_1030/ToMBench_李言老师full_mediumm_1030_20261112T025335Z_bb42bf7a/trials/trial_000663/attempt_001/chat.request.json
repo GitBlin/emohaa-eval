@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:33.405478+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Yu is a girl who just starts junior high school. She really wants to participate in the summer camp activity organized by the school. This is a one-week outdoor adventure and team building activity. She looks forward to this activity, thinking it is a great opportunity to make new friends and experience new things. However, her father, Mr. Li, worries about this activity. As a cautious father, he worries about the safety of outdoor activities and how his daughter interacts with strangers. He knows this activity is significant for his daughter, but his anxiety and concern for his daughter's safety make him hesitate. Xiao Yu does not fully understand her father's concerns, she just harbors a longing for the summer camp.\n\n[Question]\nFacing Xiao Yu's desire to participate in the summer camp, what attitude does Mr. Li most likely take?\n\n[Candidate Answers]\nA. Although he worries, he eventually agrees to let Xiao Yu participate, while providing safety guidance\nB. He agrees to let Xiao Yu participate, requiring her to video call anytime, anywhere, to report the activity situation\nC. He hesitates, suggesting Xiao Yu waits until next year to consider participating\nD. He lets Xiao Yu decide whether to participate, to cultivate her independence",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

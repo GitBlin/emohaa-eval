@@ -1,0 +1,41 @@
+{
+  "id": "f916127707d748e29d90679b5087e6cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有。会说我矫情、想太多。不过今天说这些，好像那个声音小了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是那个心里的声音……确实有，而且一直都在。每次我想为自己说点什么，那个声音就冒出来，说我凭什么。）\n（但今天说出来之后，好像没那么重了。也许我可以先试着不去听那个声音，哪怕就一次。）",
+        "reasoning": "（她问的是那个心里的声音……确实有，而且一直都在。每次我想为自己说点什么，那个声音就冒出来，说我凭什么。）\n（但今天说出来之后，好像没那么重了。也许我可以先试着不去听那个声音，哪怕就一次。）"
+      }
+    }
+  ],
+  "created": 1794553499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2861,
+    "total_tokens": 2937,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

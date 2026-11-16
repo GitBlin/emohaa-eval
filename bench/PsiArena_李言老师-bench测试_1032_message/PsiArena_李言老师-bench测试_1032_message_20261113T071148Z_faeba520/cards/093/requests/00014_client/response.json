@@ -1,0 +1,41 @@
+{
+  "id": "6b2c3f4b889843aa992c79461d374084",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "画面……我妈脸色一下就变了，然后开始念叨，说我不懂事。我爸可能不说话，就那么看着我。反正最后都是我不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想象跟爸妈开口的画面，我脑子里马上就有那种熟悉的场景了。我妈肯定先是一脸失望，然后开始说谁谁家孩子怎么怎么样。那种感觉就像又回到了小时候，说什么都没用。）\n（其实我有点不想说下去，但刚才肩膀确实松了一点，好像说出来也没那么可怕。只是真的面对他们的时候，我大概还是会缩回去。）",
+        "reasoning": "（她让我想象跟爸妈开口的画面，我脑子里马上就有那种熟悉的场景了。我妈肯定先是一脸失望，然后开始说谁谁家孩子怎么怎么样。那种感觉就像又回到了小时候，说什么都没用。）\n（其实我有点不想说下去，但刚才肩膀确实松了一点，好像说出来也没那么可怕。只是真的面对他们的时候，我大概还是会缩回去。）"
+      }
+    }
+  ],
+  "created": 1794558266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2050,
+    "total_tokens": 2159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

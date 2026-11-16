@@ -1,0 +1,41 @@
+{
+  "id": "8c9b22d889454fc7b331015041fcaa70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说出口有点别扭……好像不检查就是不负责任。不过，也许可以小声试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话让我心里有点发酸。她好像真的理解我那个总在检查的脑子是在保护我，而不是在故意折磨我。这让我感觉被看见了一点。）\n（可“现在不用检查”这句话，对我来说太陌生了。我从小就被训练成要时刻检查自己有没有出错，现在突然要对自己说不用检查，心里反而会慌。但她说得对，也许我可以试着说出口，哪怕声音很小。）",
+        "reasoning": "（咨询师这句话让我心里有点发酸。她好像真的理解我那个总在检查的脑子是在保护我，而不是在故意折磨我。这让我感觉被看见了一点。）\n（可“现在不用检查”这句话，对我来说太陌生了。我从小就被训练成要时刻检查自己有没有出错，现在突然要对自己说不用检查，心里反而会慌。但她说得对，也许我可以试着说出口，哪怕声音很小。）"
+      }
+    }
+  ],
+  "created": 1794536837,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3583,
+    "total_tokens": 3696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

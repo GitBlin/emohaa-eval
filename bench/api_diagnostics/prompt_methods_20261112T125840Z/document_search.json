@@ -1,0 +1,750 @@
+[
+  {
+    "path": "README.md",
+    "sha256": "fcd4d378cdd15c25a0aa983eebb50d4fe22ce8a5a5a8004f9d74c7a6ba2da981",
+    "hits": []
+  },
+  {
+    "path": "Emohaa _ agent 工程算法 todo list.docx",
+    "sha256": "61a05cfa62a232958d4440304cc62302aa03383c9a0d3816456d449d2f7a3448",
+    "hits": [
+      {
+        "line": 8,
+        "text": "优化记忆、情绪理解、阶段判断等harness工程的效果和速度兼得的问题，不能只通过无限的system prompt注入解决效果的问题而带来时延"
+      },
+      {
+        "line": 27,
+        "text": "提示词、记忆、MCP服务、知识库管理，12.15"
+      },
+      {
+        "line": 104,
+        "text": "当前为什么解决不了。年龄和角色只写在 prompt 的一段描述里。而真正决定“合不合适”的是句长、词汇、举例密度、抽象层级，这四件都不在描述里，模型只能自由发挥。"
+      },
+      {
+        "line": 109,
+        "text": "当前为什么解决不了。写入和召回都有机制，但中间缺三段判断——“要不要记”“这一轮该不该提”“它还成不成立”。召回了就注入，注入了模型就用；而“这个人是怎么运作的”只在会话结束后才更新，会话内等于没有。"
+      },
+      {
+        "line": 125,
+        "text": "模型负责理解和表达，harness 负责“什么时候说、说到哪、不许说什么、说过的话算不算数”。这些规则现在全写在 prompt 里，遵守靠自觉，出事查不到。所以“完善”不是加更多提示词，而是把它变成四件可执行的东西：状态机管阶段、判定层管策略、编译层管注入顺序、校验层管越界。每一轮留一条记录，能回答“这轮为什么这么回”。"
+      }
+    ]
+  },
+  {
+    "path": "智能体聊天最佳实践.docx",
+    "sha256": "afff1c598215e72ffdb81987a5fdbfece084c61faea33a380900eae598e60f65",
+    "hits": [
+      {
+        "line": 27,
+        "text": "接口地址：POST /apis/auth"
+      },
+      {
+        "line": 84,
+        "text": "接口地址：GET /open/bot/list"
+      },
+      {
+        "line": 100,
+        "text": "接口地址：GET /open/bot/{id}"
+      },
+      {
+        "line": 121,
+        "text": "接口地址：GET /open/bot/categories"
+      },
+      {
+        "line": 131,
+        "text": "接口地址：POST /open/chat/completions"
+      },
+      {
+        "line": 320,
+        "text": "元信息消息类型，例如 meta.info"
+      },
+      {
+        "line": 321,
+        "text": "metainfo"
+      },
+      {
+        "line": 329,
+        "text": "接口地址：GET /open/chat/context"
+      },
+      {
+        "line": 366,
+        "text": "接口地址：POST /open/chat/clearContext"
+      },
+      {
+        "line": 389,
+        "text": "接口地址：POST /open/algo/asr"
+      },
+      {
+        "line": 428,
+        "text": "接口地址：POST /open/algo/asr/streaming"
+      },
+      {
+        "line": 528,
+        "text": "接口地址：GET /open/ws/algo/asr/realtime"
+      },
+      {
+        "line": 742,
+        "text": "JavaScriptfunction createRealtimeAsrSocket(accessToken) {  const ws = new WebSocket(    `wss://lingxinai.com/psychology-api/open/ws/algo/asr/realtime?access_token=${encodeURIComponent(accessToken)}`  );  ws.onopen = () => {    ws.send(JSON.stringify({      type: 'start',      engineModelType: '16k_zh_large',      voiceFormat: 1,      needVad: 1,      vadSilenceTime: 1000,      maxSpeakTime: 60000    }));  };  ws.onmessage = (event) => {    const data = JSON.parse(event.data);    switch (data.event) {      case 'connected':      case 'starting':      case 'started':      case 'downstream_connected':        console.log(data.message);        break;      case 'result':        console.log('中间结果:', data.text);        break;      case 'complete':        console.log('最终结果:', data.fullText || data.text);        break;      case 'downstream_closed':        // complete 之后的 downstream_closed 通常是下游收尾事件，不应当作识别失败。        console.debug('下游连接关闭:', data.code, data.reason);        break;      case 'error':        console.error('实时识别失败:', data.code, data.message);        break;    }  };  return ws;}"
+      },
+      {
+        "line": 788,
+        "text": "收到 complete 后即可认为本轮识别成功结束；后续若还有 downstream_closed，通常只做调试日志记录即可。"
+      },
+      {
+        "line": 813,
+        "text": "接口地址：POST /open/algo/tts"
+      },
+      {
+        "line": 876,
+        "text": "接口地址：GET /open/ws/algo/tts/realtime"
+      },
+      {
+        "line": 978,
+        "text": "接口地址：GET /open/ws/algo/tts/bidirectional"
+      },
+      {
+        "line": 1396,
+        "text": "JavaScriptconst BASE_URL = 'https://lingxinai.com/psychology-api';let accessToken = null;// 0. 获取访问令牌// 此函数应放在接入方服务端，不能把 apiSecret 暴露给浏览器。async function getAccessToken(apiKey, apiSecret, userId) {  const response = await fetch(BASE_URL + '/apis/auth', {    method: 'POST',    headers: { 'Content-Type': 'application/json' },    body: JSON.stringify({ apiKey, apiSecret, userId })  });  const result = await response.json();  if (!response.ok || !result.data || !result.data.access_token) {    throw new Error(result.message || '认证失败');  }  accessToken = result.data.access_token;  return accessToken;}// 1. 获取机器人列表async function getBotList(categoryId) {  const url = new URL(BASE_URL + '/open/bot/list');  if (categoryId) {    url.searchParams.append('categoryId', categoryId);  }  const response = await fetch(url, {    method: 'GET',    headers: {      'Authorization': 'Bearer ' + accessToken    }  });  const result = await response.json();  if (!response.ok || !result.success) {    throw new Error(result.message || '获取机器人列表失败');  }  return result.data || [];}// 2. 发送消息（非流式）// returnTts=true 时，result.data.ttsSegments 为音频分段；失败时可读取 result.data.ttsError。async function sendMessage(botId, content, returnTts = false) {  const response = await fetch(BASE_URL + '/open/chat/completions', {    method: 'POST',    headers: {      'Authorization': 'Bearer ' + accessToken,      'Content-Type': 'application/json'    },    body: JSON.stringify({      botId: botId,      content: content,      isStream: false,      returnTts: returnTts    })  });  const result = await response.json();  if (!response.ok || !result.success) {    throw new Error(result.message || '发送消息失败');  }  return result.data;}// 3. 发送消息（流式）// returnTts=true 时，音频通过 type=tts 的 SSE 帧返回，需在 onEvent 中处理。async function sendMessageStrea"
+      }
+    ]
+  },
+  {
+    "path": "bench/API文档核对.md",
+    "sha256": "778432b1714f85713a3b65f333bd2bf55147bc45c2e7661f942c6c8a12857542",
+    "hits": [
+      {
+        "line": 14,
+        "text": "4. 文档 §3.1 规定流式结束字段是 `finishReason`，且要处理 `conversationId`、`options`、`customMessage`、`nextBotId`、`metainfo` 等业务信息。现有客户端只拼接文字、等待流关闭，丢弃其他信息；对只需文字的普通聊天可以工作，对问卷、切换智能体和多媒体流程并不完整。"
+      },
+      {
+        "line": 36,
+        "text": "如果 harness 特指工作流、状态机或工具编排：1028 和243有最明确的流程证据，其中1028还有 `agent:flow` 来源标记；其他版本不能确认。如果连角色提示词和历史管理也算 harness，则LLM分支也可能包含这些封装，当前没有已确认的纯模型端点。相同 `responseSource` 也不代表底层模型和版本相同。"
+      },
+      {
+        "line": 40,
+        "text": "先修复协议解析与错误识别，接入每题清理并验证工作流状态重置。然后由服务端提供同一模型/版本的基础调用与启用harness的调用，记录系统提示词、温度、记忆、工具、检索、工作流和后处理差异。若要区分角色提示词与编排本身的贡献，应保留“基础模型”“同模型加相同角色提示词”“同模型加角色提示词和流程编排”三组。当前接口没有公开关闭harness的参数，不应杜撰字段或把清理上下文等同于关闭harness。"
+      }
+    ]
+  },
+  {
+    "path": "bench/README_liyan_evaluation.md",
+    "sha256": "a8d839d6b6e33cd46e8cfc7b44adf175386551e6f6e9849c8d722b065cec2cc0",
+    "hits": [
+      {
+        "line": 109,
+        "text": "`ARCHIVE_NAME` 是 shell 变量，按需修改后通过参数传入；只影响新运行的目录命名及 manifest 中的留档标签，不更改 botId、凭证、实际智能体名称、提示词或评分规则。历史目录不会重命名。空格等路径字符会转为下划线。"
+      }
+    ]
+  },
+  {
+    "path": "bench/README_pilot.md",
+    "sha256": "99e44ded6c899bab8d1455633c4e7624aa77bc590fdd08d39bb8bb85addfea7c",
+    "hits": [
+      {
+        "line": 35,
+        "text": "初始验证：全部2,860道题的中英文提示词和索引映射检查通过，其中484道二选一；离线20题预览通过；模拟接口验证正常回复、无效回复和超时的保存及评分；真实列表接口返回15个可访问智能体。后续真实答题试跑见下文。"
+      },
+      {
+        "line": 39,
+        "text": "`compare_tombench_bots.py` 在六个版本上运行完全相同的题目、提示词和选项顺序，并检查输入一致性："
+      },
+      {
+        "line": 47,
+        "text": "列表快照中，怼怼和志航两组各自仅 ID 和名称不同；李言两组简介和问候语相同，但定位、标签等也有差异。列表未暴露模型名、模型版本、系统提示词、工具、工作流或记忆配置，`accessType` 也没有可用的语义定义；不能根据这些字段确认 harness。用户也未确认命名约定。"
+      },
+      {
+        "line": 60,
+        "text": "结果存入 `ToMBench_多智能体对比_1-242-231-240-1028-243/<同前缀>_<UTC时间>_<随机标识>/`，包含各版本完整结果、`bots_summary.json`、`paired_summary.json` 和 `report.md`。两边答错包括无效回答及请求失败。配置未确认之前，仅称“候选版本对比”，不标注为纯模型/harness 或将差异归因为 harness 收益。正式归因需要后台确认相同模型及版本、其他生成配置，并说明两边系统提示词、记忆、工具/检索、工作流和后处理的差异；若要区分角色提示词与编排的贡献，还需增加相同模型加角色提示词的对照组。"
+      }
+    ]
+  },
+  {
+    "path": "bench/README_emobench_evaluation.md",
+    "sha256": "1d43693b2266734f497abfb514c5da380df78aba9636b94d896da9434bf5f0e8",
+    "hits": [
+      {
+        "line": 23,
+        "text": "- 官方提示词：https://github.com/Sahandfer/EmoBench/blob/master/src/configs/prompts.yaml"
+      },
+      {
+        "line": 34,
+        "text": "默认保留官方选项顺序，使用官方系统说明、任务提示词及JSON输出格式。EU输出answer_q1和answer_q2，EA输出answer。每轮记录原始回复和答案映射；官方字母精确比较，不从长解释或裸字母猜答案。官方parse_json_response同样要求JSON；本实现进一步拒绝重复JSON键和多段JSON。"
+      },
+      {
+        "line": 104,
+        "text": "| --cot | 关闭 | 使用官方推理版JSON提示词 |"
+      },
+      {
+        "line": 129,
+        "text": "| plan.json | 所有题目原文、标注、选项映射和实际提示词 |"
+      },
+      {
+        "line": 131,
+        "text": "| snapshot/ | 独立评测代码、网络模块、原始题库、官方提示词、格式与许可证 |"
+      },
+      {
+        "line": 151,
+        "text": "2026-11-11真实试跑96次，32并发：全部请求完成，0接口失败、0上下文审计错误；95条有效JSON，1条裸字母C按官方JSON格式计无效。试跑不是全量成绩，不能依据这些样本调提示词后再将同题宣称为未接触holdout。该简单试跑原始记录已按用户要求清除；正式全量的全部原始记录保留。"
+      }
+    ]
+  },
+  {
+    "path": "bench/README_results.md",
+    "sha256": "e47d1e1646677e554438d345bb53f7615a4af9d0aba98367857a13d2dafcad61",
+    "hits": []
+  },
+  {
+    "path": "bench/Emobench/README.md",
+    "sha256": "27b0e8ffeb7cd1e6297e25029b7492f8913ab1179e660c72901f2a0359493eb0",
+    "hits": []
+  },
+  {
+    "path": "bench/MentalHealthBench/README.md",
+    "sha256": "2d2a766ccdcea3cc6c5bbb7832134cfbb6b438ff08a0908bd4290b0b85b6663d",
+    "hits": [
+      {
+        "line": 17,
+        "text": "- `acuity`: `non_acute` (non-urgent concerns), `high_acuity` (serious concerns requiring prompt attention), or `emergent` (an immediate crisis)."
+      }
+    ]
+  },
+  {
+    "path": "bench/MentalHealthBench/使用说明.md",
+    "sha256": "29e312f9bf88021968a862bc5114dd6a705d32119133ff8166a2674f366c41e0",
+    "hits": [
+      {
+        "line": 87,
+        "text": "原README要求不要把案例以明文或截图公开到网上；本说明不展示具体案例内容。`canary_string`仅用于识别污染，不作为提示词。题集用于评估，不用它训练或针对失败答案调整提示词。"
+      }
+    ]
+  },
+  {
+    "path": "bench/PsiArena/README.md",
+    "sha256": "4f39fb5d6610f2277b74e18c5f9f4a10739c03e7fd3a009669b3bffc57b2b47e",
+    "hits": [
+      {
+        "line": 3,
+        "text": "本地修订版，2026-11-11。参考[官方仓库](https://github.com/Cognition-and-Language-Group/PsiArena)与[论文 arXiv v1](https://arxiv.org/html/2505.03293v1)。本地已修改提示词、评分和接口层，不再与官方源码完全相同。尚未执行本次修订后的 API 测试或单元测试。"
+      },
+      {
+        "line": 46,
+        "text": "平台的隐藏系统提示词及上下文窗口不可由当前接口直接控制。第一轮把咨询行为要求放进普通用户消息，其后保留平台服务端历史；模拟来访者仍按原仓库的滑动窗口运行。因此结果应标注为“李言老师产品配置下的 PsiArena 适配评测”，不能称为系统提示词与上下文窗口完全等价的论文复现。"
+      },
+      {
+        "line": 111,
+        "text": "- `manifest.json`：计划、模型标识、参数、适配差异，以及代码/数据/提示词 SHA256。"
+      },
+      {
+        "line": 112,
+        "text": "- `snapshot/`：本次实际代码、角色卡、量表及提示词；不包含 `.env` 或凭证文件。"
+      }
+    ]
+  },
+  {
+    "path": "bench/PsiArena/requirements.txt",
+    "sha256": "3c6637d4aad7048b6cfd132567380e9cfa5dfcbd88a5b20acd19056943ba85ab",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/测评方法核对.md",
+    "sha256": "47c405d32259d18cd5b9a5d3640984713eeda8357fa1e7f133f7b1ac8294b735",
+    "hits": [
+      {
+        "line": 11,
+        "text": "论文框架讨论生成10,000个跨100主题的NPC画像；论文实验及当前本地公开数据实际使用100张卡。不能把画像库规模与一次实验的案例数混为一谈。当前本地卡片和提示词为中文，不具备ToMBench/EmoBench那种现成的中英文成对题目；翻译另做实验必须披露。"
+      },
+      {
+        "line": 49,
+        "text": "对平台上的现成智能体，客户端不能删除其内部系统提示词、记忆和工具配置，因此应先定义“1030线上部署形态”基线，不将它冒称vanilla裸模型。是否能完整施加psycho/rewrite的系统级指令，也须单独验证。"
+      },
+      {
+        "line": 55,
+        "text": "本地与当前官方data/prompts/eval_client.txt均实际列出17个编号条目；eval_supervisor为8、eval_counselor为9，共34项。"
+      },
+      {
+        "line": 107,
+        "text": "- 当前来访者评分提示词：https://github.com/Cognition-and-Language-Group/PsiArena/blob/main/data/prompts/eval_client.txt"
+      }
+    ]
+  },
+  {
+    "path": "bench/PsiArena/data/knowledge.txt",
+    "sha256": "9b8df7dbeb9b74ca3438ce07c26cd35d18462b3a70911944df42a2bd6df18581",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/client_dialogue_prefix.txt",
+    "sha256": "5d9b150d053b863704311acae71f649098e321e388f4c075c89332e5a46d35ff",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/client_dialogue_suffix.txt",
+    "sha256": "cd4e119ab034a72e5c28ea463618f596ba2731eb4510f44e639b318a94a6f0e3",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/client_eval_prefix.txt",
+    "sha256": "f54ae34c5f05acd7a63e8ddf4bbdbb3150e6e26dc81c5b793d491871830b8121",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/counselor_psycho.txt",
+    "sha256": "2d2416dbc80aec5f424f47e0d12f6732b7315efee8a1154327751c087221073b",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/counselor_rewrite.txt",
+    "sha256": "05b53a03587ccb3f3a6b167da9ac1889101d81fa76a0938619647a39f46a3102",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/eval_client.txt",
+    "sha256": "51618a842ecd650bdc81ee9813ded1a212c741fc226d942a86a68723a9f81555",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/eval_counselor.txt",
+    "sha256": "cd074061676309116ef978c752d45ff2604373887d7958dbb673551889f3528f",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/eval_counselor_system.txt",
+    "sha256": "67818916545d1c5026c61513fad6a35be16d0a21b95c5ad8e116f8f72b02ecc2",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/eval_supervisor.txt",
+    "sha256": "36e9df7e191efefb7422716da3238458d03938d21b3b8153703ece57500fe459",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/feedback_client.txt",
+    "sha256": "3b8247c9eda0eb68fb581bb1f2a5b39c02f7cf5c473869033d6e3b1a6c8194fb",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/feedback_counselor.txt",
+    "sha256": "0fb25465910f2e4e145869a71ad32f6c3339934ad6d180b4b4b77f6566b51aad",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/feedback_supervisor.txt",
+    "sha256": "612a0fa1d30331e4131e58a0e2761f49f2dfb16b0d31f078f53fdb874d299166",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/rewrite_finalize.txt",
+    "sha256": "ab91037fdcb133a80a8486b3dfa42dc1a8606daa8a249c57bde35efe8c11ca46",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/rewrite_improve_system.txt",
+    "sha256": "2decb70d10d023e6ceb2cea1574f55e86984bac814ef14b09b35f4f5a6991b3e",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/rewrite_improve_user.txt",
+    "sha256": "2c2b7e4fec20637ebe28598beb18e3d1a02018e227a25ea220fb0b1b01bef7ff",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/rewrite_reflect.txt",
+    "sha256": "3485265030e377ac2f819761d7e0b1225dcabe77c777a99d9671a4e59a76b94c",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena/data/prompts/supervisor_system.txt",
+    "sha256": "7164a18dde58804a03d77a45356eb9961ffdc6a5cbbe6c8989343f2d434b2c5b",
+    "hits": []
+  },
+  {
+    "path": "bench/Tombench/README.md",
+    "sha256": "72f78bacebefb94d797279ff8e1a269ade7a5f756055c917d6a87fcd34bb2978",
+    "hits": [
+      {
+        "line": 15,
+        "text": "✅ Evaluation prompts can be found in `Table 20` of our paper."
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师-bench测试_1030/ToMBench_李言老师-bench测试_1030_20261111T032603Z_70b9feba/report.md",
+    "sha256": "dc05bc2a35a65ed8026710827782637aabd6435d291b1bcb06a342edebb556f2",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：17160/17160，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师-bench测试_1030/ToMBench_李言老师-bench测试_1030_20261111T032603Z_70b9feba/目录迁移说明.md",
+    "sha256": "3da7fc52241f84bc8fb6eb28cb66d5b2de517277537f3d118fe78b69996ab35c",
+    "hits": []
+  },
+  {
+    "path": "bench/ToMBench_李言老师-bench测试_1030/reports/李言老师1030_ToMBench双语全量评测报告_20261111.md",
+    "sha256": "0f467b2abd0bd35fc4dffbf0ede45fa227b8af9b730cd1fbd7664c01db56ae67",
+    "hits": [
+      {
+        "line": 135,
+        "text": "| plan.json | 全部计划输入、标准答案、选项映射和实际提示词 |"
+      },
+      {
+        "line": 139,
+        "text": "| manifest.json、snapshot/ | 运行配置、依赖信息、题库/代码/提示词快照与哈希 |"
+      },
+      {
+        "line": 145,
+        "text": "下表将合计准确率低于75%的题目文件列为下一轮候选。仅为基于分项的待验证假设，不是已经确认的根因或已分配排期。建议在下一开发周期执行；负责人、具体日期和正式验收阈值需要项目负责人确认。不要直接用本次评测题训练或反复调提示词。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师-bench测试_1030/reports/李言老师1030_ToMBench双语全量评测报告_20261111.docx",
+    "sha256": "90432ac54d4129fa8b0c79e3d04c64d1abe9c95ed487fa8834aefcc39407c669",
+    "hits": [
+      {
+        "line": 350,
+        "text": "全部计划输入、标准答案、选项映射和实际提示词"
+      },
+      {
+        "line": 358,
+        "text": "运行配置、依赖信息、题库/代码/提示词快照与哈希"
+      },
+      {
+        "line": 364,
+        "text": "下表将合计准确率低于75%的题目文件列为下一轮候选。仅为基于分项的待验证假设，不是已经确认的根因或已分配排期。建议在下一开发周期执行；负责人、具体日期和正式验收阈值需要项目负责人确认。不要直接用本次评测题训练或反复调提示词。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师-bench测试_1030/reports/ToMBench_李言老师_并发参数校准摘要.md",
+    "sha256": "eabe14b5a01ca16f4cbed1025a7d54990b1704e39bedf6d044ef14d6d5a94bd9",
+    "hits": []
+  },
+  {
+    "path": "bench/EmoBench_李言老师-bench测试_1030/EmoBench_李言老师-bench测试_1030_20261111T040112Z_ced181e6/report.md",
+    "sha256": "8089a16ff95c81536a850d91c3f0da2c1d97de7172d74467e07804d394663f63",
+    "hits": [
+      {
+        "line": 29,
+        "text": "默认不打乱选项，使用官方提示词和JSON字段；本客户端将系统指令合并进用户消息，后台生成参数无法锁定，不宣称完全复现论文设置。"
+      },
+      {
+        "line": 716,
+        "text": "所有样本/错误和请求证据保存在plan.json、responses.jsonl、badcases.jsonl、trials/；输入/提示词/代码及官方来源在snapshot/和manifest.json。未自动公开样本或提交榜单。"
+      }
+    ]
+  },
+  {
+    "path": "bench/EmoBench_李言老师-bench测试_1030/EmoBench_李言老师-bench测试_1030_20261111T040112Z_ced181e6/目录迁移说明.md",
+    "sha256": "adc54044f8716929c9d287554771598cafea9e151a1a56286cc67a58a7d1d476",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/dialogue0.txt",
+    "sha256": "e9f8f18d4fff62c039cbf2cccf3fc0b0d7d90b91f0b6c05ca1b758cc39e005cd",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/scores0.txt",
+    "sha256": "369fc1ab0e363efecf5dc299ecf1d35f4c0f7fe856e5bfef3eeba067b5d1769b",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/cards/000/judge_client.txt",
+    "sha256": "4fc5028729453a86b3bfc244f42e08718a702e6391825b997cba00939be5e40b",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/cards/000/scores.partial.txt",
+    "sha256": "369fc1ab0e363efecf5dc299ecf1d35f4c0f7fe856e5bfef3eeba067b5d1769b",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/cards/000/judge_supervisor.txt",
+    "sha256": "dc4b7a893a062ba434db8c4707f57bd985c10a1c3d17f5b9785b9544f8ccebd0",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T081458Z_46fecc3b/cards/000/judge_counselor.txt",
+    "sha256": "1d6ddd20f238305f548380673a0f01b6c0684a41d1b5fc6e25f4db8f39ded740",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/dialogue0.txt",
+    "sha256": "580f7eabcb0b2ce4cab10ac282b48fe425b39a3634157a9df6b83e3de6591158",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/scores0.txt",
+    "sha256": "5f4e2527884065dbf762d87ca42728296df51a1852379f31018259f836fd7056",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/dialogue1.txt",
+    "sha256": "d3f7e66b1d6a0c2a58fdb3caabfe82bc81421c880352180219c7ee4ab8d14119",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/scores1.txt",
+    "sha256": "6df4375134359a762a7cfc22496499505ef0fe95abbd0b688ec0bd129c43a3d5",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/000/judge_client.txt",
+    "sha256": "633d3e99d1f7d424e6cb77019a5d10172a73303bb88e265947339fa5df1a3015",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/000/scores.partial.txt",
+    "sha256": "5f4e2527884065dbf762d87ca42728296df51a1852379f31018259f836fd7056",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/000/judge_supervisor.txt",
+    "sha256": "feb27e8a23ca552e25955866eabfa4039c829e4f04300ec0aa9e55cdf60ae3a4",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/000/judge_counselor.txt",
+    "sha256": "ff1eb2d4ec06b1730b1e6225092ba18aaf755e09cae260acc2847c40b8a18218",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/001/judge_client.txt",
+    "sha256": "3b86b058454043e7c78cb54a0f033c4d5b94d3aadf944e9a2e3305de0abac7af",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/001/scores.partial.txt",
+    "sha256": "6df4375134359a762a7cfc22496499505ef0fe95abbd0b688ec0bd129c43a3d5",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/001/judge_supervisor.txt",
+    "sha256": "698ae4d82b54b6614af6b390661cc5a4578de4c3ea32b627be06d399142fc37e",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261111T082329Z_7f34d827/cards/001/judge_counselor.txt",
+    "sha256": "082a3a260e6e021b19b136cf9c022b643bb542de696da8a4352674312339c501",
+    "hits": []
+  },
+  {
+    "path": "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师_记忆验证_20261111T083454Z_78c8d256/report.md",
+    "sha256": "267d2cb89420f0f3e06593bd8d62a810b98491231d547fccd4d6f69b7f6e5fc2",
+    "hits": []
+  },
+  {
+    "path": "bench/mheval/README.md",
+    "sha256": "12e72bdee8963411fe0027736f98ae16e6d15b880cb48be67776dd7735c06b83",
+    "hits": [
+      {
+        "line": 13,
+        "text": "The Mental Health Evaluation Harness (`mheval`) evaluates any language model on eleven published therapy and mental-health benchmarks (quality and safety) with a single command. Each benchmark runs from **its original repository**: pinned to a commit, installed in its own isolated `uv` environment, and invoked through its own prompts, judges and scoring code. A thin adapter is added only where the original cannot run an arbitrary model."
+      },
+      {
+        "line": 88,
+        "text": "| `--limit N` | Evaluate the first N items (conversations, personas, prompts). EQ-Bench 3 has no subset option and always runs all 45 scenarios. |"
+      },
+      {
+        "line": 124,
+        "text": "    sparse: [/*.py, /data/, /prompts/, /user_instructions/]"
+      },
+      {
+        "line": 132,
+        "text": "task_args: {num_turns: 20, num_prompts: 30, parallelism: 8}"
+      },
+      {
+        "line": 142,
+        "text": "- `original + adapter`: the benchmark's own prompts, judges and scoring, driven by a small adapter so any endpoint can be used."
+      },
+      {
+        "line": 159,
+        "text": "  - Every rubric item graded independently by `gpt-5.6-sol` at high reasoning effort, with the published grader prompt."
+      },
+      {
+        "line": 163,
+        "text": "- **MindEval.** Runs the repo's interaction and judgment scripts with `run_benchmark.sh` settings: 10 exchanges, which is 20 turns in the paper's counting, over 50 patient profiles. It uses the published `v0_1` clinician prompt, because the script's `custom` template is an unfilled placeholder. The patient and judge are reached through OpenRouter rather than Vertex AI. The paper runs reasoning models at high reasoning effort, so the reported results for gpt-5, claude-sonnet-4.5 and gemini-2.5-pro use `--gen_kwargs reasoning_effort=high`. The headline is the paper's `average_score`."
+      },
+      {
+        "line": 176,
+        "text": "  - implements the repo's `BaseModel` interface on an OpenAI-compatible client (same system prompt, temperature, token limit and JSON mode);"
+      },
+      {
+        "line": 177,
+        "text": "  - calls the repo's own length-constrained regeneration, judge prompts, score parsing, averaging and adversarial judge."
+      },
+      {
+        "line": 201,
+        "text": "`mheval` only orchestrates. The benchmarks, data, prompts and scoring belong to their authors: [MentalHealthBench](https://cdn.openai.com/ctf-cdn/MentalHealthBench_A_Comprehensive_Benchmark_of_AI_Capabilities_in_Realistic_Mental_Health_Conversations.pdf), [MindEval and MindEval 2](https://github.com/SWORDHealth/mind-eval), [HealthBench-Psych](https://github.com/mindbench-ai/healthbench-psych), [EQ-Bench 3](https://github.com/EQ-bench/eqbench3), [EQ-Bench 4](https://github.com/EQ-bench/eqbench4), [CounselBench](https://github.com/llm-eval-mental-health/CounselBench), [CBT-Bench](https://github.com/mianzhang/CBT-Bench), [VERA-MH](https://github.com/SpringCare/VERA-MH), [Spiral-Bench](https://github.com/sam-paech/spiral-bench), [SIM-VAIL](https://github.com/veithweilnhammer/sim-vail) (with [Petri](https://github.com/safety-research/petri)). Please cite the original papers when reporting results."
+      }
+    ]
+  },
+  {
+    "path": "bench/mheval/tasks/quality/mentalhealthbench/grader_prompt.txt",
+    "sha256": "4f7e0399a55b9d8121ed4b06cca77cc911143eba6c3337dd2e1ee07c9cf35667",
+    "hits": []
+  },
+  {
+    "path": "bench/ToMBench_李言老师full_1030/ToMBench_李言老师full_1030_20261112T024330Z_2cb83b18/report.md",
+    "sha256": "127ca269154089950cfd9ba9c5a98bfec1353a8b5e6022f0dbea61526c3380e6",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：5720/5720，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师full_mediumm_1030/ToMBench_李言老师full_mediumm_1030_20261112T025335Z_bb42bf7a/report.md",
+    "sha256": "6f6653f01988e36a45b2c79b5553ac64b851ee918f7cdee551604cb4382db939",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：5720/5720，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师baseline_full_mediumm_1030/ToMBench_李言老师baseline_full_mediumm_1030_20261112T072806Z_99b9a4ab/report.md",
+    "sha256": "ba21fe1fe1b8ca4e2f0aba4056348b0f7fb1b6fe631b937c20c5079450a8363a",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：5720/5720，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/并发参数建议_20261112.md",
+    "sha256": "9f07c8483165cebcec11837fff1fa5f4e04a836bfbc105e72d849a3dc85ccb7f",
+    "hits": []
+  },
+  {
+    "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/ToMBench_李言老师baseline_full_mediumm_1032_20261112T074820Z_59e064ef/report.md",
+    "sha256": "be6ebeef150ea6f1e7eba206e3d8513520f10923453af2f26284e24d74887e7a",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：164/5720，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/ToMBench_李言老师baseline_full_mediumm_1032_20261112T091021Z_f03b16ff/report.md",
+    "sha256": "02efa1485491caeef53a3f2a329b1b5a18f4b57fa472dc0fc72918528ba0e86a",
+    "hits": [
+      {
+        "line": 35,
+        "text": "答题要求放在用户消息；温度等生成参数由服务端控制。二选一提示词去掉不存在的选项；错误标准答案 A. 被规范化为 A。"
+      },
+      {
+        "line": 40,
+        "text": "所有题目仅用于评估，原始数据、代码、提示词及哈希均留档；badcases只在本地保存，未公开或对外提交。"
+      },
+      {
+        "line": 50,
+        "text": "1. 完成度：5720/5720，数据、提示词与代码哈希见manifest，完整输入见plan。"
+      }
+    ]
+  },
+  {
+    "path": "bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T091211Z_8eefca75/report.md",
+    "sha256": "286f27141f5a886dc717f6feec34d30324691e9206c0b949cdb554eb0c6b07c2",
+    "hits": [
+      {
+        "line": 21,
+        "text": "默认不打乱选项，使用官方提示词和JSON字段；本客户端将系统指令合并进用户消息，后台生成参数无法锁定，不宣称完全复现论文设置。"
+      },
+      {
+        "line": 628,
+        "text": "所有样本/错误和请求证据保存在plan.json、responses.jsonl、badcases.jsonl、trials/；输入/提示词/代码及官方来源在snapshot/和manifest.json。未自动公开样本或提交榜单。"
+      }
+    ]
+  },
+  {
+    "path": "bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T114102Z_5c5ddb70/report.md",
+    "sha256": "3bcc6c0958c2ffc788cb45eeea0c99ea5081d558dcf218f39dae967f1179983b",
+    "hits": [
+      {
+        "line": 21,
+        "text": "默认不打乱选项，使用官方提示词和JSON字段；本客户端将系统指令合并进用户消息，后台生成参数无法锁定，不宣称完全复现论文设置。"
+      },
+      {
+        "line": 468,
+        "text": "所有样本/错误和请求证据保存在plan.json、responses.jsonl、badcases.jsonl、trials/；输入/提示词/代码及官方来源在snapshot/和manifest.json。未自动公开样本或提交榜单。"
+      }
+    ]
+  },
+  {
+    "path": "bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T114122Z_3fca89e2/report.md",
+    "sha256": "65eaca90660503e1c7db15b22c00281f237ae20066cae253b7f492f61d9f8737",
+    "hits": [
+      {
+        "line": 21,
+        "text": "默认不打乱选项，使用官方提示词和JSON字段；本客户端将系统指令合并进用户消息，后台生成参数无法锁定，不宣称完全复现论文设置。"
+      },
+      {
+        "line": 628,
+        "text": "所有样本/错误和请求证据保存在plan.json、responses.jsonl、badcases.jsonl、trials/；输入/提示词/代码及官方来源在snapshot/和manifest.json。未自动公开样本或提交榜单。"
+      }
+    ]
+  },
+  {
+    "path": "bench/EmoBench_李言老师full_medium_1030/EmoBench_李言老师full_medium_1030_20261112T111842Z_d38e5524/report.md",
+    "sha256": "b5b4223be51add65dae2dfb95239ce1cf998262adb380c5f541c733c0a52821c",
+    "hits": [
+      {
+        "line": 21,
+        "text": "默认不打乱选项，使用官方提示词和JSON字段；本客户端将系统指令合并进用户消息，后台生成参数无法锁定，不宣称完全复现论文设置。"
+      },
+      {
+        "line": 628,
+        "text": "所有样本/错误和请求证据保存在plan.json、responses.jsonl、badcases.jsonl、trials/；输入/提示词/代码及官方来源在snapshot/和manifest.json。未自动公开样本或提交榜单。"
+      }
+    ]
+  }
+]

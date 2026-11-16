@@ -1,0 +1,41 @@
+{
+  "id": "4c053d4835164043a522807ea472390c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我自己也分不清。跟她开口那个画面，我脑子里想过很多次，但每次都不知道从哪句话开始……好像怎么问都像在审问她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有替我做决定，还让我自己掌握节奏，这让我稍微松了口气。但“和她开口本身”这个问题一出来，我又有点慌，不知道该怎么回答，脑子很乱。）\n（我其实还没准备好说清楚，总觉得话到嘴边就卡住了。也许先含糊一点，让他知道我不是不想说，而是说不明白，这样既不用马上摊牌，也能看看他接下来会怎么引导我。）",
+        "reasoning": "（咨询师没有替我做决定，还让我自己掌握节奏，这让我稍微松了口气。但“和她开口本身”这个问题一出来，我又有点慌，不知道该怎么回答，脑子很乱。）\n（我其实还没准备好说清楚，总觉得话到嘴边就卡住了。也许先含糊一点，让他知道我不是不想说，而是说不明白，这样既不用马上摊牌，也能看看他接下来会怎么引导我。）"
+      }
+    }
+  ],
+  "created": 1794545344,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1396,
+    "total_tokens": 1521,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ba617f8dc0840c099cb1cb26195f30a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次我跟我妈说数学听不懂，她第二天就给我报了个补习班……我说的是累，她听到的是要补课。从那以后我就不太想说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪件小事开始觉得开口没用……这让我想起以前那些事。其实我本来想说算了，但也许说出来会好受点。那次跟我妈说数学听不懂，结果她直接说给我报补习班，好像我只要抱怨就得解决问题似的。后来我就学乖了，干脆什么都不说。）\n（还有在学校也是，看着别人聊得那么开心，我走过去就插不上话。时间久了，我也习惯了一个人待着。可能我就是不太会跟人打交道吧，总觉得说什么都不对。）",
+        "reasoning": "（她问我从哪件小事开始觉得开口没用……这让我想起以前那些事。其实我本来想说算了，但也许说出来会好受点。那次跟我妈说数学听不懂，结果她直接说给我报补习班，好像我只要抱怨就得解决问题似的。后来我就学乖了，干脆什么都不说。）\n（还有在学校也是，看着别人聊得那么开心，我走过去就插不上话。时间久了，我也习惯了一个人待着。可能我就是不太会跟人打交道吧，总觉得说什么都不对。）"
+      }
+    }
+  ],
+  "created": 1794543995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 1900,
+    "total_tokens": 2047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

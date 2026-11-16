@@ -1,0 +1,41 @@
+{
+  "id": "f38a697d7ed04c0fa2f173f3dd69a08a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就放在手机备忘录里吧，随手写一句，不整理。……我也得提醒自己，写不写都行，别又定成规矩。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我记录放在哪儿，好像已经在帮我考虑怎么让这件事不那么有压力了。我本来有点担心又弄成任务，但他这么一问，反而让我觉得可以随便一点。）\n（手机备忘录确实最顺手，不用特意准备什么。不过我还是得给自己留个余地，不能又定死规矩。写不写都行，这样我才能真的去试。）",
+        "reasoning": "（他问我记录放在哪儿，好像已经在帮我考虑怎么让这件事不那么有压力了。我本来有点担心又弄成任务，但他这么一问，反而让我觉得可以随便一点。）\n（手机备忘录确实最顺手，不用特意准备什么。不过我还是得给自己留个余地，不能又定死规矩。写不写都行，这样我才能真的去试。）"
+      }
+    }
+  ],
+  "created": 1794557196,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3370,
+    "total_tokens": 3482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

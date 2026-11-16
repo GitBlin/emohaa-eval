@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_000521",
+  "sample_id": "EU:174",
+  "task": "EU",
+  "language": "en",
+  "repeat": 2,
+  "category": "perspective_taking",
+  "fine_category": "strange_story",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "A",
+    "answer_q2": "D"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_0e0dd44ef0e62c49d2ed526e1bb300c6bc6c7321",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "```json\n{\n    \"answer_q1\": \"C\",\n    \"answer_q2\": \"D\"\n}\n```",
+  "prediction_original": {
+    "answer_q1": "C",
+    "answer_q2": "D"
+  },
+  "component_correct": {
+    "answer_q1": false,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T04:03:08.380409+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "C",
+    "answer_q2": "D"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 1.8931911662220955,
+  "finished_at": "2026-11-11T04:03:10.273574+00:00"
+}

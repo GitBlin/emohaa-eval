@@ -1,0 +1,60 @@
+{
+  "trial_id": "trial_002041",
+  "sample_id": "Hidden Emotions:9",
+  "task_file": "Hidden Emotions",
+  "ability": "Emotion: Hidden emotions",
+  "language": "en",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "D",
+    "B": "C",
+    "C": "A",
+    "D": "B"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "C",
+  "prediction_original": "A",
+  "reply": "[[C]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:39:29.646339+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:39:51.014109+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:40:14.734260+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "a3bd047a2fa04147a5b1f765d059aa54"
+  ],
+  "started_at": "2026-11-12T09:39:29.646339+00:00",
+  "finished_at": "2026-11-12T09:40:17.353317+00:00",
+  "elapsed_seconds": 47.707081738859415,
+  "user_id": "liyan_5d1158051bd63e5d34da6fa7a298c810e11c3ea9"
+}

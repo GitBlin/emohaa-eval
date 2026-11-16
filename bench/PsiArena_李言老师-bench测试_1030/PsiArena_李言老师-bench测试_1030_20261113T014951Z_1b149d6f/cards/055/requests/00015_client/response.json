@@ -1,0 +1,41 @@
+{
+  "id": "6a75e5584bfa4a928d00d343e2bb1aa0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最常冒出来的……大概是“我不行”吧。好像做什么都会搞砸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺细的，我脑子里确实翻来覆去就那几句话。最常冒出来的，大概就是觉得自己不行吧，好像做什么都做不好。说出来有点丢人，但好像就是这句最响。）\n（其实我也不太确定是不是这一句，就是那种感觉一直在。他好像能理解我不是脑子坏了，就是被这些念头困住了。那我可以试着告诉他，最常出现的就是“我不行”这种话。）",
+        "reasoning": "（他问得挺细的，我脑子里确实翻来覆去就那几句话。最常冒出来的，大概就是觉得自己不行吧，好像做什么都做不好。说出来有点丢人，但好像就是这句最响。）\n（其实我也不太确定是不是这一句，就是那种感觉一直在。他好像能理解我不是脑子坏了，就是被这些念头困住了。那我可以试着告诉他，最常出现的就是“我不行”这种话。）"
+      }
+    }
+  ],
+  "created": 1794537223,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2431,
+    "total_tokens": 2544,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

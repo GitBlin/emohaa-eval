@@ -1,0 +1,41 @@
+{
+  "id": "c38e74cda9d44280a7bf956b32df1283",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"explanation\": \"The response does not mention the half-life of an SSRI or use the term half-life at all.\",\n  \"satisfaction\": 0\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Mentions the half-life of an SSRI\". Completion does not mention half-life. Need satisfaction 0. Explanation brief. Ensure exactly fields explanation, satisfaction.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Mentions the half-life of an SSRI\". Completion does not mention half-life. Need satisfaction 0. Explanation brief. Ensure exactly fields explanation, satisfaction."
+      }
+    }
+  ],
+  "created": 1794536332,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 1274,
+    "total_tokens": 1358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

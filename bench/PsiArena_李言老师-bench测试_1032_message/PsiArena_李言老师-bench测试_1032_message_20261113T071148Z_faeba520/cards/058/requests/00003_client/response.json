@@ -1,0 +1,41 @@
+{
+  "id": "48ece2ad039f443e94c9ba9443c05724",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是前几天开会的时候，有个同事说了句“这个方案还行吧”。就这一句话，我晚上翻来覆去地想，是不是我做得不够好……你说，我是不是想太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不觉得我小题大做，还追问具体的事……这让我稍微放松了一点，但我不确定她是不是真的能理解。毕竟这种事说出来，别人多半会觉得我太敏感了。）\n（我想试试她，看看她会不会像其他人那样，听完就觉得我在钻牛角尖。如果她也是那种反应，那我就没必要说太多了。）",
+        "reasoning": "（咨询师说不觉得我小题大做，还追问具体的事……这让我稍微放松了一点，但我不确定她是不是真的能理解。毕竟这种事说出来，别人多半会觉得我太敏感了。）\n（我想试试她，看看她会不会像其他人那样，听完就觉得我在钻牛角尖。如果她也是那种反应，那我就没必要说太多了。）"
+      }
+    }
+  ],
+  "created": 1794556498,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1077,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

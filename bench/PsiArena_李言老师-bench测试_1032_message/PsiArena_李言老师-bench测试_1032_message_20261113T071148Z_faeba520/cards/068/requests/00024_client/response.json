@@ -1,0 +1,41 @@
+{
+  "id": "a9bd32d9789543a18077fb9ea00e4d1b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先从小区里绕一圈吧，大概十分钟，白天走，人多一点的路。（犹豫）说实话，光想想还是有点发怵，但……我想试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化这个散步的小目标，问我从多长、走哪条路开始。这让我觉得他真的在认真对待我的想法，而不是随便敷衍。我心里其实有点没底，不知道能不能做到，但又想试试。）\n（想到要从短距离开始，选一条熟悉的、有人的路，这样应该不会太难。虽然还是有点发怵，但定个具体的小目标，好像心里能踏实一点。也许可以试试看，慢慢来。）",
+        "reasoning": "（咨询师在帮我具体化这个散步的小目标，问我从多长、走哪条路开始。这让我觉得他真的在认真对待我的想法，而不是随便敷衍。我心里其实有点没底，不知道能不能做到，但又想试试。）\n（想到要从短距离开始，选一条熟悉的、有人的路，这样应该不会太难。虽然还是有点发怵，但定个具体的小目标，好像心里能踏实一点。也许可以试试看，慢慢来。）"
+      }
+    }
+  ],
+  "created": 1794557086,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2968,
+    "total_tokens": 3103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3eff15ac9d29455691dc38910a7e4c55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢说）可能会想，“她是担心我，不是嫌我”。（顿了顿）这么说，心里好像松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在帮我把那个瞬间拆开来看，不是要我立刻变好，而是问我希望自己心里先冒出哪句话。这让我稍微松了口气，但又有点不习惯，因为我以前从没给自己留过这种话。）\n（我想了想，如果妈妈多看我两眼的时候，我能先对自己说一句“她是担心我，不是挑我毛病”，可能就不会马上缩回去。至少能让自己别那么快判自己失败。）",
+        "reasoning": "（她好像真的在帮我把那个瞬间拆开来看，不是要我立刻变好，而是问我希望自己心里先冒出哪句话。这让我稍微松了口气，但又有点不习惯，因为我以前从没给自己留过这种话。）\n（我想了想，如果妈妈多看我两眼的时候，我能先对自己说一句“她是担心我，不是挑我毛病”，可能就不会马上缩回去。至少能让自己别那么快判自己失败。）"
+      }
+    }
+  ],
+  "created": 1794538073,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3266,
+    "total_tokens": 3385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d013ba28105a4844bea371136a37bbc0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）一两句的话……好像可以试试。至少不会一写就停不下来。也许我可以先定个小目标，就写一句话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他建议我只写一两句就合上本子，这个说法让我觉得好像没那么难。以前一想到要面对那些情绪就害怕，但他说得挺温和的，也许可以试试看，从很少的量开始。）\n（如果只是写几个词，应该不会一下子失控吧。而且他说我已经很了解自己的情绪了，这让我稍微有点信心。或许可以先定一个小目标，就写一句话，看看自己能不能做到。）",
+        "reasoning": "（他建议我只写一两句就合上本子，这个说法让我觉得好像没那么难。以前一想到要面对那些情绪就害怕，但他说得挺温和的，也许可以试试看，从很少的量开始。）\n（如果只是写几个词，应该不会一下子失控吧。而且他说我已经很了解自己的情绪了，这让我稍微有点信心。或许可以先定一个小目标，就写一句话，看看自己能不能做到。）"
+      }
+    }
+  ],
+  "created": 1794555960,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2389,
+    "total_tokens": 2511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

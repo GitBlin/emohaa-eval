@@ -1,0 +1,41 @@
+{
+  "id": "d315b954f89f4c12b01d5cacf1e5e7c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是工作上……唉，我也说不太清楚。领导交代的事情，我老是要问好几遍才明白，同事可能都觉得我反应慢吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近是不是发生了什么事，可我真的说不上来具体哪件事。工作上的事一直那样，只是我越来越跟不上了。她好像很在意我“撑不住”这个说法，但我自己都理不清。）\n（也许我该说点具体的，可又怕说了显得我很没用。反复确认指令这种事，说出来都觉得丢人。不过她问得挺温和的，要不就模糊提一下工作上的状况吧。）",
+        "reasoning": "（咨询师在问我最近是不是发生了什么事，可我真的说不上来具体哪件事。工作上的事一直那样，只是我越来越跟不上了。她好像很在意我“撑不住”这个说法，但我自己都理不清。）\n（也许我该说点具体的，可又怕说了显得我很没用。反复确认指令这种事，说出来都觉得丢人。不过她问得挺温和的，要不就模糊提一下工作上的状况吧。）"
+      }
+    }
+  ],
+  "created": 1794557454,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1323,
+    "total_tokens": 1450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

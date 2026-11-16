@@ -1,0 +1,41 @@
+{
+  "id": "2d18b5f9d6a0441ea4e259145812209b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一次他们没来，那天我一个人在教室看书，感觉还行。（顿了顿）老师，你说……我能不能多做点这样的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有哪天稍微好过一点……这让我想起上次体育课他们没来。其实那种日子真的太少了，但说出来好像也没那么难。她一直没笑话我，可能真的可以试着讲一点。）\n（我也想知道能不能多几个这样的日子。一直这么怕下去太累了，要是能有点办法就好了。）",
+        "reasoning": "（她问我有没有哪天稍微好过一点……这让我想起上次体育课他们没来。其实那种日子真的太少了，但说出来好像也没那么难。她一直没笑话我，可能真的可以试着讲一点。）\n（我也想知道能不能多几个这样的日子。一直这么怕下去太累了，要是能有点办法就好了。）"
+      }
+    }
+  ],
+  "created": 1794554130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2231,
+    "total_tokens": 2331,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

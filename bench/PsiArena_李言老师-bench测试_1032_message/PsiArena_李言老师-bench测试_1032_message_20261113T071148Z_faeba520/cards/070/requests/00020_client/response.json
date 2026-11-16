@@ -1,0 +1,41 @@
+{
+  "id": "6e153087b8c34754a9245733a2ee4b52",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能不只是一个人……更像家里的空气。大家都讲成长、讲进步，停下来好像就不对。我爸妈也不是逼我，但那种氛围一直在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个习惯是从谁那里学来的……我一下子想到我妈，但又不全是她。家里那种氛围，好像每个人都在往前赶，停下来就会落后似的。）\n（其实我有点不想把责任都推给父母，他们也不是故意的。但那种“必须更好”的感觉确实一直都在，像是空气一样，说不清具体是谁给的。）",
+        "reasoning": "（她问我这个习惯是从谁那里学来的……我一下子想到我妈，但又不全是她。家里那种氛围，好像每个人都在往前赶，停下来就会落后似的。）\n（其实我有点不想把责任都推给父母，他们也不是故意的。但那种“必须更好”的感觉确实一直都在，像是空气一样，说不清具体是谁给的。）"
+      }
+    }
+  ],
+  "created": 1794557166,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2912,
+    "total_tokens": 3017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

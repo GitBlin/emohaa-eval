@@ -1,0 +1,41 @@
+{
+  "id": "ce96207dfe3548f5a476634b4735a962",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是“我有点不安”这句。说“你为什么这样”反而容易，因为那是在怪别人。承认自己不安，就像承认我很需要他，这个我说不出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺准的，我确实卡在“我有点不安”这句话上。因为一旦说出来，就像把自己最软的地方亮出来，对方要是没接住，我会更难受。而且我总觉得自己不该有这种情绪，好像说出来就是在怪他。）\n（可我也知道，如果一直不说，那种不安只会越积越多。也许我可以试着承认，说出这句话最难的地方，就是怕自己显得太需要他。）",
+        "reasoning": "（他问得挺准的，我确实卡在“我有点不安”这句话上。因为一旦说出来，就像把自己最软的地方亮出来，对方要是没接住，我会更难受。而且我总觉得自己不该有这种情绪，好像说出来就是在怪他。）\n（可我也知道，如果一直不说，那种不安只会越积越多。也许我可以试着承认，说出这句话最难的地方，就是怕自己显得太需要他。）"
+      }
+    }
+  ],
+  "created": 1794536071,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2359,
+    "total_tokens": 2489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

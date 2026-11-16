@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:51.927214+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAt 7 pm on Friday night, Yueyang Tower private room. The company's annual dinner takes place here tonight. Mr. Zhao does not attend because he needs to work late on an important report. During the meal, Miss Zhao looks around and notices that Manager Li's seat is empty. She asks Ms. Tian, the company's finance officer sitting diagonally opposite: \"Ms. Tian, why does Manager Li not attend the dinner tonight?\" Ms. Tian puts down her chopsticks, looks up at Manager Li's empty seat, and says: \"Maybe he thinks we ordinary employees are not qualified to eat with him, so he does not show up.\" Miss Zhao says lightly, \"I see,\" and lowers her head to concentrate on her food. For a while, neither of them speaks.\n\n[Question]\nDoes Ms. Tian know that Mr. Zhao does not attend because he is too busy with overtime?\n\n[Candidate Answers]\nA. Does not know\nB. Knows",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

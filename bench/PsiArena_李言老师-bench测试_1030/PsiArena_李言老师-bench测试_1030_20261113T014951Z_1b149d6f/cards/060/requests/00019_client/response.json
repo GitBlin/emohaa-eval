@@ -1,0 +1,41 @@
+{
+  "id": "44bd4dbe94e64f5aadc2de34367f337f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有时候塞耳机听歌，或者在本子上乱写几句。也不是每次都有用。（有点不确定）这样算办法吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近烦的时候会做点什么让自己缓一缓，看来是想帮我把那些难受的时刻变得具体，找到我能抓住的东西。我确实有时候会做点什么，但都是些小事，说出来好像没什么用。不过既然都聊到这里了，说说也无妨。）\n（我有点不确定这些是不是真的算“办法”，毕竟只是听歌、写点乱七八糟的东西。但好像真的比干坐着好受一点。也许可以提一提，别说得太满，先看看咨询师怎么反应。）",
+        "reasoning": "（咨询师问我最近烦的时候会做点什么让自己缓一缓，看来是想帮我把那些难受的时刻变得具体，找到我能抓住的东西。我确实有时候会做点什么，但都是些小事，说出来好像没什么用。不过既然都聊到这里了，说说也无妨。）\n（我有点不确定这些是不是真的算“办法”，毕竟只是听歌、写点乱七八糟的东西。但好像真的比干坐着好受一点。也许可以提一提，别说得太满，先看看咨询师怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794537641,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2845,
+    "total_tokens": 2982,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

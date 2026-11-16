@@ -1,0 +1,41 @@
+{
+  "id": "61ea4c7cf2f44dd1ab2767ee1c1dc5b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧……我交了个方案，领导看了一眼就说“再想想”。也没说哪里不好，我就一直琢磨，是不是我做得特别差。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师一直在追问最近让我觉得被看轻的具体事件……这让我有点紧张，但好像也确实该说点什么。上周那个事我憋了好几天了，说出来可能会好受点，但又怕显得自己太敏感。）\n（不过既然都聊到这儿了，说出来也许没关系。反正她也不会告诉别人，而且我确实一直为这事难受。就是不知道说完之后，她会不会也觉得我太小题大做了。）",
+        "reasoning": "（咨询师一直在追问最近让我觉得被看轻的具体事件……这让我有点紧张，但好像也确实该说点什么。上周那个事我憋了好几天了，说出来可能会好受点，但又怕显得自己太敏感。）\n（不过既然都聊到这儿了，说出来也许没关系。反正她也不会告诉别人，而且我确实一直为这事难受。就是不知道说完之后，她会不会也觉得我太小题大做了。）"
+      }
+    }
+  ],
+  "created": 1794545632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2066,
+    "total_tokens": 2187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

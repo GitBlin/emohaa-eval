@@ -1,0 +1,41 @@
+{
+  "id": "221a75dfd87b410bb9ec00eac7eeebd6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先定页面结构吧，看得见摸得着，心里踏实点。数据那些……一想又觉得复杂，先放后面。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把大目标拆成小步骤，这样确实没那么压迫了。先定页面结构吧，这个最直观，也最容易看到进展。数据流转那些一想就觉得复杂，还是别一上来就给自己添堵。）\n（不过说实话，心里还是有点打鼓，怕到时候又卡在某个地方动不了。但既然已经说出口了，就先试试看，哪怕只搭个空架子也算开始了。）",
+        "reasoning": "（咨询师在帮我把大目标拆成小步骤，这样确实没那么压迫了。先定页面结构吧，这个最直观，也最容易看到进展。数据流转那些一想就觉得复杂，还是别一上来就给自己添堵。）\n（不过说实话，心里还是有点打鼓，怕到时候又卡在某个地方动不了。但既然已经说出口了，就先试试看，哪怕只搭个空架子也算开始了。）"
+      }
+    }
+  ],
+  "created": 1794543787,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2799,
+    "total_tokens": 2919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

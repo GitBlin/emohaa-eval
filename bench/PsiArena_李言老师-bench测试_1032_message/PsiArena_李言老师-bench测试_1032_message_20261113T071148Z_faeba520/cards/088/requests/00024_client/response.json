@@ -1,0 +1,41 @@
+{
+  "id": "86104f63428c40bfa8d3369e52f9c316",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说……这个我倒是可以试试。心里紧的时候，跟自己说一句“我现在有点紧”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我愿不愿意再试一次，哪怕只对自己说。这让我稍微松了口气，不用马上面对别人，先自己试试好像能接受。但说实话，心里还是有点没底，怕自己做不到。）\n（不过刚才说出来的感觉确实没那么糟，也许可以先从对自己说开始。要是能坚持下来，说不定以后也能跟同桌提一句，但得慢慢来，不能急。）",
+        "reasoning": "（咨询师在问我愿不愿意再试一次，哪怕只对自己说。这让我稍微松了口气，不用马上面对别人，先自己试试好像能接受。但说实话，心里还是有点没底，怕自己做不到。）\n（不过刚才说出来的感觉确实没那么糟，也许可以先从对自己说开始。要是能坚持下来，说不定以后也能跟同桌提一句，但得慢慢来，不能急。）"
+      }
+    }
+  ],
+  "created": 1794558125,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2973,
+    "total_tokens": 3080,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

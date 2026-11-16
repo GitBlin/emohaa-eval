@@ -1,0 +1,41 @@
+{
+  "id": "0b9b5329194b47f7934a9a93eb07536f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟应该能挤出来吧。我就先定个小目标，别再空着肚子出门了。就是……不知道自己能不能坚持。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我早上能挤出几分钟，看来是想帮我从早饭开始做点调整。说实话，我早上确实总是很赶，但仔细想想，十分钟应该还是能挤出来的。）\n（我有点担心自己坚持不了，毕竟以前也想过改，最后都半途而废了。不过这次先定小一点的目标吧，至少把吃早饭这件事固定下来。）",
+        "reasoning": "（咨询师在问我早上能挤出几分钟，看来是想帮我从早饭开始做点调整。说实话，我早上确实总是很赶，但仔细想想，十分钟应该还是能挤出来的。）\n（我有点担心自己坚持不了，毕竟以前也想过改，最后都半途而废了。不过这次先定小一点的目标吧，至少把吃早饭这件事固定下来。）"
+      }
+    }
+  ],
+  "created": 1794545617,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2917,
+    "total_tokens": 3024,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

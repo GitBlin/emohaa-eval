@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:30.834493+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhao Xiao receives love from teachers and students because of his excellent grades and friendly attitude. One day, his roommate Wang Ming feels depressed because of his unsatisfactory final exam results. Wang Ming shows his report card to Zhao Xiao, asking Zhao Xiao what he thinks of his grades. After seeing the report card, although Zhao Xiao thinks Wang Ming probably does not study hard, he still encourages Wang Ming, saying the grades are not bad, and as long as he works a little harder, he can improve.\n\n[Question]\nWhy does Zhao Xiao say this?\n\n[Candidate Answers]\nA. Zhao Xiao just gets elected as the class representative, he answers this way to establish an image of supporting and encouraging classmates.\nB. Zhao Xiao says this because he really thinks Wang Ming's grades are not bad, he just needs to work harder.\nC. Zhao Xiao says this because he wants to encourage Wang Ming, and maintain their friendly relationship and the harmonious atmosphere of the dormitory.\nD. Zhao Xiao is also dissatisfied with the exam, he says these to cover up his own sense of disappointment.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

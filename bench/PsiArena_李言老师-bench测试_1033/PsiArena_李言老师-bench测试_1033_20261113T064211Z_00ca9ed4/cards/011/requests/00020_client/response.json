@@ -1,0 +1,41 @@
+{
+  "id": "fc0fe900c8db48dbad90751c7ca62964",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不好意思）现在就说啊……那我想想。（清了清嗓子，声音有点小）“我最近有点累。”……这样是不是太短了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我现在就试着说一遍，我有点紧张，但好像也不是完全做不到。之前在心里想过很多次，真要开口还是会觉得别扭，怕自己说着说着就变了味道。）\n（不过也许可以先说短一点，就那一句“我最近有点累”，然后别急着解释。要是能靠过去，就不用再说更多了。）",
+        "reasoning": "（咨询师让我现在就试着说一遍，我有点紧张，但好像也不是完全做不到。之前在心里想过很多次，真要开口还是会觉得别扭，怕自己说着说着就变了味道。）\n（不过也许可以先说短一点，就那一句“我最近有点累”，然后别急着解释。要是能靠过去，就不用再说更多了。）"
+      }
+    }
+  ],
+  "created": 1794552625,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3086,
+    "total_tokens": 3191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

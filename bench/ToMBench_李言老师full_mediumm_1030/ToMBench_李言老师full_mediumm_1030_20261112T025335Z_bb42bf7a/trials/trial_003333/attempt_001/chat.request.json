@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:58:32.213767+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nA man in a neat suit goes to a bakery and buys a box of cookies. He answers a phone call, hangs up the phone, turns around and sees the cookies he just buys on the table, so he sits down and eats. At this time, an old man in ragged clothes also sits across and eats the cookies on the table. The man looks disgusted, dislikes the old man for eating his cookies, and says to the old man, \"If you can't afford it, don't eat it.\" After finishing the cookies, he leaves. When the man walks out the door and takes out the documents from his backpack, he finds his cookies in the bag, and the man immediately feels guilty.\n\n[Question]\nWhy does the man immediately feel guilty?\n\n[Candidate Answers]\nA. The man's conscience finds out when he goes out, he feels he should not say that to the old man, so he feels guilty.\nB. Seeing his cookies in the bag, he immediately understands that he misunderstands the old man. The cookies he just ate are the old man's, and he scolds him.\nC. The man dislikes the old man in ragged clothes for eating his cookies.\nD. The man forgets to put the cookies in the bag while making a phone call, and knows that the cookies on the table are not his.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e3eec8377add4eee9c84b916b264e6bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）热水吧，最简单。（停顿）不过我还想问一下，要是今晚还是没做到，是不是就说明我又不行了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把今晚要做的事定下来，问我想先试哪一件。我心里其实有点怕，怕自己做不到，所以想先挑个最简单的，喝热水好像不用费什么力气。）\n（而且我也想问一句，万一今晚还是撑不住该怎么办。这个问题一直压在我心里，得问出来才踏实一点。）",
+        "reasoning": "（咨询师在帮我把今晚要做的事定下来，问我想先试哪一件。我心里其实有点怕，怕自己做不到，所以想先挑个最简单的，喝热水好像不用费什么力气。）\n（而且我也想问一句，万一今晚还是撑不住该怎么办。这个问题一直压在我心里，得问出来才踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794557392,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3046,
+    "total_tokens": 3145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

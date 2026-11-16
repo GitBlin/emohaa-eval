@@ -1,0 +1,41 @@
+{
+  "id": "642eda1f6113416b966c570637e8c82c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上比较明显吧……一想到要去上班，就心里发紧。那个……我想问一下，我在这儿说的话，您不会跟别人讲吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我心慌的时间点，这让我想起每天早上的那种感觉。但我不确定该不该说得太具体，毕竟才刚开始。也许可以稍微提一点，但不用太深入。）\n（另外，我其实一直有点担心咨询师会不会把我的事说出去。毕竟家里的事、单位的事，我都不想让人知道。也许现在可以试探一下，看看他能不能保证保密。）",
+        "reasoning": "（咨询师在问我心慌的时间点，这让我想起每天早上的那种感觉。但我不确定该不该说得太具体，毕竟才刚开始。也许可以稍微提一点，但不用太深入。）\n（另外，我其实一直有点担心咨询师会不会把我的事说出去。毕竟家里的事、单位的事，我都不想让人知道。也许现在可以试探一下，看看他能不能保证保密。）"
+      }
+    }
+  ],
+  "created": 1794557583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1062,
+    "total_tokens": 1178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

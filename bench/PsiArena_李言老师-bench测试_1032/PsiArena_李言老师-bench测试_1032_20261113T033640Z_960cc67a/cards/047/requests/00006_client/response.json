@@ -1,0 +1,41 @@
+{
+  "id": "20f2f6482d99485cb5e64e50cd5b3f4b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……工作上的事吧，还有我是不是真的适合当老师。有时候想着想着就停不下来，越想越觉得自己是不是太脆弱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才说不会觉得烦，还问我想的事是哪一类……她好像挺认真在听。但我还是有点犹豫，不知道该不该说太深。毕竟才刚开始，我还不确定她会不会真的理解我。）\n（晚上想的事……其实很多，工作、自己是不是适合当老师，还有别人怎么看我。但一下子说出来又觉得太乱了。也许可以先提一点，看看她的反应。她问我哪一类事，那我就说工作上的事吧，这个比较具体，也不会太暴露自己。）",
+        "reasoning": "（咨询师刚才说不会觉得烦，还问我想的事是哪一类……她好像挺认真在听。但我还是有点犹豫，不知道该不该说太深。毕竟才刚开始，我还不确定她会不会真的理解我。）\n（晚上想的事……其实很多，工作、自己是不是适合当老师，还有别人怎么看我。但一下子说出来又觉得太乱了。也许可以先提一点，看看她的反应。她问我哪一类事，那我就说工作上的事吧，这个比较具体，也不会太暴露自己。）"
+      }
+    }
+  ],
+  "created": 1794543434,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1350,
+    "total_tokens": 1489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

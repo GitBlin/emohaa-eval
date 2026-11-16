@@ -1,0 +1,41 @@
+{
+  "id": "3aad0d503ef64865a2c0bd5dae05e5e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像松了一点点。平时那种绷着的感觉，现在没那么明显。（顿了一下）可能是说出来了一些吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身体上紧的感觉有没有变化……我好像真的没太注意过。平时那种紧是一直在的，像背景音一样，现在这么一问，反倒觉得肩膀没那么硬了。不过我也不太确定，可能只是坐久了。）\n（跟她说话确实不用一直想着怎么解释，这让我有点放松。但我不太敢直接说“好多了”，怕说太满。就照实说好像松了一点吧，这样比较稳妥。）",
+        "reasoning": "（她问我身体上紧的感觉有没有变化……我好像真的没太注意过。平时那种紧是一直在的，像背景音一样，现在这么一问，反倒觉得肩膀没那么硬了。不过我也不太确定，可能只是坐久了。）\n（跟她说话确实不用一直想着怎么解释，这让我有点放松。但我不太敢直接说“好多了”，怕说太满。就照实说好像松了一点吧，这样比较稳妥。）"
+      }
+    }
+  ],
+  "created": 1794558099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2362,
+    "total_tokens": 2483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

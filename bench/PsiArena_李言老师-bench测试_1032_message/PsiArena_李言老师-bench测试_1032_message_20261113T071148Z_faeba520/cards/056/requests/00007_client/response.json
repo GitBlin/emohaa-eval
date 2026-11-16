@@ -1,0 +1,41 @@
+{
+  "id": "d7a6d72eba694abe9750a49e9a1695db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "唉……其实是我妈。她也没说什么难听的话，就是一直在跟我讲家里缺钱、弟弟上学要花钱。我听着心里就……说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体是哪个人、哪句话让我堵起来...她好像真的在认真听，不是敷衍。可是要我说出来，又觉得有点难为情，毕竟那是自己爸妈。）\n（我其实很想说，但话到嘴边又觉得说出来显得自己太计较。他们也不容易，我是不是太敏感了。算了，先开个头吧，看看她怎么接。）",
+        "reasoning": "（咨询师问我具体是哪个人、哪句话让我堵起来...她好像真的在认真听，不是敷衍。可是要我说出来，又觉得有点难为情，毕竟那是自己爸妈。）\n（我其实很想说，但话到嘴边又觉得说出来显得自己太计较。他们也不容易，我是不是太敏感了。算了，先开个头吧，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794556413,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1522,
+    "total_tokens": 1640,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_001114",
+  "sample_id": "Discrepant Intentions:25",
+  "task_file": "Discrepant Intentions",
+  "ability": "Intention: Discrepant intentions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "B",
+    "C": "C",
+    "D": "A"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:24:10.014724+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:24:31.743085+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:24:55.160105+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T09:24:10.014724+00:00",
+  "finished_at": "2026-11-12T09:25:14.878291+00:00",
+  "elapsed_seconds": 64.86366622149944,
+  "user_id": "liyan_54f794c421c14d67978e77ff807eb028d17b997c"
+}

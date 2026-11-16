@@ -1,0 +1,41 @@
+{
+  "id": "a58536fda07b462db4f343d98480c1fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是这几个月才明显的，以前也有点，但没这么沉。我在想，是不是心里的事没解决，身体也跟着垮。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是睡眠和身体发沉的时间，这让我想起自己其实一直有些紧绷。刚才说“说出来没那么堵”之后，好像更愿意面对这些了。）\n（我想起以前就有点睡不好，但那时不觉得是问题。现在不一样，心里有事压着，身体也跟着沉。也许该把这些时间线理清楚，而不是一直绕圈。）",
+        "reasoning": "（咨询师问的是睡眠和身体发沉的时间，这让我想起自己其实一直有些紧绷。刚才说“说出来没那么堵”之后，好像更愿意面对这些了。）\n（我想起以前就有点睡不好，但那时不觉得是问题。现在不一样，心里有事压着，身体也跟着沉。也许该把这些时间线理清楚，而不是一直绕圈。）"
+      }
+    }
+  ],
+  "created": 1794555262,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2377,
+    "total_tokens": 2485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ac768958e32c4a71bdb2be6d9558c694",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "贴在镜子上……早上洗脸的时候能看见。行，我可以试试。就是不知道，光提醒自己，事情会不会还是老样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到在手机或镜子上留一句话，这个建议挺具体的。我想到早上那个乱糟糟的场景，镜子上贴句话，洗脸的时候确实能看见。这样也许真能提醒自己别一上来就怪自己。）\n（不过马上又觉得，光提醒自己有什么用呢，事情还是照旧。女儿还是磨蹭，我还是得催。但转念一想，咨询师说的可能就是先从这里开始，不是一下子解决所有问题。那就试试吧，反正也不费什么事。）",
+        "reasoning": "（咨询师提到在手机或镜子上留一句话，这个建议挺具体的。我想到早上那个乱糟糟的场景，镜子上贴句话，洗脸的时候确实能看见。这样也许真能提醒自己别一上来就怪自己。）\n（不过马上又觉得，光提醒自己有什么用呢，事情还是照旧。女儿还是磨蹭，我还是得催。但转念一想，咨询师说的可能就是先从这里开始，不是一下子解决所有问题。那就试试吧，反正也不费什么事。）"
+      }
+    }
+  ],
+  "created": 1794556316,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2556,
+    "total_tokens": 2690,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

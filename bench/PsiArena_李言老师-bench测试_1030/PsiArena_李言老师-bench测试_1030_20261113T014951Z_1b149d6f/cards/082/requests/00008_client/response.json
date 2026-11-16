@@ -1,0 +1,41 @@
+{
+  "id": "eaf43d10fef544258acda0e1cf4312ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小……我爸妈对我要求特别高。考了第二名回家都没人夸，只会问为什么不是第一。在我们家，做不好就是丢脸的事，别提多难受了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起“从小”是从什么时候开始的……这让我有点不舒服，但刚才说了那么多，好像也没被评判。也许可以稍微多说一点。）\n（我爸妈那种教育方式，其实我一直不太想提。考好了是应该的，考砸了就是丢人。现在想想，我好像一直在证明自己不比别人差，连被年轻人比下去都受不了。这种感觉说出来有点难堪，但好像确实是这样。）",
+        "reasoning": "（她问起“从小”是从什么时候开始的……这让我有点不舒服，但刚才说了那么多，好像也没被评判。也许可以稍微多说一点。）\n（我爸妈那种教育方式，其实我一直不太想提。考好了是应该的，考砸了就是丢人。现在想想，我好像一直在证明自己不比别人差，连被年轻人比下去都受不了。这种感觉说出来有点难堪，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794539214,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1636,
+    "total_tokens": 1765,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

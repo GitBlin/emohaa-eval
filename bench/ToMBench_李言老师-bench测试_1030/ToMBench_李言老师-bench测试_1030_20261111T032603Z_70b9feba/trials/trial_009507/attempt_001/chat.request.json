@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:35:52.463236+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nJianjian and Jingjing are classmates, their relationship is not very close, although they often chat but they usually do not go home together after school. One day, when school is about to end, Xuanxuan joins their chat. Jianjian takes the opportunity when Jingjing turns her head to talk to Xuanxuan, makes a movie-watching gesture to Xuanxuan, then smiles at Xuanxuan, Xuanxuan also nods to Jianjian, both of them smile at Jingjing. After school, Jianjian and Xuanxuan leave the school together.\n\n[Question]\nWhat do you think Jingjing's mood is?\n\n[Candidate Answers]\nA. Jingjing does not care, she is focusing on her own topic.\nB. Jingjing feels confused, she does not know what Jianjian and Xuanxuan are doing.\nC. Jingjing feels happy, because she thinks Xuanxuan and Jianjian are going to give her a surprise.\nD. Jingjing does not have any special feelings, because she is not clear about the subsequent activities of Xuanxuan and Jianjian.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "970f3b14f25c46ae84795dee68bf77c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不全是猜的。我试过说，但我妈老打断我，讲一堆道理。后来我就懒得说了，说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是每次都这样，还是我猜的……这让我有点不知道怎么说。其实我也不是没试过好好说，可每次还没说完就被打断了。我妈总是急着给我讲道理，好像我说什么都是错的。）\n（可能我也有点怕吧，怕说多了他们觉得我矫情。我爸更不用提了，他连听都不听。所以后来我就不想说了，反正说了也没用。）",
+        "reasoning": "（她问我是不是每次都这样，还是我猜的……这让我有点不知道怎么说。其实我也不是没试过好好说，可每次还没说完就被打断了。我妈总是急着给我讲道理，好像我说什么都是错的。）\n（可能我也有点怕吧，怕说多了他们觉得我矫情。我爸更不用提了，他连听都不听。所以后来我就不想说了，反正说了也没用。）"
+      }
+    }
+  ],
+  "created": 1794558641,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1928,
+    "total_tokens": 2046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

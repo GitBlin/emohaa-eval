@@ -1,0 +1,41 @@
+{
+  "id": "bd340b7035bd4d28b01255f6b8040fbb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我先把最急的几件事收个尾吧，不然心里挂着，晚上也静不下来。不过我会看着点时间，别又拖到很晚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这会儿打算先松一松还是先收尾，是在帮我把今晚的次序再落实一点。我确实觉得心里没那么堵了，但还没到能完全放松的地步。手头的事不收完，我心里不踏实，晚上也静不下来。）\n（我打算先把最急的几件事处理掉，这样晚上才敢真的按咱们说的去试。不过我也得提醒自己，别又一头扎进去收不住，把时间拖得太晚。）",
+        "reasoning": "（咨询师问我这会儿打算先松一松还是先收尾，是在帮我把今晚的次序再落实一点。我确实觉得心里没那么堵了，但还没到能完全放松的地步。手头的事不收完，我心里不踏实，晚上也静不下来。）\n（我打算先把最急的几件事处理掉，这样晚上才敢真的按咱们说的去试。不过我也得提醒自己，别又一头扎进去收不住，把时间拖得太晚。）"
+      }
+    }
+  ],
+  "created": 1794536669,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3710,
+    "total_tokens": 3845,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

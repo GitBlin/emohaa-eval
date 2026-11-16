@@ -1,0 +1,41 @@
+{
+  "id": "2d917722daa64258b894f1deb83440bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就会想，你怎么连这点小事都做不好……有点像我妈以前说我的语气。哎，说出来才发现，好像真是这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我后悔的时候会怎么对自己说……这个问题让我有点难受。每次早上随便吃了东西，我心里那个声音就冒出来，说我连这点小事都做不好。其实我知道那声音很苛刻，可它就是停不下来。）\n（说起来，这个声音好像很熟悉，像是我妈以前念叨我的语气。但我又不敢确定，毕竟她也是为我好。我是不是想太多了？也许只是我自己太较真。）",
+        "reasoning": "（她问我后悔的时候会怎么对自己说……这个问题让我有点难受。每次早上随便吃了东西，我心里那个声音就冒出来，说我连这点小事都做不好。其实我知道那声音很苛刻，可它就是停不下来。）\n（说起来，这个声音好像很熟悉，像是我妈以前念叨我的语气。但我又不敢确定，毕竟她也是为我好。我是不是想太多了？也许只是我自己太较真。）"
+      }
+    }
+  ],
+  "created": 1794558371,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2042,
+    "total_tokens": 2159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

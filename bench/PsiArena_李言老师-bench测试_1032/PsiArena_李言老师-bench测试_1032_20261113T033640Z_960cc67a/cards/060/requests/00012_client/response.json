@@ -1,0 +1,41 @@
+{
+  "id": "c15ad17f732243039110f5a082047033",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就前几天晚上，我妈又在打电话说工作。我坐在房间里，胸口闷闷的，手心有点出汗，也不知道该干嘛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次发紧的情境和身体反应……这让我想起那天晚上妈妈打电话的场景。我不想直接说“我又烦了”，那样显得太脆弱，但确实胸口发闷，像被什么堵住了。）\n（我有点犹豫要不要讲那么细，毕竟家里从小就不太聊这些。不过既然之前已经提到过蹭鞋的事，也许可以稍微多说一点，但不用说得太清楚。）",
+        "reasoning": "（咨询师在问我最近一次发紧的情境和身体反应……这让我想起那天晚上妈妈打电话的场景。我不想直接说“我又烦了”，那样显得太脆弱，但确实胸口发闷，像被什么堵住了。）\n（我有点犹豫要不要讲那么细，毕竟家里从小就不太聊这些。不过既然之前已经提到过蹭鞋的事，也许可以稍微多说一点，但不用说得太清楚。）"
+      }
+    }
+  ],
+  "created": 1794544234,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1923,
+    "total_tokens": 2040,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

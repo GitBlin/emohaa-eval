@@ -1,0 +1,41 @@
+{
+  "id": "227ad22399b346d08e1d05f8fe357a99",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）手机备忘录吧，我平时也老记东西。真卡住了看一眼，总比硬想强。（停顿）下周那场……好像没那么吓人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体的办法，让我选一个更可行的方式。手机备忘录这个……确实比硬记要踏实一些，至少有个东西能看。不过我心里还是有点打鼓，怕自己真到了那场合又做不出来。）\n（说起下周那场，我还是会紧张。但好像和一开始比，没那么慌了。至少现在手里有点能抓的东西，不是完全没着落。）",
+        "reasoning": "（咨询师在帮我想具体的办法，让我选一个更可行的方式。手机备忘录这个……确实比硬记要踏实一些，至少有个东西能看。不过我心里还是有点打鼓，怕自己真到了那场合又做不出来。）\n（说起下周那场，我还是会紧张。但好像和一开始比，没那么慌了。至少现在手里有点能抓的东西，不是完全没着落。）"
+      }
+    }
+  ],
+  "created": 1794553011,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3259,
+    "total_tokens": 3381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

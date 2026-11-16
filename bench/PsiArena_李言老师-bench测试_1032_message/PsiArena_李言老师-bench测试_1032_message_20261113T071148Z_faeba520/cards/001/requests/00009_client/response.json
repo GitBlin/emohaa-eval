@@ -1,0 +1,41 @@
+{
+  "id": "1218fc6611d444fbae039a5b26e79946",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "语气……挺凶的，有点像我爸说话那样，不容商量的那种。可奇怪的是，那声音明明是我自己的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音的语气是什么样的……我从来没想过这个。平时那个声音就一直在脑子里，像背景音一样，我都没仔细分辨过。现在被这么一问，我好像能听出来，那语气跟我爸训话的时候特别像，那种不容商量的感觉。）\n（可是奇怪的是，那个声音明明像我爸，但说出来的话又像是我自己在说。每次我想去跟同学说话，脑子里就冒出“你这时候去干嘛，别人都在学习”这种话。我分不清这到底是谁在说，是我爸，还是我自己已经变成了这样。）",
+        "reasoning": "（她问我那个声音的语气是什么样的……我从来没想过这个。平时那个声音就一直在脑子里，像背景音一样，我都没仔细分辨过。现在被这么一问，我好像能听出来，那语气跟我爸训话的时候特别像，那种不容商量的感觉。）\n（可是奇怪的是，那个声音明明像我爸，但说出来的话又像是我自己在说。每次我想去跟同学说话，脑子里就冒出“你这时候去干嘛，别人都在学习”这种话。我分不清这到底是谁在说，是我爸，还是我自己已经变成了这样。）"
+      }
+    }
+  ],
+  "created": 1794553943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1637,
+    "total_tokens": 1785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

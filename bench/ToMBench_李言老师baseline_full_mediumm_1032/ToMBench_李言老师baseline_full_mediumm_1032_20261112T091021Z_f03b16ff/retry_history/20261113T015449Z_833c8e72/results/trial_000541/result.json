@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_000541",
+  "sample_id": "Prediction of Actions:17",
+  "task_file": "Prediction of Actions",
+  "ability": "Intention: Prediction of actions",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "B",
+    "B": "A",
+    "C": "C",
+    "D": "D"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:15:49.885819+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:16:11.340311+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:16:35.072627+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T09:15:49.885819+00:00",
+  "finished_at": "2026-11-12T09:16:54.656214+00:00",
+  "elapsed_seconds": 64.77049343660474,
+  "user_id": "liyan_561577548431161afa4a944ef6f3d77ec269259d"
+}

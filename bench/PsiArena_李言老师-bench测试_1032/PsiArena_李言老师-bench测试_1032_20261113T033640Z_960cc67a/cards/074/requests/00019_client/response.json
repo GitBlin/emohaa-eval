@@ -1,0 +1,41 @@
+{
+  "id": "ded3eea1de2b4a1d8f7dc424b7c1ed84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是昨天，同事让我帮忙做个表，我自己手头的活还没弄完，犹豫了一下还是接了。接完我就开始后悔，怕两头都做不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次担心拖累别人的具体场景，这让我想到昨天下午的事情。其实我本来不想提的，但既然都聊到这里了，说出来也许能好受点。）\n（我确实很怕拖累同事，尤其是当大家都忙的时候。那种开口求助的犹豫，还有事后反复琢磨别人会不会不高兴的感觉，真的让我很累。也许可以试着把这种纠结说出来，看看咨询师会怎么回应。）",
+        "reasoning": "（咨询师在问我最近一次担心拖累别人的具体场景，这让我想到昨天下午的事情。其实我本来不想提的，但既然都聊到这里了，说出来也许能好受点。）\n（我确实很怕拖累同事，尤其是当大家都忙的时候。那种开口求助的犹豫，还有事后反复琢磨别人会不会不高兴的感觉，真的让我很累。也许可以试着把这种纠结说出来，看看咨询师会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794545060,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2646,
+    "total_tokens": 2774,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

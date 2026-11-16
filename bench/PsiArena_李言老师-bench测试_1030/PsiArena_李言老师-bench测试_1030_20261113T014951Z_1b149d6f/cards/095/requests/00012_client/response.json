@@ -1,0 +1,41 @@
+{
+  "id": "62ff552c42374022aabdb1753f865db8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有是有……比如整理东西、把乱七八糟的资料理顺的时候，我还挺有耐心的，弄完心里会舒服一点。不过这种事太小了，说出来都怕你笑话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“没做出名堂”和“我不行”分开，还问有没有顺手的小事。这让我有点意外，平时真没往这个方向想过。）\n（不过仔细想想，好像确实有过那种时候。整理资料、把乱的东西理顺，做完心里会稍微踏实一点。但这种事太小了，说出来会不会显得我特别没出息。）",
+        "reasoning": "（咨询师在帮我把“没做出名堂”和“我不行”分开，还问有没有顺手的小事。这让我有点意外，平时真没往这个方向想过。）\n（不过仔细想想，好像确实有过那种时候。整理资料、把乱的东西理顺，做完心里会稍微踏实一点。但这种事太小了，说出来会不会显得我特别没出息。）"
+      }
+    }
+  ],
+  "created": 1794540160,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2078,
+    "total_tokens": 2194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "453ca7a8516c46e386f78b3ae50ac904",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是有一回我爸推了我妈一把，她头撞到柜子上。我当时站在门口，动都不敢动。后来我妈还跟我说没事，让我别多想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我第一次觉得不对是什么时候……这让我想起很多事。小时候我一直觉得家里就是这样，没想过对不对。直到有一次，我爸推了我妈一把，她头撞到柜子上。我当时站在门口，整个人都僵住了。那会儿我好像突然意识到，这不是“忍忍就过去”的事。）\n（可我不敢说，说了又能怎样？我妈还反过来让我别多想。现在想想，可能就是从那时候起，我开始觉得身上不干净，觉得什么东西沾上了就洗不掉。我不想再往下说了，再说下去我怕自己又绷不住。）",
+        "reasoning": "（她问我第一次觉得不对是什么时候……这让我想起很多事。小时候我一直觉得家里就是这样，没想过对不对。直到有一次，我爸推了我妈一把，她头撞到柜子上。我当时站在门口，整个人都僵住了。那会儿我好像突然意识到，这不是“忍忍就过去”的事。）\n（可我不敢说，说了又能怎样？我妈还反过来让我别多想。现在想想，可能就是从那时候起，我开始觉得身上不干净，觉得什么东西沾上了就洗不掉。我不想再往下说了，再说下去我怕自己又绷不住。）"
+      }
+    }
+  ],
+  "created": 1794544758,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2376,
+    "total_tokens": 2529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

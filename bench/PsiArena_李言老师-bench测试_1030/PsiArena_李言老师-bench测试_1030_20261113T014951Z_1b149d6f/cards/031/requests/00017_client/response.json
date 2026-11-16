@@ -1,0 +1,41 @@
+{
+  "id": "242e9f54a6634e14ab5ccfa982ec5deb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "画面啊……就是两个人坐着，突然没话说了，气氛特别尴尬，她一脸失望地看着我。我越想越觉得，她那么活泼，跟我这种闷的人待着肯定没意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是那几天脑子里反复出现的画面。说实话，之前一直不敢细想，怕说出来显得太脆弱。但既然已经聊到这儿了，也许可以试着讲出来。）\n（那个画面其实很具体，就是两个人坐在一起吃饭，气氛很冷，我找不到话说。她那么活泼，肯定觉得我很无聊吧。说出来之后反而有点松，好像没我想的那么可怕。）",
+        "reasoning": "（她问的是那几天脑子里反复出现的画面。说实话，之前一直不敢细想，怕说出来显得太脆弱。但既然已经聊到这儿了，也许可以试着讲出来。）\n（那个画面其实很具体，就是两个人坐在一起吃饭，气氛很冷，我找不到话说。她那么活泼，肯定觉得我很无聊吧。说出来之后反而有点松，好像没我想的那么可怕。）"
+      }
+    }
+  ],
+  "created": 1794536093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2735,
+    "total_tokens": 2861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

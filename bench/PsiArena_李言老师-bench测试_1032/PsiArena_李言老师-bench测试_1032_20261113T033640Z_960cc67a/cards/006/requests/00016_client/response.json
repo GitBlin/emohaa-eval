@@ -1,0 +1,41 @@
+{
+  "id": "4d8a769ff29e4871b0c72031b00fbae9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开会的时候吧，领导在场，大家都点头，就你不动，那眼神……挺难扛的。不过现在想想，也许可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化场景，这让我想到那些不得不表态的场合。领导在场时，大家都点头，我不点头就显得格格不入，那种压力确实最难扛。）\n（但我也意识到，如果连这种场合都能守住沉默，或许就能慢慢找回一点对自己的掌控感。只是现在还没想好具体怎么应对那种目光。）",
+        "reasoning": "（咨询师在引导我具体化场景，这让我想到那些不得不表态的场合。领导在场时，大家都点头，我不点头就显得格格不入，那种压力确实最难扛。）\n（但我也意识到，如果连这种场合都能守住沉默，或许就能慢慢找回一点对自己的掌控感。只是现在还没想好具体怎么应对那种目光。）"
+      }
+    }
+  ],
+  "created": 1794541422,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2351,
+    "total_tokens": 2454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

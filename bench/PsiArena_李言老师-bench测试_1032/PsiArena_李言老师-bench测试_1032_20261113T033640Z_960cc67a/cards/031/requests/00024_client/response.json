@@ -1,0 +1,41 @@
+{
+  "id": "01592d2fc91141b9b09d1de85671c5b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想问：“你觉得电影里那个人，闷不闷啊？”……这样说，应该还行吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把开口的话具体定下来，这让我稍微踏实一点，但真要说出口还是有点发怵。我怕自己说得太生硬，或者她根本没看过，那场面会更尴尬。）\n（不过刚才聊了这么久，至少可以先挑一句最简单的。问“你觉得他闷吗”应该还行，不算太刻意，也不会一下子暴露太多心思。）",
+        "reasoning": "（咨询师在帮我把开口的话具体定下来，这让我稍微踏实一点，但真要说出口还是有点发怵。我怕自己说得太生硬，或者她根本没看过，那场面会更尴尬。）\n（不过刚才聊了这么久，至少可以先挑一句最简单的。问“你觉得他闷吗”应该还行，不算太刻意，也不会一下子暴露太多心思。）"
+      }
+    }
+  ],
+  "created": 1794542643,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3159,
+    "total_tokens": 3259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

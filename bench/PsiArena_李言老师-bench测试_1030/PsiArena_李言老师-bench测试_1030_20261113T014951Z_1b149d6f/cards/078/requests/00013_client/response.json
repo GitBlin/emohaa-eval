@@ -1,0 +1,41 @@
+{
+  "id": "504a8797cfcc4838a0ef3f22097c44b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）会想……我是不是真的撑不下去了。还有，公婆是不是其实对我有意见，只是不说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，那些夜里冒出来的念头，我平时都不愿意去碰。可这会儿坐在这儿，好像不说又堵得慌。最常想的，就是自己是不是真撑不住了，会不会哪天就倒下了。）\n（还有公婆那边，他们嘴上不说，我心里总觉得他们在看我。是不是觉得我做得不够好，是不是觉得这个家没我丈夫就不行了。这些话白天不敢想，夜里就全冒出来了。）",
+        "reasoning": "（她问得挺细的，那些夜里冒出来的念头，我平时都不愿意去碰。可这会儿坐在这儿，好像不说又堵得慌。最常想的，就是自己是不是真撑不住了，会不会哪天就倒下了。）\n（还有公婆那边，他们嘴上不说，我心里总觉得他们在看我。是不是觉得我做得不够好，是不是觉得这个家没我丈夫就不行了。这些话白天不敢想，夜里就全冒出来了。）"
+      }
+    }
+  ],
+  "created": 1794538998,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2188,
+    "total_tokens": 2308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

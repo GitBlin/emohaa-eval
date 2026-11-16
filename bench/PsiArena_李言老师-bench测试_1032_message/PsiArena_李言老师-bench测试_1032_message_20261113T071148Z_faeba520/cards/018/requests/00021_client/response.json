@@ -1,0 +1,41 @@
+{
+  "id": "13a525ee134b457c85d78ee4f18abe16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我想着，说完那句就先停一停，不逼自己一次讲完。她要是愿意听，我再往下说；要是气氛不对，我也可以说“今天先到这”。这样是不是有点怂？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我给自己留多少余地，这问题挺实在的。我不想把周末搞成一场必须谈出结果的对话，那样压力太大了。也许我可以先只把那句“我有点怕”说出口，剩下的看情况。要是她愿意听，我就多说一点；要是气氛不对，我也允许自己停下来。）\n（说实话，能这么想我心里松快了一些。以前我总想着要么全说要么不说，现在觉得中间留点空间也挺好。这样既不会把自己逼太紧，也不会完全逃避。）",
+        "reasoning": "（咨询师问我给自己留多少余地，这问题挺实在的。我不想把周末搞成一场必须谈出结果的对话，那样压力太大了。也许我可以先只把那句“我有点怕”说出口，剩下的看情况。要是她愿意听，我就多说一点；要是气氛不对，我也允许自己停下来。）\n（说实话，能这么想我心里松快了一些。以前我总想着要么全说要么不说，现在觉得中间留点空间也挺好。这样既不会把自己逼太紧，也不会完全逃避。）"
+      }
+    }
+  ],
+  "created": 1794554738,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2975,
+    "total_tokens": 3132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "trial_id": "trial_001948",
+  "sample_id": "EA:50",
+  "task": "EA",
+  "language": "zh",
+  "repeat": 1,
+  "category": "Personal-Others",
+  "fine_category": null,
+  "question_type": "Response",
+  "labels": {
+    "answer": "C"
+  },
+  "maps": {
+    "answer": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_a290b9c5e4c6cb5849f38fffc2d9996e8918a201",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "{\n    \"answer\": \"B\"\n}",
+  "prediction_original": {
+    "answer": "B"
+  },
+  "component_correct": {
+    "answer": false
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T04:01:52.540357+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer": "B"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.302727837115526,
+  "finished_at": "2026-11-11T04:01:54.843048+00:00"
+}

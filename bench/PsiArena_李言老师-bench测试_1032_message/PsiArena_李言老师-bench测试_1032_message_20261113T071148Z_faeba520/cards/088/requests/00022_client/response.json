@@ -1,0 +1,41 @@
+{
+  "id": "cf943fe26eaa4f7987e88db62d6e7c80",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先说说考试前那种紧张吧，这个他应该能懂。咬手的事……可能先不提，太怪了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如果同桌认真听了，我打算说多少。他好像是在帮我想清楚具体的步骤，不是逼我一下子全说出来。我心里有点犹豫，因为我不太习惯跟别人讲太多自己的事，怕说多了显得矫情，也怕对方觉得烦。）\n（不过想想，先说说考试前的紧张应该还行，这个比较常见，不算太奇怪。至于咬手的事，还是先不提吧，那个太丢人了。这样分着说，我自己心里也踏实一点，不会一下子把底全露出来。）",
+        "reasoning": "（咨询师在问我如果同桌认真听了，我打算说多少。他好像是在帮我想清楚具体的步骤，不是逼我一下子全说出来。我心里有点犹豫，因为我不太习惯跟别人讲太多自己的事，怕说多了显得矫情，也怕对方觉得烦。）\n（不过想想，先说说考试前的紧张应该还行，这个比较常见，不算太奇怪。至于咬手的事，还是先不提吧，那个太丢人了。这样分着说，我自己心里也踏实一点，不会一下子把底全露出来。）"
+      }
+    }
+  ],
+  "created": 1794558119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2793,
+    "total_tokens": 2934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

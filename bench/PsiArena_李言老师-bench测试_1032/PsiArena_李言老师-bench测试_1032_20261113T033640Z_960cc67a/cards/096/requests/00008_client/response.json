@@ -1,0 +1,41 @@
+{
+  "id": "c7f5ec91cfab4273836e4852c99fe51d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是我妈吧。她不会骂我，就是叹口气，说“下次努力”。可那个语气，比骂我还难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我在回忆谁的表情……她好像注意到我描述得很具体。其实我脑子里第一个冒出来的就是我妈，每次成绩单拿回家她那种叹气又装作没事的样子。）\n（说起来，好像从小到大都是这样，考好了是应该的，考不好就是我不够努力。我好像一直在等他们满意，可怎么都等不到。）",
+        "reasoning": "（咨询师问我在回忆谁的表情……她好像注意到我描述得很具体。其实我脑子里第一个冒出来的就是我妈，每次成绩单拿回家她那种叹气又装作没事的样子。）\n（说起来，好像从小到大都是这样，考好了是应该的，考不好就是我不够努力。我好像一直在等他们满意，可怎么都等不到。）"
+      }
+    }
+  ],
+  "created": 1794546365,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1534,
+    "total_tokens": 1639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_000014",
+  "sample_id": "Knowledge-Attention Links:3",
+  "task_file": "Knowledge-Attention Links",
+  "ability": "Knowledge: Knowledge-attention links",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "A",
+    "B": "D",
+    "C": "B",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "D",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:10:24.802136+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:10:46.459724+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "9c886fec9c2b4a9d8060348cc0310eb3"
+  ],
+  "started_at": "2026-11-12T09:10:24.802136+00:00",
+  "finished_at": "2026-11-12T09:10:50.197695+00:00",
+  "elapsed_seconds": 25.39565483480692,
+  "user_id": "liyan_06993123702fdbd4eddd3f7bef7a9baab5e03696"
+}

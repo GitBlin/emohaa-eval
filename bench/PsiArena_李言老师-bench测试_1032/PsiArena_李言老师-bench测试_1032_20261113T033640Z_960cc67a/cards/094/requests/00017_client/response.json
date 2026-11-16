@@ -1,0 +1,41 @@
+{
+  "id": "cb1a5bc844da4631a67340910e54306d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "向父母吧，也可能是同事、领导……（声音低下来）好像谁都在看着，我不能掉链子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我在向谁证明，这个问题让我心里一紧。我好像从来没认真想过，只是一直在跑，怕停下来。）\n（父母的脸先冒出来，他们总说做事要靠谱、别让人操心。可同事、领导也都在看着，我好像不能让他们失望。这种感觉压得我喘不过气。）",
+        "reasoning": "（咨询师问我在向谁证明，这个问题让我心里一紧。我好像从来没认真想过，只是一直在跑，怕停下来。）\n（父母的脸先冒出来，他们总说做事要靠谱、别让人操心。可同事、领导也都在看着，我好像不能让他们失望。这种感觉压得我喘不过气。）"
+      }
+    }
+  ],
+  "created": 1794546167,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2406,
+    "total_tokens": 2501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

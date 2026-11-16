@@ -1,0 +1,41 @@
+{
+  "id": "406c121a67da4af094759ec5be31d2e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是上学那会儿吧。考好了才有笑脸，考差了她就那种眼神，不说话。后来我就学会了，先自己检讨，她反而会……会缓和一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是这份惯性从什么时候开始变重，我得回想一下小时候的事。其实那种感觉一直都在，只是以前没这么明显。）\n（小时候考好了才有笑脸，考差了就是那种眼神，让我觉得自己不够好。好像从那时候起，我就学会先挑自己的毛病，才能让家里气氛好一点。）",
+        "reasoning": "（咨询师问的是这份惯性从什么时候开始变重，我得回想一下小时候的事。其实那种感觉一直都在，只是以前没这么明显。）\n（小时候考好了才有笑脸，考差了就是那种眼神，让我觉得自己不够好。好像从那时候起，我就学会先挑自己的毛病，才能让家里气氛好一点。）"
+      }
+    }
+  ],
+  "created": 1794554889,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2151,
+    "total_tokens": 2256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "22bbee9bded94a51926633b2572cc669",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（小声重复）医生，她不肯吃药，我一个人劝不动……这样说，行吗？我怕声音太小人家听不见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我练习那句话，这让我有点意外，但也觉得踏实。虽然还是紧张，但有人陪着练好像没那么可怕了。我担心自己到时候会忘，或者声音太小。）\n（不过既然咨询师这么耐心，我愿意试试。只是想到要真的说出口，心里还是打鼓，怕自己表现不好。）",
+        "reasoning": "（咨询师建议我练习那句话，这让我有点意外，但也觉得踏实。虽然还是紧张，但有人陪着练好像没那么可怕了。我担心自己到时候会忘，或者声音太小。）\n（不过既然咨询师这么耐心，我愿意试试。只是想到要真的说出口，心里还是打鼓，怕自己表现不好。）"
+      }
+    }
+  ],
+  "created": 1794557006,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2733,
+    "total_tokens": 2830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

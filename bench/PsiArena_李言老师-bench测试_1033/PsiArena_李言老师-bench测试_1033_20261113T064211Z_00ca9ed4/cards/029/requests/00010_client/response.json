@@ -1,0 +1,41 @@
+{
+  "id": "0208b097aaee4872b0bb2ec2b3f5a0eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被管的那股，肯定是我妈的，从小听到大。可我自己那股……（叹气）我自己那股好像就是不想被人觉得我过得差。这算不算很虚荣啊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我哪股声音像我妈、哪股像我自己，这问题一下子戳到我了。我从来没这么分过，但仔细想想，确实不一样。我妈那套节俭、别乱花钱的话，从小听到大，已经变成我脑子里的背景音了。）\n（可我自己的声音呢，好像总在说“我也想被看见”。这么一说出来，心里有点酸，也有点明白为什么每次买完东西又后悔又停不下来。可能我一直在用买东西来证明什么，但到底是证明给谁看，我也说不清。）",
+        "reasoning": "（咨询师问我哪股声音像我妈、哪股像我自己，这问题一下子戳到我了。我从来没这么分过，但仔细想想，确实不一样。我妈那套节俭、别乱花钱的话，从小听到大，已经变成我脑子里的背景音了。）\n（可我自己的声音呢，好像总在说“我也想被看见”。这么一说出来，心里有点酸，也有点明白为什么每次买完东西又后悔又停不下来。可能我一直在用买东西来证明什么，但到底是证明给谁看，我也说不清。）"
+      }
+    }
+  ],
+  "created": 1794553428,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 1804,
+    "total_tokens": 1959,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

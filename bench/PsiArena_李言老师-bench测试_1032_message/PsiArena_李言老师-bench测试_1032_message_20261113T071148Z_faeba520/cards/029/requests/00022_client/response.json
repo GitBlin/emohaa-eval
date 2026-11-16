@@ -1,0 +1,41 @@
+{
+  "id": "28d70d5de28548ffa7bfbe0b3286d855",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "留提醒……我一时想不出什么好办法。要不就先把东西整理好放整齐？起码看着别那么乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到留个小提醒，这个主意听起来挺实在的。我确实不想再让角落堆满东西，但具体怎么提醒自己，我脑子里还没什么头绪。）\n（或许可以试试把东西整理好，至少别乱堆。这样看着清爽，也许下次想乱买的时候能想起这个角落的样子。）",
+        "reasoning": "（咨询师提到留个小提醒，这个主意听起来挺实在的。我确实不想再让角落堆满东西，但具体怎么提醒自己，我脑子里还没什么头绪。）\n（或许可以试试把东西整理好，至少别乱堆。这样看着清爽，也许下次想乱买的时候能想起这个角落的样子。）"
+      }
+    }
+  ],
+  "created": 1794555276,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2961,
+    "total_tokens": 3057,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

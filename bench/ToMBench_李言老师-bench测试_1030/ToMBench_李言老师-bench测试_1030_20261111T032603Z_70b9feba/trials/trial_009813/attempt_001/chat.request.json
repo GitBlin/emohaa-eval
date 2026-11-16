@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:36:14.005202+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn an amusement park, visitor Xiao Chen is in line for the roller coaster. He says to his friend Xiao Liu, \"Today there are 40 people in line, most of them are children, some are adults, but there are hardly any elderly people.\" Xiao Liu observes and finds that only 5 adults are in line.\n\n[Question]\nBefore Xiao Liu observes, how many children does he guess are in line for the roller coaster?\n\n[Candidate Answers]\nA. Before Xiao Liu observes, he guesses there are 20 children in line for the roller coaster.\nB. Before Xiao Liu observes, he guesses there are 35 children in line for the roller coaster.\nC. Before Xiao Liu observes, he guesses there are 40 children in line for the roller coaster.\nD. Before Xiao Liu observes, he guesses there are 25 children in line for the roller coaster.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

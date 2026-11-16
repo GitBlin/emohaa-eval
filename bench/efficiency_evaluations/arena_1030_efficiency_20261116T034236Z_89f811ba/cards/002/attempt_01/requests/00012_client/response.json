@@ -1,0 +1,47 @@
+{
+  "id": "812483e90c834b8692749ee4432bc893",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我会很乖，不吵不闹，她说什么我就做什么。现在想想，好像我一直在用“听话”换别人别走。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问那时候我会做什么来让自己显得更值得被留下……这个问题一下子把我拉回到小时候。我好像真的做过很多事，都是为了让妈妈多看我一眼。比如很乖，不吵不闹，她说什么就是什么。）\n（现在想想，那种乖不是真的乖，是怕。怕自己一不听话，就更没人要了。这种怕好像一直跟着我，到了朋友这里，就变成我拼命去配合别人，把自己缩得很小。）",
+        "reasoning": "（她问那时候我会做什么来让自己显得更值得被留下……这个问题一下子把我拉回到小时候。我好像真的做过很多事，都是为了让妈妈多看我一眼。比如很乖，不吵不闹，她说什么就是什么。）\n（现在想想，那种乖不是真的乖，是怕。怕自己一不听话，就更没人要了。这种怕好像一直跟着我，到了朋友这里，就变成我拼命去配合别人，把自己缩得很小。）"
+      }
+    }
+  ],
+  "created": 1794800614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2152,
+    "total_tokens": 2280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1792,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "663dd4b19cd64be18dfc15da0d30c0d0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……也许可以说“我明天有早课，能不能戴个耳机”这种？比直接说“小声点”好像没那么冲。就是不知道说完之后，他们要是还那样，我该怎么办。</think>也许可以说“我明天有早课，能不能戴个耳机”这种？比直接说“小声点”好像没那么冲。就是不知道说完之后，他们要是还那样，我该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体的话，而不是让我一个人硬扛。可我还是觉得直接说“小声点”太冲了，怕他们觉得我在管他们。要是换个说法，比如提一下自己第二天有课，会不会好一点？这样至少不是在指责他们。）\n（不过说完之后呢，万一他们还是老样子，我总不能每次都重复吧。想到要反复开口，心里又有点打退堂鼓，但总比一直忍着强。）",
+        "reasoning": "（咨询师在帮我想具体的话，而不是让我一个人硬扛。可我还是觉得直接说“小声点”太冲了，怕他们觉得我在管他们。要是换个说法，比如提一下自己第二天有课，会不会好一点？这样至少不是在指责他们。）\n（不过说完之后呢，万一他们还是老样子，我总不能每次都重复吧。想到要反复开口，心里又有点打退堂鼓，但总比一直忍着强。）"
+      }
+    }
+  ],
+  "created": 1794552400,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 180,
+    "prompt_tokens": 2542,
+    "total_tokens": 2722,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cb34ae76a7984406b8584c861a8d2dc8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先别急着骂自己吧，就承认“哦，又烦了”。不过说起来容易，真到那时候我大概还是会跟自己较劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考应对烦躁的具体方法，而不是要我立刻解决所有问题。我有点不确定自己能不能做到，但既然已经决定试试，就顺着这个思路想下去吧。也许可以先承认烦躁的存在，而不是硬压着它。）\n（不过我还是担心自己会搞砸，毕竟以前每次尝试放松都失败了。如果连这么小的实验都做不好，大概又会陷入自责的循环里。）",
+        "reasoning": "（咨询师在引导我思考应对烦躁的具体方法，而不是要我立刻解决所有问题。我有点不确定自己能不能做到，但既然已经决定试试，就顺着这个思路想下去吧。也许可以先承认烦躁的存在，而不是硬压着它。）\n（不过我还是担心自己会搞砸，毕竟以前每次尝试放松都失败了。如果连这么小的实验都做不好，大概又会陷入自责的循环里。）"
+      }
+    }
+  ],
+  "created": 1794558471,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2279,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

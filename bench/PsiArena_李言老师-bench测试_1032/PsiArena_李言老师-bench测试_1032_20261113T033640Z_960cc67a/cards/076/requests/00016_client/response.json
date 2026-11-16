@@ -1,0 +1,41 @@
+{
+  "id": "0703045844854b21bd77dd83a87794b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近一次……应该是在周会前，我坐在工位上反复改待办清单，越改越乱。那时候我就想，能不能先做点具体的小事，别一直盯着自己“行不行”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次出现这种情况的场景，看来是想帮我理清触发点。虽然还是有点慌，但比起刚开始，我好像能稍微抓住一点具体的东西了。）\n（也许可以从最近一次周会开始说起，但不用一下子讲太多。先提一下当时正在做什么，看看咨询师会怎么回应。这样既不会太乱，也能让自己慢慢稳下来。）",
+        "reasoning": "（咨询师在问我最近一次出现这种情况的场景，看来是想帮我理清触发点。虽然还是有点慌，但比起刚开始，我好像能稍微抓住一点具体的东西了。）\n（也许可以从最近一次周会开始说起，但不用一下子讲太多。先提一下当时正在做什么，看看咨询师会怎么回应。这样既不会太乱，也能让自己慢慢稳下来。）"
+      }
+    }
+  ],
+  "created": 1794545185,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2470,
+    "total_tokens": 2596,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

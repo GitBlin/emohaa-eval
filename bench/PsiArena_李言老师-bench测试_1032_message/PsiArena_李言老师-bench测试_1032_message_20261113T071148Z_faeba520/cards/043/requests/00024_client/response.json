@@ -1,0 +1,41 @@
+{
+  "id": "2f165083e9044b6ca6f4c417c0bd4cc3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "课间吧，人少的时候。放学路上也行，就是别拖太久，我怕又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体时间，课间还是放学路上。她好像挺在意我能不能真的去做，不是光说说。我想了想，课间太短，而且周围人多，万一她不想聊会尴尬。放学路上边走边说，可能更自然一点。）\n（不过我也不能保证一定说得出口，心里还是有点虚。先定个大概，到时候看情况吧，别给自己太大压力。）",
+        "reasoning": "（咨询师问的是具体时间，课间还是放学路上。她好像挺在意我能不能真的去做，不是光说说。我想了想，课间太短，而且周围人多，万一她不想聊会尴尬。放学路上边走边说，可能更自然一点。）\n（不过我也不能保证一定说得出口，心里还是有点虚。先定个大概，到时候看情况吧，别给自己太大压力。）"
+      }
+    }
+  ],
+  "created": 1794555792,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3269,
+    "total_tokens": 3379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

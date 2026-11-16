@@ -1,0 +1,41 @@
+{
+  "id": "1c7d24f75fb041ddaa8e32c0060a32f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“我最近真的撑不住了”，然后停一下，别急着补“你别多想”。后面再说送孩子的事。就是不知道，说完这句我还能不能接下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把话具体化，让我想清楚那晚开口的第一句。我脑子里翻来覆去，觉得还是得从自己最真实的感受说起，不然又变成绕圈子谈事了。可话到嘴边，还是怕一开口就收不住，情绪比话先出来。）\n（不过既然都想到这一步了，总得有个开始。我打算先说“我最近真的撑不住了”，后面再补一句不是怪他，这样也许能让他别那么防备。只是说完这句，我可能就不知道该怎么接下去了。）",
+        "reasoning": "（咨询师在帮我把话具体化，让我想清楚那晚开口的第一句。我脑子里翻来覆去，觉得还是得从自己最真实的感受说起，不然又变成绕圈子谈事了。可话到嘴边，还是怕一开口就收不住，情绪比话先出来。）\n（不过既然都想到这一步了，总得有个开始。我打算先说“我最近真的撑不住了”，后面再补一句不是怪他，这样也许能让他别那么防备。只是说完这句，我可能就不知道该怎么接下去了。）"
+      }
+    }
+  ],
+  "created": 1794537244,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 3215,
+    "total_tokens": 3368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

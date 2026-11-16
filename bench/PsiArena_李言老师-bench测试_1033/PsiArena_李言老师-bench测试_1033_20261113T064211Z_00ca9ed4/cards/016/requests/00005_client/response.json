@@ -1,0 +1,41 @@
+{
+  "id": "c5489c8025c443899c2ca80a5e1885b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……（停顿）说实话，我还没想那么远。对了，我想问一下，我跟你说的事情，你会告诉别人吗？比如我家里人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我如果话说出口会担心什么……这让我有点紧张。她是不是在试探我？我其实还没准备好把家里那些事都说出来，尤其是关于父亲的。我得先看看她值不值得信任。）\n（而且我突然想到，如果我真的说了，她会不会转头就告诉别人？毕竟这种事……太私密了。也许我该先问问她怎么保密，这样我才能稍微安心一点。）",
+        "reasoning": "（咨询师问我如果话说出口会担心什么……这让我有点紧张。她是不是在试探我？我其实还没准备好把家里那些事都说出来，尤其是关于父亲的。我得先看看她值不值得信任。）\n（而且我突然想到，如果我真的说了，她会不会转头就告诉别人？毕竟这种事……太私密了。也许我该先问问她怎么保密，这样我才能稍微安心一点。）"
+      }
+    }
+  ],
+  "created": 1794552749,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1303,
+    "total_tokens": 1422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

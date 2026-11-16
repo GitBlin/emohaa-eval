@@ -1,0 +1,41 @@
+{
+  "id": "d1c5132d1d7b4d0388bcf44642fc1d60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "别马上道歉，也别立刻把错都揽到自己身上。……我好像总是这样，一被否定就先认错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我区分“他的反应”和“我如何对待自己”，这让我稍微松了口气。可“别做什么”这个问题让我有点卡住，我第一反应还是怪自己。）\n（我确实很怕一被否定就立刻认错，或者把错全揽到自己身上。也许我该把这一点说出来，但说得简单点，别又绕回自我怀疑里。）",
+        "reasoning": "（咨询师在帮我区分“他的反应”和“我如何对待自己”，这让我稍微松了口气。可“别做什么”这个问题让我有点卡住，我第一反应还是怪自己。）\n（我确实很怕一被否定就立刻认错，或者把错全揽到自己身上。也许我该把这一点说出来，但说得简单点，别又绕回自我怀疑里。）"
+      }
+    }
+  ],
+  "created": 1794555661,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3330,
+    "total_tokens": 3439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

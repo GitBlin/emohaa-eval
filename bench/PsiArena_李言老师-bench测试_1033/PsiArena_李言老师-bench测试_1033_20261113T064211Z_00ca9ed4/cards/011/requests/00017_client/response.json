@@ -1,0 +1,41 @@
+{
+  "id": "6f4dfdda491d465cbc687322934d0933",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试。（停顿）可我有点怕，万一他说“我也累”，我是不是又不知道接什么了。你觉得我该怎么往下说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试试说“我最近有点累”，可我心里还是没底。万一他回一句“我也累”，我可能就再也不想开口了。这种担心不说出来，我可能一直不敢试。）\n（但光担心也不是办法，总得想个不那么难开口的方式。先问问他可能会怎么反应，也许能让我心里踏实一点，也算给自己找个台阶。）",
+        "reasoning": "（她让我试试说“我最近有点累”，可我心里还是没底。万一他回一句“我也累”，我可能就再也不想开口了。这种担心不说出来，我可能一直不敢试。）\n（但光担心也不是办法，总得想个不那么难开口的方式。先问问他可能会怎么反应，也许能让我心里踏实一点，也算给自己找个台阶。）"
+      }
+    }
+  ],
+  "created": 1794552611,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2756,
+    "total_tokens": 2868,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bdf66cba86fd4372b27f8fb67d19168d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点酸……也有点想哭。说出来之后，好像反而松了一口气，原来我一直是这么觉得的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这句话说出来是什么感觉……我一下子有点堵。刚才那句话其实是我心里压了很久的，说出来的时候没觉得什么，现在被她一问，反倒有点想哭。）\n（我是不是又显得太脆弱了？但好像在她面前，我不用那么用力装着。就是那种，终于有人看见我一直在扛着的东西，有点酸，也有点松。）",
+        "reasoning": "（她问我这句话说出来是什么感觉……我一下子有点堵。刚才那句话其实是我心里压了很久的，说出来的时候没觉得什么，现在被她一问，反倒有点想哭。）\n（我是不是又显得太脆弱了？但好像在她面前，我不用那么用力装着。就是那种，终于有人看见我一直在扛着的东西，有点酸，也有点松。）"
+      }
+    }
+  ],
+  "created": 1794556529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1815,
+    "total_tokens": 1915,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

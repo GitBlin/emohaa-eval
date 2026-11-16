@@ -1,0 +1,41 @@
+{
+  "id": "7ad4a351b29c4576acb31555e32d2705",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试先在心里说一句“又来了，这是他的声音”，不急着反驳。哪怕就停几秒也行。就是不知道真到那时候，做不做得到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我下次想怎么应对。以前我从来没想过还能“应对”，都是被它推着走。现在好像有个缝隙，我可以先停一下。）\n（也许可以先在心里认一下，那是爸的语气，不一定是我。然后别急着反驳，哪怕只忍几秒钟。听起来简单，做起来难，但至少有个具体的抓手。）",
+        "reasoning": "（他问我下次想怎么应对。以前我从来没想过还能“应对”，都是被它推着走。现在好像有个缝隙，我可以先停一下。）\n（也许可以先在心里认一下，那是爸的语气，不一定是我。然后别急着反驳，哪怕只忍几秒钟。听起来简单，做起来难，但至少有个具体的抓手。）"
+      }
+    }
+  ],
+  "created": 1794557842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2502,
+    "total_tokens": 2610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

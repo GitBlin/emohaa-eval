@@ -1,0 +1,41 @@
+{
+  "id": "dca0e04082b44d34888a70f14525ded0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有人是有的……家里人会搭把手。但说实话，我好像也不太放心交给别人，总觉得孩子的事得我自己来。可能是我太较真了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起孩子出生后有没有人帮忙分担，这让我想起那些日子。其实不是完全没人，但那种帮忙总让我更紧张，好像我连最基本的都做不好。我有点犹豫要不要说这些，毕竟说出来显得自己很不知好歹。）\n（算了，还是简单说一下吧。就说家里人会搭把手，但我自己放不下心，总觉得孩子的事得我亲自来。这样既回答了问题，又不会显得太抱怨。）",
+        "reasoning": "（她问起孩子出生后有没有人帮忙分担，这让我想起那些日子。其实不是完全没人，但那种帮忙总让我更紧张，好像我连最基本的都做不好。我有点犹豫要不要说这些，毕竟说出来显得自己很不知好歹。）\n（算了，还是简单说一下吧。就说家里人会搭把手，但我自己放不下心，总觉得孩子的事得我亲自来。这样既回答了问题，又不会显得太抱怨。）"
+      }
+    }
+  ],
+  "created": 1794535041,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1545,
+    "total_tokens": 1673,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

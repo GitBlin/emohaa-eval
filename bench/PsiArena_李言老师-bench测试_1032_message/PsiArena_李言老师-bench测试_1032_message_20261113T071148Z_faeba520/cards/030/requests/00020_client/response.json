@@ -1,0 +1,41 @@
+{
+  "id": "dd123ba3443c42bf9781092f4308cff5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……先顺着写吧，别给自己定太多框框。不过我心里最想理清的，还是那个怕——到底在怕什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，好像真的在帮我落地这件事。我本来只是随口说今晚写，现在被她一问，反而得认真想想怎么写了。顺着写可能容易，但会不会又绕圈？）\n（先定个问题的话，至少有个方向，不至于写成一团乱麻。可我又担心太刻意了，写出来像在完成任务。还是得从心里最堵的那个地方开始吧。）",
+        "reasoning": "（她问得挺细的，好像真的在帮我落地这件事。我本来只是随口说今晚写，现在被她一问，反而得认真想想怎么写了。顺着写可能容易，但会不会又绕圈？）\n（先定个问题的话，至少有个方向，不至于写成一团乱麻。可我又担心太刻意了，写出来像在完成任务。还是得从心里最堵的那个地方开始吧。）"
+      }
+    }
+  ],
+  "created": 1794555277,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2742,
+    "total_tokens": 2862,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

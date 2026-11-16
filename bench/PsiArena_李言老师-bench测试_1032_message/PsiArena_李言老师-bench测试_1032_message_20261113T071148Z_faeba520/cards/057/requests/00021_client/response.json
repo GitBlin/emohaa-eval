@@ -1,0 +1,41 @@
+{
+  "id": "86515c2fc5404ed08323faaa7a3b9985",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试吧。以前断了就干脆不管了，这次……尽量别那样。写一句也算的话，可能没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会不会第二天接着来，而不是干脆放弃。我其实心里没底，因为以前很多事都是开头认真，后来就不了了之。但她说断断续续也算照顾自己，这句话让我稍微没那么怕自己做不到。）\n（我想了想，如果真断了，我可能会自责，然后更不想碰那个本子。可如果只要求自己写一句，好像就没那么难。也许我可以先答应试试，不把话说太满。）",
+        "reasoning": "（她问我会不会第二天接着来，而不是干脆放弃。我其实心里没底，因为以前很多事都是开头认真，后来就不了了之。但她说断断续续也算照顾自己，这句话让我稍微没那么怕自己做不到。）\n（我想了想，如果真断了，我可能会自责，然后更不想碰那个本子。可如果只要求自己写一句，好像就没那么难。也许我可以先答应试试，不把话说太满。）"
+      }
+    }
+  ],
+  "created": 1794556548,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2892,
+    "total_tokens": 3016,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

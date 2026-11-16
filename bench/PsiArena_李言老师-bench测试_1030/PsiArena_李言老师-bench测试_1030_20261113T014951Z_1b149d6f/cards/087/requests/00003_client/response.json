@@ -1,0 +1,41 @@
+{
+  "id": "da96e360c86d492f86650ac8ae96b3eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也不是睡不着，就是到了晚上不想睡……一直拿着手机。嗯，我有点想问，你们咨询会不会问很多私人的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我睡得晚的具体情况，是想帮我理清问题。但我现在还没准备好把那些事说清楚，有点怕被追问下去。我想先试探一下，看看咨询到底会怎么进行，会不会逼我说太多。）\n（而且我确实也说不清楚自己为什么会这样，就是觉得晚上很难熬。先含糊一点回应，顺便问问咨询会不会涉及隐私，这样我也能安心一点。）",
+        "reasoning": "（咨询师在问我睡得晚的具体情况，是想帮我理清问题。但我现在还没准备好把那些事说清楚，有点怕被追问下去。我想先试探一下，看看咨询到底会怎么进行，会不会逼我说太多。）\n（而且我确实也说不清楚自己为什么会这样，就是觉得晚上很难熬。先含糊一点回应，顺便问问咨询会不会涉及隐私，这样我也能安心一点。）"
+      }
+    }
+  ],
+  "created": 1794539510,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1129,
+    "total_tokens": 1243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

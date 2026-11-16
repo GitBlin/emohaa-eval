@@ -1,0 +1,41 @@
+{
+  "id": "75402810db13472f8d3313736558f145",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先只说到“撑不住”吧。一次说太多我怕自己乱，也怕他消化不了。剩下的，等这口气缓过来再讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算说到哪一步就停，好像是在帮我掂量这个晚上该怎么开口。我其实心里也没底，怕一次说太多反而收不住。）\n（先只说到撑不住吧，这样我自己能松一口气，他也不用一下子接太多。至于想靠近的话，等这口气缓过来再说，可能更自然。）",
+        "reasoning": "（她问我打算说到哪一步就停，好像是在帮我掂量这个晚上该怎么开口。我其实心里也没底，怕一次说太多反而收不住。）\n（先只说到撑不住吧，这样我自己能松一口气，他也不用一下子接太多。至于想靠近的话，等这口气缓过来再说，可能更自然。）"
+      }
+    }
+  ],
+  "created": 1794539088,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3586,
+    "total_tokens": 3690,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

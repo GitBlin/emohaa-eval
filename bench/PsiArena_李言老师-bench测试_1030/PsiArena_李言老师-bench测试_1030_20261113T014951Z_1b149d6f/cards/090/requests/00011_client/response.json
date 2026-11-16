@@ -1,0 +1,41 @@
+{
+  "id": "eee8c11c15d94db5b7ec7ed8e21e8098",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不是伤我自己……是，是我会控制不住对家里的狗发脾气。我知道这样不对，可当时就是忍不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问是不是伤到自己……不是，但比那个更让我说不出口。我真的不想说出口，可刚才都说到这了，再躲好像更奇怪。）\n（其实每次都是冲着狗去的，它什么都不知道，就那么看着我。我明明知道不对，可火一上来就控制不住，事后又特别恨自己。这种感觉太难受了。）",
+        "reasoning": "（她问是不是伤到自己……不是，但比那个更让我说不出口。我真的不想说出口，可刚才都说到这了，再躲好像更奇怪。）\n（其实每次都是冲着狗去的，它什么都不知道，就那么看着我。我明明知道不对，可火一上来就控制不住，事后又特别恨自己。这种感觉太难受了。）"
+      }
+    }
+  ],
+  "created": 1794539805,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1887,
+    "total_tokens": 1987,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

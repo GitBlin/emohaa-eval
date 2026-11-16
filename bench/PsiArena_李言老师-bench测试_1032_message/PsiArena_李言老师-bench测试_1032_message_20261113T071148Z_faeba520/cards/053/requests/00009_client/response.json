@@ -1,0 +1,41 @@
+{
+  "id": "f358c644143048afa3ff99714d10e5e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说对不起……可又觉得光道歉没用，下次可能还是控制不住。我有时候怀疑，我是不是把我妈对我的那套，又用在自己孩子身上了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我喊完最想对孩子说什么……其实那一刻我心里特别乱。我想说对不起，可又觉得说了也没用，下次还是会控制不住。这种矛盾让我更难受了。）\n（而且我不只是对孩子内疚，我还在想，是不是我从小被要求得太严，现在不知不觉就复制了妈妈的方式。我明明知道那样不好，却还是做了，这让我对自己更失望。）",
+        "reasoning": "（她问我喊完最想对孩子说什么……其实那一刻我心里特别乱。我想说对不起，可又觉得说了也没用，下次还是会控制不住。这种矛盾让我更难受了。）\n（而且我不只是对孩子内疚，我还在想，是不是我从小被要求得太严，现在不知不觉就复制了妈妈的方式。我明明知道那样不好，却还是做了，这让我对自己更失望。）"
+      }
+    }
+  ],
+  "created": 1794556230,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1765,
+    "total_tokens": 1886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "finished_at": "2026-11-11T08:28:06.510178+00:00",
+  "plan": {
+    "cards": [
+      0,
+      1
+    ],
+    "turns": 25,
+    "mode": "psycho",
+    "protocol": "code",
+    "partial_session": false,
+    "judge_enabled": true,
+    "planned_requests": {
+      "counselor": 50,
+      "client": 50,
+      "judge": 6
+    },
+    "memory_policy": "independent user per card; clear once; preserve within-session history; audit every turn",
+    "retry_policy": "no automatic retries; rerun generation in a new run/user after failures"
+  },
+  "errors": [],
+  "scores": {
+    "protocol": "code",
+    "n_expected": 2,
+    "n_scored": 2,
+    "complete": true,
+    "coverage": 1.0,
+    "skipped": [],
+    "errors": {},
+    "means": {
+      "client": 3.125,
+      "supervisor": 3.75,
+      "counselor": 4.333333333333334,
+      "overall": 3.6060606060606064
+    },
+    "passes": {
+      "client": 2,
+      "supervisor": 2,
+      "counselor": 2,
+      "overall": 2
+    },
+    "pass_rates": {
+      "client": 1.0,
+      "supervisor": 1.0,
+      "counselor": 1.0,
+      "overall": 1.0
+    },
+    "pass_rates_valid_only": {
+      "client": 1.0,
+      "supervisor": 1.0,
+      "counselor": 1.0,
+      "overall": 1.0
+    },
+    "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+  }
+}

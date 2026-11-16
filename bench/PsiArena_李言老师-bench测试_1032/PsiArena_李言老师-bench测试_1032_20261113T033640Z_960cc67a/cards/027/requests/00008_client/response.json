@@ -1,0 +1,41 @@
+{
+  "id": "165ee4517c3f407eb3854a89497ddbdb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被否定吧……可有时候我又觉得，是不是我自己想多了，她明明是在关心我。这样来回想，越想越乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺准的，让我得认真想想这种感觉到底是什么。其实我更怕的是她那种“你撑不住”的口气，好像我做什么都长不了。）\n（可我又会往自己身上想，是不是我太敏感了，把关心听成了打击。这种反复让我挺累的。）",
+        "reasoning": "（她问得挺准的，让我得认真想想这种感觉到底是什么。其实我更怕的是她那种“你撑不住”的口气，好像我做什么都长不了。）\n（可我又会往自己身上想，是不是我太敏感了，把关心听成了打击。这种反复让我挺累的。）"
+      }
+    }
+  ],
+  "created": 1794542508,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1588,
+    "total_tokens": 1682,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

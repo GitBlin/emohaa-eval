@@ -1,0 +1,41 @@
+{
+  "id": "a637095579974b7aa9e2e4d94795f7e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先跟朋友说。（顿了顿）街上的那个，可能得慢慢来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法落地，问我先试哪个。我其实心里有点数了，跟朋友开口可能比在街上停下来更容易一点，毕竟朋友是安全的。但我也知道，真正让我难受的是街上的那种恐惧，所以两件事我都想试试。）\n（不过说出来的时候还是有点犹豫，怕自己做不到。先约朋友吧，这个把握大一些，街上那个……慢慢来。）",
+        "reasoning": "（咨询师在帮我把想法落地，问我先试哪个。我其实心里有点数了，跟朋友开口可能比在街上停下来更容易一点，毕竟朋友是安全的。但我也知道，真正让我难受的是街上的那种恐惧，所以两件事我都想试试。）\n（不过说出来的时候还是有点犹豫，怕自己做不到。先约朋友吧，这个把握大一些，街上那个……慢慢来。）"
+      }
+    }
+  ],
+  "created": 1794557071,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2531,
+    "total_tokens": 2635,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

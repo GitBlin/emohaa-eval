@@ -1,0 +1,47 @@
+{
+  "id": "f3eb214323c14fc59e44a432f29695d8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）这么一问，我好像……有点愣住。她其实没这么说过，是我自己想的。可能更早吧，小时候我妈忙的时候，我就觉得是不是我不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到这句话是谁的声音……我一下子有点愣住。好像从来没有认真想过，这句话到底是从哪里来的。她这么一问，我脑子里突然闪过小时候的一些画面，那种被冷落的感觉又冒上来了。我有点不确定该不该说，但好像又确实不是朋友说的。）\n（家里那种“朋友最重要”的话，其实一直在提醒我，如果朋友不在了，我好像就什么都不是了。这么一想，心里有点发酸，也许我一直在拿这句话逼自己，怕自己不够好就会被丢下。）",
+        "reasoning": "（她问到这句话是谁的声音……我一下子有点愣住。好像从来没有认真想过，这句话到底是从哪里来的。她这么一问，我脑子里突然闪过小时候的一些画面，那种被冷落的感觉又冒上来了。我有点不确定该不该说，但好像又确实不是朋友说的。）\n（家里那种“朋友最重要”的话，其实一直在提醒我，如果朋友不在了，我好像就什么都不是了。这么一想，心里有点发酸，也许我一直在拿这句话逼自己，怕自己不够好就会被丢下。）"
+      }
+    }
+  ],
+  "created": 1794800609,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2023,
+    "total_tokens": 2176,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1792,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

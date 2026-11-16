@@ -1,0 +1,41 @@
+{
+  "id": "83fc34725eef4154b21813e533d96113",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对……就是那种，好像怎么选都不对。我妈总说忍忍就过去了，可我忍得自己都快炸了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我是不是因为“没得选”才难受，这确实戳到我了。家里的事我很少跟人提，但她好像能顺着我的话往下走，没有急着给建议。）\n（想到我妈以前总说忍忍就过去了，可我现在忍得自己都快炸了。也许可以再多说一点，让她知道这种“没得选”不是突然来的，是从小就习惯了。）",
+        "reasoning": "（她刚才问我是不是因为“没得选”才难受，这确实戳到我了。家里的事我很少跟人提，但她好像能顺着我的话往下走，没有急着给建议。）\n（想到我妈以前总说忍忍就过去了，可我现在忍得自己都快炸了。也许可以再多说一点，让她知道这种“没得选”不是突然来的，是从小就习惯了。）"
+      }
+    }
+  ],
+  "created": 1794544749,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2173,
+    "total_tokens": 2286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

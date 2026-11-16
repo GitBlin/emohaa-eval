@@ -1,0 +1,41 @@
+{
+  "id": "16ee2fdde534438881e5b7fdab596cd2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会……其实还是之前那位咨询师。我知道这样不太对，可那种被接住的感觉，我好像只在他那里有过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我心里会不会闪过某个人的影子，这让我一下子想到之前那位咨询师。虽然有点难为情，但在这里说出来好像也没那么可怕了。）\n（我意识到自己一直把那种被理解的感觉和特定的人绑在一起，也许该试着把那种感觉留下来，而不是只依赖一个人。这样想让我稍微松了口气。）",
+        "reasoning": "（咨询师问我心里会不会闪过某个人的影子，这让我一下子想到之前那位咨询师。虽然有点难为情，但在这里说出来好像也没那么可怕了。）\n（我意识到自己一直把那种被理解的感觉和特定的人绑在一起，也许该试着把那种感觉留下来，而不是只依赖一个人。这样想让我稍微松了口气。）"
+      }
+    }
+  ],
+  "created": 1794536798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2564,
+    "total_tokens": 2664,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

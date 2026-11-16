@@ -1,0 +1,41 @@
+{
+  "id": "374aec3d91a64259a07b1faed3485906",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低着头，声音很轻）就是……操场上，有几个人老是找我麻烦。我也没惹他们，可他们就是……（说不下去了）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又一次跟我保证会保密，让我心里稍微松了一点。可我脑子里一直在想操场上的事，那些人围着我的样子。他问我是不是有什么让我难受的事，我觉得他好像真的在认真听。也许说出来会好一点吧，反正他说不会告诉别人。）\n（但我还是有点怕，不敢一下子就全说出来。先提一下操场上有人找我麻烦，看看他什么反应。如果他说的话让我觉得不对劲，我就马上不说了。不过就算说，我也只打算说一点点，不能把那些难听的话都讲出来。）",
+        "reasoning": "（咨询师又一次跟我保证会保密，让我心里稍微松了一点。可我脑子里一直在想操场上的事，那些人围着我的样子。他问我是不是有什么让我难受的事，我觉得他好像真的在认真听。也许说出来会好一点吧，反正他说不会告诉别人。）\n（但我还是有点怕，不敢一下子就全说出来。先提一下操场上有人找我麻烦，看看他什么反应。如果他说的话让我觉得不对劲，我就马上不说了。不过就算说，我也只打算说一点点，不能把那些难听的话都讲出来。）"
+      }
+    }
+  ],
+  "created": 1794554095,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 1494,
+    "total_tokens": 1641,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

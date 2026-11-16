@@ -1,0 +1,41 @@
+{
+  "id": "d1bc217c12954d438b0bc509af54a8ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）只是查一下的话……好像可以。（稍微放松）那我这周找个晚上，先看看需要什么条件。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把第一步缩到只是查资料，不逼我立刻报名，这让我觉得压力小了很多。只是查一下的话，好像真的可以试试，至少不会像现在这样一直拖着。）\n（而且她说得对，我一直在怕白费，可连查都没查过，就自己先退缩了。心里有点松动，觉得可以给自己定个具体的时间，别又变成空想。）",
+        "reasoning": "（咨询师把第一步缩到只是查资料，不逼我立刻报名，这让我觉得压力小了很多。只是查一下的话，好像真的可以试试，至少不会像现在这样一直拖着。）\n（而且她说得对，我一直在怕白费，可连查都没查过，就自己先退缩了。心里有点松动，觉得可以给自己定个具体的时间，别又变成空想。）"
+      }
+    }
+  ],
+  "created": 1794557730,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3123,
+    "total_tokens": 3236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

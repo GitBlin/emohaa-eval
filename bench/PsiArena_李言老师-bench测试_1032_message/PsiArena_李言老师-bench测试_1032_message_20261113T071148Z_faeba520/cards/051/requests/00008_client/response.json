@@ -1,0 +1,41 @@
+{
+  "id": "c41eb42430c94778a66e0234d73f415f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像谁的语气……（沉默了一下）可能有点像我爸吧。他很少直接骂我，但那种“你怎么就不能稳一点”的意思，我总能感觉到。不过他们也是为我好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我那个声音像谁的语气……这让我一下子想到我爸。他从来不直接骂我，但那种失望的眼神比骂还难受。可我不太想马上承认，好像承认了就是在怪父母似的。）\n（而且说出来有点别扭，毕竟他们确实是为我好。但那种“为你好”的压力，真的压得我喘不过气。）",
+        "reasoning": "（咨询师问我那个声音像谁的语气……这让我一下子想到我爸。他从来不直接骂我，但那种失望的眼神比骂还难受。可我不太想马上承认，好像承认了就是在怪父母似的。）\n（而且说出来有点别扭，毕竟他们确实是为我好。但那种“为你好”的压力，真的压得我喘不过气。）"
+      }
+    }
+  ],
+  "created": 1794556163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1551,
+    "total_tokens": 1666,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

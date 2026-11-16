@@ -1,0 +1,41 @@
+{
+  "id": "b00ba40ffbe34a02bd1fc41b4c63447c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是前几天跟我丈夫那次吧……他明明问了，我还是说没事。现在想想，我好像总在把人推开，然后再自己难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次把人挡在外面是什么时候，这让我想起前几天丈夫关心我的场景。其实我明白他是好意，但当时就是说不出口，好像一开口就会暴露自己的软弱。）\n（这种习惯性的“没事”已经成了我的保护壳，可越是这样越觉得孤独。不过现在和咨询师聊了这么多，我好像能更清楚地看到这个问题了。）",
+        "reasoning": "（咨询师问的是最近一次把人挡在外面是什么时候，这让我想起前几天丈夫关心我的场景。其实我明白他是好意，但当时就是说不出口，好像一开口就会暴露自己的软弱。）\n（这种习惯性的“没事”已经成了我的保护壳，可越是这样越觉得孤独。不过现在和咨询师聊了这么多，我好像能更清楚地看到这个问题了。）"
+      }
+    }
+  ],
+  "created": 1794544056,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3129,
+    "total_tokens": 3240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

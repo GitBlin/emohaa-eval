@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_005332",
+  "sample_id": "False Belief Task:468",
+  "task_file": "False Belief Task",
+  "ability": "Belief: Content false beliefs Belief: Second-order beliefs",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "A",
+    "B": "D",
+    "C": "C",
+    "D": "B"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:26:52.599619+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:27:14.122448+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T10:27:37.621803+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T10:26:52.599619+00:00",
+  "finished_at": "2026-11-12T10:27:57.380754+00:00",
+  "elapsed_seconds": 64.7812342196703,
+  "user_id": "liyan_88f1cd9ba63f86c504b4176e751aa7aec3dfa3e5"
+}

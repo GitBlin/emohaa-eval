@@ -1,0 +1,41 @@
+{
+  "id": "de5787bc84634e1b8c534f77ecc2d222",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末下午吧，那时候不用想工作。不过……要是连这个都做不到，我是不是挺没用的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我自己定时间，说明她真的在帮我想办法，不是随便说说。周末下午确实是我最放松的时候，没有工作的压力，也许能试试。不过我还是得说清楚，如果连这个都做不到，我怕她会失望。）",
+        "reasoning": "（她让我自己定时间，说明她真的在帮我想办法，不是随便说说。周末下午确实是我最放松的时候，没有工作的压力，也许能试试。不过我还是得说清楚，如果连这个都做不到，我怕她会失望。）"
+      }
+    }
+  ],
+  "created": 1794557563,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2862,
+    "total_tokens": 2938,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

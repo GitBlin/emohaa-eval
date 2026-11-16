@@ -1,0 +1,41 @@
+{
+  "id": "abf4a42992c84cb89aa10b528c6f63da",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望他……别急着评价我，就听我说完，然后说一句“知道了，下次我注意”就行。这样好像就够了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望对方怎么回应，这让我有点意外。我原本以为只要把话说出来就够了，没想到还要考虑自己期待什么。这让我意识到自己好像从来没认真想过自己需要什么。）\n（想到要明确说出期待，心里有点打鼓。万一对方不按我想的回应呢？但转念一想，或许能听到一句“知道了，下次我注意”就挺好的。至少说明他听进去了，不是敷衍我。）",
+        "reasoning": "（咨询师在问我希望对方怎么回应，这让我有点意外。我原本以为只要把话说出来就够了，没想到还要考虑自己期待什么。这让我意识到自己好像从来没认真想过自己需要什么。）\n（想到要明确说出期待，心里有点打鼓。万一对方不按我想的回应呢？但转念一想，或许能听到一句“知道了，下次我注意”就挺好的。至少说明他听进去了，不是敷衍我。）"
+      }
+    }
+  ],
+  "created": 1794541450,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2834,
+    "total_tokens": 2958,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

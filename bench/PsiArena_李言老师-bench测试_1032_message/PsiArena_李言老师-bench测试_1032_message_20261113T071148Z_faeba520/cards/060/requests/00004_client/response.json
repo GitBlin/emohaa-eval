@@ -1,0 +1,41 @@
+{
+  "id": "92833a3d0efb4e46b492450d32bba6fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）就……前几天吧。我在房间写作业，听见她在客厅打电话，声音特别忙的那种。我突然就不想写了，坐那儿发呆。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次感觉特别强烈的情境。我其实不太想马上说，因为还不确定她会不会真的理解，还是只是随便问问。她看起来挺耐心的，但我还是有点防备。）\n（而且我有点担心说了之后她会怎么看我，会不会觉得我小题大做。不过她问得挺具体的，我可能还是得说一点，但不能说太深。）",
+        "reasoning": "（咨询师在问我最近一次感觉特别强烈的情境。我其实不太想马上说，因为还不确定她会不会真的理解，还是只是随便问问。她看起来挺耐心的，但我还是有点防备。）\n（而且我有点担心说了之后她会怎么看我，会不会觉得我小题大做。不过她问得挺具体的，我可能还是得说一点，但不能说太深。）"
+      }
+    }
+  ],
+  "created": 1794556599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1214,
+    "total_tokens": 1328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b99e96d185d74ab2859fa525b2e2a2a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "医生说是情绪问题引起的身体反应，建议我休息。可我一想到请假要跟领导开口，就……唉，不知道该怎么弄。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我去医院检查的情况，这让我想起那些没完没了的检查和医生含糊的说法。其实我心里很乱，既怕查出什么大问题，又怕查不出来别人觉得我小题大做。医生说我情绪问题影响身体，可具体怎么办我也没头绪。）\n（想到要跟单位请假就更头疼了，领导那态度让我觉得请假就是给他添麻烦。但继续这样硬撑下去，我真怕哪天在单位出事。也许该先问问咨询师，像我这种情况该怎么跟单位开口比较合适。）",
+        "reasoning": "（咨询师问我去医院检查的情况，这让我想起那些没完没了的检查和医生含糊的说法。其实我心里很乱，既怕查出什么大问题，又怕查不出来别人觉得我小题大做。医生说我情绪问题影响身体，可具体怎么办我也没头绪。）\n（想到要跟单位请假就更头疼了，领导那态度让我觉得请假就是给他添麻烦。但继续这样硬撑下去，我真怕哪天在单位出事。也许该先问问咨询师，像我这种情况该怎么跟单位开口比较合适。）"
+      }
+    }
+  ],
+  "created": 1794544293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2545,
+    "total_tokens": 2687,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "af767521a58b40528f8886220fc07e1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "学习计划吧。每次我都想重新开始，列得挺满，结果坚持两三天就断了，然后又回到老样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问“原地打转”最常出现在哪件事上，好像是想帮我找到具体能下手的地方。我脑子里第一个冒出来的就是学习计划，每次都雄心勃勃地开始，然后很快就垮掉。这种反复失败的感觉让我很挫败，说出来都觉得有点难堪。）\n（不过现在好像比之前能说清楚一点了。我可以试着把这种循环讲出来，但不用一下子说得太细。先提到学习计划，再说坚持几天就断，这样既回答了问题，又不会让自己太难受。）",
+        "reasoning": "（她问“原地打转”最常出现在哪件事上，好像是想帮我找到具体能下手的地方。我脑子里第一个冒出来的就是学习计划，每次都雄心勃勃地开始，然后很快就垮掉。这种反复失败的感觉让我很挫败，说出来都觉得有点难堪。）\n（不过现在好像比之前能说清楚一点了。我可以试着把这种循环讲出来，但不用一下子说得太细。先提到学习计划，再说坚持几天就断，这样既回答了问题，又不会让自己太难受。）"
+      }
+    }
+  ],
+  "created": 1794546394,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2423,
+    "total_tokens": 2560,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "81702f35b47d46ab99f895a6e4497a85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "昨天吧，同事让我确认一个方案，我多问了两遍，她笑了一下，我不知道是不是在笑我。回家后我还在想，越想越觉得自己很没用……我爸妈以前总说，做事要一次做对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次明显紧张的场景，这让我想起昨天开会时的窘迫。我其实不太想细说，但既然已经聊到这儿了，说出来也许能让他更明白我的处境。）\n（我爸妈都是老师，从小家里就讲究说话要有条理，不能含糊。现在在单位，每次开口前都要在脑子里过好几遍，生怕说错被人笑话。这种习惯好像已经刻在骨子里了，想改都改不掉。）",
+        "reasoning": "（咨询师问的是最近一次明显紧张的场景，这让我想起昨天开会时的窘迫。我其实不太想细说，但既然已经聊到这儿了，说出来也许能让他更明白我的处境。）\n（我爸妈都是老师，从小家里就讲究说话要有条理，不能含糊。现在在单位，每次开口前都要在脑子里过好几遍，生怕说错被人笑话。这种习惯好像已经刻在骨子里了，想改都改不掉。）"
+      }
+    }
+  ],
+  "created": 1794545155,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1711,
+    "total_tokens": 1860,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

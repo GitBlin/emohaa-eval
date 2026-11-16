@@ -1,0 +1,41 @@
+{
+  "id": "b3383a8294934a52a1cd3bc9186c280f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我说完就来跟你讲。今天聊完，好像没那么乱了，至少知道先做什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把这两件事定下来，还让我说完之后回来跟他说，这让我觉得不是一个人在面对。不过我还是有点担心，如果说了之后室友还是那样，我回来会不会又变成抱怨？）\n（但想想，能有人听我说，总比全憋在心里强。而且刚才说那句话的时候，好像真的没那么难开口。也许我可以先试试，不用想那么多。）",
+        "reasoning": "（咨询师在帮我把这两件事定下来，还让我说完之后回来跟他说，这让我觉得不是一个人在面对。不过我还是有点担心，如果说了之后室友还是那样，我回来会不会又变成抱怨？）\n（但想想，能有人听我说，总比全憋在心里强。而且刚才说那句话的时候，好像真的没那么难开口。也许我可以先试试，不用想那么多。）"
+      }
+    }
+  ],
+  "created": 1794552423,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3317,
+    "total_tokens": 3425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

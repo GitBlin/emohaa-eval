@@ -1,0 +1,41 @@
+{
+  "id": "3200295f74a1402d8b5407e07824de84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天下午泡了杯咖啡，坐在窗边发了会儿呆，算是稍微松了一点吧。不过一放松下来，又觉得自己是不是太闲了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我今天有没有放松的小事，可能是想让我从具体的生活细节里找到一点力量吧。我确实需要想想，最近有没有什么让我不那么紧绷的瞬间。）\n（说起来，那杯咖啡算一个。虽然只是很小的事，但当时确实觉得有点暖。不过马上又想到，如果连这种小事都做不好，主动联系别人就更难了。这种反复的自我怀疑好像一直都在。）",
+        "reasoning": "（咨询师问我今天有没有放松的小事，可能是想让我从具体的生活细节里找到一点力量吧。我确实需要想想，最近有没有什么让我不那么紧绷的瞬间。）\n（说起来，那杯咖啡算一个。虽然只是很小的事，但当时确实觉得有点暖。不过马上又想到，如果连这种小事都做不好，主动联系别人就更难了。这种反复的自我怀疑好像一直都在。）"
+      }
+    }
+  ],
+  "created": 1794544472,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2648,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c87caee78702450db6ba52db7279d45e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "委屈……也说不上。（沉默几秒）就是觉得自己一直挺努力地扛着，结果身体先不争气了，有点……说不上来的憋。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我是撑不住还是委屈……这两个词我都没太想过。撑不住，好像更贴切吧，就是那种一直在扛着、突然腿软的感觉。）\n（说到委屈，其实有点说不上来。家里从小教我忍，我也觉得忍是对的，可身体不听话，这算不算我自己没做好？有点怪自己。）",
+        "reasoning": "（他问我是撑不住还是委屈……这两个词我都没太想过。撑不住，好像更贴切吧，就是那种一直在扛着、突然腿软的感觉。）\n（说到委屈，其实有点说不上来。家里从小教我忍，我也觉得忍是对的，可身体不听话，这算不算我自己没做好？有点怪自己。）"
+      }
+    }
+  ],
+  "created": 1794539223,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1728,
+    "total_tokens": 1834,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

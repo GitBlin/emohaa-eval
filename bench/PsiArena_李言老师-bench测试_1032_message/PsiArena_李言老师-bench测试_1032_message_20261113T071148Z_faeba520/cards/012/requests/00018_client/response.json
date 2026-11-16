@@ -1,0 +1,41 @@
+{
+  "id": "4e9d13f0b17a44cfb54e03f573eb93aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像是。学校里也是，总怕哪里做得不好。（叹气）改起来是不是很难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是对自己要求很严，还问这种压力平时常不常出现。我心里一下子有点紧，好像被说中了。平时确实总觉得自己做得不够好，家里、学校，哪头都不能出错。可这么一想，我又有点慌，怕自己是不是太较真了，连放松都不会。）\n（不过咨询师语气挺温和的，没有逼我，只是让我看到这个习惯。我犹豫着要不要承认，毕竟承认了就好像自己真的很紧绷。可转念一想，确实是这样，改起来也难。）",
+        "reasoning": "（咨询师问我是不是对自己要求很严，还问这种压力平时常不常出现。我心里一下子有点紧，好像被说中了。平时确实总觉得自己做得不够好，家里、学校，哪头都不能出错。可这么一想，我又有点慌，怕自己是不是太较真了，连放松都不会。）\n（不过咨询师语气挺温和的，没有逼我，只是让我看到这个习惯。我犹豫着要不要承认，毕竟承认了就好像自己真的很紧绷。可转念一想，确实是这样，改起来也难。）"
+      }
+    }
+  ],
+  "created": 1794554550,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2443,
+    "total_tokens": 2579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

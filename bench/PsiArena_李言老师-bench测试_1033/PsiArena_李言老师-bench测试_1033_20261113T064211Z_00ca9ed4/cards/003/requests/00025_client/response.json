@@ -1,0 +1,41 @@
+{
+  "id": "b6bd089607ba45e381c45d28f9468d56",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢地说）嗯……让我想想。上周跟同事说错了个数据，我当时紧张得不行，结果人家就“哦”了一声，也没说什么。（抬头）这么一说，好像……没我想的那么严重？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着往回翻一件“其实也没被说什么”的小事。我心里有点卡住，因为第一反应还是找不到，好像脑子里全是那些被挑剔的画面。但我不想就这么放弃，毕竟前面聊了这么多，我好像稍微能松动一点了。）\n（我想慢慢来，先承认自己确实一时想不起来，这样说出来也不会显得太抗拒。然后我想到上周跟同事说错话那件事，当时我紧张得不行，结果人家根本没当回事。这个例子虽然小，但好像能让我试着相信，不是每次出错都会被记住、被追究。）",
+        "reasoning": "（咨询师让我试着往回翻一件“其实也没被说什么”的小事。我心里有点卡住，因为第一反应还是找不到，好像脑子里全是那些被挑剔的画面。但我不想就这么放弃，毕竟前面聊了这么多，我好像稍微能松动一点了。）\n（我想慢慢来，先承认自己确实一时想不起来，这样说出来也不会显得太抗拒。然后我想到上周跟同事说错话那件事，当时我紧张得不行，结果人家根本没当回事。这个例子虽然小，但好像能让我试着相信，不是每次出错都会被记住、被追究。）"
+      }
+    }
+  ],
+  "created": 1794552231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 3314,
+    "total_tokens": 3482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

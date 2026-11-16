@@ -1,0 +1,41 @@
+{
+  "id": "4910ef4dd6ed4da8a5eaf552e405b2c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写……“今天我做了件很小的事，但我没有躲。”大概就是这样吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想写下的那句话是什么。我脑子里先冒出来的居然不是“我做到了”这种话，而是那天我其实有多怕。也许写下来的时候，我想记住的不是结果，而是我明明怕得要命，还是把笔还回去了。）\n（这好像跟平时那个总在自责的自己不太一样。以前我只会记“我又没做到”，这次我想写“我做了”。虽然只是一件小事，但写下来的时候，可能会让我觉得没那么虚。）",
+        "reasoning": "（她问我最想写下的那句话是什么。我脑子里先冒出来的居然不是“我做到了”这种话，而是那天我其实有多怕。也许写下来的时候，我想记住的不是结果，而是我明明怕得要命，还是把笔还回去了。）\n（这好像跟平时那个总在自责的自己不太一样。以前我只会记“我又没做到”，这次我想写“我做了”。虽然只是一件小事，但写下来的时候，可能会让我觉得没那么虚。）"
+      }
+    }
+  ],
+  "created": 1794536420,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3552,
+    "total_tokens": 3671,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

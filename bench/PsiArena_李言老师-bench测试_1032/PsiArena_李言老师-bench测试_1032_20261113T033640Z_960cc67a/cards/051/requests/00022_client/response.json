@@ -1,0 +1,41 @@
+{
+  "id": "2c6d666baa8a48c7b85770719db48802",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记下来……可以试试，不过我有点担心，写下来会不会反而越想越多？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我记录念头，这听起来是个具体可行的办法，但想到要面对那些反复出现的想法，心里又有点发怵。不过既然来了，总得试试看，也许能理出点头绪。）\n（我确实想知道自己脑子里到底在转些什么，但同时又担心写下来会看到更多让自己沮丧的东西。这种矛盾的感觉让我有点犹豫，不知道该不该答应。）",
+        "reasoning": "（咨询师建议我记录念头，这听起来是个具体可行的办法，但想到要面对那些反复出现的想法，心里又有点发怵。不过既然来了，总得试试看，也许能理出点头绪。）\n（我确实想知道自己脑子里到底在转些什么，但同时又担心写下来会看到更多让自己沮丧的东西。这种矛盾的感觉让我有点犹豫，不知道该不该答应。）"
+      }
+    }
+  ],
+  "created": 1794543760,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2895,
+    "total_tokens": 2995,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

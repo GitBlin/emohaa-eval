@@ -1,0 +1,41 @@
+{
+  "id": "f1d950c12564414789f00181f32dc0ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能还是怕不够好吧……我从小我妈就总让我把感受说出来，可她说完也就那样，事情还是得我自己憋着。现在同事一句话，我就开始在心里翻来覆去地琢磨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才点出了我两种害怕背后的保护意义，这让我有点意外。她好像真的在理解我，而不是像同事那样随便评价。我感觉到自己可以稍微说深一点了。）\n（想到小时候妈妈总是让我把感受说出来，但说完之后又不知道怎么办，那种感觉一直跟着我。现在遇到同事的评论，我好像也在重复那种模式——表达完情绪，却没法理性处理。也许这就是为什么我会在心里反复琢磨那些话。）",
+        "reasoning": "（咨询师刚才点出了我两种害怕背后的保护意义，这让我有点意外。她好像真的在理解我，而不是像同事那样随便评价。我感觉到自己可以稍微说深一点了。）\n（想到小时候妈妈总是让我把感受说出来，但说完之后又不知道怎么办，那种感觉一直跟着我。现在遇到同事的评论，我好像也在重复那种模式——表达完情绪，却没法理性处理。也许这就是为什么我会在心里反复琢磨那些话。）"
+      }
+    }
+  ],
+  "created": 1794544025,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1612,
+    "total_tokens": 1753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

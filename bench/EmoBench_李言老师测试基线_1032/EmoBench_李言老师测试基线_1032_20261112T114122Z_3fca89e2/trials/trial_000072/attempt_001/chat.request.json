@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:47:01.482331+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nBefore passing away, Max's grandmother gave him a ring that had been passed down generations in their family. She told him that he may pass it down to his children one day. Yesterday, Max's friend, Jason, borrowed the ring to include it in his family values and heritage presentation. After the presentation, he couldn't find the ring, no matter how hard he looked. So, he offered Max to buy him a similar ring in return.\n\n## Question 1\nWhat emotion(s) would Jason ultimately feel in this situation?\n\n## Choices for Question 1\nA) Embarrassment\nB) Annoyance\nC) Indifferent\nD) Curiosity\nE) Amusement\nF) Anticipation\n\n## Question 2\nWhy would Jason feel these emotions in this situation?\n\n## Choices for Question 2\nA) He forgot about his presentation\nB) He didn't find the ring interesting\nC) He lost the ring that he had borrowed from Max\nD) He was unsuccessful in his family values and heritage presentation\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

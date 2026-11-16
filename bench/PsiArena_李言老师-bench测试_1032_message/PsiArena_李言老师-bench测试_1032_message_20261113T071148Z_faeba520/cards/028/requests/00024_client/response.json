@@ -1,0 +1,41 @@
+{
+  "id": "7e1ec8b2b477446e847aa6e683f8f13d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想看看课程安排是不是真的适合我，还有……问问自己，看完之后心里那个期待还在不在。要是还在，可能就值得试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考具体的判断标准，而不是直接替我决定。她好像真的在帮我理清思路，而不是像家里人那样替我做主。）\n（我其实有点拿不准该怎么判断，但想到可以看看自己的感受，而不是先考虑爸妈会怎么说，这个角度让我觉得轻松一些。那就先这样试试看吧。）",
+        "reasoning": "（咨询师在引导我思考具体的判断标准，而不是直接替我决定。她好像真的在帮我理清思路，而不是像家里人那样替我做主。）\n（我其实有点拿不准该怎么判断，但想到可以看看自己的感受，而不是先考虑爸妈会怎么说，这个角度让我觉得轻松一些。那就先这样试试看吧。）"
+      }
+    }
+  ],
+  "created": 1794559042,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3018,
+    "total_tokens": 3120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "93f456d17f0f4d2abc13611f6cab953b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……好像终于知道那个声音不是我自己了。以前我一直以为是我自己有毛病，太贪吃、太没用。现在觉得，好像……没那么全是我的错？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我轻松是从哪儿来的……好像确实有点，就是那种“原来不是我自己有问题”的感觉。以前总觉得是自己太差劲，连吃个东西都管不住自己。现在知道那是爸妈的声音，不是我的，好像就没那么恨自己了。）\n（不过说出来还是有点别扭，毕竟这么多年都习惯了怪自己。而且她会不会觉得我在推卸责任啊？算了，先这么说说看吧，反正她也没笑话我。）",
+        "reasoning": "（她问我轻松是从哪儿来的……好像确实有点，就是那种“原来不是我自己有问题”的感觉。以前总觉得是自己太差劲，连吃个东西都管不住自己。现在知道那是爸妈的声音，不是我的，好像就没那么恨自己了。）\n（不过说出来还是有点别扭，毕竟这么多年都习惯了怪自己。而且她会不会觉得我在推卸责任啊？算了，先这么说说看吧，反正她也没笑话我。）"
+      }
+    }
+  ],
+  "created": 1794539561,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2299,
+    "total_tokens": 2428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

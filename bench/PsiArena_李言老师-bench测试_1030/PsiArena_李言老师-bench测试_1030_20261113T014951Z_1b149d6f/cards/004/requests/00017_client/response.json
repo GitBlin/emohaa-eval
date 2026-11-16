@@ -1,0 +1,41 @@
+{
+  "id": "71f0bd3c65904008815a2ec32d04068b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微放松一点）午休前……她可能还在改作业。要是我去了，她正忙，我就把纸条放桌上行不行？还是得等她忙完？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我能不能挑个她不太忙的时候去，比如午休前。这个办法听起来比直接冲进去容易些。可我心里还是打鼓，万一她正跟别的老师说话，我站在旁边插不上嘴，那场面想想就慌。得先问清楚，要是真碰上她忙，我能不能就退回来，不用硬着头皮上。）\n（我平时最怕的就是别人嫌我碍事，要是老师忙的时候我还凑过去，她会不会觉得我不懂事。所以得先问明白，如果她正忙，我能不能改天再来。这样我心里有个退路，才敢迈出那一步。）",
+        "reasoning": "（老师问我能不能挑个她不太忙的时候去，比如午休前。这个办法听起来比直接冲进去容易些。可我心里还是打鼓，万一她正跟别的老师说话，我站在旁边插不上嘴，那场面想想就慌。得先问清楚，要是真碰上她忙，我能不能就退回来，不用硬着头皮上。）\n（我平时最怕的就是别人嫌我碍事，要是老师忙的时候我还凑过去，她会不会觉得我不懂事。所以得先问明白，如果她正忙，我能不能改天再来。这样我心里有个退路，才敢迈出那一步。）"
+      }
+    }
+  ],
+  "created": 1794534862,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 2669,
+    "total_tokens": 2841,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 134,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

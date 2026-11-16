@@ -1,0 +1,50 @@
+{
+  "source_run": "bench/efficiency_evaluations/tombench_1030_efficiency_20261116T033235Z_c58c2926",
+  "note": "Derived from original timestamped events; original artifacts unchanged",
+  "summary": {
+    "scope": "successful requests only; each request contributes one maximum",
+    "measured_requests": 4,
+    "requests_with_at_least_two_text_events": 4,
+    "single_text_event_requests": 0,
+    "max_gap_p50_seconds": 9.543350097374059e-05,
+    "max_gap_p95_seconds": 0.021296396552679644,
+    "max_gap_seconds": 0.02503772100317292,
+    "requests_exceeding_gap": {
+      "0.5": 0,
+      "1": 0,
+      "2": 0
+    },
+    "tail_wait_p50_seconds": 0.023257310998815228,
+    "tail_wait_p95_seconds": 0.026528803649125618
+  },
+  "cases": [
+    {
+      "trial_id": "trial_001899",
+      "group": "en",
+      "text_event_count": 3,
+      "max_text_gap_seconds": 0.02503772100317292,
+      "tail_wait_seconds": 0.027074150999396807
+    },
+    {
+      "trial_id": "trial_003393",
+      "group": "en",
+      "text_event_count": 3,
+      "max_text_gap_seconds": 9.01990024431143e-05,
+      "tail_wait_seconds": 0.0234385019975889
+    },
+    {
+      "trial_id": "trial_004208",
+      "group": "zh",
+      "text_event_count": 3,
+      "max_text_gap_seconds": 9.53090020630043e-05,
+      "tail_wait_seconds": 0.022301913999399403
+    },
+    {
+      "trial_id": "trial_003552",
+      "group": "zh",
+      "text_event_count": 3,
+      "max_text_gap_seconds": 9.555799988447689e-05,
+      "tail_wait_seconds": 0.023076120000041556
+    }
+  ]
+}

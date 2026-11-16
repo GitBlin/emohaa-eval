@@ -1,0 +1,41 @@
+{
+  "id": "2233a4cf6f0744a7bd593f664fa0cb4e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）熟悉……有点像我爸那种淡淡的口气。不是凶，就是那种“你自己看看”的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个声音的语气熟悉吗……我想起来了，确实很像。平时考不好，或者在外面表现得不自然，我爸那种淡淡的一句话就出来了。不是吼我，就是轻飘飘的，反而更让我觉得自己真的不行。）\n（原来我心里那个声音，一直是他说话的样子。想到这个有点难受，也有点说不清的感觉，好像终于找到了一点来源。）",
+        "reasoning": "（她问这个声音的语气熟悉吗……我想起来了，确实很像。平时考不好，或者在外面表现得不自然，我爸那种淡淡的一句话就出来了。不是吼我，就是轻飘飘的，反而更让我觉得自己真的不行。）\n（原来我心里那个声音，一直是他说话的样子。想到这个有点难受，也有点说不清的感觉，好像终于找到了一点来源。）"
+      }
+    }
+  ],
+  "created": 1794534690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3220,
+    "total_tokens": 3320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

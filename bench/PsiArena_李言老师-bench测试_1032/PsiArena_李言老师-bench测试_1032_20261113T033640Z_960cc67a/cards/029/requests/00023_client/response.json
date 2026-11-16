@@ -1,0 +1,41 @@
+{
+  "id": "e312225426134725b3cd32bbe79c2321",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先处理房租吧，那个更急。（犹豫）朋友那边……我今晚发个消息跟她说一声，应该能理解。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把压力一点点拆开，先问我是先跟朋友说还是先处理房租。这让我觉得有点被推着走，但又好像确实得有个先后。）\n（我其实心里已经偏向先弄房租，毕竟房东那边更急，朋友那边晚一点应该还能商量。只是想到要开口说晚点还，还是有点别扭，怕她多想。）",
+        "reasoning": "（咨询师在帮我把压力一点点拆开，先问我是先跟朋友说还是先处理房租。这让我觉得有点被推着走，但又好像确实得有个先后。）\n（我其实心里已经偏向先弄房租，毕竟房东那边更急，朋友那边晚一点应该还能商量。只是想到要开口说晚点还，还是有点别扭，怕她多想。）"
+      }
+    }
+  ],
+  "created": 1794549733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3070,
+    "total_tokens": 3179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

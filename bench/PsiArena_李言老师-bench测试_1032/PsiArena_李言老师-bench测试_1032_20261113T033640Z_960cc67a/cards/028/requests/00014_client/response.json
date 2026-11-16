@@ -1,0 +1,41 @@
+{
+  "id": "29f7a194dc2f49358d527cb9bb611fec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能是我妈打电话那会儿，语气特别理所当然，好像我本来就不该有自己的安排。我挂了电话，站在那儿好一会儿没动。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最卡住的瞬间，这让我又想起当时那个电话。其实我反复想过很多遍，最难受的不是退票本身，而是我妈那种理所当然的语气，好像我的安排根本不值得被认真对待。但说完又有点后悔，怕显得我在抱怨家里，毕竟他们也是为我好。这种矛盾让我很累，好像连委屈都得先掂量一下该不该说。）\n（而且最近工作也总出错，可能就是因为这些事一直压着。我不想显得太矫情，但确实觉得整个人被拖着走，很难集中精神。）",
+        "reasoning": "（咨询师在问我最卡住的瞬间，这让我又想起当时那个电话。其实我反复想过很多遍，最难受的不是退票本身，而是我妈那种理所当然的语气，好像我的安排根本不值得被认真对待。但说完又有点后悔，怕显得我在抱怨家里，毕竟他们也是为我好。这种矛盾让我很累，好像连委屈都得先掂量一下该不该说。）\n（而且最近工作也总出错，可能就是因为这些事一直压着。我不想显得太矫情，但确实觉得整个人被拖着走，很难集中精神。）"
+      }
+    }
+  ],
+  "created": 1794549379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2203,
+    "total_tokens": 2355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

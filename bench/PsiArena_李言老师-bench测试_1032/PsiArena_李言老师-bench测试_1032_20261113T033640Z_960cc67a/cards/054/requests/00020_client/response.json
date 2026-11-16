@@ -1,0 +1,41 @@
+{
+  "id": "116b367f75904137baba33c5b3fd9494",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就等儿子睡着以后，在客厅沙发上吧。我尽量不去想别的，就喝杯热水。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化这五分钟的计划，问我在哪儿、什么时候开始。我得想想，不能说得太笼统，不然又变成空话了。儿子睡着以后，客厅安静下来，沙发那儿我坐着最放松，就那个时候吧。）\n（不过我也担心自己到时候又找借口，或者被别的事情打断。得给自己留点余地，别把话说得太死，不然做不到又该自责了。就说尽量试试，这样心里压力小一点。）",
+        "reasoning": "（咨询师在帮我具体化这五分钟的计划，问我在哪儿、什么时候开始。我得想想，不能说得太笼统，不然又变成空话了。儿子睡着以后，客厅安静下来，沙发那儿我坐着最放松，就那个时候吧。）\n（不过我也担心自己到时候又找借口，或者被别的事情打断。得给自己留点余地，别把话说得太死，不然做不到又该自责了。就说尽量试试，这样心里压力小一点。）"
+      }
+    }
+  ],
+  "created": 1794543871,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2858,
+    "total_tokens": 2979,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

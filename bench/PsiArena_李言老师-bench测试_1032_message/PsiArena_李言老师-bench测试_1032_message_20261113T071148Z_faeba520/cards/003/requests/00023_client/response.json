@@ -1,0 +1,41 @@
+{
+  "id": "1e4b1cc364c94fa99cc0dec666f5beb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天上班就有机会，茶水间碰到的话。我先在心里跟自己说好，别临阵又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪天开始，好像真的在帮我把想法落地。我有点紧张，但也觉得可以先试试。）\n（明天就有一个自然的机会，茶水间碰到的话说个嗨应该不算太难。就怕临时又缩回去，得提前跟自己说好。）",
+        "reasoning": "（她问我从哪天开始，好像真的在帮我把想法落地。我有点紧张，但也觉得可以先试试。）\n（明天就有一个自然的机会，茶水间碰到的话说个嗨应该不算太难。就怕临时又缩回去，得提前跟自己说好。）"
+      }
+    }
+  ],
+  "created": 1794553989,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3028,
+    "total_tokens": 3107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

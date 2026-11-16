@@ -1,0 +1,41 @@
+{
+  "id": "50cb0dffedb54afb9f0df1cb42573a05",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能会跟自己说，下次再来吧。别一上来就骂自己没用，像以前那样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是让我别把退缩看得太重吧。我本来以为，没做到就是失败，可她好像觉得，退一步也能看到点什么。）\n（想想也是，我对自己总是特别凶，一没做到就骂自己没用。要是换成对朋友，我肯定不会那样说。也许明天真退了，我可以试着对自己松一点，别急着下结论。）",
+        "reasoning": "（她这么问，是让我别把退缩看得太重吧。我本来以为，没做到就是失败，可她好像觉得，退一步也能看到点什么。）\n（想想也是，我对自己总是特别凶，一没做到就骂自己没用。要是换成对朋友，我肯定不会那样说。也许明天真退了，我可以试着对自己松一点，别急着下结论。）"
+      }
+    }
+  ],
+  "created": 1794553992,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2911,
+    "total_tokens": 3012,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

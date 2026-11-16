@@ -1,0 +1,41 @@
+{
+  "id": "30c7465800304212974ec437b09d1e02",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有点像……家里那种语气吧。不是某个人，就是那种“别太当回事”的感觉。说出来我自己都愣了一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我那个说“装”的声音像谁，这让我一下子想到家里那种凡事都要讲道理、不能有太多情绪的氛围。我犹豫着要不要说，因为这好像是在指认父母，可我又觉得确实是这样。）\n（我想表达的是，那个声音其实早就内化了，不完全是某个具体的人，而是从小被要求克制、理性对待情感的那种方式。说出来有点别扭，但好像也挺准确的。）",
+        "reasoning": "（心理咨询师问我那个说“装”的声音像谁，这让我一下子想到家里那种凡事都要讲道理、不能有太多情绪的氛围。我犹豫着要不要说，因为这好像是在指认父母，可我又觉得确实是这样。）\n（我想表达的是，那个声音其实早就内化了，不完全是某个具体的人，而是从小被要求克制、理性对待情感的那种方式。说出来有点别扭，但好像也挺准确的。）"
+      }
+    }
+  ],
+  "created": 1794556068,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3004,
+    "total_tokens": 3123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

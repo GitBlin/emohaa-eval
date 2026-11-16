@@ -1,0 +1,41 @@
+{
+  "id": "63c68c8436f14c09a00afc20abd9eb5b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧。说完当时好像轻松一点，可过后还是老样子。（犹豫了一下）而且我有点怕别人觉得我太矫情，朋友也劝过我，可她们说的那些……我做不到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“没用”是指哪种，看来她真的在听，不是随便敷衍。我说不清，但那种说了也白说的感觉确实一直在。也许可以试着告诉她，说完之后反而更累，因为那些感受又被翻出来了。）\n（而且我总怕别人觉得我矫情。朋友也关心我，可她们说的那些道理我都懂，就是做不到。也许可以提一下这个，看看她会不会也这样。）",
+        "reasoning": "（她问我“没用”是指哪种，看来她真的在听，不是随便敷衍。我说不清，但那种说了也白说的感觉确实一直在。也许可以试着告诉她，说完之后反而更累，因为那些感受又被翻出来了。）\n（而且我总怕别人觉得我矫情。朋友也关心我，可她们说的那些道理我都懂，就是做不到。也许可以提一下这个，看看她会不会也这样。）"
+      }
+    }
+  ],
+  "created": 1794538010,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1593,
+    "total_tokens": 1726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

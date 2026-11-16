@@ -1,0 +1,41 @@
+{
+  "id": "42b8d11dc7a54d188f05624789e2f987",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天……做错题本的时候突然停住了，看着那些红叉，觉得写了也没用。不过听你说堵车的事，好像你也有挺累的时候。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然说起自己堵车的事，还问我今天有没有什么小事停下来。这让我有点意外，她好像也在分享自己的日常，不是在分析我。我心里稍微松了一点，觉得她不是那种高高在上的专家。）\n（不过我还是不太习惯这种轻松的话题。今天确实有件小事，就是整理错题本的时候突然停住了，觉得写这些好像没什么意义。但说出来又怕显得矫情，毕竟她刚讲了自己的事，我这样回应会不会太扫兴。）",
+        "reasoning": "（咨询师突然说起自己堵车的事，还问我今天有没有什么小事停下来。这让我有点意外，她好像也在分享自己的日常，不是在分析我。我心里稍微松了一点，觉得她不是那种高高在上的专家。）\n（不过我还是不太习惯这种轻松的话题。今天确实有件小事，就是整理错题本的时候突然停住了，觉得写这些好像没什么意义。但说出来又怕显得矫情，毕竟她刚讲了自己的事，我这样回应会不会太扫兴。）"
+      }
+    }
+  ],
+  "created": 1794544061,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3181,
+    "total_tokens": 3321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

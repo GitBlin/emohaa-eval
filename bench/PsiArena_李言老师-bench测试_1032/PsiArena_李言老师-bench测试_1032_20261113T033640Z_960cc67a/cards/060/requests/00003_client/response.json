@@ -1,0 +1,41 @@
+{
+  "id": "f0cae270ed1d4511893853ce7aba5e9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "特别的事……也没有吧。就是有时候听到我妈打电话忙工作的声音，会突然觉得烦，然后就不想说话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺耐心的，没有急着让我说很多。但我还是不太确定她是不是真的能理解我，毕竟大人们总是说“想开点”就完了。她问我最近有没有特别的事，其实每天不都差不多吗……不过妈妈打电话那件事确实让我有点烦，但说出来会不会显得我很矫情？）\n（算了，先随便说一点吧，反正她说了不会评判。但我不想讲得太深，万一她转头告诉我爸妈怎么办。先试探一下她会不会觉得这是小事。）",
+        "reasoning": "（这个咨询师好像挺耐心的，没有急着让我说很多。但我还是不太确定她是不是真的能理解我，毕竟大人们总是说“想开点”就完了。她问我最近有没有特别的事，其实每天不都差不多吗……不过妈妈打电话那件事确实让我有点烦，但说出来会不会显得我很矫情？）\n（算了，先随便说一点吧，反正她说了不会评判。但我不想讲得太深，万一她转头告诉我爸妈怎么办。先试探一下她会不会觉得这是小事。）"
+      }
+    }
+  ],
+  "created": 1794544184,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1116,
+    "total_tokens": 1251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "event": "message",
+    "data": {
+      "model": "1032",
+      "choices": [
+        {
+          "delta": {
+            "role": "assistant",
+            "content": "你好"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "event": "message",
+    "data": {
+      "model": "1032",
+      "choices": [
+        {
+          "index": 0,
+          "delta": {
+            "role": "assistant",
+            "content": ""
+          },
+          "message": {
+            "role": "assistant",
+            "content": ""
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 3
+      },
+      "conversation_id": "8c92814a27fd4c11a8f25dfb13378135"
+    }
+  },
+  {
+    "event": "message",
+    "data": "[DONE]"
+  }
+]

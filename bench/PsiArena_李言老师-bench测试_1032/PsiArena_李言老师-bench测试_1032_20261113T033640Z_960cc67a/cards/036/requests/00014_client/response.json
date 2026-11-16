@@ -1,0 +1,41 @@
+{
+  "id": "b3b683cb982344cba1511373de6fe173",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更怕自己一直想。他要是冷淡一下，我可能就一直觉得是我哪里做错了。还有……我也怕自己发得特别奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体办法，但我其实更怕的是自己之后会一直想。因为那种反复想的感觉会让我觉得自己很没用，好像又搞砸了。）\n（而且我也担心自己一紧张就发得很奇怪，反而让他觉得我奇怪。这种担心比冷淡更让我不安。）",
+        "reasoning": "（咨询师在帮我想具体办法，但我其实更怕的是自己之后会一直想。因为那种反复想的感觉会让我觉得自己很没用，好像又搞砸了。）\n（而且我也担心自己一紧张就发得很奇怪，反而让他觉得我奇怪。这种担心比冷淡更让我不安。）"
+      }
+    }
+  ],
+  "created": 1794551623,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2114,
+    "total_tokens": 2209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

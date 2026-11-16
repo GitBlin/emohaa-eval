@@ -1,0 +1,41 @@
+{
+  "id": "bab8c4418b8d45aead06d4d9c018ac37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十点吧，躺下就开着，听个把钟头。要是还睡不着……就接着听呗。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体几点听、听到什么时候，这是在帮我把计划定得实在点。以前我总说“试试”就完了，结果啥也没试。这回得说个具体的，别太晚，也别指望一下子就睡着。）\n（十点躺下，听个把钟头，差不多十一点。要是还睡不着，也别硬撑着胡思乱想，接着听就是了。这个法子不费劲，我能做到。）",
+        "reasoning": "（她问我具体几点听、听到什么时候，这是在帮我把计划定得实在点。以前我总说“试试”就完了，结果啥也没试。这回得说个具体的，别太晚，也别指望一下子就睡着。）\n（十点躺下，听个把钟头，差不多十一点。要是还睡不着，也别硬撑着胡思乱想，接着听就是了。这个法子不费劲，我能做到。）"
+      }
+    }
+  ],
+  "created": 1794559110,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2917,
+    "total_tokens": 3032,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:58.329718+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMiss Zhou is a professional in the competitive advertising industry. At an industry gathering, someone asks her about the details of an innovative advertising strategy her company is about to launch. Miss Zhou replies that her team develops a brand new marketing method that changes the industry landscape, but currently cannot reveal more information. She also emphasizes that this is a major breakthrough in the industry. After the industry gathering ends, Miss Zhou lets her team start planning the innovative strategy within this week.\n\n[Question]\nWhy does Miss Zhou say this?\n\n[Candidate Answers]\nA. Miss Zhou says this because her team is really developing a new marketing method that changes the industry landscape.\nB. Miss Zhou just recovers from a failed project, she answers this way to cover up her team's shortcomings.\nC. Miss Zhou receives doubts from insiders in the industry before, she says this to enhance the outside world's trust in her professional ability.\nD. Miss Zhou says this because she wants to establish her company's leading position among her peers, even though her team does not develop any innovative strategies.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

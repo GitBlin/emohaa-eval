@@ -1,0 +1,41 @@
+{
+  "id": "2f33d0e87b8c4005a90b25cb686489ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先挪手机吧，不然我肯定控制不住。挪完再收便签，十分钟应该能撑住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把动作拆得更具体，还让我自己选先做哪一步。我有点担心自己做不到，但这样分小步好像确实没那么吓人。先挪手机可能更关键，因为手机在眼前我就控制不住。）\n（不过直接说“先挪手机”会不会显得我太配合了？算了，这确实是我现在最需要的。我想先试试这个，再收拾便签，应该能行。）",
+        "reasoning": "（咨询师在帮我把动作拆得更具体，还让我自己选先做哪一步。我有点担心自己做不到，但这样分小步好像确实没那么吓人。先挪手机可能更关键，因为手机在眼前我就控制不住。）\n（不过直接说“先挪手机”会不会显得我太配合了？算了，这确实是我现在最需要的。我想先试试这个，再收拾便签，应该能行。）"
+      }
+    }
+  ],
+  "created": 1794541441,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3094,
+    "total_tokens": 3211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

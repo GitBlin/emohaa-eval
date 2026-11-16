@@ -1,0 +1,41 @@
+{
+  "id": "3f5e98a061ae45a9abd005745f39e024",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "出去走走吧，不用跟人解释太多，穿上鞋就能出门。给朋友发消息我可能还得先想半天怎么开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪个更容易做到，看来是想帮我把方案落到更实际的地方。我平时难受起来确实很难主动开口，但出门走走这个动作更简单，不用跟人解释太多。）\n（而且出去走走能让我暂时离开手机，不用一直盯着屏幕等消息。这个选择对我来说更可行，也更容易坚持。）",
+        "reasoning": "（她问我哪个更容易做到，看来是想帮我把方案落到更实际的地方。我平时难受起来确实很难主动开口，但出门走走这个动作更简单，不用跟人解释太多。）\n（而且出去走走能让我暂时离开手机，不用一直盯着屏幕等消息。这个选择对我来说更可行，也更容易坚持。）"
+      }
+    }
+  ],
+  "created": 1794536235,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3109,
+    "total_tokens": 3206,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

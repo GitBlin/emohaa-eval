@@ -1,0 +1,47 @@
+{
+  "id": "e86b1ff4b31b44049c140c949e818b01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……我就说“老师，我在操场有时候不太想待，人多的时候有点不舒服”，这样说行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以一起想一句既能透点口风又不用全说出来的话，这让我觉得有点安心。之前总怕一开口就收不住，现在好像可以自己控制说多少。我想试试，但得先想好怎么说才不会露馅。）\n（班主任平时会问我怎么总是一个人，也许我可以从操场的事说起，但不用讲得太具体。说“不太想待”应该可以吧，她要是追问，我就说人多的时候不舒服，这样既说了点又没全说。）",
+        "reasoning": "（咨询师说可以一起想一句既能透点口风又不用全说出来的话，这让我觉得有点安心。之前总怕一开口就收不住，现在好像可以自己控制说多少。我想试试，但得先想好怎么说才不会露馅。）\n（班主任平时会问我怎么总是一个人，也许我可以从操场的事说起，但不用讲得太具体。说“不太想待”应该可以吧，她要是追问，我就说人多的时候不舒服，这样既说了点又没全说。）"
+      }
+    }
+  ],
+  "created": 1794800756,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2445,
+    "total_tokens": 2577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

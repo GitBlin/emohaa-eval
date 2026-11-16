@@ -1,0 +1,41 @@
+{
+  "id": "de552df8a7054b8c97f139357e481a2e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想轻松一点吧，比如先承认“我有点紧张”，这样反而不用装。你觉得这样说会不会太直接了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把相亲这件事拆成具体的小步骤，这让我稍微没那么慌了。但一提到开场，我还是有点紧张，怕自己准备得太正式反而更不自然。）\n（我想先试试那种不用太用力的方式，比如承认自己也紧张，这样应该不会太尴尬。不过还是有点担心，万一说了之后对方没反应，那场面会不会更糟。）",
+        "reasoning": "（咨询师在帮我把相亲这件事拆成具体的小步骤，这让我稍微没那么慌了。但一提到开场，我还是有点紧张，怕自己准备得太正式反而更不自然。）\n（我想先试试那种不用太用力的方式，比如承认自己也紧张，这样应该不会太尴尬。不过还是有点担心，万一说了之后对方没反应，那场面会不会更糟。）"
+      }
+    }
+  ],
+  "created": 1794542226,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3050,
+    "total_tokens": 3156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

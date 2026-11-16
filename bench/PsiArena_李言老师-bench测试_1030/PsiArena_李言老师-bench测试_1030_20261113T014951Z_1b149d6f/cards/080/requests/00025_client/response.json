@@ -1,0 +1,41 @@
+{
+  "id": "fe357a58605c48faa4020b82a80a821f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要看我自己吧，要是我开始心跳快、话打结，就说明绷不住了，那就停。这么想，心里反倒有点底了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是怎么判断该停了，这问题挺实际的。我之前一直担心说不好会搞砸，现在他这么问，反而让我觉得可以按自己的感觉来。）\n（我想了想，主要还是看自己绷不绷得住。要是感觉心跳加快、话开始打结，那就该停，别硬撑。这样心里有底，反而不那么怕开口了。）",
+        "reasoning": "（咨询师问的是怎么判断该停了，这问题挺实际的。我之前一直担心说不好会搞砸，现在他这么问，反而让我觉得可以按自己的感觉来。）\n（我想了想，主要还是看自己绷不绷得住。要是感觉心跳加快、话开始打结，那就该停，别硬撑。这样心里有底，反而不那么怕开口了。）"
+      }
+    }
+  ],
+  "created": 1794539112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3612,
+    "total_tokens": 3727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

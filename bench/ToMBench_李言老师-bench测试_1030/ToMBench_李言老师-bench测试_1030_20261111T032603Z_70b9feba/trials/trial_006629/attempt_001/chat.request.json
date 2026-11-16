@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:45.181974+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nHua Hua, Xuan Xuan, and Le Le are classmates in the class, they are working together to complete a group assignment. Le Le just returns to the classroom, sees Hua Hua talking to Xuan Xuan in front of the computer, Xuan Xuan listens very attentively. Le Le previously tells Hua Hua that she is very worried about the overall performance of the team because Xuan Xuan lacks relevant experience. When Le Le approaches, Hua Hua stops talking and gives Xuan Xuan a slight smile. Le Le only sees Hua Hua's smile, does not hear clearly what they are talking about.\n\n[Question]\nWhy does Hua Hua give Xuan Xuan a slight smile?\n\n[Candidate Answers]\nA. Hua Hua is hinting at Xuan Xuan, implying that Hua Hua's help to Xuan Xuan is a secret between them.\nB. Hua Hua is showing friendliness to Xuan Xuan, indicating that she does not mind spending time helping.\nC. Hua Hua is expressing satisfaction with the progress of the task to Xuan Xuan.\nD. Hua Hua is encouraging Xuan Xuan, hoping she can master the solution to the problem as soon as possible.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

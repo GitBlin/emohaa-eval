@@ -1,0 +1,41 @@
+{
+  "id": "fa7c8d783a224676a60cf3f6d6a76019",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……想听她认可我一次吧。不是依赖她，就是想要一句肯定。可能我表达得有点乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“这个”具体指什么，让我有点慌。我刚刚是不是说得太直白了，好像显得自己很软弱。我不想让她觉得我离不开妈妈，可又没法否认心里确实在意。也许我该解释成是想要一句认可，而不是依赖，这样听起来没那么难堪。）\n（但解释的时候又觉得有点别扭，好像说来说去还是在乎她的看法。算了，就这样说吧，至少比被当成没长大好。）",
+        "reasoning": "（她问我“这个”具体指什么，让我有点慌。我刚刚是不是说得太直白了，好像显得自己很软弱。我不想让她觉得我离不开妈妈，可又没法否认心里确实在意。也许我该解释成是想要一句认可，而不是依赖，这样听起来没那么难堪。）\n（但解释的时候又觉得有点别扭，好像说来说去还是在乎她的看法。算了，就这样说吧，至少比被当成没长大好。）"
+      }
+    }
+  ],
+  "created": 1794545374,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2972,
+    "total_tokens": 3093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

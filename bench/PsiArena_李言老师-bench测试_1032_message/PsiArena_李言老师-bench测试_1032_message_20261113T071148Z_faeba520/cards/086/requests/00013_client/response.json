@@ -1,0 +1,41 @@
+{
+  "id": "a655556690ee46f28fe31d00a5ba6dca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是同事聊减肥、朋友比体重的时候吧。她们说得那么轻松，我就忍不住拿自己对照，然后觉得自己哪儿都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我弦最紧的情境，让我想到那些被比较的时刻。其实我挺怕被问到这些的，因为每次想起来都觉得胸口发闷。）\n（同事们聊天时那种轻描淡写的评价，好像只是随口一说，但对我来说就像在审判。我明明知道不该在意，可就是控制不住去对照自己。）",
+        "reasoning": "（咨询师问我弦最紧的情境，让我想到那些被比较的时刻。其实我挺怕被问到这些的，因为每次想起来都觉得胸口发闷。）\n（同事们聊天时那种轻描淡写的评价，好像只是随口一说，但对我来说就像在审判。我明明知道不该在意，可就是控制不住去对照自己。）"
+      }
+    }
+  ],
+  "created": 1794558044,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2069,
+    "total_tokens": 2169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

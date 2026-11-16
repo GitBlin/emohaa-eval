@@ -1,0 +1,41 @@
+{
+  "id": "b7b76c36e21a4e6992b4c3b5ed50718b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就用那句“我知道你们是好意，相亲我自己安排”。说起来简单，真说出口不知道会不会发抖。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我选一句开场的话，这让我有点拿不定主意。我其实心里有句话憋了很久，就是“我知道你们是好意，但相亲我想自己安排”，可说出来又怕自己语气不够稳，反而像在顶嘴。）\n（不过既然要练，总得挑一句最贴近我心思的。这句既没完全否定他们，也把我自己的意思摆出来了。就是不知道真说出口的时候，能不能撑住那股劲儿。）",
+        "reasoning": "（咨询师让我选一句开场的话，这让我有点拿不定主意。我其实心里有句话憋了很久，就是“我知道你们是好意，但相亲我想自己安排”，可说出来又怕自己语气不够稳，反而像在顶嘴。）\n（不过既然要练，总得挑一句最贴近我心思的。这句既没完全否定他们，也把我自己的意思摆出来了。就是不知道真说出口的时候，能不能撑住那股劲儿。）"
+      }
+    }
+  ],
+  "created": 1794553146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2883,
+    "total_tokens": 3002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

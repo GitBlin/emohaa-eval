@@ -1,0 +1,41 @@
+{
+  "id": "f6640a43e802450094b509b997f9f239",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）先自己留着吧，不给别人看。过几天再翻翻，看看当时到底在怕什么、想什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算怎么对待那个本子，这让我有点意外。我原本只是想找个办法熬过那一个晚上，没想过之后的事。写下来不马上发出去，这已经是我能想到的最大努力了。）\n（本子对我来说……不能给别人看，尤其不能让他看到。那些念头太乱了，太丢人。也许可以自己留着，过几天再翻翻，看看当时到底在想什么。这样至少不会写完就扔，好像什么都没发生过。）",
+        "reasoning": "（咨询师问我打算怎么对待那个本子，这让我有点意外。我原本只是想找个办法熬过那一个晚上，没想过之后的事。写下来不马上发出去，这已经是我能想到的最大努力了。）\n（本子对我来说……不能给别人看，尤其不能让他看到。那些念头太乱了，太丢人。也许可以自己留着，过几天再翻翻，看看当时到底在想什么。这样至少不会写完就扔，好像什么都没发生过。）"
+      }
+    }
+  ],
+  "created": 1794535352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3578,
+    "total_tokens": 3707,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

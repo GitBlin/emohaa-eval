@@ -1,0 +1,41 @@
+{
+  "id": "0b4cd3b3528c41b2916a6874f83e2cc1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "差不多吧。家里气氛好不好，我从小就能感觉出来，然后自己调整……好像习惯了先看别人的脸色，再决定自己怎么说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我小时候了。刚才我说怕那种疏远的感觉，她就顺着往家里引。确实，我在家也是这样的，看爸妈脸色，猜他们今天心情好不好。但这么直接说出来，还是有点不习惯，好像承认了自己一直在小心翼翼地活着。）\n（不过她问得挺准的，不是那种硬要挖的感觉。我可以承认一点，但不用全说透。说“差不多吧”应该就够了，她应该能懂。）",
+        "reasoning": "（她问到我小时候了。刚才我说怕那种疏远的感觉，她就顺着往家里引。确实，我在家也是这样的，看爸妈脸色，猜他们今天心情好不好。但这么直接说出来，还是有点不习惯，好像承认了自己一直在小心翼翼地活着。）\n（不过她问得挺准的，不是那种硬要挖的感觉。我可以承认一点，但不用全说透。说“差不多吧”应该就够了，她应该能懂。）"
+      }
+    }
+  ],
+  "created": 1794535040,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2105,
+    "total_tokens": 2231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

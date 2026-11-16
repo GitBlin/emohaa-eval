@@ -1,0 +1,41 @@
+{
+  "id": "f48d5968c1a948089a39e36c9f0cc2d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……好像有一次语文考得还不错，我挺高兴地跟我妈说了，她也就“嗯”了一声，然后说别偏科。当时就……挺失落的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起小时候有没有做得不错却没人提的事……我一下子想到那次语文考得还行，其实心里是有点高兴的。可回家说的时候，他们只是点点头，接着就让我别偏科。）\n（那种感觉我到现在都记得，好像我做得再好也只是“应该的”，不值得被多看一眼。说出来有点难为情，但确实挺失落的。）",
+        "reasoning": "（她问起小时候有没有做得不错却没人提的事……我一下子想到那次语文考得还行，其实心里是有点高兴的。可回家说的时候，他们只是点点头，接着就让我别偏科。）\n（那种感觉我到现在都记得，好像我做得再好也只是“应该的”，不值得被多看一眼。说出来有点难为情，但确实挺失落的。）"
+      }
+    }
+  ],
+  "created": 1794537455,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3120,
+    "total_tokens": 3239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

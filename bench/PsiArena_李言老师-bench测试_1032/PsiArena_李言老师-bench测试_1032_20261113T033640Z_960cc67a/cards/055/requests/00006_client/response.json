@@ -1,0 +1,41 @@
+{
+  "id": "b8b98dd8ad064c28b25fde56fd91ef24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他们会……说我不够努力吧。算了，这个先不说了。那个，我这样断断续续地说，你会不会觉得我挺麻烦的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺在意我担心什么……但我现在还不想说太多家里的事。他们知道了肯定又要说我，或者更逼着我学习。算了，先随便应付一下，把话题转开吧。）\n（反正说了他们也不懂，只会觉得我矫情。问咨询师这种事感觉怪怪的，还是别继续了。）",
+        "reasoning": "（这个咨询师好像挺在意我担心什么……但我现在还不想说太多家里的事。他们知道了肯定又要说我，或者更逼着我学习。算了，先随便应付一下，把话题转开吧。）\n（反正说了他们也不懂，只会觉得我矫情。问咨询师这种事感觉怪怪的，还是别继续了。）"
+      }
+    }
+  ],
+  "created": 1794543914,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1361,
+    "total_tokens": 1466,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

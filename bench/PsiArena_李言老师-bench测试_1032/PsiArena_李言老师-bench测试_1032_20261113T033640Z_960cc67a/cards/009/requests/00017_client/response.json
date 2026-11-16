@@ -1,0 +1,41 @@
+{
+  "id": "eac611826f8648b49c75cec285646dd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是被她认定我不好吧……那个更难受，好像整个人都被否定了。唉，我是不是太在意别人怎么看了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得更细了，把“失望”和“认定我不好”拆开。我其实心里知道，一时失望还能补救，可要是被认定我这个人不行，好像就再也翻不了身了。这种怕，比当下拒绝别人还要沉。）\n（这么一想，我有点明白自己为什么总在事后反复琢磨。也许我该顺着这个感觉往下说，而不是绕开。先承认最怕的是那个“认定”，再看看能不能找到一点改的方向。）",
+        "reasoning": "（她问得更细了，把“失望”和“认定我不好”拆开。我其实心里知道，一时失望还能补救，可要是被认定我这个人不行，好像就再也翻不了身了。这种怕，比当下拒绝别人还要沉。）\n（这么一想，我有点明白自己为什么总在事后反复琢磨。也许我该顺着这个感觉往下说，而不是绕开。先承认最怕的是那个“认定”，再看看能不能找到一点改的方向。）"
+      }
+    }
+  ],
+  "created": 1794541470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2410,
+    "total_tokens": 2539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

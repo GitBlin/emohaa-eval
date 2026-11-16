@@ -1,0 +1,41 @@
+{
+  "id": "b524594f3b18414a99ddff545ff8a6e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这周末吧，我们本来约了吃饭。（犹豫）不过我还是有点担心，她们会不会觉得我太矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候开口，这让我有点紧张，但也觉得是时候了。周末和小林吃饭，她比较细心，可能比较适合先提。）\n（不过我还是担心她会不会觉得我太矫情，或者小题大做。这种担心让我有点犹豫，但既然已经决定了，还是得试试看。）",
+        "reasoning": "（咨询师问我打算什么时候开口，这让我有点紧张，但也觉得是时候了。周末和小林吃饭，她比较细心，可能比较适合先提。）\n（不过我还是担心她会不会觉得我太矫情，或者小题大做。这种担心让我有点犹豫，但既然已经决定了，还是得试试看。）"
+      }
+    }
+  ],
+  "created": 1794557073,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2608,
+    "total_tokens": 2702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

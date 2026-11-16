@@ -1,0 +1,41 @@
+{
+  "id": "bdf31701037b4bfc9d50cd95bb535252",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "因为不用解释，也不用怕说错话。走开至少能让我先喘口气，不然坐在那一直绷着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我为什么觉得走开比开口轻松，这让我想到平时那些憋着的时刻。其实我挺怕一开口就变成抱怨，显得自己斤斤计较，走开至少不用面对那种尴尬。）\n（而且我确实不知道该怎么接他的话，万一说错什么，又得在心里翻来覆去好几天。走开的话，至少能让自己先喘口气，不用一直绷着。）",
+        "reasoning": "（咨询师问我为什么觉得走开比开口轻松，这让我想到平时那些憋着的时刻。其实我挺怕一开口就变成抱怨，显得自己斤斤计较，走开至少不用面对那种尴尬。）\n（而且我确实不知道该怎么接他的话，万一说错什么，又得在心里翻来覆去好几天。走开的话，至少能让自己先喘口气，不用一直绷着。）"
+      }
+    }
+  ],
+  "created": 1794548362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2920,
+    "total_tokens": 3033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

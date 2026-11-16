@@ -1,0 +1,41 @@
+{
+  "id": "3d978c515fc64800bc94fc50b942ec8a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "躺下想吧，手机我怕我记两天就懒得记了。不过躺着想的时候，别又变成数落自己就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我哪种方式更轻松，其实我有点犹豫。晚上躺下回想听起来不用额外做什么，但可能想着想着又变成责备自己。手机记下来倒是具体，可我怕自己坚持不了几天。）\n（不过既然要试着改变，总得选一个。我平时就老忘事，手机至少能留个痕迹。虽然心里还是有点没底，但先这么定吧。）",
+        "reasoning": "（咨询师问我哪种方式更轻松，其实我有点犹豫。晚上躺下回想听起来不用额外做什么，但可能想着想着又变成责备自己。手机记下来倒是具体，可我怕自己坚持不了几天。）\n（不过既然要试着改变，总得选一个。我平时就老忘事，手机至少能留个痕迹。虽然心里还是有点没底，但先这么定吧。）"
+      }
+    }
+  ],
+  "created": 1794556480,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3012,
+    "total_tokens": 3126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

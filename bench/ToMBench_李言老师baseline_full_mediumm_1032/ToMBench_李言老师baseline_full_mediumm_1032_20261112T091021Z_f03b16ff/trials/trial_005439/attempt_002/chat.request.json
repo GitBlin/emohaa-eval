@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:29:12.055566+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Friday afternoon, in the school library, Xiao Jie is reading a novel intently. Xiao Hong and Xiao Liang sit on the table next to him, they are Xiao Jie's classmates. Xiao Hong suddenly says to Xiao Liang: \"Do you know Xiao Jie comes here to read every day? I think he is a bit strange.\" At this moment, Xiao Jie hears their conversation, quietly closes the book, and prepares to leave. Xiao Liang does not know that Xiao Jie hears, and continues to say: \"Yes, he always sits here alone, maybe because he is shy.\" Xiao Jie feels a bit embarrassed, but still politely says: \"Hmm, I just enjoy reading quietly here.\" Xiao Hong and Xiao Liang laugh, then Xiao Liang asks: \"Xiao Jie, do you go to play football now?\"\n\n[Question]\nIf there is, which sentence is inappropriate?\n\n[Candidate Answers]\nA. Yes, he always sits here alone, maybe because he is shy.\nB. Do you know Xiao Jie comes here to read every day? I think he is a bit strange.\nC. There is no inappropriate sentence\nD. Hmm, I just enjoy reading quietly here.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

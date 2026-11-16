@@ -1,0 +1,41 @@
+{
+  "id": "f6f00559812743e29e82921d9e14bf0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕她马上说“没关系，我都可以”，然后我又不知道她是不是在压着自己。……不过要是她先听我说完，我可能会松一点。也许我该先把这句话练熟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心妻子怎么回应，这让我想到自己一直回避的那个画面。我其实不是怕她生气，是怕她太体谅我，反而让我觉得自己的纠结很可笑。）\n（但转念一想，如果她真的只是安静地听着，不急着下判断，也许我反而能松一口气。我好像能试着把“我还没想清楚自己”这句话说出口了。）",
+        "reasoning": "（她问我最担心妻子怎么回应，这让我想到自己一直回避的那个画面。我其实不是怕她生气，是怕她太体谅我，反而让我觉得自己的纠结很可笑。）\n（但转念一想，如果她真的只是安静地听着，不急着下判断，也许我反而能松一口气。我好像能试着把“我还没想清楚自己”这句话说出口了。）"
+      }
+    }
+  ],
+  "created": 1794548777,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3340,
+    "total_tokens": 3468,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5f8f715dc60245c4b567b7e5de61dcf9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能会觉得……我至少为自己做了点什么，不是光在那儿干等。这样想好像没那么憋屈了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我表达后的感受，好像是在帮我区分“说出来”和“他回应”这两件事。我确实一直把这两件事绑在一起，好像他不回应就等于我没说清楚。）\n（不过仔细想想，如果我真的把害怕说出来了，至少不用再反复纠结“他到底知不知道”。那种憋着猜的滋味太难受了，说出来可能会让我觉得自己没那么被动。）",
+        "reasoning": "（咨询师在问我表达后的感受，好像是在帮我区分“说出来”和“他回应”这两件事。我确实一直把这两件事绑在一起，好像他不回应就等于我没说清楚。）\n（不过仔细想想，如果我真的把害怕说出来了，至少不用再反复纠结“他到底知不知道”。那种憋着猜的滋味太难受了，说出来可能会让我觉得自己没那么被动。）"
+      }
+    }
+  ],
+  "created": 1794555462,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2847,
+    "total_tokens": 2952,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

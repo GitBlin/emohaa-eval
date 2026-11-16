@@ -1,0 +1,41 @@
+{
+  "id": "048eb9bbb44041328ceab74e90eb4b55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）没有，没人可说。（停了停）不过……说出来好像心里没那么堵了。明天我想先在心里练一遍。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我有没有把这种话对谁说过……我平时哪有人可以说啊。她这么一问，我忽然觉得，好像最需要听这种话的人其实是我自己。以前光顾着怪自己，从没想过对自己说点软话。）\n（不过现在说出来，感觉心里没那么堵了。明天去学校，我可以先试试把想说的话在心里过一遍，这样也许就不那么怕了。至少我知道，就算没做到，也能再给自己一次机会。）",
+        "reasoning": "（老师问我有没有把这种话对谁说过……我平时哪有人可以说啊。她这么一问，我忽然觉得，好像最需要听这种话的人其实是我自己。以前光顾着怪自己，从没想过对自己说点软话。）\n（不过现在说出来，感觉心里没那么堵了。明天去学校，我可以先试试把想说的话在心里过一遍，这样也许就不那么怕了。至少我知道，就算没做到，也能再给自己一次机会。）"
+      }
+    }
+  ],
+  "created": 1794554163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2914,
+    "total_tokens": 3041,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

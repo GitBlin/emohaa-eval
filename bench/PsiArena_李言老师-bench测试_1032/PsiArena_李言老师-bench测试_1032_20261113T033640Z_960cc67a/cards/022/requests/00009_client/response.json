@@ -1,0 +1,41 @@
+{
+  "id": "f363209a6a5f4c23848cd9f63ea4564f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实就想她能先听我说完，别急着挑我的问题。嗯，可这么一想，好像又是我在要求她，我是不是有点贪心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我希望妈妈怎么回应我。这个问题让我一下子有点不知道怎么说，因为好像从来没有认真想过自己真正想要什么。我习惯了先想别人希望我怎样。）\n（但如果真的要说，我其实只是希望她能先听我说完，不要一上来就挑毛病。可这个念头一冒出来，我又觉得是不是我太贪心了，她本来就是这样的人，我凭什么要求她改。）",
+        "reasoning": "（她问的是我希望妈妈怎么回应我。这个问题让我一下子有点不知道怎么说，因为好像从来没有认真想过自己真正想要什么。我习惯了先想别人希望我怎样。）\n（但如果真的要说，我其实只是希望她能先听我说完，不要一上来就挑毛病。可这个念头一冒出来，我又觉得是不是我太贪心了，她本来就是这样的人，我凭什么要求她改。）"
+      }
+    }
+  ],
+  "created": 1794542193,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1716,
+    "total_tokens": 1837,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

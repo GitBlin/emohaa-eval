@@ -1,0 +1,41 @@
+{
+  "id": "1f48144ac00c453295a5d873b10c25e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "经常。尤其是我要做决定的时候，那个声音就冒出来，说我肯定做不好。挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那个声音是不是还在心里响。她好像真的在认真听，没有像家里人那样急着否定我。我有点想说，可又怕说多了显得自己太脆弱。）\n（这个声音确实一直在，尤其是我做决定的时候，它就会冒出来。我甚至觉得它已经成了我的一部分，让我连尝试都害怕。也许可以稍微说一点，让她知道它有多困扰我。）",
+        "reasoning": "（咨询师在问我那个声音是不是还在心里响。她好像真的在认真听，没有像家里人那样急着否定我。我有点想说，可又怕说多了显得自己太脆弱。）\n（这个声音确实一直在，尤其是我做决定的时候，它就会冒出来。我甚至觉得它已经成了我的一部分，让我连尝试都害怕。也许可以稍微说一点，让她知道它有多困扰我。）"
+      }
+    }
+  ],
+  "created": 1794554905,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2274,
+    "total_tokens": 2385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f0989accffb94bcb9d33e29c3a25001d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能会松一点吧，也可能更难受。不过至少……是我自己先看见了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问写完会有什么感觉，我其实不太确定。可能会松一点，但说不定更难受。不过既然已经决定试试，总得先做了才知道。）\n（我不想把话说得太满，也不想让她觉得我在敷衍。写完那几句，也许真的会看清一些自己一直绕开的东西。）",
+        "reasoning": "（她问写完会有什么感觉，我其实不太确定。可能会松一点，但说不定更难受。不过既然已经决定试试，总得先做了才知道。）\n（我不想把话说得太满，也不想让她觉得我在敷衍。写完那几句，也许真的会看清一些自己一直绕开的东西。）"
+      }
+    }
+  ],
+  "created": 1794556866,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2400,
+    "total_tokens": 2481,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

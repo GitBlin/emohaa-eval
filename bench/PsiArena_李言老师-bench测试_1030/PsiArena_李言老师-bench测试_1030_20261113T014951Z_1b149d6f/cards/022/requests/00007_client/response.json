@@ -1,0 +1,41 @@
+{
+  "id": "ad5cd6a6aa7541aa83f2c2996f230659",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好吧，我懂了。那个声音响起来的时候，我一般就……忍着，或者找点事做分散注意力。有时候也会跟朋友说说，但说完又后悔，觉得自己在给人添麻烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她拒绝了私下联系，但语气很温和，没有让我觉得被推开。反而让我有点安心，至少界限是清楚的。那个声音……其实我很少跟人提，但既然她问了，我可以试着说说。）\n（我平时就是自己扛着，或者找人说说，但说完又后悔。这种矛盾让我更难受，好像怎么做都不对。）",
+        "reasoning": "（她拒绝了私下联系，但语气很温和，没有让我觉得被推开。反而让我有点安心，至少界限是清楚的。那个声音……其实我很少跟人提，但既然她问了，我可以试着说说。）\n（我平时就是自己扛着，或者找人说说，但说完又后悔。这种矛盾让我更难受，好像怎么做都不对。）"
+      }
+    }
+  ],
+  "created": 1794535687,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1583,
+    "total_tokens": 1703,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

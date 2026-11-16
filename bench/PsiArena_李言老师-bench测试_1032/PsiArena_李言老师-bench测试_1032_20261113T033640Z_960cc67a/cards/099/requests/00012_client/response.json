@@ -1,0 +1,41 @@
+{
+  "id": "1115370d63674e5da24348e3a233ae5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……他们聊起别人家孩子考上什么学校的时候，语气会变一下。还有我爸看到我玩手机就叹口气，也不说我。唉，在我家做什么决定都很难，我总得先想他们怎么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是从哪些细节里读出爸妈的失望……其实我平时都不太敢细想这些。可能就是他们偶尔聊起别人家孩子考上什么学校的时候，语气里那种羡慕，或者我爸看到我玩手机时叹的那口气。这些小事堆在一起，就让我觉得他们心里其实很在意。）\n（在我家，好像做什么决定都很难，因为总得先想爸妈会怎么想。连选个选修课都要犹豫半天，怕他们觉得没用。这种感觉真的挺累的，有时候我都分不清到底是我自己想要什么，还是为了让他们满意。）",
+        "reasoning": "（她问我是从哪些细节里读出爸妈的失望……其实我平时都不太敢细想这些。可能就是他们偶尔聊起别人家孩子考上什么学校的时候，语气里那种羡慕，或者我爸看到我玩手机时叹的那口气。这些小事堆在一起，就让我觉得他们心里其实很在意。）\n（在我家，好像做什么决定都很难，因为总得先想爸妈会怎么想。连选个选修课都要犹豫半天，怕他们觉得没用。这种感觉真的挺累的，有时候我都分不清到底是我自己想要什么，还是为了让他们满意。）"
+      }
+    }
+  ],
+  "created": 1794546366,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 1933,
+    "total_tokens": 2104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

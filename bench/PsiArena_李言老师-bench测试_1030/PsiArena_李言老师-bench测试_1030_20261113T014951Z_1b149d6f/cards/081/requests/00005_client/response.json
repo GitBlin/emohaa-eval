@@ -1,0 +1,41 @@
+{
+  "id": "54658e0e01e6477288cba30abc7d069c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有点吧。不过我想问一下，你平时会跟来访者聊得这么深吗？还是说……我们也可以像朋友那样随便聊聊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把话题引到了工作上，还说我烦的不只是书。她好像挺敏锐的，但我不太想这么快就聊那么深。我想先试探一下她的边界，看看她会不会真的像朋友那样回应我，还是保持那种职业的距离。）\n（毕竟现在才刚开始，我还没完全信任她。问这种私人问题有点冒险，但也许能看出她是不是真的在乎我这个人，而不只是完成咨询流程。）",
+        "reasoning": "（咨询师把话题引到了工作上，还说我烦的不只是书。她好像挺敏锐的，但我不太想这么快就聊那么深。我想先试探一下她的边界，看看她会不会真的像朋友那样回应我，还是保持那种职业的距离。）\n（毕竟现在才刚开始，我还没完全信任她。问这种私人问题有点冒险，但也许能看出她是不是真的在乎我这个人，而不只是完成咨询流程。）"
+      }
+    }
+  ],
+  "created": 1794539009,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1270,
+    "total_tokens": 1396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

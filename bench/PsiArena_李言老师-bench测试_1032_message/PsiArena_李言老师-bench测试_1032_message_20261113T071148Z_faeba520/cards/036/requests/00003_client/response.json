@@ -1,0 +1,41 @@
+{
+  "id": "d6674a0261a64088a2453337188248e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……有一阵子了吧，我也记不清具体什么时候开始的。（犹豫）那个，你认识我们学校的人吗？我是说，你会不会碰巧认识我老师什么的……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来挺温和的，还跟我保证不会告诉我爸妈。不过我还是有点不放心，毕竟学校里的事要是传出去就麻烦了。他说心里堵得慌，其实我每天都这样，但又说不清楚到底为什么。可能先随便说个时间吧，反正我也记不太清具体从什么时候开始的。不过还是得再试探一下，万一他跟我班主任认识呢？）",
+        "reasoning": "（这个咨询师看起来挺温和的，还跟我保证不会告诉我爸妈。不过我还是有点不放心，毕竟学校里的事要是传出去就麻烦了。他说心里堵得慌，其实我每天都这样，但又说不清楚到底为什么。可能先随便说个时间吧，反正我也记不太清具体从什么时候开始的。不过还是得再试探一下，万一他跟我班主任认识呢？）"
+      }
+    }
+  ],
+  "created": 1794555407,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1063,
+    "total_tokens": 1183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "89b43487c4464785878d410645681d7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前天吧。我问他工作找得怎么样，他就“嗯”了一声，眼睛都没离开手机。我站在那儿，突然觉得自己特别多余。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是最近哪一刻最让我觉得没被当在。这个问题一下子戳到我了，因为那种感觉每天都在发生，根本不用想。）\n（我想起前天晚上那件事，心里就又堵起来了。我明明是好意，想关心他工作的事，可他连头都不抬，就嗯一声。那种被敷衍的感觉，比吵架还让人难受。）",
+        "reasoning": "（他问的是最近哪一刻最让我觉得没被当在。这个问题一下子戳到我了，因为那种感觉每天都在发生，根本不用想。）\n（我想起前天晚上那件事，心里就又堵起来了。我明明是好意，想关心他工作的事，可他连头都不抬，就嗯一声。那种被敷衍的感觉，比吵架还让人难受。）"
+      }
+    }
+  ],
+  "created": 1794551438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1833,
+    "total_tokens": 1941,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

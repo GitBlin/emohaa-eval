@@ -1,0 +1,41 @@
+{
+  "id": "e5b1c52081aa47ca9a540d7067465fcf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该能吧。第一次别扭，第二次可能就没那么别扭了。我不想再像以前那样，一被提醒就全收回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我能不能坚持试第二次，好像是在确认我是不是真的有了点底气。我其实心里还没底，但想到刚才说的那句话，确实没那么怕了。）\n（我想老实说，可能还是会犹豫，但至少知道那个别扭不是失败。这样讲出来，也算给自己留个余地，不用一下子要求自己太坚定。）",
+        "reasoning": "（咨询师在问我能不能坚持试第二次，好像是在确认我是不是真的有了点底气。我其实心里还没底，但想到刚才说的那句话，确实没那么怕了。）\n（我想老实说，可能还是会犹豫，但至少知道那个别扭不是失败。这样讲出来，也算给自己留个余地，不用一下子要求自己太坚定。）"
+      }
+    }
+  ],
+  "created": 1794535085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3362,
+    "total_tokens": 3463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

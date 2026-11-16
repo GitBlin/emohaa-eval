@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:29:21.901925+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Na is a passionate community volunteer, often helps to organize community activities. One day, she is in charge of collecting donated clothes and categorizes them into packages. Ali is her assistant, due to a misunderstanding, he mistakenly packs the clothes that a resident specifically marks for a specific charity into the general donation box. Mark knows the special significance of these clothes, but because he has a personal grudge with that resident, he does not tell Li Na and Ali. When the resident asks, Li Na feels confused, and Ali starts to check if there is a mistake, finally finds out it is his own mistake.\n\n[Question]\nMark knows the special significance of these clothes, but does not tell Li Na and Ali, what kind of emotion does he feel?\n\n[Candidate Answers]\nA. Mark probably feels indifferent, because he thinks this is not his responsibility.\nB. Mark probably feels satisfied and cunning, because he sees the resident's donation plan is obstructed due to personal grudges.\nC. Mark probably feels satisfied, because he thinks the resident's donation plan is too complicated.\nD. Mark probably feels worried, worried that the resident gets angry because of this.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

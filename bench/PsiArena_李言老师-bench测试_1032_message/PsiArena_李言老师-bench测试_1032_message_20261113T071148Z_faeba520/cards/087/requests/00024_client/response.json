@@ -1,0 +1,41 @@
+{
+  "id": "4e79c21fdfdb41bc89800e7dd336bafe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那种……刚做完、心里一沉的时候。那时候最容易全盘否定自己。要是能在那一刻想起这句话，可能就不至于又陷进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在什么情况下最需要想起这句话……看来是想帮我把这个新习惯和具体情境联系起来。嗯，最需要的时候，应该就是那种刚做完、心里一下子沉下去的时刻吧。）\n（那种时候我最容易全盘否定自己，骂得最狠。如果能在那一刻先停一下，把这句话拿出来，也许就不会又陷进那个循环里了。）",
+        "reasoning": "（她问我在什么情况下最需要想起这句话……看来是想帮我把这个新习惯和具体情境联系起来。嗯，最需要的时候，应该就是那种刚做完、心里一下子沉下去的时刻吧。）\n（那种时候我最容易全盘否定自己，骂得最狠。如果能在那一刻先停一下，把这句话拿出来，也许就不会又陷进那个循环里了。）"
+      }
+    }
+  ],
+  "created": 1794558106,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3151,
+    "total_tokens": 3262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

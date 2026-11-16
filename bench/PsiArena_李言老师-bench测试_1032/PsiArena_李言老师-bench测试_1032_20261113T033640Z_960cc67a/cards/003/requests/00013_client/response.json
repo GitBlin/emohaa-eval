@@ -1,0 +1,41 @@
+{
+  "id": "97383b24ff1f40d18491f97c679bc46d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……前几天吧。我在群里问大家周末要不要一起出去，结果好几个人没回，回的也是“看情况”。我盯着手机看了好久，想再问一句，又怕自己太热情了显得怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我最近一次感到两难的具体场合，这让我想起前几天发消息的事。我确实在那种时刻特别矛盾，想主动又怕显得太急切。也许可以提这个例子，看看她怎么理解这种犹豫。）\n（不过说完之后又有点不确定，是不是显得我太在意别人的反应了。但既然她问的是具体场合，这个例子应该能让她明白我那种进退两难的感觉。）",
+        "reasoning": "（她刚才问我最近一次感到两难的具体场合，这让我想起前几天发消息的事。我确实在那种时刻特别矛盾，想主动又怕显得太急切。也许可以提这个例子，看看她怎么理解这种犹豫。）\n（不过说完之后又有点不确定，是不是显得我太在意别人的反应了。但既然她问的是具体场合，这个例子应该能让她明白我那种进退两难的感觉。）"
+      }
+    }
+  ],
+  "created": 1794541105,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2147,
+    "total_tokens": 2282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:39:56.975790+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAt 9 o'clock on Monday morning, in a third-grade classroom of a primary school, Teacher Zhao looks at the students and says: \"Classmates, I have a very sad thing to tell everyone, a boy in our class, Xiao Gang, is seriously ill in the hospital.\" The students in the class all silently lower their heads. After a while, a girl named Xiao Mei runs into the classroom and says to Teacher Zhao: \"I'm sorry, teacher, I am late.\" Teacher Zhao nods: \"Go to your seat.\" Xiao Mei quietly sits down and starts to write her homework.\n\n[Question]\nWhat news does the teacher tell the students?\n\n[Candidate Answers]\nA. A student scores high\nB. A student receives a reward\nC. A student transfers to another school\nD. A student is sick",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

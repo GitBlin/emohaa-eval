@@ -1,0 +1,41 @@
+{
+  "id": "a40f81082ddd4259bd280a33ea094011",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就再加一句吧……“先停一下”。这样看着，好像更能提醒我自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把这句话写下来，还问要不要加几个字。我本来只想写“我已经在尽力了”就够了，但仔细想想，那种慌起来的时候，光一句可能拉不住我。加一句提醒，让自己先停一下，也许更管用。可写太多又怕自己做不到，反而更烦。）\n（嗯……“先停一下”这几个字，简单，又是我今天真正想记住的。和前面那句放一起，应该能让我在乱的时候缓一缓。）",
+        "reasoning": "（她让我把这句话写下来，还问要不要加几个字。我本来只想写“我已经在尽力了”就够了，但仔细想想，那种慌起来的时候，光一句可能拉不住我。加一句提醒，让自己先停一下，也许更管用。可写太多又怕自己做不到，反而更烦。）\n（嗯……“先停一下”这几个字，简单，又是我今天真正想记住的。和前面那句放一起，应该能让我在乱的时候缓一缓。）"
+      }
+    }
+  ],
+  "created": 1794554369,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2892,
+    "total_tokens": 3018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

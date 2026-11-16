@@ -1,0 +1,51 @@
+{
+  "trial_id": "trial_003992",
+  "sample_id": "Strange Story Task:53",
+  "task_file": "Strange Story Task",
+  "ability": "Non-Literal Communication: Involuntary lies",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "A",
+    "B": "B"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "B",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:59:59.208844+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T02:00:20.956560+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "14f1333722234ee5a2b9436a395478c9"
+  ],
+  "started_at": "2026-11-13T01:59:59.208844+00:00",
+  "finished_at": "2026-11-13T02:00:23.554537+00:00",
+  "elapsed_seconds": 24.345890518277884,
+  "user_id": "liyan_1d371c7313cff4d6662bc31eae29507bef365f20"
+}

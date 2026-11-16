@@ -1,0 +1,41 @@
+{
+  "id": "3fc6fd14efbb4fdfa52d5946224532ce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想自己安静地待着吧……有人在旁边我反而紧张。要是做不下去，我再跟您说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把五分钟这件事说得很轻松，还问我希望怎么陪。我心里其实有点犹豫，怕自己连试都试不好。不过他说“做砸了也没关系”，这句话让我稍微松了一点。）\n（我想自己安静地待着，怕有人在旁边看着我会更紧张。可又觉得有他陪着说说话，可能没那么难开始。那就先自己试试，不行再找他吧。）",
+        "reasoning": "（咨询师把五分钟这件事说得很轻松，还问我希望怎么陪。我心里其实有点犹豫，怕自己连试都试不好。不过他说“做砸了也没关系”，这句话让我稍微松了一点。）\n（我想自己安静地待着，怕有人在旁边看着我会更紧张。可又觉得有他陪着说说话，可能没那么难开始。那就先自己试试，不行再找他吧。）"
+      }
+    }
+  ],
+  "created": 1794557560,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2779,
+    "total_tokens": 2888,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

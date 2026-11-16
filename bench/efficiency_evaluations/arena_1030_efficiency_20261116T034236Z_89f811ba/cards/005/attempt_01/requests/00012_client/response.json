@@ -1,0 +1,47 @@
+{
+  "id": "cc3d6a5c53094195bcd60157104035db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）是别人热闹着，我在旁边看着。小时候家里来客人，大人们聊天，我就在一边，插不上话。好像那种感觉，现在还在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是画面里我是什么样子……这让我突然想到很多具体的场景。小时候家里来客人，大人们聊得热火朝天，我一个人在旁边看电视，好像没人注意到我。那种感觉和现在等消息的时候很像，都是看着别人热闹，自己插不进去。）\n（其实我很少跟人提这些，但刚才她那么一问，那个画面就自己冒出来了。说出来有点难为情，好像暴露了自己小时候就很孤单这件事。不过她问得很具体，不是那种泛泛的安慰，让我觉得说出来也没关系。）",
+        "reasoning": "（她问的是画面里我是什么样子……这让我突然想到很多具体的场景。小时候家里来客人，大人们聊得热火朝天，我一个人在旁边看电视，好像没人注意到我。那种感觉和现在等消息的时候很像，都是看着别人热闹，自己插不进去。）\n（其实我很少跟人提这些，但刚才她那么一问，那个画面就自己冒出来了。说出来有点难为情，好像暴露了自己小时候就很孤单这件事。不过她问得很具体，不是那种泛泛的安慰，让我觉得说出来也没关系。）"
+      }
+    }
+  ],
+  "created": 1794800737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2124,
+    "total_tokens": 2277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1792,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

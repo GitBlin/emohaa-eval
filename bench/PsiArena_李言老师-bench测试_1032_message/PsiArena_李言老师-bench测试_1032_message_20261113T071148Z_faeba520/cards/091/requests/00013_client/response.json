@@ -1,0 +1,41 @@
+{
+  "id": "67a742e05f264f6dae05006e0cecfb0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下，声音低下来）当然希望是后者……可说实话，我好像不太相信真有那种无条件的接纳。真有人对我好，我反而会想，他是不是有什么目的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更希望哪一种是真的……她好像没有直接评判我矛盾，反而把两种声音都说出来了。我确实很想要那种无条件的接纳，但说出来又觉得自己在奢望。）\n（可是如果真有人无条件接纳我，我反而会害怕吧？我习惯了要表现好才被喜欢，突然有人什么都不要，我会不知道该怎么应对，甚至觉得对方是不是有所图。）",
+        "reasoning": "（咨询师在问我更希望哪一种是真的……她好像没有直接评判我矛盾，反而把两种声音都说出来了。我确实很想要那种无条件的接纳，但说出来又觉得自己在奢望。）\n（可是如果真有人无条件接纳我，我反而会害怕吧？我习惯了要表现好才被喜欢，突然有人什么都不要，我会不知道该怎么应对，甚至觉得对方是不是有所图。）"
+      }
+    }
+  ],
+  "created": 1794558225,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2274,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

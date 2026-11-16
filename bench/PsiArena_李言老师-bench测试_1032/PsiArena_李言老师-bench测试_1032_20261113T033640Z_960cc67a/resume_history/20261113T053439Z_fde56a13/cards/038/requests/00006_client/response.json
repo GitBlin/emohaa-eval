@@ -1,0 +1,41 @@
+{
+  "id": "9d9368f96cbd434c8a92367b8ba03596",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小事……工作上的吧，最近改稿改得有点烦。不过说这些好像也没什么意义，都是些琐碎的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近有没有在意的小事，我其实心里翻腾着很多事，但一下子不知道从哪说起。工作上的事相对安全，先提这个吧，看看对方怎么接。）\n（不过说完又有点慌，怕显得自己太琐碎，或者被追问下去。还是先含糊带过，看看咨询师的反应再说。）",
+        "reasoning": "（咨询师问我最近有没有在意的小事，我其实心里翻腾着很多事，但一下子不知道从哪说起。工作上的事相对安全，先提这个吧，看看对方怎么接。）\n（不过说完又有点慌，怕显得自己太琐碎，或者被追问下去。还是先含糊带过，看看咨询师的反应再说。）"
+      }
+    }
+  ],
+  "created": 1794542932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1393,
+    "total_tokens": 1495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bac90911e1d84ecaa71cafd3183ea759",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“你那天说我太敏感，我听着挺难受的，我想跟你说说我当时是怎么想的。”这样说，会不会太软了，他根本不当回事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试着用“我句式”说一遍，我有点紧张，怕说不好。但前几天那件事我确实憋着难受，也许可以照着这个说法试试。说出口的时候，心里有点发虚，不知道这算不算在指责他。）\n（说完又有点不确定，这样是不是太软了，他会不会根本不当回事。可至少我把自己想说的说出来了，没有咽回去。还是问问她这样行不行吧。）",
+        "reasoning": "（她让我试着用“我句式”说一遍，我有点紧张，怕说不好。但前几天那件事我确实憋着难受，也许可以照着这个说法试试。说出口的时候，心里有点发虚，不知道这算不算在指责他。）\n（说完又有点不确定，这样是不是太软了，他会不会根本不当回事。可至少我把自己想说的说出来了，没有咽回去。还是问问她这样行不行吧。）"
+      }
+    }
+  ],
+  "created": 1794555310,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3243,
+    "total_tokens": 3373,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

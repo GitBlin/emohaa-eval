@@ -1,0 +1,41 @@
+{
+  "id": "b63ee67f91b24c9385ee8687ea9eff0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……好像真没怎么说过。大多时候只盯着他成绩，一急就骂他。说真的，我挺怕自己越来越像我爸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我会怎么让儿子知道为他骄傲，这让我想到自己平时确实很少夸他，就像我爸当年对我那样。心里有点堵，觉得自己好像也在重复父亲那套，明明不想这样却做不到。）\n（我其实想对孩子好一点，可话到嘴边就变了味，只会盯着成绩和毛病。这种矛盾让我更烦躁，也觉得自己挺失败的。）",
+        "reasoning": "（咨询师问的是我会怎么让儿子知道为他骄傲，这让我想到自己平时确实很少夸他，就像我爸当年对我那样。心里有点堵，觉得自己好像也在重复父亲那套，明明不想这样却做不到。）\n（我其实想对孩子好一点，可话到嘴边就变了味，只会盯着成绩和毛病。这种矛盾让我更烦躁，也觉得自己挺失败的。）"
+      }
+    }
+  ],
+  "created": 1794543195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2145,
+    "total_tokens": 2259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

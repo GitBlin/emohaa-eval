@@ -1,0 +1,47 @@
+{
+  "id": "ca84f83d1aa74f04ab135444ea2c6fcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能……就是怕到时候声音太小。我在心里把这两句连起来念吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体的说法，让我能更稳地开口。我有点紧张，但觉得“老师，您先听我说完”这句确实能让我心里有底。不过我还是担心自己到时候会忘，或者声音太小她听不见。）\n（我想试试，可又怕做不到。也许我可以在心里多念几遍，把这两句连在一起说，这样就不容易卡住。虽然还是有点怕，但至少现在知道该怎么开口了。）",
+        "reasoning": "（咨询师在帮我想具体的说法，让我能更稳地开口。我有点紧张，但觉得“老师，您先听我说完”这句确实能让我心里有底。不过我还是担心自己到时候会忘，或者声音太小她听不见。）\n（我想试试，可又怕做不到。也许我可以在心里多念几遍，把这两句连在一起说，这样就不容易卡住。虽然还是有点怕，但至少现在知道该怎么开口了。）"
+      }
+    }
+  ],
+  "created": 1794800794,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3253,
+    "total_tokens": 3371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

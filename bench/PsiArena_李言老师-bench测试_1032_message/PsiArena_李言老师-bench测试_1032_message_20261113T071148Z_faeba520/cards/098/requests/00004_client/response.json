@@ -1,0 +1,41 @@
+{
+  "id": "6b6ab9a6699345388f697f5c6bf02281",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "放学以后吧……家里有点吵，我就想自己待着。其实……我有时候会躲进厕所里，待挺久的，但我也不知道这算不算问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我难受通常在什么时候出现，还说不急着评判我爸妈。他好像真的在听我说，没有像大人那样马上讲道理或者批评我。不过我还是有点怕说太多，万一他觉得我不乖怎么办。）\n（我想说放学后一个人待着的时候，家里很吵，躲进厕所才舒服一点。但我不敢直接提手机的事，先只说这个吧，看看他会不会追问或者告诉我爸妈。）",
+        "reasoning": "（咨询师问我难受通常在什么时候出现，还说不急着评判我爸妈。他好像真的在听我说，没有像大人那样马上讲道理或者批评我。不过我还是有点怕说太多，万一他觉得我不乖怎么办。）\n（我想说放学后一个人待着的时候，家里很吵，躲进厕所才舒服一点。但我不敢直接提手机的事，先只说这个吧，看看他会不会追问或者告诉我爸妈。）"
+      }
+    }
+  ],
+  "created": 1794558602,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1202,
+    "total_tokens": 1327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

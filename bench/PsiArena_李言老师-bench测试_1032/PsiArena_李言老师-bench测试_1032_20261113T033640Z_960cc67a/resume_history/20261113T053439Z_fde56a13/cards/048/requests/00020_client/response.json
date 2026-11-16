@@ -1,0 +1,41 @@
+{
+  "id": "4d1ab8aecf5b4b0183dbae48afff8f35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是“先别急”吧，我一急就什么都想不起来。也许我该给自己定个具体的动作，比如先深呼吸一下再找。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体卡在哪一部分，是在帮我细化那个缓冲句。我确实觉得“先别急”说起来容易，真到那时候根本停不下来，倒是“可以再找”听着更实在一点。）\n（不过我也想到，光靠一句话可能不够，我平时一乱就什么都顾不上了。也许可以加点具体的动作，让自己先有个抓手，别一下子就被自责淹没。）",
+        "reasoning": "（咨询师在问我具体卡在哪一部分，是在帮我细化那个缓冲句。我确实觉得“先别急”说起来容易，真到那时候根本停不下来，倒是“可以再找”听着更实在一点。）\n（不过我也想到，光靠一句话可能不够，我平时一乱就什么都顾不上了。也许可以加点具体的动作，让自己先有个抓手，别一下子就被自责淹没。）"
+      }
+    }
+  ],
+  "created": 1794543532,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2784,
+    "total_tokens": 2901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

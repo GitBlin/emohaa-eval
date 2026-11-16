@@ -1,0 +1,41 @@
+{
+  "id": "f6dc74153d864937a701a7185bb1330c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）“先别急”好像是命令自己……换成“这样也挺好”？（有点别扭地笑）说不太出口，但好像……心里松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想不想换一句更对自己说的话。我一下子有点愣，之前说“先别急”其实更像是压着自己，怕出错。她这么一问，我好像可以不用那么苛责自己了。）\n（我想起之前聊的那些，我总觉得自己得再好一点才配，可她说那不是傻。也许我可以试着说一句不那么像命令的话，比如“这样也挺好”，虽然说出来有点别扭，但心里好像松了一点。）",
+        "reasoning": "（她问我想不想换一句更对自己说的话。我一下子有点愣，之前说“先别急”其实更像是压着自己，怕出错。她这么一问，我好像可以不用那么苛责自己了。）\n（我想起之前聊的那些，我总觉得自己得再好一点才配，可她说那不是傻。也许我可以试着说一句不那么像命令的话，比如“这样也挺好”，虽然说出来有点别扭，但心里好像松了一点。）"
+      }
+    }
+  ],
+  "created": 1794559106,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3244,
+    "total_tokens": 3373,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

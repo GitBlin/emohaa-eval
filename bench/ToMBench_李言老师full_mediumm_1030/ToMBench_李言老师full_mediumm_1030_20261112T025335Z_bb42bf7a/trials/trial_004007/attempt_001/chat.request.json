@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:59:30.925301+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMrs. Zhao and her husband live with the elders in their family, their family is affluent, life is happy, and everyone is in harmony. Her husband loves her very much, she receives a special gift from her husband on her wedding anniversary: a romantic seaside vacation for the weekend.\n\n[Question]\nMrs. Zhao should be surprised by her husband's romantic gift, but why does she actually appear anxious?\n\n[Candidate Answers]\nA. Mrs. Zhao has important plans at work and worries about them being disrupted.\nB. Mrs. Zhao worries that no one takes care of the pets and plants at home when they leave.\nC. Mrs. Zhao worries about her husband's behavior, suspecting that he may have something to hide.\nD. Mrs. Zhao is anxious about the cost of the vacation, worrying that it may affect their family's financial situation.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

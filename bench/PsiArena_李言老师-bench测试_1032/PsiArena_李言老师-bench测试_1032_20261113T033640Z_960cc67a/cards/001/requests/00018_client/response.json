@@ -1,0 +1,41 @@
+{
+  "id": "c3c434fb8f15473f94a623f296edfb1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提问可能比直接说想法容易点。比如问一句“你们觉得这样行吗”……这样算不算太刻意？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我先试着说一句补充或提问……听起来好像没那么难，可我还是有点慌。万一我说了没人理，或者别人觉得我插嘴怎么办。不过刚才我也说了想从小事开始，要是连一句都不敢说，那不就又跟以前一样了吗。）\n（也许可以先从提问开始，问一句“你们觉得呢”这种，不用一下子说太多。这样既开了口，也不至于太显眼。嗯……这么想好像能稍微松口气。）",
+        "reasoning": "（她让我先试着说一句补充或提问……听起来好像没那么难，可我还是有点慌。万一我说了没人理，或者别人觉得我插嘴怎么办。不过刚才我也说了想从小事开始，要是连一句都不敢说，那不就又跟以前一样了吗。）\n（也许可以先从提问开始，问一句“你们觉得呢”这种，不用一下子说太多。这样既开了口，也不至于太显眼。嗯……这么想好像能稍微松口气。）"
+      }
+    }
+  ],
+  "created": 1794548162,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2509,
+    "total_tokens": 2637,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "982d56a621214bf48ac613d9ed18e6c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）大概是从小家里那种氛围吧，做事得有意义、不能闲着。久了就变成我自己的了。不过说出来之后，好像没那么压人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个声音从哪儿来的，其实我心里已经隐约有答案了。就是从小家里那种氛围吧，爸妈总说做事要稳、要有用，久了就变成自己对自己的要求了。不过说出来有点难，感觉像在怪他们。）\n（但今天聊下来，好像确实看清了一些。那种“不能停”的劲儿，不是天生的，是慢慢被灌进去的。我想试着说出来，但不想说得太重，毕竟他们也是为我好。得留个余地，别把话说死了。）",
+        "reasoning": "（咨询师问这个声音从哪儿来的，其实我心里已经隐约有答案了。就是从小家里那种氛围吧，爸妈总说做事要稳、要有用，久了就变成自己对自己的要求了。不过说出来有点难，感觉像在怪他们。）\n（但今天聊下来，好像确实看清了一些。那种“不能停”的劲儿，不是天生的，是慢慢被灌进去的。我想试着说出来，但不想说得太重，毕竟他们也是为我好。得留个余地，别把话说死了。）"
+      }
+    }
+  ],
+  "created": 1794556239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3189,
+    "total_tokens": 3333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

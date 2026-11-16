@@ -1,0 +1,41 @@
+{
+  "id": "0187772fb0034d76994d8fbc40c8ebfe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天就有课……作业也会发下来。（犹豫）不过我怕自己到时候又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候试这一次，我心里其实有点发怵。说出口的话好像就得真的去做了，但我不想再像以前那样一直躲着。明天就有课，作业也会发下来，这大概是最自然的机会了。）\n（可是我又怕自己到时候会怂，临到跟前就缩回去。所以我想先给自己定个具体的打算，哪怕只是递一下作业本、说一句话也好。）",
+        "reasoning": "（咨询师问我打算什么时候试这一次，我心里其实有点发怵。说出口的话好像就得真的去做了，但我不想再像以前那样一直躲着。明天就有课，作业也会发下来，这大概是最自然的机会了。）\n（可是我又怕自己到时候会怂，临到跟前就缩回去。所以我想先给自己定个具体的打算，哪怕只是递一下作业本、说一句话也好。）"
+      }
+    }
+  ],
+  "created": 1794555459,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2533,
+    "total_tokens": 2641,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

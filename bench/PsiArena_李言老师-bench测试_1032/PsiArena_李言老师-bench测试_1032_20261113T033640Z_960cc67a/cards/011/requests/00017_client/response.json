@@ -1,0 +1,41 @@
+{
+  "id": "b8ddcff3773e4f3c8edf3e7459015aca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他先听懂我不是不想做好，是真的快撑不住了。可我又不想一开口就哭，好像很没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最希望老公先听懂哪一件事……这个问题让我有点不知所措。虽然之前想过要跟他说，但具体要说什么其实还没想清楚。）\n（可能还是需要更实际的东西吧。毕竟那些委屈和道理说多了反而容易吵架，不如直接告诉他怎么做。但这样会不会显得太计较了？）",
+        "reasoning": "（咨询师问我最希望老公先听懂哪一件事……这个问题让我有点不知所措。虽然之前想过要跟他说，但具体要说什么其实还没想清楚。）\n（可能还是需要更实际的东西吧。毕竟那些委屈和道理说多了反而容易吵架，不如直接告诉他怎么做。但这样会不会显得太计较了？）"
+      }
+    }
+  ],
+  "created": 1794548467,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2594,
+    "total_tokens": 2688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

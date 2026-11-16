@@ -1,0 +1,41 @@
+{
+  "id": "b7c4f1f091a440baa507f126a378f1bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先把那个测试的事弄明白，别再自己瞎琢磨了。可能找个专业的人，帮我看看这分数到底该怎么理解。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先试哪一小步，我脑子里第一个冒出来的就是别再一个人瞎看了。那些测试条目我越看越慌，根本分不清哪些是真的问题、哪些只是我勾得太重。可能真的需要个专业的人帮我把这个分数拆开看看，不然我老觉得整个人格都被否定了。）\n（不过我也没想好到底该找谁，社区里的咨询还是医院的评估，听起来都有点吓人。但至少先迈出这一步，总比每天盯着那个90分自己吓自己强。）",
+        "reasoning": "（咨询师问我想先试哪一小步，我脑子里第一个冒出来的就是别再一个人瞎看了。那些测试条目我越看越慌，根本分不清哪些是真的问题、哪些只是我勾得太重。可能真的需要个专业的人帮我把这个分数拆开看看，不然我老觉得整个人格都被否定了。）\n（不过我也没想好到底该找谁，社区里的咨询还是医院的评估，听起来都有点吓人。但至少先迈出这一步，总比每天盯着那个90分自己吓自己强。）"
+      }
+    }
+  ],
+  "created": 1794544313,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 3196,
+    "total_tokens": 3337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

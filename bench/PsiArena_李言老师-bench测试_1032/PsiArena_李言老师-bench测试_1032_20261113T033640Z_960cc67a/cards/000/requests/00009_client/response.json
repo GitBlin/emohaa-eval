@@ -1,0 +1,41 @@
+{
+  "id": "4feda67b593e47ff8b037217d29c0ff7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心里空吧……好像热闹是她们的，我只是在配合。小时候家里吃饭也很安静，大家说得多的是成绩、事情，很少问我开不开心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是泄气感更接近身体疲惫还是心里空落落。我想到小时候家里饭桌上也是安安静静的，爸妈只问成绩，没人闲聊。那种空落落的感觉好像很早就有了，不只是现在和同事吃饭才这样。）\n（可能我一直在用“该接什么话、笑得合不合适”来撑住场面，其实是在重复小时候那种怕说错、怕不被认可的模式。说出来有点难堪，但好像确实不只是累。）",
+        "reasoning": "（她问的是泄气感更接近身体疲惫还是心里空落落。我想到小时候家里饭桌上也是安安静静的，爸妈只问成绩，没人闲聊。那种空落落的感觉好像很早就有了，不只是现在和同事吃饭才这样。）\n（可能我一直在用“该接什么话、笑得合不合适”来撑住场面，其实是在重复小时候那种怕说错、怕不被认可的模式。说出来有点难堪，但好像确实不只是累。）"
+      }
+    }
+  ],
+  "created": 1794541085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1698,
+    "total_tokens": 1831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

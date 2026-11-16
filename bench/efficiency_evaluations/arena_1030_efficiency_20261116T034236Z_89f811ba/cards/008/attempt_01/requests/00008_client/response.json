@@ -1,0 +1,47 @@
+{
+  "id": "4780af54fcaf44f8a27e971e9b62dcd0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最早啊……可能是小时候吧。我爸妈老说，女孩子别太情绪化，在外面要稳一点。我记得有次我特别高兴地跟他们讲学校的事，他们却说我太吵了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最早开始这样自我否定是什么时候，这让我有点意外，得往回想了。小时候家里确实总提醒我收敛，好像我的情绪一露出来就会惹麻烦。）\n（这种感觉其实挺熟悉的，不是突然才有的。我小时候好像就学会了先把自己压下去，这样比较安全。可说出来又有点难受，好像承认了自己一直活得挺小心。）",
+        "reasoning": "（咨询师问我最早开始这样自我否定是什么时候，这让我有点意外，得往回想了。小时候家里确实总提醒我收敛，好像我的情绪一露出来就会惹麻烦。）\n（这种感觉其实挺熟悉的，不是突然才有的。我小时候好像就学会了先把自己压下去，这样比较安全。可说出来又有点难受，好像承认了自己一直活得挺小心。）"
+      }
+    }
+  ],
+  "created": 1794800870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1685,
+    "total_tokens": 1807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

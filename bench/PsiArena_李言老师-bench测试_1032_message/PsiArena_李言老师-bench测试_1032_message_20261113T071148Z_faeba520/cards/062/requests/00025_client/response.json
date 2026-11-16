@@ -1,0 +1,41 @@
+{
+  "id": "4e82428b61b744cf98819a8086a13d4d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一下）要不……我先去医院挂个号，问问医生到底什么情况。不用马上请假，先弄清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最小的一步是什么，我脑子里其实先冒出来的是请假那件事，可那太大了，一想就慌。得找一件不用惊动单位、也不用花太多钱的。）\n（去医院挂个号，这个好像还能试试。先听听医生怎么说，心里有个底，也算没白拖着。至少比光在这儿瞎想强。）",
+        "reasoning": "（咨询师问我最小的一步是什么，我脑子里其实先冒出来的是请假那件事，可那太大了，一想就慌。得找一件不用惊动单位、也不用花太多钱的。）\n（去医院挂个号，这个好像还能试试。先听听医生怎么说，心里有个底，也算没白拖着。至少比光在这儿瞎想强。）"
+      }
+    }
+  ],
+  "created": 1794556833,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3226,
+    "total_tokens": 3327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

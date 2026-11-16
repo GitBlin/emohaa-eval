@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:57:26.318222+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe scenery of Copacabana Beach in Rio de Janeiro, Brazil is beautiful, many people are experiencing exciting surfing, Wang Lei, as a sports enthusiast, looks forward to and is about to start experiencing surfing.\n\n[Question]\nWang Lei should feel excited when surfing, but he actually feels scared, why is this?\n\n[Candidate Answers]\nA. The waves are much larger than Wang Lei expects, and the experience of drowning in childhood makes him feel scared.\nB. Wang Lei accidentally falls while surfing, this makes him feel scared of surfing.\nC. Wang Lei finds that the water quality of his surfing location is not very good, which scares him.\nD. Wang Lei's surfing coach appears very nervous, this affects Wang Lei's mood and makes him feel scared.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f5236a517a514aa3bce93559901ad55a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那次同事的事吧。她开口的时候，我其实看出来那个要求不太合理，可话到嘴边就咽回去了……不，那次我是拒绝了。奇怪，拒绝了反而更难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次，我脑子里马上想到那个同事。其实当时我明明看出来了，她那个要求不太合理，可我还是没说什么。现在想想，那种压下去的感觉好熟悉。）\n（我有点犹豫要不要讲，但既然都聊到这儿了，说出来也许能弄清楚。可我又怕她听出来，我其实还是那个不敢开口的人。）",
+        "reasoning": "（她问的是最近一次，我脑子里马上想到那个同事。其实当时我明明看出来了，她那个要求不太合理，可我还是没说什么。现在想想，那种压下去的感觉好熟悉。）\n（我有点犹豫要不要讲，但既然都聊到这儿了，说出来也许能弄清楚。可我又怕她听出来，我其实还是那个不敢开口的人。）"
+      }
+    }
+  ],
+  "created": 1794535044,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2225,
+    "total_tokens": 2343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

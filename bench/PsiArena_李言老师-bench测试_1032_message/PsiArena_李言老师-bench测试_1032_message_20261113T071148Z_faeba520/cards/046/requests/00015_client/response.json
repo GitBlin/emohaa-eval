@@ -1,0 +1,41 @@
+{
+  "id": "070cf354dec74a2892c61bd060f87bb2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像有过……有一次周末没加班，周一反而效率高些。但当时我没敢多想，怕一承认，就给自己找到偷懒的理由了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我有没有放松后反而做得更好的经历，这让我有点意外。我平时很少这样想问题，总是觉得放松就是偷懒。不过她这么一问，我好像真的想起了一些片段。）\n（那些时候确实没在硬撑，反而状态更自然。但我不敢确定这算不算“更好”，毕竟结果也没特别突出。也许我只是在找借口让自己好受点？可这个念头又让我有点不安。）",
+        "reasoning": "（咨询师在问我有没有放松后反而做得更好的经历，这让我有点意外。我平时很少这样想问题，总是觉得放松就是偷懒。不过她这么一问，我好像真的想起了一些片段。）\n（那些时候确实没在硬撑，反而状态更自然。但我不敢确定这算不算“更好”，毕竟结果也没特别突出。也许我只是在找借口让自己好受点？可这个念头又让我有点不安。）"
+      }
+    }
+  ],
+  "created": 1794555821,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2199,
+    "total_tokens": 2324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

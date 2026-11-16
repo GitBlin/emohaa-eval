@@ -1,0 +1,41 @@
+{
+  "id": "8cf330df02614725a55ecb1fbf90fb00",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他说“你要是老这样，工作谁干”。当时我没吭声，心里挺不是滋味的。现在想想，我是不是真的该请个假去看看？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是领导具体说了什么，这让我又想起那些话。虽然有点难开口，但既然都聊到这儿了，说出来也许能让他明白我为什么这么怕请假。）\n（领导那句话确实让我觉得请假就是添乱，可我也知道身体不能一直硬撑。或许该问问咨询师，像我这种情况到底该怎么开口请假才合适。）",
+        "reasoning": "（咨询师问的是领导具体说了什么，这让我又想起那些话。虽然有点难开口，但既然都聊到这儿了，说出来也许能让他明白我为什么这么怕请假。）\n（领导那句话确实让我觉得请假就是添乱，可我也知道身体不能一直硬撑。或许该问问咨询师，像我这种情况到底该怎么开口请假才合适。）"
+      }
+    }
+  ],
+  "created": 1794544284,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2349,
+    "total_tokens": 2460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

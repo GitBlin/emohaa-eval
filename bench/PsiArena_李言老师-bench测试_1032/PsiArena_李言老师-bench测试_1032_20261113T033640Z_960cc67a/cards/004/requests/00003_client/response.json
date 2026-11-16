@@ -1,0 +1,41 @@
+{
+  "id": "1cf73549dbfd40388725dd779935a025",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是早上出门前，还有……在学校的时候吧。特别是课间，我不太想待在教室里。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺有耐心的，没有逼我马上说清楚。他问我什么时候最难受……其实我脑子里马上就想到操场了，但说出来会不会显得我很没用？不过既然他问了，我稍微说一点应该没关系吧。）\n（操场上的事我真的不想多提，但不说的话又好像什么都聊不下去。就简单说早上和课间吧，反正他也不会知道具体发生了什么。这样回答应该可以了，不用说得太细。）",
+        "reasoning": "（这个咨询师好像挺有耐心的，没有逼我马上说清楚。他问我什么时候最难受……其实我脑子里马上就想到操场了，但说出来会不会显得我很没用？不过既然他问了，我稍微说一点应该没关系吧。）\n（操场上的事我真的不想多提，但不说的话又好像什么都聊不下去。就简单说早上和课间吧，反正他也不会知道具体发生了什么。这样回答应该可以了，不用说得太细。）"
+      }
+    }
+  ],
+  "created": 1794541088,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1080,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

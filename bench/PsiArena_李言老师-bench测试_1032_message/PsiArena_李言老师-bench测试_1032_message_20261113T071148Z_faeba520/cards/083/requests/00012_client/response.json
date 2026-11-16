@@ -1,0 +1,41 @@
+{
+  "id": "bd78048da2d74c0aa24b127737bd4776",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "想，其实是想去的，拖这么久自己也累。可一想到那些流程，就……唉，我也说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我心里到底想不想去查，这问题让我有点难受。我明明知道自己该去，可就是迈不开腿。这种矛盾一直堵在我胸口，说不清是怕还是烦。）\n（也许我该承认，我确实想过要去，甚至偷偷查过资料。但每次一想到真要去医院，那种被程序推着走的感觉就让我喘不过气。我可能不是不想，而是不敢。）",
+        "reasoning": "（她问我心里到底想不想去查，这问题让我有点难受。我明明知道自己该去，可就是迈不开腿。这种矛盾一直堵在我胸口，说不清是怕还是烦。）\n（也许我该承认，我确实想过要去，甚至偷偷查过资料。但每次一想到真要去医院，那种被程序推着走的感觉就让我喘不过气。我可能不是不想，而是不敢。）"
+      }
+    }
+  ],
+  "created": 1794557875,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1949,
+    "total_tokens": 2062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

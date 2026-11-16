@@ -1,0 +1,41 @@
+{
+  "id": "46a869c4540544d6ab193e71cbff8326",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有个同事说我“靠谱，交给我就放心”。当时挺开心的……但转头又想，那是因为我活儿干得好，不是因为喜欢我这个人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我被夸时对方具体说了什么，好像是想让我注意到自己身上被认可的部分。可我一想到那个场景，心里就有点别扭，因为那毕竟是在工作里。）\n（我其实不太愿意把工作上的肯定和交朋友混在一起，总觉得那是两码事。但既然她问了，我还是试着回忆一下吧，只是说出来的时候，连自己都觉得有点不确定。）",
+        "reasoning": "（咨询师在问我被夸时对方具体说了什么，好像是想让我注意到自己身上被认可的部分。可我一想到那个场景，心里就有点别扭，因为那毕竟是在工作里。）\n（我其实不太愿意把工作上的肯定和交朋友混在一起，总觉得那是两码事。但既然她问了，我还是试着回忆一下吧，只是说出来的时候，连自己都觉得有点不确定。）"
+      }
+    }
+  ],
+  "created": 1794553959,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2199,
+    "total_tokens": 2313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

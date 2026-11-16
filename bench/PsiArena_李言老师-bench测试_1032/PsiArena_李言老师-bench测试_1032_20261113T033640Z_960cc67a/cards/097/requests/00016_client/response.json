@@ -1,0 +1,41 @@
+{
+  "id": "0bbdc454c4834027824d164b3cce75ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大部分时候是怕吧……真正想做的，好像没几件。这么说出来，我自己都有点愣。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把问题引到了动机上。我其实很少停下来想自己到底想不想做，更多时候是怕做不好就先做了。这个区分让我有点愣住。）\n（我想了想，好像确实大部分时候是被怕推着走，真正想做的没几件。说出来之后反而有点轻松，像承认了一件一直没敢承认的事。）",
+        "reasoning": "（咨询师把问题引到了动机上。我其实很少停下来想自己到底想不想做，更多时候是怕做不好就先做了。这个区分让我有点愣住。）\n（我想了想，好像确实大部分时候是被怕推着走，真正想做的没几件。说出来之后反而有点轻松，像承认了一件一直没敢承认的事。）"
+      }
+    }
+  ],
+  "created": 1794550972,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2400,
+    "total_tokens": 2499,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:49:11.580837+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nCatherine, a young aspiring musician, had difficulty finding her voice and often mimicked the style of popular singers. However, she hates copying others and wants to be original. One day, during a live performance, she hit a high note perfectly, just like her favorite artist would, and the crowd clapped and cheered for her. Upon hearing the crowd's cheers, Catherine's eyes welled up with tears.\n\n## Question 1\nWhat emotion(s) would Catherine ultimately feel in this situation?\n\n## Choices for Question 1\nA) Disappointment\nB) Guilt\nC) Excitement\nD) Jealousy\nE) Gratitude\nF) Sadness\n\n## Question 2\nWhy would Catherine feel these emotions in this situation?\n\n## Choices for Question 2\nA) Her favorite artist did not come to her performance\nB) She performed well in front of a huge crowd\nC) She felt she didn't perform well\nD) She was praised for emulating another artist's style\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

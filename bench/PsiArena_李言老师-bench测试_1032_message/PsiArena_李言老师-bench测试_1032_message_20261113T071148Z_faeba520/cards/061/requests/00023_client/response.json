@@ -1,0 +1,41 @@
+{
+  "id": "9d20c41c081d40ad8aa1e78c7b544a69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "具体困扰……好像也没有特别严重的，就是心里一直不踏实。要不，我还是找时间去正规的地方评估一下？至少比自己在网上瞎猜强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说得挺实在的，量表不等于诊断。我确实被那个分数吓到了，但真要问我除了分数还有什么具体的困扰……好像也说不太出来。就是那种心里不踏实的感觉，总想找个确定的答案。）\n（不过她这么一问，我反而觉得去医院查一下可能更安心。至少不用自己瞎猜。而且她说得对，光靠网上的东西确实不靠谱。）",
+        "reasoning": "（这个咨询师说得挺实在的，量表不等于诊断。我确实被那个分数吓到了，但真要问我除了分数还有什么具体的困扰……好像也说不太出来。就是那种心里不踏实的感觉，总想找个确定的答案。）\n（不过她这么一问，我反而觉得去医院查一下可能更安心。至少不用自己瞎猜。而且她说得对，光靠网上的东西确实不靠谱。）"
+      }
+    }
+  ],
+  "created": 1794556776,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3082,
+    "total_tokens": 3200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

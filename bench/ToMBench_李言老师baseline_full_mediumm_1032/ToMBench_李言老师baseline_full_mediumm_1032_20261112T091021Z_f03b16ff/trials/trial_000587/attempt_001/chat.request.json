@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:16:50.327308+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nEmily finds a book she really wants to read in the library, but discovers the book is already borrowed by someone else. Emily sees a book with a similar cover next to it, thinks it is the same book, and takes it away. When she gets home, Emily realizes it is a different book, but she is too lazy to return it. At the same time, Kate is busy working in the library. She knows this book belongs to a blind person who is waiting for this book. Kate gets tricked by a blind person she doesn't know not long ago, she notices Emily takes the wrong book, but she chooses not to tell Emily.\n\n[Question]\nKate knows Emily takes the wrong book, but she chooses not to tell Emily, what kind of emotion does she feel?\n\n[Candidate Answers]\nA. Kate possibly does not care about this situation, thinks it is not her responsibility.\nB. Kate has a disgust for the blind, even if she knows Emily takes the wrong book, she chooses not to tell her.\nC. Kate possibly feels guilty and conflicted, because she knows she should tell Emily, but she chooses not to.\nD. Kate possibly thinks that by not intervening, she introspects and punishes herself for her past experiences in some way.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

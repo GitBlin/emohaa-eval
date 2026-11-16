@@ -1,0 +1,41 @@
+{
+  "id": "af5f8a0f983e4be3a02fc766d4110993",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早饭……经常赶时间就随便吃点，有时候干脆不吃。是不是得改改？我想先从这个开始试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我早饭吃什么，这应该是想帮我把行动具体化。之前我总说\"注意点\"，但没落到实际。现在提到吃的，我确实想到有时候赶时间就随便对付，可能真对肠胃不好。）\n（不过说实话，让我一下子改三餐有点压力，先从一个小的开始吧。早饭规律一点，这个我能做到，也不算太麻烦。）",
+        "reasoning": "（咨询师在问我早饭吃什么，这应该是想帮我把行动具体化。之前我总说\"注意点\"，但没落到实际。现在提到吃的，我确实想到有时候赶时间就随便对付，可能真对肠胃不好。）\n（不过说实话，让我一下子改三餐有点压力，先从一个小的开始吧。早饭规律一点，这个我能做到，也不算太麻烦。）"
+      }
+    }
+  ],
+  "created": 1794545613,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2828,
+    "total_tokens": 2933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

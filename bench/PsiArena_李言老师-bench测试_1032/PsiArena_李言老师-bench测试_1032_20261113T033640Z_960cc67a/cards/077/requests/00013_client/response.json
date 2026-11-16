@@ -1,0 +1,41 @@
+{
+  "id": "f4926e889b6e4883a2ded067c4bc98a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕我爸妈吧……他们一直觉得我该扛得住。还有同事，我怕他们觉得我拖后腿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最怕谁的眼神变……这个问题一下子戳到我了。爸妈从小就要求我坚强、有出息，要是他们知道我连班都上不了，还想过死，那眼神里肯定全是失望。可同事那边也不轻松，平时一起忙惯了，突然变成需要被照顾的人，那种感觉太别扭了。我是不是想太多了，怎么谁的眼神都怕。）\n（其实说到底，我好像一直在为别人的眼光活着。爸妈的期待、同事的看法，压得我喘不过气来。说出来这些，心里有点发酸，但又觉得说出来也没用，他们不会懂的。）",
+        "reasoning": "（她问我最怕谁的眼神变……这个问题一下子戳到我了。爸妈从小就要求我坚强、有出息，要是他们知道我连班都上不了，还想过死，那眼神里肯定全是失望。可同事那边也不轻松，平时一起忙惯了，突然变成需要被照顾的人，那种感觉太别扭了。我是不是想太多了，怎么谁的眼神都怕。）\n（其实说到底，我好像一直在为别人的眼光活着。爸妈的期待、同事的看法，压得我喘不过气来。说出来这些，心里有点发酸，但又觉得说出来也没用，他们不会懂的。）"
+      }
+    }
+  ],
+  "created": 1794545188,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2047,
+    "total_tokens": 2197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

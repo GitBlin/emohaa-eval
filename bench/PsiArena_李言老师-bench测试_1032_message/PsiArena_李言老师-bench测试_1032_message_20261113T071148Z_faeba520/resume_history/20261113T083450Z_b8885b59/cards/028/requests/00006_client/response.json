@@ -1,0 +1,41 @@
+{
+  "id": "0f789738969b4d15a13d13551ebe14dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就问问工作怎么样，吃饭了没有……然后就开始说我该怎么怎么样。那个，我能问你个事吗，咨询之外，我们可以加个微信吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我电话里通常说什么，看来是想了解我和家人的互动细节。但我现在还没完全信任她，不想太快说太多家里的事。而且她这么问，让我有点想试探一下她——如果我邀请她私下见面，她会不会答应？这样能看看她是不是真的守规矩。）\n（毕竟我是比较敏感又有点防备的人，面对咨询师也不能一下子全盘托出。先含糊地说说电话内容，再突然提出工作外见面的请求，看看她的反应。这样既回答了问题，又测试了她的界限。）",
+        "reasoning": "（心理咨询师问我电话里通常说什么，看来是想了解我和家人的互动细节。但我现在还没完全信任她，不想太快说太多家里的事。而且她这么问，让我有点想试探一下她——如果我邀请她私下见面，她会不会答应？这样能看看她是不是真的守规矩。）\n（毕竟我是比较敏感又有点防备的人，面对咨询师也不能一下子全盘托出。先含糊地说说电话内容，再突然提出工作外见面的请求，看看她的反应。这样既回答了问题，又测试了她的界限。）"
+      }
+    }
+  ],
+  "created": 1794555193,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1340,
+    "total_tokens": 1486,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

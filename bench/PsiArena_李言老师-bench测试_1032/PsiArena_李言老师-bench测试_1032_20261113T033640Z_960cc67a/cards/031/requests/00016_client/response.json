@@ -1,0 +1,41 @@
+{
+  "id": "1534b3387da64ee5b81af6ebc7d71634",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）一般就……笑一下，然后赶紧低头。有时候事后会后悔，觉得自己又躲了。我想改，但不知道从哪儿改起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是想让我看看自己在面对她时到底会怎么做吧。我好像确实一直在躲，连笑的时候都不敢看。）\n（可我又不想一直这样下去，总得试着做点什么。哪怕只是先让自己别那么快低头，也算是个开始。）",
+        "reasoning": "（她这么问，是想让我看看自己在面对她时到底会怎么做吧。我好像确实一直在躲，连笑的时候都不敢看。）\n（可我又不想一直这样下去，总得试着做点什么。哪怕只是先让自己别那么快低头，也算是个开始。）"
+      }
+    }
+  ],
+  "created": 1794542584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2398,
+    "total_tokens": 2489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

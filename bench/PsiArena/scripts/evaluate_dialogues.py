@@ -18,6 +18,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from psiarena.config import get_settings
 from psiarena.evaluate import evaluate_dialogue
+from psiarena.scoring import parse_score_file
+from psiarena.runtime import run_log
 
 
 def parse_args():
@@ -32,6 +34,8 @@ def parse_args():
 
 def main():
     args = parse_args()
+    if args.start < 0 or args.end <= args.start or args.end > 100:
+        sys.exit("Invalid card range; require 0 <= start < end <= 100")
     in_dir = Path(args.input_dir)
     out_dir = Path(args.output_dir) if args.output_dir else in_dir
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -43,12 +47,16 @@ def main():
             print(f"[{card}] SKIP: no dialogue {dialogue_path}")
             continue
         out_path = out_dir / f"scores{card}.txt"
-        if args.resume and out_path.exists():
-            print(f"[{card}] skip (exists)")
+        if args.resume and out_path.exists() and parse_score_file(out_path) is not None:
+            print(f"[{card}] skip (valid scores)")
             continue
 
         dialogue_text = dialogue_path.read_text(encoding="utf-8")
-        scores = evaluate_dialogue(card, dialogue_text)
+        # Separate directory per scoring execution prevents overwriting raw calls.
+        import uuid
+        audit_dir = out_dir / 'judge_calls' / f'{card:03d}_{uuid.uuid4().hex[:8]}'
+        with run_log(audit_dir):
+            scores = evaluate_dialogue(card, dialogue_text, output_dir=audit_dir)
         out_path.write_text(scores, encoding="utf-8")
         print(f"[{card}] saved scores")
 

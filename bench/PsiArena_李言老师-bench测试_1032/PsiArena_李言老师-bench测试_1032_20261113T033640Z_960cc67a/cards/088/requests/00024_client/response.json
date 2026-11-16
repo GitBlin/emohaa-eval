@@ -1,0 +1,41 @@
+{
+  "id": "7b1b10bef1194fc08e3d6f6ea6fc39ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声）有时候就待着，看看窗外。……其实有点想再画画，但一想到作业还没写完，就坐不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我傍晚的时候会做些什么，还是单纯待着。他好像很在意我那个安静的时段，想让我多说一点。我也确实想试试，能不能把这些零碎的想法说出来。）\n（说到画傍晚，我心里有点复杂。其实我很久没认真画过了，但想到那个画面又觉得有点想试试。不过马上又想到作业，那种被拉回去的感觉又冒出来了。）",
+        "reasoning": "（咨询师在问我傍晚的时候会做些什么，还是单纯待着。他好像很在意我那个安静的时段，想让我多说一点。我也确实想试试，能不能把这些零碎的想法说出来。）\n（说到画傍晚，我心里有点复杂。其实我很久没认真画过了，但想到那个画面又觉得有点想试试。不过马上又想到作业，那种被拉回去的感觉又冒出来了。）"
+      }
+    }
+  ],
+  "created": 1794545868,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2979,
+    "total_tokens": 3093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

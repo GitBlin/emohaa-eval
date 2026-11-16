@@ -1,0 +1,41 @@
+{
+  "id": "b86c64ae4cf14794a7ef3fc8d3db017e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "找同学……我好像也没啥能一起走的同学。不过避开的话，我可以晚点出教室，或者去厕所那边待一会儿，这样行不行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有想过避开或者找同学一起走……我心里其实想过躲，但找同学一起走这事，我有点不敢开口。班里那些人都不怎么理我，我主动凑过去，人家会不会嫌我烦？不过她这么问，好像是在帮我找办法，不是逼我。）\n（那会儿操场那边，我确实可以晚点出去，或者去厕所待一下。先躲一躲，总比被围着强吧。可老躲着也不是办法……不过现在，能想到一点是一点。）",
+        "reasoning": "（她问我有没有想过避开或者找同学一起走……我心里其实想过躲，但找同学一起走这事，我有点不敢开口。班里那些人都不怎么理我，我主动凑过去，人家会不会嫌我烦？不过她这么问，好像是在帮我找办法，不是逼我。）\n（那会儿操场那边，我确实可以晚点出去，或者去厕所待一下。先躲一躲，总比被围着强吧。可老躲着也不是办法……不过现在，能想到一点是一点。）"
+      }
+    }
+  ],
+  "created": 1794552349,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2592,
+    "total_tokens": 2736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

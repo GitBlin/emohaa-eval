@@ -1,0 +1,41 @@
+{
+  "id": "67a17d19d2cf4a07b37e1e4774dcbab3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就说“让我缓一缓”吧，或者先停几秒，深呼吸一下。今天聊下来，我觉得心里没那么堵了，好像知道下次可以怎么做了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问的是，如果话到嘴边还是想分析，说什么能让自己先缓一口气。我想了想，也许可以跟妈妈直接说“让我缓一缓”，或者干脆停几秒不说话，先深呼吸一下。这样至少不会一冲动又把所有事都扛到自己身上。）\n（今天聊下来，我好像第一次觉得心里没那么堵了。以前总觉得这些事只能自己憋着，现在知道可以有个地方说出来，还能试着换种方式面对妈妈，心里稍微踏实了一点。）",
+        "reasoning": "（她刚才问的是，如果话到嘴边还是想分析，说什么能让自己先缓一口气。我想了想，也许可以跟妈妈直接说“让我缓一缓”，或者干脆停几秒不说话，先深呼吸一下。这样至少不会一冲动又把所有事都扛到自己身上。）\n（今天聊下来，我好像第一次觉得心里没那么堵了。以前总觉得这些事只能自己憋着，现在知道可以有个地方说出来，还能试着换种方式面对妈妈，心里稍微踏实了一点。）"
+      }
+    }
+  ],
+  "created": 1794535546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3682,
+    "total_tokens": 3824,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0a033e9d4bfd4014beee09dfa564ae4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就听点说书或者老歌吧，声音不大不小那种，别太吵。唉，也不知道管不管用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想听点什么，我脑子里就冒出以前在家干活时收音机里那些声音。说书的声音不急不慢的，听着听着心思就跟着走了，不用想别的事。）\n（不过我也拿不准，现在这个状况，听这些还能不能像以前那样管用。心里乱的时候，好像什么都抓不住。但先试试吧，反正也没别的办法。）",
+        "reasoning": "（她问我想听点什么，我脑子里就冒出以前在家干活时收音机里那些声音。说书的声音不急不慢的，听着听着心思就跟着走了，不用想别的事。）\n（不过我也拿不准，现在这个状况，听这些还能不能像以前那样管用。心里乱的时候，好像什么都抓不住。但先试试吧，反正也没别的办法。）"
+      }
+    }
+  ],
+  "created": 1794559101,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2774,
+    "total_tokens": 2882,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:46:25.625568+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nBella, a traveler, looked up on the internet for a fun and interesting restaurant in the town. It said there is a restaurant famous for its rude customer service, and many people queue to eat there. So Bella decides to go to this restaurant for dinner. Once she sat down, she was greeted by the waitress, who included profanities.\n\n## Question 1\nWhat emotion(s) would Bella ultimately feel in this situation?\n\n## Choices for Question 1\nA) Sadness\nB) Anger\nC) Disapproval\nD) Admiration\nE) Embarrassment\nF) Amusement\n\n## Question 2\nWhy would Bella feel these emotions in this situation?\n\n## Choices for Question 2\nA) She was expecting better service at the restaurant\nB) She found the concept of rude customer service to be funny and unique\nC) She was expecting a more traditional dining experience\nD) She was offended by the waitress's profanities\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

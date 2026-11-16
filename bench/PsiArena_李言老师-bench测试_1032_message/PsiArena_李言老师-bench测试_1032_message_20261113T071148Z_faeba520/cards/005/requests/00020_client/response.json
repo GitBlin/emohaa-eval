@@ -1,0 +1,41 @@
+{
+  "id": "5921fd87446140eaa80ec3ac9fe2553a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要不……我在手机背面贴个小纸条？写上“别急”。虽然有点傻，但一拿起来就能看见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在帮我把那句“没事，别急”落到具体做法上，我其实有点怕自己做不到。但贴在手机背面这个主意好像挺实在的，不用太刻意，一拿起来就能看见。我想试试看，至少先给自己一个能记得住的提醒。）\n（不过我也担心，光靠一句话真的能让我停下来吗。也许可以再设个闹钟，或者把手机放远一点。但先别想太复杂，能试一个是一个。）",
+        "reasoning": "（她在帮我把那句“没事，别急”落到具体做法上，我其实有点怕自己做不到。但贴在手机背面这个主意好像挺实在的，不用太刻意，一拿起来就能看见。我想试试看，至少先给自己一个能记得住的提醒。）\n（不过我也担心，光靠一句话真的能让我停下来吗。也许可以再设个闹钟，或者把手机放远一点。但先别想太复杂，能试一个是一个。）"
+      }
+    }
+  ],
+  "created": 1794554147,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2661,
+    "total_tokens": 2786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:10.267821+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n阿蕾与她的中国的导师李开了一个会议。在这次会议上，她直接指出了李报告中的缺陷，并告诉她的错误。\n\n## 问题 1\n在这种情况下，李最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 没意识的\nB) 感激\nC) 尴尬\nD) 反对\nE) 自豪\nF) 紧张\n\n## 问题 2\n李为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 直接指出缺陷在中国文化中并不常见\nB) 亚历山德拉不赞成她的演讲\nC) 李认为她的演讲无懈可击\nD) 李并不关心她需要改进的地方\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

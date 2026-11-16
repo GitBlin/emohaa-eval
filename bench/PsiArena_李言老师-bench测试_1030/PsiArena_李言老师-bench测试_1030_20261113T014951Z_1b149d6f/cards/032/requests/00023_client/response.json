@@ -1,0 +1,41 @@
+{
+  "id": "5e69e8c049504101965ccea9ae4ddba6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想什么都不硬想，就看看路边的东西。实在忍不住，就告诉自己：这十分钟不归他管。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我走那十分钟想点什么，还是什么都不想。我其实没想过这个，但要是真走起来，脑子里肯定还是乱糟糟的。不过，也许可以试试不硬想，看看周围的东西，把注意力从等消息那件事上挪开。）\n（这样定下来，好像比空想一个计划更让我安心。至少知道那十分钟里不是继续跟自己较劲，而是让脑子松一松。她这么一问，我反而觉得这事能真做。）",
+        "reasoning": "（她问我走那十分钟想点什么，还是什么都不想。我其实没想过这个，但要是真走起来，脑子里肯定还是乱糟糟的。不过，也许可以试试不硬想，看看周围的东西，把注意力从等消息那件事上挪开。）\n（这样定下来，好像比空想一个计划更让我安心。至少知道那十分钟里不是继续跟自己较劲，而是让脑子松一松。她这么一问，我反而觉得这事能真做。）"
+      }
+    }
+  ],
+  "created": 1794536242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3319,
+    "total_tokens": 3446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

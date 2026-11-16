@@ -1,0 +1,41 @@
+{
+  "id": "3dea56e35bd04545ac7dbcf339b5c85f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）妈，我最近……心里有点事。（说完有点不好意思）就这一句，好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我现在就试一句，这让我有点紧张。但他说会当听众，好像在这里说错也没关系。我是不是可以先不急着说那些最重的话，先练一个开头就好？）\n（我想到我妈，想到她盛汤的样子，心里又酸又怕。如果我只说“最近心里有点事”，她会不会追问？可要是不说，我可能永远都开不了口。那就先练这一句吧，声音轻一点，别让自己先垮掉。）",
+        "reasoning": "（咨询师让我现在就试一句，这让我有点紧张。但他说会当听众，好像在这里说错也没关系。我是不是可以先不急着说那些最重的话，先练一个开头就好？）\n（我想到我妈，想到她盛汤的样子，心里又酸又怕。如果我只说“最近心里有点事”，她会不会追问？可要是不说，我可能永远都开不了口。那就先练这一句吧，声音轻一点，别让自己先垮掉。）"
+      }
+    }
+  ],
+  "created": 1794552813,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3128,
+    "total_tokens": 3260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

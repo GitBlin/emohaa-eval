@@ -1,0 +1,41 @@
+{
+  "id": "9e46a7eb81774d83a7582b47781b380b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是。我对自己比对谁都狠。别人夸我，我也觉得那是客气。你说我这样，是不是有点问题？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在是不是也常常对自己这样，考好了是应该的，做不好就叹气。她好像看穿了我对自己的苛刻。确实，我对自己比爸妈还严格，买书不看都会骂自己没用。这让我想到，好像我做什么都很难觉得满意。）\n（这种感觉挺难受的，说出来有点丢人。但既然她能理解，也许我可以承认这一点。不过，承认了之后呢？我有点怕继续往下想。）",
+        "reasoning": "（咨询师问我现在是不是也常常对自己这样，考好了是应该的，做不好就叹气。她好像看穿了我对自己的苛刻。确实，我对自己比爸妈还严格，买书不看都会骂自己没用。这让我想到，好像我做什么都很难觉得满意。）\n（这种感觉挺难受的，说出来有点丢人。但既然她能理解，也许我可以承认这一点。不过，承认了之后呢？我有点怕继续往下想。）"
+      }
+    }
+  ],
+  "created": 1794557739,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1666,
+    "total_tokens": 1789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e3434f39e14f401ab38a047a57e409ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）就是……我怕我说了家里的事，或者学校的事，会不会传到村里去……我不太想让人知道。其实我也说不太清楚，就是心里老是难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才解释了保密的事情，还问我担心什么被知道……他好像挺认真的，没有随便敷衍我。但我还是不太敢直接说学校里的事，万一传出去就完了。先随便说点别的试试吧，看看他会不会一直问下去。）\n（其实我有点想说又不敢说，心里乱糟糟的。说“难受”应该没事吧？反正也没具体说是什么事。这样他应该不会追问太多，我也能稍微松口气。）",
+        "reasoning": "（咨询师刚才解释了保密的事情，还问我担心什么被知道……他好像挺认真的，没有随便敷衍我。但我还是不太敢直接说学校里的事，万一传出去就完了。先随便说点别的试试吧，看看他会不会一直问下去。）\n（其实我有点想说又不敢说，心里乱糟糟的。说“难受”应该没事吧？反正也没具体说是什么事。这样他应该不会追问太多，我也能稍微松口气。）"
+      }
+    }
+  ],
+  "created": 1794534793,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 993,
+    "total_tokens": 1131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

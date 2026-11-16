@@ -1,0 +1,46 @@
+{
+  "trial_id": "trial_012022",
+  "sample_id": "Unexpected Outcome Test:110",
+  "task_file": "Unexpected Outcome Test",
+  "ability": "Belief: Sequence false beliefs",
+  "language": "en",
+  "repeat": 1,
+  "answer": "A",
+  "map": {
+    "A": "A",
+    "B": "B",
+    "C": "D",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "C",
+  "prediction_original": "D",
+  "reply": "[[C]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T03:38:57.798327+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "16abf6150c1745beafde8e7424c5e605"
+  ],
+  "started_at": "2026-11-11T03:38:57.798327+00:00",
+  "finished_at": "2026-11-11T03:38:59.781004+00:00",
+  "elapsed_seconds": 1.982803177088499,
+  "user_id": "liyan_8f43456e9828a329bc1015ea940a3089c03cbb8b"
+}

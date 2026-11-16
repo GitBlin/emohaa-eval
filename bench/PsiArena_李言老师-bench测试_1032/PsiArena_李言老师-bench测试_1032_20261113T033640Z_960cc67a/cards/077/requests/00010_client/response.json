@@ -1,0 +1,41 @@
+{
+  "id": "08de5cc2e9aa4012af69e72e7c57da5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最怕听到“你怎么这么娇气”或者“这点事都扛不住”。我爸妈从小就说，做人要有责任心，不能给别人添麻烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我怕听到什么评价……这让我想起父母从小到大的话，好像无论我做什么都不够好。这种怕，其实是怕自己真的像他们说的那样，没有价值。）\n（可这种话从别人嘴里说出来，和我自己心里一直重复的，好像也分不清了。我是不是一直活在这种评价里？）",
+        "reasoning": "（她问到我怕听到什么评价……这让我想起父母从小到大的话，好像无论我做什么都不够好。这种怕，其实是怕自己真的像他们说的那样，没有价值。）\n（可这种话从别人嘴里说出来，和我自己心里一直重复的，好像也分不清了。我是不是一直活在这种评价里？）"
+      }
+    }
+  ],
+  "created": 1794545173,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1713,
+    "total_tokens": 1818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

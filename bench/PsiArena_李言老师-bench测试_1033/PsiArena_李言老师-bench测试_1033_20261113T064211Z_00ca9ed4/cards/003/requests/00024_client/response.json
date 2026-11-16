@@ -1,0 +1,41 @@
+{
+  "id": "5ff519be214242218551a7eb68bb4421",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真想）好像……还真不太有。我脑子里冒出来的都是被说的画面。是不是我记的都是这些？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她是在帮我找反例，想让我看到不是每次没做好都会被否定。可我心里第一个冒出来的，还是爸妈那种失望的眼神，好像真没什么例外。）\n（不过她这么一问，我倒是有点想试试看，也许真有被漏掉的时候。但一下子又想不起来，只能先老实说没有。）",
+        "reasoning": "（她是在帮我找反例，想让我看到不是每次没做好都会被否定。可我心里第一个冒出来的，还是爸妈那种失望的眼神，好像真没什么例外。）\n（不过她这么一问，我倒是有点想试试看，也许真有被漏掉的时候。但一下子又想不起来，只能先老实说没有。）"
+      }
+    }
+  ],
+  "created": 1794552228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3211,
+    "total_tokens": 3304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

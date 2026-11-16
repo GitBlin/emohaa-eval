@@ -1,0 +1,41 @@
+{
+  "id": "b69097ecf35e449f9d6fc863a9c258a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "后来好多了，她还挺得意地说“看吧，我会”。我当时要是能多夸她两句就好了，而不是光想着赶紧包完。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我女儿包得顺不顺利，让我想起那天女儿认真撒面粉的样子。其实她做得挺好的，我还夸了她。这让我觉得，也许我可以试着把这种轻松的感觉带到学习上。）\n（我想到自己总是急着纠正错误，反而让女儿紧张。如果我能先肯定她做对的地方，也许她就不会那么抵触了。这个念头让我有点希望，但又担心自己做不到。）",
+        "reasoning": "（她问我女儿包得顺不顺利，让我想起那天女儿认真撒面粉的样子。其实她做得挺好的，我还夸了她。这让我觉得，也许我可以试着把这种轻松的感觉带到学习上。）\n（我想到自己总是急着纠正错误，反而让女儿紧张。如果我能先肯定她做对的地方，也许她就不会那么抵触了。这个念头让我有点希望，但又担心自己做不到。）"
+      }
+    }
+  ],
+  "created": 1794549414,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2721,
+    "total_tokens": 2837,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

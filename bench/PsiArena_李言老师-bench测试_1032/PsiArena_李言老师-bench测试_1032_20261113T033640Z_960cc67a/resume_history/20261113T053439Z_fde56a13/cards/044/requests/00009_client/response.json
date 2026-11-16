@@ -1,0 +1,41 @@
+{
+  "id": "ef8704a1b0b14d969f3f215d3bfd6bfb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句啊……可能是“你说吧，我在听”这种吧。（苦笑）不过说实话，我连说都不敢说，哪还谈得上他们怎么回应。在家里，说点什么都要先想半天，怕说错了又吵起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望爸妈第一句怎么回应……其实我从来没认真想过这个问题。每次开口前就已经预感到会被否定，所以连期待的力气都没有了。但要是真的能选，大概就是先别急着说教吧。）\n（可就算他们说了又能怎样呢？我太了解他们了，那种“我们理解你”的话从他们嘴里说出来，只会让我觉得更假。算了，想这些也没用。）",
+        "reasoning": "（她问我希望爸妈第一句怎么回应……其实我从来没认真想过这个问题。每次开口前就已经预感到会被否定，所以连期待的力气都没有了。但要是真的能选，大概就是先别急着说教吧。）\n（可就算他们说了又能怎样呢？我太了解他们了，那种“我们理解你”的话从他们嘴里说出来，只会让我觉得更假。算了，想这些也没用。）"
+      }
+    }
+  ],
+  "created": 1794543316,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1732,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

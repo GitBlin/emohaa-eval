@@ -1,0 +1,41 @@
+{
+  "id": "73b8c3f7fd664521ba7cffa5854dff22",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……喝口水，或者把手机放远一点吧。不然一直盯着，越想越多。我想试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我停下来那一小会儿想做什么。我其实没想好，空着也行，但好像空着又有点慌。也许可以试着做点小事，比如喝口水，或者把手机放远一点，这样就不会一直盯着等消息了。）\n（不过这些我都不太确定能不能做到，但至少可以试试看。我不想说得太满，万一做不到又觉得自己没用。）",
+        "reasoning": "（她问我停下来那一小会儿想做什么。我其实没想好，空着也行，但好像空着又有点慌。也许可以试着做点小事，比如喝口水，或者把手机放远一点，这样就不会一直盯着等消息了。）\n（不过这些我都不太确定能不能做到，但至少可以试试看。我不想说得太满，万一做不到又觉得自己没用。）"
+      }
+    }
+  ],
+  "created": 1794536818,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3249,
+    "total_tokens": 3356,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

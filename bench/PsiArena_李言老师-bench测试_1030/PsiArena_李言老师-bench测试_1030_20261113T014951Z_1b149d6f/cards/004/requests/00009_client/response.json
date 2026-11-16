@@ -1,0 +1,41 @@
+{
+  "id": "10a1a6e2e6584d259df23b3d70101d67",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿）我想让他们知道……我在学校被人围着，不是我不合群。可我又怕说了，他们只会说“忍忍就过去了”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想让爸妈知道哪件事……我心里其实憋了很多话，但一下子不知道从哪说起。她这么问，好像是真的在听我讲，不是随便问问。）\n（我想让他们知道我在学校被人围着，可又觉得说了也没用。他们那么远，还总说挣钱不容易，我要是说了，他们会不会觉得我只会添麻烦。）",
+        "reasoning": "（她问我最想让爸妈知道哪件事……我心里其实憋了很多话，但一下子不知道从哪说起。她这么问，好像是真的在听我讲，不是随便问问。）\n（我想让他们知道我在学校被人围着，可又觉得说了也没用。他们那么远，还总说挣钱不容易，我要是说了，他们会不会觉得我只会添麻烦。）"
+      }
+    }
+  ],
+  "created": 1794534825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1750,
+    "total_tokens": 1860,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

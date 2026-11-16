@@ -1,0 +1,41 @@
+{
+  "id": "e3206f2ae9234097a57d8f945c7c927c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧，我妈一不高兴，我就特别紧张，觉得得赶紧去做点什么让她好起来。好像从那时候起，我就一直在替家里兜着了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我什么时候第一次意识到自己在替全家扛。这个问题让我一下子想起很多小时候的事，心里有点堵。我好像一直都在做那个懂事的人，但真要说出个具体的时候，又有点模糊。）\n（不过有一点很清楚，就是我妈情绪不好的时候，我从来不敢添乱。我得去哄她，得让家里看起来没事。那时候我就知道，我得扛着。可这样扛着，真的挺累的。）",
+        "reasoning": "（她问的是我什么时候第一次意识到自己在替全家扛。这个问题让我一下子想起很多小时候的事，心里有点堵。我好像一直都在做那个懂事的人，但真要说出个具体的时候，又有点模糊。）\n（不过有一点很清楚，就是我妈情绪不好的时候，我从来不敢添乱。我得去哄她，得让家里看起来没事。那时候我就知道，我得扛着。可这样扛着，真的挺累的。）"
+      }
+    }
+  ],
+  "created": 1794535524,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3102,
+    "total_tokens": 3226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

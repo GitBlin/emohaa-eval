@@ -1,0 +1,41 @@
+{
+  "id": "10e83add9e034216836bf239607130e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“你还好吗”……这话我好像很久没对她说了。可我怕我一问，她反而觉得我假，或者干脆不理我。我们现在一说话就容易顶起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才提到让我下次先问女儿“你还好吗”，这让我心里有点触动。我确实很少这样问她，总是先看到错误。但马上又想到，女儿现在可能根本不愿意跟我说这些。）\n（作为教师和母亲，我习惯性地想要解决问题，可现在连开口都变得困难。我得让咨询师知道，我们母女之间的沟通已经出现了问题，不是简单一句话就能改变的。）",
+        "reasoning": "（咨询师刚才提到让我下次先问女儿“你还好吗”，这让我心里有点触动。我确实很少这样问她，总是先看到错误。但马上又想到，女儿现在可能根本不愿意跟我说这些。）\n（作为教师和母亲，我习惯性地想要解决问题，可现在连开口都变得困难。我得让咨询师知道，我们母女之间的沟通已经出现了问题，不是简单一句话就能改变的。）"
+      }
+    }
+  ],
+  "created": 1794549357,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2004,
+    "total_tokens": 2127,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

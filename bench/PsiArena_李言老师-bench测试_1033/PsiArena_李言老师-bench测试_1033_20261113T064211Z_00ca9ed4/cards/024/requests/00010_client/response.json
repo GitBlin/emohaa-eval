@@ -1,0 +1,41 @@
+{
+  "id": "9a92adbb5fe64459be653f611ba714e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸吧。他脾气急，一急就拍桌子。我妈从来不顶嘴，就在旁边不出声。我好像也学了她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起小时候家里谁声音大……这问题让我有点不舒服，但又好像确实戳到了什么。小时候爸妈吵架的画面一下子涌上来，我那时候就是躲着，不敢出声。现在想想，我好像一直在重复那个躲起来的自己。）\n（可婆婆不是我爸，我也不想一直当那个缩在角落的小孩。说出来之后，心里有点乱，也有点说不清的懊恼，好像突然看见了自己一直没变的地方。）",
+        "reasoning": "（她问起小时候家里谁声音大……这问题让我有点不舒服，但又好像确实戳到了什么。小时候爸妈吵架的画面一下子涌上来，我那时候就是躲着，不敢出声。现在想想，我好像一直在重复那个躲起来的自己。）\n（可婆婆不是我爸，我也不想一直当那个缩在角落的小孩。说出来之后，心里有点乱，也有点说不清的懊恼，好像突然看见了自己一直没变的地方。）"
+      }
+    }
+  ],
+  "created": 1794553152,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1820,
+    "total_tokens": 1942,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

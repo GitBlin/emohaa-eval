@@ -1,0 +1,41 @@
+{
+  "id": "e755c11a5b8f40ddbe5b5c73e10d5838",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）……有点像我爸。他不太会直接骂人，但那种“你怎么连这个都做不好”的眼神，我太熟了。这么一想，我好像一直在替他把这话说给自己听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这句话像谁的语气，一下子让我想到小时候的场景。我其实心里很清楚，那就是我爸常说的话，只是以前没往这个方向想过。）\n（承认这一点让我有点不舒服，好像把问题归到父母身上似的。但同时又有点释然，原来那个声音不是我自己天生的。我想试探一下，这样想是不是在推卸责任。）",
+        "reasoning": "（咨询师问我这句话像谁的语气，一下子让我想到小时候的场景。我其实心里很清楚，那就是我爸常说的话，只是以前没往这个方向想过。）\n（承认这一点让我有点不舒服，好像把问题归到父母身上似的。但同时又有点释然，原来那个声音不是我自己天生的。我想试探一下，这样想是不是在推卸责任。）"
+      }
+    }
+  ],
+  "created": 1794558478,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2443,
+    "total_tokens": 2564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

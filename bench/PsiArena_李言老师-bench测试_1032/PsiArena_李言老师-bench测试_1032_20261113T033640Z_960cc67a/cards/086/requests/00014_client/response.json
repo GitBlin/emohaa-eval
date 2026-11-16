@@ -1,0 +1,41 @@
+{
+  "id": "5840d1a8126947dbb26673e0797db62d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说……我已经很努力了，你们能不能别老盯着我吃没吃、胖没胖。可说真的，我这样想是不是很不懂事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想对父母说什么，这让我有点措手不及。我其实很少去想这个，因为觉得想了也没用。但既然她问了，我好像真的有点话想说。）\n（那些话在心里憋了很久，可一开口又觉得是不是自己太不懂事。他们确实是为我好，我这样想是不是太不知好歹了。可那种被盯着吃饭的感觉，真的很难受。）",
+        "reasoning": "（咨询师问我想对父母说什么，这让我有点措手不及。我其实很少去想这个，因为觉得想了也没用。但既然她问了，我好像真的有点话想说。）\n（那些话在心里憋了很久，可一开口又觉得是不是自己太不懂事。他们确实是为我好，我这样想是不是太不知好歹了。可那种被盯着吃饭的感觉，真的很难受。）"
+      }
+    }
+  ],
+  "created": 1794545654,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2256,
+    "total_tokens": 2374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

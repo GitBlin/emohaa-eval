@@ -1,0 +1,41 @@
+{
+  "id": "cbe0c2718ffc458099a38d07a477e3d5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机备注有点太刻意了……我可能会在心里默念一句吧，比如“先别急”。不过，要是到时候我还是答应了，是不是又白费了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找一个具体的提醒方式，这让我觉得这件事好像真的可以试试。手机备注有点太正式了，我怕被看到，默念的话更自然些。）\n（不过光有提醒还不够，我担心自己到时候还是会退缩。得想个更简单的办法，比如先拖一拖，给自己留点余地。）",
+        "reasoning": "（咨询师在帮我找一个具体的提醒方式，这让我觉得这件事好像真的可以试试。手机备注有点太正式了，我怕被看到，默念的话更自然些。）\n（不过光有提醒还不够，我担心自己到时候还是会退缩。得想个更简单的办法，比如先拖一拖，给自己留点余地。）"
+      }
+    }
+  ],
+  "created": 1794554345,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2545,
+    "total_tokens": 2650,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

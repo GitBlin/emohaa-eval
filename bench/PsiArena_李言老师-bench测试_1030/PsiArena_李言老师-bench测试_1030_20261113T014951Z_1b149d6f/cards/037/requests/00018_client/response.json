@@ -1,0 +1,41 @@
+{
+  "id": "a36c65aa765f4e6ebaab48d7d710f5b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是倒水吧。写代码还得先坐下来进入状态，慌的时候根本坐不住。倒水简单，站起来走两步就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪个更容易做到，看来是想让我自己找到最可行的办法。倒水这个动作简单直接，不需要脑子，慌的时候反而更容易。写代码虽然能转移注意力，但一开始要进入状态，慌起来可能连打开编辑器都嫌烦。）\n（嗯，那就选倒水吧。身体动起来，离开那个盯着手机的地方，感觉上更实际一点。这样定下来，心里好像踏实了些。）",
+        "reasoning": "（她问我哪个更容易做到，看来是想让我自己找到最可行的办法。倒水这个动作简单直接，不需要脑子，慌的时候反而更容易。写代码虽然能转移注意力，但一开始要进入状态，慌起来可能连打开编辑器都嫌烦。）\n（嗯，那就选倒水吧。身体动起来，离开那个盯着手机的地方，感觉上更实际一点。这样定下来，心里好像踏实了些。）"
+      }
+    }
+  ],
+  "created": 1794536438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2976,
+    "total_tokens": 3094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

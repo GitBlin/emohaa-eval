@@ -1,0 +1,41 @@
+{
+  "id": "62e561a02bf34a7cb5a52bfe32f92ceb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）写作业吧……写进去就不太想了。村口有时候有狗，我有点怕。其实我最怕一个人待着，屋里太静了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有否定我，反而把“去写作业、去村口走走”说成是安顿自己，不是躲。我有点意外，心里松了一下。原来我不用一直逼着自己硬扛，也可以做点别的事等结果。）\n（我想了想，写作业好像太安静了，一个人待着容易乱想。村口有狗，还有别的孩子，虽然不一定跟他们说话，但至少不是一个人。可能那种地方会让我觉得没那么空。）",
+        "reasoning": "（咨询师没有否定我，反而把“去写作业、去村口走走”说成是安顿自己，不是躲。我有点意外，心里松了一下。原来我不用一直逼着自己硬扛，也可以做点别的事等结果。）\n（我想了想，写作业好像太安静了，一个人待着容易乱想。村口有狗，还有别的孩子，虽然不一定跟他们说话，但至少不是一个人。可能那种地方会让我觉得没那么空。）"
+      }
+    }
+  ],
+  "created": 1794534876,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3035,
+    "total_tokens": 3173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

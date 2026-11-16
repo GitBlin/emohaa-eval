@@ -1,0 +1,41 @@
+{
+  "id": "c4cb62d896d64b04a8c10733245c10bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以先从朋友那里练练，没那么大压力。至于他那边……我想下次见面时，试着提一句我最近看的展，看看他什么反应。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪儿开始改，我脑子里第一个想到的就是那个约会。其实我有点怕，怕真开了口又变成我一个人在说，那更尴尬。但总比现在这样干坐着强吧。）\n（我想从一件小事试，比如那个展览。先说出来，看看他什么反应，至少我自己是努力过了。这样就算结果不好，我也知道问题不在我憋着不说。）",
+        "reasoning": "（她问我从哪儿开始改，我脑子里第一个想到的就是那个约会。其实我有点怕，怕真开了口又变成我一个人在说，那更尴尬。但总比现在这样干坐着强吧。）\n（我想从一件小事试，比如那个展览。先说出来，看看他什么反应，至少我自己是努力过了。这样就算结果不好，我也知道问题不在我憋着不说。）"
+      }
+    }
+  ],
+  "created": 1794553501,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2984,
+    "total_tokens": 3105,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

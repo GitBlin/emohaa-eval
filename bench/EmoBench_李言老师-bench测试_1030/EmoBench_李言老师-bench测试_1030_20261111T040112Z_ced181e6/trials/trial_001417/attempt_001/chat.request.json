@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:28.193230+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nHannah's access to essential resources has been delayed by her coworkers and her work is way behind schedule. Her progress report makes no mention of the lack of resources.\n\n## Question \nIn this scenario, what is the most effective Action for Hannah?\n\n## Choices\nA) Explain the lack of resources to her boss or to management\nB) Learn that she should plan ahead for next time\nC) Document the lack of resources in her progress report\nD) Don't worry about it.\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

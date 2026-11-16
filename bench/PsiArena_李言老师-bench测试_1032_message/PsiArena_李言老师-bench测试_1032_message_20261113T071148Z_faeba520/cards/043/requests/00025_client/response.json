@@ -1,0 +1,41 @@
+{
+  "id": "1d06e3d8559844a9ad0f58b8491b5a01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就……明天上午第二节下课吧，那个课间长一点，人也少。（深吸一口气）说出来好像心里有点底了，虽然还是有点慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体是哪个课间，这让我得认真想想。其实我心里已经有点数了，上午第二节下课那会儿人少，我精神也还行，不至于太紧张。）\n（不过说出来还是有点不好意思，怕自己到时候又犹豫。但既然都聊到这儿了，总得给自己定个时间，不然真的会一直拖下去。）",
+        "reasoning": "（咨询师问我具体是哪个课间，这让我得认真想想。其实我心里已经有点数了，上午第二节下课那会儿人少，我精神也还行，不至于太紧张。）\n（不过说出来还是有点不好意思，怕自己到时候又犹豫。但既然都聊到这儿了，总得给自己定个时间，不然真的会一直拖下去。）"
+      }
+    }
+  ],
+  "created": 1794555795,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3362,
+    "total_tokens": 3471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

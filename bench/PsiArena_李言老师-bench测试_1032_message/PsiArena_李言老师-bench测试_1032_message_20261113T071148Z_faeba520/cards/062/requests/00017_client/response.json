@@ -1,0 +1,41 @@
+{
+  "id": "a8c516f83b114aec9d4d1e508898a8a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "请假……单位那边肯定有看法，领导本来就觉得我状态不行。还有钱，一请假收入就少了，家里怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了请假这件事，我心里确实一直在纠结。单位那边要是知道我请假去看病，领导会怎么想？会不会觉得我这个人扛不住事？而且家里现在就靠我这份工资撑着，真要请假了，收入断了怎么办。这些念头翻来覆去地想，越想越觉得没法开口。）\n（可另一方面，我也明白自己现在的状态确实撑不了多久了。每天硬扛着去上班，回来又睡不着，这样下去身体肯定要垮。但真要迈出请假那一步，心里又怕得很，怕别人觉得我矫情，怕被贴上标签。）",
+        "reasoning": "（咨询师问到了请假这件事，我心里确实一直在纠结。单位那边要是知道我请假去看病，领导会怎么想？会不会觉得我这个人扛不住事？而且家里现在就靠我这份工资撑着，真要请假了，收入断了怎么办。这些念头翻来覆去地想，越想越觉得没法开口。）\n（可另一方面，我也明白自己现在的状态确实撑不了多久了。每天硬扛着去上班，回来又睡不着，这样下去身体肯定要垮。但真要迈出请假那一步，心里又怕得很，怕别人觉得我矫情，怕被贴上标签。）"
+      }
+    }
+  ],
+  "created": 1794556799,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2447,
+    "total_tokens": 2598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

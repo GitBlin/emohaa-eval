@@ -1,0 +1,41 @@
+{
+  "id": "e4dd6815df0e43a9b5908fb2dfc5ff0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能会吧。要不我先把那些书收起来一部分，留一两本真想看的放外面？不然一抬头就看见一排，压力太大。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“买了就得读完”这条规矩，让我一下子想到那些书确实像在催债。我确实一直觉得书买了不读就是浪费，可越这么想越不想碰。）\n（也许可以试着换个说法，把“该读”改成“想读”，但心里还是有点不踏实，怕自己又找借口偷懒。不过如果先挑一本薄的、轻松的，会不会没那么大压力？至少不用一开始就面对那些厚厚的自我成长书。）",
+        "reasoning": "（咨询师提到“买了就得读完”这条规矩，让我一下子想到那些书确实像在催债。我确实一直觉得书买了不读就是浪费，可越这么想越不想碰。）\n（也许可以试着换个说法，把“该读”改成“想读”，但心里还是有点不踏实，怕自己又找借口偷懒。不过如果先挑一本薄的、轻松的，会不会没那么大压力？至少不用一开始就面对那些厚厚的自我成长书。）"
+      }
+    }
+  ],
+  "created": 1794539099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2648,
+    "total_tokens": 2781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

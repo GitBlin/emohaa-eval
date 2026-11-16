@@ -1,0 +1,41 @@
+{
+  "id": "5cd50623cfb8479f9ad1336416b3356a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "舅舅走的时候我还小，记不太清了。外公那次我记得很清楚……我守在旁边，第一次觉得人真的说没就没。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起舅舅和外公走的时候我是不是在身边……这个问题一下子把我拉回那些画面里了。我不想说得太细，可又觉得她问得很准，好像知道我心里堵的是什么。）\n（舅舅走的时候我还小，很多事记不清了，只记得家里那种慌。外公那次我大一些，反而更难受，因为看得更明白。这些事我一直没怎么跟人提过，现在说出来，心里有点发紧。）",
+        "reasoning": "（她问起舅舅和外公走的时候我是不是在身边……这个问题一下子把我拉回那些画面里了。我不想说得太细，可又觉得她问得很准，好像知道我心里堵的是什么。）\n（舅舅走的时候我还小，很多事记不清了，只记得家里那种慌。外公那次我大一些，反而更难受，因为看得更明白。这些事我一直没怎么跟人提过，现在说出来，心里有点发紧。）"
+      }
+    }
+  ],
+  "created": 1794548859,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1675,
+    "total_tokens": 1798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

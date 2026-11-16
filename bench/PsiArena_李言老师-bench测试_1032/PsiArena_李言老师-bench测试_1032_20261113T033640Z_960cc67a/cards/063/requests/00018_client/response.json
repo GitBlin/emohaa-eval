@@ -1,0 +1,41 @@
+{
+  "id": "e1f875d12b664f4b8bc09b2b6d297bba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先从问户口材料这件事开始，自己先去问一次。要是这步能自己办成，我可能会有点底气跟她说，别什么都替我做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我先从哪件小事开口，让我妈试着放手。我心里其实早就想过户口的事，可一直没敢提。现在说出来，好像也没那么难，就是得先想好怎么跟我妈讲，别一开口又变成吵架。）\n（我妈总觉得她是在帮我，可我也想让她看看，我自己能行。先从问户口材料开始吧，这件事我自己能查能跑，要是办成了，她也许就能少操点心，我也能松口气。）",
+        "reasoning": "（她问我先从哪件小事开口，让我妈试着放手。我心里其实早就想过户口的事，可一直没敢提。现在说出来，好像也没那么难，就是得先想好怎么跟我妈讲，别一开口又变成吵架。）\n（我妈总觉得她是在帮我，可我也想让她看看，我自己能行。先从问户口材料开始吧，这件事我自己能查能跑，要是办成了，她也许就能少操点心，我也能松口气。）"
+      }
+    }
+  ],
+  "created": 1794544431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2672,
+    "total_tokens": 2805,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

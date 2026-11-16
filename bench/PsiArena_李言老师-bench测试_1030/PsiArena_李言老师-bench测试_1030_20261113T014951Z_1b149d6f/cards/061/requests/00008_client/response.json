@@ -1,0 +1,41 @@
+{
+  "id": "9020ddaf95574669ba318e017eb6ebee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "基本都是一个人。加班回家就挺晚了，室友早睡了。其实……我好像也没什么能说这些的人。家里更不行，我爸妈要是知道了，估计只会说“别想太多，好好工作”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问到半夜是不是一个人待着……这让我想起很多个加完班回家的晚上，屋里黑着，只有手机屏幕亮着。其实不只是半夜，白天我也很少跟人真正聊这些，同事之间就是工作，朋友也各有各的事。）\n（说到家里人，我有点犹豫。他们一直觉得我挺好的，工作稳定，没什么可担心的。我要是说自己心里堵，我妈大概会说别想太多，好好干活就行了。这种话听多了，反而更不想开口了。）",
+        "reasoning": "（他问到半夜是不是一个人待着……这让我想起很多个加完班回家的晚上，屋里黑着，只有手机屏幕亮着。其实不只是半夜，白天我也很少跟人真正聊这些，同事之间就是工作，朋友也各有各的事。）\n（说到家里人，我有点犹豫。他们一直觉得我挺好的，工作稳定，没什么可担心的。我要是说自己心里堵，我妈大概会说别想太多，好好干活就行了。这种话听多了，反而更不想开口了。）"
+      }
+    }
+  ],
+  "created": 1794537602,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1625,
+    "total_tokens": 1773,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

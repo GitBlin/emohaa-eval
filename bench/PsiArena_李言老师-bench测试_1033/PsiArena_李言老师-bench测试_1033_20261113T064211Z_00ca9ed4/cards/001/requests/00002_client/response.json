@@ -1,0 +1,41 @@
+{
+  "id": "d24fb9fd53f840f1ae5372961ab09651",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点……乱吧。其实我也不知道该从哪儿说起。对了，我想问一下，我在这儿说的话，你会不会告诉我爸妈？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说不用提前想好该说什么，还问我现在最先冒出来的感觉是什么。他好像挺温和的，但我还是不太习惯跟陌生人说这些。我有点紧张，不知道能不能信任他。不过既然来了，总得说点什么吧。也许可以先试探一下他会不会把我的话告诉别人，这样我才能稍微放心一点。嗯，就说心里有点乱，然后问问保密的事。）",
+        "reasoning": "（心理咨询师说不用提前想好该说什么，还问我现在最先冒出来的感觉是什么。他好像挺温和的，但我还是不太习惯跟陌生人说这些。我有点紧张，不知道能不能信任他。不过既然来了，总得说点什么吧。也许可以先试探一下他会不会把我的话告诉别人，这样我才能稍微放心一点。嗯，就说心里有点乱，然后问问保密的事。）"
+      }
+    }
+  ],
+  "created": 1794552141,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 996,
+    "total_tokens": 1109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

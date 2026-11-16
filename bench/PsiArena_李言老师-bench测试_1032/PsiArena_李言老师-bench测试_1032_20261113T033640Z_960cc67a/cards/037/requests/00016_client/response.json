@@ -1,0 +1,41 @@
+{
+  "id": "81f7e8f9d2bc4a60bbf8e4298122e768",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就上周吧，我们一起吃饭，她一直在看手机，我问一句她答一句，然后就安静了。我当时坐在那儿，心里特别慌，感觉像被隔在外面。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次让我觉得安静的场面。我想起上周在咖啡店，我努力找话说，她一直看手机，那种沉默让我心里发慌。可我现在好像能稍微分开一点看，那安静不一定是在宣判我什么。）\n（也许我可以试着把这种感觉说出来，不用急着下结论。这样聊下去，我好像能慢慢找到一点方向，不再只是被那种安静拖着走。）",
+        "reasoning": "（她问的是最近一次让我觉得安静的场面。我想起上周在咖啡店，我努力找话说，她一直看手机，那种沉默让我心里发慌。可我现在好像能稍微分开一点看，那安静不一定是在宣判我什么。）\n（也许我可以试着把这种感觉说出来，不用急着下结论。这样聊下去，我好像能慢慢找到一点方向，不再只是被那种安静拖着走。）"
+      }
+    }
+  ],
+  "created": 1794550293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2385,
+    "total_tokens": 2509,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

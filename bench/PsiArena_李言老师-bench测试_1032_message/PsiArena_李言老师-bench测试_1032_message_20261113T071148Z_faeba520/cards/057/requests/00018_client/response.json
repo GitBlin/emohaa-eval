@@ -1,0 +1,41 @@
+{
+  "id": "35aa31132bbf4da59e943a5926c26bfc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写本子吧，手机放远我估计做不到……会忍不住去拿。不过写两句应该还行，就是不知道有没有用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在帮我找具体能做的事了，感觉比一直说感受要实在一点。手机放远我可能做不到，会忍不住去拿，写本子好像没那么难，反正也没人看。不过我也怕写了会更烦，不知道要不要先试试看。）\n（今晚就试写本子吧，反正睡不着的时候也没别的事。但得给自己留个退路，万一没用也不至于又觉得自己不行。）",
+        "reasoning": "（这个咨询师在帮我找具体能做的事了，感觉比一直说感受要实在一点。手机放远我可能做不到，会忍不住去拿，写本子好像没那么难，反正也没人看。不过我也怕写了会更烦，不知道要不要先试试看。）\n（今晚就试写本子吧，反正睡不着的时候也没别的事。但得给自己留个退路，万一没用也不至于又觉得自己不行。）"
+      }
+    }
+  ],
+  "created": 1794556538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2589,
+    "total_tokens": 2709,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

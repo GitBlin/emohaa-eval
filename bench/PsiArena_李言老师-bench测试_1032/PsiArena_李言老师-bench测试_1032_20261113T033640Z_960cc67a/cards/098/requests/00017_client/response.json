@@ -1,0 +1,41 @@
+{
+  "id": "ddefef2789dc47c6b3159fd010e90836",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "唔……记不太清了。好像就同学在学校随便聊两句，回家就没人了。唉，这么说好像有点惨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起最近有人主动找我说话是什么时候，这让我有点意外。我本来以为她会继续问我在卫生间里做什么，或者批评我玩手机。她好像真的在关心我有没有被注意到。）\n（我想了想，好像真的没什么人主动来找我说话。爸妈回家就是问作业，同学也就学校里聊几句。这种感觉让我有点难过，但又不想表现得太在意。也许我可以说说看，看看她怎么回应。）",
+        "reasoning": "（咨询师问起最近有人主动找我说话是什么时候，这让我有点意外。我本来以为她会继续问我在卫生间里做什么，或者批评我玩手机。她好像真的在关心我有没有被注意到。）\n（我想了想，好像真的没什么人主动来找我说话。爸妈回家就是问作业，同学也就学校里聊几句。这种感觉让我有点难过，但又不想表现得太在意。也许我可以说说看，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794546386,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2434,
+    "total_tokens": 2554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

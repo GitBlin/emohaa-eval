@@ -1,0 +1,41 @@
+{
+  "id": "3e913b7fb3c347c9adae54901426e2e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要是脑子停不下来，工作的事、家里的事，翻来覆去地想。越想越觉得自己好像哪儿都没弄好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是躺下时脑子停不下来还是身体不舒服，这让我想起那些辗转反侧的夜晚。确实，身体倒没什么大问题，就是脑子像开了自动播放一样，各种事情轮番冒出来。）\n（工作上的代码、父母的唠叨、和朋友比较时的落差，这些念头搅在一起，越想越清醒。其实我也知道该停下来，但就是控制不住，好像只有反复想才能找到出路似的。）",
+        "reasoning": "（咨询师问的是躺下时脑子停不下来还是身体不舒服，这让我想起那些辗转反侧的夜晚。确实，身体倒没什么大问题，就是脑子像开了自动播放一样，各种事情轮番冒出来。）\n（工作上的代码、父母的唠叨、和朋友比较时的落差，这些念头搅在一起，越想越清醒。其实我也知道该停下来，但就是控制不住，好像只有反复想才能找到出路似的。）"
+      }
+    }
+  ],
+  "created": 1794543744,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2510,
+    "total_tokens": 2627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

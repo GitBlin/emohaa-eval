@@ -1,0 +1,41 @@
+{
+  "id": "83f3b7791858454398b1aa4504c98ec6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "够用了，就按这个来。嗯……我还想给自己定个时间，比如今晚就弄半小时，不管做成什么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清结构，这个三段式听起来确实清晰。不过我还是有点担心自己会忍不住加太多东西，或者中途又卡住。得先把“够用”定下来，不能让它变成另一个纠结的点。）\n（想到之前那种一拖再拖的感觉，我得给自己设个时间限制，不然今晚可能又耗在反复调整上。说个具体的时间点，也许能逼自己先做出来再说。）",
+        "reasoning": "（咨询师在帮我理清结构，这个三段式听起来确实清晰。不过我还是有点担心自己会忍不住加太多东西，或者中途又卡住。得先把“够用”定下来，不能让它变成另一个纠结的点。）\n（想到之前那种一拖再拖的感觉，我得给自己设个时间限制，不然今晚可能又耗在反复调整上。说个具体的时间点，也许能逼自己先做出来再说。）"
+      }
+    }
+  ],
+  "created": 1794543791,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2908,
+    "total_tokens": 3028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b5c4a95d6bab473ca54055b103fcec84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我自己说……好像有点别扭。不过那篇我写的时候，确实有几个地方自己挺满意的，感觉写得挺顺。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我自己评价写的东西，这让我有点不习惯。我平时习惯了从别人那里得到反馈，现在要自己说好不好，反而不知道怎么开口。不过刚才聊下来，好像确实没怎么想过自己怎么想。）\n（我回想那篇东西，写的时候其实挺投入的，有些地方自己都觉得顺。但马上又觉得说“还不错”是不是太自夸了。也许可以试着说一点，不用那么绝对。）",
+        "reasoning": "（咨询师让我自己评价写的东西，这让我有点不习惯。我平时习惯了从别人那里得到反馈，现在要自己说好不好，反而不知道怎么开口。不过刚才聊下来，好像确实没怎么想过自己怎么想。）\n（我回想那篇东西，写的时候其实挺投入的，有些地方自己都觉得顺。但马上又觉得说“还不错”是不是太自夸了。也许可以试着说一点，不用那么绝对。）"
+      }
+    }
+  ],
+  "created": 1794552348,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2382,
+    "total_tokens": 2503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

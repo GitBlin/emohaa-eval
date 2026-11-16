@@ -1,0 +1,41 @@
+{
+  "id": "5bc1eacd375b4c01a79e7b6e333fe2a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能就说“没关系，慢慢来”吧。虽然说出来有点别扭，但好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想深呼吸时对自己说句话……这问题有点突然，我一时不知道说什么好。平时对自己说的话都挺严厉的，现在要挑一句温和的，反而卡住了。也许“没关系”这种话，先试试看吧，虽然说出来有点别扭。）\n（我其实不太习惯对自己温柔，总觉得那样像在纵容自己。不过既然是在练习，说一句简单的话应该可以。先别想太多，就选个最不费劲的。）",
+        "reasoning": "（她让我想深呼吸时对自己说句话……这问题有点突然，我一时不知道说什么好。平时对自己说的话都挺严厉的，现在要挑一句温和的，反而卡住了。也许“没关系”这种话，先试试看吧，虽然说出来有点别扭。）\n（我其实不太习惯对自己温柔，总觉得那样像在纵容自己。不过既然是在练习，说一句简单的话应该可以。先别想太多，就选个最不费劲的。）"
+      }
+    }
+  ],
+  "created": 1794555993,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2853,
+    "total_tokens": 2979,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

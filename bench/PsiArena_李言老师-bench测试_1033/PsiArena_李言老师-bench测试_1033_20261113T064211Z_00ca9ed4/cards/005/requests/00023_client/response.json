@@ -1,0 +1,41 @@
+{
+  "id": "e698edfec053416087791ada900d1804",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这么一想……好像还真不多。爸妈总是急着给我建议，朋友聊着聊着就岔开了。倒是刚才跟你说话，我好像没那么紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我生活里有没有人这样听我说话……这让我一下子想到很多。其实我身边不是没人，但好像真的很少有那种不评价、不急着给建议的听。爸妈总想帮我解决问题，朋友聊着聊着就岔开了。）\n（不过刚才说“不急着评价”的时候，我脑子里第一个冒出来的居然是你。这有点奇怪，毕竟我们才聊了没多久。但我确实觉得，跟你说话的时候，不用太担心被评判。说出来反而有点不好意思。）",
+        "reasoning": "（她问我生活里有没有人这样听我说话……这让我一下子想到很多。其实我身边不是没人，但好像真的很少有那种不评价、不急着给建议的听。爸妈总想帮我解决问题，朋友聊着聊着就岔开了。）\n（不过刚才说“不急着评价”的时候，我脑子里第一个冒出来的居然是你。这有点奇怪，毕竟我们才聊了没多久。但我确实觉得，跟你说话的时候，不用太担心被评判。说出来反而有点不好意思。）"
+      }
+    }
+  ],
+  "created": 1794552384,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3288,
+    "total_tokens": 3425,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

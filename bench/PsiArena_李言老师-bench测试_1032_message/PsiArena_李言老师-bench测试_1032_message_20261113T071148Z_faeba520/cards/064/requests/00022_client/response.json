@@ -1,0 +1,41 @@
+{
+  "id": "43d7fe902ea14ba7a4ccaddc87f2dad8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "切菜吧，得看着刀，一分神就容易切到手。这么说来，好像还真能占住我一会脑子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我想具体的事情，好让我在等待回复的时候有个能专注的点。切菜确实需要看着刀和手，稍微分神就容易出问题。）\n（这个建议听起来挺实在的，不是那种空泛的“转移注意力”。我可以试试，至少那一刻脑子不会一直转。不过心里还是有点没底，不知道自己能不能真的做到。）",
+        "reasoning": "（咨询师在引导我想具体的事情，好让我在等待回复的时候有个能专注的点。切菜确实需要看着刀和手，稍微分神就容易出问题。）\n（这个建议听起来挺实在的，不是那种空泛的“转移注意力”。我可以试试，至少那一刻脑子不会一直转。不过心里还是有点没底，不知道自己能不能真的做到。）"
+      }
+    }
+  ],
+  "created": 1794556882,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2818,
+    "total_tokens": 2921,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

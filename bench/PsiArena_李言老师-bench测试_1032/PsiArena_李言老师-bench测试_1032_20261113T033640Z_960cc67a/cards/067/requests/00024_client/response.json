@@ -1,0 +1,41 @@
+{
+  "id": "c0fbaed297c040319ddd56fb54f92525",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是我妈生病的事吧……别的我都能应付。真问下去，我就说私事不方便讲，这样应该可以吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得真细啊……我最怕被碰到的，就是我妈生病这件事本身。这个念头一冒出来，心里就发紧。）\n（要是同事真问下去，我肯定不能提我妈的事。说家里有点私事要处理，应该能挡一挡吧。可我还是怕她多问，更怕自己说漏了。）",
+        "reasoning": "（她问得真细啊……我最怕被碰到的，就是我妈生病这件事本身。这个念头一冒出来，心里就发紧。）\n（要是同事真问下去，我肯定不能提我妈的事。说家里有点私事要处理，应该能挡一挡吧。可我还是怕她多问，更怕自己说漏了。）"
+      }
+    }
+  ],
+  "created": 1794544725,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3092,
+    "total_tokens": 3195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

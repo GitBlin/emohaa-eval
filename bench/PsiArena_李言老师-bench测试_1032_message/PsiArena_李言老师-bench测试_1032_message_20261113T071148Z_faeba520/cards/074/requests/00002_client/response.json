@@ -1,0 +1,41 @@
+{
+  "id": "24a4b908d9b946ebb7ba9dc313e92fa9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……就是感觉挺累的吧，说不上来哪里不对。每天回家都很晚，躺下了脑子还在转，但又好像什么都没做好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师看起来挺温和的，说节奏由我来定……但我还是有点不确定该怎么开始。直接说最近心情不好会不会太奇怪了？毕竟我们才刚认识。不过既然都来了，总得说点什么吧。）\n（其实我连自己到底怎么了都说不清楚，就是觉得特别累。每天加班到很晚，事情却越做越多，但又好像没什么具体的大事。这种模糊的感觉说出来会不会显得很矫情？还是先试探性地提一下好了。）",
+        "reasoning": "（咨询师看起来挺温和的，说节奏由我来定……但我还是有点不确定该怎么开始。直接说最近心情不好会不会太奇怪了？毕竟我们才刚认识。不过既然都来了，总得说点什么吧。）\n（其实我连自己到底怎么了都说不清楚，就是觉得特别累。每天加班到很晚，事情却越做越多，但又好像没什么具体的大事。这种模糊的感觉说出来会不会显得很矫情？还是先试探性地提一下好了。）"
+      }
+    }
+  ],
+  "created": 1794557302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 975,
+    "total_tokens": 1107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

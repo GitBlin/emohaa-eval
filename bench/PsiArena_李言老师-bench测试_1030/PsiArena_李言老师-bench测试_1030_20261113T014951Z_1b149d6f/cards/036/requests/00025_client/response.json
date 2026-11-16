@@ -1,0 +1,41 @@
+{
+  "id": "820613b9b5204e51979e2d367d18f1a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记在手机备忘录里吧，设个提醒，明天出门前看一眼。……今天聊完，我心里好像没那么乱了，谢谢你听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我记在哪儿、出门前会不会看。这个问题很具体，让我心里有点踏实，好像真的可以做到。记在手机备忘录里最方便，但翻出来看又怕自己笑自己太郑重。不过明天出门前看一眼，应该能让我记住那种“没有躲”的感觉，至少不是空想。）\n（说到今天聊的，我确实觉得没那么乱了。以前总觉得这些事压在心里说不出口，现在好像能一点点讲出来。想跟她说句谢谢，但也不想说得太满，就简单说一句吧。）",
+        "reasoning": "（她问我记在哪儿、出门前会不会看。这个问题很具体，让我心里有点踏实，好像真的可以做到。记在手机备忘录里最方便，但翻出来看又怕自己笑自己太郑重。不过明天出门前看一眼，应该能让我记住那种“没有躲”的感觉，至少不是空想。）\n（说到今天聊的，我确实觉得没那么乱了。以前总觉得这些事压在心里说不出口，现在好像能一点点讲出来。想跟她说句谢谢，但也不想说得太满，就简单说一句吧。）"
+      }
+    }
+  ],
+  "created": 1794536425,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 3660,
+    "total_tokens": 3807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

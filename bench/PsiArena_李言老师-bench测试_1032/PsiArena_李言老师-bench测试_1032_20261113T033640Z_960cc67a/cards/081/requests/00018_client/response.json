@@ -1,0 +1,41 @@
+{
+  "id": "bc6d663ca230480f8b011b5f488a7e4b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能不是书桌吧。沙发角落，或者床头，别太正式。（停顿）但太舒服又怕自己直接睡着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么样的环境能让我不像交作业……这个问题让我想到家里那些书桌和书架，都太正式了。也许换个地方会不一样？沙发角落或者床上？但又怕太舒服直接睡着。）\n（不过之前说的十分钟闹钟好像能解决这个担心，至少有个边界。我可以说得具体一点，但又不想显得太有把握，毕竟还没试过。）",
+        "reasoning": "（她问我什么样的环境能让我不像交作业……这个问题让我想到家里那些书桌和书架，都太正式了。也许换个地方会不一样？沙发角落或者床上？但又怕太舒服直接睡着。）\n（不过之前说的十分钟闹钟好像能解决这个担心，至少有个边界。我可以说得具体一点，但又不想显得太有把握，毕竟还没试过。）"
+      }
+    }
+  ],
+  "created": 1794545439,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2589,
+    "total_tokens": 2699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

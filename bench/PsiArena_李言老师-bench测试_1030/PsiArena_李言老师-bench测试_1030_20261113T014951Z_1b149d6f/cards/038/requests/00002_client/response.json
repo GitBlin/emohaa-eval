@@ -1,0 +1,41 @@
+{
+  "id": "161af3041e5a42feab91e5640c03c071",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……是有点。毕竟这些事我平时都不太跟人说。那……如果我觉得有些话不想说，可以不说吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方直接问到了我担心的事情，虽然解释了保密原则，但我还是有点不放心。毕竟第一次见面，谁知道会不会转头就把我的事说出去。不过他说只有安全风险才例外，听起来还算合理。）\n（我其实更想知道的是，他会不会像其他人一样，听我说完就急着给建议或者下判断。之前跟朋友聊这些，他们总说“你想太多了”，让我更不想开口。先看看他什么反应吧，别一下子说太多。）",
+        "reasoning": "（对方直接问到了我担心的事情，虽然解释了保密原则，但我还是有点不放心。毕竟第一次见面，谁知道会不会转头就把我的事说出去。不过他说只有安全风险才例外，听起来还算合理。）\n（我其实更想知道的是，他会不会像其他人一样，听我说完就急着给建议或者下判断。之前跟朋友聊这些，他们总说“你想太多了”，让我更不想开口。先看看他什么反应吧，别一下子说太多。）"
+      }
+    }
+  ],
+  "created": 1794536381,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 991,
+    "total_tokens": 1120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

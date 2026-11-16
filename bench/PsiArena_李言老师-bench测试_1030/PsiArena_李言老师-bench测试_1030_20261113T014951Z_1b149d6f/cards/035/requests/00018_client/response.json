@@ -1,0 +1,41 @@
+{
+  "id": "8450097dcc514b50a14b22607ef5512a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说给我爸妈听的吧……他们忙，我一说“没事”，就不用再往下问了。其实我一直都在用这句“没事”把自己藏起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这句“没事”最早是说给谁听的，这让我一下子想到小时候。每次想跟爸妈说点什么，他们不是在忙就是随口一句“别烦”，所以我习惯了把话咽回去，说“没事”。）\n（可现在被这么一问，我忽然意识到，原来我一直在用这句话把自己藏起来。连在男朋友面前也是，明明心里委屈，却总说“没事”。也许我该试着不再这样了。）",
+        "reasoning": "（咨询师问我这句“没事”最早是说给谁听的，这让我一下子想到小时候。每次想跟爸妈说点什么，他们不是在忙就是随口一句“别烦”，所以我习惯了把话咽回去，说“没事”。）\n（可现在被这么一问，我忽然意识到，原来我一直在用这句话把自己藏起来。连在男朋友面前也是，明明心里委屈，却总说“没事”。也许我该试着不再这样了。）"
+      }
+    }
+  ],
+  "created": 1794536273,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2825,
+    "total_tokens": 2950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

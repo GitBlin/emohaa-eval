@@ -1,0 +1,41 @@
+{
+  "id": "b8793532d7bc4928815dbe6a97600b84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能是我妈吧。她那时候很累，工作、家里……我一闹她就更累。所以我就学着不闹。（轻声）说出来有点对不起她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最早是从谁身上学来的，一下子把我拉回到小时候那种小心翼翼的感觉里。我想到妈妈，她总是很累的样子，我从小就不敢让她多操心。这个念头冒出来的时候，心里有点酸，也有点不确定是不是该说这些。）\n（说出来之后又有点后悔，怕显得我是在怪妈妈，她其实也没做错什么。我得赶紧补一句，把那种内疚感压下去，不然心里会更乱。）",
+        "reasoning": "（她问我最早是从谁身上学来的，一下子把我拉回到小时候那种小心翼翼的感觉里。我想到妈妈，她总是很累的样子，我从小就不敢让她多操心。这个念头冒出来的时候，心里有点酸，也有点不确定是不是该说这些。）\n（说出来之后又有点后悔，怕显得我是在怪妈妈，她其实也没做错什么。我得赶紧补一句，把那种内疚感压下去，不然心里会更乱。）"
+      }
+    }
+  ],
+  "created": 1794536792,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1963,
+    "total_tokens": 2097,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

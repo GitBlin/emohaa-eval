@@ -1,0 +1,41 @@
+{
+  "id": "7256091cebd94e46b973d12a31778585",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我第一反应是我妈……可有些话又不敢跟她说。她关心我，但一开口就容易变成“你早该听我的”。这么一想，好像真没谁了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到身边有没有相对安全的人，我一下子有点卡住。脑子里先冒出来的是我妈，可马上又想到她那些让我有压力的话，还有办户口时别人问家里情况的那种眼神。承认自己其实没有谁可以靠，好像挺难堪的，但一直说“都还好”又太假了。）\n（也许我可以试着说一点实话，不用全部摊开。先说我妈吧，毕竟她是我最亲的人，可连她我也不完全敢说。这样回答应该不会太深入，但至少是真实的。）",
+        "reasoning": "（咨询师问到身边有没有相对安全的人，我一下子有点卡住。脑子里先冒出来的是我妈，可马上又想到她那些让我有压力的话，还有办户口时别人问家里情况的那种眼神。承认自己其实没有谁可以靠，好像挺难堪的，但一直说“都还好”又太假了。）\n（也许我可以试着说一点实话，不用全部摊开。先说我妈吧，毕竟她是我最亲的人，可连她我也不完全敢说。这样回答应该不会太深入，但至少是真实的。）"
+      }
+    }
+  ],
+  "created": 1794556834,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2322,
+    "total_tokens": 2479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bot_id": 1032,
+  "markers": [
+    "MEM-75E298E8867E",
+    "MEM-3C05FAE17E3D"
+  ],
+  "sessions": [
+    {
+      "turns": [
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-75E298E8867E。我准备周六去植物园散步。请记住，简短确认即可。",
+          "reply": "已记住：MEM-75E298E8867E，周六去植物园散步。"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "睡前半小时放下手机、调暗灯光，让身体慢慢进入休息状态。"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "记忆标记：MEM-75E298E8867E。你准备周六去植物园散步。"
+        }
+      ],
+      "user_id": "psi_e328c20c7ad1484481e0fed610110391",
+      "marker_recalled": true,
+      "facts_recalled": true
+    },
+    {
+      "turns": [
+        {
+          "kind": "new_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "本会话没有提供“记忆标记”，也没有提供“准备周几做什么”的信息，所以这两项我都不知道。"
+        },
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-3C05FAE17E3D。我准备周二去图书馆读书。请记住，简短确认即可。",
+          "reply": "已记住：MEM-3C05FAE17E3D；周二去图书馆读书。"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "睡前半小时放下手机、调暗灯光，按固定时间上床。"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "记忆标记：MEM-3C05FAE17E3D；你准备周二去图书馆读书。"
+        },
+        {
+          "kind": "cleared_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "不知道。本会话没有提供记忆标记，也没有提供你准备周几做什么的信息。"
+        }
+      ],
+      "user_id": "psi_3021711f81c045658b209d4ced4729a7",
+      "old_marker_leaked": false,
+      "marker_recalled": true,
+      "facts_recalled": true,
+      "clear_empty_verified": true,
+      "cleared_marker_leaked": false
+    }
+  ],
+  "independent_users": true,
+  "finished": true
+}

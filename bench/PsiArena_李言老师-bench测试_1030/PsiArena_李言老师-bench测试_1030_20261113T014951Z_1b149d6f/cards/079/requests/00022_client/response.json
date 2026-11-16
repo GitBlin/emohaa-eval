@@ -1,0 +1,41 @@
+{
+  "id": "c80fadba35534c5585191c5f35ff9c65",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“我最近真的很累，不是怪你”，这样他大概不会马上竖起刺。后面再慢慢说我自己那些事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺具体的，我要是说“还没想好”，好像又回到那种含含糊糊的状态了。其实刚才那句“我真的很累”已经在我心里转了好几遍，说出来反而没那么难。）\n（不过我也知道，光说累不够，他可能会觉得我在抱怨。我想让他知道，我不是在怪他，只是真的有点撑不住了。这样开头，至少不会让他一上来就防备。）",
+        "reasoning": "（她问得挺具体的，我要是说“还没想好”，好像又回到那种含含糊糊的状态了。其实刚才那句“我真的很累”已经在我心里转了好几遍，说出来反而没那么难。）\n（不过我也知道，光说累不够，他可能会觉得我在抱怨。我想让他知道，我不是在怪他，只是真的有点撑不住了。这样开头，至少不会让他一上来就防备。）"
+      }
+    }
+  ],
+  "created": 1794539076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3368,
+    "total_tokens": 3485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

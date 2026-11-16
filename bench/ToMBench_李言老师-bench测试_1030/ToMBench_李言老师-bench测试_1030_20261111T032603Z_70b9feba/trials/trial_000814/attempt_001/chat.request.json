@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:54.698997+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Hua and Li Qiang are jointly responsible for a project, the performance of this project directly affects their promotion. Li Qiang frowns in front of the computer, the data analysis report in front of him seems to trouble him. Zhang Hua notices Li Qiang's appearance, walks over and seems to enthusiastically ask about the project progress and difficulties. Li Qiang answers with some hesitation, seems to hold back. In this process, Zhang Hua occasionally exchanges glances with Zhou Yan across the room, then Zhang Hua invites Li Qiang to go downstairs for dinner and a walk. When they leave, Zhou Yan immediately puts down her work, pretends to go to the bathroom, passes by Li Qiang's position, and looks at something. At this moment, Li Qiang suddenly turns back and happens to see Zhou Yan's action.\n\n[Question]\nWhat does Li Qiang do next?\n\n[Candidate Answers]\nA. Li Qiang decides to temporarily put down his work, to do some relaxing activities, such as walking or listening to music, to divert his anxiety about the project.\nB. Li Qiang tries to change his view of the project pressure, tells himself this is a growth and learning opportunity, not a challenge that threatens his career.\nC. Li Qiang decides to personally review more relevant information, enhance his understanding of the project, to alleviate his concerns about the uncertainty in the data analysis report.\nD. Li Qiang chooses to discuss his feelings and challenges on the project with a trustworthy colleague or friend.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

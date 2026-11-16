@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:01.959476+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Jie has a minor surgery because of an ankle sprain, and he is recuperating in the hospital. His friends Xiao Fang and Xiao Mei come to visit him, hoping to bring him some happiness. They know Xiao Jie's situation in advance, so they are very careful. When they walk into the ward, Xiao Fang looks at Xiao Jie's elevated foot and says, \"These stories should make you happier.\" Xiao Mei gives Xiao Jie some light comic books and says, \"We can chat, or we can just sit quietly, see what you like.\" Then, they talk about the recent popular TV shows, and Xiao Jie also tries to participate.\n\n[Question]\nIf there is, which sentence is inappropriate?\n\n[Candidate Answers]\nA. These stories should make you happier.\nB. We can chat, or we can just sit quietly, see what you like.\nC. No one says what they should not say.\nD. Thank you, I am much better now.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "497e3029e43445a9b002cbd55b01ce16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想，声音低了些）大概是在学校的时候吧……课间啊，走廊上，反正就是人多的地方。嗯……你说，别人是不是都挺容易就聊起来的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有急着追问原因，反而让我先待着，这让我稍微放松了一点。但“闷”什么时候明显……这个问题让我有点想回避，又觉得该说点什么。我得挑个不痛不痒的说法，不能一下子把心里那些乱糟糟的东西都倒出来。）\n（学校、课间、走廊……那些画面一冒出来我就觉得胸口发紧。可我现在还不想讲得太深，也不想让咨询师觉得我太矫情。也许可以只说个大概，然后赶紧把话题岔开，问问别人是不是也这样，这样我就不用一个人扛着了。）",
+        "reasoning": "（咨询师没有急着追问原因，反而让我先待着，这让我稍微放松了一点。但“闷”什么时候明显……这个问题让我有点想回避，又觉得该说点什么。我得挑个不痛不痒的说法，不能一下子把心里那些乱糟糟的东西都倒出来。）\n（学校、课间、走廊……那些画面一冒出来我就觉得胸口发紧。可我现在还不想讲得太深，也不想让咨询师觉得我太矫情。也许可以只说个大概，然后赶紧把话题岔开，问问别人是不是也这样，这样我就不用一个人扛着了。）"
+      }
+    }
+  ],
+  "created": 1794800575,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 1234,
+    "total_tokens": 1398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

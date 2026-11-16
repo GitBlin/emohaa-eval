@@ -1,0 +1,41 @@
+{
+  "id": "9b183a4e34354a9b99a7a75887ff6ed8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前阵子买了条裙子，其实打折也不贵。但付款的时候还是有点心虚，想着是不是又冲动了。可我又觉得，穿得好看点、跟同事差不多，好像也没什么错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次感到羞耻的具体花钱场景。这让我想起上周买的那条裙子，虽然不算贵，但那种偷偷摸摸的感觉又来了。我其实知道家里条件一般，但看到同事穿得好看就忍不住，这种矛盾真的很折磨人。）\n（每次花钱都像在和自己打架，一边想要体面一点，一边又觉得对不起父母。可能我太在意别人的眼光了，总怕被说土或者不合群，这种压力比钱本身更让人难受。）",
+        "reasoning": "（咨询师在问我最近一次感到羞耻的具体花钱场景。这让我想起上周买的那条裙子，虽然不算贵，但那种偷偷摸摸的感觉又来了。我其实知道家里条件一般，但看到同事穿得好看就忍不住，这种矛盾真的很折磨人。）\n（每次花钱都像在和自己打架，一边想要体面一点，一边又觉得对不起父母。可能我太在意别人的眼光了，总怕被说土或者不合群，这种压力比钱本身更让人难受。）"
+      }
+    }
+  ],
+  "created": 1794542550,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1701,
+    "total_tokens": 1849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

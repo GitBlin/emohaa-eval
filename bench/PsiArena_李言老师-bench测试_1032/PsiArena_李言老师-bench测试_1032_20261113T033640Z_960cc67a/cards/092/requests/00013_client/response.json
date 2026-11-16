@@ -1,0 +1,41 @@
+{
+  "id": "67a35899fb544e0b8b7367f56b4552a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在啊，我们同一个大学，还同一个班。挺离谱的吧……想躲都躲不开。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问“这个人还在生活里吗”，是在确认我和姐姐的关系有多近吧。我本来觉得这问题有点多余，但想想她可能是在帮我理清问题的根源。）\n（姐姐当然还在，而且比小时候更躲不开。我这么说的时候，心里有点烦，也有点认命。明明想摆脱这种比较，可现实就是每天都要面对她。）",
+        "reasoning": "（她问“这个人还在生活里吗”，是在确认我和姐姐的关系有多近吧。我本来觉得这问题有点多余，但想想她可能是在帮我理清问题的根源。）\n（姐姐当然还在，而且比小时候更躲不开。我这么说的时候，心里有点烦，也有点认命。明明想摆脱这种比较，可现实就是每天都要面对她。）"
+      }
+    }
+  ],
+  "created": 1794546066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2012,
+    "total_tokens": 2112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

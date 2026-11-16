@@ -1,0 +1,41 @@
+{
+  "id": "5fbeb7e2aa354a5bbc0d08eea5ab1624",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……主要是怕他们觉得我矫情。你也知道，我们这行，大家都觉得自己理性得很，说自己心理有问题，别人嘴上不说，心里肯定觉得你扛不住事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是担心同事怎么看，还是觉得解释不清。这两种感觉好像都有，但更深的可能是怕被贴上标签。毕竟我从小就被教育要优秀，不能出问题。）\n（想到父母那边更让人难受，他们一直觉得心理上的事不算什么，说出去只会被当成软弱。这种想法压在心里很久了，说出来反而轻松一点。）",
+        "reasoning": "（咨询师问我是担心同事怎么看，还是觉得解释不清。这两种感觉好像都有，但更深的可能是怕被贴上标签。毕竟我从小就被教育要优秀，不能出问题。）\n（想到父母那边更让人难受，他们一直觉得心理上的事不算什么，说出去只会被当成软弱。这种想法压在心里很久了，说出来反而轻松一点。）"
+      }
+    }
+  ],
+  "created": 1794556709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1602,
+    "total_tokens": 1719,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

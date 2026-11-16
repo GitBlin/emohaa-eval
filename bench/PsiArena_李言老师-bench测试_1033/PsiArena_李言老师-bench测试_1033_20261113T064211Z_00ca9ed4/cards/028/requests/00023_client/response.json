@@ -1,0 +1,41 @@
+{
+  "id": "6cf939970b284096b189d1c5ee6889cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（又试了一遍）妈，下周末我想自己出去走走，就不回家了。（停住，抿了抿嘴）……好难，但我刚才真的没补。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我再试一次，停在“不回家”那里不补。我刚才明明察觉到自己想补，可还是没忍住。现在心里有点慌，怕又搞砸，但也知道这确实不是失败。我得试试，就算只停住一秒，也算比刚才好。）\n（她这样一步步带着我练，我好像没那么怕了。那句“不回家”说出来之后，不补话，心里空了一下，但也没塌。也许我真的可以慢慢做到，哪怕每次只进步一点点。）",
+        "reasoning": "（她让我再试一次，停在“不回家”那里不补。我刚才明明察觉到自己想补，可还是没忍住。现在心里有点慌，怕又搞砸，但也知道这确实不是失败。我得试试，就算只停住一秒，也算比刚才好。）\n（她这样一步步带着我练，我好像没那么怕了。那句“不回家”说出来之后，不补话，心里空了一下，但也没塌。也许我真的可以慢慢做到，哪怕每次只进步一点点。）"
+      }
+    }
+  ],
+  "created": 1794553389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3286,
+    "total_tokens": 3428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

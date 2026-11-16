@@ -1,0 +1,41 @@
+{
+  "id": "1719c67087db476b8a17a6a29d573b91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……应该是我妈吧。她总是先挑问题，我慢慢就学会自己先说了。奇怪的是，别人夸我，我又不太信，还觉得有点别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这个习惯是从谁那儿学的，还是某件事之后才慢慢变成的。我其实心里一直有个模糊的答案，但说出来有点难。我妈总是先挑我的问题，我好像不自觉地学会了抢在她前面说自己不好，这样至少是我自己先说的。可是这样真的好累，每次说完又觉得更难受。）\n（而且不只是我妈，连朋友夸我我都觉得别扭，好像他们夸的不是我。我是不是有点太敏感了？这种话平时根本不会跟别人讲，现在说出来反而有点不知道该怎么继续。）",
+        "reasoning": "（咨询师问我这个习惯是从谁那儿学的，还是某件事之后才慢慢变成的。我其实心里一直有个模糊的答案，但说出来有点难。我妈总是先挑我的问题，我好像不自觉地学会了抢在她前面说自己不好，这样至少是我自己先说的。可是这样真的好累，每次说完又觉得更难受。）\n（而且不只是我妈，连朋友夸我我都觉得别扭，好像他们夸的不是我。我是不是有点太敏感了？这种话平时根本不会跟别人讲，现在说出来反而有点不知道该怎么继续。）"
+      }
+    }
+  ],
+  "created": 1794542216,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2044,
+    "total_tokens": 2197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7e099b8566e04e51ba73fd9f71f2bc74",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就定在开口前，停三秒，吸一口气。要是卡住了，就想着“我也怕”这三个字。今晚我想试试，不管结果怎么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么用这个提醒……我得想个具体又简单的方法，不然到时候一紧张又全忘了。嗯，就定在开口前停一下，深呼吸，这应该能做到。）\n（其实我心里还有点没底，但不想再像以前那样光忍着不说了。至少今晚，我想试着用这个方法，把“我也怕”说出口。）",
+        "reasoning": "（她问我打算怎么用这个提醒……我得想个具体又简单的方法，不然到时候一紧张又全忘了。嗯，就定在开口前停一下，深呼吸，这应该能做到。）\n（其实我心里还有点没底，但不想再像以前那样光忍着不说了。至少今晚，我想试着用这个方法，把“我也怕”说出口。）"
+      }
+    }
+  ],
+  "created": 1794554710,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2804,
+    "total_tokens": 2915,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

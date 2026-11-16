@@ -1,0 +1,41 @@
+{
+  "id": "0db839963c944ccc9beb9afa9dbedd18",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次我跟室友说能不能戴耳机，他看了我一眼，说“你怎么这么多要求”。我当时就……一下子不知道说什么了，觉得自己好像真的很多事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近有没有哪次说错话的经历，这让我想起那次跟室友提作息的事。当时我鼓起勇气说了一句，结果气氛就变了，他们那种眼神让我觉得自己好像做错了什么。其实我只是想要一点安静，怎么就变成我要求太多了呢。）\n（可能我确实不太会表达，一开口就像在指责别人。在家里说话总是要讲道理、讲对错，可到了宿舍好像不是这样。我越想越觉得自己格格不入，那种尴尬的感觉到现在都还记得。）",
+        "reasoning": "（咨询师问的是最近有没有哪次说错话的经历，这让我想起那次跟室友提作息的事。当时我鼓起勇气说了一句，结果气氛就变了，他们那种眼神让我觉得自己好像做错了什么。其实我只是想要一点安静，怎么就变成我要求太多了呢。）\n（可能我确实不太会表达，一开口就像在指责别人。在家里说话总是要讲道理、讲对错，可到了宿舍好像不是这样。我越想越觉得自己格格不入，那种尴尬的感觉到现在都还记得。）"
+      }
+    }
+  ],
+  "created": 1794554119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1819,
+    "total_tokens": 1961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

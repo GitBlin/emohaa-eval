@@ -1,0 +1,41 @@
+{
+  "id": "d1834eda1dee4506a7e744ee8bfa90e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要是孩子的事。教育孩子上……她总觉得我做得不对，我也不是没努力，可怎么说呢，就是……唉，不太好讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起矛盾围绕什么……我其实不太想马上说那么细。不过既然她问了，说说孩子的事应该还行，毕竟这是最表面的部分。但我又怕说多了会被评判，好像我连孩子都带不好似的。）\n（还是先含糊一点吧，就说是因为教育孩子的事，别的先不提。这样既回应了她，又不至于把自己完全摊开。）",
+        "reasoning": "（她问起矛盾围绕什么……我其实不太想马上说那么细。不过既然她问了，说说孩子的事应该还行，毕竟这是最表面的部分。但我又怕说多了会被评判，好像我连孩子都带不好似的。）\n（还是先含糊一点吧，就说是因为教育孩子的事，别的先不提。这样既回应了她，又不至于把自己完全摊开。）"
+      }
+    }
+  ],
+  "created": 1794551424,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1338,
+    "total_tokens": 1450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

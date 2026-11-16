@@ -1,0 +1,82 @@
+{
+  "indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "old_run": "bench/PsiArena_李言老师-bench测试_1032/PsiArena_李言老师-bench测试_1032_20261113T033640Z_960cc67a",
+  "new_run": "bench/PsiArena_李言老师-bench测试_1032_message/PsiArena_李言老师-bench测试_1032_message_20261113T071148Z_faeba520",
+  "old": {
+    "protocol": "code",
+    "n_expected": 8,
+    "n_scored": 8,
+    "complete": true,
+    "coverage": 1.0,
+    "skipped": [],
+    "errors": {},
+    "means": {
+      "client": 2.890625,
+      "supervisor": 3.015625,
+      "counselor": 3.5555555555555562,
+      "overall": 3.1022727272727275
+    },
+    "passes": {
+      "client": 8,
+      "supervisor": 6,
+      "counselor": 0,
+      "overall": 5
+    },
+    "pass_rates": {
+      "client": 1.0,
+      "supervisor": 0.75,
+      "counselor": 0.0,
+      "overall": 0.625
+    },
+    "pass_rates_valid_only": {
+      "client": 1.0,
+      "supervisor": 0.75,
+      "counselor": 0.0,
+      "overall": 0.625
+    },
+    "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+  },
+  "new": {
+    "protocol": "code",
+    "n_expected": 8,
+    "n_scored": 8,
+    "complete": true,
+    "coverage": 1.0,
+    "skipped": [],
+    "errors": {},
+    "means": {
+      "client": 2.8515625,
+      "supervisor": 3.375,
+      "counselor": 3.8333333333333335,
+      "overall": 3.2462121212121215
+    },
+    "passes": {
+      "client": 7,
+      "supervisor": 8,
+      "counselor": 4,
+      "overall": 8
+    },
+    "pass_rates": {
+      "client": 0.875,
+      "supervisor": 1.0,
+      "counselor": 0.5,
+      "overall": 1.0
+    },
+    "pass_rates_valid_only": {
+      "client": 0.875,
+      "supervisor": 1.0,
+      "counselor": 0.5,
+      "overall": 1.0
+    },
+    "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6338f404bb646b69bf5a11a64be9f2f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢点头）有一点吧……可说完又有点慌。（苦笑）好像背叛了什么似的，心里不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我憋着这句话是不是很久了，还问说出来有没有松动。他好像真的很在意我的感受，没有急着评判我不去庙里对不对。我确实一直不敢说，现在说出来，心里好像真的轻了一点点。）\n（可紧接着我又有点慌，好像自己背叛了什么。爸妈每周都去，我要是说不去，他们会怎么看我？这种矛盾让我觉得刚才那点松动又变得不踏实了。）",
+        "reasoning": "（咨询师问我憋着这句话是不是很久了，还问说出来有没有松动。他好像真的很在意我的感受，没有急着评判我不去庙里对不对。我确实一直不敢说，现在说出来，心里好像真的轻了一点点。）\n（可紧接着我又有点慌，好像自己背叛了什么。爸妈每周都去，我要是说不去，他们会怎么看我？这种矛盾让我觉得刚才那点松动又变得不踏实了。）"
+      }
+    }
+  ],
+  "created": 1794556924,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2331,
+    "total_tokens": 2446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

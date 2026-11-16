@@ -1,0 +1,41 @@
+{
+  "id": "72bac75099ff43c29c70ad78254a6ad7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，我把它放到书架最上层，得站起来才够得着。然后我就去收那摞便签……嗯，下次还能接着聊这个吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我挪完手机告诉她放哪里，这像是一个小小的承诺，让我有点紧张又有点想试试。把手机放到够不着的地方，好像真的能让我暂时从那种等待里抽出来。）\n（我想说放到书架最上层，这样起身才能拿到，也算给自己一个缓冲。然后我想收便签，顺便问问下次还能不能继续聊，毕竟这种有人陪着想办法的感觉让我踏实一些。）",
+        "reasoning": "（咨询师让我挪完手机告诉她放哪里，这像是一个小小的承诺，让我有点紧张又有点想试试。把手机放到够不着的地方，好像真的能让我暂时从那种等待里抽出来。）\n（我想说放到书架最上层，这样起身才能拿到，也算给自己一个缓冲。然后我想收便签，顺便问问下次还能不能继续聊，毕竟这种有人陪着想办法的感觉让我踏实一些。）"
+      }
+    }
+  ],
+  "created": 1794541447,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3174,
+    "total_tokens": 3297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

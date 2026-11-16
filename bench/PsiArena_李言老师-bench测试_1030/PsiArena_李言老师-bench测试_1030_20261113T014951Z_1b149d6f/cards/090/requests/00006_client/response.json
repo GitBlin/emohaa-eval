@@ -1,0 +1,41 @@
+{
+  "id": "6afa89daf93f44f5a85c1c68f9518fb0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安心的人……好像没有。我爸妈都忙，我也不想跟他们说这些。朋友那边，我也说不出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她拒绝了我想要拥抱的请求，虽然有点失落，但好像也没有被嫌弃的感觉。她说会一直在这里听我说，这让我稍微安心了一点。可是问我身边有没有能让我安心的人……这个问题让我心里又堵了一下。）\n（爸妈？他们根本不会注意到我。朋友……我不想让她们知道这些。说来说去还是没有人。这种感觉很熟悉，就是那种一个人闷着、说不出口的难受。）",
+        "reasoning": "（她拒绝了我想要拥抱的请求，虽然有点失落，但好像也没有被嫌弃的感觉。她说会一直在这里听我说，这让我稍微安心了一点。可是问我身边有没有能让我安心的人……这个问题让我心里又堵了一下。）\n（爸妈？他们根本不会注意到我。朋友……我不想让她们知道这些。说来说去还是没有人。这种感觉很熟悉，就是那种一个人闷着、说不出口的难受。）"
+      }
+    }
+  ],
+  "created": 1794539785,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1365,
+    "total_tokens": 1478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

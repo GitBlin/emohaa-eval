@@ -1,0 +1,41 @@
+{
+  "id": "0cb3bc8ed4c44377b48cf16b72fcf042",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像稍微松了点。不过光靠喘气，那些事就能过去吗？我心里还是有点打鼓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我关注呼吸，这听起来挺简单的，但说实话我平时根本没注意过自己怎么喘气。刚才试着吸了一口，确实胸口没那么紧了。）\n（不过光靠呼吸能解决什么？我那些毛病又不是喘不上气。但既然都坐在这儿了，就先顺着试试吧，反正也没什么坏处。）",
+        "reasoning": "（咨询师让我关注呼吸，这听起来挺简单的，但说实话我平时根本没注意过自己怎么喘气。刚才试着吸了一口，确实胸口没那么紧了。）\n（不过光靠呼吸能解决什么？我那些毛病又不是喘不上气。但既然都坐在这儿了，就先顺着试试吧，反正也没什么坏处。）"
+      }
+    }
+  ],
+  "created": 1794545502,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2978,
+    "total_tokens": 3073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

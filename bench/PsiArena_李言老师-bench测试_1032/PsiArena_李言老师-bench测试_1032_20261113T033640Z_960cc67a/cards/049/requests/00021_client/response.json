@@ -1,0 +1,41 @@
+{
+  "id": "20e8414f2e82494fbbf50011b7a00249",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我好像变得……不太敢放松。总觉得一放松就会出事，连开心都有点偷偷摸摸的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是父亲生病时我哪里不一样了。这个问题让我有点想回避，因为那时候的感觉太模糊了，好像整个人被抽走了什么，又说不清具体是什么。）\n（不过现在和之前不一样了，我好像能试着去碰一碰那些感觉。可能最明显的就是不敢放松吧，总觉得一放松就会出事，连开心都得偷偷摸摸的。这种感觉一直跟着我，到现在都还在。）",
+        "reasoning": "（咨询师问的是父亲生病时我哪里不一样了。这个问题让我有点想回避，因为那时候的感觉太模糊了，好像整个人被抽走了什么，又说不清具体是什么。）\n（不过现在和之前不一样了，我好像能试着去碰一碰那些感觉。可能最明显的就是不敢放松吧，总觉得一放松就会出事，连开心都得偷偷摸摸的。这种感觉一直跟着我，到现在都还在。）"
+      }
+    }
+  ],
+  "created": 1794543586,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2720,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

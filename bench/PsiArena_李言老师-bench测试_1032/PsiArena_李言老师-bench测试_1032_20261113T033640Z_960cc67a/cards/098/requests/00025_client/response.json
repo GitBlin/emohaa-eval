@@ -1,0 +1,41 @@
+{
+  "id": "68c194791bc246e8aea5429e7ad1bc8b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……定个闹钟吧，响了就放下。虽然可能还是会赖一会儿，但总比没个准强。我先试试看吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法具体化，问怎么提醒自己放下手机。我得想个自己能做到的办法，不能太复杂。闹钟应该可以，但有时候游戏里正打到一半，闹钟响了也舍不得停。不过总得试试，先定个闹钟，响了就放，然后去干点别的。）\n（这样应该能行吧，虽然可能一开始做不到，但总比什么都不做强。而且跟爸妈商量敲门的事，也得找个他们不那么忙的时候说，不然他们可能没耐心听。）",
+        "reasoning": "（咨询师在帮我把想法具体化，问怎么提醒自己放下手机。我得想个自己能做到的办法，不能太复杂。闹钟应该可以，但有时候游戏里正打到一半，闹钟响了也舍不得停。不过总得试试，先定个闹钟，响了就放，然后去干点别的。）\n（这样应该能行吧，虽然可能一开始做不到，但总比什么都不做强。而且跟爸妈商量敲门的事，也得找个他们不那么忙的时候说，不然他们可能没耐心听。）"
+      }
+    }
+  ],
+  "created": 1794546426,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3143,
+    "total_tokens": 3285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "60c6816e6cf6463bba62dda67ea88765",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都学了。不出声，然后自己憋着。憋久了，有时候连我自己都分不清，到底是没话说，还是不敢说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得真细啊……是学她不出声，还是学她把话咽回去。其实这两样我都学了，甚至还不止。小时候看着我妈那样，我心里是怕的，怕自己也变成她那样。）\n（可越怕越像。现在跟婆婆顶上的时候，我脑子里明明有好多话，可就是出不来。有时候我觉得自己憋得都快炸了，可脸上还是那副没表情的样子。说出来又怎么样呢，反正也没人真听。）",
+        "reasoning": "（她问得真细啊……是学她不出声，还是学她把话咽回去。其实这两样我都学了，甚至还不止。小时候看着我妈那样，我心里是怕的，怕自己也变成她那样。）\n（可越怕越像。现在跟婆婆顶上的时候，我脑子里明明有好多话，可就是出不来。有时候我觉得自己憋得都快炸了，可脸上还是那副没表情的样子。说出来又怎么样呢，反正也没人真听。）"
+      }
+    }
+  ],
+  "created": 1794553155,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1921,
+    "total_tokens": 2054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

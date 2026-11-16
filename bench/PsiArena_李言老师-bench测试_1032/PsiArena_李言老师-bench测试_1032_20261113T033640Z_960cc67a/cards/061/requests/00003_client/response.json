@@ -1,0 +1,41 @@
+{
+  "id": "ec60c262f47947adbf8ffbacc7099c6c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……都有一点吧。同事那边，我不想被贴标签；家里……我爸妈对这种事看法挺重的。不过我也说不清自己到底在担心什么，就是心里有点乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得更细了，还提到具体担心谁看到记录。这让我稍微放心一点，至少他愿意解释保密的范围。不过我还是不想说太多，尤其不想一开始就谈家里的事。）\n（我确实更怕同事知道，公司里没人做这种事，传出去很麻烦。但家里那边……爸妈要是知道我看心理医生，肯定觉得我脑子有问题。可这些现在说出来太早了，还是先含糊带过去吧。）",
+        "reasoning": "（他问得更细了，还提到具体担心谁看到记录。这让我稍微放心一点，至少他愿意解释保密的范围。不过我还是不想说太多，尤其不想一开始就谈家里的事。）\n（我确实更怕同事知道，公司里没人做这种事，传出去很麻烦。但家里那边……爸妈要是知道我看心理医生，肯定觉得我脑子有问题。可这些现在说出来太早了，还是先含糊带过去吧。）"
+      }
+    }
+  ],
+  "created": 1794544225,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1065,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

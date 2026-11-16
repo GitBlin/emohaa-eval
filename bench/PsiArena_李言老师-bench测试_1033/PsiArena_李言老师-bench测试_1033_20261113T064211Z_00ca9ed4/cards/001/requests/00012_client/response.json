@@ -1,0 +1,41 @@
+{
+  "id": "a09c9712a1d148b6bc481589eff1bcc6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我没分开想过。好像混在一起了，分不清。他们说的，和我自己感觉的，都搅在一块儿了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个结论有多少是我自己的感受，多少是听来的……说实话我从来没这么分开想过。我一直以为“不行”就是事实，像成绩单上的分数一样摆在那儿。可被她这么一问，我有点乱，好像有些话确实是别人说的，但我也真的觉得自己做不到。）\n（不过要说完全分开，又有点难。爸妈的话听多了，我自己也信了，现在也分不清哪部分是自己的感觉。也许都有吧，混在一起了。）",
+        "reasoning": "（她问这个结论有多少是我自己的感受，多少是听来的……说实话我从来没这么分开想过。我一直以为“不行”就是事实，像成绩单上的分数一样摆在那儿。可被她这么一问，我有点乱，好像有些话确实是别人说的，但我也真的觉得自己做不到。）\n（不过要说完全分开，又有点难。爸妈的话听多了，我自己也信了，现在也分不清哪部分是自己的感觉。也许都有吧，混在一起了。）"
+      }
+    }
+  ],
+  "created": 1794552186,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2127,
+    "total_tokens": 2255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca080b7c18864520b339fbe96d305c10",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前两天吧，一个学生上课一直讲话，我提醒了两遍他还不听，后来我就……突然声音有点抖，差点在教室里哭出来。其实也不是多大的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次具体的情形，看来是想让我把模糊的感受落到具体的事情上。我其实有点抗拒回忆那种画面，因为一想到当时在教室里掉眼泪的样子，就觉得又难堪又委屈。）\n（不过前面聊下来，感觉她好像没有要评判我的意思。我可以试着说一点点，但不想说得太细，免得自己又控制不住情绪。先提一下那件小事好了，看看她怎么反应。）",
+        "reasoning": "（咨询师问我最近一次具体的情形，看来是想让我把模糊的感受落到具体的事情上。我其实有点抗拒回忆那种画面，因为一想到当时在教室里掉眼泪的样子，就觉得又难堪又委屈。）\n（不过前面聊下来，感觉她好像没有要评判我的意思。我可以试着说一点点，但不想说得太细，免得自己又控制不住情绪。先提一下那件小事好了，看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794543440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1447,
+    "total_tokens": 1575,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

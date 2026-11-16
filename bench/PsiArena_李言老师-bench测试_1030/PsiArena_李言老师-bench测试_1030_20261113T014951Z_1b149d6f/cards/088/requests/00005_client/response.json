@@ -1,0 +1,41 @@
+{
+  "id": "ba99bae1ef3849c5ae483e8510a751aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般是写作业的时候……遇到不会的题，或者做错了，就会忍不住。其实也不是什么大事，就是我自己太没用了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像很关注我抠手指的事……她问什么时候最容易去抠，是在试探我吗？还是真的想帮我？不过她语气挺温和的，没有像爸妈那样直接说“别抠了”。）\n（我有点犹豫要不要说学习的事，但既然她都问到这份上了，稍微提一下应该没关系吧。反正她也不知道我具体成绩怎么样，就说做作业的时候好了，这样比较安全。）",
+        "reasoning": "（这个咨询师好像很关注我抠手指的事……她问什么时候最容易去抠，是在试探我吗？还是真的想帮我？不过她语气挺温和的，没有像爸妈那样直接说“别抠了”。）\n（我有点犹豫要不要说学习的事，但既然她都问到这份上了，稍微提一下应该没关系吧。反正她也不知道我具体成绩怎么样，就说做作业的时候好了，这样比较安全。）"
+      }
+    }
+  ],
+  "created": 1794539529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1260,
+    "total_tokens": 1378,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

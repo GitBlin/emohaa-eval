@@ -1,0 +1,41 @@
+{
+  "id": "ee71390b4b6b4371934a1904bc13c189",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能先让那句话冒出来吧，“我又在着急了”，然后再慢慢呼吸。我不想把它搞成任务，就先这样试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体怎么提醒自己，这让我觉得她真的在意我能不能做到，而不是随便给个建议。我有点紧张，怕自己又定太高的标准，但心里那句话确实最自然。）\n（深呼吸可能会太刻意，反而让我更慌。还是心里那句话先冒出来吧，它已经让我感觉能喘口气了。不过说完之后，我还是想确认一下，这样是不是就够了，别又被我搞成新的任务。）",
+        "reasoning": "（咨询师在问我具体怎么提醒自己，这让我觉得她真的在意我能不能做到，而不是随便给个建议。我有点紧张，怕自己又定太高的标准，但心里那句话确实最自然。）\n（深呼吸可能会太刻意，反而让我更慌。还是心里那句话先冒出来吧，它已经让我感觉能喘口气了。不过说完之后，我还是想确认一下，这样是不是就够了，别又被我搞成新的任务。）"
+      }
+    }
+  ],
+  "created": 1794538571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3681,
+    "total_tokens": 3804,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

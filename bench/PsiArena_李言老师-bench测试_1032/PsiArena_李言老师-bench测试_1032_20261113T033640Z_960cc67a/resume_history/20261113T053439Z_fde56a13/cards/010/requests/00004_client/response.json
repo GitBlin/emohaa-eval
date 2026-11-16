@@ -1,0 +1,41 @@
+{
+  "id": "2b234b6a1cc34098b12bbac2a1b0e044",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般在课间吧……大家围在一起聊学习的时候。（停顿）我也不太想说得太细，就是那种场合让我有点不自在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最难受的时刻通常发生在哪里……其实我一下子想到的就是课间大家围在一起聊成绩的时候。但我不太想说得太具体，毕竟才刚开始谈，而且我也怕他觉得我小题大做。）\n（不过既然他已经说了不会随便告诉我爸妈，也许我可以稍微提一点。就说是课间吧，但不要展开太多，先看看他接下来会怎么问。）",
+        "reasoning": "（他问我最难受的时刻通常发生在哪里……其实我一下子想到的就是课间大家围在一起聊成绩的时候。但我不太想说得太具体，毕竟才刚开始谈，而且我也怕他觉得我小题大做。）\n（不过既然他已经说了不会随便告诉我爸妈，也许我可以稍微提一点。就说是课间吧，但不要展开太多，先看看他接下来会怎么问。）"
+      }
+    }
+  ],
+  "created": 1794541618,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1190,
+    "total_tokens": 1302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

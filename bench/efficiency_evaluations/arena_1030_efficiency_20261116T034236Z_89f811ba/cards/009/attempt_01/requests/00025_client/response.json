@@ -1,0 +1,47 @@
+{
+  "id": "c604833d0fc84fb68fff1c5246578eac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就这周吧，她一般周末会来敲门。我想好了，到时候就说“今天不太方便”，说完不马上改口。谢谢你今天陪我理这些，我心里清楚多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询快结束了，她问我打算哪天试。我心里其实有点没底，但邻居让我拿快递这事确实常有，不用特意等。说“这周”比较实在，也给自己一点余地，不至于太逼自己。想到能带着这句话回去，心里稍微松了点，可又有点担心真到那会儿又软下来。）",
+        "reasoning": "（咨询快结束了，她问我打算哪天试。我心里其实有点没底，但邻居让我拿快递这事确实常有，不用特意等。说“这周”比较实在，也给自己一点余地，不至于太逼自己。想到能带着这句话回去，心里稍微松了点，可又有点担心真到那会儿又软下来。）"
+      }
+    }
+  ],
+  "created": 1794800996,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3580,
+    "total_tokens": 3691,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3328,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

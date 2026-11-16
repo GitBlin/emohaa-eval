@@ -1,0 +1,41 @@
+{
+  "id": "6a5a09ab1cf8442fad0451d15a8b8dd4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）念一遍……听起来不难，就是怕到时候脑子一乱就忘了。要不我把那句话记在手机备忘录里，进门前看一眼？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我进病房前先念那句话，听着挺简单的，但真到那个走廊上，心里全是事，怕是会忘。不过她说得也有道理，那句话是我自己说出来的，不是别人硬塞给我的。我得想想怎么把它带进去，不能光靠脑子记。）\n（手机倒是天天在手上，设个提醒可能有用，但设成什么？总不能写得太直白，被同事瞥见也怪别扭的。也许就一个词，或者一个符号，我自己知道什么意思就行。）",
+        "reasoning": "（她让我进病房前先念那句话，听着挺简单的，但真到那个走廊上，心里全是事，怕是会忘。不过她说得也有道理，那句话是我自己说出来的，不是别人硬塞给我的。我得想想怎么把它带进去，不能光靠脑子记。）\n（手机倒是天天在手上，设个提醒可能有用，但设成什么？总不能写得太直白，被同事瞥见也怪别扭的。也许就一个词，或者一个符号，我自己知道什么意思就行。）"
+      }
+    }
+  ],
+  "created": 1794553113,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3059,
+    "total_tokens": 3199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

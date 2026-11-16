@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:17.038460+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhiming and Jiancheng work together at the community center, they are preparing for a charity event. In the midst of the hustle, Zhiming inadvertently stops to look at the clock on the wall, a sense of urgency flashes across his face, then he looks at Jiancheng. Zhiming walks over to Jiancheng, talks to him for a few moments, and hands him a document with Zhiming's name on it. Jiancheng looks at the document, then nods, his expression is somewhat helpless. Zhiming smiles, pats Jiancheng on the back, and quickly walks away, it is not yet time to get off work. Jiancheng watches Zhiming's departing figure, then looks at the document in his hand again. Xiaoling is a team member of Zhiming and Jiancheng, she notices all of Zhiming's actions.\n\n[Question]\nWhy does Zhiming give Jiancheng that document?\n\n[Candidate Answers]\nA. Zhiming plans to let Jiancheng take over the part of the work he does not finish.\nB. Zhiming wants Jiancheng to deliver this document to the office of the community center.\nC. The document is a plan that Jiancheng gives to Zhiming before, Zhiming gives it to Jiancheng indicating that he rejects Jiancheng's plan.\nD. Zhiming admires Jiancheng's talent and hopes he can provide some creativity and ideas.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

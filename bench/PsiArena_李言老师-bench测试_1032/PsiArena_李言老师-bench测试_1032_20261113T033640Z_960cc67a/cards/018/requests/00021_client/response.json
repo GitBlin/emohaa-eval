@@ -1,0 +1,41 @@
+{
+  "id": "51db11132c324bb18046135b1201b0e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她先别急着追问，就说“好，你慢慢说”。这样我不会一下子被逼到墙角，也能感觉到她在等我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望妻子怎么回应，这让我有点意外，因为我自己都没想那么细。我其实更怕被追问，但也不想完全被晾着。）\n（也许我可以先让她别急着追问，等我准备好再慢慢说。这样既不会一下子被逼到墙角，也能让她知道我不是在拒绝她。）",
+        "reasoning": "（她问我希望妻子怎么回应，这让我有点意外，因为我自己都没想那么细。我其实更怕被追问，但也不想完全被晾着。）\n（也许我可以先让她别急着追问，等我准备好再慢慢说。这样既不会一下子被逼到墙角，也能让她知道我不是在拒绝她。）"
+      }
+    }
+  ],
+  "created": 1794548761,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2979,
+    "total_tokens": 3075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

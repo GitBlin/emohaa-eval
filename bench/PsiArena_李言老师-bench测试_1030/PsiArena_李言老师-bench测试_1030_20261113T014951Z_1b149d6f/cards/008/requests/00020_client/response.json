@@ -1,0 +1,41 @@
+{
+  "id": "7a9ca9628e0d47c68ad76d0b79415787",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天午休吧，找小林。她人比较稳，不会让我紧张。定下来我反而有点期待了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在帮我一步步落到具体行动上，问我哪天、找谁。我心里有点想试，可又怕自己临时退缩，所以得先把人选和时间定下来，这样好像更有把握。）\n（小林比较稳，不会让我觉得紧张。明天午休正好，拖太久我怕又找借口。先定这个，心里踏实一点。）",
+        "reasoning": "（她在帮我一步步落到具体行动上，问我哪天、找谁。我心里有点想试，可又怕自己临时退缩，所以得先把人选和时间定下来，这样好像更有把握。）\n（小林比较稳，不会让我觉得紧张。明天午休正好，拖太久我怕又找借口。先定这个，心里踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794535070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3043,
+    "total_tokens": 3140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

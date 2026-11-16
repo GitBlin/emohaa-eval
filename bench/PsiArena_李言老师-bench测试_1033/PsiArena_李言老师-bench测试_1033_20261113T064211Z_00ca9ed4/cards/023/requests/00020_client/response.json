@@ -1,0 +1,41 @@
+{
+  "id": "7f54a742ef4d4457a8261362300d36e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末他们一般会打电话来，我想就在那次电话里试。先自己练几遍，免得到时候一慌又绕回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把练习具体化，问我什么时候试第一次。我其实心里没底，家里一打电话就容易乱，但周末他们肯定会提相亲。我得给自己定个稍微有点把握的时间，不能太急也不能一直拖。）\n（想到要主动开口还是发怵，不过先自己练几遍可能稳一点。说出来之后，那种憋着的感觉也许能松一点，但要是他们又发火，我可能还是会难受。先把这步定下来吧。）",
+        "reasoning": "（咨询师在帮我把练习具体化，问我什么时候试第一次。我其实心里没底，家里一打电话就容易乱，但周末他们肯定会提相亲。我得给自己定个稍微有点把握的时间，不能太急也不能一直拖。）\n（想到要主动开口还是发怵，不过先自己练几遍可能稳一点。说出来之后，那种憋着的感觉也许能松一点，但要是他们又发火，我可能还是会难受。先把这步定下来吧。）"
+      }
+    }
+  ],
+  "created": 1794553150,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2980,
+    "total_tokens": 3112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

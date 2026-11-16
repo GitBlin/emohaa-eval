@@ -1,0 +1,41 @@
+{
+  "id": "7bb9404fdd184ec78569a1715ee14a06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像一直都有吧……我说不上来。（犹豫）有时候跟人说话，说着说着就觉得自己是不是说多了，会不会让人烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这种感觉是不是平时也有……我确实经常这样，但一下子说不清楚。好像不完全是最近的事，跟人相处时也会，可是为什么呢，我自己也讲不明白。）\n（我不想说得太深，又怕她追问下去。先含糊一点吧，就说好像一直都有，但不知道从哪来的。）",
+        "reasoning": "（她问这种感觉是不是平时也有……我确实经常这样，但一下子说不清楚。好像不完全是最近的事，跟人相处时也会，可是为什么呢，我自己也讲不明白。）\n（我不想说得太深，又怕她追问下去。先含糊一点吧，就说好像一直都有，但不知道从哪来的。）"
+      }
+    }
+  ],
+  "created": 1794557322,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1336,
+    "total_tokens": 1432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

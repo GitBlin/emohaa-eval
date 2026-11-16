@@ -1,0 +1,41 @@
+{
+  "id": "0693774ed68041cda90ec2ee4fa51bb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默）……没人说过吧。我妈那种人，不会说这种话的。她只会让我自己找原因。所以我自己听着，都觉得别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问这句话是不是从谁那里听来的，还是从来没人对我说过。我一下子就想到了家里，想到我妈，她好像从来没这样跟我说过话。每次我做得不好，她只会让我自己找原因，从来不会说“下次再试”这种话。）\n（想到这里心里有点发酸，好像确实没有人这样对我说过。可是我又有点不确定，也许别人家会说这种话？我是不是太在意这个了。可是真的，在我家，犯错就得检讨，哪有那么多“没关系下次再来”。）",
+        "reasoning": "（他问这句话是不是从谁那里听来的，还是从来没人对我说过。我一下子就想到了家里，想到我妈，她好像从来没这样跟我说过话。每次我做得不好，她只会让我自己找原因，从来不会说“下次再试”这种话。）\n（想到这里心里有点发酸，好像确实没有人这样对我说过。可是我又有点不确定，也许别人家会说这种话？我是不是太在意这个了。可是真的，在我家，犯错就得检讨，哪有那么多“没关系下次再来”。）"
+      }
+    }
+  ],
+  "created": 1794554924,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2886,
+    "total_tokens": 3028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

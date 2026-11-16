@@ -1,0 +1,41 @@
+{
+  "id": "7fecca319dc94d27911e102da301383d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不会。朋友这么说，我大概还会劝他别想太多。可这套到我自己身上就完全行不通，好像我对自己有另一套规矩。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问如果朋友说这话我会不会觉得是找借口……我第一反应当然是不会。可这又让我想起，我对别人和对自己的标准怎么差这么多。是不是我太习惯把责任全揽自己身上了，好像这样才安全。）\n（不过承认这点反而让我有点不安，好像一松手就会变成不负责任的人。但仔细想想，室友确实也碰过那袋东西，这不是我编出来的。）",
+        "reasoning": "（她问如果朋友说这话我会不会觉得是找借口……我第一反应当然是不会。可这又让我想起，我对别人和对自己的标准怎么差这么多。是不是我太习惯把责任全揽自己身上了，好像这样才安全。）\n（不过承认这点反而让我有点不安，好像一松手就会变成不负责任的人。但仔细想想，室友确实也碰过那袋东西，这不是我编出来的。）"
+      }
+    }
+  ],
+  "created": 1794536979,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2251,
+    "total_tokens": 2374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

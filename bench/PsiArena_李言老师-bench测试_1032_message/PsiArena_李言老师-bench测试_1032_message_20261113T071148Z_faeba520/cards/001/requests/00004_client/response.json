@@ -1,0 +1,41 @@
+{
+  "id": "0ad9cd8619ac4ccaa40181417394c425",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……也不是特别担心，就是……我爸妈平时管得比较多，什么都想知道。所以我想确认一下，你这边会不会也……什么都跟他们说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说会保密，但提到安全风险时还是会考虑告诉别人……让我有点不安。不过她好像注意到了我在担心什么，直接问了出来。我是不是该试探一下她的界限？）\n（爸妈确实总想知道我的一切，连我关着房门都要问东问西。如果咨询师也这样，我可能就不敢说太多了。但直接问“你会不会什么都跟我爸妈说”好像太冲了……还是先含糊地表达一下担心吧。）",
+        "reasoning": "（这个咨询师说会保密，但提到安全风险时还是会考虑告诉别人……让我有点不安。不过她好像注意到了我在担心什么，直接问了出来。我是不是该试探一下她的界限？）\n（爸妈确实总想知道我的一切，连我关着房门都要问东问西。如果咨询师也这样，我可能就不敢说太多了。但直接问“你会不会什么都跟我爸妈说”好像太冲了……还是先含糊地表达一下担心吧。）"
+      }
+    }
+  ],
+  "created": 1794553924,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1183,
+    "total_tokens": 1317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

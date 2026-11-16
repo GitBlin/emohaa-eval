@@ -1,0 +1,41 @@
+{
+  "id": "a80f55d46c7441f78ca25ea35ac88d17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实希望她说“没事”，或者问问我累不累。可在我家，好像没人说这种话，聊的都是成绩、排名。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望妈妈说什么……其实我从来没认真想过这个问题，因为好像想了也没用。但被这么一问，心里突然有点酸。）\n（在我家，大家很少说这种话。爸妈更关心我考了多少分、排第几名，很少问我累不累。我其实很想听妈妈说一句“没关系”，可我也知道她说不出口，她自己也活在那种压力里。）",
+        "reasoning": "（她问我希望妈妈说什么……其实我从来没认真想过这个问题，因为好像想了也没用。但被这么一问，心里突然有点酸。）\n（在我家，大家很少说这种话。爸妈更关心我考了多少分、排第几名，很少问我累不累。我其实很想听妈妈说一句“没关系”，可我也知道她说不出口，她自己也活在那种压力里。）"
+      }
+    }
+  ],
+  "created": 1794543984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1704,
+    "total_tokens": 1818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

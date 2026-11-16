@@ -1,0 +1,41 @@
+{
+  "id": "a27484c282594688be9380ef6895ed90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像一直都这样吧……从小就是这样。在我家，做什么决定都特别难，因为我总得先想我爸妈会怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这种“不好说什么”的感觉是不是最近才有。这让我想起从小到大都是这样，好像从来没有真正能自己做主的时候。她好像想让我看看这种憋屈是不是有更深的根源。）\n（在我家，做决定总是很困难，因为要顾虑父母的看法。小到穿什么衣服，大到选什么专业，他们都要管。我好像已经习惯了先想“他们会怎么说”，而不是“我想要什么”。这种感觉，其实一直都在。）",
+        "reasoning": "（咨询师问到这种“不好说什么”的感觉是不是最近才有。这让我想起从小到大都是这样，好像从来没有真正能自己做主的时候。她好像想让我看看这种憋屈是不是有更深的根源。）\n（在我家，做决定总是很困难，因为要顾虑父母的看法。小到穿什么衣服，大到选什么专业，他们都要管。我好像已经习惯了先想“他们会怎么说”，而不是“我想要什么”。这种感觉，其实一直都在。）"
+      }
+    }
+  ],
+  "created": 1794555199,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1557,
+    "total_tokens": 1680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

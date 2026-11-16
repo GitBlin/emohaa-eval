@@ -1,0 +1,41 @@
+{
+  "id": "32baa7960c374091b1233a3b89012166",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "下次见面吧，也不用等聚会，平时一起吃饭的时候说就行。我打算先试试，说了之后不管她怎么回，我都不往心里去太多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算什么时候去跟朋友说那句话。我心里有点打鼓，但刚才聊完好像没那么怕了。也许不用等到下次聚会那么正式，平时随口提一句反而更自然。）\n（我想了想，觉得可以先从这种平常的聊天开始试，不用搞得很郑重。她应该也不会觉得奇怪吧。不过说完之后她怎么反应，我可能还是会有点在意，得给自己提前打个预防针。）",
+        "reasoning": "（她问我打算什么时候去跟朋友说那句话。我心里有点打鼓，但刚才聊完好像没那么怕了。也许不用等到下次聚会那么正式，平时随口提一句反而更自然。）\n（我想了想，觉得可以先从这种平常的聊天开始试，不用搞得很郑重。她应该也不会觉得奇怪吧。不过说完之后她怎么反应，我可能还是会有点在意，得给自己提前打个预防针。）"
+      }
+    }
+  ],
+  "created": 1794552216,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2854,
+    "total_tokens": 2978,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

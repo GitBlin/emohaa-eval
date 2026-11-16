@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:55:41.599966+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhou Zihan always feels very hungry. Today at school, he has his favorite meal - sausages and beans. He is a very greedy boy, he wants to eat more sausages than anyone else, even though his mother cooks him a delicious meal when he gets home! But everyone only gets to eat two sausages, no more. When it is Zhou Zihan's turn to serve, he says, \"Oh, can you give me four sausages, because I don't eat dinner when I get home!\"\n\n[Question]\nWhy does Zhou Zihan say this?\n\n[Candidate Answers]\nA. Zhou Zihan is a very greedy person, he wants more sausages.\nB. Zhou Zihan does not get to eat sausages when he goes home.\nC. Zhou Zihan tries to arouse sympathy, is deceptive, in order to eat more sausages\nD. His mother cooks a delicious dinner for him, so Zhou Zihan does not need extra sausages.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

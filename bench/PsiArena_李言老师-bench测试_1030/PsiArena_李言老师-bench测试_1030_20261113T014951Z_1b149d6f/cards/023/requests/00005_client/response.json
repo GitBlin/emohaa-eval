@@ -1,0 +1,41 @@
+{
+  "id": "a5c0d7016e20406f9c7830df2aae7a2f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就上周吧，我妈打电话来，本来聊得好好的，后来又开始说谁谁家女儿结婚了……我一下子就火了，冲她吼了几句，挂了电话又后悔。唉，我也不知道自己怎么变成这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次堵得慌的情形，我脑子里马上想到上周那通电话。可我不想一上来就说得太细，毕竟才刚开始，我还摸不准她会不会像别人那样评判我。）\n（不过她语气挺稳的，没有逼我，那我就说个大概吧。说多了怕自己收不住，还是先含糊带过，看她怎么接。）",
+        "reasoning": "（她问我最近一次堵得慌的情形，我脑子里马上想到上周那通电话。可我不想一上来就说得太细，毕竟才刚开始，我还摸不准她会不会像别人那样评判我。）\n（不过她语气挺稳的，没有逼我，那我就说个大概吧。说多了怕自己收不住，还是先含糊带过，看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794535681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1332,
+    "total_tokens": 1456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

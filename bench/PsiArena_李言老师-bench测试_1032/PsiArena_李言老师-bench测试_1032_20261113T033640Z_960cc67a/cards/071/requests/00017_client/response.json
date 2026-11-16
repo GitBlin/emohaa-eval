@@ -1,0 +1,41 @@
+{
+  "id": "b118770289bb42c5b650c946749a4e81",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我想贴在电脑边上。不过我得先定个时间限制，不然看着看着又开始纠结了，可能给自己十分钟就选完。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在建议我把那句话放在容易看到的地方，这让我有点犹豫。虽然写下来感觉还可以，但真要实际去做，又怕自己做不到反而更沮丧。）\n（我想到可以贴在电脑边，这样每次做测试都能看到。不过得想个具体的时间限制，不能像以前那样无限纠结下去。）",
+        "reasoning": "（咨询师在建议我把那句话放在容易看到的地方，这让我有点犹豫。虽然写下来感觉还可以，但真要实际去做，又怕自己做不到反而更沮丧。）\n（我想到可以贴在电脑边，这样每次做测试都能看到。不过得想个具体的时间限制，不能像以前那样无限纠结下去。）"
+      }
+    }
+  ],
+  "created": 1794544934,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2631,
+    "total_tokens": 2729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b040b710908842d1b0ce8121f45d295c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一个人吧……我习惯了。说出来有点心酸，其实我也不是不想有人陪，就是觉得没人能真的接住，还不如自己扛着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想一个人还是有人陪。我第一反应就是不想让人看见，可这么一说又觉得有点心酸。其实我好像也不是真的想一个人，只是习惯了没人接住，干脆就不指望了。这种话平时根本不会讲。）\n（可刚才她说哭不丢人，我心里有点松动了。也许我可以试着承认，我其实希望有人能什么都不问地待着，但又怕真说出来显得自己太需要别人，太矫情。）",
+        "reasoning": "（她问我想一个人还是有人陪。我第一反应就是不想让人看见，可这么一说又觉得有点心酸。其实我好像也不是真的想一个人，只是习惯了没人接住，干脆就不指望了。这种话平时根本不会讲。）\n（可刚才她说哭不丢人，我心里有点松动了。也许我可以试着承认，我其实希望有人能什么都不问地待着，但又怕真说出来显得自己太需要别人，太矫情。）"
+      }
+    }
+  ],
+  "created": 1794539932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2489,
+    "total_tokens": 2618,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "03789b2614794437b59064cc074fb4f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清楚……可能都有吧。就是下班回家明明很累，但又停不下来，总想看手机。你说这算心里累吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我“累”是身体还是心里的，这让我有点不知道怎么回答。其实我自己也分不清，好像都有点吧。她看起来挺温和的，但我不确定该说多少，毕竟才刚开始。）\n（我习惯性地想保持一点距离，不想一下子暴露太多。而且我确实也不太清楚这种累到底算什么，可能只是最近事情多？但好像又不完全是。先含糊一点回答，看看她接下来会怎么问。）",
+        "reasoning": "（咨询师在问我“累”是身体还是心里的，这让我有点不知道怎么回答。其实我自己也分不清，好像都有点吧。她看起来挺温和的，但我不确定该说多少，毕竟才刚开始。）\n（我习惯性地想保持一点距离，不想一下子暴露太多。而且我确实也不太清楚这种累到底算什么，可能只是最近事情多？但好像又不完全是。先含糊一点回答，看看她接下来会怎么问。）"
+      }
+    }
+  ],
+  "created": 1794554074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 991,
+    "total_tokens": 1118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

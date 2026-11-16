@@ -1,0 +1,41 @@
+{
+  "id": "f5a5dbc6debd41cbb593051f87a0649c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低声）就是……累的时候想请个假，都不敢提。怕他们担心，也怕他们觉得我撑不住这个家。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我把什么话咽回去了，这让我心里一下子堵得慌。其实好多话都说不出口，尤其是累的时候，连请个假都不敢提。公婆年纪大了，我怕他们看出我不对劲，更怕他们觉得我撑不住。）\n（我丈夫走了以后，这个家就靠我撑着。我要是说自己累了，好像就对不起他们，也对不起他。这种话平时根本没人可以说，现在说出来，反倒有点想哭。）",
+        "reasoning": "（她问我把什么话咽回去了，这让我心里一下子堵得慌。其实好多话都说不出口，尤其是累的时候，连请个假都不敢提。公婆年纪大了，我怕他们看出我不对劲，更怕他们觉得我撑不住。）\n（我丈夫走了以后，这个家就靠我撑着。我要是说自己累了，好像就对不起他们，也对不起他。这种话平时根本没人可以说，现在说出来，反倒有点想哭。）"
+      }
+    }
+  ],
+  "created": 1794538971,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1654,
+    "total_tokens": 1782,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

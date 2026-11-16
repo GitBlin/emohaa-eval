@@ -1,0 +1,41 @@
+{
+  "id": "6c139ceecc494f03815a4317404f7fb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧，反正那时候它最清楚。不过一个人练会不会越练越想不开？还有相亲那边……我不知道该怎么跟我爸妈说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到先练一件小事，让我在心里分辨那个声音是谁的。这听起来比直接去相亲要容易一些，但我还是有点拿不准从哪儿开始。晚上那些念头最乱，也许先在那儿试试？不过又怕自己一个人容易陷进去。）\n（相亲的事肯定绕不开，可我现在还没准备好面对。先挑个没那么难的地方吧，至少能让自己少一点“必须马上解决”的压力。）",
+        "reasoning": "（咨询师提到先练一件小事，让我在心里分辨那个声音是谁的。这听起来比直接去相亲要容易一些，但我还是有点拿不准从哪儿开始。晚上那些念头最乱，也许先在那儿试试？不过又怕自己一个人容易陷进去。）\n（相亲的事肯定绕不开，可我现在还没准备好面对。先挑个没那么难的地方吧，至少能让自己少一点“必须马上解决”的压力。）"
+      }
+    }
+  ],
+  "created": 1794539973,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2804,
+    "total_tokens": 2923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

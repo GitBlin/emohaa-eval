@@ -1,0 +1,41 @@
+{
+  "id": "71c28f9a229043d2a1e21a0a8a943a77",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "熬夜吧。一集接一集，明明困了还想再看，好像停下来就要面对那种空落落的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我哪个更容易停不下来。其实两个都挺容易的，但熬夜更明显，因为一开始看剧就想着再看一集，结果一集接一集。零食至少吃完一包就没了，可剧是没完的。也许我可以先拿熬夜试着定个边界，比如只允许看一集，到点就关。这样不会太失控，也算给自己一点空间。）\n（不过说实话，我有点怀疑自己能不能做到。每次定规矩，开头还行，后来就找理由破例。但既然他问的是先试哪个，那就从熬夜开始吧，至少比一下子全改容易些。）",
+        "reasoning": "（他问我哪个更容易停不下来。其实两个都挺容易的，但熬夜更明显，因为一开始看剧就想着再看一集，结果一集接一集。零食至少吃完一包就没了，可剧是没完的。也许我可以先拿熬夜试着定个边界，比如只允许看一集，到点就关。这样不会太失控，也算给自己一点空间。）\n（不过说实话，我有点怀疑自己能不能做到。每次定规矩，开头还行，后来就找理由破例。但既然他问的是先试哪个，那就从熬夜开始吧，至少比一下子全改容易些。）"
+      }
+    }
+  ],
+  "created": 1794545644,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 2765,
+    "total_tokens": 2924,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 133,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

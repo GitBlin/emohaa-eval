@@ -1,0 +1,41 @@
+{
+  "id": "3da30fcc57984cc69de42daf0fdbd25e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是我爸妈吧。他们都是大学生，家里亲戚聊天也总说谁家孩子考了多少分、拿了什么奖。我听着就觉得，好像只有成绩好，我才是值得被夸的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这个标准是从哪儿来的……我其实心里清楚，就是家里。爸妈都是大学生，他们觉得学习好是理所当然的。每次亲戚聚会，他们聊的都是谁家孩子考了多少分、拿了什么奖，我在旁边听着就觉得喘不过气。好像只有成绩好，我才是值得被夸的。这种感觉很难说清楚，但确实从小就有了。）",
+        "reasoning": "（咨询师问到这个标准是从哪儿来的……我其实心里清楚，就是家里。爸妈都是大学生，他们觉得学习好是理所当然的。每次亲戚聚会，他们聊的都是谁家孩子考了多少分、拿了什么奖，我在旁边听着就觉得喘不过气。好像只有成绩好，我才是值得被夸的。这种感觉很难说清楚，但确实从小就有了。）"
+      }
+    }
+  ],
+  "created": 1794539545,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1603,
+    "total_tokens": 1724,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

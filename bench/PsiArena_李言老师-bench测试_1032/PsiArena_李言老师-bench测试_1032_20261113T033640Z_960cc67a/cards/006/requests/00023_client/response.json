@@ -1,0 +1,41 @@
+{
+  "id": "4ee8f5edeea64534937f7b3e1af68e8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一个人吧，平时话不多，也不怎么掺和那些事。不过他到底靠不靠得住，我也不敢打包票。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有放心的人选……我脑子里其实闪过一个人，但说出来又怕显得自己太天真。毕竟在单位里，谁知道谁靠不靠得住呢。）\n（不过她问得挺实际的，不是逼我立刻做什么，就是让我先想想。那我就稍微透一点吧，说有个同事还行，但话也不敢说太满。）",
+        "reasoning": "（她问我有没有放心的人选……我脑子里其实闪过一个人，但说出来又怕显得自己太天真。毕竟在单位里，谁知道谁靠不靠得住呢。）\n（不过她问得挺实际的，不是逼我立刻做什么，就是让我先想想。那我就稍微透一点吧，说有个同事还行，但话也不敢说太满。）"
+      }
+    }
+  ],
+  "created": 1794541459,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2986,
+    "total_tokens": 3088,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

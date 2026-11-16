@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_001719",
+  "sample_id": "Hinting Task Test:103",
+  "task_file": "Hinting Task Test",
+  "ability": "Intention: Intentions explanations",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "B",
+    "B": "D",
+    "C": "C",
+    "D": "A"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:33:57.278594+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:34:18.632106+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:34:42.190074+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T09:33:57.278594+00:00",
+  "finished_at": "2026-11-12T09:35:01.693910+00:00",
+  "elapsed_seconds": 64.41541147604585,
+  "user_id": "liyan_9f9486ffad24c361c99a9b712096c99e8114d602"
+}

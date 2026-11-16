@@ -1,0 +1,41 @@
+{
+  "id": "3a1e9a19714f4504a574a57d5c16a767",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下，点点头）有吧……其实有时候，我觉得跟你说话挺舒服的。（语气变得不安）可是我又会想，这样是不是不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在的感觉是不是接近我想要的那种。这让我想起之前咨询时那种被理解的感觉，确实很像。但这也让我意识到，我好像把这种需要都放在了咨询师一个人身上，这让我有点不安。）\n（我是不是又不知不觉地在依赖了？这种想法让我有点慌，好像自己做错了什么。我得说出来，但又怕说出来显得我很奇怪。）",
+        "reasoning": "（咨询师问我现在的感觉是不是接近我想要的那种。这让我想起之前咨询时那种被理解的感觉，确实很像。但这也让我意识到，我好像把这种需要都放在了咨询师一个人身上，这让我有点不安。）\n（我是不是又不知不觉地在依赖了？这种想法让我有点慌，好像自己做错了什么。我得说出来，但又怕说出来显得我很奇怪。）"
+      }
+    }
+  ],
+  "created": 1794555774,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2056,
+    "total_tokens": 2167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

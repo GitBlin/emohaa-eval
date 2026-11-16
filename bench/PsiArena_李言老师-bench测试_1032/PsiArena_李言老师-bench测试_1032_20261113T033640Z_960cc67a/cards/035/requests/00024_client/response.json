@@ -1,0 +1,41 @@
+{
+  "id": "fae4901c65574fa4a0e152ca01d3db45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是先委屈，然后才有点生气吧……但我一生气就会觉得自己是不是太计较。现在想想，我可能得允许自己把这些说出来，而不是又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我第一反应是委屈还是生气，这让我有点停顿。其实两种都有，但生气好像更先冒出来，只是我习惯压下去。承认生气让我有点不安，因为家里总说别添麻烦。）\n（不过现在聊到这儿，我确实更清楚自己不是只想忍着。我想把这种生气和委屈都认下来，也愿意试着在下次沟通里直接说出来，而不是又缩回去。）",
+        "reasoning": "（咨询师在问我第一反应是委屈还是生气，这让我有点停顿。其实两种都有，但生气好像更先冒出来，只是我习惯压下去。承认生气让我有点不安，因为家里总说别添麻烦。）\n（不过现在聊到这儿，我确实更清楚自己不是只想忍着。我想把这种生气和委屈都认下来，也愿意试着在下次沟通里直接说出来，而不是又缩回去。）"
+      }
+    }
+  ],
+  "created": 1794543014,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3351,
+    "total_tokens": 3478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

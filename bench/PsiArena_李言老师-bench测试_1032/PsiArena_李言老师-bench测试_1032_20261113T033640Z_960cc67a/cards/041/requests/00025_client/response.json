@@ -1,0 +1,41 @@
+{
+  "id": "43bec68a57fe4c3d918a1dd1f132fa85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想他先听我把话说完，别急着给我下结论。……不过我也知道，这可能得慢慢来，我先把那句边界的话练熟一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我希望他先听我说完还是先承认这句话让我不舒服。这个问题让我意识到自己其实一直很在意被完整倾听，而不是马上被贴标签。我想到刚才练习的边界表达，还有爸妈那种先下结论的语气，心里有点酸，但也清楚自己需要什么。）\n（我其实更希望他能先听完，不要急着笑我或反驳。这样我才能把话说完，而不是像以前那样憋回去。虽然还是有点担心他做不到，但至少我知道自己该往哪个方向努力了。）",
+        "reasoning": "（咨询师问的是我希望他先听我说完还是先承认这句话让我不舒服。这个问题让我意识到自己其实一直很在意被完整倾听，而不是马上被贴标签。我想到刚才练习的边界表达，还有爸妈那种先下结论的语气，心里有点酸，但也清楚自己需要什么。）\n（我其实更希望他能先听完，不要急着笑我或反驳。这样我才能把话说完，而不是像以前那样憋回去。虽然还是有点担心他做不到，但至少我知道自己该往哪个方向努力了。）"
+      }
+    }
+  ],
+  "created": 1794543172,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 3472,
+    "total_tokens": 3617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

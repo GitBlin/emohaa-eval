@@ -1,0 +1,41 @@
+{
+  "id": "6ea60c5e333f40fd9c67aa34e613a287",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就明天放学吧。（又有点紧张）不过……万一我到时候不敢开口呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我什么时候试第一次，我心里有点打鼓。明天放学路上问漫画，这个想法好像没那么难，可我又怕自己到时候会退缩。我想说得具体一点，给自己一个准话，但又忍不住担心临时不敢开口。）\n（不过老师之前一直陪着我理这些事，让我觉得说出来也没那么可怕。我想试试看，哪怕只是问一句漫画的事。要是真的没做到，我也可以再跟老师说说。）",
+        "reasoning": "（老师问我什么时候试第一次，我心里有点打鼓。明天放学路上问漫画，这个想法好像没那么难，可我又怕自己到时候会退缩。我想说得具体一点，给自己一个准话，但又忍不住担心临时不敢开口。）\n（不过老师之前一直陪着我理这些事，让我觉得说出来也没那么可怕。我想试试看，哪怕只是问一句漫画的事。要是真的没做到，我也可以再跟老师说说。）"
+      }
+    }
+  ],
+  "created": 1794554154,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2750,
+    "total_tokens": 2863,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

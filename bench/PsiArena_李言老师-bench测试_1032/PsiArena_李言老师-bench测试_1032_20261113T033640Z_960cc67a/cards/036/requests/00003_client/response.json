@@ -1,0 +1,41 @@
+{
+  "id": "eb6234b2598f400bb3bea20d1dd178d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在学校的时候吧，特别是上课那会儿。嗯……其他的我也说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候最难受，其实这个问题我可以说清楚的，但我不想一下子说太多。毕竟才刚开始，我还不确定这个人值不值得信任。）\n（而且我有点担心，如果我说得太具体，会不会被追问很多细节，到时候我又不知道怎么回答。还是先含糊一点吧，就说在学校的时候，其他的先不展开。）",
+        "reasoning": "（咨询师问我什么时候最难受，其实这个问题我可以说清楚的，但我不想一下子说太多。毕竟才刚开始，我还不确定这个人值不值得信任。）\n（而且我有点担心，如果我说得太具体，会不会被追问很多细节，到时候我又不知道怎么回答。还是先含糊一点吧，就说在学校的时候，其他的先不展开。）"
+      }
+    }
+  ],
+  "created": 1794551587,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 1060,
+    "total_tokens": 1148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

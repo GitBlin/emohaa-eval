@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:20:00.285582+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nMina's mother was trying a new recipe for dinner. When Mina came home after doing sports with her friends, she smelled something bad and asked her mom if some food had gone bad in the house.\n\n## Question 1\nWhat emotion(s) would Mina ultimately feel in this situation?\n\n## Choices for Question 1\nA) Amusement\nB) Disgust\nC) Gratitude\nD) Embarrassment\nE) Nervousness\nF) Disappointment\n\n## Question 2\nWhy would Mina feel these emotions in this situation?\n\n## Choices for Question 2\nA) Mina's mom used an ingredient that Mina hates\nB) Some food had gone bad in the house\nC) She sensed a bad smell\nD) She didn't want to criticize her mom's cooking\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

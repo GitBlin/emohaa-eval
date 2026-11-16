@@ -1,0 +1,41 @@
+{
+  "id": "9066bf0fa5b24ad4bfce57c316b4bdc7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记在手机备忘录里吧，我平时也会用。要不……再设个提醒，别到时候自己都忘了看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我记在哪里才会真想起来看，这问题挺实际的。我平时确实容易记了又忘，手机备忘录算是顺手，但光写下来可能不够，得给自己提个醒。）\n（也许可以设个提醒，或者干脆写在纸上放桌上，但那样又太刻意了。不过既然要改，就得具体点，不然又变成空想。先试试手机吧，加个提醒，看看能不能坚持住。）",
+        "reasoning": "（她问我记在哪里才会真想起来看，这问题挺实际的。我平时确实容易记了又忘，手机备忘录算是顺手，但光写下来可能不够，得给自己提个醒。）\n（也许可以设个提醒，或者干脆写在纸上放桌上，但那样又太刻意了。不过既然要改，就得具体点，不然又变成空想。先试试手机吧，加个提醒，看看能不能坚持住。）"
+      }
+    }
+  ],
+  "created": 1794536461,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3566,
+    "total_tokens": 3686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:33.283903+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n艾伦不小心把他儿子最喜欢的毛绒玩具落在公园里了。他没有去商场买一个新的，而是匆忙赶回去取，尽管那只是一个破旧的兔子玩具。\n\n## 问题 1\n在这种情况下，艾伦最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 无感\nB) 绝望\nC) 紧张\nD) 娱乐\nE) 好奇\nF) 失望\n\n## 问题 2\n艾伦为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 他可能找不到儿子最喜欢的玩具\nB) 他不确定他是否能在商场买到同样的玩具\nC) 艾伦担心再次迟到另一个约会\nD) 他对自己为儿子买玩具感到不安\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

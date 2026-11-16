@@ -1,0 +1,41 @@
+{
+  "id": "7101f0eccbdc4614957ce4fed4fe11e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "很少问。他们觉得只要我学习好，其他的都不重要。我有时候想，是不是我要求太多了……连跟室友提个作息都觉得是在麻烦别人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我父母有没有问过我心里的想法……这让我想起很多事。他们确实很少问，好像只要成绩好就够了。我其实一直希望他们能多关心一下我这个人，而不只是分数。）\n（但说出来又觉得有点矫情，毕竟他们也很辛苦。我可能已经习惯了这种相处方式，不太指望他们会改变。只是心里偶尔会有点空落落的。）",
+        "reasoning": "（咨询师问到我父母有没有问过我心里的想法……这让我想起很多事。他们确实很少问，好像只要成绩好就够了。我其实一直希望他们能多关心一下我这个人，而不只是分数。）\n（但说出来又觉得有点矫情，毕竟他们也很辛苦。我可能已经习惯了这种相处方式，不太指望他们会改变。只是心里偶尔会有点空落落的。）"
+      }
+    }
+  ],
+  "created": 1794554130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2110,
+    "total_tokens": 2228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

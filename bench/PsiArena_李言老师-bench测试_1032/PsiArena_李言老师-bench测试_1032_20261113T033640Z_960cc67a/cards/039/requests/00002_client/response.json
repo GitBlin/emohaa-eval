@@ -1,0 +1,41 @@
+{
+  "id": "fe9dd71556ec4d5ebe537a17dbf0e4be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实也说不清楚。就是最近总觉得心里堵得慌，晚上也睡不好，但要说具体为什么，我又讲不太明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说没有固定流程，让我按自己的节奏来……这让我稍微放松了一点，但又觉得有点不安。我确实不知道从哪件事开始说，心里乱糟糟的。）\n（我其实很怕一开口就说太多，万一对方觉得我矫情怎么办。还是先含糊一点吧，就说不太清楚为什么会难受，这样比较安全。）",
+        "reasoning": "（咨询师说没有固定流程，让我按自己的节奏来……这让我稍微放松了一点，但又觉得有点不安。我确实不知道从哪件事开始说，心里乱糟糟的。）\n（我其实很怕一开口就说太多，万一对方觉得我矫情怎么办。还是先含糊一点吧，就说不太清楚为什么会难受，这样比较安全。）"
+      }
+    }
+  ],
+  "created": 1794542934,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1020,
+    "total_tokens": 1126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

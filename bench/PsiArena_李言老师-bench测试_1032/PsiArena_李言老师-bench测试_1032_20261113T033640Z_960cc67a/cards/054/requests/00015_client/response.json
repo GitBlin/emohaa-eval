@@ -1,0 +1,41 @@
+{
+  "id": "930c34706fa54d8587e28ca596e5361d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……好像有一次她画完画拿给我看，我蹲下来听她讲，她说了好一会儿。那时候她没喊，我也没那么急。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我女儿有没有安静听我说话的时候，我脑子里一时有点乱。好像真的很少，她总是急急忙忙的，我也总是急急忙忙的。但仔细想想，也不是完全没有，就是那种很小很小的瞬间，小到我平时根本不会注意。）\n（我是不是一直只盯着她顶嘴的时候，把那些没吵起来的时刻都忽略了？也许我可以试着从这些小事开始，不指望一下子变好，但至少别再让早上的火气把一整天都烧掉。）",
+        "reasoning": "（咨询师在问我女儿有没有安静听我说话的时候，我脑子里一时有点乱。好像真的很少，她总是急急忙忙的，我也总是急急忙忙的。但仔细想想，也不是完全没有，就是那种很小很小的瞬间，小到我平时根本不会注意。）\n（我是不是一直只盯着她顶嘴的时候，把那些没吵起来的时刻都忽略了？也许我可以试着从这些小事开始，不指望一下子变好，但至少别再让早上的火气把一整天都烧掉。）"
+      }
+    }
+  ],
+  "created": 1794543851,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2340,
+    "total_tokens": 2481,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

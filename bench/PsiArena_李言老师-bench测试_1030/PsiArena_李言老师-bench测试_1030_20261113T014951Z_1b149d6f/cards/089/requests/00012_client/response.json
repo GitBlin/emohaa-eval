@@ -1,0 +1,41 @@
+{
+  "id": "7a2fa9459bfe4f149b642436d32a63b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头想了好一会儿）小时候吧。我家里做什么决定都是大人说了算，我要是说自己的想法，他们就说“你懂什么”。（苦笑）所以到现在，我好像都习惯先看别人脸色。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最早是什么时候开始的……这让我想起很小的时候，爸妈总是替我安排好一切，连我穿什么、学什么都要管。我好像从来就没有机会去练习“自己想要什么”，因为我的想法在他们眼里总是不够成熟。）\n（这种感觉一直延续到现在，让我在面对室友那种笃定的语气时，本能地就怀疑自己。也许问题不在于室友说了什么，而在于我早就习惯了把别人的判断放在自己前面。）",
+        "reasoning": "（她问我最早是什么时候开始的……这让我想起很小的时候，爸妈总是替我安排好一切，连我穿什么、学什么都要管。我好像从来就没有机会去练习“自己想要什么”，因为我的想法在他们眼里总是不够成熟。）\n（这种感觉一直延续到现在，让我在面对室友那种笃定的语气时，本能地就怀疑自己。也许问题不在于室友说了什么，而在于我早就习惯了把别人的判断放在自己前面。）"
+      }
+    }
+  ],
+  "created": 1794539578,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2191,
+    "total_tokens": 2328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

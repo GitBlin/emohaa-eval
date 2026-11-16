@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:34:17.178105+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ling promised to help her mom buy groceries. Her mom told her to make sure to buy carrots. When she left, she ran into her good friend, and they went to buy groceries together. Xiao Ling bought a lot of groceries and, in the joy of chatting, forgot to buy carrots. Her mom asks, \"Have you brought back all the groceries?\" Xiao Ling looks at the many groceries and thinks for a moment and says, \"I've brought them back.\"\n\n[Question]\nIs what Xiao Ling says true?\n\n[Candidate Answers]\nA. Yes\nB. No",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

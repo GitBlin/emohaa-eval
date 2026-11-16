@@ -1,0 +1,41 @@
+{
+  "id": "4879d27a981b44f69a0f0a9ee85321e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个朋友……可能会觉得有点被安慰到吧。不过换成我自己，就总觉得没资格这么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果对朋友说这句话会怎样……我好像从来没这么想过。对别人说这种话，好像比对自己说容易一点。我是不是对自己太苛刻了？）\n（不过要真的对自己说，还是觉得怪怪的。也许可以先从很小的事情开始试试？比如写作业累了的时候，允许自己停一下。）",
+        "reasoning": "（她问我如果对朋友说这句话会怎样……我好像从来没这么想过。对别人说这种话，好像比对自己说容易一点。我是不是对自己太苛刻了？）\n（不过要真的对自己说，还是觉得怪怪的。也许可以先从很小的事情开始试试？比如写作业累了的时候，允许自己停一下。）"
+      }
+    }
+  ],
+  "created": 1794537446,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2880,
+    "total_tokens": 2973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "54ecdaf561c948c4aae97b1bf8199465",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……那我想问一下，我们聊的这些，你会跟别人说吗？我就是有点担心，被认识的人知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她道歉了，还说不觉得我敏感，这让我稍微松了口气。不过刚才她那么快问家里的事，确实让我有点不安，我得再试探一下她是不是真的能守住界限。）\n（也许可以问问她会不会把我说的事情告诉别人，或者会不会因此对我有看法。这样既能把话题拉回安全范围，也能看看她怎么回应我的担心。）",
+        "reasoning": "（她道歉了，还说不觉得我敏感，这让我稍微松了口气。不过刚才她那么快问家里的事，确实让我有点不安，我得再试探一下她是不是真的能守住界限。）\n（也许可以问问她会不会把我说的事情告诉别人，或者会不会因此对我有看法。这样既能把话题拉回安全范围，也能看看她怎么回应我的担心。）"
+      }
+    }
+  ],
+  "created": 1794535011,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1414,
+    "total_tokens": 1519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7007f422c91d485d9a8b6bcf839a6904",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（眼眶有点热）我想跟她说……你没有做错什么，不用总是先低头。……说出来，好像心里松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我对小时候那个先低头的自己说句话……这让我心里有点发酸。我好像从来没这样想过，也从来没人告诉过我可以不那样。）\n（那个小孩总是先认错，其实只是想让家里的气氛快点好起来。我想告诉她，她没有做错什么，不用总是先低头。说出来的时候，我好像也松了一口气。）",
+        "reasoning": "（咨询师让我对小时候那个先低头的自己说句话……这让我心里有点发酸。我好像从来没这样想过，也从来没人告诉过我可以不那样。）\n（那个小孩总是先认错，其实只是想让家里的气氛快点好起来。我想告诉她，她没有做错什么，不用总是先低头。说出来的时候，我好像也松了一口气。）"
+      }
+    }
+  ],
+  "created": 1794555667,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3530,
+    "total_tokens": 3633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

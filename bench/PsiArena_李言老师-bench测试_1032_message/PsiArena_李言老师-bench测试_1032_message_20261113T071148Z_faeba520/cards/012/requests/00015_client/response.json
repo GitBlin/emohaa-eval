@@ -1,0 +1,41 @@
+{
+  "id": "bd4e7ac56cee4066b38e031f98e0559c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说……（有些迟疑）我从来没这么想过。总觉得撑下来是应该的，哪有什么辛苦。（停顿）不过，也许可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对自己说那句话……我从来没这么想过。对自己说“辛苦了”？听起来怪怪的，好像有点矫情。可是她这么认真地问，我要是直接拒绝，好像也不太好。）\n（我想起每次撑到快崩溃的时候，都是自己硬扛过来的。可就算这样，我还是觉得是自己做得不够好，哪有什么辛苦可言。也许……也许可以试着说一次，反正只是说说而已，又不会怎样。）",
+        "reasoning": "（她让我对自己说那句话……我从来没这么想过。对自己说“辛苦了”？听起来怪怪的，好像有点矫情。可是她这么认真地问，我要是直接拒绝，好像也不太好。）\n（我想起每次撑到快崩溃的时候，都是自己硬扛过来的。可就算这样，我还是觉得是自己做得不够好，哪有什么辛苦可言。也许……也许可以试着说一次，反正只是说说而已，又不会怎样。）"
+      }
+    }
+  ],
+  "created": 1794554534,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2180,
+    "total_tokens": 2303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

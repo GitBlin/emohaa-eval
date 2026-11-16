@@ -1,0 +1,41 @@
+{
+  "id": "961bed7a1b694acfb0cc4e4f2b204a43",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我愿意来。上次回去之后我一直在想“输不起”这三个字……其实我小时候，我爸妈对我学习也特别严，考不好就冷着脸。我现在这样，是不是有点像他们了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意下次再来，看来是真的在关心我，不是敷衍。上次说“输不起”那句话，回去后我一直在想，为什么对女儿就这么放不下。）\n（小时候我爸妈对我就是这样，考不好就冷着脸，我那时候就暗暗发誓以后绝不对孩子这样。可现在我好像变成了他们。这个念头一直压在心里，今天也许可以说出来。）",
+        "reasoning": "（她问我愿不愿意下次再来，看来是真的在关心我，不是敷衍。上次说“输不起”那句话，回去后我一直在想，为什么对女儿就这么放不下。）\n（小时候我爸妈对我就是这样，考不好就冷着脸，我那时候就暗暗发誓以后绝不对孩子这样。可现在我好像变成了他们。这个念头一直压在心里，今天也许可以说出来。）"
+      }
+    }
+  ],
+  "created": 1794555045,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1545,
+    "total_tokens": 1670,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

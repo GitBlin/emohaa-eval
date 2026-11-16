@@ -1,0 +1,41 @@
+{
+  "id": "f9d1ae9ca38d4bd2ae9b961b4c649ae5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我可以试试。但……要是五分钟到了，我还是忍不住去翻手机，是不是又失败了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试五分钟的小改变，这让我有点心动，但又怕自己做不到。她好像很坚持这个方向，可我心里还是没底，万一失败了会不会更沮丧。）\n（不过她说的对，先别想太久，就五分钟。我可以先答应试试，但得让她知道我的顾虑。毕竟那些睡前的小事已经成了习惯，突然放下手机，那种空落落的感觉可能会让我更难受。）",
+        "reasoning": "（咨询师在鼓励我尝试五分钟的小改变，这让我有点心动，但又怕自己做不到。她好像很坚持这个方向，可我心里还是没底，万一失败了会不会更沮丧。）\n（不过她说的对，先别想太久，就五分钟。我可以先答应试试，但得让她知道我的顾虑。毕竟那些睡前的小事已经成了习惯，突然放下手机，那种空落落的感觉可能会让我更难受。）"
+      }
+    }
+  ],
+  "created": 1794550990,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2870,
+    "total_tokens": 2983,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

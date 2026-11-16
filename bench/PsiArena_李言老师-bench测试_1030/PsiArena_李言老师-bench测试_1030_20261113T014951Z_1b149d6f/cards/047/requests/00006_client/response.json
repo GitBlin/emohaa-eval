@@ -1,0 +1,41 @@
+{
+  "id": "444efbbfc5cc45fd9f1c09060ab18ed7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "脑子挺乱的……好像在想第二天上课的事，又想到同事会不会觉得我怪。（声音低下去）身体嘛，就是胸口闷闷的，喉咙发紧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在哭之前脑子里想什么，身体什么感觉。我其实不太想这么快说太深，可昨晚那种感觉又确实堵在那里，好像不说出来就一直在胸口。）\n（想着想着就有点乱，脑子里全是工作的事，还有同事怎么看我。我有点怕说多了显得自己太没用，可又觉得她好像真的在听。）",
+        "reasoning": "（她问我在哭之前脑子里想什么，身体什么感觉。我其实不太想这么快说太深，可昨晚那种感觉又确实堵在那里，好像不说出来就一直在胸口。）\n（想着想着就有点乱，脑子里全是工作的事，还有同事怎么看我。我有点怕说多了显得自己太没用，可又觉得她好像真的在听。）"
+      }
+    }
+  ],
+  "created": 1794536766,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1377,
+    "total_tokens": 1489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

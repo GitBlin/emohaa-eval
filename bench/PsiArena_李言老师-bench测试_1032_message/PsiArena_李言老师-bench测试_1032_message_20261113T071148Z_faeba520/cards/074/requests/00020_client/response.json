@@ -1,0 +1,41 @@
+{
+  "id": "19368611d31e44c59e1c2a5a88b3fc8e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，对。不用回话的时候，我好像才是我自己。不过一回到公司，就又变回那个“行吧”的人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“不用回话”让我松一口气，这让我想到自己平时总是急着回应别人，连洗澡走路都怕漏掉消息。她好像真的在帮我找出那些能让自己喘息的时刻。）\n（或许我可以顺着这个思路，想想在具体的事情上怎么给自己留一点空间。比如下次同事再推活儿过来，能不能试着先不马上答应，给自己一点缓冲的时间。）",
+        "reasoning": "（咨询师提到“不用回话”让我松一口气，这让我想到自己平时总是急着回应别人，连洗澡走路都怕漏掉消息。她好像真的在帮我找出那些能让自己喘息的时刻。）\n（或许我可以顺着这个思路，想想在具体的事情上怎么给自己留一点空间。比如下次同事再推活儿过来，能不能试着先不马上答应，给自己一点缓冲的时间。）"
+      }
+    }
+  ],
+  "created": 1794557394,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2831,
+    "total_tokens": 2946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

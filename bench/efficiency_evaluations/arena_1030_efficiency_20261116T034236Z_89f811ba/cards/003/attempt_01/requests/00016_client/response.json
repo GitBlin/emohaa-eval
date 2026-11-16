@@ -1,0 +1,47 @@
+{
+  "id": "5aa8ee879daf4ec8845f8e052997bb36",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能想一晚上，翻来覆去的。有时候第二天上班看到小周，还会有点不自在。……你说，我这样是不是挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到“事后复盘”持续多久，这让我意识到自己确实经常陷在这种反复回想里。也许可以借这个机会，把那种停不下来的感觉说得具体一点，但也不用一下子讲太深。）\n（想到“停不下来”这个词，好像能抓住那种循环的感觉。如果能在当时就停下来，或许会好一些，但具体怎么做我还没想清楚。）",
+        "reasoning": "（咨询师问到“事后复盘”持续多久，这让我意识到自己确实经常陷在这种反复回想里。也许可以借这个机会，把那种停不下来的感觉说得具体一点，但也不用一下子讲太深。）\n（想到“停不下来”这个词，好像能抓住那种循环的感觉。如果能在当时就停下来，或许会好一些，但具体怎么做我还没想清楚。）"
+      }
+    }
+  ],
+  "created": 1794800635,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2671,
+    "total_tokens": 2784,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

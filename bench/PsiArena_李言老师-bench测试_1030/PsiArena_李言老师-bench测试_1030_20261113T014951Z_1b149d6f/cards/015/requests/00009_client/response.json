@@ -1,0 +1,41 @@
+{
+  "id": "df4f7774076544d4b6d6e7c69c8c0fdf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最想对我妈说吧……但那时候她也忙，也累，家里的事她自己也顾不过来。说了又能怎么样呢，好像也没什么用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到最想对谁说，这让我想起小时候躲在房间里听着外面争吵的声音，那种没人可以说的感觉又涌上来了。她好像看穿了我一直憋着的原因，让我有点想哭。）\n（我想到我妈，但马上又觉得说了也没用。她那时候自己都顾不过来，哪还有力气听我说。而且家里的事，说了又能怎样呢，还不是一样。）",
+        "reasoning": "（咨询师问到最想对谁说，这让我想起小时候躲在房间里听着外面争吵的声音，那种没人可以说的感觉又涌上来了。她好像看穿了我一直憋着的原因，让我有点想哭。）\n（我想到我妈，但马上又觉得说了也没用。她那时候自己都顾不过来，哪还有力气听我说。而且家里的事，说了又能怎样呢，还不是一样。）"
+      }
+    }
+  ],
+  "created": 1794535303,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1798,
+    "total_tokens": 1913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

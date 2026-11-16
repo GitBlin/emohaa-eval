@@ -1,0 +1,41 @@
+{
+  "id": "be39c1e7ccbc44e3b6af76e5ab57ce5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……有时候是空，有时候是烦。我也说不清，可能是我自己太敏感了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师好像真的在认真听我说话，没有急着给我下结论。她问我是觉得空还是烦躁委屈……其实都有吧，但我不太想这么快就说太多。毕竟才刚开始，我还不太确定她能不能理解我这种感受。）\n（说到宿舍晚上，我就想起室友打游戏的声音，心里就烦。但我又不想显得自己太计较，好像是我在挑事一样。也许先含糊一点回答，看看她接下来怎么问。）",
+        "reasoning": "（这位咨询师好像真的在认真听我说话，没有急着给我下结论。她问我是觉得空还是烦躁委屈……其实都有吧，但我不太想这么快就说太多。毕竟才刚开始，我还不太确定她能不能理解我这种感受。）\n（说到宿舍晚上，我就想起室友打游戏的声音，心里就烦。但我又不想显得自己太计较，好像是我在挑事一样。也许先含糊一点回答，看看她接下来怎么问。）"
+      }
+    }
+  ],
+  "created": 1794554099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1412,
+    "total_tokens": 1532,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

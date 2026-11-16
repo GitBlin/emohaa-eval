@@ -1,0 +1,41 @@
+{
+  "id": "3ce45facdf1846549cdcee4a096ffe94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧。我记得有次考了不错的分数，家里也没怎么夸，只问我下次能不能更好。后来我就觉得，闲着或者差不多，好像都不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起“不该闲着”的感觉最早是什么时候，这让我想起小时候在家里的那种氛围。父母总是把努力和成果挂在嘴边，好像放松就是错的。这种记忆其实挺深的，但平时不太愿意去碰。）\n（现在说出来，心里有点堵，也有点说不清的委屈。可能我一直都在按他们的期望活着，连休息都觉得不安。这种被盯着的感觉，真的挺累的。）",
+        "reasoning": "（咨询师问起“不该闲着”的感觉最早是什么时候，这让我想起小时候在家里的那种氛围。父母总是把努力和成果挂在嘴边，好像放松就是错的。这种记忆其实挺深的，但平时不太愿意去碰。）\n（现在说出来，心里有点堵，也有点说不清的委屈。可能我一直都在按他们的期望活着，连休息都觉得不安。这种被盯着的感觉，真的挺累的。）"
+      }
+    }
+  ],
+  "created": 1794555806,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1831,
+    "total_tokens": 1954,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:32.124527+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nDue to her expertise in the field, Naomi has been tasked to lead an important project at work. However, the project does not align with her experiences and she feels unsure about how to approach it.\n\n## Question \nIn this scenario, what is the most effective Action for Naomi?\n\n## Choices\nA) Proceed with the project with the risk of making mistakes\nB) Request her supervisor to reassess the situation\nC) Lean on other team members to help shape the path forward\nD) Refuse to lead the project due to uncertainty\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

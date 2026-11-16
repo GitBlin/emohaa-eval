@@ -1,0 +1,41 @@
+{
+  "id": "ca68f9c6c01e45c1989436ea50680311",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "以前的事……其实就是有些事我从来没跟别人讲过。我爸妈他们觉得小孩子哪有那么多心事，好好学习就行了。我要是说了，他们可能还嫌我矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我愿不愿意多说以前的事，她一直很耐心，没有急着给我建议。也许我可以试着说一点，反正她说过会保密。但真要开口还是有点难，那些事我从来没跟别人讲过。）\n（想到爸妈，心里就有点堵。他们总觉得我什么都不用操心，只要管好学习就行，可我心里的事他们根本不知道。说出来可能还会被说想太多，不如不说。）",
+        "reasoning": "（咨询师问我愿不愿意多说以前的事，她一直很耐心，没有急着给我建议。也许我可以试着说一点，反正她说过会保密。但真要开口还是有点难，那些事我从来没跟别人讲过。）\n（想到爸妈，心里就有点堵。他们总觉得我什么都不用操心，只要管好学习就行，可我心里的事他们根本不知道。说出来可能还会被说想太多，不如不说。）"
+      }
+    }
+  ],
+  "created": 1794558194,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1521,
+    "total_tokens": 1646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

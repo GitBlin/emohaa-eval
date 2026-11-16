@@ -1,0 +1,41 @@
+{
+  "id": "b9476e2ac7664977919a29fea948c7be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他们先理解，我不是不想找，而是需要时间弄清楚自己。别一上来就替我安排，我会更想逃。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望父母先理解我哪一点，这让我有点为难。他们总是急着让我相亲，好像我不去就是有问题。可我真的需要时间弄清楚自己到底想要什么，而不是被逼着做决定。）\n（也许我可以试着说出这个想法，但又怕他们觉得我在找借口。不过既然咨询师问了，还是得说清楚，哪怕只是表达一下希望他们别催得太紧。）",
+        "reasoning": "（咨询师问我希望父母先理解我哪一点，这让我有点为难。他们总是急着让我相亲，好像我不去就是有问题。可我真的需要时间弄清楚自己到底想要什么，而不是被逼着做决定。）\n（也许我可以试着说出这个想法，但又怕他们觉得我在找借口。不过既然咨询师问了，还是得说清楚，哪怕只是表达一下希望他们别催得太紧。）"
+      }
+    }
+  ],
+  "created": 1794546119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2440,
+    "total_tokens": 2553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

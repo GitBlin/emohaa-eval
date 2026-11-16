@@ -1,0 +1,41 @@
+{
+  "id": "eb860898b284466daa1f2aca250f95c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会有点慌，觉得自己不配。可你说的“只是收下”，我好像……也想试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问如果这次什么都不还就只是收下，心里会冒出什么。我第一反应是害怕，好像白拿别人的好，自己就不配。可又有点想试试，万一真的可以呢。这种念头让我觉得陌生又有点松动。）\n（也许我可以先承认这种害怕，再说出那个“试试”的念头。不用把话说得太满，先看看咨询师怎么接。）",
+        "reasoning": "（她问如果这次什么都不还就只是收下，心里会冒出什么。我第一反应是害怕，好像白拿别人的好，自己就不配。可又有点想试试，万一真的可以呢。这种念头让我觉得陌生又有点松动。）\n（也许我可以先承认这种害怕，再说出那个“试试”的念头。不用把话说得太满，先看看咨询师怎么接。）"
+      }
+    }
+  ],
+  "created": 1794538872,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3343,
+    "total_tokens": 3450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

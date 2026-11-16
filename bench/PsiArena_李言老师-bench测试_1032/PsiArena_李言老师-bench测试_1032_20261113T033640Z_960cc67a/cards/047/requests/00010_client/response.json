@@ -1,0 +1,41 @@
+{
+  "id": "ef81acf03da84b76be91befdc780a54c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有次在办公室，同事随口说我“太容易激动了”，我当时笑着过去了，可回家越想越难受。好像从小到大，家里都说我情绪多，现在又觉得这样不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次担心被看轻的具体场景，这让我想起很多小时候的事。家里总是鼓励表达情绪，可到了学校又好像不该这样，这种矛盾一直让我很纠结。）\n（我想到小时候一哭父母就会来安慰，可同事却觉得我太敏感，这种对比让我更怀疑自己是不是真的有问题。也许我该把这些说出来，但又怕显得太脆弱。）",
+        "reasoning": "（咨询师在问我最近一次担心被看轻的具体场景，这让我想起很多小时候的事。家里总是鼓励表达情绪，可到了学校又好像不该这样，这种矛盾一直让我很纠结。）\n（我想到小时候一哭父母就会来安慰，可同事却觉得我太敏感，这种对比让我更怀疑自己是不是真的有问题。也许我该把这些说出来，但又怕显得太脆弱。）"
+      }
+    }
+  ],
+  "created": 1794543454,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1743,
+    "total_tokens": 1869,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "d831154e3bc846cebe9866b05e0db183",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）说不想留，好像又有点舍不得，它好歹护过我。可留着，我又一直这么累。（轻轻吸气）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“还想留着吗”，我听到这句话时有点被戳到了。这个习惯我当然知道它不好，可要我说“不想留”，又好像太轻巧了。）\n（它陪了我那么多年，像一层壳。我有点犹豫，不知道如果真放下它，自己会不会更空。也许我可以先承认它帮过我，再慢慢说想不想改。）",
+        "reasoning": "（她问我“还想留着吗”，我听到这句话时有点被戳到了。这个习惯我当然知道它不好，可要我说“不想留”，又好像太轻巧了。）\n（它陪了我那么多年，像一层壳。我有点犹豫，不知道如果真放下它，自己会不会更空。也许我可以先承认它帮过我，再慢慢说想不想改。）"
+      }
+    }
+  ],
+  "created": 1794800665,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3370,
+    "total_tokens": 3479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3f426bfa34364ceb9675293e36cfbbbe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“你怎么又这样，这点事都做不好”……说出来听着还挺狠的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我较劲时心里冒出来的那句话，这让我有点不舒服，因为那些话其实挺伤人的。不过现在好像可以试着说出来，毕竟前面已经聊了这么多。）\n（那些话听起来确实很苛刻，说出来可能会显得我对自己太狠了。但也许说出来反而能看清它们有多不合理，就像咨询师说的，能意识到就是在松动习惯。）",
+        "reasoning": "（咨询师在问我较劲时心里冒出来的那句话，这让我有点不舒服，因为那些话其实挺伤人的。不过现在好像可以试着说出来，毕竟前面已经聊了这么多。）\n（那些话听起来确实很苛刻，说出来可能会显得我对自己太狠了。但也许说出来反而能看清它们有多不合理，就像咨询师说的，能意识到就是在松动习惯。）"
+      }
+    }
+  ],
+  "created": 1794558475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2372,
+    "total_tokens": 2471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

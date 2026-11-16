@@ -1,0 +1,41 @@
+{
+  "id": "82432d8c6e574931a08df06f7ec65cba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "后天就有个例会，人还挺多的。说实话现在想想就有点发怵，但正好可以试一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我下一次开会是什么时候，这是在帮我把刚才定的标准落到具体时间上。我脑子里先冒出来的是后天那个例会，人多，那个年轻人肯定又要说点什么。）\n（想到这个具体场景，心里还是有点发紧，毕竟以前每次这种会我都容易绷着。不过刚才已经说了要给自己留余地，那就试试吧。说出来之后，好像也没那么吓人。）",
+        "reasoning": "（咨询师在问我下一次开会是什么时候，这是在帮我把刚才定的标准落到具体时间上。我脑子里先冒出来的是后天那个例会，人多，那个年轻人肯定又要说点什么。）\n（想到这个具体场景，心里还是有点发紧，毕竟以前每次这种会我都容易绷着。不过刚才已经说了要给自己留余地，那就试试吧。说出来之后，好像也没那么吓人。）"
+      }
+    }
+  ],
+  "created": 1794539293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3512,
+    "total_tokens": 3622,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

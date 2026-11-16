@@ -1,0 +1,41 @@
+{
+  "id": "f2553120e1864dca9d94c9a86c1a2069",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）可能……是我妈吧。可那时候她自己也很难，我不想再给她添麻烦。所以就没说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那时候最想让谁听见……这个问题让我心里有点发酸。其实我从来没想过这个问题，好像习惯了把感受藏起来，连自己都忘了需要被谁听见。）\n（现在她这么一问，我脑子里第一个冒出来的居然是我妈。可这个念头让我有点别扭，因为那时候她自己也很难，我好像不该再给她添麻烦。但说真的，那时候我多希望她能抱抱我，告诉我没事。）",
+        "reasoning": "（她问我那时候最想让谁听见……这个问题让我心里有点发酸。其实我从来没想过这个问题，好像习惯了把感受藏起来，连自己都忘了需要被谁听见。）\n（现在她这么一问，我脑子里第一个冒出来的居然是我妈。可这个念头让我有点别扭，因为那时候她自己也很难，我好像不该再给她添麻烦。但说真的，那时候我多希望她能抱抱我，告诉我没事。）"
+      }
+    }
+  ],
+  "created": 1794552180,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1935,
+    "total_tokens": 2053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

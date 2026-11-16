@@ -1,0 +1,41 @@
+{
+  "id": "d6daf2a9b48f4d9d8ac746be28a6bfb5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在弹琴少了……不过以前一坐到琴凳上，肩膀就先紧了。我妈倒不是凶，就是那种“你可以更好”的语气，让我总觉得差一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是弹琴时会不会先注意到肩膀发紧。这让我一下子想到小时候练琴的场景，那种被盯着的感觉又回来了。我有点不想直接回答，因为那会带出更多关于我妈的事。）\n（其实我早就不怎么弹琴了，但身体记得那种紧张。我不想让她觉得我是在怪我妈，可又忍不住想解释。也许我可以先承认现在弹琴少了，再慢慢说家里的那种氛围，这样不会显得太激动。）",
+        "reasoning": "（她问的是弹琴时会不会先注意到肩膀发紧。这让我一下子想到小时候练琴的场景，那种被盯着的感觉又回来了。我有点不想直接回答，因为那会带出更多关于我妈的事。）\n（其实我早就不怎么弹琴了，但身体记得那种紧张。我不想让她觉得我是在怪我妈，可又忍不住想解释。也许我可以先承认现在弹琴少了，再慢慢说家里的那种氛围，这样不会显得太激动。）"
+      }
+    }
+  ],
+  "created": 1794544758,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1773,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

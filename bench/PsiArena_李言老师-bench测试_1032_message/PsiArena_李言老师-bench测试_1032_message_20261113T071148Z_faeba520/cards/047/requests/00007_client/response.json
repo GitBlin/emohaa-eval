@@ -1,0 +1,41 @@
+{
+  "id": "2d8097a4e64040ca9da179868d0b616d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喉咙会发紧，胸口也闷闷的……有点像堵着一团东西，上不来也下不去。说起来，这种描述是不是有点夸张了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体反应，好像是想帮我更具体地感受那种情绪。我确实能感觉到一些身体上的变化，但说出来有点难为情，怕显得太夸张。）\n（不过她一直很耐心，没有急着下结论，也许我可以试着描述一下。喉咙和胸口的感觉确实很明显，说出来应该没关系吧。）",
+        "reasoning": "（咨询师问我身体反应，好像是想帮我更具体地感受那种情绪。我确实能感觉到一些身体上的变化，但说出来有点难为情，怕显得太夸张。）\n（不过她一直很耐心，没有急着下结论，也许我可以试着描述一下。喉咙和胸口的感觉确实很明显，说出来应该没关系吧。）"
+      }
+    }
+  ],
+  "created": 1794555870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1446,
+    "total_tokens": 1548,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "be88d9c201854b118bb57f9abda84113",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句话……可能是“是不是我做错什么了”。不过，你会不会觉得我这样想有点太敏感了？我是说，你会不会觉得我太在意别人了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我等不到消息时心里的第一句话，这让我有点紧张。她好像很自然地就问到更深的地方了，但我还没准备好完全信任她。我得先试探一下，看看她到底会怎么对待我的这些感受。）\n（也许我可以先含糊地回应一下，然后反过来问她一个问题，看看她会不会给我一些超出咨询范围的建议或者安慰。这样既能保持距离，又能测试她的界限感。）",
+        "reasoning": "（咨询师在问我等不到消息时心里的第一句话，这让我有点紧张。她好像很自然地就问到更深的地方了，但我还没准备好完全信任她。我得先试探一下，看看她到底会怎么对待我的这些感受。）\n（也许我可以先含糊地回应一下，然后反过来问她一个问题，看看她会不会给我一些超出咨询范围的建议或者安慰。这样既能保持距离，又能测试她的界限感。）"
+      }
+    }
+  ],
+  "created": 1794800698,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1185,
+    "total_tokens": 1310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

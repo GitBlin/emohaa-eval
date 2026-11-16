@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:42:07.294423+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n罗伯有一件旧的红色t恤，他想扔掉。一天，他的朋友安德鲁向他借这件t恤参加一个聚会。第二天，安德鲁来找罗伯，很抱歉地告诉他，他把t恤弄丢了。\n\n## 问题\n在这个场景中，罗伯最有效的Action是什么？\n\n## 选项\nA) 表达原谅和理解\nB) 要求对方买一件类似价值或风格的t恤\nC) 说明这是没关系的，因为这件t恤对他没有任何价值\nD) 选择以后不再借给安德鲁任何东西\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

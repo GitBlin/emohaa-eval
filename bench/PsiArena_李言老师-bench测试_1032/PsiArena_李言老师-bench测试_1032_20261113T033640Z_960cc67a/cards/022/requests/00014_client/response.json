@@ -1,0 +1,41 @@
+{
+  "id": "f1a3ae2c75064df68ce3b2e52b18296a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像我妈的语气……说出来有点怪。她那种平平的、挑毛病的声音，我自己在心里学得挺像的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个声音最像谁的语气，我一下子有点愣住。以前没仔细想过，但脑子里确实有个声音一直在挑毛病，那种语气……好像就是我妈的。说出来会有点难堪，但好像又确实是这么回事。）\n（承认这一点让我心里有点发紧，好像暴露了什么。可我也不想再绕了，既然都聊到这儿了，就照实说吧。只是说出来之后，那种堵着的感觉又冒上来了。）",
+        "reasoning": "（咨询师问这个声音最像谁的语气，我一下子有点愣住。以前没仔细想过，但脑子里确实有个声音一直在挑毛病，那种语气……好像就是我妈的。说出来会有点难堪，但好像又确实是这么回事。）\n（承认这一点让我心里有点发紧，好像暴露了什么。可我也不想再绕了，既然都聊到这儿了，就照实说吧。只是说出来之后，那种堵着的感觉又冒上来了。）"
+      }
+    }
+  ],
+  "created": 1794542227,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2243,
+    "total_tokens": 2367,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

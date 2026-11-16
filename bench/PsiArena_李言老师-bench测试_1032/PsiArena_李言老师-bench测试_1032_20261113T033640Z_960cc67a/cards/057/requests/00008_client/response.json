@@ -1,0 +1,41 @@
+{
+  "id": "eff2d2d3040549619aa096cd0eb15774",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……就是每次考完，我妈会问我排多少名。我一说，她就“哦”一声，然后不说话。那种沉默，比骂我还难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在听我说，没有急着给我建议。刚才我提到爸妈的期待，她就顺着问下去了，让我觉得可以说说家里的事。也许可以试着告诉她更多，看看她能不能理解。）\n（在我家，成绩好像就是唯一能拿出来说的事。爸妈从来不会问我累不累，只问考得怎么样。我想说出这种感觉，又怕说得太直接显得我在怪他们。）",
+        "reasoning": "（她好像真的在听我说，没有急着给我建议。刚才我提到爸妈的期待，她就顺着问下去了，让我觉得可以说说家里的事。也许可以试着告诉她更多，看看她能不能理解。）\n（在我家，成绩好像就是唯一能拿出来说的事。爸妈从来不会问我累不累，只问考得怎么样。我想说出这种感觉，又怕说得太直接显得我在怪他们。）"
+      }
+    }
+  ],
+  "created": 1794543980,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1609,
+    "total_tokens": 1729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

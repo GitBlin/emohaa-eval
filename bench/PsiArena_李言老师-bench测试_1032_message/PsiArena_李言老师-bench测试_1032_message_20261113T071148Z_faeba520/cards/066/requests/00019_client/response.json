@@ -1,0 +1,41 @@
+{
+  "id": "02fc8ca77d8a4a778be2584ee9fae4a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是跟他有点不愉快之后吧。我表面上装作没事，心里其实一直在翻来覆去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我一天里哪个时刻最容易压下去，这是让我更具体地看见自己的模式。我得想想，平时最常憋着的时候，好像就是跟他有摩擦之后，我表面装作没事，心里其实翻来覆去。）\n（那种时候我总怕一开口就变成抱怨，反而更糟。不过现在觉得，也许可以先不急着跟他理论，而是给自己留一点空间，别马上把情绪吞掉。）",
+        "reasoning": "（咨询师在问我一天里哪个时刻最容易压下去，这是让我更具体地看见自己的模式。我得想想，平时最常憋着的时候，好像就是跟他有摩擦之后，我表面装作没事，心里其实翻来覆去。）\n（那种时候我总怕一开口就变成抱怨，反而更糟。不过现在觉得，也许可以先不急着跟他理论，而是给自己留一点空间，别马上把情绪吞掉。）"
+      }
+    }
+  ],
+  "created": 1794556992,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2731,
+    "total_tokens": 2845,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

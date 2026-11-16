@@ -1,0 +1,41 @@
+{
+  "id": "abc0a497716544a6ab16feb6d945ebcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，停一下应该能缓一点。我就怕自己说完之后，她没什么反应，那我可能又会开始乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在帮我想具体的做法，让我别那么紧张。停一下、看看别处……听起来好像可行，至少比硬撑着对视要轻松些。）\n（不过我心里还是有点打鼓，说完了之后呢？万一她没什么反应，或者还是那句“你想太多”，我可能还是会一下子不知道怎么办。得先想好这个退路才行。）",
+        "reasoning": "（她这是在帮我想具体的做法，让我别那么紧张。停一下、看看别处……听起来好像可行，至少比硬撑着对视要轻松些。）\n（不过我心里还是有点打鼓，说完了之后呢？万一她没什么反应，或者还是那句“你想太多”，我可能还是会一下子不知道怎么办。得先想好这个退路才行。）"
+      }
+    }
+  ],
+  "created": 1794555479,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3028,
+    "total_tokens": 3130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

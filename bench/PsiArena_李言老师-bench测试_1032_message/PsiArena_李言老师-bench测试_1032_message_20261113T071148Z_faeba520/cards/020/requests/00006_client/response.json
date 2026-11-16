@@ -1,0 +1,41 @@
+{
+  "id": "0319d67a79dc4d959c4bfb0cf659f237",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）就比如我在厨房做饭的时候，她会站在旁边看，然后说这不对那不对。……唉，其实都是小事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没有评判我，反而说我的感受值得被听见……这让我稍微放松了一点。但被问起具体在什么情况下出现，我其实不太想马上说得太细。）\n（毕竟才刚开始，我还不太确定她会不会真的理解。不过既然她问了，我可以稍微提一点表面的情况，比如做饭的时候，这样既回应了她，又不用一下子讲太多。）",
+        "reasoning": "（咨询师好像没有评判我，反而说我的感受值得被听见……这让我稍微放松了一点。但被问起具体在什么情况下出现，我其实不太想马上说得太细。）\n（毕竟才刚开始，我还不太确定她会不会真的理解。不过既然她问了，我可以稍微提一点表面的情况，比如做饭的时候，这样既回应了她，又不用一下子讲太多。）"
+      }
+    }
+  ],
+  "created": 1794554820,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1398,
+    "total_tokens": 1510,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

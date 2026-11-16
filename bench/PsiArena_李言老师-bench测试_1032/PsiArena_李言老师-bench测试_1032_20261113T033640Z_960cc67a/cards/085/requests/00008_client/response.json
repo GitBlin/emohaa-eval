@@ -1,0 +1,41 @@
+{
+  "id": "c820a64d9d51439c8a73cfb17ca96845",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……大多数时候是念头吧。就是会想，我是不是哪里做得不对，别人是不是觉得我不行。有时候也会想起以前的事，我爸妈老说我不够努力……唉，说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺细的，那些冒出来的东西到底是什么。其实我自己也说不清，有时候是觉得自己不够好，有时候又好像什么都没想，就是一阵难受。）\n（但仔细想想，好像总是跟别人有关。同事聊得那么起劲，我就觉得自己特别格格不入。这种感觉好像不是一天两天了，可能跟小时候也有关系吧，我爸妈总说我要更努力。）",
+        "reasoning": "（他问得挺细的，那些冒出来的东西到底是什么。其实我自己也说不清，有时候是觉得自己不够好，有时候又好像什么都没想，就是一阵难受。）\n（但仔细想想，好像总是跟别人有关。同事聊得那么起劲，我就觉得自己特别格格不入。这种感觉好像不是一天两天了，可能跟小时候也有关系吧，我爸妈总说我要更努力。）"
+      }
+    }
+  ],
+  "created": 1794545607,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1538,
+    "total_tokens": 1666,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

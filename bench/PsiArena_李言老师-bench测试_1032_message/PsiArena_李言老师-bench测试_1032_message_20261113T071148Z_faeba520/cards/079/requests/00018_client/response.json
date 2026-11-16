@@ -1,0 +1,41 @@
+{
+  "id": "2280b679cd374d4390885b4b63e072ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）我希望他别急着说“不现实”，哪怕就听我说完。（轻声）其实我要的不多，就是有人认真听一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望他听完后是什么反应，这让我有点慌，但又忍不住去想。我其实没敢认真想过他会怎么回应，因为怕想多了更失望。）\n（可心底还是有个很小的声音在说，我想要的其实不多，不是要他帮我拿主意，只是希望他能别急着否定我。这念头一冒出来，我自己都觉得有点心酸。）",
+        "reasoning": "（咨询师问我希望他听完后是什么反应，这让我有点慌，但又忍不住去想。我其实没敢认真想过他会怎么回应，因为怕想多了更失望。）\n（可心底还是有个很小的声音在说，我想要的其实不多，不是要他帮我拿主意，只是希望他能别急着否定我。这念头一冒出来，我自己都觉得有点心酸。）"
+      }
+    }
+  ],
+  "created": 1794557705,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2628,
+    "total_tokens": 2739,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

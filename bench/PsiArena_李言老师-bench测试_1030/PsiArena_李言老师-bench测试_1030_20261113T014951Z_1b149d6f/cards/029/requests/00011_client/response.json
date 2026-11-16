@@ -1,0 +1,41 @@
+{
+  "id": "b300e0eed8bc434a90403de855330978",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概就是“我凭什么不能有”吧。其实买之前也没多想，就是那一下，觉得不买点什么，心里这口气咽不下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是买之前心里冒出来的第一句话……这让我想起那种被压着的感觉。每次看到那些东西，脑子里第一个蹦出来的就是“我凭什么不能有”。好像这句话一出来，手就控制不住了。）\n（其实我也知道，这跟钱没关系，就是那股劲儿。家里人越说省着点，我越想证明我不用什么都听他们的。可这种证明又让我更难受，好像我永远在跟他们较劲。）",
+        "reasoning": "（她问的是买之前心里冒出来的第一句话……这让我想起那种被压着的感觉。每次看到那些东西，脑子里第一个蹦出来的就是“我凭什么不能有”。好像这句话一出来，手就控制不住了。）\n（其实我也知道，这跟钱没关系，就是那股劲儿。家里人越说省着点，我越想证明我不用什么都听他们的。可这种证明又让我更难受，好像我永远在跟他们较劲。）"
+      }
+    }
+  ],
+  "created": 1794536046,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1939,
+    "total_tokens": 2065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

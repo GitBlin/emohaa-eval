@@ -1,0 +1,41 @@
+{
+  "id": "d6c7983bedab4db3963914527e40da69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打鼓是还打鼓，但好像……没那么虚了。以前那句话是压在心上的，现在说出来，感觉像是我自己说的，不是别人逼我的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在问我练习时的感受，好像是在确认我是不是真的开始相信了。说实话，念的时候确实还是有点虚，但跟以前完全不一样了。）\n（以前那种自责是压得我喘不过气，现在虽然心里没底，但至少能感觉到那句话是我自己说出来的。也许这就是一点点变化吧，虽然很小。）",
+        "reasoning": "（这个咨询师在问我练习时的感受，好像是在确认我是不是真的开始相信了。说实话，念的时候确实还是有点虚，但跟以前完全不一样了。）\n（以前那种自责是压得我喘不过气，现在虽然心里没底，但至少能感觉到那句话是我自己说出来的。也许这就是一点点变化吧，虽然很小。）"
+      }
+    }
+  ],
+  "created": 1794538608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3252,
+    "total_tokens": 3362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

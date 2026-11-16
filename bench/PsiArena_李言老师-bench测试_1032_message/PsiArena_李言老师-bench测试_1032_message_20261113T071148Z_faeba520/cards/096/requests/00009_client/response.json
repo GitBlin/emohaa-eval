@@ -1,0 +1,41 @@
+{
+  "id": "6ca5cd2505bb4d049a947ad1a03b5b25",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有吧……同学都有自己的圈子，我插不进去。家里人……我妈要是知道我为这些睡不着，肯定又说我心思没放在学习上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身边有没有愿意联系的人……其实我脑子里闪过几个同学的名字，但又马上觉得不行。她们都有自己的圈子，我这样突然找过去算什么。而且万一她们觉得我奇怪，或者根本不想理我，那我岂不是更难受。）\n（家里人的话就更不行了，我妈肯定会问我是不是又没考好，又要想东想西。她不会懂我只是睡不着，只是害怕。说了只会让她更担心，然后又开始念叨我。所以还是不说比较好。）",
+        "reasoning": "（她问我身边有没有愿意联系的人……其实我脑子里闪过几个同学的名字，但又马上觉得不行。她们都有自己的圈子，我这样突然找过去算什么。而且万一她们觉得我奇怪，或者根本不想理我，那我岂不是更难受。）\n（家里人的话就更不行了，我妈肯定会问我是不是又没考好，又要想东想西。她不会懂我只是睡不着，只是害怕。说了只会让她更担心，然后又开始念叨我。所以还是不说比较好。）"
+      }
+    }
+  ],
+  "created": 1794558375,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1687,
+    "total_tokens": 1818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ff24fc990f8e46949e4c3b99ca83e3c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）放学回家路上，我问问他在看什么漫画吧。（有点不好意思）这个好像不难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我从哪件小事开始，我脑子里乱乱的。其实回家路上聊几句的时候，我好像没那么紧张，因为不用面对面。他之前也说过喜欢看漫画，我是不是可以问问他最近在看什么？但又怕问得太多，他觉得我烦。）\n（这个想法好像有点靠谱，至少比一上来就说心里话容易。我有点想试试，可又怕自己到时候不敢开口。）",
+        "reasoning": "（老师问我从哪件小事开始，我脑子里乱乱的。其实回家路上聊几句的时候，我好像没那么紧张，因为不用面对面。他之前也说过喜欢看漫画，我是不是可以问问他最近在看什么？但又怕问得太多，他觉得我烦。）\n（这个想法好像有点靠谱，至少比一上来就说心里话容易。我有点想试试，可又怕自己到时候不敢开口。）"
+      }
+    }
+  ],
+  "created": 1794554144,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2588,
+    "total_tokens": 2698,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "73e7502db5b44a429104e87566501134",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最怕听到“你怎么连这个都做不好”吧……虽然她没这么说过，但我脑子里会自己补上。可能我从小听这种话听多了，家里总觉得我还不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最怕听到什么，这让我一下子想到家里那些话。我确实很怕别人说“你怎么连这个都做不好”，那会让我觉得自己很没用。）\n（而且这种怕好像不只是工作上的，从小爸妈就总说“再想想”“别选错”，搞得我现在做什么都怕出错。也许我该把这个说出来，让她明白我这种犹豫不是一天两天了。）",
+        "reasoning": "（咨询师问我最怕听到什么，这让我一下子想到家里那些话。我确实很怕别人说“你怎么连这个都做不好”，那会让我觉得自己很没用。）\n（而且这种怕好像不只是工作上的，从小爸妈就总说“再想想”“别选错”，搞得我现在做什么都怕出错。也许我该把这个说出来，让她明白我这种犹豫不是一天两天了。）"
+      }
+    }
+  ],
+  "created": 1794544895,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1746,
+    "total_tokens": 1872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

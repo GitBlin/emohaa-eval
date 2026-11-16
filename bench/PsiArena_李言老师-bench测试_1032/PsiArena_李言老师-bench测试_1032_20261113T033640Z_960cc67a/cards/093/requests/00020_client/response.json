@@ -1,0 +1,41 @@
+{
+  "id": "e26fcb16084741d6b470f66b11b920c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……有点累吧，晚上睡不太好，脑子里总在想这些事。不过你这么说，我反而有点不知道怎么往下讲了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这样问让我稍微松了口气，至少没有一上来就给我安排什么。但我还是有点不习惯，不知道该怎么回答“最近怎么样”这种问题。）\n（我确实挺累的，可又不想把话说得太重，好像显得我很脆弱。先简单说累和睡不好吧，看看他会不会继续追问。）",
+        "reasoning": "（他这样问让我稍微松了口气，至少没有一上来就给我安排什么。但我还是有点不习惯，不知道该怎么回答“最近怎么样”这种问题。）\n（我确实挺累的，可又不想把话说得太重，好像显得我很脆弱。先简单说累和睡不好吧，看看他会不会继续追问。）"
+      }
+    }
+  ],
+  "created": 1794546132,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2733,
+    "total_tokens": 2830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

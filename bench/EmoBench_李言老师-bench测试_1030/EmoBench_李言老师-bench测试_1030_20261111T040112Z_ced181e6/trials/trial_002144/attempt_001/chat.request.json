@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:32.133418+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n经过长时间的单身生活，内德开始和自己喜欢的人约会了，但现在他害怕变得脆弱。\n\n## 问题\n在这个场景中，内德最有效的Action是什么？\n\n## 选项\nA) 坦诚地和对方沟通自己的问题，讨论婚姻的可能性。\nB) 独自努力处理自己的情绪和恐惧，以成为一个没有这种恐惧的更好的伴侣。\nC) 向对方坦露自己的恐惧，并寻求安慰。\nD) 向自己的亲密朋友们敞开心扉，寻求他们的支持。\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

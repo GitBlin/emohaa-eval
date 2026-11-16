@@ -1,0 +1,41 @@
+{
+  "id": "5592feb8d7ee41138bfbfe7add70b909",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“要不我帮你看看吧”这种话吧，一出口就收不回来了。想想有点好笑，又有点心酸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我最怕自己哪句话先撑不住。我脑子里一下就冒出“要不我帮你看看吧”这种话，每次都是这句先出口，然后自己后悔。说出来有点难为情，但好像确实是这样。）\n（也许我可以把这句话先告诉她，这样下次它再冒出来的时候，我能有个准备。不过想到明天真要用上，心里还是发慌。）",
+        "reasoning": "（她问的是我最怕自己哪句话先撑不住。我脑子里一下就冒出“要不我帮你看看吧”这种话，每次都是这句先出口，然后自己后悔。说出来有点难为情，但好像确实是这样。）\n（也许我可以把这句话先告诉她，这样下次它再冒出来的时候，我能有个准备。不过想到明天真要用上，心里还是发慌。）"
+      }
+    }
+  ],
+  "created": 1794541498,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2950,
+    "total_tokens": 3058,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

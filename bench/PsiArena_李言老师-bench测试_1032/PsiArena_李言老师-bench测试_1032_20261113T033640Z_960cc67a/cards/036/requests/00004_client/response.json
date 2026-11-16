@@ -1,0 +1,41 @@
+{
+  "id": "96a8da32634142cb807c6d267c4546ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我分不太清。对了，我想问一下，咨询里我说的事情，你会告诉别人吗？比如我爸妈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很在意我具体的感觉，想让我分清是身体还是情绪。但我现在还没那么信任她，不想说太细。而且我其实有点担心，如果我说太多，她会不会觉得我奇怪。）\n（她问得这么直接，我反而有点想岔开话题。也许我可以先问问她，咨询里会不会把我的事说出去，这样我才能放心一点。）",
+        "reasoning": "（咨询师好像很在意我具体的感觉，想让我分清是身体还是情绪。但我现在还没那么信任她，不想说太细。而且我其实有点担心，如果我说太多，她会不会觉得我奇怪。）\n（她问得这么直接，我反而有点想岔开话题。也许我可以先问问她，咨询里会不会把我的事说出去，这样我才能放心一点。）"
+      }
+    }
+  ],
+  "created": 1794551591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1141,
+    "total_tokens": 1251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

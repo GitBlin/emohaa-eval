@@ -1,0 +1,41 @@
+{
+  "id": "ec13b2cebbd347a6b346ce4e44972850",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫地）嗯...就是有时候觉得心里堵得慌，也不知道为什么。晚上老是睡不着，想着第二天要去学校就害怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说可以聊心里不舒服的事，还说是安全的地方。但我不确定该不该相信他，毕竟学校里那些人也说过会帮我，结果反而更糟。不过他说得挺温和的，也许可以稍微说一点点？）\n（作为小杰，我其实很想说出被欺负的事，但又怕说出来会被更多人知道。而且我也不知道该怎么描述那种感觉，就是心里堵得慌，晚上总睡不着。先含糊地说说看吧，看看他会不会像其他人一样笑话我。）\n（好了，就这样试探着说一点，看看他什么反应。）",
+        "reasoning": "（刚才咨询师说可以聊心里不舒服的事，还说是安全的地方。但我不确定该不该相信他，毕竟学校里那些人也说过会帮我，结果反而更糟。不过他说得挺温和的，也许可以稍微说一点点？）\n（作为小杰，我其实很想说出被欺负的事，但又怕说出来会被更多人知道。而且我也不知道该怎么描述那种感觉，就是心里堵得慌，晚上总睡不着。先含糊地说说看吧，看看他会不会像其他人一样笑话我。）\n（好了，就这样试探着说一点，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1794554071,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 965,
+    "total_tokens": 1113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

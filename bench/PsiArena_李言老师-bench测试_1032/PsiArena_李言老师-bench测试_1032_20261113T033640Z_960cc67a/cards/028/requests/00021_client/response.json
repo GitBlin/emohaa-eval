@@ -1,0 +1,41 @@
+{
+  "id": "17e2760845604a77a248f8b2118fe5f1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）可能是下个月的朋友出游吧……我还没跟他们说。我想这次别再退了，可一想到要开口，我心里就发慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最想守住哪个具体决定，这让我有点犹豫。我脑子里第一个冒出来的是下个月的朋友出游，那件事我已经憋了很久了，可一想到要跟父母开口，又觉得心里发紧。我是不是应该先挑个小的说？但那个出游真的对我挺重要的，我不想再退票了。）\n（也许我可以试着说出来，但得先让咨询师知道我心里没底。毕竟我从来没这么明确地跟父母争过，我怕自己一说出口就后悔，或者又被他们几句话压回去。我想让咨询师明白，我不是不想守，是怕守不住。）",
+        "reasoning": "（咨询师在问我最想守住哪个具体决定，这让我有点犹豫。我脑子里第一个冒出来的是下个月的朋友出游，那件事我已经憋了很久了，可一想到要跟父母开口，又觉得心里发紧。我是不是应该先挑个小的说？但那个出游真的对我挺重要的，我不想再退票了。）\n（也许我可以试着说出来，但得先让咨询师知道我心里没底。毕竟我从来没这么明确地跟父母争过，我怕自己一说出口就后悔，或者又被他们几句话压回去。我想让咨询师明白，我不是不想守，是怕守不住。）"
+      }
+    }
+  ],
+  "created": 1794549434,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 2900,
+    "total_tokens": 3061,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 129,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

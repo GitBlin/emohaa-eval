@@ -1,0 +1,41 @@
+{
+  "id": "ea69b8322d4c4cdea3fa2785b7b56129",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先别停吧。每天十分钟也不多，断了再捡起来好像也没那么难了。我不想又是刚有点起色就放下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我接下来是继续还是停两天，其实是在试探我有没有自己拿主意的勇气。我心里是有点想继续的，可又怕说出口就变成空话。毕竟以前也常下决心，最后都不了了之。）\n（不过这回不一样，每天十分钟确实不算什么大事，就算中间断了，好像也没那么可怕。我想试着说得踏实一点，别一下子把话说满，也别再像从前那样先把自己否了。）",
+        "reasoning": "（她问我接下来是继续还是停两天，其实是在试探我有没有自己拿主意的勇气。我心里是有点想继续的，可又怕说出口就变成空话。毕竟以前也常下决心，最后都不了了之。）\n（不过这回不一样，每天十分钟确实不算什么大事，就算中间断了，好像也没那么可怕。我想试着说得踏实一点，别一下子把话说满，也别再像从前那样先把自己否了。）"
+      }
+    }
+  ],
+  "created": 1794538814,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2926,
+    "total_tokens": 3054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

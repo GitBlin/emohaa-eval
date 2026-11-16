@@ -1,0 +1,41 @@
+{
+  "id": "1e7bbea9121546228528ac3843a11de8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上个月吧，我跟朋友约好出去玩两天，我妈非让我回家，说亲戚要来。我争了两句，最后还是退了车票。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我最近一次“不听话”的事……这让我一下子想到上个月那次。我其实一直不太愿意回想那个场面，因为最后我还是妥协了，这让我觉得自己很没用。）\n（不过她好像不是要评判我，只是在试着理解我的处境。也许我可以试着说出来，哪怕只是简单提一下。毕竟这件事确实让我心里堵了很久。）",
+        "reasoning": "（她问起我最近一次“不听话”的事……这让我一下子想到上个月那次。我其实一直不太愿意回想那个场面，因为最后我还是妥协了，这让我觉得自己很没用。）\n（不过她好像不是要评判我，只是在试着理解我的处境。也许我可以试着说出来，哪怕只是简单提一下。毕竟这件事确实让我心里堵了很久。）"
+      }
+    }
+  ],
+  "created": 1794549363,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2004,
+    "total_tokens": 2112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

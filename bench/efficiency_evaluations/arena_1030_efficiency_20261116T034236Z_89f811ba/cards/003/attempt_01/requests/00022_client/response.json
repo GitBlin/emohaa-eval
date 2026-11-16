@@ -1,0 +1,47 @@
+{
+  "id": "56fb724ae13343bba56e7cb72ec51d14",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就反复点开对话框看，看了又退，退了又看。其实什么都没变。（停顿）你说，我要不干脆把手机放下，去干点别的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那几分钟拿手机做什么，其实是在帮我看到那些空等里的动作。我确实一直在反复点开对话框，这动作本身好像就是在跟那个声音较劲。也许我可以承认这个习惯，顺便想想能不能换成别的事做。）\n（她这么一问，我有点不好意思，但好像也看到了一点能改的地方。要是能把手机先放一边，找点别的事占着手，那几分钟可能就没那么难熬了。）",
+        "reasoning": "（她问我那几分钟拿手机做什么，其实是在帮我看到那些空等里的动作。我确实一直在反复点开对话框，这动作本身好像就是在跟那个声音较劲。也许我可以承认这个习惯，顺便想想能不能换成别的事做。）\n（她这么一问，我有点不好意思，但好像也看到了一点能改的地方。要是能把手机先放一边，找点别的事占着手，那几分钟可能就没那么难熬了。）"
+      }
+    }
+  ],
+  "created": 1794800666,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3397,
+    "total_tokens": 3527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

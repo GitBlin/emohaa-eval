@@ -1,0 +1,47 @@
+{
+  "id": "1124e4a264cc4bcfb0555e347422555c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "等到了会好一会儿吧……但很快又开始等下一次。我也不知道自己为什么会这么难受，说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是等到消息会不会好受一点，这让我有点犹豫要不要说太多。毕竟才刚开始，我还不太确定这个人能不能懂我。）\n（而且她好像很自然地就说到“被惦记着的证明”，让我有点被戳到的感觉。可我不太想这么快就承认自己这么在意别人的回复，那样显得太脆弱了。先含糊一点带过去吧。）",
+        "reasoning": "（咨询师问的是等到消息会不会好受一点，这让我有点犹豫要不要说太多。毕竟才刚开始，我还不太确定这个人能不能懂我。）\n（而且她好像很自然地就说到“被惦记着的证明”，让我有点被戳到的感觉。可我不太想这么快就承认自己这么在意别人的回复，那样显得太脆弱了。先含糊一点带过去吧。）"
+      }
+    }
+  ],
+  "created": 1794800694,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1088,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

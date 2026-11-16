@@ -1,0 +1,41 @@
+{
+  "id": "02ed33010e2647ddb4e4da3f548fe8bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是怕看着更乱吧。不过要只是记几个关键词，不写太细，也许还行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像是在帮我把担心拆开看，不是要逼我立刻做到。这让我稍微松一点，也愿意试着具体想想。）\n（我确实怕写的过程太慢，本来脑子就乱，写下来更费劲。但也许可以先不写那么细，只记关键词，这样负担会小一些。）",
+        "reasoning": "（她好像是在帮我把担心拆开看，不是要逼我立刻做到。这让我稍微松一点，也愿意试着具体想想。）\n（我确实怕写的过程太慢，本来脑子就乱，写下来更费劲。但也许可以先不写那么细，只记关键词，这样负担会小一些。）"
+      }
+    }
+  ],
+  "created": 1794543764,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2985,
+    "total_tokens": 3077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dfcd09da7ff94edab67ea67d3afa35de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "只做开头一步……听起来好像没那么吓人。那我可以试试，做不出来就先停，不硬逼自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我先只做开头一步，听起来好像没那么吓人了。我本来以为又要从头到尾做一遍，那样肯定又卡住，又得难受半天。只做一步的话……好像还能试试。不过我还是有点担心，万一开头就做不出来怎么办。）\n（但她说卡住只说明哪里需要补，这话听着没那么刺耳。也许我可以试试看，反正只做一步，做不出来也不会太糟。嗯，那就先这样试试吧，总比一直不敢碰要好。）",
+        "reasoning": "（她让我先只做开头一步，听起来好像没那么吓人了。我本来以为又要从头到尾做一遍，那样肯定又卡住，又得难受半天。只做一步的话……好像还能试试。不过我还是有点担心，万一开头就做不出来怎么办。）\n（但她说卡住只说明哪里需要补，这话听着没那么刺耳。也许我可以试试看，反正只做一步，做不出来也不会太糟。嗯，那就先这样试试吧，总比一直不敢碰要好。）"
+      }
+    }
+  ],
+  "created": 1794543283,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3111,
+    "total_tokens": 3242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

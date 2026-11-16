@@ -1,0 +1,41 @@
+{
+  "id": "3b97e7c2269e4b17beb5267a7da5ffb0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来……好像都有点吧，闷闷的。对了，我想问一下，我今天说的这些，你会跟别人讲吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺有耐心的，没有逼我马上讲清楚。她问我是难受还是委屈，我其实两个都有，但更深的可能是害怕。不过现在就说害怕，会不会显得太软弱了？）\n（她看起来比较专业，但我还是想再试探一下。毕竟要把心里的事说出来，总得先确定这个人靠不靠得住。问点实际的吧，比如会不会被说出去，这样我也能安心一点。）",
+        "reasoning": "（这个咨询师好像挺有耐心的，没有逼我马上讲清楚。她问我是难受还是委屈，我其实两个都有，但更深的可能是害怕。不过现在就说害怕，会不会显得太软弱了？）\n（她看起来比较专业，但我还是想再试探一下。毕竟要把心里的事说出来，总得先确定这个人靠不靠得住。问点实际的吧，比如会不会被说出去，这样我也能安心一点。）"
+      }
+    }
+  ],
+  "created": 1794555424,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1306,
+    "total_tokens": 1429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

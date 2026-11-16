@@ -1,0 +1,41 @@
+{
+  "id": "e5466c02cb834fe1abc41ecfe4f15a68",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有一点吧……我家里从小就讲究节俭，浪费东西心里过不去。但身体这样，也不能太省了，我想找个平衡。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更在意省钱省时间还是吃得均衡，这让我有点为难。家里从小教育要节俭，可身体又确实需要营养，两边都放不下。）\n（我想说得实在一点，不想显得太纠结，但确实得承认自己会先想到省钱。不过也不能只顾省钱把身体搞坏了，得找个折中的说法。）",
+        "reasoning": "（咨询师在问我更在意省钱省时间还是吃得均衡，这让我有点为难。家里从小教育要节俭，可身体又确实需要营养，两边都放不下。）\n（我想说得实在一点，不想显得太纠结，但确实得承认自己会先想到省钱。不过也不能只顾省钱把身体搞坏了，得找个折中的说法。）"
+      }
+    }
+  ],
+  "created": 1794545625,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3122,
+    "total_tokens": 3226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

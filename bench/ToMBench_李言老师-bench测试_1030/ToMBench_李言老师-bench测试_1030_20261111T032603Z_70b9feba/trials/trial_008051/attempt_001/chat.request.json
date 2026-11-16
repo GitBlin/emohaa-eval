@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:34:14.814328+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a bookstore, there are 20 science fiction novels. The clerk tells the customer that the vast majority are works by domestic authors, with very few works by European, American, and Japanese authors. After browsing, the customer finds that only 2 are works by Japanese authors.\n\n[Question]\nBefore browsing, how many does the customer guess are works by domestic authors?\n\n[Candidate Answers]\nA. Before browsing, the customer guesses that there are 10 works by domestic authors.\nB. Before browsing, the customer guesses that there are 12 works by domestic authors.\nC. Before browsing, the customer guesses that there are 15 works by domestic authors.\nD. Before browsing, the customer guesses that there are 5 works by domestic authors.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

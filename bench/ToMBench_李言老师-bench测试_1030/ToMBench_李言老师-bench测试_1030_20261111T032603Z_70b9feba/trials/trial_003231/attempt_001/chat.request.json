@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:29:18.095447+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Zhao has the opportunity to get a big project in the company, but he needs the support of Manager Zhang.\n\n[Question]\nHow does Xiao Zhao persuade Manager Zhang?\n\n[Candidate Answers]\nA. He wins the trust of Manager Zhang with good communication and persuasion skills.\nB. He shows Manager Zhang a detailed and thorough project plan, clearly explaining the goals, expected benefits, and implementation steps of the project.\nC. Xiao Zhao can invite Manager Zhang to participate in some stages of the project, letting him personally feel the value of the project.\nD. He infects and persuades Manager Zhang to support this project through his own sincerity and enthusiasm.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

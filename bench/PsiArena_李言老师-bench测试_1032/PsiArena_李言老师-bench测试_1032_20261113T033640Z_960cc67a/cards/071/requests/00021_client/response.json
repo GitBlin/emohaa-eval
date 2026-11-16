@@ -1,0 +1,41 @@
+{
+  "id": "8859a22231d84c9092db8c0ed2ffc386",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像不是明确哪里不满意，就是总觉得“还差一点”。但差在哪我也说不上来，就一直改。现在想想有点荒唐。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我改方案时是心里有明确不满意还是纯粹手停不下来，这让我想起那种停不下来的感觉。其实每次改的时候，心里好像总有个声音说“还不够好”，但具体哪里不好又说不清。这种模糊的不满让我更焦虑，因为连个明确的目标都没有。）\n（也许我该承认，很多时候不是方案真的差，而是我害怕停下来之后那种空落落的感觉。但直接这么说有点难，还是先描述那种“总觉得哪里不对”的状态吧，这样咨询师应该能理解。）",
+        "reasoning": "（咨询师在问我改方案时是心里有明确不满意还是纯粹手停不下来，这让我想起那种停不下来的感觉。其实每次改的时候，心里好像总有个声音说“还不够好”，但具体哪里不好又说不清。这种模糊的不满让我更焦虑，因为连个明确的目标都没有。）\n（也许我该承认，很多时候不是方案真的差，而是我害怕停下来之后那种空落落的感觉。但直接这么说有点难，还是先描述那种“总觉得哪里不对”的状态吧，这样咨询师应该能理解。）"
+      }
+    }
+  ],
+  "created": 1794544952,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3042,
+    "total_tokens": 3186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

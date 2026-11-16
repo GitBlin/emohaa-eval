@@ -1,0 +1,41 @@
+{
+  "id": "75ef0d1dbc5c47e4be29988d65bbe270",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我担心他会觉得我连这个都做不好……（停顿）其实我也不太清楚。对了，我可以加你微信吗？平时难受的时候，能不能直接找你聊聊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我开口求助时的担心，这让我有点不舒服。她好像想让我承认自己需要帮助，但我不想显得那么脆弱。而且她刚才说“想被抱一会儿”这种话，让我觉得有点太亲近了，我们才刚认识。）\n（我习惯性地想回避这个问题，但也许可以稍微试探一下她的界限。如果我说想让她多了解我的生活，看看她会怎么反应。这样既能转移话题，又能测试她会不会像朋友那样越界。）",
+        "reasoning": "（咨询师在问我开口求助时的担心，这让我有点不舒服。她好像想让我承认自己需要帮助，但我不想显得那么脆弱。而且她刚才说“想被抱一会儿”这种话，让我觉得有点太亲近了，我们才刚认识。）\n（我习惯性地想回避这个问题，但也许可以稍微试探一下她的界限。如果我说想让她多了解我的生活，看看她会怎么反应。这样既能转移话题，又能测试她会不会像朋友那样越界。）"
+      }
+    }
+  ],
+  "created": 1794541640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1187,
+    "total_tokens": 1326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

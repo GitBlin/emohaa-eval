@@ -1,0 +1,41 @@
+{
+  "id": "20baf432028f4754a4b493b06776d936",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就……吃饭、看会儿手机、睡觉。挺没意思的，一个人也懒得做什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我回到家会做什么，这个问题听起来很具体，不像之前那些让我想很多的问题。我其实回到家就是一个人待着，没什么特别的。不过她这么问，是不是想让我从生活里找到点什么？我有点犹豫要不要说，因为说出来好像显得我的生活很单调。）\n（但也许可以试试，毕竟她说从小地方开始。我不想一直陷在这种纠结里，可是又不太确定这样做有没有用。先照实说吧，看看她会怎么接。）",
+        "reasoning": "（咨询师问的是我回到家会做什么，这个问题听起来很具体，不像之前那些让我想很多的问题。我其实回到家就是一个人待着，没什么特别的。不过她这么问，是不是想让我从生活里找到点什么？我有点犹豫要不要说，因为说出来好像显得我的生活很单调。）\n（但也许可以试试，毕竟她说从小地方开始。我不想一直陷在这种纠结里，可是又不太确定这样做有没有用。先照实说吧，看看她会怎么接。）"
+      }
+    }
+  ],
+  "created": 1794555796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2579,
+    "total_tokens": 2704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a94fd1092bec4d94b58962c9e4613315",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是同事又笑着过来说“帮我弄一下呗”的时候。我明明手头一堆事，还是点了头。那个瞬间最沉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我下午最沉的事，我第一个想到的就是同事又推活儿过来。每次都是这样，明明自己手头也一堆事，可就是开不了口拒绝。这种憋着的感觉比加班还累。）\n（不过咨询师一直很耐心，没有催我，也没有评判我。或许我可以试着说说看，如果下次想拒绝，哪怕只是先停一下，会不会好一点？但马上又担心，万一拒绝了，同事会不会觉得我不好相处。）",
+        "reasoning": "（咨询师在问我下午最沉的事，我第一个想到的就是同事又推活儿过来。每次都是这样，明明自己手头也一堆事，可就是开不了口拒绝。这种憋着的感觉比加班还累。）\n（不过咨询师一直很耐心，没有催我，也没有评判我。或许我可以试着说说看，如果下次想拒绝，哪怕只是先停一下，会不会好一点？但马上又担心，万一拒绝了，同事会不会觉得我不好相处。）"
+      }
+    }
+  ],
+  "created": 1794557412,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3112,
+    "total_tokens": 3244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

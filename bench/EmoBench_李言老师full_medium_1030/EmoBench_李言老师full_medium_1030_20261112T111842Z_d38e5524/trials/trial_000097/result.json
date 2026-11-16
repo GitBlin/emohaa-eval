@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_000097",
+  "sample_id": "EU:98",
+  "task": "EU",
+  "language": "en",
+  "repeat": 0,
+  "category": "personal_beliefs_and_experiences",
+  "fine_category": "persona",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "D",
+    "answer_q2": "D"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_6f181e4b11e6e4ed037be0a90305848bdda57ea7",
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "reply": "```json\n{\n  \"answer_q1\": \"D\",\n  \"answer_q2\": \"D\"\n}\n```",
+  "prediction_original": {
+    "answer_q1": "D",
+    "answer_q2": "D"
+  },
+  "component_correct": {
+    "answer_q1": true,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:19:09.482253+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "D",
+    "answer_q2": "D"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.169333342462778,
+  "finished_at": "2026-11-12T11:19:11.651555+00:00"
+}

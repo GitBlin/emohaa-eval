@@ -1,0 +1,41 @@
+{
+  "id": "e2f2bc27ffbb4c648e94126ce838a283",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……班里有个人老说自己不行、学不会，我听着挺别扭的。但具体为什么难受，我也讲不清楚，可能就是心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像没有评判我，还说我开口不容易……稍微放松了一点。但我不想一下子说太多，先绕着说个大概吧。最近班里那个同学总是说自己不行，我听着特别别扭，可又说不清为什么难受。）\n（也许可以提一下这件事，但不用讲太细。反正就是心里堵得慌，说多了怕显得我小气。先看看他什么反应，再决定要不要往下讲。）",
+        "reasoning": "（这个咨询师好像没有评判我，还说我开口不容易……稍微放松了一点。但我不想一下子说太多，先绕着说个大概吧。最近班里那个同学总是说自己不行，我听着特别别扭，可又说不清为什么难受。）\n（也许可以提一下这件事，但不用讲太细。反正就是心里堵得慌，说多了怕显得我小气。先看看他什么反应，再决定要不要往下讲。）"
+      }
+    }
+  ],
+  "created": 1794535027,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1227,
+    "total_tokens": 1353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

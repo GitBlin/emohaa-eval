@@ -1,0 +1,41 @@
+{
+  "id": "e6529fca3c9942b08fa227c069f05a29",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……希望她先别急着管我手机。我不是不想睡，是真的睡不着。还有，我希望她别一开口就是成绩，我听着就烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望妈妈明白什么……这让我想起每次她敲门时那种不耐烦的语气。其实我更怕的是说了之后，他们只会更失望，觉得我连睡觉都做不好。但咨询师问的是“希望她先明白什么”，不是“会不会说”，也许可以试着说说看。）\n（在我们家，表达自己的感受总是很难。爸妈觉得只要管好学习就行，其他都不重要。我要是说“我睡不着是因为害怕考不好”，他们大概只会说“别想那么多”。可我还是想让她知道，我不是在偷懒，也不是故意熬夜。）",
+        "reasoning": "（她问我希望妈妈明白什么……这让我想起每次她敲门时那种不耐烦的语气。其实我更怕的是说了之后，他们只会更失望，觉得我连睡觉都做不好。但咨询师问的是“希望她先明白什么”，不是“会不会说”，也许可以试着说说看。）\n（在我们家，表达自己的感受总是很难。爸妈觉得只要管好学习就行，其他都不重要。我要是说“我睡不着是因为害怕考不好”，他们大概只会说“别想那么多”。可我还是想让她知道，我不是在偷懒，也不是故意熬夜。）"
+      }
+    }
+  ],
+  "created": 1794556513,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 1999,
+    "total_tokens": 2153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

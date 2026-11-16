@@ -1,0 +1,41 @@
+{
+  "id": "537f63d884ae4bf483d9d2f55e0560fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我没试过……总觉得别的地方，没人会这样听我说。（停顿）不过，一直这样下去，好像也不是办法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问能不能带到生活里其他地方，我第一反应是摇头。我好像从来没想过还能从别处得到这种感觉，总觉得只有这里才不一样。可他说得也有道理，我是不是太把这份温暖锁在这个房间里了？）\n（不过一想到要去跟别人说这些，心里就发怵。我怕别人根本不想听，或者听了会觉得我小题大做。可如果一直这样下去，是不是永远都只能等着这一周一次的时间？）",
+        "reasoning": "（他问能不能带到生活里其他地方，我第一反应是摇头。我好像从来没想过还能从别处得到这种感觉，总觉得只有这里才不一样。可他说得也有道理，我是不是太把这份温暖锁在这个房间里了？）\n（不过一想到要去跟别人说这些，心里就发怵。我怕别人根本不想听，或者听了会觉得我小题大做。可如果一直这样下去，是不是永远都只能等着这一周一次的时间？）"
+      }
+    }
+  ],
+  "created": 1794555789,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2403,
+    "total_tokens": 2530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

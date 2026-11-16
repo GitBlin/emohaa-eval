@@ -1,0 +1,47 @@
+{
+  "id": "b31e3b4c5c8d41f9a85ac123062ff4e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱眉）我爸可能就一句“别分心”，我妈大概会问东问西。（叹气）所以我想着，要不先不跟他们说，自己先试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这是在问我，我猜爸妈会怎么反应。她好像想让我别把这事想得太严重，但我一想起我爸那句“别分心”，心里就有点发紧。我也知道跟同桌说两句话不算什么，可他们那种语气就是会让我觉得，自己是不是又在做不该做的事。）\n（而且我其实有点怕，说了之后他们要么不当回事，要么就盯着我，好像我做什么都得被评价。这种被盯着的感觉挺难受的，我可能还是更想自己先试试，不想一开始就让他们知道。）",
+        "reasoning": "（咨询师这是在问我，我猜爸妈会怎么反应。她好像想让我别把这事想得太严重，但我一想起我爸那句“别分心”，心里就有点发紧。我也知道跟同桌说两句话不算什么，可他们那种语气就是会让我觉得，自己是不是又在做不该做的事。）\n（而且我其实有点怕，说了之后他们要么不当回事，要么就盯着我，好像我做什么都得被评价。这种被盯着的感觉挺难受的，我可能还是更想自己先试试，不想一开始就让他们知道。）"
+      }
+    }
+  ],
+  "created": 1794800651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 3076,
+    "total_tokens": 3229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

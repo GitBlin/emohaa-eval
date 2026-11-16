@@ -1,0 +1,41 @@
+{
+  "id": "9a81d0b85deb4018a21e67f4d6652880",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会希望听到“没关系，先看看哪里能改”，而不是“你怎么又这样”。不过真让我自己对自己说，还挺别扭的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望听到的第一句话是什么……这个问题让我想到小时候考完试回家的场景。如果那时候听到的不是“考得怎么样”，而是别的什么，也许现在会不一样。）\n（可是真的要说出一句话，又觉得有点难为情。好像我一直在等别人说这句话，但自己从来没想过具体是什么。也许就是那种不带评价的、允许我不完美的感觉吧。）",
+        "reasoning": "（咨询师在问我希望听到的第一句话是什么……这个问题让我想到小时候考完试回家的场景。如果那时候听到的不是“考得怎么样”，而是别的什么，也许现在会不一样。）\n（可是真的要说出一句话，又觉得有点难为情。好像我一直在等别人说这句话，但自己从来没想过具体是什么。也许就是那种不带评价的、允许我不完美的感觉吧。）"
+      }
+    }
+  ],
+  "created": 1794544925,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2421,
+    "total_tokens": 2534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

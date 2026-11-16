@@ -1,0 +1,41 @@
+{
+  "id": "330501b3ba244370bfc01516417c5a4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那保密呢？我说的东西会不会被告诉别人？我在学校工作，挺怕被人知道的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更想了解流程还是说原因……他看起来挺温和的，说不会强迫我回答隐私。但我还是有点不放心，毕竟第一次见面，谁知道他会不会转头就把我的事说出去。我当老师，学校里最怕的就是闲言碎语，要是被人知道我来咨询，还不知道怎么传。不过他说可以自己选择说或不说，这倒让我稍微松了口气。先问清楚保密的事吧，这个对我来说最重要。）",
+        "reasoning": "（咨询师在问我更想了解流程还是说原因……他看起来挺温和的，说不会强迫我回答隐私。但我还是有点不放心，毕竟第一次见面，谁知道他会不会转头就把我的事说出去。我当老师，学校里最怕的就是闲言碎语，要是被人知道我来咨询，还不知道怎么传。不过他说可以自己选择说或不说，这倒让我稍微松了口气。先问清楚保密的事吧，这个对我来说最重要。）"
+      }
+    }
+  ],
+  "created": 1794541655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 975,
+    "total_tokens": 1094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

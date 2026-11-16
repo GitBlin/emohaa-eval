@@ -1,0 +1,41 @@
+{
+  "id": "f4cccc0d6c0b49e6be3ccf426b0bd3ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最不想让我爸妈知道吧，他们会觉得我想太多。（低声）学校也不太想……反正就是，我最近在学校有点难受，但说不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最担心被谁知道，这让我有点紧张。爸妈肯定不能知道，他们要是知道我因为同学几句话就难受，肯定觉得我不够努力。学校老师更不行，传出去太丢人了。）\n（不过他说会保护隐私，还解释了安全风险的情况，听起来还算可靠。但我还是不太敢直接说同学的事，先含糊一点吧，就说在学校有点难受，看看他接下来怎么问。）",
+        "reasoning": "（他问我最担心被谁知道，这让我有点紧张。爸妈肯定不能知道，他们要是知道我因为同学几句话就难受，肯定觉得我不够努力。学校老师更不行，传出去太丢人了。）\n（不过他说会保护隐私，还解释了安全风险的情况，听起来还算可靠。但我还是不太敢直接说同学的事，先含糊一点吧，就说在学校有点难受，看看他接下来怎么问。）"
+      }
+    }
+  ],
+  "created": 1794541613,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1075,
+    "total_tokens": 1194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

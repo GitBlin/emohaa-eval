@@ -1,0 +1,41 @@
+{
+  "id": "dd049a2538f9440ca26e1e40975a0ab9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写完作业到睡觉之间吧，那会儿最容易胡思乱想。不过我怕自己坚持不了几天，会不会又变成一种压力？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我打算把这几分钟放在晚上哪个时候。我得想一个具体又不那么像任务的时间点，不然又会变成要考核的事。）\n（写完作业到睡前，那段时间本来是我最慌的时候，总是忍不住回想今天又落后了多少。如果能把那几分钟放在那里，也许能打断一下那种循环。但我也怕自己做不到，所以得说清楚，做不到也不用怪自己。）",
+        "reasoning": "（心理咨询师在问我打算把这几分钟放在晚上哪个时候。我得想一个具体又不那么像任务的时间点，不然又会变成要考核的事。）\n（写完作业到睡前，那段时间本来是我最慌的时候，总是忍不住回想今天又落后了多少。如果能把那几分钟放在那里，也许能打断一下那种循环。但我也怕自己做不到，所以得说清楚，做不到也不用怪自己。）"
+      }
+    }
+  ],
+  "created": 1794536668,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3354,
+    "total_tokens": 3467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

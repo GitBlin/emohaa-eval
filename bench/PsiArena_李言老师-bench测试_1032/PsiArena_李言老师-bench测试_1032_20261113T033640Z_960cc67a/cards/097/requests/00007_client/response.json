@@ -1,0 +1,41 @@
+{
+  "id": "06ea361d43b748448ce19788e9dd348a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一停下来就……发慌。好像只要还有事没做，我就不该休息。可能从小就这样吧，事情没做完心里就不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的这个问题，我其实自己也想过很多次。晚上那段时间，一停下来就觉得心里发慌，好像有什么事没做，整个人都不踏实。）\n（而且我从小好像就是这样，事情没做完就没法安心。可能这跟家里有关吧，但我不太想现在就说得太深，先看看他会不会顺着问下去。）",
+        "reasoning": "（他问的这个问题，我其实自己也想过很多次。晚上那段时间，一停下来就觉得心里发慌，好像有什么事没做，整个人都不踏实。）\n（而且我从小好像就是这样，事情没做完就没法安心。可能这跟家里有关吧，但我不太想现在就说得太深，先看看他会不会顺着问下去。）"
+      }
+    }
+  ],
+  "created": 1794550935,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1449,
+    "total_tokens": 1552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

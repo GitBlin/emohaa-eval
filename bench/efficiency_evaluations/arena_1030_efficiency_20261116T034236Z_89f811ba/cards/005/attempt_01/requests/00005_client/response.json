@@ -1,0 +1,47 @@
+{
+  "id": "0f9c55ea337440cfbde2a5621ed18dc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……说不好，可能从小就习惯先想是不是自己的问题吧。不过现在我还不太想往那方面说，我们是不是聊得有点快了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师问我这句话最早从哪学来的，可我现在还不想往家里扯那么深。我们才聊了几轮，我还不确定她会不会真的理解我，还是只是走个流程。而且她刚才说不会觉得我敏感，这话听着是舒服，但我有点怕她只是客套。）\n（我得先试探一下她到底怎么看待我这种状态。如果她觉得我这样想很正常，那我可能还能再往下说一点；但如果她也觉得我太在意别人，那我可能就得收着点。毕竟我不想被人当成那种太黏人、太脆弱的人。）",
+        "reasoning": "（这个咨询师问我这句话最早从哪学来的，可我现在还不想往家里扯那么深。我们才聊了几轮，我还不确定她会不会真的理解我，还是只是走个流程。而且她刚才说不会觉得我敏感，这话听着是舒服，但我有点怕她只是客套。）\n（我得先试探一下她到底怎么看待我这种状态。如果她觉得我这样想很正常，那我可能还能再往下说一点；但如果她也觉得我太在意别人，那我可能就得收着点。毕竟我不想被人当成那种太黏人、太脆弱的人。）"
+      }
+    }
+  ],
+  "created": 1794800703,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 1299,
+    "total_tokens": 1454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

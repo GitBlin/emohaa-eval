@@ -1,0 +1,41 @@
+{
+  "id": "beeaab99c1e3419ba2eec3491f916fe1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好。那，我说话的内容，你会告诉别人吗？比如我学校或者家里人。我不是不信任你，就是，想先问清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说不用紧张，按自己的节奏说就行，还问我先从哪件事说起。听起来确实像聊天，但他说“了解情况”又让我有点不确定——他到底会怎么了解？会不会问很多我不想说的东西？）\n（作为来访者，我本来就对别人怎么看我特别敏感，现在面对一个陌生咨询师，更得先试探一下他的边界在哪里。直接说太多我自己的事太冒险了，万一他评判我呢？还是先问清楚他会怎么处理我说的话比较安全。）",
+        "reasoning": "（刚才咨询师说不用紧张，按自己的节奏说就行，还问我先从哪件事说起。听起来确实像聊天，但他说“了解情况”又让我有点不确定——他到底会怎么了解？会不会问很多我不想说的东西？）\n（作为来访者，我本来就对别人怎么看我特别敏感，现在面对一个陌生咨询师，更得先试探一下他的边界在哪里。直接说太多我自己的事太冒险了，万一他评判我呢？还是先问清楚他会怎么处理我说的话比较安全。）"
+      }
+    }
+  ],
+  "created": 1794544133,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1016,
+    "total_tokens": 1159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ba0c20465c9047f1b984cff39aa52c07",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都怕吧……但更多是怕自己做错了什么，却完全不知道。我总想找点证据，可又找不到，越想越乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是怕她疏远，还是怕自己做错。这两个其实都怕，但更让我难受的是不知道原因。我总觉得自己得做点什么，可又不知道从哪下手。）\n（可能跟我的习惯有关吧，家里从小就这样，事情没弄清楚之前，先想是不是自己有问题。现在也是，她越不说，我越往自己身上找原因，越想越乱。）",
+        "reasoning": "（她问我是怕她疏远，还是怕自己做错。这两个其实都怕，但更让我难受的是不知道原因。我总觉得自己得做点什么，可又不知道从哪下手。）\n（可能跟我的习惯有关吧，家里从小就这样，事情没弄清楚之前，先想是不是自己有问题。现在也是，她越不说，我越往自己身上找原因，越想越乱。）"
+      }
+    }
+  ],
+  "created": 1794555438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1780,
+    "total_tokens": 1897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6709a1137e61465bb0fecc080cac30bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "把笔放床边……听起来有点傻。不过那个念头估计还是会说“这有什么用”，跟我爸当年一个口气。但只是放支笔的话，好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把笔放床边，这听起来太简单了，简单到我都有点想笑。不过仔细想想，我的念头大概会立刻跳出来说“这有什么用”。）\n（可是如果我不去管它，就只把笔放那儿，好像也不是完全做不到。至少这件事比“好好学习”要小得多，小到那个声音可能都懒得理。）",
+        "reasoning": "（她让我把笔放床边，这听起来太简单了，简单到我都有点想笑。不过仔细想想，我的念头大概会立刻跳出来说“这有什么用”。）\n（可是如果我不去管它，就只把笔放那儿，好像也不是完全做不到。至少这件事比“好好学习”要小得多，小到那个声音可能都懒得理。）"
+      }
+    }
+  ],
+  "created": 1794556448,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2653,
+    "total_tokens": 2769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

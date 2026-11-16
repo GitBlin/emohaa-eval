@@ -1,0 +1,41 @@
+{
+  "id": "c60128f101ee4c83bd75b8134d3417b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……说不上来。（沉默了几秒）有时候听到我妈在那边忙来忙去的声音，我就特别烦，也不知道烦什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说随便聊...可我真的不知道该从哪里说起。她说不用提前想好，但我总觉得得说点什么才不尴尬。最近最常冒出来的事...其实我也说不清，就是那种烦闷的感觉一直缠着我。）\n（她看起来挺温和的，但我还是不太敢直接说那些很深的东西。先随便说点表面的吧，就说那种闷闷的感觉好了，这样既回答了问题又不会暴露太多。）",
+        "reasoning": "（这个咨询师说随便聊...可我真的不知道该从哪里说起。她说不用提前想好，但我总觉得得说点什么才不尴尬。最近最常冒出来的事...其实我也说不清，就是那种烦闷的感觉一直缠着我。）\n（她看起来挺温和的，但我还是不太敢直接说那些很深的东西。先随便说点表面的吧，就说那种闷闷的感觉好了，这样既回答了问题又不会暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794537553,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1034,
+    "total_tokens": 1155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e292d4f10a3043afa05ea54fea66695a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧……一个人的时候就胡思乱想，越想越难受。对了，你们咨询师是不是什么都会保密？我有点担心说出去的事被别人知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我烦躁的具体时间，这让我有点犹豫要不要说实话。其实晚上更严重，因为一个人待着就会胡思乱想，但又觉得说出来显得自己很脆弱。而且我还在试探咨询师，不确定她会不会评判我。）\n（还是先模糊地说晚上吧，但不要说得太深。顺便问问她会不会告诉别人，这样能看看她是不是真的能保密。）",
+        "reasoning": "（咨询师在问我烦躁的具体时间，这让我有点犹豫要不要说实话。其实晚上更严重，因为一个人待着就会胡思乱想，但又觉得说出来显得自己很脆弱。而且我还在试探咨询师，不确定她会不会评判我。）\n（还是先模糊地说晚上吧，但不要说得太深。顺便问问她会不会告诉别人，这样能看看她是不是真的能保密。）"
+      }
+    }
+  ],
+  "created": 1794542561,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1132,
+    "total_tokens": 1248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

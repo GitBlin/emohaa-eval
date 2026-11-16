@@ -1,0 +1,41 @@
+{
+  "id": "c48db60b17d44fb8979c42b6e44f8c3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就是刷手机、看视频，想把自己弄累一点。但说实话，没什么用，躺下还是照样想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎在引导我关注应对方式，但我现在更想先找到实际能做的事。那些念头涌上来的时候，我其实试过转移注意力，但效果不大。也许可以试试把具体困扰写下来，这样至少能理清一点头绪。）\n（不过说实话，写下来之后呢？我有点怀疑这真的有用吗。但总比什么都不做强，而且咨询师应该会给我一些反馈。先试试看吧，至少是个开始。）",
+        "reasoning": "（咨询师似乎在引导我关注应对方式，但我现在更想先找到实际能做的事。那些念头涌上来的时候，我其实试过转移注意力，但效果不大。也许可以试试把具体困扰写下来，这样至少能理清一点头绪。）\n（不过说实话，写下来之后呢？我有点怀疑这真的有用吗。但总比什么都不做强，而且咨询师应该会给我一些反馈。先试试看吧，至少是个开始。）"
+      }
+    }
+  ],
+  "created": 1794543753,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2693,
+    "total_tokens": 2818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

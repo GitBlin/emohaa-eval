@@ -1,0 +1,41 @@
+{
+  "id": "63b7e35f6c634ca8ab2185312cda328d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会跟自己说：“这次没说完，下次再说。”听起来有点轻，但总比又怪自己强。今天聊完，我大概知道可以先写下来、先练着说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（最后这句话让我心里松了一下。原来缩回去也可以不算失败，这个说法我以前没想过。我本来以为咨询到最后，会得到一个“一定要做到”的答案，现在反而觉得，能允许自己下次再试，好像更踏实。）\n（那张纸我会先放在手机里，不急着给他看。先自己练几遍，心里有底了再说。这样想的时候，好像没那么怕了，也知道接下来该往哪儿走。）",
+        "reasoning": "（最后这句话让我心里松了一下。原来缩回去也可以不算失败，这个说法我以前没想过。我本来以为咨询到最后，会得到一个“一定要做到”的答案，现在反而觉得，能允许自己下次再试，好像更踏实。）\n（那张纸我会先放在手机里，不急着给他看。先自己练几遍，心里有底了再说。这样想的时候，好像没那么怕了，也知道接下来该往哪儿走。）"
+      }
+    }
+  ],
+  "created": 1794536117,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3645,
+    "total_tokens": 3780,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

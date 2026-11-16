@@ -1,0 +1,41 @@
+{
+  "id": "dc377d6b3d1a4514ab2c883c4b545e11",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心对方敷衍我，或者突然很认真地关心，我反而不知道怎么接。可能我家里就不太这样，表达情绪总像在添乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在问“担心对方反应”这种问题……上次我提到等别人主动看出来，他好像没完全明白那种矛盾。其实我既怕说了被敷衍，又怕真的被关心了，因为那样反而不知道该怎么接。）\n（家里从小就是这样，表达情绪要么被忽略，要么被当成不懂事。所以现在哪怕只是稍微露出一点不开心，我都觉得是在打破某种规矩，很别扭。）",
+        "reasoning": "（咨询师又在问“担心对方反应”这种问题……上次我提到等别人主动看出来，他好像没完全明白那种矛盾。其实我既怕说了被敷衍，又怕真的被关心了，因为那样反而不知道该怎么接。）\n（家里从小就是这样，表达情绪要么被忽略，要么被当成不懂事。所以现在哪怕只是稍微露出一点不开心，我都觉得是在打破某种规矩，很别扭。）"
+      }
+    }
+  ],
+  "created": 1794541102,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1979,
+    "total_tokens": 2099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

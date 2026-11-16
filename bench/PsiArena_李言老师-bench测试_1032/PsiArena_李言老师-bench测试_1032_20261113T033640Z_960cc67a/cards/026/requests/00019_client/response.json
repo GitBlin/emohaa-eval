@@ -1,0 +1,41 @@
+{
+  "id": "ed39a3b428d74d89b19e312bb0b8df8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说“你自己想办法弄好的，真不错”，别光说“行了行了”。不过我怕说多了又显得刻意，反而怪怪的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在会怎么夸她，看来是想让我把那次包饺子的经验用到以后。我有点紧张，怕自己说得太刻意，孩子一眼就能看穿。不过仔细想想，夸她“自己想办法”应该比只夸结果更自然，孩子听了也不会觉得假。）\n（但光夸好像还不够，我们之间的问题不只是夸不夸。我想到一个更实际的办法，就是固定一个时间，只聊她的事，不聊成绩。这个主意让我稍微踏实一点，至少知道接下来能做什么。）",
+        "reasoning": "（她问我现在会怎么夸她，看来是想让我把那次包饺子的经验用到以后。我有点紧张，怕自己说得太刻意，孩子一眼就能看穿。不过仔细想想，夸她“自己想办法”应该比只夸结果更自然，孩子听了也不会觉得假。）\n（但光夸好像还不够，我们之间的问题不只是夸不夸。我想到一个更实际的办法，就是固定一个时间，只聊她的事，不聊成绩。这个主意让我稍微踏实一点，至少知道接下来能做什么。）"
+      }
+    }
+  ],
+  "created": 1794549419,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2821,
+    "total_tokens": 2963,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:42:08.179459+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn the small town, Aunt Wang is a beloved neighbor. She often shares fresh vegetables and fruits from her own garden. One day, someone steals her watermelon, but she does not make a fuss. When the neighbors ask, she just says, \"My watermelon is not ripe yet.\n\n[Question]\nWhy does Aunt Wang say this?\n\n[Candidate Answers]\nA. Aunt Wang says this because she hopes the neighbors think the quality of her watermelon is especially good and needs some time to ripen.\nB. Aunt Wang says this because she wants to protect her own privacy and avoid letting everyone know that her watermelon gets stolen.\nC. Aunt Wang just learns a new agricultural technique and wants to let the watermelon ripen a bit more before picking, so she tells the neighbors that the watermelon is not ripe yet.\nD. The watermelon at Aunt Wang's home is actually a special variety that needs more time to ripen, so she tells the neighbors it is not ripe yet.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

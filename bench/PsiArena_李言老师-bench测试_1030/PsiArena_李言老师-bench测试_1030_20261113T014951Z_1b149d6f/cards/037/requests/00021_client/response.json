@@ -1,0 +1,41 @@
+{
+  "id": "4018f51bad674814b04ebed6245c677d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她要是能说一句“我最近就是累，想自己待会儿”，我就踏实了。哪怕她说“没事，别多想”也行，总比什么都不说强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一说，我好像有点明白了。我确实容易把担心变成自责，好像非要在自己身上找点错才踏实。可要是她能直接告诉我她累了，或者想自己待会儿，我反而不用瞎猜。不过这么想是不是太理想化了，她真会这么说吗？）\n（我其实更怕的是，我这么问了她还是什么都不说。但既然咨询师提醒了，我可以试着把话说清楚，不是要她立刻回应我什么，就是想知道她大概怎么回事。这样至少我自己心里有个底，不至于一直悬着。）",
+        "reasoning": "（她这么一说，我好像有点明白了。我确实容易把担心变成自责，好像非要在自己身上找点错才踏实。可要是她能直接告诉我她累了，或者想自己待会儿，我反而不用瞎猜。不过这么想是不是太理想化了，她真会这么说吗？）\n（我其实更怕的是，我这么问了她还是什么都不说。但既然咨询师提醒了，我可以试着把话说清楚，不是要她立刻回应我什么，就是想知道她大概怎么回事。这样至少我自己心里有个底，不至于一直悬着。）"
+      }
+    }
+  ],
+  "created": 1794536451,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 3322,
+    "total_tokens": 3478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

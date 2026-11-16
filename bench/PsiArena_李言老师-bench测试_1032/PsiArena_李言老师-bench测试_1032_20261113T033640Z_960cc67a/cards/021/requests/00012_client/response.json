@@ -1,0 +1,41 @@
+{
+  "id": "57be2675d48845ce87b0ec73badf609d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不好……有时候像怀念，有时候又像不放心我。我家里人一向不爱把话挑明，什么都要靠猜，我从小就这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我母亲说话的语气，这让我又想起那些场景。她总是用那种很轻的声音讲我小时候的事，好像怕我记不住似的。可我一听到这些就忍不住想，她是不是在暗示什么，是不是在跟我告别。这种念头让我胸口发紧，又不敢直接问她。）\n（而且家里的事从来都是这样，谁都不愿意把话挑明。我从小就被教育要懂事，要照顾别人的感受，可现在这种沉默让我更难受。我甚至不敢跟她说我害怕，怕她更担心。）",
+        "reasoning": "（咨询师在问我母亲说话的语气，这让我又想起那些场景。她总是用那种很轻的声音讲我小时候的事，好像怕我记不住似的。可我一听到这些就忍不住想，她是不是在暗示什么，是不是在跟我告别。这种念头让我胸口发紧，又不敢直接问她。）\n（而且家里的事从来都是这样，谁都不愿意把话挑明。我从小就被教育要懂事，要照顾别人的感受，可现在这种沉默让我更难受。我甚至不敢跟她说我害怕，怕她更担心。）"
+      }
+    }
+  ],
+  "created": 1794548876,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1980,
+    "total_tokens": 2128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

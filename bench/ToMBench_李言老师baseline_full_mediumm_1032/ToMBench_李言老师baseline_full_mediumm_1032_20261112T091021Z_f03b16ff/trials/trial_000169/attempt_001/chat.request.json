@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:12:05.439371+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nDaxiong and Xiaozhi are good friends, they often go out to play together. A-Ming is their classmate, he is always with Xiaozhi every day. One day, Daxiong meets A-Ming in the corridor, but Xiaozhi is not with him. A-Ming looks out the window with a gloomy face. Daxiong asks A-Ming: \"How is Xiaozhi?\" A-Ming swallows and looks into Daxiong's eyes and says: \"Xiaozhi... I am not clear either.\" A-Ming's answer confuses Daxiong. Later, Daxiong sees Xiaozhi sitting in the corner of the classroom, looking sad. Daxiong walks over, but Xiaozhi pretends not to see.\n\n[Question]\nWhy does Daxiong ask A-Ming how Xiaozhi is?\n\n[Candidate Answers]\nA. Daxiong admires the friendship between A-Ming and Xiaozhi, wants to get involved.\nB. Daxiong wants to inquire about the relationship between A-Ming and Xiaozhi.\nC. Daxiong wants to understand the situation of Xiaozhi.\nD. Daxiong just asks casually, wants to tease A-Ming.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

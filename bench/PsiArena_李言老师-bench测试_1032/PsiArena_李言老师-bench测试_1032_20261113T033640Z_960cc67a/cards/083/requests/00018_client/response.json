@@ -1,0 +1,41 @@
+{
+  "id": "ff5276c5866449d8993e3ef9878d6814",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……散步吧，出去走走总比闷在家里强。不过得定个时间，不然我又容易拖着不动。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化行动，这让我稍微踏实一点。不过想到要真的开始做点什么，心里还是有点没底。散步听起来简单，但一个人晚上出去，会不会又胡思乱想？）\n（还是先选个最不费劲的吧。散步至少不用准备什么，也不用跟人打交道。但得定个能坚持的量，不然又变成压力了。）",
+        "reasoning": "（咨询师在引导我具体化行动，这让我稍微踏实一点。不过想到要真的开始做点什么，心里还是有点没底。散步听起来简单，但一个人晚上出去，会不会又胡思乱想？）\n（还是先选个最不费劲的吧。散步至少不用准备什么，也不用跟人打交道。但得定个能坚持的量，不然又变成压力了。）"
+      }
+    }
+  ],
+  "created": 1794545605,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2640,
+    "total_tokens": 2749,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

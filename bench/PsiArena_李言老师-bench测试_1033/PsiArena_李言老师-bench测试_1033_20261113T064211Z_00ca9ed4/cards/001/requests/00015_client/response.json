@@ -1,0 +1,41 @@
+{
+  "id": "8423f62104c04ac88082ef47dfdebf4e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会啊，老响了。每次我想跟同学说点什么，那声音就冒出来：“别浪费时间了，回去做题吧。”弄得我话到嘴边又咽回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才说到“一次没做成，顶多说明这件事还没找到方法”，这话让我心里松了一下。可紧接着又问爸妈的话还会不会响起来，我立马就想到每次想跟同学说话时脑子里那个声音。我其实挺烦那声音的，它总在关键时刻冒出来，让我连开口都变得犹豫。）\n（我觉得自己好像开始能分清一点了，那声音不全是我的，可它又确实一直跟着我。也许说出来能让咨询师明白，我不是不想改，是那声音太缠人了。）",
+        "reasoning": "（咨询师刚才说到“一次没做成，顶多说明这件事还没找到方法”，这话让我心里松了一下。可紧接着又问爸妈的话还会不会响起来，我立马就想到每次想跟同学说话时脑子里那个声音。我其实挺烦那声音的，它总在关键时刻冒出来，让我连开口都变得犹豫。）\n（我觉得自己好像开始能分清一点了，那声音不全是我的，可它又确实一直跟着我。也许说出来能让咨询师明白，我不是不想改，是那声音太缠人了。）"
+      }
+    }
+  ],
+  "created": 1794552198,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2473,
+    "total_tokens": 2623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "a8cb7079eb8d4eceb48cffb4fb32ed3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有的，小周，之前约过她一次，她挺痛快就答应了。不过那次我反而有点意外，还偷偷想她是不是客气一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有人爽快答应过……有的，小周那次。可我当时没觉得高兴，反而怀疑人家是不是客气。现在想想，我好像总在找证据证明自己不被喜欢，连别人答应了都不敢信。）\n（这大概就是我一直以来的毛病吧，还没开始就先给自己判了死刑。说出来有点难为情，但好像确实是这样。）",
+        "reasoning": "（她问有没有人爽快答应过……有的，小周那次。可我当时没觉得高兴，反而怀疑人家是不是客气。现在想想，我好像总在找证据证明自己不被喜欢，连别人答应了都不敢信。）\n（这大概就是我一直以来的毛病吧，还没开始就先给自己判了死刑。说出来有点难为情，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794800625,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2427,
+    "total_tokens": 2537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

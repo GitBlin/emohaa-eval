@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_004948",
+  "sample_id": "Strange Story Task:232",
+  "task_file": "Strange Story Task",
+  "ability": "Non-literal communication: White lies",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "A",
+  "prediction_original": "B",
+  "reply": "[[A]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:21:41.653749+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:22:02.930568+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "7fd7a16aadae4373a918d66615c3c158"
+  ],
+  "started_at": "2026-11-12T10:21:41.653749+00:00",
+  "finished_at": "2026-11-12T10:22:08.583933+00:00",
+  "elapsed_seconds": 26.930287040770054,
+  "user_id": "liyan_c720f6f156202e9206a18a26cadcf2829b33c165"
+}

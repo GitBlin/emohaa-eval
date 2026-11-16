@@ -1,0 +1,41 @@
+{
+  "id": "d5980d4aae164b478ad039cbbc05cd9c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "睡得挺差的。经常弄完那些事一看已经快一点了，第二天又累又后悔，跟自己说下次一定不这样……然后晚上照旧。挺没意思的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我睡得怎么样，这个问题让我有点烦躁。不是因为他问得不对，而是我每天都被这个问题困扰，却说不清楚。我不想显得太脆弱，但确实很累。）\n（我得说点什么，但又不想说得太深入，毕竟我还不太确定他会不会真的理解。也许可以稍微带一点自嘲，这样既回答了问题，又不会显得太沉重。）",
+        "reasoning": "（咨询师问我睡得怎么样，这个问题让我有点烦躁。不是因为他问得不对，而是我每天都被这个问题困扰，却说不清楚。我不想显得太脆弱，但确实很累。）\n（我得说点什么，但又不想说得太深入，毕竟我还不太确定他会不会真的理解。也许可以稍微带一点自嘲，这样既回答了问题，又不会显得太沉重。）"
+      }
+    }
+  ],
+  "created": 1794550932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1353,
+    "total_tokens": 1471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

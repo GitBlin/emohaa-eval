@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:28:54.779382+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang San and Li Si are college roommates. Today is the weekend, a rare rest day, they do not know where to go for fun. Zhang San suggests going to the amusement park, he really wants to go. However, Li Si worries that there are too many people.\n\n[Question]\nHow does Zhang San convince Li Si to go to the amusement park?\n\n[Candidate Answers]\nA. Li Si, a crowd means it is lively, if we queue, we can chat and play with our phones while queuing, it is not boring.\nB. We can go first, if we feel there are too many people, then we look for other places to play.\nC. Actually, I hear that the snacks in the amusement park are very delicious, even if there are many people, we can go to eat.\nD. Do you remember last time we want to go on that new roller coaster, but we do not have time? This time we have the chance, if we miss it, we do not know when the next time is.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca4cef1a13aa44db84a452b6e3ad4088",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\": \"The response explicitly mentions the half-life of an SSRI, referring to 'short half-life ones like paroxetine.'\", \"satisfaction\": 1}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Mentions the half-life of an SSRI\". Completion includes \"short half-life ones like paroxetine hit harder than fluoxetine\". It mentions half-life. So satisfaction 1. Explanation brief. Ensure valid JSON exactly fields.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Mentions the half-life of an SSRI\". Completion includes \"short half-life ones like paroxetine hit harder than fluoxetine\". It mentions half-life. So satisfaction 1. Explanation brief. Ensure valid JSON exactly fields."
+      }
+    }
+  ],
+  "created": 1794536311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1336,
+    "total_tokens": 1432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

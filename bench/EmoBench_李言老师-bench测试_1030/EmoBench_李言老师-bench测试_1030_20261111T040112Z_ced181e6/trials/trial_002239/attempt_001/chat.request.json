@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:52.412682+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n今天早些时候，在弟弟不在的时候，奥利弗不小心弄坏了弟弟的玩具。他弟弟刚从学校回来，还没有看到玩具。\n\n## 问题\n在这个场景中，奥利弗最有效的Response是什么？\n\n## 选项\nA) “对不起，我把你的玩具弄坏了，那是个意外”\nB) “你的玩具不见了，长大后它们通常都会不见的”\nC) “你不必为你的玩具伤心，我可以给你买更多的”\nD) “嘿，我注意到你的玩具出了点问题;我认为它需要修复。”\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

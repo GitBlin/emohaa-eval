@@ -1,0 +1,41 @@
+{
+  "id": "cd9a22dfbe0f4c4c9a485ebf01f1bcf9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试过转移注意力，可越是想不看，眼睛越往那边瞟。有时候还会翻箱倒柜找一遍，明知道找不到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么应对那种咯噔一下的感觉……说实话我好像真没什么办法，就是硬扛着。想转移注意力，可越是想不去看，那些瓶瓶罐罐就越扎眼。）\n（其实我有时候会忍不住翻找，明知道找不到，还是想确认一下。但又怕别人看见，觉得我太夸张了。这种感觉真挺累的，好像被什么东西牵着走。）",
+        "reasoning": "（她问我怎么应对那种咯噔一下的感觉……说实话我好像真没什么办法，就是硬扛着。想转移注意力，可越是想不去看，那些瓶瓶罐罐就越扎眼。）\n（其实我有时候会忍不住翻找，明知道找不到，还是想确认一下。但又怕别人看见，觉得我太夸张了。这种感觉真挺累的，好像被什么东西牵着走。）"
+      }
+    }
+  ],
+  "created": 1794555944,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1947,
+    "total_tokens": 2062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

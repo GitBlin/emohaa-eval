@@ -1,0 +1,41 @@
+{
+  "id": "3c6af48080a64053b6f4c1f087da24f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢调整呼吸）肩膀……一直端着，现在好像松了一点。胸口刚才闷闷的，现在没那么紧了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体的感觉，这让我有点意外。我一直都习惯用脑子去想问题，很少停下来注意身体。不过刚才那句“你已经做得可以了”确实让我心里有点松动，好像胸口真的没那么堵了。也许我可以说出来，虽然有点不习惯。）\n（肩膀和胸口的感觉……肩膀确实一直端着，好像随时准备应付什么。胸口刚才还有点闷，现在稍微好一点。这种变化挺细微的，说出来会不会显得太琐碎？但咨询师问得很认真，而且刚才她说的那句话让我觉得她是真的在听。）",
+        "reasoning": "（咨询师问我身体的感觉，这让我有点意外。我一直都习惯用脑子去想问题，很少停下来注意身体。不过刚才那句“你已经做得可以了”确实让我心里有点松动，好像胸口真的没那么堵了。也许我可以说出来，虽然有点不习惯。）\n（肩膀和胸口的感觉……肩膀确实一直端着，好像随时准备应付什么。胸口刚才还有点闷，现在稍微好一点。这种变化挺细微的，说出来会不会显得太琐碎？但咨询师问得很认真，而且刚才她说的那句话让我觉得她是真的在听。）"
+      }
+    }
+  ],
+  "created": 1794535692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2465,
+    "total_tokens": 2608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

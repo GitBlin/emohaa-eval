@@ -1,0 +1,41 @@
+{
+  "id": "e6a34ed25c7c400f968ad1d46a8c2756",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点酸，但也……有点暖。好像第一次没急着骂自己。就是不知道这种感觉，回去以后还能不能留得住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（听到这句“没事，回来就好”，心里突然有点酸。以前总觉得要对自己狠一点才能不犯错，现在这样轻轻跟自己说话，反而有点不习惯，好像心里某个一直绷着的地方松了一点。）\n（但同时又有点担心，这种温柔会不会只是今天聊完的感觉，一回到公司就没了。毕竟周围还是那些人，那些话，我能不能真的记住对自己好一点。）",
+        "reasoning": "（听到这句“没事，回来就好”，心里突然有点酸。以前总觉得要对自己狠一点才能不犯错，现在这样轻轻跟自己说话，反而有点不习惯，好像心里某个一直绷着的地方松了一点。）\n（但同时又有点担心，这种温柔会不会只是今天聊完的感觉，一回到公司就没了。毕竟周围还是那些人，那些话，我能不能真的记住对自己好一点。）"
+      }
+    }
+  ],
+  "created": 1794552544,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3426,
+    "total_tokens": 3536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:47:57.392170+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nTom, a PhD student, has been given a piece of research work by his supervisor. While his labmates seem to find the task easy, he finds it challenging and cannot comprehend it completely.\n\n## Question \nIn this scenario, what is the most effective Action for Tom?\n\n## Choices\nA) Proceed and try to accomplish the task on his own\nB) Admit his lack of understanding and ask his supervisor for help\nC) Find a labmate who can help him understand the task\nD) Take the task lightly and hope for the best\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

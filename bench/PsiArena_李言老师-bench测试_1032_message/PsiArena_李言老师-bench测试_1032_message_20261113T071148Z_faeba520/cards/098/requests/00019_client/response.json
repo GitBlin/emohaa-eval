@@ -1,0 +1,41 @@
+{
+  "id": "1d608f4d34ba4a1b8e34a3d675144edf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸？我在学校紧张的时候试过，好像有点用。对了……厕所那个事，我是不是也该少待一会儿？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么让自己缓一缓，说明她真的在帮我想具体的办法，不是光讲道理。我有点紧张，但也觉得可以试试。我想到深呼吸，这个在学校紧张的时候试过，好像有点用。不过厕所那个事，我还是有点不好意思说，但既然都聊到这儿了，说出来可能比憋着好。）\n（我得把话说短一点，别说得太乱。先回答深呼吸，再提一句厕所的事，看看她怎么说。）",
+        "reasoning": "（咨询师在问我怎么让自己缓一缓，说明她真的在帮我想具体的办法，不是光讲道理。我有点紧张，但也觉得可以试试。我想到深呼吸，这个在学校紧张的时候试过，好像有点用。不过厕所那个事，我还是有点不好意思说，但既然都聊到这儿了，说出来可能比憋着好。）\n（我得把话说短一点，别说得太乱。先回答深呼吸，再提一句厕所的事，看看她怎么说。）"
+      }
+    }
+  ],
+  "created": 1794558679,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2685,
+    "total_tokens": 2813,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

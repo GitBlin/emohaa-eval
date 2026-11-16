@@ -1,0 +1,41 @@
+{
+  "id": "dd2c72aa277b481d895afaa2ee6d50ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过吧……比如那次旅行，她会记得我不吃辣，还主动帮我挡了一下。可有时候又觉得，她对别人好像也差不多。嗯……我是不是想太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我她有没有做过什么让我觉得自己有位置……这问题让我有点难受，因为确实有，但那些事又让我更困惑。一起旅行那次她靠着我睡，还有我加班时她给我点外卖，这些事让我觉得特别，可她对别人好像也这样。）\n（我其实不太想承认自己把那些小事记得那么清楚，显得太在意了。但既然她问了，我还是说一件吧，不然显得我在回避。不过说完之后，我得把话题转开一点，不然她会继续往下挖，我现在还不想说太深。）",
+        "reasoning": "（她问我她有没有做过什么让我觉得自己有位置……这问题让我有点难受，因为确实有，但那些事又让我更困惑。一起旅行那次她靠着我睡，还有我加班时她给我点外卖，这些事让我觉得特别，可她对别人好像也这样。）\n（我其实不太想承认自己把那些小事记得那么清楚，显得太在意了。但既然她问了，我还是说一件吧，不然显得我在回避。不过说完之后，我得把话题转开一点，不然她会继续往下挖，我现在还不想说太深。）"
+      }
+    }
+  ],
+  "created": 1794543053,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 1280,
+    "total_tokens": 1437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

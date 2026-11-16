@@ -1,0 +1,55 @@
+{
+  "trial_id": "trial_001773",
+  "sample_id": "EA:192",
+  "task": "EA",
+  "language": "en",
+  "repeat": 0,
+  "category": "Social-Self",
+  "fine_category": null,
+  "question_type": "Response",
+  "labels": {
+    "answer": "B"
+  },
+  "maps": {
+    "answer": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_0ac443ec786923b8ba1e6e090b8082f213cc4e80",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "```json\n{\n    \"answer\": \"D\"\n}\n```",
+  "prediction_original": {
+    "answer": "D"
+  },
+  "component_correct": {
+    "answer": false
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T04:02:42.758765+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer": "D"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.1080721095204353,
+  "finished_at": "2026-11-11T04:02:44.866801+00:00"
+}

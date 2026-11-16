@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:11:19.598407+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Ming and Zhang Hua are assigned to an important project, their performance in this project affects promotion. The day before the project is about to end, Li Ming temporarily leaves the office, Xiao Chen sees Zhang Hua take the opportunity to walk to Li Ming's computer, quickly hits the keyboard a few times. Then, Li Ming's computer screen suddenly turns black, it seems to be restarting. Zhang Hua sees Xiao Chen, his expression is not very natural, but he quickly regains calm, smiles at her. He then hurries back to his own seat. When Li Ming comes back, Zhang Hua quickly stands up, proposes to go to the pantry to eat something, he seems to want to distract Li Ming. Xiao Chen notices that Li Ming's computer fails to restart, it is already blue screen.\n\n[Question]\nWhat does Li Ming do next?\n\n[Candidate Answers]\nA. Li Ming can decide not to deal with the computer problem immediately, but first goes to the pantry with Zhang Hua to eat something, in this way he can temporarily divert his attention, and later deals with this problem with a cooler head.\nB. Li Ming can report this problem to his manager or IT department, and explain his suspicions. In this way, he gets professional help to solve the computer problem, and lets the management know about possible destructive behavior.\nC. Li Ming can see this computer failure as a learning opportunity, he thinks this is a chance to test and improve his problem-solving ability, not a threat or trouble.\nD. Li Ming can immediately check the hardware connections of the computer, see if there are loose cables or other obvious problems. Then he can try to restart the computer, and check if he can enter safe mode to fix possible software problems.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

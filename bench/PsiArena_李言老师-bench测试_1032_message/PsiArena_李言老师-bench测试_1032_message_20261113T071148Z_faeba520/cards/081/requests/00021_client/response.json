@@ -1,0 +1,41 @@
+{
+  "id": "a46f4258e29f4d0bbca1d7d139d8ae06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它估计又要说“看吧，半途而废”。我打算回它一句“我明天还翻”，虽然现在我都不太信自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这是在帮我把那个苛刻的声音具体化，让我预演一下真困了放下书时它会说什么。我大概能猜到，它肯定又会说我半途而废。）\n（不过现在好像没那么怕它了。我可以试着回它一句，反正困了就是困了，明天接着翻也行。这感觉有点怪，但不算太坏。）",
+        "reasoning": "（咨询师这是在帮我把那个苛刻的声音具体化，让我预演一下真困了放下书时它会说什么。我大概能猜到，它肯定又会说我半途而废。）\n（不过现在好像没那么怕它了。我可以试着回它一句，反正困了就是困了，明天接着翻也行。这感觉有点怪，但不算太坏。）"
+      }
+    }
+  ],
+  "created": 1794557788,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2830,
+    "total_tokens": 2939,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

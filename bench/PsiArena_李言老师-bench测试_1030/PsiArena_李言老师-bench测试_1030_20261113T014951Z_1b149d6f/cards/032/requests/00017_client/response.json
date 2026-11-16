@@ -1,0 +1,41 @@
+{
+  "id": "dc09a5bc31784a1b8538f47533c36dbc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“我今天有点低落，想听你说句话”，不说那些“放手”了。这样会不会还是有点重？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想从哪句话开始试，我得想个具体又不太难开口的。不能一上来就太沉重，怕自己又缩回去。）\n（也许可以先从“我今天有点低落，想听你说句话”这种开始，既说出了感受，也没把全部压力丢给他。这样我好像能稍微稳住一点。）",
+        "reasoning": "（她问我想从哪句话开始试，我得想个具体又不太难开口的。不能一上来就太沉重，怕自己又缩回去。）\n（也许可以先从“我今天有点低落，想听你说句话”这种开始，既说出了感受，也没把全部压力丢给他。这样我好像能稍微稳住一点。）"
+      }
+    }
+  ],
+  "created": 1794536219,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2687,
+    "total_tokens": 2783,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

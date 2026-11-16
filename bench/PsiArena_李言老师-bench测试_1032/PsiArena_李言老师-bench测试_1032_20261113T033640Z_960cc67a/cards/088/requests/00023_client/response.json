@@ -1,0 +1,41 @@
+{
+  "id": "50f0218c67c3406e9b946f30f81f35c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）傍晚吧。天快黑又没全黑的时候。说不上来为什么，就是觉得那时候最安静。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我画的是白天还是夜晚。我其实一直画的都是傍晚，那种天快黑又没全黑的时候。说出来的话，会不会显得我有点怪？不过画画的时候确实只有那时候最安静，没人打扰，也不用想成绩的事。）\n（也许可以试着说说看，但别讲太深。就提一句傍晚，然后带过画里的感觉就好，不用解释太多。）",
+        "reasoning": "（老师问我画的是白天还是夜晚。我其实一直画的都是傍晚，那种天快黑又没全黑的时候。说出来的话，会不会显得我有点怪？不过画画的时候确实只有那时候最安静，没人打扰，也不用想成绩的事。）\n（也许可以试着说说看，但别讲太深。就提一句傍晚，然后带过画里的感觉就好，不用解释太多。）"
+      }
+    }
+  ],
+  "created": 1794545864,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2888,
+    "total_tokens": 2999,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

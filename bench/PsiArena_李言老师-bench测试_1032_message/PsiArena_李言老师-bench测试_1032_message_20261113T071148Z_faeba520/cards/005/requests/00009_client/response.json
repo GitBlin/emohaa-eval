@@ -1,0 +1,41 @@
+{
+  "id": "2d3ce9414c5d436a9aee35afd5b3a38b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就前几天，工作上群里发消息，有个同事一直没回。我就开始翻聊天记录，想是不是我语气太冲了，或者他对我有意见。其实人家可能只是忙。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起最近一次怕说错话的情形，让我一下子想到工作群里的那种紧张感。我好像总是把别人的反应看得特别重，哪怕只是一个简单的“收到”没被回复，心里就开始打鼓。）\n（这种不安好像已经变成习惯了，连同事没回消息都能让我联想到是不是自己哪里得罪了人。其实我也知道同事可能只是忙，但就是控制不住会往坏处想。）",
+        "reasoning": "（咨询师问起最近一次怕说错话的情形，让我一下子想到工作群里的那种紧张感。我好像总是把别人的反应看得特别重，哪怕只是一个简单的“收到”没被回复，心里就开始打鼓。）\n（这种不安好像已经变成习惯了，连同事没回消息都能让我联想到是不是自己哪里得罪了人。其实我也知道同事可能只是忙，但就是控制不住会往坏处想。）"
+      }
+    }
+  ],
+  "created": 1794554105,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1667,
+    "total_tokens": 1798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

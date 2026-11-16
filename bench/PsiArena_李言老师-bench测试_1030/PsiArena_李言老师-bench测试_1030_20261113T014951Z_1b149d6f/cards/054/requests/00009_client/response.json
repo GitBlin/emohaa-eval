@@ -1,0 +1,41 @@
+{
+  "id": "7ff78cea332345f99b270ff259301477",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕……怕一停下来，这个家就散了。我妈以前总说，当妈的就得撑住，家里才有个样子。可我有时候真想，凭什么非得是我撑啊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怕什么……其实我自己也说不清。就是觉得，一旦承认累了，好像整个人就垮了，家里那些事谁来做？我妈那套话又会在脑子里响起来。）\n（可我又忍不住想，为什么我非得把自己逼成这样。别人家的妈妈好像也没这么累，还是说她们也累，只是不说？）\n（算了，先这么回答吧，反正她也问得挺准的。）",
+        "reasoning": "（她问我怕什么……其实我自己也说不清。就是觉得，一旦承认累了，好像整个人就垮了，家里那些事谁来做？我妈那套话又会在脑子里响起来。）\n（可我又忍不住想，为什么我非得把自己逼成这样。别人家的妈妈好像也没这么累，还是说她们也累，只是不说？）\n（算了，先这么回答吧，反正她也问得挺准的。）"
+      }
+    }
+  ],
+  "created": 1794537179,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1785,
+    "total_tokens": 1912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

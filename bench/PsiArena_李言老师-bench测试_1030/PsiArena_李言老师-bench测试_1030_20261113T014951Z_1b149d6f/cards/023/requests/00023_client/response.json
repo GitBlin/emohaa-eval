@@ -1,0 +1,41 @@
+{
+  "id": "9571262639e4456aada1614081de6d75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就带杯水吧，别的也不用了。对了，我要是真没接住家里那些电话，他们肯定会打得更凶，这个我心里还是有点打鼓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我带不带东西，好像是在帮我把这件事变得更具体。我本来想空着手，可又怕自己胡思乱想，带杯水拿着，也算有个事做。）\n（不过我又想到家里那些电话，心里还是有点打鼓。得提前跟她说清楚，万一到时候我还是没接住，她别觉得我说话不算话。）",
+        "reasoning": "（她问我带不带东西，好像是在帮我把这件事变得更具体。我本来想空着手，可又怕自己胡思乱想，带杯水拿着，也算有个事做。）\n（不过我又想到家里那些电话，心里还是有点打鼓。得提前跟她说清楚，万一到时候我还是没接住，她别觉得我说话不算话。）"
+      }
+    }
+  ],
+  "created": 1794535760,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3455,
+    "total_tokens": 3566,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

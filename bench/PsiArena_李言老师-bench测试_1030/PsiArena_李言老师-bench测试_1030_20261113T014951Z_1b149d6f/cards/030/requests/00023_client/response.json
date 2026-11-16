@@ -1,0 +1,41 @@
+{
+  "id": "403c3b2dd33b4824aadea7adb752811f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，应该是这句。不过我也在想，是不是可以再简单点，比如“先别跑”。太正经的话，我反而容易紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是希望开口前先默念那句话。我其实没想那么细，但这么一问，好像心里确实有个更简单的念头，就是别把气氛搞得太沉重。说“不是错”还是有点正经，怕自己念着念着又紧张起来。）\n（我想让这句话更轻一点，像给自己打气，而不是什么严肃的宣言。说“先别跑”反而更贴近我真实的感受，因为每次想开口的时候，第一反应就是想躲开。）",
+        "reasoning": "（她问我是不是希望开口前先默念那句话。我其实没想那么细，但这么一问，好像心里确实有个更简单的念头，就是别把气氛搞得太沉重。说“不是错”还是有点正经，怕自己念着念着又紧张起来。）\n（我想让这句话更轻一点，像给自己打气，而不是什么严肃的宣言。说“先别跑”反而更贴近我真实的感受，因为每次想开口的时候，第一反应就是想躲开。）"
+      }
+    }
+  ],
+  "created": 1794536108,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3405,
+    "total_tokens": 3539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

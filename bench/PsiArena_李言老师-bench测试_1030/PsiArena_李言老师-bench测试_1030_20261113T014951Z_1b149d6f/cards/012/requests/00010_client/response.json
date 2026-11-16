@@ -1,0 +1,41 @@
+{
+  "id": "f3a04f91735d46caaeb83971131190d4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下去）有点发紧，胸口闷闷的。其实这些事我很少跟人讲，讲了好像就显得……显得我的婚姻很失败。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我身体的感觉……这么一问，我才发现自己一直紧绷着。心里那股说不清的东西又翻上来了，有点想哭，又觉得是不是自己太矫情。）\n（这些事平时根本不敢跟别人提，提了好像就在说丈夫的坏话，也像在承认自己选错了人。我爸妈总说哪家不吵架，忍忍就过去了……可我心里知道，那不光是吵架。）",
+        "reasoning": "（她问起我身体的感觉……这么一问，我才发现自己一直紧绷着。心里那股说不清的东西又翻上来了，有点想哭，又觉得是不是自己太矫情。）\n（这些事平时根本不敢跟别人提，提了好像就在说丈夫的坏话，也像在承认自己选错了人。我爸妈总说哪家不吵架，忍忍就过去了……可我心里知道，那不光是吵架。）"
+      }
+    }
+  ],
+  "created": 1794535268,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1803,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

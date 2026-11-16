@@ -1,0 +1,40 @@
+{
+  "runs": [
+    "PsiArena_李言老师-bench测试_1030_20261113T014001Z_54ac368c",
+    "PsiArena_李言老师-bench测试_1030_20261113T014226Z_b5e3eb99"
+  ],
+  "validations_passed": true,
+  "n_dialogues": 6,
+  "means": {
+    "client": 2.8541666666666665,
+    "supervisor": 3.3125,
+    "counselor": 3.9629629629629632,
+    "overall": 3.267676767676767
+  },
+  "passes": {
+    "client": 5,
+    "supervisor": 5,
+    "counselor": 4,
+    "overall": 6
+  },
+  "usage": {
+    "client": {
+      "prompt_tokens": 326510,
+      "completion_tokens": 4642,
+      "total_tokens": 331152,
+      "usage_missing": 0
+    },
+    "judge": {
+      "prompt_tokens": 67589,
+      "completion_tokens": 22981,
+      "total_tokens": 90570,
+      "usage_missing": 0
+    }
+  },
+  "unexpected_reasoning_responses": [],
+  "recommended_workers": 4,
+  "workers_tested": [
+    2,
+    4
+  ]
+}

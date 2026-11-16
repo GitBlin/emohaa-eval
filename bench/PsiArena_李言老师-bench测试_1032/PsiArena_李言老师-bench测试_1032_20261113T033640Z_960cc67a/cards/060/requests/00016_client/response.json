@@ -1,0 +1,41 @@
+{
+  "id": "7ae3820041594ca49d65ae0e1ca5c98f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "各忙各的也行吧。只要知道旁边有人，我心里就没那么慌。（小声）不过要是她真来陪我，我可能又不知道说什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是希望有人坐着陪还是各忙各的。其实我从来没认真想过这个，但姑姑家那种感觉就是不用刻意说话，各做各的反而更自在。如果非要有人特意陪着我，我可能反而不知道怎么办，会紧张。）\n（所以还是各忙各的比较好，知道旁边有人就行。不过这话说出来好像显得我挺别扭的，明明想要人陪又怕人太近。）",
+        "reasoning": "（她问我是希望有人坐着陪还是各忙各的。其实我从来没认真想过这个，但姑姑家那种感觉就是不用刻意说话，各做各的反而更自在。如果非要有人特意陪着我，我可能反而不知道怎么办，会紧张。）\n（所以还是各忙各的比较好，知道旁边有人就行。不过这话说出来好像显得我挺别扭的，明明想要人陪又怕人太近。）"
+      }
+    }
+  ],
+  "created": 1794544253,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2264,
+    "total_tokens": 2387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

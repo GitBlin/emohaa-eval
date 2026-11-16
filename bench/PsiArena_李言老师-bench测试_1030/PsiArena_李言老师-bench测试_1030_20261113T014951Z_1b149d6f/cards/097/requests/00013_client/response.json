@@ -1,0 +1,41 @@
+{
+  "id": "6aebe796d9924b7da8858a27e1196296",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）是空。安静还能忍，空是那种……好像我不在了也没人发现。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是安静还是空……这问题让我有点措手不及。安静的话，我觉得小时候家里其实一直挺安静的，但那种安静让我害怕。空的话……好像更准确，就是做完事之后，没有人再跟我说话了，好像我这个人也一起被收起来了。）\n（我不想说得太深，但好像已经说到这儿了。她一直在听，没有打断我，也没有急着给建议。也许我可以稍微再诚实一点，不用把话都绕开。）",
+        "reasoning": "（她问的是安静还是空……这问题让我有点措手不及。安静的话，我觉得小时候家里其实一直挺安静的，但那种安静让我害怕。空的话……好像更准确，就是做完事之后，没有人再跟我说话了，好像我这个人也一起被收起来了。）\n（我不想说得太深，但好像已经说到这儿了。她一直在听，没有打断我，也没有急着给建议。也许我可以稍微再诚实一点，不用把话都绕开。）"
+      }
+    }
+  ],
+  "created": 1794540213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2243,
+    "total_tokens": 2367,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

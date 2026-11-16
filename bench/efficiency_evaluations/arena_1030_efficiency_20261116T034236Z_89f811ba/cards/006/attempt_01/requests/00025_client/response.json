@@ -1,0 +1,47 @@
+{
+  "id": "b93b44793a9f46249c3f102557e9bc79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "下周要是再碰到那种明细不对的单子，我想先停一下，把疑问记下来再签。不为跟谁闹，就是给自己留个底。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是这周哪一刻最想给自己留个底。她没催我下决心，反而让我挑一件小事。这让我没那么大压力，也愿意想一想具体什么时候会用到这个“留底”。）\n（我脑子里最先冒出来的，还是财务上那些不对劲的单子。以前看到就闷头签，现在我想先停下来，把疑问记下来。不是为了跟谁对着干，就是给自己一个交代。）",
+        "reasoning": "（咨询师问的是这周哪一刻最想给自己留个底。她没催我下决心，反而让我挑一件小事。这让我没那么大压力，也愿意想一想具体什么时候会用到这个“留底”。）\n（我脑子里最先冒出来的，还是财务上那些不对劲的单子。以前看到就闷头签，现在我想先停下来，把疑问记下来。不是为了跟谁对着干，就是给自己一个交代。）"
+      }
+    }
+  ],
+  "created": 1794800806,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3769,
+    "total_tokens": 3895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3584,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

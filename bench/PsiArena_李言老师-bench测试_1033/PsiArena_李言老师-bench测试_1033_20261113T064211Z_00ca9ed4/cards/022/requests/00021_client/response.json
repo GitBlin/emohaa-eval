@@ -1,0 +1,41 @@
+{
+  "id": "12ca8035d8564b1c87a8ab1856bf771d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先别急着跟我妈试，跟她太容易乱。要不……我先在朋友面前少说一句“我做得挺差的”，看看会怎么样？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了具体的建议，让我在心里对自己说“我已经够了”。这个动作听起来简单，可真的做起来，我有点不确定自己能不能做到。不过，总比什么都不做强。）\n（我想先从最容易的地方开始，比如跟朋友说话的时候。毕竟跟妈妈打电话压力太大了，我怕自己一紧张又变回老样子。先试试在朋友面前少贬低自己，也许能慢慢找到感觉。）",
+        "reasoning": "（咨询师给了具体的建议，让我在心里对自己说“我已经够了”。这个动作听起来简单，可真的做起来，我有点不确定自己能不能做到。不过，总比什么都不做强。）\n（我想先从最容易的地方开始，比如跟朋友说话的时候。毕竟跟妈妈打电话压力太大了，我怕自己一紧张又变回老样子。先试试在朋友面前少贬低自己，也许能慢慢找到感觉。）"
+      }
+    }
+  ],
+  "created": 1794553123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3134,
+    "total_tokens": 3253,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f54157898abe4ce1b7987339d927dbd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有试过……听歌，或者在本子上乱写。但有时候连听歌都嫌吵，写也写不下去，就更烦了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有试过办法让自己好受点，说明她真的在帮我想办法，不是随便听听。我其实试过一些，但总觉得说出来有点傻。不过现在好像没那么难开口了，可以说说看，也许她能帮我看看这些办法有没有用。）\n（听歌和写东西是我偷偷做的，家里人不让我写那些“没用”的。如果告诉她，她应该不会像家里人那样说我吧。先说说这两个，看看她的反应。）",
+        "reasoning": "（她问我有没有试过办法让自己好受点，说明她真的在帮我想办法，不是随便听听。我其实试过一些，但总觉得说出来有点傻。不过现在好像没那么难开口了，可以说说看，也许她能帮我看看这些办法有没有用。）\n（听歌和写东西是我偷偷做的，家里人不让我写那些“没用”的。如果告诉她，她应该不会像家里人那样说我吧。先说说这两个，看看她的反应。）"
+      }
+    }
+  ],
+  "created": 1794556657,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2357,
+    "total_tokens": 2487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

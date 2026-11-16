@@ -1,0 +1,41 @@
+{
+  "id": "d8bb876c632e4ef3953ce9d1026f3095",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是上周交报告前吧，我来回检查了好几遍，明明都改完了还在想“万一哪里漏了”。后来回家我妈随口问了句工作怎么样，我差点就脱口而出“我可能做得不够好”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次脑补出那句话的情境，这让我想到工作里那些反复检查的瞬间。其实不只是工作，好像做选择的时候都会这样，脑子里自动就会冒出那种声音。）\n（我有点犹豫要不要说这么具体，但既然已经聊到家里了，可能说出来会好一点。只是我自己也分不清，这到底是家里带来的，还是我自己本来就容易这样。）",
+        "reasoning": "（咨询师问的是最近一次脑补出那句话的情境，这让我想到工作里那些反复检查的瞬间。其实不只是工作，好像做选择的时候都会这样，脑子里自动就会冒出那种声音。）\n（我有点犹豫要不要说这么具体，但既然已经聊到家里了，可能说出来会好一点。只是我自己也分不清，这到底是家里带来的，还是我自己本来就容易这样。）"
+      }
+    }
+  ],
+  "created": 1794544900,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1851,
+    "total_tokens": 1982,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

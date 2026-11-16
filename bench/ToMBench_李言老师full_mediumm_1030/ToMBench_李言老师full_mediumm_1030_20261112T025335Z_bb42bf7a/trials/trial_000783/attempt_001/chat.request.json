@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:44.168909+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Hua is a senior historian, his life fills with research on the past and analysis of historical events, he firmly believes that understanding history is the key to understanding reality. At the same time, he loves research and does not pursue material things. Wang Lei, on the other hand, is a technology entrepreneur, focusing on the development of cutting-edge technology, he is not very interested in history and tradition, he thinks that the future and innovation are the main driving forces for social development. One day, Li Hua decides to invite Wang Lei to participate in a related activity.\n\n[Question]\nWhat type of activity does Li Hua most likely invite Wang Lei to participate in?\n\n[Candidate Answers]\nA. Digital virtual restoration exhibition of ancient artifacts\nB. Ancient artifact exhibition in the science and technology museum\nC. Innovation and entrepreneurship seminar related to artifact auction\nD. High-tech product launch",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

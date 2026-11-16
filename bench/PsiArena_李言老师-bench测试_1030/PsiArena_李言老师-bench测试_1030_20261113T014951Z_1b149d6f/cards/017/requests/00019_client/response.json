@@ -1,0 +1,41 @@
+{
+  "id": "2a3e154a56b84be0845c5970f6af82cf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不好意思，声音很小）“这事我一个人扛着……有点沉，想跟你一起想想。”（说完轻轻吐了口气）说出来好像……没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先小声说一遍给自己听，我有点不好意思，可又觉得他说的有道理。心里那句话其实翻来覆去想过很多次了，就是没真正说出口过。）\n（我试着开口，声音小得几乎听不见，说完还觉得有点别扭。但奇怪的是，说出来以后心里好像松了一点点，没那么堵了。）",
+        "reasoning": "（咨询师让我先小声说一遍给自己听，我有点不好意思，可又觉得他说的有道理。心里那句话其实翻来覆去想过很多次了，就是没真正说出口过。）\n（我试着开口，声音小得几乎听不见，说完还觉得有点别扭。但奇怪的是，说出来以后心里好像松了一点点，没那么堵了。）"
+      }
+    }
+  ],
+  "created": 1794535549,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2952,
+    "total_tokens": 3061,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

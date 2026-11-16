@@ -1,0 +1,41 @@
+{
+  "id": "cb8d58b51ea84ae287def7d3e3b52f64",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是……上班的时候吧。有时候正忙着一件事，突然就走神了，脑子里乱糟糟的。也不知道为什么，就是静不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问那股堵的感觉什么时候最明显，我其实也不太想说得太具体。她看起来挺耐心的，但我还是不太确定能不能真的信任她。也许可以稍微说一点，但不用全盘托出。工作的时候确实特别难受，但我不想直接说是因为母亲的事，先模糊地提一下好了。这样既回应了她，又不会暴露太多。）",
+        "reasoning": "（咨询师问那股堵的感觉什么时候最明显，我其实也不太想说得太具体。她看起来挺耐心的，但我还是不太确定能不能真的信任她。也许可以稍微说一点，但不用全盘托出。工作的时候确实特别难受，但我不想直接说是因为母亲的事，先模糊地提一下好了。这样既回应了她，又不会暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794537958,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1088,
+    "total_tokens": 1197,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

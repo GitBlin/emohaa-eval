@@ -1,0 +1,41 @@
+{
+  "id": "a587e13b0006442099299e7eea99357a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该会有点吧，心里好像先做了件自己的事，跑起来没那么空。不过我也不确定，可能还是会累、会烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问练完十分钟再出门会不会有点不一样。我其实也说不准，但早上做完一件自己的事，心里确实会踏实些。跑单的时候那种“今天至少做了一件”的念头，应该能让我没那么慌吧。）\n（不过我也不想说得太满，万一还是觉得累、觉得烦呢。但至少有个开头，总比什么都没做强。）",
+        "reasoning": "（她问练完十分钟再出门会不会有点不一样。我其实也说不准，但早上做完一件自己的事，心里确实会踏实些。跑单的时候那种“今天至少做了一件”的念头，应该能让我没那么慌吧。）\n（不过我也不想说得太满，万一还是觉得累、觉得烦呢。但至少有个开头，总比什么都没做强。）"
+      }
+    }
+  ],
+  "created": 1794538825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3157,
+    "total_tokens": 3266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

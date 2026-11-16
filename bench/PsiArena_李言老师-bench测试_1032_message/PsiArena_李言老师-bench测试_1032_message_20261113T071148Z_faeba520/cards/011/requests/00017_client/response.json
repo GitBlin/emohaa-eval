@@ -1,0 +1,41 @@
+{
+  "id": "0e45c955e7a348da99cb7a51430c1728",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "孩子哭的时候吧，那是最容易慌的。要是能在那会儿先深呼吸一下……可能就不一样了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我哪种情况下最容易做到“停一下”，这让我想到孩子哭闹的时候。那种时候我常常一下子就慌了，满脑子都是自己不够好。但也许正因为那种时刻太明显，反而更容易提醒自己。）\n（我想先从小事开始试试，比如孩子白天不睡觉的时候。那是我最常自责的时候，如果能在那种时候先深呼吸一下，可能就不会那么快被那个声音带跑。不过我还是有点没底，不知道真做起来会不会又忘掉。）",
+        "reasoning": "（咨询师在问我哪种情况下最容易做到“停一下”，这让我想到孩子哭闹的时候。那种时候我常常一下子就慌了，满脑子都是自己不够好。但也许正因为那种时刻太明显，反而更容易提醒自己。）\n（我想先从小事开始试试，比如孩子白天不睡觉的时候。那是我最常自责的时候，如果能在那种时候先深呼吸一下，可能就不会那么快被那个声音带跑。不过我还是有点没底，不知道真做起来会不会又忘掉。）"
+      }
+    }
+  ],
+  "created": 1794554344,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2364,
+    "total_tokens": 2493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

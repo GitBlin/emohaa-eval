@@ -1,0 +1,41 @@
+{
+  "id": "e726e72e6bc440a2b17fde59266e5f86",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想等吃完饭，气氛不那么紧的时候说。就一句：“我有点着急，咱们一起想想办法，行吗？”说出来我自己都觉得心里松了点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在帮我一步步落实，不是光安慰我。我得想想具体怎么开口，不能又像上次那样一急就变味。也许吃完饭，气氛松一点的时候说，比一进门就提要好。）\n（“一起想想办法”这种说法，我练过，比“你快找工作”软多了。可我还是有点怕，怕他听不进去，或者又沉下脸。不过总得先迈出这一步，至少我可以试着把语气放平。）",
+        "reasoning": "（她这是在帮我一步步落实，不是光安慰我。我得想想具体怎么开口，不能又像上次那样一急就变味。也许吃完饭，气氛松一点的时候说，比一进门就提要好。）\n（“一起想想办法”这种说法，我练过，比“你快找工作”软多了。可我还是有点怕，怕他听不进去，或者又沉下脸。不过总得先迈出这一步，至少我可以试着把语气放平。）"
+      }
+    }
+  ],
+  "created": 1794551488,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3102,
+    "total_tokens": 3235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

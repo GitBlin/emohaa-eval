@@ -1,0 +1,41 @@
+{
+  "id": "b5c802b73fa847819c81373d09caee1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）在我爸妈面前吧。（停顿）他们也不是骂我，就是……期望挺高的。成绩要好，在外面也要大方得体。可我每次在亲戚聚会上，就是站在那儿不知道说什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，是注意到我总先担心别人。其实最明显的就是在家里吧，爸妈对我的期待太清楚了，成绩、表现，还有在亲戚面前要大方得体。可每次想到这些，我心里都挺乱的，说不清是怕他们失望，还是怕自己真的做不到。）\n（而且那种场合真的让我很难受，看他们跟朋友聊得那么自然，我就站在旁边不知道手往哪放。想插话又怕说错，最后干脆什么都不说。这种时候，我总觉得是不是自己有问题。）",
+        "reasoning": "（他这么问，是注意到我总先担心别人。其实最明显的就是在家里吧，爸妈对我的期待太清楚了，成绩、表现，还有在亲戚面前要大方得体。可每次想到这些，我心里都挺乱的，说不清是怕他们失望，还是怕自己真的做不到。）\n（而且那种场合真的让我很难受，看他们跟朋友聊得那么自然，我就站在旁边不知道手往哪放。想插话又怕说错，最后干脆什么都不说。这种时候，我总觉得是不是自己有问题。）"
+      }
+    }
+  ],
+  "created": 1794534628,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 1675,
+    "total_tokens": 1829,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

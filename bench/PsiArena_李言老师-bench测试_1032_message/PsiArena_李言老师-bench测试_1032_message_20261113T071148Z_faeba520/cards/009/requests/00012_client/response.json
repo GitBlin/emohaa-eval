@@ -1,0 +1,41 @@
+{
+  "id": "fea8efbf292b42b3b427f4591ace23dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……好像比直接拒绝容易点。但我又怕她追问，或者觉得我怪怪的。唉，我是不是连这么小的事都做不到啊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在建议我先说“我想一下，晚点回你”，这确实比直接拒绝容易些。但我马上想到朋友会不会追问，或者觉得我变了。这种担心让我有点退缩，好像连这么小的尝试都做不到。）\n（不过她说会犹豫是正常的，不是失败，这让我稍微松了口气。也许我不用一下子做到完美，先承认自己会害怕，再慢慢试试看。）",
+        "reasoning": "（咨询师在建议我先说“我想一下，晚点回你”，这确实比直接拒绝容易些。但我马上想到朋友会不会追问，或者觉得我变了。这种担心让我有点退缩，好像连这么小的尝试都做不到。）\n（不过她说会犹豫是正常的，不是失败，这让我稍微松了口气。也许我不用一下子做到完美，先承认自己会害怕，再慢慢试试看。）"
+      }
+    }
+  ],
+  "created": 1794554326,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2093,
+    "total_tokens": 2212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

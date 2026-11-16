@@ -1,0 +1,41 @@
+{
+  "id": "54d1a8609fd0492e98aeec6da8ee5b17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一个，但他……他也怕那几个人。（停顿）我有时候看别人一起玩，挺羡慕的，可我不知道怎么凑过去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有能说上话的同学，我心里有点发酸。其实我挺想有个人说说话的，可又怕人家也嫌我，或者跟着别人一起笑我。）\n（我平时看别人一起玩，心里挺羡慕的，但真让我凑过去，我就不知道说什么了，也怕被拒绝。）",
+        "reasoning": "（她问我有没有能说上话的同学，我心里有点发酸。其实我挺想有个人说说话的，可又怕人家也嫌我，或者跟着别人一起笑我。）\n（我平时看别人一起玩，心里挺羡慕的，但真让我凑过去，我就不知道说什么了，也怕被拒绝。）"
+      }
+    }
+  ],
+  "created": 1794554112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1773,
+    "total_tokens": 1874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

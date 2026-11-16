@@ -1,0 +1,41 @@
+{
+  "id": "24bdd35c87b9470089acbdde00c3fd8e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……我妈吧，有时候。她虽然爱唠叨，但我说累的时候，她也会让我早点睡。不过转头又问我工作的事，就……说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身边有没有能听我说话的人，这让我想到我妈。其实她有时候也能听，只是听着听着就会绕回工作的事上，让我觉得她更在意我有没有出息，而不是我真的难受。这种矛盾让我有点说不清，既觉得她算半个能听的人，又觉得不够。）\n（可能我该把这些犹豫说出来，不用讲得太明白。毕竟现在还没到能完全理清的时候，就照实说那种一半一半的感觉吧。）",
+        "reasoning": "（咨询师在问我身边有没有能听我说话的人，这让我想到我妈。其实她有时候也能听，只是听着听着就会绕回工作的事上，让我觉得她更在意我有没有出息，而不是我真的难受。这种矛盾让我有点说不清，既觉得她算半个能听的人，又觉得不够。）\n（可能我该把这些犹豫说出来，不用讲得太明白。毕竟现在还没到能完全理清的时候，就照实说那种一半一半的感觉吧。）"
+      }
+    }
+  ],
+  "created": 1794557422,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2258,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

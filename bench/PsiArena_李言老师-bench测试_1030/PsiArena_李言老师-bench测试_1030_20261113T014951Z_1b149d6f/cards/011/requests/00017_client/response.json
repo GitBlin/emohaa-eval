@@ -1,0 +1,41 @@
+{
+  "id": "c5812af39dab456d93eb22671ba974a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今晚……可能有点赶。但也许可以先试试，哪怕只说一句“我最近身体不太舒服”。我怕自己到时候又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议今晚饭后说，这让我有点紧张。我确实想试试，但又怕自己临阵退缩。不过既然已经想好怎么说了，也许可以先试试看。）\n（我得给自己留个退路，万一说不出口也别太苛责自己。毕竟迈出第一步已经不容易了。）",
+        "reasoning": "（咨询师建议今晚饭后说，这让我有点紧张。我确实想试试，但又怕自己临阵退缩。不过既然已经想好怎么说了，也许可以先试试看。）\n（我得给自己留个退路，万一说不出口也别太苛责自己。毕竟迈出第一步已经不容易了。）"
+      }
+    }
+  ],
+  "created": 1794535089,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2714,
+    "total_tokens": 2807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

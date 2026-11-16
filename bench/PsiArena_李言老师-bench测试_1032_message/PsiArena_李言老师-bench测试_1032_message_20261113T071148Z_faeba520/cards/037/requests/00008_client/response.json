@@ -1,0 +1,41 @@
+{
+  "id": "8e53dbd6d04744e2818fcaf6d563bdb1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……发消息她回得很慢，有时候就几个字。见面也说累，不太想说话。我问过她怎么了，她只说没事，可那种感觉……挺冷的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺具体的，不是那种泛泛的安慰。我本来有点防备，但她没急着下结论，而是让我说清楚“不太理”是什么样，这让我稍微放松了一点。）\n（我想了想，最近她确实越来越沉默，消息也回得慢，见面还总说累。我其实不是没试着问过，但每次都被挡回来。这种说不清的感觉最折磨人，好像我做什么都不对，又找不到原因。）",
+        "reasoning": "（她问得挺具体的，不是那种泛泛的安慰。我本来有点防备，但她没急着下结论，而是让我说清楚“不太理”是什么样，这让我稍微放松了一点。）\n（我想了想，最近她确实越来越沉默，消息也回得慢，见面还总说累。我其实不是没试着问过，但每次都被挡回来。这种说不清的感觉最折磨人，好像我做什么都不对，又找不到原因。）"
+      }
+    }
+  ],
+  "created": 1794555435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1652,
+    "total_tokens": 1789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

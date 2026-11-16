@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:41:50.139589+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAt an important business meeting, Li Hua is representing the company for a presentation. Halfway through the meeting, Li Hua suddenly forgets a key piece of data. When asked, he hastily answers, \"Our annual growth rate is 20%.\" However, the actual data is 31%. His response confuses the attendees.\n\n[Question]\nWhy does Li Hua answer like this?\n\n[Candidate Answers]\nA. Li Hua forgets the correct annual growth rate data.\nB. Li Hua wants to test whether the attendees really pay attention to the company's data.\nC. Li Hua intentionally confuses the data to get more investment.\nD. Li Hua thinks 20% is more acceptable, so he intentionally changes the data.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

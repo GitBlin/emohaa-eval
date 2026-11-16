@@ -1,0 +1,41 @@
+{
+  "id": "6defe1ab7e214d46b16f4b0f4f382799",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……像我妈吧。小时候我一喊累，她就说“谁不累，就你娇气”。所以我现在也不太敢喊累，喊了好像就是我不够格当妈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个声音像谁……我一下子想到我妈。小时候我一喊累，她就说“谁不累，就你娇气”。那时候我就学会了忍着不说，说了反而挨说。）\n（可这么想是不是又把责任推给父母了？他们也是为我好，希望我做个称职的母亲。只是……只是我现在好像一直在照着他们的标准活，稍微做不到就觉得自己不够格。）",
+        "reasoning": "（她问我这个声音像谁……我一下子想到我妈。小时候我一喊累，她就说“谁不累，就你娇气”。那时候我就学会了忍着不说，说了反而挨说。）\n（可这么想是不是又把责任推给父母了？他们也是为我好，希望我做个称职的母亲。只是……只是我现在好像一直在照着他们的标准活，稍微做不到就觉得自己不够格。）"
+      }
+    }
+  ],
+  "created": 1794537174,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1670,
+    "total_tokens": 1795,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

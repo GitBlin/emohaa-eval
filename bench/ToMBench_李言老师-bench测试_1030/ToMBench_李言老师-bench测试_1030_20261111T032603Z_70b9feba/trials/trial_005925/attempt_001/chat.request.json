@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:01.602198+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Yang and Xiao Bai are members of the class activity planning group, they are discussing the class holiday activities. Xiao Chen is an active member of the class, but never participates in activity planning. Xiao Bai suddenly points at Xiao Chen who is telling jokes in the distance, making a group of people laugh, and winks at Xiao Yang. Then, Xiao Bai winks at Xiao Yang, and both of them laugh. Then they walk towards Xiao Chen's position. Xiao Chen does not see them coming, nor does he notice their previous actions.\n\n[Question]\nWhy do they laugh after Xiao Bai winks at Xiao Yang?\n\n[Candidate Answers]\nA. They tacitly find that they both plan to let Xiao Chen suggest for the holiday activity.\nB. Xiao Yang already thinks of a holiday activity, so he laughs happily.\nC. Xiao Bai and Xiao Yang both find the joke Xiao Chen tells is interesting.\nD. Xiao Yang finds Xiao Bai's winking funny, so he laughs.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

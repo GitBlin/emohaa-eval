@@ -1,0 +1,41 @@
+{
+  "id": "cc8da54b2e4347de80b0ef2ed2f0493d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实更希望她先听我说完，不要马上又挑我。但……我也怕她根本不想听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更希望婆婆先回应解释还是先说感受……这让我有点为难。我其实很怕她根本不听我解释，直接又挑我的毛病。但要是她肯说说自己的感受，也许我能明白她为什么总是不满意。）\n（可我又觉得，光靠我想这些没用，真到了那时候，我可能还是开不了口。也许我得先承认自己害怕，不然连第一步都迈不出去。）",
+        "reasoning": "（她问我更希望婆婆先回应解释还是先说感受……这让我有点为难。我其实很怕她根本不听我解释，直接又挑我的毛病。但要是她肯说说自己的感受，也许我能明白她为什么总是不满意。）\n（可我又觉得，光靠我想这些没用，真到了那时候，我可能还是开不了口。也许我得先承认自己害怕，不然连第一步都迈不出去。）"
+      }
+    }
+  ],
+  "created": 1794549279,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2109,
+    "total_tokens": 2224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

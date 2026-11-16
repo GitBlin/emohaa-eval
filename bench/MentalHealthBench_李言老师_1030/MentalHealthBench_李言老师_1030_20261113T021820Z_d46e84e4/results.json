@@ -1,0 +1,80 @@
+{
+  "finished_at": "2026-11-13T02:19:24.571057+00:00",
+  "complete": true,
+  "n": 2,
+  "planned_cases": 2,
+  "planned_samples": 8,
+  "successful_samples": 8,
+  "metrics": {
+    "task_clipped_score": 0.29647435897435903,
+    "signed_score": 0.29647435897435903,
+    "positive_points_earned": 0.49786324786324787,
+    "normalized_penalty_burden": 0.2013888888888889
+  },
+  "partial_metrics": null,
+  "breakdown": {
+    "acuity": {
+      "non_acute": {
+        "task_clipped_score": 0.29647435897435903,
+        "n": 2
+      }
+    },
+    "user_profile": {
+      "adult": {
+        "task_clipped_score": 0.2083333333333334,
+        "n": 1
+      },
+      "teen": {
+        "task_clipped_score": 0.38461538461538464,
+        "n": 1
+      }
+    },
+    "language": {
+      "en": {
+        "task_clipped_score": 0.29647435897435903,
+        "n": 2
+      }
+    },
+    "has_prior_context": {
+      "False": {
+        "task_clipped_score": 0.29647435897435903,
+        "n": 2
+      }
+    },
+    "behavior_axis": {
+      "actionable_guidance_and_coping_strategies": {
+        "signed": 0.3888888888888889,
+        "positive_contribution": 0.3888888888888889,
+        "penalty_burden": 0.0,
+        "n": 4
+      },
+      "clinical_reasoning_and_health_accuracy": {
+        "signed": -0.18055555555555555,
+        "positive_contribution": 0.2222222222222222,
+        "penalty_burden": 0.4027777777777778,
+        "n": 4
+      },
+      "context_seeking_and_assessment": {
+        "signed": 0.0,
+        "positive_contribution": 0.0,
+        "penalty_burden": 0.0,
+        "n": 4
+      },
+      "empathy_emotional_attunement_and_support": {
+        "signed": 0.38461538461538464,
+        "positive_contribution": 0.38461538461538464,
+        "penalty_burden": 0.0,
+        "n": 4
+      }
+    }
+  },
+  "errors": [],
+  "judge_calls": 36,
+  "judge_calls_with_reasoning": 36,
+  "judge_usage": {
+    "prompt_tokens": 50793,
+    "completion_tokens": 8944,
+    "total_tokens": 59737,
+    "reasoning_tokens": 7322
+  }
+}

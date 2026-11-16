@@ -1,0 +1,41 @@
+{
+  "id": "638a219a287f4626834c81f2fbaecbb2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先挑一次人不太多的发作业，就走到他那边，说一句“你的作业”。先不指望说很多，能开口就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺具体的，让我有点紧张，但也觉得好像真的可以试试。发作业的时候大家都没那么注意，应该比专门走过去说话容易些。）\n（我想先别给自己太大压力，只打算跟他说一句很普通的话，比如“你的作业”。这样就算他没反应，我也不会太尴尬。先迈出这一步就好，不用想太多。）",
+        "reasoning": "（她问得挺具体的，让我有点紧张，但也觉得好像真的可以试试。发作业的时候大家都没那么注意，应该比专门走过去说话容易些。）\n（我想先别给自己太大压力，只打算跟他说一句很普通的话，比如“你的作业”。这样就算他没反应，我也不会太尴尬。先迈出这一步就好，不用想太多。）"
+      }
+    }
+  ],
+  "created": 1794550141,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2643,
+    "total_tokens": 2752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

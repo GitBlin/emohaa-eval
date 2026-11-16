@@ -1,0 +1,41 @@
+{
+  "id": "a75f7e855b1a49d6a8c21b81a3ec7894",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有人陪着……可能会好点吧。不过让别人陪着去看病，我总觉得有点不好意思，好像太麻烦人家了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像看出我其实是想去的，只是被那些流程吓住了。她说有人陪着会不一样……这个念头我以前没怎么想过。一个人去确实太难受了，光是排队、等报告那些过程就让人喘不过气。）\n（可我又觉得，都三十多岁的人了，连看个病还要人陪，说出来有点难为情。不过如果真有人陪着，至少不用一个人面对那些检查结果，心里会踏实一点吧。这种想法是不是太依赖别人了？）",
+        "reasoning": "（她好像看出我其实是想去的，只是被那些流程吓住了。她说有人陪着会不一样……这个念头我以前没怎么想过。一个人去确实太难受了，光是排队、等报告那些过程就让人喘不过气。）\n（可我又觉得，都三十多岁的人了，连看个病还要人陪，说出来有点难为情。不过如果真有人陪着，至少不用一个人面对那些检查结果，心里会踏实一点吧。这种想法是不是太依赖别人了？）"
+      }
+    }
+  ],
+  "created": 1794557881,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2038,
+    "total_tokens": 2167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

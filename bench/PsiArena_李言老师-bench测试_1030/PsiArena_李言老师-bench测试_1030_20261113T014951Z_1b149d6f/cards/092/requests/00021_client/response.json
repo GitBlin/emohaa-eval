@@ -1,0 +1,41 @@
+{
+  "id": "ef4bc4a79ca445fdbd9ccffc95f8722b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听歌吧，或者下楼走一圈。以前觉得这些小事没用，现在想想，至少能让我别一直坐在那儿死想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体做点什么，好像真的在帮我找一条能走的路。以前我总觉得这些小事没用，可现在想想，也许不是没用，是我从来没认真试过。）\n（我想说听歌或者散步，这些事不费劲，也不用跟谁比。说出来的时候有点不好意思，好像太简单了，可心里又隐隐觉得，或许真的可以试试。）",
+        "reasoning": "（她问我具体做点什么，好像真的在帮我找一条能走的路。以前我总觉得这些小事没用，可现在想想，也许不是没用，是我从来没认真试过。）\n（我想说听歌或者散步，这些事不费劲，也不用跟谁比。说出来的时候有点不好意思，好像太简单了，可心里又隐隐觉得，或许真的可以试试。）"
+      }
+    }
+  ],
+  "created": 1794539972,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3321,
+    "total_tokens": 3428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

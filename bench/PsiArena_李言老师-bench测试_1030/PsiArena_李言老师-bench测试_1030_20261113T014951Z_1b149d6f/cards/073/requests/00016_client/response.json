@@ -1,0 +1,41 @@
+{
+  "id": "0328f9b1aa2d4c1f9a7431a0d7793a37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……可以试试。就是不知道能不能做到，有时候那个声音一上来，就顾不上了。那我平时具体可以怎么做呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我下次再对自己说一遍……我心里有点打鼓，怕做不到，又觉得刚才那一下确实松了点。也许可以先答应试试，但得说清楚不是每次都能做到。）\n（还有，我其实一直想问，这种练习是不是要每天做，还是只在想起来的时候做。我想知道具体怎么做，不然心里没底。）",
+        "reasoning": "（她让我下次再对自己说一遍……我心里有点打鼓，怕做不到，又觉得刚才那一下确实松了点。也许可以先答应试试，但得说清楚不是每次都能做到。）\n（还有，我其实一直想问，这种练习是不是要每天做，还是只在想起来的时候做。我想知道具体怎么做，不然心里没底。）"
+      }
+    }
+  ],
+  "created": 1794538571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2591,
+    "total_tokens": 2692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

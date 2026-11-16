@@ -1,0 +1,41 @@
+{
+  "id": "4c61457e5f31466fb1bb32400b9a872e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）以前装过白糖、咸菜，什么都装。我妈那会儿总说，东西收好了，日子才过得下去。我小时候觉得她特别能干……现在我自己也这样，可好像收着收着就停不下来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起那个罐子原来装什么，还有我妈的事……我其实很少跟人讲这些。但既然聊到这儿了，心里有点酸酸的，又有点想说出来。）\n（小时候家里东西都得收着，不能浪费，这习惯好像刻在骨子里了。我妈那时候洗罐子、收罐子，总说以后用得上。我现在是不是也在做一样的事？只是……好像停不下来了。）",
+        "reasoning": "（她问起那个罐子原来装什么，还有我妈的事……我其实很少跟人讲这些。但既然聊到这儿了，心里有点酸酸的，又有点想说出来。）\n（小时候家里东西都得收着，不能浪费，这习惯好像刻在骨子里了。我妈那时候洗罐子、收罐子，总说以后用得上。我现在是不是也在做一样的事？只是……好像停不下来了。）"
+      }
+    }
+  ],
+  "created": 1794544945,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1843,
+    "total_tokens": 1989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

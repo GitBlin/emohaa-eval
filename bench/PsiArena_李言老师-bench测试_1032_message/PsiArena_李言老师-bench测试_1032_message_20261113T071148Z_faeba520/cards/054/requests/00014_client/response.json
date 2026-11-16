@@ -1,0 +1,41 @@
+{
+  "id": "9a1a5390dd4f4ab385ed612b3bc85600",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我……说不出口。总觉得一说，就是在给自己找借口，好像承认自己不够努力似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对自己说那句话，我一下子就卡住了。心里有个声音在说，你明明没做好，凭什么说这种话。好像对自己好一点，就是在给自己找借口，就是承认自己不够努力。）\n（可另一方面，我又真的累了，累到有时候想，是不是我不配停下来。这种矛盾堵在胸口，说不清是委屈还是害怕。）",
+        "reasoning": "（她让我对自己说那句话，我一下子就卡住了。心里有个声音在说，你明明没做好，凭什么说这种话。好像对自己好一点，就是在给自己找借口，就是承认自己不够努力。）\n（可另一方面，我又真的累了，累到有时候想，是不是我不配停下来。这种矛盾堵在胸口，说不清是委屈还是害怕。）"
+      }
+    }
+  ],
+  "created": 1794556295,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2184,
+    "total_tokens": 2284,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

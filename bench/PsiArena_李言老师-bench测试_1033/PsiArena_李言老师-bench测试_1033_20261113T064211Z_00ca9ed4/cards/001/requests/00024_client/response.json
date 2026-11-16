@@ -1,0 +1,41 @@
+{
+  "id": "2f2d252cb3344aaa8cafa9de98530021",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望……他能接一句吧，随便聊两句也行。要是不接，我也别太往心里去，就当试过了。这样想好像没那么吓人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望对话往哪儿走……这问题我其实没想过。以前光是开口就够我紧张半天了，哪还顾得上说完之后的事。不过她这么一问，好像是在帮我提前想好退路，让我心里有点底。）\n（嗯……那就简单点吧。他要是回我一句，我就顺着说；要是不理，我就低头做题。这样至少不会僵在那儿，也不会显得我太在意。这么想着，好像没那么怕了。）",
+        "reasoning": "（她问我希望对话往哪儿走……这问题我其实没想过。以前光是开口就够我紧张半天了，哪还顾得上说完之后的事。不过她这么一问，好像是在帮我提前想好退路，让我心里有点底。）\n（嗯……那就简单点吧。他要是回我一句，我就顺着说；要是不理，我就低头做题。这样至少不会僵在那儿，也不会显得我太在意。这么想着，好像没那么怕了。）"
+      }
+    }
+  ],
+  "created": 1794552231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3444,
+    "total_tokens": 3579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a3212a26cd184c8dbedc3dd7c6f00fdf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先闪过的……就是“又来了”。有时候会想昨晚是不是又喝多了，想不太起来，就更烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，早上那会儿脑子里最先闪过什么……其实我哪敢细想。就是那种一睁眼就压上来的感觉，好像昨晚又干了什么蠢事，但又不想去确认。她这么问，我有点想躲，可又觉得她不是要逼我。）\n（我是不是该说点实在的？可说出来又怕她看轻我。要不就含糊点，提一句“想不起来昨晚的事”算了，看看她怎么接。）",
+        "reasoning": "（她问得挺细的，早上那会儿脑子里最先闪过什么……其实我哪敢细想。就是那种一睁眼就压上来的感觉，好像昨晚又干了什么蠢事，但又不想去确认。她这么问，我有点想躲，可又觉得她不是要逼我。）\n（我是不是该说点实在的？可说出来又怕她看轻我。要不就含糊点，提一句“想不起来昨晚的事”算了，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794536584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1523,
+    "total_tokens": 1653,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:53:43.617231+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a well-known research institution, researcher Allen, due to negligence, mistakenly sends confidential information to external personnel. Intern Kate, realizing this mistake, decides not to tell her superiors to protect the reputation of the institution. At the same time, senior engineer Mark knows that Kate understands this leak, but he chooses to remain silent because he has some personal grudges with Allen. When the leakage of confidential information causes significant losses to the institution, Allen feels very shocked and regretful. Later, Kate realizes that she probably should report this incident earlier.\n\n[Question]\nWhat is the possible intention behind Allen's actions?\n\n[Candidate Answers]\nA. Allen's actions are due to negligence, he does not realize that he mistakenly sends confidential information to external personnel.\nB. Allen possibly deliberately sends confidential information as a way to express dissatisfaction with the institution's management.\nC. Allen possibly thinks that sending confidential information to external personnel is a quick way to get feedback to improve research.\nD. Allen possibly thinks that the information he sends is not confidential, so he does not think this will cause any problems.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

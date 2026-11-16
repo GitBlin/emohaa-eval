@@ -1,0 +1,41 @@
+{
+  "id": "efd4cc8920514887b75ee14e5a12a9ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咽回去了。现在想想，我好像一直在做一样的事——心里有话，嘴上说不出来。然后憋久了，又一下子爆出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到了那个小女孩的事……让我又想起小时候那种说不出口的感觉。现在跟婆婆的事好像也是，明明心里难受，嘴上却总说不出来。）\n（也许我该说说自己现在这种矛盾。一边觉得不该顶嘴，一边又憋得慌。这种拉扯，跟小时候被说“哭有什么用”时一模一样。）",
+        "reasoning": "（她问到了那个小女孩的事……让我又想起小时候那种说不出口的感觉。现在跟婆婆的事好像也是，明明心里难受，嘴上却总说不出来。）\n（也许我该说说自己现在这种矛盾。一边觉得不该顶嘴，一边又憋得慌。这种拉扯，跟小时候被说“哭有什么用”时一模一样。）"
+      }
+    }
+  ],
+  "created": 1794555012,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1838,
+    "total_tokens": 1939,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

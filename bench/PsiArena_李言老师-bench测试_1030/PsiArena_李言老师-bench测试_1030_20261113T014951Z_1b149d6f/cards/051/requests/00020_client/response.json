@@ -1,0 +1,41 @@
+{
+  "id": "ceb518e1eeb64145ae8fe15342f42cf0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是说……“你不行，你比不上别人”。这句话其实一直都在，只是我不去想它。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师一直在引导我面对那些被压住的东西。他说“最怕听见它们对你说什么”，这问题戳到我了。我其实知道那个声音是什么，只是从来没敢说出口。）\n（犹豫了一下，还是说出来吧。那个声音就是一直在说我做得不够好，说我比别人差。说出来的时候心里有点堵，但也好像没那么可怕了，毕竟它一直就在那儿。）",
+        "reasoning": "（咨询师一直在引导我面对那些被压住的东西。他说“最怕听见它们对你说什么”，这问题戳到我了。我其实知道那个声音是什么，只是从来没敢说出口。）\n（犹豫了一下，还是说出来吧。那个声音就是一直在说我做得不够好，说我比别人差。说出来的时候心里有点堵，但也好像没那么可怕了，毕竟它一直就在那儿。）"
+      }
+    }
+  ],
+  "created": 1794537048,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3023,
+    "total_tokens": 3126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

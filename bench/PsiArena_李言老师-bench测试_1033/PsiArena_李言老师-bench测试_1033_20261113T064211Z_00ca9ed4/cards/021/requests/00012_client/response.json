@@ -1,0 +1,41 @@
+{
+  "id": "1b95810ecb594a4a9edcbfad922f04bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）还真没有。同事之间都是客客气气的，我不太习惯跟人说这些。（犹豫）在我们家，从小就是这样，家里的事往外说，好像不太合适。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我学校里有没有能松一点的人……其实我心里闪过几个人，但马上又觉得不行。我们这种家庭出来的，总觉得家里的事往外说就是给人家添麻烦，也显得自己不够扛事。）\n（而且我确实怕，怕说多了别人不知道怎么接，反而尴尬。可她又问得挺温和的，不是逼我。也许我可以先说说为什么不敢开口，这样至少不用硬撑着说“没事”。）",
+        "reasoning": "（她问我学校里有没有能松一点的人……其实我心里闪过几个人，但马上又觉得不行。我们这种家庭出来的，总觉得家里的事往外说就是给人家添麻烦，也显得自己不够扛事。）\n（而且我确实怕，怕说多了别人不知道怎么接，反而尴尬。可她又问得挺温和的，不是逼我。也许我可以先说说为什么不敢开口，这样至少不用硬撑着说“没事”。）"
+      }
+    }
+  ],
+  "created": 1794553084,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2137,
+    "total_tokens": 2267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

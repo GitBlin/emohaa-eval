@@ -1,0 +1,41 @@
+{
+  "id": "5759af3a6a92463999d6f819d8c1754f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周开会讨论一笔报销，明显不太合规，大家都说没问题。我当时没吭声，回来心里堵了好几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次具体场合，看来是想让我把那种拉扯感落到实际情境里。我确实能想起上周那个会，但一开口就容易带出情绪，得先稳住。）\n（财务那边的事我不太想细说，毕竟涉及单位里的人。可不说清楚，咨询师大概也帮不了我。那就只讲个大概，重点放在我当时那种不舒服的感觉上，别扯太多细节。）",
+        "reasoning": "（咨询师问的是最近一次具体场合，看来是想让我把那种拉扯感落到实际情境里。我确实能想起上周那个会，但一开口就容易带出情绪，得先稳住。）\n（财务那边的事我不太想细说，毕竟涉及单位里的人。可不说清楚，咨询师大概也帮不了我。那就只讲个大概，重点放在我当时那种不舒服的感觉上，别扯太多细节。）"
+      }
+    }
+  ],
+  "created": 1794541434,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2524,
+    "total_tokens": 2639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e57a0764cdca4d889e88852a5859df85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）现在吗……我可能得回去一个人的时候才写得出来。（稍微放松了一点）不过今天说了这些，好像没那么堵了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我现在就写下来，我其实有点犹豫。刚才说出口的那句话，虽然简单，但真的写下来会不会太矫情了。不过她刚才说这句话很真诚，也许我真的可以试试。）\n（可是现在写的话，我怕自己又写不下去，或者写着写着又开始骂自己。还是回去再写吧，自己一个人的时候可能更放得开一些。而且今天说了这么多，脑子已经有点乱了。）",
+        "reasoning": "（咨询师让我现在就写下来，我其实有点犹豫。刚才说出口的那句话，虽然简单，但真的写下来会不会太矫情了。不过她刚才说这句话很真诚，也许我真的可以试试。）\n（可是现在写的话，我怕自己又写不下去，或者写着写着又开始骂自己。还是回去再写吧，自己一个人的时候可能更放得开一些。而且今天说了这么多，脑子已经有点乱了。）"
+      }
+    }
+  ],
+  "created": 1794555818,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3242,
+    "total_tokens": 3365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "275b5030d4214d8ab995ce6735d7037c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）我爸……他基本不管这些，觉得是“女人的事”。而且家里长辈要是知道了，只会说“家丑不可外扬”，让我多担待。说出来，好像错的反而是我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我家里有没有人能分担……我脑子里第一个冒出来的就是我爸，可他不是那种会管这些事的人。在我们家，这种事好像从来都是女人的事，说出来反而像是我在抱怨。）\n（而且，家里那些长辈要是知道了，肯定又要说“家丑不可外扬”，让我忍忍就过去了。这种话我从小听到大，都快成习惯了。）",
+        "reasoning": "（他问我家里有没有人能分担……我脑子里第一个冒出来的就是我爸，可他不是那种会管这些事的人。在我们家，这种事好像从来都是女人的事，说出来反而像是我在抱怨。）\n（而且，家里那些长辈要是知道了，肯定又要说“家丑不可外扬”，让我忍忍就过去了。这种话我从小听到大，都快成习惯了。）"
+      }
+    }
+  ],
+  "created": 1794537983,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1784,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7e61f5d7ef1b4ce4a0b06b941b794d03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如……我怀疑我妈是不是早就知道，只是不说。我一想到这个就更乱，好像连她也在瞒着我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心被发现的是哪一类想法……这让我有点慌。摄像头的事我已经说出来了，但还有更深的，比如我其实也怀疑过妈妈是不是早就知道，却装作没事。这个念头比装摄像头更让我觉得羞耻。）\n（作为老师，我总觉得自己应该能处理好家里的事，可这些想法让我觉得自己不像个正常女儿。说出来会不会显得我在怪妈妈？但咨询师一直没评判我，也许我可以试着提一点，不用说得太透。）",
+        "reasoning": "（她问我最担心被发现的是哪一类想法……这让我有点慌。摄像头的事我已经说出来了，但还有更深的，比如我其实也怀疑过妈妈是不是早就知道，却装作没事。这个念头比装摄像头更让我觉得羞耻。）\n（作为老师，我总觉得自己应该能处理好家里的事，可这些想法让我觉得自己不像个正常女儿。说出来会不会显得我在怪妈妈？但咨询师一直没评判我，也许我可以试着提一点，不用说得太透。）"
+      }
+    }
+  ],
+  "created": 1794548572,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2730,
+    "total_tokens": 2859,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

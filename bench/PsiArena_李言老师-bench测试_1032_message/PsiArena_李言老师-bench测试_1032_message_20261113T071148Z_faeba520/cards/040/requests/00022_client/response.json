@@ -1,0 +1,41 @@
+{
+  "id": "c3382aa0bd3b45269ca32f129cdf4358",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "停一下……说实话不太容易。可能得先意识到“我又在瞎想了”，然后深呼吸？听起来有点蠢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考应对方法，这让我有点不知所措。我习惯了被最坏的结果推着走，突然要主动找办法停下来，反而觉得无从下手。）\n（不过既然聊到这儿了，或许可以试着抓住一点具体的、能操作的东西。深呼吸这种小事我倒是能想到，但光靠这个够不够呢？心里还是没底。）",
+        "reasoning": "（咨询师在引导我思考应对方法，这让我有点不知所措。我习惯了被最坏的结果推着走，突然要主动找办法停下来，反而觉得无从下手。）\n（不过既然聊到这儿了，或许可以试着抓住一点具体的、能操作的东西。深呼吸这种小事我倒是能想到，但光靠这个够不够呢？心里还是没底。）"
+      }
+    }
+  ],
+  "created": 1794555647,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2836,
+    "total_tokens": 2939,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

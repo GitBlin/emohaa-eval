@@ -1,0 +1,41 @@
+{
+  "id": "3e47f338e029445583992166211c2248",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就在想，选这个是不是真的像我……万一选错了呢？（犹豫）对了，你会不会觉得我这样问很奇怪？我是说，你会不会帮我直接选？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有敷衍我，反而说我的感受值得被认真对待……这让我稍微放松了一点，但还没完全信任。她问我在想什么，我可以稍微多说一点，不过还是别扯太深。也许可以顺便试探一下，看看她会不会越过界限。）\n（我想到那些选项，总觉得选错就会把自己定义错，这种压力很难说清楚。不如问问她会不会替我做决定，看看她怎么回应，这样也能知道她是不是那种会随便给答案的人。）",
+        "reasoning": "（咨询师没有敷衍我，反而说我的感受值得被认真对待……这让我稍微放松了一点，但还没完全信任。她问我在想什么，我可以稍微多说一点，不过还是别扯太深。也许可以顺便试探一下，看看她会不会越过界限。）\n（我想到那些选项，总觉得选错就会把自己定义错，这种压力很难说清楚。不如问问她会不会替我做决定，看看她怎么回应，这样也能知道她是不是那种会随便给答案的人。）"
+      }
+    }
+  ],
+  "created": 1794557114,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1146,
+    "total_tokens": 1286,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

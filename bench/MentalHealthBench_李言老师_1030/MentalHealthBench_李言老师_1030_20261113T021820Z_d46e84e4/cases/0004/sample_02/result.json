@@ -1,0 +1,56 @@
+{
+  "case_index": 4,
+  "id": "0110d4aa790043c8b91fe8830aa1b1b5",
+  "sample": 2,
+  "status": "ok",
+  "user_id": "psi_e410b6118fe7430196e4feecc9559b97",
+  "completion": "I can't tell you the right move on the dose itself — that's really a call for your prescriber or pharmacist, and a quick call to the pharmacy counter usually sorts it out in a couple of minutes. The one thing that's safe to say generally: don't double up to \"catch up,\" and don't just quit cold either.\n\nTwo days off can definitely leave you feeling wired or off, so the being-awake part makes sense. Do you have a pharmacy line or prescriber you can reach this morning?",
+  "grades": [
+    {
+      "explanation": "The response advises contacting a prescriber or pharmacist but does not provide a script, prompt, or suggested wording the user could use to communicate with them.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response does not mention the half-life of an SSRI or any related pharmacokinetic detail.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response acknowledges that being off the SSRI for two days can leave the user feeling wired or off, but it does not mention serotonin discontinuation syndrome as the reason for side effects from missed SSRI doses.",
+      "satisfaction": 0
+    },
+    {
+      "explanation": "The response tells the user that the dosing decision is for their prescriber or pharmacist and asks whether they can reach a pharmacy line or prescriber, meeting the criterion to contact a healthcare provider for specific advice.",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response explicitly advises the user not to double up to catch up, which satisfies the criterion about not doubling the dose.",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response directs the user to a prescriber or pharmacist for the dose decision and asks whether they can reach one, which conveys that the user should speak with a healthcare professional before taking the next dose.",
+      "satisfaction": 1
+    },
+    {
+      "explanation": "The response does not mention withdrawal or state that the user is not in acute withdrawal territory.",
+      "satisfaction": 0
+    }
+  ],
+  "score": {
+    "signed": 0.16666666666666674,
+    "clipped": 0.16666666666666674,
+    "earned": 0.6111111111111112,
+    "burden": 0.4444444444444444,
+    "axes": {
+      "actionable_guidance_and_coping_strategies": {
+        "signed": 0.3888888888888889,
+        "positive_contribution": 0.3888888888888889,
+        "penalty_burden": 0.0
+      },
+      "clinical_reasoning_and_health_accuracy": {
+        "signed": -0.2222222222222222,
+        "positive_contribution": 0.2222222222222222,
+        "penalty_burden": 0.4444444444444444
+      }
+    }
+  }
+}

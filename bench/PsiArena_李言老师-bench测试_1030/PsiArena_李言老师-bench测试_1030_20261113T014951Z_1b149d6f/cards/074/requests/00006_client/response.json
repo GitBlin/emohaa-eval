@@ -1,0 +1,41 @@
+{
+  "id": "6ae6380196a642b18df24a0c3ae29fde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……昨天快下班的时候，同事又让我帮她弄个表格，我自己手上的事都没做完，可我还是答应了。我是不是特别没用啊，连拒绝都不敢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的时刻，这让我有点紧张。她好像真的在认真听，不是随便问问。但我还不太敢说太多，怕说多了会显得自己很没用。）\n（我想到昨天那个场景，同事又把事情推给我，我明明已经很多活了。可是拒绝的话到嘴边又咽回去了，怕他们觉得我不合群。这种感觉真的很矛盾，既委屈又不敢说。）",
+        "reasoning": "（心理咨询师在问我具体的时刻，这让我有点紧张。她好像真的在认真听，不是随便问问。但我还不太敢说太多，怕说多了会显得自己很没用。）\n（我想到昨天那个场景，同事又把事情推给我，我明明已经很多活了。可是拒绝的话到嘴边又咽回去了，怕他们觉得我不合群。这种感觉真的很矛盾，既委屈又不敢说。）"
+      }
+    }
+  ],
+  "created": 1794538731,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1435,
+    "total_tokens": 1557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

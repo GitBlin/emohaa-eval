@@ -1,0 +1,41 @@
+{
+  "id": "1d4d5fdb9227411e86f693927cea53ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能……就是那个同事吧。跟他在一起时我反而放松些。但一想到他也在躲，我就更觉得自己有问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“哪个人会让你愿意多说两句”，这让我想到那个同事。虽然我们关系还没确定，但确实只有在他面前，我偶尔能放松一点。可这种放松又让我更害怕，万一他也像家里人一样不接受真实的我呢。）\n（不过现在坐在这里，好像也能多说一点了。咨询师没有急着评判我，这让我稍微敢往下讲。也许可以试着承认，除了那个同事，现在这个房间里也算一个能说话的地方。）",
+        "reasoning": "（咨询师提到“哪个人会让你愿意多说两句”，这让我想到那个同事。虽然我们关系还没确定，但确实只有在他面前，我偶尔能放松一点。可这种放松又让我更害怕，万一他也像家里人一样不接受真实的我呢。）\n（不过现在坐在这里，好像也能多说一点了。咨询师没有急着评判我，这让我稍微敢往下讲。也许可以试着承认，除了那个同事，现在这个房间里也算一个能说话的地方。）"
+      }
+    }
+  ],
+  "created": 1794550273,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1945,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

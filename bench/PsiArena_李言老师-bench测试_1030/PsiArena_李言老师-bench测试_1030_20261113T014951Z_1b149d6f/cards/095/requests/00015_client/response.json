@@ -1,0 +1,41 @@
+{
+  "id": "ceba3fc3178845c98f0f24d04db11319",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还是我爸妈吧……他们那种语气，我好像一直记着。现在他们也不怎么说了，但那声音我自己会在心里头重复。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的这个声音，让我一下子想到很多。不是某一个人，更像是我爸的语气，还有我妈那种失望的眼神。小时候只要我坐在那儿看电视，他们就会说“作业写完了吗”或者“又在浪费时间”。）\n（那种感觉一直跟着我，现在我自己一个人待着，脑子里也会冒出这些话。说出来有点不好意思，好像我都这么大了还甩不掉这些。但确实是这样，我好像一直在跟自己较劲。）",
+        "reasoning": "（咨询师问的这个声音，让我一下子想到很多。不是某一个人，更像是我爸的语气，还有我妈那种失望的眼神。小时候只要我坐在那儿看电视，他们就会说“作业写完了吗”或者“又在浪费时间”。）\n（那种感觉一直跟着我，现在我自己一个人待着，脑子里也会冒出这些话。说出来有点不好意思，好像我都这么大了还甩不掉这些。但确实是这样，我好像一直在跟自己较劲。）"
+      }
+    }
+  ],
+  "created": 1794540176,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2400,
+    "total_tokens": 2522,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

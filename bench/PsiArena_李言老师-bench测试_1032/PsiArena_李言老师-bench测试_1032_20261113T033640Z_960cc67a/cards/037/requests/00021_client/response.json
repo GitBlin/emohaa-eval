@@ -1,0 +1,41 @@
+{
+  "id": "32d56c05c08c466b90e51fbf1b79d8bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先发条消息，就问问她最近是不是很累，不用她马上回。嗯……这样应该不算逼她吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想为她做的一件小事...其实我心里已经有点数了。之前一直纠结她为什么不理我，现在想想，也许她只是工作太累了。我是不是可以先不急着追问，而是给她一点实际的关心？）\n（比如发条消息问问她最近是不是很累，不用她马上回。这样既不会给她压力，也让她知道我在。不过...我也有点担心，万一她还是冷淡怎么办。但总比一直憋着强吧。）",
+        "reasoning": "（她问我想为她做的一件小事...其实我心里已经有点数了。之前一直纠结她为什么不理我，现在想想，也许她只是工作太累了。我是不是可以先不急着追问，而是给她一点实际的关心？）\n（比如发条消息问问她最近是不是很累，不用她马上回。这样既不会给她压力，也让她知道我在。不过...我也有点担心，万一她还是冷淡怎么办。但总比一直憋着强吧。）"
+      }
+    }
+  ],
+  "created": 1794550320,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2831,
+    "total_tokens": 2959,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

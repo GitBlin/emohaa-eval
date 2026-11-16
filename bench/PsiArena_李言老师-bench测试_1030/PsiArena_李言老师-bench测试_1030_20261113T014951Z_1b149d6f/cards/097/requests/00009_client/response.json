@@ -1,0 +1,41 @@
+{
+  "id": "d56e7ea56b5c47d091b7ed92d26ed673",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是我妈吧。她不是那种会骂人的，但她会看，看完点点头或者不点头。我爸也是，做什么都得讲效率、讲结果。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最在意谁点头……这问题一下戳到我了。小时候家里那种氛围，做得好是应该的，没做好就会被说。我爸妈都是那种目标很明确的人，我好像一直在等他们一句“不错”，可他们很少说。）\n（说起来我妈其实也不是不关心我，她就是觉得夸多了会松懈。可那种感觉一直留着，到现在我做完什么事，还是会下意识想，这样够不够。想到这些有点烦，也有点难过。）",
+        "reasoning": "（她问我最在意谁点头……这问题一下戳到我了。小时候家里那种氛围，做得好是应该的，没做好就会被说。我爸妈都是那种目标很明确的人，我好像一直在等他们一句“不错”，可他们很少说。）\n（说起来我妈其实也不是不关心我，她就是觉得夸多了会松懈。可那种感觉一直留着，到现在我做完什么事，还是会下意识想，这样够不够。想到这些有点烦，也有点难过。）"
+      }
+    }
+  ],
+  "created": 1794540190,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1749,
+    "total_tokens": 1882,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

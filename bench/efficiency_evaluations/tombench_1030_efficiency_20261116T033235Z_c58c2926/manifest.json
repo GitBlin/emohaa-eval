@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-11-16T03:32:35.989573+00:00",
+  "benchmark": "tombench",
+  "bot_id": 1030,
+  "source_run": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/ToMBench_李言老师full_mediumm_1030/ToMBench_李言老师full_mediumm_1030_20261112T025335Z_bb42bf7a",
+  "workers": 1,
+  "seed": 42,
+  "timeout": 90,
+  "planned": 4,
+  "retry": "none; each sample uses a fresh user and clear+verify",
+  "timing": "chat only; perf_counter; SSE iter_lines chunk_size=1; buffered event logging",
+  "quantiles": "linear interpolation",
+  "known_limitations": "untyped platform placeholders cannot be distinguished from answer text; platform model version unreported",
+  "source_plan_sha256": "d900fa65105e904c7e375a71a18d5473baf51b536e653a877553fb34b740f6f3",
+  "code_sha256": {
+    "evaluate_efficiency.py": "8bbf2fd254a8d93b2d4e8e2e97d30b8038779ca555b247fd1c2cd3feec9ddb7f",
+    "emobench_api.py": "c6a88da255a70c2a06025011f2c9b97fb48bf22f9e539f28a530254386e50e1e",
+    "evaluate_liyan.py": "a45a5b238ca661ae1aa3bafeaed96f24bc9474906cb8558d762e983e63a6a02b"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1c3cabb4d7504dc381dbc9d34ffea071",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小吧……我记得考不好的时候，家里气氛特别冷。爸妈不太问为什么，就是脸一沉。久了我就学会了，有情绪自己憋着，说出来也没用，还挨说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了家里的事，还问从什么时候开始不太谈。这让我想起小时候，家里确实很少聊感受，都是聊成绩、聊表现。爸妈总说“别找借口”，考不好就是丢脸。那种感觉……好像从小就被训练成不能示弱。）\n（现在想想，可能就是从那时候开始，我学会了把不舒服的东西藏起来。说多了反而挨说，不如不说。这种感觉挺压抑的，但我又觉得说出来有点丢人，好像承认自己家里有问题似的。）",
+        "reasoning": "（咨询师问到了家里的事，还问从什么时候开始不太谈。这让我想起小时候，家里确实很少聊感受，都是聊成绩、聊表现。爸妈总说“别找借口”，考不好就是丢脸。那种感觉……好像从小就被训练成不能示弱。）\n（现在想想，可能就是从那时候开始，我学会了把不舒服的东西藏起来。说多了反而挨说，不如不说。这种感觉挺压抑的，但我又觉得说出来有点丢人，好像承认自己家里有问题似的。）"
+      }
+    }
+  ],
+  "created": 1794557816,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1641,
+    "total_tokens": 1790,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1ee0c36f400244bca0f044210367e9b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有吧，可能是我妈的声音。虽然她平时总催我学习，但她的声音我熟。说起来有点怪，我一边嫌她唠叨，一边又觉得她的声音让我踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有某个声音让我没那么紧张……这让我想起妈妈的声音。但为什么是妈妈的声音呢？可能因为在家里，她的声音是我最熟悉的，哪怕她总在说学习的事。不过这话说出来，会不会显得我太依赖家里了？）\n（我有点犹豫要不要提这个。毕竟我一直觉得在家听父母的话是应该的，可刚才说到声音的时候，脑子里第一个冒出来的确实是妈妈。这让我有点困惑，是不是我太习惯被安排了，连放松都要靠熟悉的声音？）",
+        "reasoning": "（咨询师问我有没有某个声音让我没那么紧张……这让我想起妈妈的声音。但为什么是妈妈的声音呢？可能因为在家里，她的声音是我最熟悉的，哪怕她总在说学习的事。不过这话说出来，会不会显得我太依赖家里了？）\n（我有点犹豫要不要提这个。毕竟我一直觉得在家听父母的话是应该的，可刚才说到声音的时候，脑子里第一个冒出来的确实是妈妈。这让我有点困惑，是不是我太习惯被安排了，连放松都要靠熟悉的声音？）"
+      }
+    }
+  ],
+  "created": 1794548127,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1626,
+    "total_tokens": 1777,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

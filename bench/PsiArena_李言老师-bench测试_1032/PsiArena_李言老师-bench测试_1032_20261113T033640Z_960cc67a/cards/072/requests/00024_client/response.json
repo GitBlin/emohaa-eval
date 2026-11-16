@@ -1,0 +1,41 @@
+{
+  "id": "8bb93baf70724699864d041c259f3c36",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声）想留住……我妈那种把日子过好的样子吧。可罐子留着，日子也没过好。（停顿）是不是我该学着分一分，哪些是真想留的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想留住的是什么……这个问题戳到我了。是啊，当初留下那些罐子，我到底想留住什么呢？是妈妈那种把日子过得井井有条的样子吧。好像只要东西还在，那种感觉就不会散。）\n（可我也明白，光靠堆东西，日子并不会真的变好。屋里越来越挤，我反而更慌。也许我该试着分清，哪些是真正想留的，哪些只是怕失去。）",
+        "reasoning": "（她问我想留住的是什么……这个问题戳到我了。是啊，当初留下那些罐子，我到底想留住什么呢？是妈妈那种把日子过得井井有条的样子吧。好像只要东西还在，那种感觉就不会散。）\n（可我也明白，光靠堆东西，日子并不会真的变好。屋里越来越挤，我反而更慌。也许我该试着分清，哪些是真正想留的，哪些只是怕失去。）"
+      }
+    }
+  ],
+  "created": 1794545001,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3117,
+    "total_tokens": 3250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

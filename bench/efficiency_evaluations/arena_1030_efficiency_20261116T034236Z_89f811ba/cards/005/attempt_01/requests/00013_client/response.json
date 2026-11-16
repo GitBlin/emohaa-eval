@@ -1,0 +1,47 @@
+{
+  "id": "ba3c12fc72b245a4ac1a76680bb7d260",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）可能……是我妈吧。她那时候总忙着招呼客人。我有时候想，她要是回头叫我一声，我大概就不会老觉得是自己不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了小时候最想被谁叫一声，这个问法让我心里一紧。我其实从来没认真想过这个问题，但那个画面太清晰了，大人们在客厅聊天，我站在门边。最想被叫的，应该是妈妈吧，可她总是忙着招呼客人，顾不上我。现在想想，我好像一直在等一个“被叫到”的信号，等消息也是，等笔友回信也是。）\n（可我又有点犹豫，说出来会不会显得很矫情？都这么大了还惦记小时候的事。但咨询师一直很稳，没有评判我，也许可以说一点。不过说完又有点后悔，觉得自己是不是太脆弱了，所以还是补一句自嘲的话，别让气氛太沉重。）",
+        "reasoning": "（咨询师问到了小时候最想被谁叫一声，这个问法让我心里一紧。我其实从来没认真想过这个问题，但那个画面太清晰了，大人们在客厅聊天，我站在门边。最想被叫的，应该是妈妈吧，可她总是忙着招呼客人，顾不上我。现在想想，我好像一直在等一个“被叫到”的信号，等消息也是，等笔友回信也是。）\n（可我又有点犹豫，说出来会不会显得很矫情？都这么大了还惦记小时候的事。但咨询师一直很稳，没有评判我，也许可以说一点。不过说完又有点后悔，觉得自己是不是太脆弱了，所以还是补一句自嘲的话，别让气氛太沉重。）"
+      }
+    }
+  ],
+  "created": 1794800742,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 2249,
+    "total_tokens": 2440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 153,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2048,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

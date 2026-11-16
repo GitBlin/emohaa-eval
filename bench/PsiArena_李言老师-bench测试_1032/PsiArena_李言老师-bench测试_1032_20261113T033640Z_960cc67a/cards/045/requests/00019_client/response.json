@@ -1,0 +1,41 @@
+{
+  "id": "e7230e9ce2944b96bd037cf88b9b6f2c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能先说我有点累吧。不是身体累，是心里一直绷着，好像松不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我想告诉对方哪部分心情……我好像从来没认真想过这个。以前总觉得说了也没用，可现在真的有人问，我反而有点不知道从哪说起。）\n（也许可以先从最近那种空落落的感觉开始吧。不用一下子把所有委屈都倒出来，就说一点点，说自己有点累，有点撑不住。这样应该可以。）",
+        "reasoning": "（他问我想告诉对方哪部分心情……我好像从来没认真想过这个。以前总觉得说了也没用，可现在真的有人问，我反而有点不知道从哪说起。）\n（也许可以先从最近那种空落落的感觉开始吧。不用一下子把所有委屈都倒出来，就说一点点，说自己有点累，有点撑不住。这样应该可以。）"
+      }
+    }
+  ],
+  "created": 1794550569,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2697,
+    "total_tokens": 2792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

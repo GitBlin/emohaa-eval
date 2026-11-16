@@ -1,0 +1,41 @@
+{
+  "id": "de5cbef1dffe445c993a4424ce15b84b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……一进病房，那种忙乱的感觉就压过来，还有同事看我的眼神。我说不清，可能是我自己想多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他好像真的在试着理解我的处境，不是那种敷衍的安慰。但医院里的事……说多了也没用，他毕竟不在这个环境里。不过既然他问了具体场景，我就稍微说一点吧，不用全盘托出。）\n（想到要回去，那种感觉又上来了。同事们的眼神，还有那些永远做不完的事。其实我有点怕说太多会被当成矫情，护士这行谁不累呢。）",
+        "reasoning": "（他好像真的在试着理解我的处境，不是那种敷衍的安慰。但医院里的事……说多了也没用，他毕竟不在这个环境里。不过既然他问了具体场景，我就稍微说一点吧，不用全盘托出。）\n（想到要回去，那种感觉又上来了。同事们的眼神，还有那些永远做不完的事。其实我有点怕说太多会被当成矫情，护士这行谁不累呢。）"
+      }
+    }
+  ],
+  "created": 1794545158,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1336,
+    "total_tokens": 1459,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

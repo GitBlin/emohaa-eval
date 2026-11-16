@@ -1,0 +1,41 @@
+{
+  "id": "9a6ed00a9357459a9d58c746c01803d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不自在）怕他们看出来我在发抖，或者走神。（停了停）本来我就内向，不想被人觉得我怪怪的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在开会时最怕被人注意到什么，这让我一下子想到那些尴尬的瞬间。其实我不太想承认，但确实很在意别人会不会看出我发抖或者走神。）\n（我担心他们觉得我不专业，或者干脆觉得我有点不对劲。这种担心让我更紧张，好像越想藏就越藏不住。）",
+        "reasoning": "（他问我在开会时最怕被人注意到什么，这让我一下子想到那些尴尬的瞬间。其实我不太想承认，但确实很在意别人会不会看出我发抖或者走神。）\n（我担心他们觉得我不专业，或者干脆觉得我有点不对劲。这种担心让我更紧张，好像越想藏就越藏不住。）"
+      }
+    }
+  ],
+  "created": 1794544703,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2456,
+    "total_tokens": 2555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

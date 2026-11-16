@@ -1,0 +1,41 @@
+{
+  "id": "45c890ca31b34ea89b7b91ce54ec70ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……说不清，就是躺着很久也睡不着，脑子停不下来。对了，你们会把这些记录给别人看吗？我有点担心这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我是入睡困难还是容易醒……其实都不是重点，但我不想这么快就交代清楚。先随便说个大概吧，反正这种问题应该也不算什么秘密。）\n（不过刚才他说保密有例外，我还是有点不放心。得确认一下他会不会把这些记下来给别人看，不然我不敢多说。）",
+        "reasoning": "（他问我是入睡困难还是容易醒……其实都不是重点，但我不想这么快就交代清楚。先随便说个大概吧，反正这种问题应该也不算什么秘密。）\n（不过刚才他说保密有例外，我还是有点不放心。得确认一下他会不会把这些记下来给别人看，不然我不敢多说。）"
+      }
+    }
+  ],
+  "created": 1794545759,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1120,
+    "total_tokens": 1216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

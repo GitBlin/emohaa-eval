@@ -1,0 +1,41 @@
+{
+  "id": "ab459e75585644d7b9887a2b065f2113",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有一点吧……不过更多是慌，怕时间不够，怕怎么追都追不上。那个，我能不能先不说我爸妈的事？我还没想好怎么讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得还挺细的……是责怪还是发慌？其实两种都有吧，但要说更像什么，可能还是那种怕来不及的感觉。每次看到别人翻页比我快，我就觉得时间在跑，我追不上。）\n（不过她好像一直在往我爸妈那边问，让我有点不太舒服。我不想现在就说家里的事，也不知道怎么说。先把这个岔开吧，别让她觉得我在回避，就说还没准备好。）",
+        "reasoning": "（她问得还挺细的……是责怪还是发慌？其实两种都有吧，但要说更像什么，可能还是那种怕来不及的感觉。每次看到别人翻页比我快，我就觉得时间在跑，我追不上。）\n（不过她好像一直在往我爸妈那边问，让我有点不太舒服。我不想现在就说家里的事，也不知道怎么说。先把这个岔开吧，别让她觉得我在回避，就说还没准备好。）"
+      }
+    }
+  ],
+  "created": 1794536591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1461,
+    "total_tokens": 1590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

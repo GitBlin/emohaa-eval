@@ -1,0 +1,41 @@
+{
+  "id": "e51958807492435cbed7b22cf8185b92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是有天晚上我们气氛还挺好的，我差点想开口，但一想到他可能会拒绝，就又咽回去了。每次到那一步我就怂了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次差点说出口的情境，这让我想起那个晚上。当时气氛确实挺好的，可能是我太想抓住那种感觉了。）\n（但话到嘴边还是咽回去了，因为一想到他可能会拒绝或者觉得我奇怪，我就立刻退缩了。这种矛盾让我很无力，好像总是在关键时刻掉链子。）",
+        "reasoning": "（咨询师问我最近一次差点说出口的情境，这让我想起那个晚上。当时气氛确实挺好的，可能是我太想抓住那种感觉了。）\n（但话到嘴边还是咽回去了，因为一想到他可能会拒绝或者觉得我奇怪，我就立刻退缩了。这种矛盾让我很无力，好像总是在关键时刻掉链子。）"
+      }
+    }
+  ],
+  "created": 1794542774,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2877,
+    "total_tokens": 2979,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "427c7d8085a142859ed26c03230fedb1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺经常的，尤其一闲下来就有。忙的时候能压过去，但晚上就冒出来了。我想问问，这种时候我除了刷手机，还能做点啥吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种空落落的感觉出现的频率，是在帮我梳理这种情绪的模式。这个问题不算太难，但我得想想怎么回答才准确。）\n（说实话，这种感觉好像一直都有，只是晚上特别明显。白天忙起来会好一些，但一闲下来它就冒出来。我想我可以试着把这个区分说清楚，顺便问问接下来能做什么，毕竟我不想一直这样下去。）",
+        "reasoning": "（咨询师在问我这种空落落的感觉出现的频率，是在帮我梳理这种情绪的模式。这个问题不算太难，但我得想想怎么回答才准确。）\n（说实话，这种感觉好像一直都有，只是晚上特别明显。白天忙起来会好一些，但一闲下来它就冒出来。我想我可以试着把这个区分说清楚，顺便问问接下来能做什么，毕竟我不想一直这样下去。）"
+      }
+    }
+  ],
+  "created": 1794550842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2919,
+    "total_tokens": 3039,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

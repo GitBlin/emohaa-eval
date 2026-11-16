@@ -1,0 +1,41 @@
+{
+  "id": "341094f243b9405681f6178d5784a7a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是愿意听我说吧。意见完全一致也不太可能，但要是他肯认真听，我就没那么慌。不过……这么想是不是有点太理想化了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我，是意见一致更安心，还是对方愿意听我说更安心。这个问题让我愣了一下，我好像从来没这么拆开想过。以前总觉得两个人想法一样才叫合适，可仔细想想，真正让我踏实的时候，确实是对方认真听我说话的那会儿。）\n（我想到爸妈，他们意见总是一致，可我妈很多话都没地方说。我不想那样。所以我心里其实更看重被听见，而不是表面上的合拍。只是这么一讲，又觉得自己是不是在绕开那些现实条件。）",
+        "reasoning": "（咨询师在问我，是意见一致更安心，还是对方愿意听我说更安心。这个问题让我愣了一下，我好像从来没这么拆开想过。以前总觉得两个人想法一样才叫合适，可仔细想想，真正让我踏实的时候，确实是对方认真听我说话的那会儿。）\n（我想到爸妈，他们意见总是一致，可我妈很多话都没地方说。我不想那样。所以我心里其实更看重被听见，而不是表面上的合拍。只是这么一讲，又觉得自己是不是在绕开那些现实条件。）"
+      }
+    }
+  ],
+  "created": 1794552723,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2816,
+    "total_tokens": 2961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

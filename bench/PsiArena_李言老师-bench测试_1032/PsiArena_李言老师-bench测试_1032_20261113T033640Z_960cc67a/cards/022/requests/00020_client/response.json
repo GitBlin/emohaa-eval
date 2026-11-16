@@ -1,0 +1,41 @@
+{
+  "id": "d8ba654cbcb147afbc9a7aea874c8ef6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在写吗……好，我试试。（停顿）写是写了，但心里还是有点别扭，像在骗自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我现在就写这句话，我有点犹豫。这听起来简单，但对我来说好像没那么容易。我担心写下来也骗不了自己，反而显得更假。）\n（不过，他刚才说不用逼自己相信，只是先写一句。也许我可以试试，至少不用现在就要求自己马上变得积极。那就先写下来吧，但心里还是有点别扭。）",
+        "reasoning": "（咨询师让我现在就写这句话，我有点犹豫。这听起来简单，但对我来说好像没那么容易。我担心写下来也骗不了自己，反而显得更假。）\n（不过，他刚才说不用逼自己相信，只是先写一句。也许我可以试试，至少不用现在就要求自己马上变得积极。那就先写下来吧，但心里还是有点别扭。）"
+      }
+    }
+  ],
+  "created": 1794542281,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2839,
+    "total_tokens": 2944,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

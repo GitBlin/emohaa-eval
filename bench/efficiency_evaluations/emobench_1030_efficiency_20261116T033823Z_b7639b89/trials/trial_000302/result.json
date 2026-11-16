@@ -1,0 +1,74 @@
+{
+  "attempted": true,
+  "success": true,
+  "trial_id": "trial_000302",
+  "group": "EU_zh",
+  "user_id": "eff_bcb2ab69231344b1be1b9ab5cdeb8cb9",
+  "first_text_seconds": 1.9053445240024303,
+  "complete_seconds": 2.0245054370025173,
+  "reply": "```json\n{\n  \"answer_q1\": \"A\",\n  \"answer_q2\": \"B\"\n}\n```",
+  "error_type": null,
+  "headers_seconds": 1.9052224760016543,
+  "http_status": 200,
+  "request_id": null,
+  "content_type": "text/event-stream;charset=utf-8",
+  "end_event_seconds": 2.0245054370025173,
+  "terminated_seconds": 2.025253462001274,
+  "output_characters": 54,
+  "text_event_count": 10,
+  "text_event_characters": [
+    3,
+    4,
+    3,
+    10,
+    10,
+    15,
+    1,
+    2,
+    2,
+    3
+  ],
+  "text_arrival_seconds": [
+    1.9053445240024303,
+    1.9054564220023167,
+    1.9236745660018642,
+    1.9237478150025709,
+    1.9238335830013966,
+    1.9911349280009745,
+    1.9912043870026537,
+    1.9912942250011838,
+    1.9913667140026519,
+    2.001856339000369
+  ],
+  "text_gap_seconds": [
+    0.00011189799988642335,
+    0.018218143999547465,
+    7.324900070670992e-05,
+    8.57679988257587e-05,
+    0.06730134499957785,
+    6.945900167920627e-05,
+    8.983799853012897e-05,
+    7.248900146805681e-05,
+    0.010489624997717328
+  ],
+  "max_text_gap_seconds": 0.06730134499957785,
+  "tail_wait_seconds": 0.022649098002148094,
+  "score": {
+    "status": "ok",
+    "prediction_shown": {
+      "answer_q1": "A",
+      "answer_q2": "B"
+    },
+    "prediction_original": {
+      "answer_q1": "A",
+      "answer_q2": "B"
+    },
+    "component_correct": {
+      "answer_q1": true,
+      "answer_q2": false
+    },
+    "correct": false,
+    "strict_format": true
+  },
+  "history_one_pair": true
+}

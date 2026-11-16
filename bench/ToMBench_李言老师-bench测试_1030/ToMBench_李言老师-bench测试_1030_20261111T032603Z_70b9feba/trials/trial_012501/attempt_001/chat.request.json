@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:39:35.011809+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLiu Na participates in an outdoor camping activity for the first time. She sets up tents with her friends and prepares for the bonfire party at night.\n\n[Question]\nLiu Na should feel excited about the camping activity, but why does she look anxious?\n\n[Candidate Answers]\nA. Liu Na worries that the weather at night turns bad, which affects her mood.\nB. Liu Na encounters difficulties when setting up the tent, which makes her feel anxious and frustrated.\nC. Liu Na is unfamiliar with outdoor life and worries about encountering wild animals.\nD. Liu Na finds that she forgets to bring some minor camping equipment, which makes her feel anxious.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

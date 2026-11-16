@@ -1,0 +1,41 @@
+{
+  "id": "66e4f1d585a84bf98e7251d08b1736b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喘口气……好像没有。坐在医院走廊里，脑子就不受控制地想起以前家里的事，我舅舅、我外公……都是生病走的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起喘口气的时间，让我心里有点发酸。她好像真的在关心我累不累，而不是急着要我讲那些细节。）\n（可这个问题让我想到医院里的样子，我根本没法放松。坐在走廊里，脑子里全是小时候家里人生病、去世的画面，那种感觉又回来了。）",
+        "reasoning": "（咨询师问起喘口气的时间，让我心里有点发酸。她好像真的在关心我累不累，而不是急着要我讲那些细节。）\n（可这个问题让我想到医院里的样子，我根本没法放松。坐在走廊里，脑子里全是小时候家里人生病、去世的画面，那种感觉又回来了。）"
+      }
+    }
+  ],
+  "created": 1794548855,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1591,
+    "total_tokens": 1689,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

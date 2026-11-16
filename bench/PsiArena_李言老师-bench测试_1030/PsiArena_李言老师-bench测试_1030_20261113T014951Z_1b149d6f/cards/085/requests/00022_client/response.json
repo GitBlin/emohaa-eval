@@ -1,0 +1,41 @@
+{
+  "id": "e666c91062fd4860b9c8f86bddb70784",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能是画画吧。我一直想随便画点什么，但总觉得画得不好就别画了。要不……就从五分钟乱涂开始？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我挑一件具体的事，我脑子里一下子冒出好多，但又觉得说出来会不会太幼稚。不过刚才那种“就这样”的轻松感还在，好像可以试着说一件小的。）\n（我想说画画，但又怕他以为我有什么大计划。其实我真的只是想随便涂两笔，不用给谁看。这样说出来，会不会显得我太没出息？）",
+        "reasoning": "（他让我挑一件具体的事，我脑子里一下子冒出好多，但又觉得说出来会不会太幼稚。不过刚才那种“就这样”的轻松感还在，好像可以试着说一件小的。）\n（我想说画画，但又怕他以为我有什么大计划。其实我真的只是想随便涂两笔，不用给谁看。这样说出来，会不会显得我太没出息？）"
+      }
+    }
+  ],
+  "created": 1794539342,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3352,
+    "total_tokens": 3461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

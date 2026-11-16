@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:42:19.645742+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nDuring a meeting to discuss our project's progress, my colleague accused me of not working hard enough in front of the team.\n\n## Question \nIn this scenario, what is the most effective Response for I?\n\n## Choices\nA) \"While I appreciate your input, the division of work has been made and I am working hard on my part\"\nB) \"That's an interesting perspective. I believe I've put in a substantial amount of work on this project.\"\nC) \"I'm sorry you feel that way, I've been doing my best, so I think you can appreciate my effort\"\nD) \"We can discuss your thoughts in detail after the meeting to work out a solution\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

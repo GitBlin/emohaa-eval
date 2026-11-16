@@ -1,0 +1,41 @@
+{
+  "id": "0d1436ce44814614aae70a261ee899fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "影响挺大的。比如相亲前挑衣服，我能换好几套，最后还觉得不对。好像怎么做都怕出错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像注意到了我那种自我怀疑的拉扯，还问到了做决定。这让我想到每次相亲前挑衣服、想话题，总是反复推翻自己。其实我确实很容易被“不够好”的念头牵着走，但又不太想承认自己这么没主见。也许可以稍微透露一点，但别说得太深。）\n（嗯，用挑衣服这种小事来说比较自然，也符合我平时不太敢直接表达深层想法的状态。这样既回应了问题，又不会显得太分析化。）",
+        "reasoning": "（咨询师好像注意到了我那种自我怀疑的拉扯，还问到了做决定。这让我想到每次相亲前挑衣服、想话题，总是反复推翻自己。其实我确实很容易被“不够好”的念头牵着走，但又不太想承认自己这么没主见。也许可以稍微透露一点，但别说得太深。）\n（嗯，用挑衣服这种小事来说比较自然，也符合我平时不太敢直接表达深层想法的状态。这样既回应了问题，又不会显得太分析化。）"
+      }
+    }
+  ],
+  "created": 1794554733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2048,
+    "total_tokens": 2185,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

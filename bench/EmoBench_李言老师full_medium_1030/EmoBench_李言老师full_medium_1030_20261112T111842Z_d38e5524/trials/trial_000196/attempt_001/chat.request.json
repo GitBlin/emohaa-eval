@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:55.306490+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nMichael has been working hard to perfect a new magic trick. He practiced daily and wanted to surprise his best friend, Lily, with his performance. However, Lily has been secretly attending his practices. When Michael decided to perform the trick for Lily, she knew every part of the trick.\n\n## Question 1\nWhat emotion(s) would Lily ultimately feel in this situation?\n\n## Choices for Question 1\nA) Guilt\nB) Excitement\nC) Pride\nD) Surprise\nE) Gratitude\nF) Curiosity\n\n## Question 2\nWhy would Lily feel these emotions in this situation?\n\n## Choices for Question 2\nA) She loves magic tricks\nB) She made Michael feel like she got the trick without prior knowledge while knowing it beforehand\nC) She is not impressed by Michael's skills\nD) She feels bad for ruining Michael's magic trick\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

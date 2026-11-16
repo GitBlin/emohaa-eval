@@ -1,0 +1,41 @@
+{
+  "id": "640fc0aec09e4e08b7545dc38219a06c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……比如做个测试吧，就是那种选择性格的问卷，我能盯着一个选项看半天。（轻轻叹气）其实说出来好像也没什么大不了的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问起最近一次纠结的小事，这让我有点不知道从何说起。其实我确实能想到好几个例子，但说出来会不会显得太小题大做？而且他会不会觉得我连这种事都要纠结很可笑。）\n（还是先含糊地提一下做测试的事吧，这样比较安全，不用暴露太多细节。不过说完之后又有点后悔，怕他追问下去，我还没准备好把那些反复纠结的过程讲清楚。）",
+        "reasoning": "（他问起最近一次纠结的小事，这让我有点不知道从何说起。其实我确实能想到好几个例子，但说出来会不会显得太小题大做？而且他会不会觉得我连这种事都要纠结很可笑。）\n（还是先含糊地提一下做测试的事吧，这样比较安全，不用暴露太多细节。不过说完之后又有点后悔，怕他追问下去，我还没准备好把那些反复纠结的过程讲清楚。）"
+      }
+    }
+  ],
+  "created": 1794557111,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1053,
+    "total_tokens": 1177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

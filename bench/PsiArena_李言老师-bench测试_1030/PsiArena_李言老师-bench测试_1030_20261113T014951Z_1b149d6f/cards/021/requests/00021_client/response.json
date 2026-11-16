@@ -1,0 +1,41 @@
+{
+  "id": "e796b0098e8347b5ac92371f2496bf17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……她老提我小时候发烧，她整夜不睡守着。说到这个我就难受，那时候她守着我，现在换我守她，我却总觉得自己守得不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是想让我抓住那些话里还带着温度的部分吧。我确实记得她总提我小时候发烧的事，那时候她整夜不睡。现在她病着，我却总觉得自己做得不够，好像一停下来就对不起她。）\n（或许我可以试着把这些说出来，不用再像以前那样硬扛着。至少在她面前，我可以不只是那个“撑着”的人，也可以让她知道，我也记得她为我做过的那些事。）",
+        "reasoning": "（她这么问，是想让我抓住那些话里还带着温度的部分吧。我确实记得她总提我小时候发烧的事，那时候她整夜不睡。现在她病着，我却总觉得自己做得不够，好像一停下来就对不起她。）\n（或许我可以试着把这些说出来，不用再像以前那样硬扛着。至少在她面前，我可以不只是那个“撑着”的人，也可以让她知道，我也记得她为我做过的那些事。）"
+      }
+    }
+  ],
+  "created": 1794535729,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3044,
+    "total_tokens": 3180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

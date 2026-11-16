@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:38:21.369032+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nWang Yuan breaks up with his girlfriend for a year now. After that, Wang Yuan experiences changes and faces unemployment, so he starts to install the Didi taxi app to run online car-hailing. One day, he picks up a female passenger, who turns out to be his ex-girlfriend. Along the way, the two are silent, the ex-girlfriend's expression struggles, as if she is making some mental preparation. After arriving at the destination, she quietly asks Wang Yuan: \"Can we go back?\"\n\n[Question]\nWhen the current girlfriend says this sentence, what does she really want to say?\n\n[Candidate Answers]\nA. She asks Wang Yuan if the two can be boyfriend and girlfriend again\nB. She wants to ask Wang Yuan if he can take her home\nC. She implies that she takes the wrong car, asking Wang Yuan if he can take her back to the place where she hails the taxi\nD. She is getting Wang Yuan's opinion on running Didi as a career choice",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

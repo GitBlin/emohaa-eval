@@ -1,0 +1,41 @@
+{
+  "id": "2bed709e0c614d64a4917110a556dbc5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿）可能就是……问我一句“你今天是不是不开心”吧。我好像从来没等到过这句话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我小时候最希望被问哪一句心里话……这让我有点难受，又有点被戳中的感觉。我从来没认真想过这个问题，因为以前根本没人这样问过我。）\n（如果那时候有人先问我一句“你今天是不是不开心”，我大概会觉得被看见了。可我说不出口，家里那种氛围让我觉得自己的情绪不重要。现在说出来，反而有点想哭。）",
+        "reasoning": "（她问的是我小时候最希望被问哪一句心里话……这让我有点难受，又有点被戳中的感觉。我从来没认真想过这个问题，因为以前根本没人这样问过我。）\n（如果那时候有人先问我一句“你今天是不是不开心”，我大概会觉得被看见了。可我说不出口，家里那种氛围让我觉得自己的情绪不重要。现在说出来，反而有点想哭。）"
+      }
+    }
+  ],
+  "created": 1794550565,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2606,
+    "total_tokens": 2711,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

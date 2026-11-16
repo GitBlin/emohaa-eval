@@ -1,0 +1,41 @@
+{
+  "id": "45435cd1418d4c73bcb24a834f965c7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，能松一点。（想了想）其实我也知道光靠这个不够，可请假去看病这事儿……我一直拿不定主意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（嗯，咨询师没有笑话我听相声这件事，还说这是给自己找出口。心里好像没那么紧了。之前总觉得这些小事不值一提，现在想想，也许确实可以多给自己留点这样的时间。）\n（不过光靠听相声肯定不够。我最近一直在想请假的事，是不是该认真考虑一下了。但一想到领导那张脸，还有家里等着用钱，又有点退缩。）",
+        "reasoning": "（嗯，咨询师没有笑话我听相声这件事，还说这是给自己找出口。心里好像没那么紧了。之前总觉得这些小事不值一提，现在想想，也许确实可以多给自己留点这样的时间。）\n（不过光靠听相声肯定不够。我最近一直在想请假的事，是不是该认真考虑一下了。但一想到领导那张脸，还有家里等着用钱，又有点退缩。）"
+      }
+    }
+  ],
+  "created": 1794556796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2360,
+    "total_tokens": 2470,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

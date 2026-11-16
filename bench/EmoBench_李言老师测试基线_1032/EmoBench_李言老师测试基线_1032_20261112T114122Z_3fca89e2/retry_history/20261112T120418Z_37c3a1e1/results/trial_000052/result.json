@@ -1,0 +1,63 @@
+{
+  "trial_id": "trial_000052",
+  "sample_id": "EU:53",
+  "task": "EU",
+  "language": "en",
+  "repeat": 0,
+  "category": "personal_beliefs_and_experiences",
+  "fine_category": "cultural_value",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "A",
+    "answer_q2": "D"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_8139ae9bcbd67be997f8229c5e294f858ed978bc",
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "reply": "",
+  "prediction_original": {},
+  "component_correct": {},
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:45:04.193098+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T11:45:26.145053+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T11:45:49.685055+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "elapsed_seconds": 65.02905255928636,
+  "finished_at": "2026-11-12T11:46:09.222117+00:00"
+}

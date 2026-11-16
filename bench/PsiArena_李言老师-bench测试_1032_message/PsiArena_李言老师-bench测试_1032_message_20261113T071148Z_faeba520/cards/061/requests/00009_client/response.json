@@ -1,0 +1,41 @@
+{
+  "id": "7b797f0dfe404568b3c8744126292643",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "意味着……我这个人就不行了呗。（声音低下去）其实从小到大都这样，我爸妈只关心我成绩好不好，做得好是应该的，做不好就……唉，说这个干嘛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问这个，好像戳到了我一直在回避的地方。我其实很怕别人觉得我不行，但更怕的是，那个“不行”真的被证实。）\n（从小家里就只看成绩，考好了才有笑脸，考砸了连饭桌上都安静得吓人。我好像一直活在“必须证明自己有用”的循环里，现在这个分数就像在告诉我，我连自己都控制不了。）",
+        "reasoning": "（他问这个，好像戳到了我一直在回避的地方。我其实很怕别人觉得我不行，但更怕的是，那个“不行”真的被证实。）\n（从小家里就只看成绩，考好了才有笑脸，考砸了连饭桌上都安静得吓人。我好像一直活在“必须证明自己有用”的循环里，现在这个分数就像在告诉我，我连自己都控制不了。）"
+      }
+    }
+  ],
+  "created": 1794556712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1708,
+    "total_tokens": 1838,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

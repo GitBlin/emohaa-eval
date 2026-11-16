@@ -1,0 +1,41 @@
+{
+  "id": "6c9c4b92a2514c5589a0066553c29de1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "聊什么都可以吗……那我说的这些，你会不会告诉别人啊？比如我爸妈什么的。我就是想先确认一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来还算温和，但我还是不太确定能不能信任她。她说不会勉强我，可我怎么知道她会不会转头就把我说的话告诉别人？毕竟我爸妈都不知道这些事。我得先试探一下，看看她到底会怎么处理我说的事情。不过也不能问得太直接，万一她觉得我难搞就不好了。）\n（其实我最近确实很难受，但具体说又说不清楚。心里堵得慌，又觉得说出来很丢人。也许先随便说点表面的东西，看看她什么反应吧。）",
+        "reasoning": "（这个咨询师看起来还算温和，但我还是不太确定能不能信任她。她说不会勉强我，可我怎么知道她会不会转头就把我说的话告诉别人？毕竟我爸妈都不知道这些事。我得先试探一下，看看她到底会怎么处理我说的事情。不过也不能问得太直接，万一她觉得我难搞就不好了。）\n（其实我最近确实很难受，但具体说又说不清楚。心里堵得慌，又觉得说出来很丢人。也许先随便说点表面的东西，看看她什么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794539769,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 936,
+    "total_tokens": 1073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

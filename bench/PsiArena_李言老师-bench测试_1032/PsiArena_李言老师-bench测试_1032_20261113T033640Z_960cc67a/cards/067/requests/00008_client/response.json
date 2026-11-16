@@ -1,0 +1,41 @@
+{
+  "id": "0d7e3882b49a46ada0771f0bed20ee2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就前几天晚上，她突然打电话给我，说了好多乱七八糟的，我一句都没听懂。我当时在房间里，整个人都懵了……我爸就在旁边，可他也没办法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次母亲说胡话的情境，看来是想帮我理清当时的具体情况。我其实有点不想回忆那个场面，但既然他问了，说明他愿意听我慢慢说。）\n（家里那晚确实很乱，我爸也在，他当时只是叹气，让我别刺激我妈。现在想想，我们家好像一直都是这样，出了事就压着、忍着，不能对外说。我是不是也在用这种方式对待自己？）",
+        "reasoning": "（咨询师问的是最近一次母亲说胡话的情境，看来是想帮我理清当时的具体情况。我其实有点不想回忆那个场面，但既然他问了，说明他愿意听我慢慢说。）\n（家里那晚确实很乱，我爸也在，他当时只是叹气，让我别刺激我妈。现在想想，我们家好像一直都是这样，出了事就压着、忍着，不能对外说。我是不是也在用这种方式对待自己？）"
+      }
+    }
+  ],
+  "created": 1794544625,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1564,
+    "total_tokens": 1696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

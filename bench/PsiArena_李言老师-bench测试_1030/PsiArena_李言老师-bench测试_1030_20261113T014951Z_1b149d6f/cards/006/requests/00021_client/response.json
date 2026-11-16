@@ -1,0 +1,41 @@
+{
+  "id": "dff09f5030e94ddc9742dcb9cb0d5068",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这么一问……我发现自己在家也一直在讨好，尤其是对我爸妈，总想让他们觉得我过得好。也许该先试着不那么演了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先卸下哪边的讨好，单位还是家里。这个问题让我有点猝不及防，因为之前一直觉得两边是一回事。但仔细想想，在家里我也总是绷着，怕爸妈失望，怕妻子觉得我没用。）\n（其实最累的还是在爸妈面前装没事。每次他们问起工作，我都说挺好的，可心里堵得慌。也许该先试着不那么演了，至少在家里能松口气。）",
+        "reasoning": "（咨询师问我想先卸下哪边的讨好，单位还是家里。这个问题让我有点猝不及防，因为之前一直觉得两边是一回事。但仔细想想，在家里我也总是绷着，怕爸妈失望，怕妻子觉得我没用。）\n（其实最累的还是在爸妈面前装没事。每次他们问起工作，我都说挺好的，可心里堵得慌。也许该先试着不那么演了，至少在家里能松口气。）"
+      }
+    }
+  ],
+  "created": 1794534884,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3193,
+    "total_tokens": 3317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

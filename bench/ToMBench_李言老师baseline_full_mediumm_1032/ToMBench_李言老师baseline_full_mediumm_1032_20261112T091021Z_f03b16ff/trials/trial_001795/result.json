@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001795",
+  "sample_id": "Ambiguous Story Task:200",
+  "task_file": "Ambiguous Story Task",
+  "ability": "Belief: Beliefs based action/emotions",
+  "language": "en",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "A",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "C",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:35:33.698013+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:35:55.462119+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "71efb57cd5f7467fb5d079708c8b910c"
+  ],
+  "started_at": "2026-11-12T09:35:33.698013+00:00",
+  "finished_at": "2026-11-12T09:36:02.191929+00:00",
+  "elapsed_seconds": 28.49402467906475,
+  "user_id": "liyan_977062c6c42347ae61639d0cd5e97eaab6e3c92b"
+}

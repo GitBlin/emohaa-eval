@@ -1,0 +1,41 @@
+{
+  "id": "596ca6d988d94254b1b8ead2bd67c836",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那，我说的话你会告诉我爸妈吗？我就是有点担心这个。还有，我也不知道自己到底怎么了，说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来还算温和，没有一上来就追问个不停。他说可以只聊我愿意说的部分……但我还是有点不放心。我担心说了之后会不会被告诉爸妈，或者被当成什么问题小孩。毕竟我连自己为什么老躲厕所都说不清楚。）\n（而且他说的“卡在哪儿”是什么意思？我好像也没卡住什么吧……只是有时候觉得厕所里比较安静。不过先试探一下他会不会把我的话传出去，这个比较重要。）",
+        "reasoning": "（这个咨询师看起来还算温和，没有一上来就追问个不停。他说可以只聊我愿意说的部分……但我还是有点不放心。我担心说了之后会不会被告诉爸妈，或者被当成什么问题小孩。毕竟我连自己为什么老躲厕所都说不清楚。）\n（而且他说的“卡在哪儿”是什么意思？我好像也没卡住什么吧……只是有时候觉得厕所里比较安静。不过先试探一下他会不会把我的话传出去，这个比较重要。）"
+      }
+    }
+  ],
+  "created": 1794558590,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 987,
+    "total_tokens": 1114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

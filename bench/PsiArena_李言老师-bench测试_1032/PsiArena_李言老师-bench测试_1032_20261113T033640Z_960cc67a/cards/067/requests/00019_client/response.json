@@ -1,0 +1,41 @@
+{
+  "id": "3081c7abad54478a83b824106d4d49d8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是跟我旁边那个同事说话的时候吧。她一问我周末干嘛，我就紧张，怕说漏嘴。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我把担心具体化，而不是笼统地害怕别人觉得我不靠谱。这让我稍微松了一点，因为好像确实可以找一个具体的场景去面对。）\n（我想到的还是和同事的互动，尤其是那个爱打听的同事。她每次问东问西，我都特别紧张，怕自己说错话或者表情不自然，反而让她更想追问。也许可以从这里开始，想想怎么回应她。）",
+        "reasoning": "（咨询师在引导我把担心具体化，而不是笼统地害怕别人觉得我不靠谱。这让我稍微松了一点，因为好像确实可以找一个具体的场景去面对。）\n（我想到的还是和同事的互动，尤其是那个爱打听的同事。她每次问东问西，我都特别紧张，怕自己说错话或者表情不自然，反而让她更想追问。也许可以从这里开始，想想怎么回应她。）"
+      }
+    }
+  ],
+  "created": 1794544687,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2615,
+    "total_tokens": 2730,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

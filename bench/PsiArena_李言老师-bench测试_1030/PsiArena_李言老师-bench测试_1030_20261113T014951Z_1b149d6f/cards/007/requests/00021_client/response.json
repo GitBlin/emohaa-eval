@@ -1,0 +1,41 @@
+{
+  "id": "1449d209b3494408b398cd4ba1256884",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）明天下午吧，我本来就要去图书馆。（顿了顿）不过宿舍那边……我还是不知道该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是从哪天开始，这个我想过。明天下午正好要去图书馆，那个靠窗的位置我熟，心里没那么慌。说“明天”吧，别拖，拖了又该缩回去了。）\n（不过光说图书馆点头好像还不够，宿舍那边的事一直压着。我是不是也该提一句，哪怕只是小声跟室友说一次。但这话说出来有点乱，先提个头，看咨询师怎么接。）",
+        "reasoning": "（咨询师问的是从哪天开始，这个我想过。明天下午正好要去图书馆，那个靠窗的位置我熟，心里没那么慌。说“明天”吧，别拖，拖了又该缩回去了。）\n（不过光说图书馆点头好像还不够，宿舍那边的事一直压着。我是不是也该提一句，哪怕只是小声跟室友说一次。但这话说出来有点乱，先提个头，看咨询师怎么接。）"
+      }
+    }
+  ],
+  "created": 1794534888,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3070,
+    "total_tokens": 3187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

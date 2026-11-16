@@ -1,0 +1,41 @@
+{
+  "id": "c7a76f6904874070a51f6b0f551b7336",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我先问一下啊……你们咨询师会不会替来访者做决定？就是，如果我让你帮我拿主意，你会怎么做？我有点怕……怕被推着走。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说具体的事，但我还不太想这么快就深入。我得先试探一下他的界限和方式，看看他是不是那种会随便给建议或者越界的人。毕竟我对心理咨询还不太了解，得小心一点。）\n（不过也不能太生硬，得自然一点。我可以先模糊地提一下做测试的事，但不说太细，顺便问问他会不会替我做决定。这样既能试探他的反应，又不会暴露太多自己。）",
+        "reasoning": "（咨询师在引导我说具体的事，但我还不太想这么快就深入。我得先试探一下他的界限和方式，看看他是不是那种会随便给建议或者越界的人。毕竟我对心理咨询还不太了解，得小心一点。）\n（不过也不能太生硬，得自然一点。我可以先模糊地提一下做测试的事，但不说太细，顺便问问他会不会替我做决定。这样既能试探他的反应，又不会暴露太多自己。）"
+      }
+    }
+  ],
+  "created": 1794538492,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1105,
+    "total_tokens": 1239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

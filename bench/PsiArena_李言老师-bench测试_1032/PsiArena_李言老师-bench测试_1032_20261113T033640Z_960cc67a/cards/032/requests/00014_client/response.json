@@ -1,0 +1,41 @@
+{
+  "id": "5220902173dd4194a761f464a267001b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对……我特别怕被觉得不懂事。好像一提需求，我就成了那个麻烦的人。可憋着又很难受，我也不知道怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话点到了我一直在回避的东西。我确实怕提需求，怕被觉得不懂事，可我又不想承认自己这么在意别人的看法。）\n（我想说不是完全不敢提，但每次话到嘴边就咽回去了，好像提出来就已经输了。这种矛盾让我有点烦躁，又有点委屈。）",
+        "reasoning": "（咨询师这句话点到了我一直在回避的东西。我确实怕提需求，怕被觉得不懂事，可我又不想承认自己这么在意别人的看法。）\n（我想说不是完全不敢提，但每次话到嘴边就咽回去了，好像提出来就已经输了。这种矛盾让我有点烦躁，又有点委屈。）"
+      }
+    }
+  ],
+  "created": 1794549948,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2237,
+    "total_tokens": 2335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

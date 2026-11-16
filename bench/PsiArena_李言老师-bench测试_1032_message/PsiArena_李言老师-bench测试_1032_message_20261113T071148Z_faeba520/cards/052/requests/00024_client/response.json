@@ -1,0 +1,41 @@
+{
+  "id": "92bfc349f91a4dbf898a4983ef09bb7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天晚上吧。下班回来，哪怕累，也先做十分钟。说起来还是有点心虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在帮我把那十分钟落到具体时间上，这让我有点紧张，但也不像之前那么抗拒了。我不想再空想下去，得给一个自己能做到的答案。）\n（想到明天下班后，虽然累，但十分钟应该能挤出来。说出口的时候还是有点不确定，怕自己又找借口，可至少这是我自己定的，不是别人逼的。）",
+        "reasoning": "（心理咨询师在帮我把那十分钟落到具体时间上，这让我有点紧张，但也不像之前那么抗拒了。我不想再空想下去，得给一个自己能做到的答案。）\n（想到明天下班后，虽然累，但十分钟应该能挤出来。说出口的时候还是有点不确定，怕自己又找借口，可至少这是我自己定的，不是别人逼的。）"
+      }
+    }
+  ],
+  "created": 1794556270,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3088,
+    "total_tokens": 3191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

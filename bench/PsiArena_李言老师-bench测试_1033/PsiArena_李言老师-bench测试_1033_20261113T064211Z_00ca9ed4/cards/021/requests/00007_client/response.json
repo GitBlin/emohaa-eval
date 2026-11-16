@@ -1,0 +1,41 @@
+{
+  "id": "f322c699deb2415298d57e022c7a3476",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微放松了点）喘口气……哪还有那个心思。以前周末还去爬爬山，现在基本都泡在医院了。说出来你可能觉得我矫情，我有时候在医院走廊上坐着，都觉得自己快撑不住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，来访者现在处于初期阶段，咨询师刚刚问了一个关于放松方式的问题。来想想这个角色会怎么回应。\n\n他是一个内向、敏感的人，刚才还觉得咨询师问得太近了，有点防御。咨询师现在主动放慢节奏，换了个轻松的话题，这对他来说应该是个缓和的机会。但他不会一下子就敞开心扉，可能会顺着这个话题说一点，但很快又会被现实拉回去——因为他心里压着母亲的事，很难真正放松。\n\n他的回答可以简短一点，先承认确实没什么放松的事，然后自然地又绕回医院和母亲，体现出那种“想喘口气但又放不下”的状态。这样既回应了咨询师的问题，又保持了角色那种被现实困住的感觉。",
+        "reasoning": "嗯，来访者现在处于初期阶段，咨询师刚刚问了一个关于放松方式的问题。来想想这个角色会怎么回应。\n\n他是一个内向、敏感的人，刚才还觉得咨询师问得太近了，有点防御。咨询师现在主动放慢节奏，换了个轻松的话题，这对他来说应该是个缓和的机会。但他不会一下子就敞开心扉，可能会顺着这个话题说一点，但很快又会被现实拉回去——因为他心里压着母亲的事，很难真正放松。\n\n他的回答可以简短一点，先承认确实没什么放松的事，然后自然地又绕回医院和母亲，体现出那种“想喘口气但又放不下”的状态。这样既回应了咨询师的问题，又保持了角色那种被现实困住的感觉。"
+      }
+    }
+  ],
+  "created": 1794553065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 198,
+    "prompt_tokens": 1537,
+    "total_tokens": 1735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

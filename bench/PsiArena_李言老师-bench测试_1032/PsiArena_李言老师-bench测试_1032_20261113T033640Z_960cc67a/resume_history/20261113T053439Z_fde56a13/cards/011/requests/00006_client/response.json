@@ -1,0 +1,41 @@
+{
+  "id": "c24fe4d8bf6643f49dede76f1abdd7cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）有一次孩子哭个不停，我老公站在门口看了一眼，没说话……我当时就觉得，他是不是觉得我哄不好孩子。其实他可能什么都没想，但我就是会往那儿想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次觉得“不够好”时注意到谁的表情，这让我有点紧张。我其实不太想直接说老公，因为那样显得我在抱怨他，而且说出来好像就承认了自己真的做得很差。但我又确实记得那个瞬间，他站在门口的样子，让我心里一沉。）\n（也许我可以稍微说一点，但不要全部展开。毕竟现在还在试探阶段，说太多感觉不安全。先提一下他站在门口，然后马上转开说“也没什么”，这样既回应了问题，又不用深入下去。）",
+        "reasoning": "（咨询师在问我最近一次觉得“不够好”时注意到谁的表情，这让我有点紧张。我其实不太想直接说老公，因为那样显得我在抱怨他，而且说出来好像就承认了自己真的做得很差。但我又确实记得那个瞬间，他站在门口的样子，让我心里一沉。）\n（也许我可以稍微说一点，但不要全部展开。毕竟现在还在试探阶段，说太多感觉不安全。先提一下他站在门口，然后马上转开说“也没什么”，这样既回应了问题，又不用深入下去。）"
+      }
+    }
+  ],
+  "created": 1794541655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 1402,
+    "total_tokens": 1561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

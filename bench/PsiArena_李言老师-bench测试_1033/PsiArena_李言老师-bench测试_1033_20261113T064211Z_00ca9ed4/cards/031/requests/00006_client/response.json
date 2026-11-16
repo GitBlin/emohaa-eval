@@ -1,0 +1,41 @@
+{
+  "id": "2362857abe9c4da19af3dafe2cbe902b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……家里吧。也不是出了什么事，就是……唉，我跟我爸妈之间，好像一直没什么话好说。对了，我可以问问吗，你平时会把这些跟别人说的事记下来或者告诉别人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我学校和家里的事，其实两件都压着，但家里的事更让我不想开口。不过刚才他尊重我没追问那个人，让我稍微放松了一点。也许可以先说个模糊的，试探一下他会不会又绕回去追问那些我不想碰的。）\n（问完这个我有点后悔，好像把话题引到家里了。我也不知道自己到底想不想说，就是……想看看他会怎么接。）",
+        "reasoning": "（他问我学校和家里的事，其实两件都压着，但家里的事更让我不想开口。不过刚才他尊重我没追问那个人，让我稍微放松了一点。也许可以先说个模糊的，试探一下他会不会又绕回去追问那些我不想碰的。）\n（问完这个我有点后悔，好像把话题引到家里了。我也不知道自己到底想不想说，就是……想看看他会怎么接。）"
+      }
+    }
+  ],
+  "created": 1794553453,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1435,
+    "total_tokens": 1569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

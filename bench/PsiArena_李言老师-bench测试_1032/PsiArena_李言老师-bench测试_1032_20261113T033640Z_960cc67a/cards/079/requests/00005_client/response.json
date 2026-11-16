@@ -1,0 +1,41 @@
+{
+  "id": "72707c9d1da04caf92295d31b0cd0454",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有段时间了……可能跟工作有关吧，最近老是加班。不过说真的，你会不会觉得我这样有点矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在问持续时间……虽然能感觉到她是想帮我理清问题，但反复追问细节让我有点烦躁。而且她似乎没注意到我上次说“记不清”其实是有点回避这个话题。）\n（不过她提到“累却睡不着”确实戳中我了，这几天加班到凌晨的时候特别明显。但我不想这么快就承认自己状态这么差，先轻描淡写带过去吧。）",
+        "reasoning": "（咨询师又在问持续时间……虽然能感觉到她是想帮我理清问题，但反复追问细节让我有点烦躁。而且她似乎没注意到我上次说“记不清”其实是有点回避这个话题。）\n（不过她提到“累却睡不着”确实戳中我了，这几天加班到凌晨的时候特别明显。但我不想这么快就承认自己状态这么差，先轻描淡写带过去吧。）"
+      }
+    }
+  ],
+  "created": 1794545297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1268,
+    "total_tokens": 1380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

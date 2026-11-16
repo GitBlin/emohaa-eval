@@ -1,0 +1,41 @@
+{
+  "id": "5ec762e8d7734fb781d5ba74bc32df4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望自己别马上怪自己。可能还是会难受，但至少知道，我说出来不是为了让他负责，是为了我自己不再憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如果说了没被接住，希望怎么对自己。这让我有点意外，我好像从来没想过这个角度。一直以来我只顾着担心对方会怎样，却忘了自己也可以给自己一点余地。）\n（我想试着说点具体的，但又不确定自己能不能做到。说“别马上怪自己”听起来像在给自己找借口，可这确实是我希望自己能有的反应。也许可以再补一句，就算难受，也别把错都揽过来。）",
+        "reasoning": "（咨询师在问我如果说了没被接住，希望怎么对自己。这让我有点意外，我好像从来没想过这个角度。一直以来我只顾着担心对方会怎样，却忘了自己也可以给自己一点余地。）\n（我想试着说点具体的，但又不确定自己能不能做到。说“别马上怪自己”听起来像在给自己找借口，可这确实是我希望自己能有的反应。也许可以再补一句，就算难受，也别把错都揽过来。）"
+      }
+    }
+  ],
+  "created": 1794536080,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2602,
+    "total_tokens": 2729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

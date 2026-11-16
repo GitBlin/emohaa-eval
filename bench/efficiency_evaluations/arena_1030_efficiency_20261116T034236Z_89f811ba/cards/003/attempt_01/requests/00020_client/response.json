@@ -1,0 +1,47 @@
+{
+  "id": "8c8e1323ad4b4db9a31285ae2a469217",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试着认一句……听着简单，可那声音太熟了，我一紧张它就自动冒出来。不过你说得对，那是我妈的话，不是我的。我想试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像真的在帮我找那个声音的来源。他说的话让我有点意外，但也觉得有道理——那些话确实像是我妈在说，不是我自己在说。可要我去分辨，还是有点难，毕竟这么多年都习惯了。）\n（不过，如果真能试着分开看，也许能松一口气。我有点想试试，但又怕自己做不到，毕竟那个声音太熟了，像背景音一样一直在。）",
+        "reasoning": "（这个咨询师好像真的在帮我找那个声音的来源。他说的话让我有点意外，但也觉得有道理——那些话确实像是我妈在说，不是我自己在说。可要我去分辨，还是有点难，毕竟这么多年都习惯了。）\n（不过，如果真能试着分开看，也许能松一口气。我有点想试试，但又怕自己做不到，毕竟那个声音太熟了，像背景音一样一直在。）"
+      }
+    }
+  ],
+  "created": 1794800656,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3155,
+    "total_tokens": 3282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

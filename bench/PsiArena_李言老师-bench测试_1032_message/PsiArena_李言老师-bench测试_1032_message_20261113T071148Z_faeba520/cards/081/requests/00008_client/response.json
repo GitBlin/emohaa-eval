@@ -1,0 +1,41 @@
+{
+  "id": "69e2337800924273ac188ef9f69c2dca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小吧……我爸妈都是老师，家里到处都是书。他们不太骂人，但那种“你该做得更好”的意思，一直都在。考好了是应该的，做不好就……唉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师抓住了“没用”这个词，还把它和我整个人联系起来。她问这种感觉从什么时候开始，这让我一下子想到小时候。）\n（我爸妈都是老师，家里的气氛总是很严谨。考好了是应该的，考不好就会被说不够努力。那种“必须做好”的感觉好像一直都在。现在看不进书，就像又没达到标准一样。）",
+        "reasoning": "（咨询师抓住了“没用”这个词，还把它和我整个人联系起来。她问这种感觉从什么时候开始，这让我一下子想到小时候。）\n（我爸妈都是老师，家里的气氛总是很严谨。考好了是应该的，考不好就会被说不够努力。那种“必须做好”的感觉好像一直都在。现在看不进书，就像又没达到标准一样。）"
+      }
+    }
+  ],
+  "created": 1794557735,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1564,
+    "total_tokens": 1681,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

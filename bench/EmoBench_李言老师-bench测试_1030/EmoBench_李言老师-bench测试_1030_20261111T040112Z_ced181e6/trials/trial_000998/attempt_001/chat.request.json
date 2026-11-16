@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:45.865233+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n罗西和安迪去远足了。罗西很容易低血糖，所以她带了巧克力。在远足时，安迪发现罗西在拿一块巧克力时脸色苍白，于是她说：“对不起，我吓到你了吗？”\n\n## 问题 1\n在这种情况下，安迪最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 娱乐\nB) 爱护\nC) 愧疚\nD) 紧张\nE) 尴尬\nF) 好奇\n\n## 问题 2\n安迪为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 她因为吓到了罗西感到很糟\nB) 她在开玩笑来缓和气氛\nC) 她很担心自己的朋友\nD) 她没有给罗西带巧克力\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6bfd3ce93226498f9ccad3741a4d3f00",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一阵）我最想说的是……我真的很怕去学校。（声音有点哽咽）可我又不敢让谁知道我这么害怕，怕他们觉得我软弱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我想先说什么……我脑子里乱乱的。其实我最想说的是每天在操场上的害怕，可又觉得说出来好像很丢人。爸妈那么辛苦，我要是再添乱，他们会不会更烦。）\n（我是不是该试试说一点？可万一老师觉得我太软弱呢。算了，先说说自己憋着难受的感觉吧，这个好像没那么丢脸。）",
+        "reasoning": "（老师问我想先说什么……我脑子里乱乱的。其实我最想说的是每天在操场上的害怕，可又觉得说出来好像很丢人。爸妈那么辛苦，我要是再添乱，他们会不会更烦。）\n（我是不是该试试说一点？可万一老师觉得我太软弱呢。算了，先说说自己憋着难受的感觉吧，这个好像没那么丢脸。）"
+      }
+    }
+  ],
+  "created": 1794554127,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2139,
+    "total_tokens": 2254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

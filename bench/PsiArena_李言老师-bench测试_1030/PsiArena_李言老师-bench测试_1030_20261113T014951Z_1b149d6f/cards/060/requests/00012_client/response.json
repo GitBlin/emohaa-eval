@@ -1,0 +1,41 @@
+{
+  "id": "3df73896668144cd87be09c38f663e25",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头，又迟疑）有一次吧……好像是想说什么，话到嘴边又咽回去了。（皱眉）我记不清了，反正最后没说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在她们面前有没有真的没忍住说过什么。我想起小时候有一次，其实话都到嘴边了，可最后还是咽回去了。那种感觉现在想起来还是有点堵。）\n（那种“说了也没用”的念头好像一直都在。我那时候小，不知道该怎么讲，只觉得说了可能也没人真的会当回事。）",
+        "reasoning": "（她问我在她们面前有没有真的没忍住说过什么。我想起小时候有一次，其实话都到嘴边了，可最后还是咽回去了。那种感觉现在想起来还是有点堵。）\n（那种“说了也没用”的念头好像一直都在。我那时候小，不知道该怎么讲，只觉得说了可能也没人真的会当回事。）"
+      }
+    }
+  ],
+  "created": 1794537600,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2095,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

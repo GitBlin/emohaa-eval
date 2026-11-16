@@ -1,0 +1,41 @@
+{
+  "id": "69334c4a796047e8a29d851a743a25d4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "换个说法……比如“妈，这个我想试试看，你可以先听听我的想法吗”？嗯……这么一说好像没那么冲。但我又怕她根本不想听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我换个说法，可我一想到要开口，心里就发紧。也许先试着把话说得软一点，但意思不能丢。）\n（不过我也担心，就算我说得再客气，我妈可能还是会觉得我在跟她作对。这个念头让我有点泄气，但又不想就这么放弃。）",
+        "reasoning": "（她让我换个说法，可我一想到要开口，心里就发紧。也许先试着把话说得软一点，但意思不能丢。）\n（不过我也担心，就算我说得再客气，我妈可能还是会觉得我在跟她作对。这个念头让我有点泄气，但又不想就这么放弃。）"
+      }
+    }
+  ],
+  "created": 1794553322,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3175,
+    "total_tokens": 3275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

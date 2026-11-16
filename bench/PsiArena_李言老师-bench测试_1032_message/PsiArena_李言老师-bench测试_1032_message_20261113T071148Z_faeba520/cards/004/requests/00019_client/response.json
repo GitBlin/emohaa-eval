@@ -1,0 +1,41 @@
+{
+  "id": "9d94dde18912465f9671f6fb3fde20dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低下头）都有点吧。其实我也怕自己越来越不敢跟人说话。（小声）那个同学，我还是想试着跟他走近一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我一个人待着是不是担心别人怎么看，还是自己觉得孤单。其实两种都有吧，但我更怕的是自己一直这样下去，越来越不敢跟人说话。）\n（那个同学愿意跟我说话，我其实有点想试试的，可又怕真出了什么事，他也会被那几个人盯上。这种担心不是随便说说，是真的怕。）",
+        "reasoning": "（老师问我一个人待着是不是担心别人怎么看，还是自己觉得孤单。其实两种都有吧，但我更怕的是自己一直这样下去，越来越不敢跟人说话。）\n（那个同学愿意跟我说话，我其实有点想试试的，可又怕真出了什么事，他也会被那几个人盯上。这种担心不是随便说说，是真的怕。）"
+      }
+    }
+  ],
+  "created": 1794554139,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2497,
+    "total_tokens": 2602,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

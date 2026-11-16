@@ -1,0 +1,41 @@
+{
+  "id": "5341fb61678844b188ee31562358eef1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是我们组一个女生提的，她消息比较灵。我想……这周找个机会问问她，就当随便聊聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是从谁那里听到项目消息的，这让我得回想一下。其实我平时不太主动跟人打听这些，怕显得太关注显得自己很急。不过组里那个女生确实提过一句，她人还算好说话。）\n（想到要去找她确认，心里又有点打鼓。但刚才聊下来，好像先问清楚时间安排也没那么可怕。至少比一直自己瞎猜强。这周找个机会试试吧，不行就算了。）",
+        "reasoning": "（咨询师问我是从谁那里听到项目消息的，这让我得回想一下。其实我平时不太主动跟人打听这些，怕显得太关注显得自己很急。不过组里那个女生确实提过一句，她人还算好说话。）\n（想到要去找她确认，心里又有点打鼓。但刚才聊下来，好像先问清楚时间安排也没那么可怕。至少比一直自己瞎猜强。这周找个机会试试吧，不行就算了。）"
+      }
+    }
+  ],
+  "created": 1794545685,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3175,
+    "total_tokens": 3302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

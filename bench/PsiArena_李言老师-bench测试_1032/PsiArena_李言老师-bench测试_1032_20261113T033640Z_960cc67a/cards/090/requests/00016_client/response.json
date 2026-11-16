@@ -1,0 +1,41 @@
+{
+  "id": "e72a23b64e2f4c26954aba88078128fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最想被听见的是……我其实很难过，不是故意发脾气。尤其是对狗那件事，我真的很后悔。可光说这些，好像也改变不了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想被听见的是哪件事，语气很温和，没有不耐烦。这让我觉得也许可以试着说一点具体的东西，不用再绕来绕去了。）\n（想到狗的事还是很难受，但说出来或许比一直憋着好。不过我也担心，如果我连情绪上来时该怎么做都不知道，光说又有什么用呢。）",
+        "reasoning": "（咨询师问我最想被听见的是哪件事，语气很温和，没有不耐烦。这让我觉得也许可以试着说一点具体的东西，不用再绕来绕去了。）\n（想到狗的事还是很难受，但说出来或许比一直憋着好。不过我也担心，如果我连情绪上来时该怎么做都不知道，光说又有什么用呢。）"
+      }
+    }
+  ],
+  "created": 1794545905,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2345,
+    "total_tokens": 2456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

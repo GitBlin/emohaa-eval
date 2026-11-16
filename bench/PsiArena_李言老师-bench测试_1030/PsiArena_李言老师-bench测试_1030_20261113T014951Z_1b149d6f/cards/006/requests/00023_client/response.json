@@ -1,0 +1,41 @@
+{
+  "id": "30c4b38f3a7047d0b6dc06ae6eb4aaa7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她大概会问，是不是工作上不顺心，是不是又跟人闹别扭了。我要是真说了，她肯定一晚上睡不着……唉，想到这儿又有点打退堂鼓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我妈会先问起什么，这让我想到每次回家我妈那种小心翼翼又忍不住打探的样子。其实我心里清楚，她最惦记的就是我工作顺不顺，累不累。）\n（可要是她真问起来，我大概还是只会说“还行”，然后赶紧把话岔开。这么多年都这样，一下子改口说“我其实挺累的”，反而像在抱怨，开不了这个口。）",
+        "reasoning": "（她问我妈会先问起什么，这让我想到每次回家我妈那种小心翼翼又忍不住打探的样子。其实我心里清楚，她最惦记的就是我工作顺不顺，累不累。）\n（可要是她真问起来，我大概还是只会说“还行”，然后赶紧把话岔开。这么多年都这样，一下子改口说“我其实挺累的”，反而像在抱怨，开不了这个口。）"
+      }
+    }
+  ],
+  "created": 1794534892,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3409,
+    "total_tokens": 3540,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

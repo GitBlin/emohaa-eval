@@ -1,0 +1,41 @@
+{
+  "id": "1a5a5e69ff3f44d690971fcc553bb327",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他……先别急着讲道理，也别马上说“你别想太多”。就坐那儿待一会儿，别走开就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望他做什么，还是先不说话。其实我脑子里第一个冒出来的就是别急着讲道理，别马上说“你别想太多”。我太怕那种话了，好像我的难过都不该有。）\n（可我又有点说不出口，怕自己要求太多。但想想，要是他能先安静待着，别走开，我可能反而没那么慌。这个念头好像挺实在的。）",
+        "reasoning": "（她问我希望他做什么，还是先不说话。其实我脑子里第一个冒出来的就是别急着讲道理，别马上说“你别想太多”。我太怕那种话了，好像我的难过都不该有。）\n（可我又有点说不出口，怕自己要求太多。但想想，要是他能先安静待着，别走开，我可能反而没那么慌。这个念头好像挺实在的。）"
+      }
+    }
+  ],
+  "created": 1794537223,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2776,
+    "total_tokens": 2889,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

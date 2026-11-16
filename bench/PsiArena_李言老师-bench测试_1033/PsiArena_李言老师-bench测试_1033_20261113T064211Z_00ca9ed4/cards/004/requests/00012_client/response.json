@@ -1,0 +1,41 @@
+{
+  "id": "acabefc2c98e44bb8829374db4f4f69c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句啊……我可能就说“老师，我最近走到校门口就心慌”。这样说行吗？会不会太奇怪了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我第一句话怎么开口才没那么紧张……她好像真的在帮我想办法，不是随便说说。我想到每次走到校门口那种心慌的感觉，要是能先跟老师讲这个，可能比直接说“我被欺负了”容易一点。）\n（可我又担心，老师会不会觉得我小题大做，或者追问是谁干的。我不太敢直接点名，怕传到那些人耳朵里。先只说身体不舒服，她应该能明白吧？）",
+        "reasoning": "（老师问我第一句话怎么开口才没那么紧张……她好像真的在帮我想办法，不是随便说说。我想到每次走到校门口那种心慌的感觉，要是能先跟老师讲这个，可能比直接说“我被欺负了”容易一点。）\n（可我又担心，老师会不会觉得我小题大做，或者追问是谁干的。我不太敢直接点名，怕传到那些人耳朵里。先只说身体不舒服，她应该能明白吧？）"
+      }
+    }
+  ],
+  "created": 1794552330,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2036,
+    "total_tokens": 2162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

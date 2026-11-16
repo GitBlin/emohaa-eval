@@ -1,0 +1,41 @@
+{
+  "id": "b2c3a48a3a5543dfa9b29a7e751dcd52",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想在见面安静下来、心里开始发慌的时候用。先在心里说一句“先别跑”，再试着把纸上的话说出来。不过说实话，我还是有点怕自己临场又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把\"先别跑\"这个提醒具体化，想让我找到可以落地的使用场景。之前聊了那么多，我确实需要知道什么时候能用上它。安静下来的时候最容易慌，想逃，所以这个提醒应该放在那种时刻。不过我也意识到，光有这句话不够，还得配合点实际行动才行。）\n（写下来这个办法我之前提过，感觉对自己有效。咨询师一直在引导我找具体的行动，那我就把这两件事连起来说。这样听起来不是在空想，是有步骤的。但说完又有点不确定，怕自己做不到，所以得补一句实话。）",
+        "reasoning": "（咨询师在帮我把\"先别跑\"这个提醒具体化，想让我找到可以落地的使用场景。之前聊了那么多，我确实需要知道什么时候能用上它。安静下来的时候最容易慌，想逃，所以这个提醒应该放在那种时刻。不过我也意识到，光有这句话不够，还得配合点实际行动才行。）\n（写下来这个办法我之前提过，感觉对自己有效。咨询师一直在引导我找具体的行动，那我就把这两件事连起来说。这样听起来不是在空想，是有步骤的。但说完又有点不确定，怕自己做不到，所以得补一句实话。）"
+      }
+    }
+  ],
+  "created": 1794536113,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 172,
+    "prompt_tokens": 3510,
+    "total_tokens": 3682,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

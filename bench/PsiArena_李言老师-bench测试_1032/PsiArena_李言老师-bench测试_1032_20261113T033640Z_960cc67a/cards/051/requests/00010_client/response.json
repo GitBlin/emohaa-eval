@@ -1,0 +1,41 @@
+{
+  "id": "0ad871873f11468585e69f11ba7ca2eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周末吃饭，我妈又说起谁谁家孩子升职了、买房了。我本来没想接话，她说着说着就来一句“你也不小了，该想想了”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起最近被比较的事，这让我一下子想到上周末家里的场景。我本来不想提，但既然已经说到这儿了，好像也躲不过去。）\n（那些话从爸妈嘴里说出来，听着像关心，可落在我耳朵里就是另一回事。我知道他们不是故意要伤我，可那种“别人都行你怎么不行”的意思，我太熟悉了。）",
+        "reasoning": "（她问起最近被比较的事，这让我一下子想到上周末家里的场景。我本来不想提，但既然已经说到这儿了，好像也躲不过去。）\n（那些话从爸妈嘴里说出来，听着像关心，可落在我耳朵里就是另一回事。我知道他们不是故意要伤我，可那种“别人都行你怎么不行”的意思，我太熟悉了。）"
+      }
+    }
+  ],
+  "created": 1794543707,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1717,
+    "total_tokens": 1839,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4123eb554d4743698b027527c7f554d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕他们就不理我了，怕自己被丢在一边。好像得有人给我个明确的话，我才能安心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有急着否定我，反而把“好”和“怕”放在一起，让我有点松下来。可一想到家里那种安静，我还是会先想到被丢下。）\n（我好像总在等一个明确的信号，等别人告诉我没事，才敢安心。也许这就是我为什么一遇到他不说话，就忍不住往最坏的地方想。）",
+        "reasoning": "（咨询师没有急着否定我，反而把“好”和“怕”放在一起，让我有点松下来。可一想到家里那种安静，我还是会先想到被丢下。）\n（我好像总在等一个明确的信号，等别人告诉我没事，才敢安心。也许这就是我为什么一遇到他不说话，就忍不住往最坏的地方想。）"
+      }
+    }
+  ],
+  "created": 1794536195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2005,
+    "total_tokens": 2106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

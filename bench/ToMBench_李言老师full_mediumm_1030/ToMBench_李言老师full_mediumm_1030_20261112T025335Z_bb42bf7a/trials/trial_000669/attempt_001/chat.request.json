@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:34.391889+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a pleasant village on the moon's Milaria, a small robot named Plix lives. The terrain of Milaria is rugged, without trees or any vegetation, never lets Plix come into contact with the concept of plants. However, there are various spherical rolling stones on Milaria, which move under the slight gravity of the moon. Plix is doing imitation behavior: it extends its arms and rotates them in a circular motion, looks like it is constantly flipping invisible objects, similar to a person rolling dough or a potter shaping clay.\n\n[Question]\nWhat does Plix possibly imitate?\n\n[Candidate Answers]\nA. A chef rolls dough to make bread.\nB. A child plays with a ball.\nC. A stone rolls down the slope.\nD. A potter shapes a clay pot.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

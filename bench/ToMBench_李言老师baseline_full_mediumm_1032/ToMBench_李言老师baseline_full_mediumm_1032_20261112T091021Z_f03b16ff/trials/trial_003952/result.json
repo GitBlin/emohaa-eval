@@ -1,0 +1,58 @@
+{
+  "trial_id": "trial_003952",
+  "sample_id": "Strange Story Task:113",
+  "task_file": "Strange Story Task",
+  "ability": "Desire: Desire-action contradiction",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "A",
+    "B": "B"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "B",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:09:20.997105+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:09:42.769109+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T10:10:06.279093+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "89e4685ed70a495f862b06748ea4e6a0"
+  ],
+  "started_at": "2026-11-12T10:09:20.997105+00:00",
+  "finished_at": "2026-11-12T10:10:13.221775+00:00",
+  "elapsed_seconds": 52.22476418316364,
+  "user_id": "liyan_e960aef150906036da3796507dc189fa2087d999"
+}

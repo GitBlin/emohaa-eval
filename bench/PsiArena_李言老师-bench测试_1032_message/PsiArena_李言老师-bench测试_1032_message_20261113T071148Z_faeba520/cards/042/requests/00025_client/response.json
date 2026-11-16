@@ -1,0 +1,41 @@
+{
+  "id": "e9286c5ea9404503aa42a85c8e81cf18",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想好了，就先说“爸最近状态不好，在想办法”，然后就停一下，不急着往下说。剩下的，看他怎么接吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我走完回来怎么开口，这其实是在帮我把周末那件事想得更具体。我心里有点没底，但已经不像之前那么慌了。）\n（我想了想，也许可以就照之前说的那样，直接跟儿子讲爸爸最近状态不好、在想办法。这样开口，不绕弯子，也不逼自己说得多好。）",
+        "reasoning": "（他问我走完回来怎么开口，这其实是在帮我把周末那件事想得更具体。我心里有点没底，但已经不像之前那么慌了。）\n（我想了想，也许可以就照之前说的那样，直接跟儿子讲爸爸最近状态不好、在想办法。这样开口，不绕弯子，也不逼自己说得多好。）"
+      }
+    }
+  ],
+  "created": 1794559118,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3540,
+    "total_tokens": 3645,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

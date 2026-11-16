@@ -1,0 +1,47 @@
+{
+  "id": "12c348af39aa452490e38b86cfb21f96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（吸了口气）嗯，一次的话……应该行。不过我还得想想，怎么跟我爸妈说，别让他们觉得我又分心了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把目标定得很小，只试一次。这让我觉得没那么大压力，好像真的可以试试。但我心里还是有点不踏实，怕自己到时候又退缩。）\n（想到父母那边，我有点犹豫。他们一直说学习最重要，我要是去试着跟同学说话，他们会不会觉得我分心了。可我又想，这只是一句话的事，应该不会耽误什么吧。）",
+        "reasoning": "（咨询师在帮我把目标定得很小，只试一次。这让我觉得没那么大压力，好像真的可以试试。但我心里还是有点不踏实，怕自己到时候又退缩。）\n（想到父母那边，我有点犹豫。他们一直说学习最重要，我要是去试着跟同学说话，他们会不会觉得我分心了。可我又想，这只是一句话的事，应该不会耽误什么吧。）"
+      }
+    }
+  ],
+  "created": 1794800645,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2968,
+    "total_tokens": 3084,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

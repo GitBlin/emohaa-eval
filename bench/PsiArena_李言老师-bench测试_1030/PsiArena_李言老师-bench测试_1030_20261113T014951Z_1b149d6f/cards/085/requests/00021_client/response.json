@@ -1,0 +1,41 @@
+{
+  "id": "fa504136dc3746e2b4299a2b754aa70a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）五分钟……听起来好像没那么吓人。我可能会先觉得“就这样？”，然后……有点松口气吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我做五分钟就好，不评价好坏……这听起来比我想的简单，可我还是有点怕。怕自己连五分钟都坚持不了，或者做得很糟糕。）\n（不过他说重点是让开始变得没那么重，不是要我做得多好。这个说法让我稍微松了一点。也许我可以试试，就五分钟，然后看看自己到底会怎么反应。）",
+        "reasoning": "（他让我做五分钟就好，不评价好坏……这听起来比我想的简单，可我还是有点怕。怕自己连五分钟都坚持不了，或者做得很糟糕。）\n（不过他说重点是让开始变得没那么重，不是要我做得多好。这个说法让我稍微松了一点。也许我可以试试，就五分钟，然后看看自己到底会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794539338,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3229,
+    "total_tokens": 3332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

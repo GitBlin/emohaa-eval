@@ -1,0 +1,41 @@
+{
+  "id": "4c831d2e21204fff9419da2416f38887",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "什么时候开始的啊……我也说不太上来。就是有时候走在路上，会突然觉得……很紧张，说不太清楚那种感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来还算温和，没有急着给我下结论。但我不确定她是不是真的能理解我的感受……毕竟她只是说“陪着理清楚”，听起来有点空。我该不该多说一点呢？）\n（“不太对劲”这种感觉确实很难说清楚，尤其是从什么时候开始的……其实我心里知道大概是从那件事之后，但我不想这么快就讲出来。还是先含糊一点吧，看看她会不会追问。）",
+        "reasoning": "（这个咨询师看起来还算温和，没有急着给我下结论。但我不确定她是不是真的能理解我的感受……毕竟她只是说“陪着理清楚”，听起来有点空。我该不该多说一点呢？）\n（“不太对劲”这种感觉确实很难说清楚，尤其是从什么时候开始的……其实我心里知道大概是从那件事之后，但我不想这么快就讲出来。还是先含糊一点吧，看看她会不会追问。）"
+      }
+    }
+  ],
+  "created": 1794557008,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1118,
+    "total_tokens": 1237,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

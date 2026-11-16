@@ -1,0 +1,41 @@
+{
+  "id": "c650c05af29f406eba152c99da406555",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……跟谁都没说过。（想了想）跟我妈说，她大概会让我别想太多。朋友那边，我也不好意思开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我跟谁提过这个愿望……我好像从来没跟任何人说过。这种想法说出来会被人笑吧，说我不懂事、不知足。）\n（我爸妈肯定觉得我胡思乱想，他们那辈人觉得日子能过下去就行。朋友呢……说了怕她们觉得我矫情，毕竟我老公在外人面前还挺正常的。）",
+        "reasoning": "（她问我跟谁提过这个愿望……我好像从来没跟任何人说过。这种想法说出来会被人笑吧，说我不懂事、不知足。）\n（我爸妈肯定觉得我胡思乱想，他们那辈人觉得日子能过下去就行。朋友呢……说了怕她们觉得我矫情，毕竟我老公在外人面前还挺正常的。）"
+      }
+    }
+  ],
+  "created": 1794554523,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1899,
+    "total_tokens": 2003,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

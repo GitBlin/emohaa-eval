@@ -1,0 +1,41 @@
+{
+  "id": "09105148d2e9472b81883a9e59520425",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是喉咙先紧，然后眼眶就热了。现在想想，好像每次都是这样，我越急着压住，反而越糟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我慌起来身体哪里先有反应，这让我想起很多次在教室里被学生顶嘴时那种瞬间的紧绷感。喉咙发紧和眼眶发热确实是最先出现的，好像眼泪随时会掉下来。）\n（我意识到自己以前总想立刻压住这些反应，但越压越慌。现在稍微能分清那种感觉了，也许下次可以先停一下，深呼吸，不急着把情绪憋回去。）",
+        "reasoning": "（她问我慌起来身体哪里先有反应，这让我想起很多次在教室里被学生顶嘴时那种瞬间的紧绷感。喉咙发紧和眼眶发热确实是最先出现的，好像眼泪随时会掉下来。）\n（我意识到自己以前总想立刻压住这些反应，但越压越慌。现在稍微能分清那种感觉了，也许下次可以先停一下，深呼吸，不急着把情绪憋回去。）"
+      }
+    }
+  ],
+  "created": 1794543487,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2385,
+    "total_tokens": 2505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d11bb03d4cc84f41a49730d27749b5cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来……听起来好像没那么难。不过我有点担心，写完了会不会又变成自己一个人对着纸发呆。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把想说的话写下来，哪怕只写给自己看。这个提议听起来比直接联系她要容易得多，好像不用面对那种尴尬和害怕被拒绝的感觉。可是，写下来之后呢？那些字句会不会反而让我更清楚地看到自己有多孤单？）\n（而且我有点担心，写下来会不会变成另一种形式的逃避。毕竟我习惯了把情绪憋着，写给自己看，是不是又回到了自己消化的老路上？但也许……至少比什么都不做好一点吧。）",
+        "reasoning": "（咨询师让我把想说的话写下来，哪怕只写给自己看。这个提议听起来比直接联系她要容易得多，好像不用面对那种尴尬和害怕被拒绝的感觉。可是，写下来之后呢？那些字句会不会反而让我更清楚地看到自己有多孤单？）\n（而且我有点担心，写下来会不会变成另一种形式的逃避。毕竟我习惯了把情绪憋着，写给自己看，是不是又回到了自己消化的老路上？但也许……至少比什么都不做好一点吧。）"
+      }
+    }
+  ],
+  "created": 1794556857,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2151,
+    "total_tokens": 2279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

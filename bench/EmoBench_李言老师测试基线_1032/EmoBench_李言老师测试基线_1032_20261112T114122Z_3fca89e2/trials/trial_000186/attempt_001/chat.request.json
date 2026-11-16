@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:45:07.676085+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nSusan recently put herself on the job market and applied for many jobs. Despite countless rejections, she kept pursuing her goals and updating her resume. Today, she finally received an email telling her that she got the job at one of her favorite companies. Upon seeing the offer, she started crying. At this moment, her mom walked into the room and ran towards Susan after seeing her crying and embraced her\n\n## Question 1\nWhat emotion(s) would Susan ultimately feel in this situation?\n\n## Choices for Question 1\nA) Delight & Relief\nB) Relief & Embarrassment\nC) Embarrassment & Nervousness\nD) Delight & Disappointment\nE) Embarrassment & Hopeless\nF) Embarrassment & Disappointment\n\n## Question 2\nWhy would Susan feel these emotions in this situation?\n\n## Choices for Question 2\nA) She got a job offer from one of her favorite companies & She finally got a job offer after getting many rejections\nB) She failed once again at her job search & She is not sure if she will every find a job\nC) Her mom comforted her after seeing her cry & She got a promotion in her current job\nD) She got a job offer from one of her favorite companies & Her mom comforted her after seeing her cry\nE) She finally got a job offer after getting many rejections & She failed once again at her job search\nF) She finally got a job offer after getting many rejections & She is not sure if she will every find a job\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

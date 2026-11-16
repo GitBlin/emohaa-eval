@@ -1,0 +1,41 @@
+{
+  "id": "17a38d38e62d42e492b53411148f35d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）多半是我犯错之后，比如会上没听懂，它就说“你怎么这么笨”。语气……有点像我爸以前说话的样子，不凶，但那种失望的调子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我那个声音出现的时刻和语气，这让我得停下来想想。平时它来得太自然了，我几乎没留意过它是怎么出现的。现在被这么一问，好像能抓住一点轮廓了。）\n（最明显的就是犯错之后，那种语气特别像我爸。小时候他批评我时就是这样，不凶，但那种失望的腔调让我更难受。原来那个声音一直带着我爸的影子，我自己都没意识到。）",
+        "reasoning": "（咨询师问我那个声音出现的时刻和语气，这让我得停下来想想。平时它来得太自然了，我几乎没留意过它是怎么出现的。现在被这么一问，好像能抓住一点轮廓了。）\n（最明显的就是犯错之后，那种语气特别像我爸。小时候他批评我时就是这样，不凶，但那种失望的腔调让我更难受。原来那个声音一直带着我爸的影子，我自己都没意识到。）"
+      }
+    }
+  ],
+  "created": 1794557577,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3074,
+    "total_tokens": 3204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

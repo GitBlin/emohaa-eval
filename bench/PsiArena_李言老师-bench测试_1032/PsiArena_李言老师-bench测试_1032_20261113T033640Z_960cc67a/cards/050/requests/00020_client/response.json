@@ -1,0 +1,41 @@
+{
+  "id": "b2e5459b2bc947c283ff244acac6570f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "西红柿鸡蛋面吧，简单，他也爱吃。就是不知道我做得比不比我妈做的像。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把做饭这事具体化，问我想先从哪道菜开始。我心里其实有点打鼓，怕自己连这点小事都做不好。不过既然答应了，总得有个开头。）\n（我想了想，我爸以前爱喝我妈做的西红柿鸡蛋面，那个简单，我也看过几回。就从这个开始吧，做砸了也不至于太难吃。）",
+        "reasoning": "（咨询师在帮我把做饭这事具体化，问我想先从哪道菜开始。我心里其实有点打鼓，怕自己连这点小事都做不好。不过既然答应了，总得有个开头。）\n（我想了想，我爸以前爱喝我妈做的西红柿鸡蛋面，那个简单，我也看过几回。就从这个开始吧，做砸了也不至于太难吃。）"
+      }
+    }
+  ],
+  "created": 1794543653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2797,
+    "total_tokens": 2899,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

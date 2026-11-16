@@ -1,0 +1,41 @@
+{
+  "id": "dbaf8cb92e7e4af98ceff64d77a60e9b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先自己练几遍，练顺了……下次来这儿的时候，说给你听一次，行吗？今天聊完，我心里好像松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是想自己练还是找人听。练熟这件事，我确实需要有人给我一点反馈，不然自己对着镜子说，说错了也不知道。但找丈夫听又太早了，我还没准备好。朋友里……好像也没有能说这种话的人。咨询师这里，至少安全一点。）\n（今天聊下来，我好像第一次把心里那些堵着的东西说清楚了一点。虽然还没真的去做什么，但至少知道下一步该往哪走了。下次来之前，我可以先自己练练，再让咨询师帮我听听。）",
+        "reasoning": "（咨询师问我是想自己练还是找人听。练熟这件事，我确实需要有人给我一点反馈，不然自己对着镜子说，说错了也不知道。但找丈夫听又太早了，我还没准备好。朋友里……好像也没有能说这种话的人。咨询师这里，至少安全一点。）\n（今天聊下来，我好像第一次把心里那些堵着的东西说清楚了一点。虽然还没真的去做什么，但至少知道下一步该往哪走了。下次来之前，我可以先自己练练，再让咨询师帮我听听。）"
+      }
+    }
+  ],
+  "created": 1794553029,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 3582,
+    "total_tokens": 3732,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

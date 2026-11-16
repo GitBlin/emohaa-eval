@@ -1,0 +1,41 @@
+{
+  "id": "cce6c6e00cc4425f94d8541f476dfbb9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）好像……是我自己的声音先出来。特别快，几乎是条件反射。爸妈的样子反而是后面才浮上来的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在出错时心里最先浮现的是什么，是爸妈失望的样子还是我自己“又来了”的声音。这个问题让我有点愣住，好像从来没仔细分过。我总觉得它们混在一起，分不清哪个先来。）\n（不过仔细想想，好像确实是我自己的声音更响，而且很急，几乎是条件反射。爸妈的样子反而是后来才浮上来的，像背景一样。这让我有点意外，也有点难受，原来我对自己这么苛刻。）",
+        "reasoning": "（她问我现在出错时心里最先浮现的是什么，是爸妈失望的样子还是我自己“又来了”的声音。这个问题让我有点愣住，好像从来没仔细分过。我总觉得它们混在一起，分不清哪个先来。）\n（不过仔细想想，好像确实是我自己的声音更响，而且很急，几乎是条件反射。爸妈的样子反而是后来才浮上来的，像背景一样。这让我有点意外，也有点难受，原来我对自己这么苛刻。）"
+      }
+    }
+  ],
+  "created": 1794538791,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1987,
+    "total_tokens": 2112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

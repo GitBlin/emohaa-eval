@@ -1,0 +1,41 @@
+{
+  "id": "3e8eabc5948340d187455b7447569289",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能会先找李老师吧，她平时比较温和。我想让她帮我看看班，或者课后陪我说两句，别让我一个人憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了我信任的同事，这让我想到办公室里的李老师。她确实比较温和，不会随便评价人。但我又有点犹豫，怕说出来显得自己太依赖别人，或者让人家觉得我连这点事都处理不好。）\n（不过既然咨询师这么问了，也许我真的该试着具体一点。比如下次课堂上再遇到顶嘴的情况，可以先请李老师帮忙看一会儿班，让我缓一缓。这样至少不用硬撑着，也不会让全班看到我快哭的样子。）",
+        "reasoning": "（咨询师问到了我信任的同事，这让我想到办公室里的李老师。她确实比较温和，不会随便评价人。但我又有点犹豫，怕说出来显得自己太依赖别人，或者让人家觉得我连这点事都处理不好。）\n（不过既然咨询师这么问了，也许我真的该试着具体一点。比如下次课堂上再遇到顶嘴的情况，可以先请李老师帮忙看一会儿班，让我缓一缓。这样至少不用硬撑着，也不会让全班看到我快哭的样子。）"
+      }
+    }
+  ],
+  "created": 1794543582,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3325,
+    "total_tokens": 3465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c819ae5c399c42bda52da751174862b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头，声音比之前稳了些）嗯，可以试试。也许写下来贴在能看见的地方，别扭着别扭着就顺了。（停了停）就是怕被同事看到，又觉得我怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“先顾好自己不是把谁推开，是让自己还有力气在”。这句话让我心里有点松动，好像之前一直觉得照顾自己就是自私，但现在听起来没那么刺耳了。）\n（我想到可以试着把这句话写下来，贴在自己能看到的地方，但马上又担心被同事看到会显得奇怪。这种担心好像又回到了怕别人怎么看我上面。）",
+        "reasoning": "（咨询师说“先顾好自己不是把谁推开，是让自己还有力气在”。这句话让我心里有点松动，好像之前一直觉得照顾自己就是自私，但现在听起来没那么刺耳了。）\n（我想到可以试着把这句话写下来，贴在自己能看到的地方，但马上又担心被同事看到会显得奇怪。这种担心好像又回到了怕别人怎么看我上面。）"
+      }
+    }
+  ],
+  "created": 1794536836,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3225,
+    "total_tokens": 3350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

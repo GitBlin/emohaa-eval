@@ -1,0 +1,41 @@
+{
+  "id": "33aec78b0dd54a288a2d0fc4300269f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口闷闷的，像压着什么东西，有时候会有点喘不上气。说着说着，好像鼻子也有点酸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我身体的感觉……我好像一直没认真想过这个。堵得慌，其实不只是心里，胸口那块是真的闷，有时候闷到喘不上气。）\n（原来那些压着的东西不是看不见的，它真的会留在身体里。说着说着鼻子有点酸，可能是被问到了平时没人问的地方吧。）",
+        "reasoning": "（他问我身体的感觉……我好像一直没认真想过这个。堵得慌，其实不只是心里，胸口那块是真的闷，有时候闷到喘不上气。）\n（原来那些压着的东西不是看不见的，它真的会留在身体里。说着说着鼻子有点酸，可能是被问到了平时没人问的地方吧。）"
+      }
+    }
+  ],
+  "created": 1794556939,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1638,
+    "total_tokens": 1733,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

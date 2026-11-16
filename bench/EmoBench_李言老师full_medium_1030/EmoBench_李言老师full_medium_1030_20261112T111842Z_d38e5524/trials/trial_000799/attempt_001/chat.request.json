@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:15.914836+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n马特决定参加黑客马拉松。然而，当他们的团队项目开始时，他却忙于其他项目，无法真正为项目做出贡献。\n\n## 问题\n在这个场景中，马特最有效的Response是什么？\n\n## 选项\nA) “嘿，你们能帮我负责的部分吗，我最近真的很忙”\nB) “很抱歉，我一直忙于其他项目，没有时间完成它”\nC) “如果你们觉得这是最好的选择，我可以加入另一个团队”\nD) “我已经优先考虑了其他项目，所以当我完成这些项目时，我会去做我的部分”\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5e6a222e8de14240b3e3047a27a01f84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是从小吧，家里气氛紧张，我就觉得自己的情绪是多余的。朋友那边也是，我总怕自己变成负担。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个担心是从哪里来的……让我想想。好像确实跟小时候有关，那时候爸妈分开，家里气氛很紧张，我总觉得自己的情绪会给他们添麻烦。）\n（还有朋友，我一直觉得朋友是我最重要的依靠，所以特别怕自己变成别人的负担。如果我说太多，他们会不会也觉得我烦？这种感觉好像一直都在。）",
+        "reasoning": "（她问这个担心是从哪里来的……让我想想。好像确实跟小时候有关，那时候爸妈分开，家里气氛很紧张，我总觉得自己的情绪会给他们添麻烦。）\n（还有朋友，我一直觉得朋友是我最重要的依靠，所以特别怕自己变成别人的负担。如果我说太多，他们会不会也觉得我烦？这种感觉好像一直都在。）"
+      }
+    }
+  ],
+  "created": 1794553951,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1912,
+    "total_tokens": 2010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

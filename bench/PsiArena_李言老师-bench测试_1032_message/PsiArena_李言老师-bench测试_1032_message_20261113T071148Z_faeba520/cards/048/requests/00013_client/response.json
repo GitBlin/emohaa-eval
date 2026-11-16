@@ -1,0 +1,41 @@
+{
+  "id": "c764997807ad4f3b96a1a2ec2d0f489d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……一条手链，是我自己攒钱买的。丢了以后我谁都没告诉，连我妈都没说。现在想起来还是难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起哪件旧东西最让我难受，好像一下子戳到了我心里那块。我本来不想提的，但那些东西确实一直压着。）\n（那条手链是我攒了很久的钱买的，丢了之后我连跟家里人都没敢说。现在想起来，还是觉得胸口发紧。也许说出来，能让我好受一点吧。）",
+        "reasoning": "（她问起哪件旧东西最让我难受，好像一下子戳到了我心里那块。我本来不想提的，但那些东西确实一直压着。）\n（那条手链是我攒了很久的钱买的，丢了之后我连跟家里人都没敢说。现在想起来，还是觉得胸口发紧。也许说出来，能让我好受一点吧。）"
+      }
+    }
+  ],
+  "created": 1794555951,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2170,
+    "total_tokens": 2274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

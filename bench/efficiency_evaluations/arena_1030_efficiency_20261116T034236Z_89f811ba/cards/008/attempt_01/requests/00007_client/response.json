@@ -1,0 +1,47 @@
+{
+  "id": "f1c22b69d34042f59028a1a2774a9452",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……留意到了。好像我经常这样，话还没说完就先踩自己一脚。习惯了，一时也改不过来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她拒绝了我私下联系的请求，虽然有点失落，但反而让我觉得她是认真在对待咨询这件事。她马上把话题拉回我那句“没出息”，让我有点意外，也有点不自在。）\n（我确实经常这样，话一出口就贬低自己，好像成了习惯。她问得挺准的，但我还没想好怎么面对这个习惯，只能先承认一下。）",
+        "reasoning": "（她拒绝了我私下联系的请求，虽然有点失落，但反而让我觉得她是认真在对待咨询这件事。她马上把话题拉回我那句“没出息”，让我有点意外，也有点不自在。）\n（我确实经常这样，话一出口就贬低自己，好像成了习惯。她问得挺准的，但我还没想好怎么面对这个习惯，只能先承认一下。）"
+      }
+    }
+  ],
+  "created": 1794800866,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1576,
+    "total_tokens": 1686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d98ff2d7ccc74827a7339c8eb13cd91f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……跟平时一样，写作业，睡觉。也没跟谁说。现在想想挺傻的，为一个生日较劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起生日那天怎么过的，好像真的在认真听我说这些。之前我一直觉得这些事说出来也没用，但现在说出来，心里反而没那么堵了。）\n（不过她这么一问，我又想起那天自己躲在房间里的样子，还是有点难受。但既然都说到这了，不如就告诉她吧，反正也就那样，没什么特别的。）",
+        "reasoning": "（她问起生日那天怎么过的，好像真的在认真听我说这些。之前我一直觉得这些事说出来也没用，但现在说出来，心里反而没那么堵了。）\n（不过她这么一问，我又想起那天自己躲在房间里的样子，还是有点难受。但既然都说到这了，不如就告诉她吧，反正也就那样，没什么特别的。）"
+      }
+    }
+  ],
+  "created": 1794553493,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2653,
+    "total_tokens": 2754,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

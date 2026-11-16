@@ -1,0 +1,41 @@
+{
+  "id": "8a747079344c4943afb47c1089357aaf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……乱七八糟的，一会儿想这个一会儿想那个。感情的事吧，好像怎么选都不对。唉，说出来你可能觉得我挺矫情的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师确认了保密原则，让我稍微放心了一点。她问我晚上在想什么……其实那些念头很乱，一会儿是这个，一会儿是那个。我有点想说，但又觉得说出来显得自己很糟糕。）\n（她看起来还算可靠，但我还是不太想一下子全说出来。先模糊地提一下感情的事吧，看看她怎么反应。也许可以说“选择”这个词，不用讲得太细。）",
+        "reasoning": "（咨询师确认了保密原则，让我稍微放心了一点。她问我晚上在想什么……其实那些念头很乱，一会儿是这个，一会儿是那个。我有点想说，但又觉得说出来显得自己很糟糕。）\n（她看起来还算可靠，但我还是不太想一下子全说出来。先模糊地提一下感情的事吧，看看她怎么反应。也许可以说“选择”这个词，不用讲得太细。）"
+      }
+    }
+  ],
+  "created": 1794554483,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1240,
+    "total_tokens": 1358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

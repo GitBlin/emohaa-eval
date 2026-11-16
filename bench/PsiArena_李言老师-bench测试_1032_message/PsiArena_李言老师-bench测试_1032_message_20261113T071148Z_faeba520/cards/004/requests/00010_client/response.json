@@ -1,0 +1,41 @@
+{
+  "id": "7bcc22166dcb4b728727ae3ba7fa4768",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）我爸妈在外地，打电话就说让我好好学习。跟他们说了……他们也没空管。（声音更低了）爷爷奶奶年纪大了，我不想让他们担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问家里人和别人...我该怎么说呢。爸妈在城里，打电话都是问成绩，说了他们只会更累吧。爷爷奶奶年纪大了，说了也帮不上忙，反而让他们操心。）\n（其实我也想有人能帮帮我，可好像谁都不行。心里堵得慌，又觉得说出来也没用。她会不会觉得我太没用了，连这种事都处理不好。）",
+        "reasoning": "（她问家里人和别人...我该怎么说呢。爸妈在城里，打电话都是问成绩，说了他们只会更累吧。爷爷奶奶年纪大了，说了也帮不上忙，反而让他们操心。）\n（其实我也想有人能帮帮我，可好像谁都不行。心里堵得慌，又觉得说出来也没用。她会不会觉得我太没用了，连这种事都处理不好。）"
+      }
+    }
+  ],
+  "created": 1794554105,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1678,
+    "total_tokens": 1794,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

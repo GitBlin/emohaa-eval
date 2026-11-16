@@ -1,0 +1,41 @@
+{
+  "id": "bc727d609d624703a401f90ee6e9e764",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像很久了，从小就这样吧。不过最近更明显一点，就是放假回家之后，心里特别堵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种感觉什么时候开始的……其实我也说不准。好像很久了，但又好像最近才特别明显。她这么问，我有点不知道从哪说起，家里的事太乱了。）\n（我是不是该说点什么？可我真的不想一下子把家里那些事都倒出来。要不就含糊地说说，从小就这样，最近更严重了……这样她应该也不会追问太多吧。）",
+        "reasoning": "（咨询师在问我这种感觉什么时候开始的……其实我也说不准。好像很久了，但又好像最近才特别明显。她这么问，我有点不知道从哪说起，家里的事太乱了。）\n（我是不是该说点什么？可我真的不想一下子把家里那些事都倒出来。要不就含糊地说说，从小就这样，最近更严重了……这样她应该也不会追问太多吧。）"
+      }
+    }
+  ],
+  "created": 1794537331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1246,
+    "total_tokens": 1355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

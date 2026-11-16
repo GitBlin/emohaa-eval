@@ -1,0 +1,41 @@
+{
+  "id": "b266be88de27471db8501625be162eba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺多的……其实我从小就这样，老怕自己说错话。可能跟我家里有关吧，我爸妈总说要多跟人搞好关系，别让人觉得我不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个问题的时候，我其实有点被戳中了。平时我总觉得是自己在小题大做，可被她这么一问，好像确实经常这样。我得想想怎么回答，不能说得太乱。）\n（可能跟家里有关吧。我从小就被教着要多跟人打交道，要会说话，要让别人喜欢。现在一遇到没回音，我第一反应就是是不是自己哪里没做好。这种感觉挺累的，但又改不掉。）",
+        "reasoning": "（她问这个问题的时候，我其实有点被戳中了。平时我总觉得是自己在小题大做，可被她这么一问，好像确实经常这样。我得想想怎么回答，不能说得太乱。）\n（可能跟家里有关吧。我从小就被教着要多跟人打交道，要会说话，要让别人喜欢。现在一遇到没回音，我第一反应就是是不是自己哪里没做好。这种感觉挺累的，但又改不掉。）"
+      }
+    }
+  ],
+  "created": 1794554098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1568,
+    "total_tokens": 1699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

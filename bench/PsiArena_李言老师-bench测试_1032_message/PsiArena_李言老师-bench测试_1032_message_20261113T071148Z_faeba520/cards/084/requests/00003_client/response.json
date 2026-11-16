@@ -1,0 +1,41 @@
+{
+  "id": "fc2ed02d90aa4a87910984dbdf1916d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心……怎么说呢。就是最近老觉得心里乱，说不上来为什么。有时候明明没什么事，也会突然觉得烦、觉得难受。我也不知道这算不算问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在担心什么...其实我自己也说不清楚。这种不习惯跟别人说心里话的感觉，大概是从小就被教育要自己消化情绪吧。不过既然来了，总得说点什么。）\n（但一下子要我说出具体的担心，反而有点不知道怎么组织语言。还是先说说表面上的感受吧，那些反复出现的情绪，虽然我也解释不了为什么。）",
+        "reasoning": "（他问我在担心什么...其实我自己也说不清楚。这种不习惯跟别人说心里话的感觉，大概是从小就被教育要自己消化情绪吧。不过既然来了，总得说点什么。）\n（但一下子要我说出具体的担心，反而有点不知道怎么组织语言。还是先说说表面上的感受吧，那些反复出现的情绪，虽然我也解释不了为什么。）"
+      }
+    }
+  ],
+  "created": 1794557847,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1065,
+    "total_tokens": 1180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

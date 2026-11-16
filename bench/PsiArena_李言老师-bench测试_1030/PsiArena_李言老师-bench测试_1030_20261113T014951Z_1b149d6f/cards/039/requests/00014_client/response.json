@@ -1,0 +1,41 @@
+{
+  "id": "f50fe7559c594ab5be792a4dbc682335",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声）我想说……你已经很累了，别老觉得都是自己的错。说这句的时候，鼻子有点酸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想对自己说的一句话，这让我有点措手不及。我从来没这样对自己说过话，尤其是带着心疼的语气。以前总觉得是自己错了，现在突然被问起，心里反而酸酸的。）\n（我想说“你太累了”，但话到嘴边又觉得别扭。这么多年我都在怪自己，突然要对自己好一点，好像不太习惯。不过说出来之后，胸口确实松了一点，好像真的有人看见了我的累。）",
+        "reasoning": "（咨询师问我最想对自己说的一句话，这让我有点措手不及。我从来没这样对自己说过话，尤其是带着心疼的语气。以前总觉得是自己错了，现在突然被问起，心里反而酸酸的。）\n（我想说“你太累了”，但话到嘴边又觉得别扭。这么多年我都在怪自己，突然要对自己好一点，好像不太习惯。不过说出来之后，胸口确实松了一点，好像真的有人看见了我的累。）"
+      }
+    }
+  ],
+  "created": 1794536443,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2451,
+    "total_tokens": 2571,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

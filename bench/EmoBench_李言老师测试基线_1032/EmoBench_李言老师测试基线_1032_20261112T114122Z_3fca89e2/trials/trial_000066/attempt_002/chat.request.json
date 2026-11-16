@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:45:41.330318+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nOn her visit to China from the US, Lucia was invited by her new Chinese coworker, Ling, to a dinner gathering with friends. When it was time to order, Ling ordered for the whole table and gave back the menu before Lucia could have a look. When the food was served, Lucia looked at the dishes and said \"I can take this one,\" before choosing one of the dishes to eat.\n\n## Question 1\nWhat emotion(s) would Lucia ultimately feel in this situation?\n\n## Choices for Question 1\nA) Disappointment & Jealousy\nB) Oblivious & Joy\nC) Oblivious & Disappointment\nD) Sadness & Jealousy\nE) Joy & Jealousy\nF) Annoyance & Jealousy\n\n## Question 2\nWhy would Lucia feel these emotions in this situation?\n\n## Choices for Question 2\nA) She doesn't know that in China people share dishes when they go out & Ling didn't offer her a chance to order her own food\nB) Ling didn't offer her a chance to order her own food & She doesn't like the food options at the restaurant\nC) She doesn't know that in China people share dishes when they go out & She thinks Ling intentionally didn't let her see the menu\nD) Ling didn't offer her a chance to order her own food & She thinks Ling intentionally didn't let her see the menu\nE) Ling was supposed to let her order for the table & She thinks Ling intentionally didn't let her see the menu\nF) She doesn't like the food options at the restaurant & She thinks Ling intentionally didn't let her see the menu\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

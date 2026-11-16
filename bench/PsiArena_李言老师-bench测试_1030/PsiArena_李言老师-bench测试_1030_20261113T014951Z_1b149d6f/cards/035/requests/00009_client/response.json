@@ -1,0 +1,41 @@
+{
+  "id": "dc420826ebfa47a9a83d36e199ea0ae3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个声音就说……他是不是烦我了，是不是我哪句话说错了。然后就会想到以前，好像我做什么都不够好，不够让人满意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音具体在说什么……其实我平时不太敢细想，一想就更难受。但刚才她说这不是没出息，我好像有点放松了。）\n（那个声音，好像真的是在说我不够好。它让我想起小时候考不好时爸妈的表情，那种感觉一模一样。原来我一直怕的，不只是他不回消息，而是又变成那个让人失望的人。）",
+        "reasoning": "（她问我那个声音具体在说什么……其实我平时不太敢细想，一想就更难受。但刚才她说这不是没出息，我好像有点放松了。）\n（那个声音，好像真的是在说我不够好。它让我想起小时候考不好时爸妈的表情，那种感觉一模一样。原来我一直怕的，不只是他不回消息，而是又变成那个让人失望的人。）"
+      }
+    }
+  ],
+  "created": 1794536232,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1793,
+    "total_tokens": 1904,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

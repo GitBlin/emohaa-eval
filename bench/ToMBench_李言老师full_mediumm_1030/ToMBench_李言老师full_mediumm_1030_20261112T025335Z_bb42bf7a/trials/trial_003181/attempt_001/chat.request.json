@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:58:17.739300+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ming and Xiao Hong are the organizers of community activities together. Because it involves the installation of children's play facilities, they start to pay attention to Xiao Gang - a worker who repairs facilities in the community all year round. Xiao Ming looks at Xiao Hong playing ball on the football field, winks at Xiao Hong, and then looks at Xiao Gang, Xiao Gang is repairing a swing on the side. Then, Xiao Ming gives Xiao Hong a deep smile. Xiao Hong nods her head in a seemingly understanding way, and continues to focus back on the football.\n\n[Question]\nWhy does Xiao Ming show a smile to Xiao Hong?\n\n[Candidate Answers]\nA. Xiao Ming finds Xiao Hong's way of playing ball funny, so he laughs.\nB. He signals Xiao Hong, he thinks Xiao Gang is very suitable to participate in the organization of this event, so he smiles at Xiao Hong.\nC. Xiao Ming sees Xiao Gang repairing the swing he wants to play, and he is happy to laugh.\nD. Xiao Ming suddenly discovers the secret relationship between Xiao Gang and Xiao Hong, so he laughs.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

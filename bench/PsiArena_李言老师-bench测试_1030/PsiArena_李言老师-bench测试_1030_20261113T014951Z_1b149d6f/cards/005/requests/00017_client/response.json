@@ -1,0 +1,41 @@
+{
+  "id": "0eb449143cde41c19b81e73d4fe02a1d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "信号……大概就是那种坐不住、想摸手机的感觉吧。可感觉到了之后，我该干点啥呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找一个能提醒自己的信号，而不是逼我立刻做到。这让我稍微松了点，但心里还是没底，怕自己连一个信号都抓不住。）\n（我想到那种坐不住的感觉，那是最明显的。可光有这个信号还不够，我还需要知道真到那时候能做什么，不然又只能干着急。）",
+        "reasoning": "（咨询师在帮我找一个能提醒自己的信号，而不是逼我立刻做到。这让我稍微松了点，但心里还是没底，怕自己连一个信号都抓不住。）\n（我想到那种坐不住的感觉，那是最明显的。可光有这个信号还不够，我还需要知道真到那时候能做什么，不然又只能干着急。）"
+      }
+    }
+  ],
+  "created": 1794534861,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2698,
+    "total_tokens": 2796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

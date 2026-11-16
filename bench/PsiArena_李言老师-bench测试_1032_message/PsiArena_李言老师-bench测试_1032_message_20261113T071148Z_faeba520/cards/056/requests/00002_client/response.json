@@ -1,0 +1,41 @@
+{
+  "id": "38e509fc8dad4bb7b6b38ee06d2e0c4b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听你这么说，好像还行吧。不过我还是想问一下，我在这儿说的话，你会不会告诉别人啊？我就是有点担心这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会陪我慢慢聊，不会勉强我。听起来好像挺温和的，但我还是不太确定她到底会怎么处理我说的事情。毕竟第一次见面，谁知道她会不会转头就把我的事说出去。我得先试探一下她能不能守住秘密，不然我什么都不敢讲。）\n（而且她问我会不会踏实一点，我其实还是有点紧张。说“还行吧”已经是我能给出的最放松的回答了。我想让她知道我不是那种随便就会敞开心扉的人，得先看看她值不值得信任。）",
+        "reasoning": "（咨询师说会陪我慢慢聊，不会勉强我。听起来好像挺温和的，但我还是不太确定她到底会怎么处理我说的事情。毕竟第一次见面，谁知道她会不会转头就把我的事说出去。我得先试探一下她能不能守住秘密，不然我什么都不敢讲。）\n（而且她问我会不会踏实一点，我其实还是有点紧张。说“还行吧”已经是我能给出的最放松的回答了。我想让她知道我不是那种随便就会敞开心扉的人，得先看看她值不值得信任。）"
+      }
+    }
+  ],
+  "created": 1794556388,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1024,
+    "total_tokens": 1165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

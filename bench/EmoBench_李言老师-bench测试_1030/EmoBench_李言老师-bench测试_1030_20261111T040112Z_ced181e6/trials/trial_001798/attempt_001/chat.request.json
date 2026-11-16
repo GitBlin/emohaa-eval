@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:30.909239+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nMatt decided to participate in a hackathon. However, when it was time to start their team project, he became really busy with other projects and couldn't really contribute to the project.\n\n## Question \nIn this scenario, what is the most effective Response for Matt?\n\n## Choices\nA) \"Hey, could you guys cover the parts I'm responsible for, I've been really busy recently\"\nB) \"I'm so sorry, I've been really busy with other projects and didn't have time to complete it\"\nC) \"I can just join another team if you guys feel that's the best option\"\nD) \"I have prioritized the other projects, so I will get to my parts when I'm done with those\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "302da25bb1c6454bb3b24c8983429af4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还在继续吧。比如工作上有点成绩，我第一反应不是高兴，而是想着怎么跟我妈说才不刺激到她……她好像见不得我比她好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种习惯是不是还在继续……确实，根本停不下来。每次我妈一皱眉，我整个人就绷紧了，好像我做什么都得先经过她的情绪审核。）\n（其实不光是看脸色，还有那种被比较的感觉。家里聚会，我妈总爱拿我和别人比，好像我稍微好一点，她就……不太高兴。我想试着说说这个，但又怕说多了显得我在怪她。）",
+        "reasoning": "（她问我这种习惯是不是还在继续……确实，根本停不下来。每次我妈一皱眉，我整个人就绷紧了，好像我做什么都得先经过她的情绪审核。）\n（其实不光是看脸色，还有那种被比较的感觉。家里聚会，我妈总爱拿我和别人比，好像我稍微好一点，她就……不太高兴。我想试着说说这个，但又怕说多了显得我在怪她。）"
+      }
+    }
+  ],
+  "created": 1794555071,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1591,
+    "total_tokens": 1712,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

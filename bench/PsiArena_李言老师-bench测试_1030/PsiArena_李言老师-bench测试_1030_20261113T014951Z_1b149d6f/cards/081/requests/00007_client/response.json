@@ -1,0 +1,41 @@
+{
+  "id": "ef7d5480865c43b3975301c88cd265e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是上周末吧……翻了两页就困了，然后就睡着了。说起来挺可笑的，明明想看书，结果一碰书就犯困。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起最近一次翻书是什么时候，这让我有点被戳到的感觉。她好像很自然地想往深处走，但我还没准备好那么快就摊开那些具体的挫败感。）\n（我想我得先应付过去，说个大概的时间就行，不用太细。毕竟现在还没到能放心讲那些细节的时候，而且说实话，我自己也记不清了，每次想起来都挺不舒服的。）",
+        "reasoning": "（咨询师问起最近一次翻书是什么时候，这让我有点被戳到的感觉。她好像很自然地想往深处走，但我还没准备好那么快就摊开那些具体的挫败感。）\n（我想我得先应付过去，说个大概的时间就行，不用太细。毕竟现在还没到能放心讲那些细节的时候，而且说实话，我自己也记不清了，每次想起来都挺不舒服的。）"
+      }
+    }
+  ],
+  "created": 1794539020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1491,
+    "total_tokens": 1612,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8ff40eff49e949efa167961d9c4ad1be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……也说不上来。可能就是想有人告诉我，我这样想是不是正常的。总觉得别人家好像没这么多事，是不是我自己太在意了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我想听哪方面的建议，其实我心里乱得很，说不上来。好像什么都需要有人告诉我，又觉得谁说的都不对。这种矛盾让我有点烦，也有点不好意思。）\n（我确实希望有人能直接给我答案，但被她这么一问，反而更清楚自己其实连想要什么都不确定。这种时候，我可能还是想先绕开，不想马上承认自己连方向都找不到。）",
+        "reasoning": "（她刚才问我想听哪方面的建议，其实我心里乱得很，说不上来。好像什么都需要有人告诉我，又觉得谁说的都不对。这种矛盾让我有点烦，也有点不好意思。）\n（我确实希望有人能直接给我答案，但被她这么一问，反而更清楚自己其实连想要什么都不确定。这种时候，我可能还是想先绕开，不想马上承认自己连方向都找不到。）"
+      }
+    }
+  ],
+  "created": 1794553331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1485,
+    "total_tokens": 1605,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e4c840fdc8f444f9b3f66bd445c2868a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来可能比当面说容易点……我可以说说自己的感受，不是指责他们。就是不知道写出来他们会不会认真看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考怎么让父母知道我的在意，这让我有点紧张。直接说肯定很难开口，我平时也不习惯表达这些。但写下来好像没那么难，至少不用当面看他们的反应。）\n（不过写下来之后呢，他们会不会觉得我小题大做，或者又说我太敏感？但总比一直憋着强吧，至少我试过了。先想想怎么措辞，别写得太冲，也别太软。）",
+        "reasoning": "（咨询师在引导我思考怎么让父母知道我的在意，这让我有点紧张。直接说肯定很难开口，我平时也不习惯表达这些。但写下来好像没那么难，至少不用当面看他们的反应。）\n（不过写下来之后呢，他们会不会觉得我小题大做，或者又说我太敏感？但总比一直憋着强吧，至少我试过了。先想想怎么措辞，别写得太冲，也别太软。）"
+      }
+    }
+  ],
+  "created": 1794554366,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2680,
+    "total_tokens": 2806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

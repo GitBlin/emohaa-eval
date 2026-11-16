@@ -1,0 +1,41 @@
+{
+  "id": "b615df0af0a4427a85fd586d7274e9b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点……奇怪。说出来好像轻了一点，但又有点空。平时我从来不跟人讲这些的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在的感觉，我一时也说不上来。刚把那些话讲出口，好像胸口松了一点，但又有点空，甚至有点后悔说太多了。平时我习惯了什么都自己扛着，突然这样暴露出来，反而有点不自在。）\n（不过，能把这些话说给一个不会评价我的人听，确实和平时不一样。我可能还是不太习惯这种被接住的感觉，但至少现在不想马上收回去。）",
+        "reasoning": "（咨询师问我现在的感觉，我一时也说不上来。刚把那些话讲出口，好像胸口松了一点，但又有点空，甚至有点后悔说太多了。平时我习惯了什么都自己扛着，突然这样暴露出来，反而有点不自在。）\n（不过，能把这些话说给一个不会评价我的人听，确实和平时不一样。我可能还是不太习惯这种被接住的感觉，但至少现在不想马上收回去。）"
+      }
+    }
+  ],
+  "created": 1794553955,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1981,
+    "total_tokens": 2096,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "918a43eb3f3540be8570ccce99233c24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "看到之后……先深呼吸一次吧，然后问问自己，这是真事，还是我又在演。嗯，好像这样就具体一点了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师是在帮我把这个提醒落到具体的动作上，而不是只停在一句话。我有点被推着往前走，但也觉得这样踏实一点。）\n（我想到先深呼吸，把注意力从脑子里拉回身体，然后再去问自己这是事实还是我在演。这样说出来，好像我真的能试着做。）",
+        "reasoning": "（咨询师是在帮我把这个提醒落到具体的动作上，而不是只停在一句话。我有点被推着往前走，但也觉得这样踏实一点。）\n（我想到先深呼吸，把注意力从脑子里拉回身体，然后再去问自己这是事实还是我在演。这样说出来，好像我真的能试着做。）"
+      }
+    }
+  ],
+  "created": 1794556594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3269,
+    "total_tokens": 3365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

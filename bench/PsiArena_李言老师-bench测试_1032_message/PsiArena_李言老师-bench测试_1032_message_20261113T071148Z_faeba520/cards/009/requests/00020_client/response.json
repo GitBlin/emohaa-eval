@@ -1,0 +1,41 @@
+{
+  "id": "d3ed20951ec4401185ef32fe9af4b2f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该还是家里吧。小时候好像只有我做得够好、够懂事，才会被夸。久了就觉得，对自己松一点好像就是不对的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个，是想让我看到对自己严格是从哪儿来的吧。我其实心里有数，就是家里那种“懂事”的要求。）\n（可我不想把爸妈说得太糟，他们也不是坏人。只是那时候，好像只有我做得够好，才值得被夸。这种感觉一直留到现在。）",
+        "reasoning": "（她问这个，是想让我看到对自己严格是从哪儿来的吧。我其实心里有数，就是家里那种“懂事”的要求。）\n（可我不想把爸妈说得太糟，他们也不是坏人。只是那时候，好像只有我做得够好，才值得被夸。这种感觉一直留到现在。）"
+      }
+    }
+  ],
+  "created": 1794554360,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2971,
+    "total_tokens": 3066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

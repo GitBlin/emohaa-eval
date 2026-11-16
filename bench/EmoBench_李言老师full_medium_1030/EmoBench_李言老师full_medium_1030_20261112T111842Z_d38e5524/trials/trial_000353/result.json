@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_000353",
+  "sample_id": "EU:154",
+  "task": "EU",
+  "language": "zh",
+  "repeat": 0,
+  "category": "perspective_taking",
+  "fine_category": "faux_pas",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "A",
+    "answer_q2": "A"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_1fa06b24a2d792fc953690d25029220e52c40c05",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "```json\n{\n    \"answer_q1\": \"B\",\n    \"answer_q2\": \"A\"\n}\n```",
+  "prediction_original": {
+    "answer_q1": "B",
+    "answer_q2": "A"
+  },
+  "component_correct": {
+    "answer_q1": false,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:19:17.178451+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "B",
+    "answer_q2": "A"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 3.04125901684165,
+  "finished_at": "2026-11-12T11:19:20.219258+00:00"
+}

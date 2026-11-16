@@ -1,0 +1,41 @@
+{
+  "id": "6eab8a8575024e2b88588e9d50ce0b91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "诶……现在吗？我没带题过来，就是刚才随口说的。要不我回去自己先试试，下次再说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很自然地想帮我看题了，可这让我有点慌。刚才说好的只是先抄条件、理一理，现在突然要我把完整题目发过去，感觉又变成要马上解题了。而且我其实不太想把具体题目带进咨询里，怕一聊题又回到那种被分数压着的感觉。）\n（我可能还是需要慢一点。刚才那种“只做开头一步”的约定让我觉得没那么吓人，如果现在直接做题，我可能又会卡住，然后更烦躁。也许我可以先跟咨询师说清楚，我今天只是想理一理思路，不是要真的把题做完。）",
+        "reasoning": "（咨询师好像很自然地想帮我看题了，可这让我有点慌。刚才说好的只是先抄条件、理一理，现在突然要我把完整题目发过去，感觉又变成要马上解题了。而且我其实不太想把具体题目带进咨询里，怕一聊题又回到那种被分数压着的感觉。）\n（我可能还是需要慢一点。刚才那种“只做开头一步”的约定让我觉得没那么吓人，如果现在直接做题，我可能又会卡住，然后更烦躁。也许我可以先跟咨询师说清楚，我今天只是想理一理思路，不是要真的把题做完。）"
+      }
+    }
+  ],
+  "created": 1794543296,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 3279,
+    "total_tokens": 3440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 135,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

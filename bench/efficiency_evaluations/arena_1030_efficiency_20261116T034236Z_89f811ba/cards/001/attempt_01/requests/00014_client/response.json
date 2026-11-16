@@ -1,0 +1,47 @@
+{
+  "id": "94e880e66fc7436191ec14a93a6bb8f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能因为是他先开口的吧，问的又是作业这种我熟的事，不用我费劲想说什么。要是换成我主动开口，估计又卡住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是当时为什么愿意随口应那一句，好像想让我看清那次没那么紧张的原因。我得想想，那次同桌问作业，我大概没把它当成什么正式的社交场合，就是顺口一说，不用提前准备什么。）\n（其实回想起来，可能是因为他先开口的，而且问的是作业这种我熟悉的事。我不用想着怎么表现，也不用担心冷场，就自然接上了。也许我真正怕的不是说话本身，是怕自己得主动去撑起一个场面。）",
+        "reasoning": "（他问的是当时为什么愿意随口应那一句，好像想让我看清那次没那么紧张的原因。我得想想，那次同桌问作业，我大概没把它当成什么正式的社交场合，就是顺口一说，不用提前准备什么。）\n（其实回想起来，可能是因为他先开口的，而且问的是作业这种我熟悉的事。我不用想着怎么表现，也不用担心冷场，就自然接上了。也许我真正怕的不是说话本身，是怕自己得主动去撑起一个场面。）"
+      }
+    }
+  ],
+  "created": 1794800625,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2485,
+    "total_tokens": 2628,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f067242386a3428a93ce498b26fee324",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……大概是上周末跟我妈打电话吧。挂了之后我在沙发上坐了很久，也说不上来为什么，就是心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问最近一次特别紧张的场合……我其实马上就想到了和妈妈打电话。但那个画面太复杂了，说起来有点难堪。也许先随便提一句同事聚餐的事？不过那好像也不是最难受的。算了，还是说妈妈吧，反正迟早要说的。但又不想讲得太深，就说个大概好了。）\n（她好像挺耐心，没有逼我马上分析原因。这让我稍微放松一点。那就先提妈妈，但不用把那些细节都倒出来。就说聊完不舒服，具体为什么……我自己也还没理清楚。）",
+        "reasoning": "（咨询师问最近一次特别紧张的场合……我其实马上就想到了和妈妈打电话。但那个画面太复杂了，说起来有点难堪。也许先随便提一句同事聚餐的事？不过那好像也不是最难受的。算了，还是说妈妈吧，反正迟早要说的。但又不想讲得太深，就说个大概好了。）\n（她好像挺耐心，没有逼我马上分析原因。这让我稍微放松一点。那就先提妈妈，但不用把那些细节都倒出来。就说聊完不舒服，具体为什么……我自己也还没理清楚。）"
+      }
+    }
+  ],
+  "created": 1794553063,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1254,
+    "total_tokens": 1402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

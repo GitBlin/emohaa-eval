@@ -1,0 +1,41 @@
+{
+  "id": "6308f1236dbf4f8eb366247291d97dd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……有些话我不想让家里人知道，尤其是关于孩子的事。说了怕他们觉得我这个当妈的做得不好。至于早上，就是孩子一直哭闹不让我走，我急着上班，心里特别乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺直接的，我确实有点担心家里人会知道。不过她解释了保密的事，还保证不会说出去，这让我稍微松口气。但我还是不太想马上说太多，先应付一下，把话题拉回早上出门那件事上，看看她怎么接。）\n（我提到早上急着出门，其实是想试探她会不会追问下去。如果她太急，我可能就不想说了。孩子哭闹那部分，我故意说得含糊，因为我自己也理不清，说多了怕自己更乱。）",
+        "reasoning": "（她问得挺直接的，我确实有点担心家里人会知道。不过她解释了保密的事，还保证不会说出去，这让我稍微松口气。但我还是不太想马上说太多，先应付一下，把话题拉回早上出门那件事上，看看她怎么接。）\n（我提到早上急着出门，其实是想试探她会不会追问下去。如果她太急，我可能就不想说了。孩子哭闹那部分，我故意说得含糊，因为我自己也理不清，说多了怕自己更乱。）"
+      }
+    }
+  ],
+  "created": 1794553221,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 1264,
+    "total_tokens": 1420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "065c0e1f606b4466b400efff0f4f5483",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都有点吧……但被拒绝更难受。不过我想，要不就先从发一句作业消息试试，至少不用面对面。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更担心被拒绝还是显得太主动……其实两个都怕，但被拒绝更让我难受。不过现在想想，与其一直纠结，不如先做点小尝试。）\n（也许我可以从最安全的方式开始，比如发个消息问作业，这样既不会太显眼，也能看看他的反应。这样应该不会太冒险吧。）",
+        "reasoning": "（她问我更担心被拒绝还是显得太主动……其实两个都怕，但被拒绝更让我难受。不过现在想想，与其一直纠结，不如先做点小尝试。）\n（也许我可以从最安全的方式开始，比如发个消息问作业，这样既不会太显眼，也能看看他的反应。这样应该不会太冒险吧。）"
+      }
+    }
+  ],
+  "created": 1794551629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2298,
+    "total_tokens": 2401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

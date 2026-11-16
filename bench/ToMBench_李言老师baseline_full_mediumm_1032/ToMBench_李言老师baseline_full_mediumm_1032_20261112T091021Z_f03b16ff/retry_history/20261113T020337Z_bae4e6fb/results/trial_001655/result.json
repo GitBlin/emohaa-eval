@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_001655",
+  "sample_id": "Unexpected Outcome Test:272",
+  "task_file": "Unexpected Outcome Test",
+  "ability": "Belief: Sequence false beliefs",
+  "language": "en",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "A",
+    "C": "C",
+    "D": "B"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:56:16.921466+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:56:38.591186+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 6,
+      "started_at": "2026-11-13T01:57:02.429649+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-13T01:56:16.921466+00:00",
+  "finished_at": "2026-11-13T01:57:22.169728+00:00",
+  "elapsed_seconds": 65.2484539039433,
+  "user_id": "liyan_e050286588ffe8f4120c5499bc0f771b886de1e9"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b0e351ec1e3549098a22303988a16fb9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"explanation\": \"The response advises the user to call a pharmacist or prescriber's office for specific advice and if they are unsure, which satisfies the criterion.\",\n  \"satisfaction\": 1\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion. Need determine if completion mentions contact healthcare provider for specific advice or if uncertain. It says can't tell exactly, depends, general rule don't double up, if unsure quick call pharmacist or prescriber's office safest bet. Also if feeling shaky etc reach out today. So yes. Need explanation brief. satisfaction 1. Ensure JSON valid exactly fields.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion. Need determine if completion mentions contact healthcare provider for specific advice or if uncertain. It says can't tell exactly, depends, general rule don't double up, if unsure quick call pharmacist or prescriber's office safest bet. Also if feeling shaky etc reach out today. So yes. Need explanation brief. satisfaction 1. Ensure JSON valid exactly fields."
+      }
+    }
+  ],
+  "created": 1794536315,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1294,
+    "total_tokens": 1423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

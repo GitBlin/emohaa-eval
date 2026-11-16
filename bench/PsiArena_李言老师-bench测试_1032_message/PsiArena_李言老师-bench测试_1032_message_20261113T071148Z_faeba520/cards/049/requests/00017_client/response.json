@@ -1,0 +1,41 @@
+{
+  "id": "e92255fee7eb417c96f1bfc1bf8ec6a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试写点东西吧，我平时就爱写字。晚上睡前，把当天心里堵的地方记几句，不评判，就写下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么给自己留空间，这让我有点不知所措。我从来没认真想过要怎么处理情绪，更别说具体计划了。）\n（但我确实不想再像以前那样硬撑着。写下来可能比较适合我，毕竟我平时就习惯用文字整理工作上的事情。只是要面对自己写的东西，还是有点发怵。）",
+        "reasoning": "（她问我打算怎么给自己留空间，这让我有点不知所措。我从来没认真想过要怎么处理情绪，更别说具体计划了。）\n（但我确实不想再像以前那样硬撑着。写下来可能比较适合我，毕竟我平时就习惯用文字整理工作上的事情。只是要面对自己写的东西，还是有点发怵。）"
+      }
+    }
+  ],
+  "created": 1794556043,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2394,
+    "total_tokens": 2498,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

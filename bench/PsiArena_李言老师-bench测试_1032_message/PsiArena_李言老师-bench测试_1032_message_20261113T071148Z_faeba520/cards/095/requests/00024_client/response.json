@@ -1,0 +1,41 @@
+{
+  "id": "40f0b3c901b44a4c8835435ebe49030d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是有点不习惯，好像少了根弦似的。不过想想，那根弦一直绷着，其实也没让我过得多好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是不习惯对自己没那么狠，这让我有点意外。我确实没想过这个问题，以前总觉得对自己狠才是正常的。现在突然要放松，反而觉得怪怪的，好像少了点什么。）\n（不过仔细想想，这种不习惯可能也是正常的吧。毕竟这么多年都这么过来了，一下子改掉肯定不适应。但至少现在知道可以试着对自己好一点，哪怕只是偶尔。）",
+        "reasoning": "（咨询师问我是不是不习惯对自己没那么狠，这让我有点意外。我确实没想过这个问题，以前总觉得对自己狠才是正常的。现在突然要放松，反而觉得怪怪的，好像少了点什么。）\n（不过仔细想想，这种不习惯可能也是正常的吧。毕竟这么多年都这么过来了，一下子改掉肯定不适应。但至少现在知道可以试着对自己好一点，哪怕只是偶尔。）"
+      }
+    }
+  ],
+  "created": 1794558497,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3002,
+    "total_tokens": 3114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e64318df90bf4f6fa261734dabd31520",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像也不是某一件特别的事。就是有时候看到她和别人一起，笑得特别开心，我心里就特别不是滋味。说不上来为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，想让我说具体是哪件事。可我心里乱得很，那些场景一回想就难受，说不清到底从哪天开始的。而且我也在犹豫，要不要这么快就把这些事都倒出来，毕竟还不知道她能不能真的理解我。）\n（也许先含糊一点比较好，就说看到朋友跟别人玩得开心我就不舒服，但别说得太深。这样既回应了她，又不会一下子暴露太多。）",
+        "reasoning": "（她问得挺细的，想让我说具体是哪件事。可我心里乱得很，那些场景一回想就难受，说不清到底从哪天开始的。而且我也在犹豫，要不要这么快就把这些事都倒出来，毕竟还不知道她能不能真的理解我。）\n（也许先含糊一点比较好，就说看到朋友跟别人玩得开心我就不舒服，但别说得太深。这样既回应了她，又不会一下子暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794541020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1085,
+    "total_tokens": 1209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

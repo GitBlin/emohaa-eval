@@ -1,0 +1,41 @@
+{
+  "id": "41b554547bcd4026b2a2c0523b33f8b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）可能……得先弄清楚他到底怎么想的吧。我一直在猜，但从来没真正问过他愿不愿意和我一起面对这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到最需要先弄清楚什么，我其实心里有个答案，但说出来有点难。我一直回避直接问对方，怕听到不想听的话，可这样拖着更难受。）\n（也许该先弄清楚他到底怎么想的，他愿不愿意和我一起面对。这样我才能决定自己还要不要继续这样耗着。）",
+        "reasoning": "（咨询师问到最需要先弄清楚什么，我其实心里有个答案，但说出来有点难。我一直回避直接问对方，怕听到不想听的话，可这样拖着更难受。）\n（也许该先弄清楚他到底怎么想的，他愿不愿意和我一起面对。这样我才能决定自己还要不要继续这样耗着。）"
+      }
+    }
+  ],
+  "created": 1794555597,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2558,
+    "total_tokens": 2658,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7d672626f6254fe3b1a99aac49e85077",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿）我也不知道……可能我就是想听他说一句“这事咱们一起想办法”，而不是“你决定就好”。（低下头）可我又没跟他讲过这些，我怕说了显得我太矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望丈夫怎么回应我，可我自己好像都没想清楚。他说的尊重听起来没错，可我又觉得哪里不对。也许我不是要他替我拿主意，而是希望他能跟我一起面对，说一句“我们一起想办法”这种话。但这样想是不是有点过分，毕竟他也没做错什么。）\n（而且我忽然想到，我好像从来没跟他讲过这些，总觉得说出来会给他添麻烦。这可能跟小时候的习惯有关，什么都自己先忍着。）",
+        "reasoning": "（咨询师问我希望丈夫怎么回应我，可我自己好像都没想清楚。他说的尊重听起来没错，可我又觉得哪里不对。也许我不是要他替我拿主意，而是希望他能跟我一起面对，说一句“我们一起想办法”这种话。但这样想是不是有点过分，毕竟他也没做错什么。）\n（而且我忽然想到，我好像从来没跟他讲过这些，总觉得说出来会给他添麻烦。这可能跟小时候的习惯有关，什么都自己先忍着。）"
+      }
+    }
+  ],
+  "created": 1794535517,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2117,
+    "total_tokens": 2258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

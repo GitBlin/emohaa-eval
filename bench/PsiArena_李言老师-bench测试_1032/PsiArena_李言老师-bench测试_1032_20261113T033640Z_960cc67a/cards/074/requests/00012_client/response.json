@@ -1,0 +1,41 @@
+{
+  "id": "1199b94ee14a495bb89ab1d54f6349b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "昨天下午吧。我本来想问能不能晚点交我自己的表，可看到大家都在忙，我话到嘴边又咽回去了。就觉得自己好像没资格开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问最近一次觉得“不该开口”的情境，这让我想到昨天下午的事。当时我正忙着整理会议材料，同事又让我帮忙订餐，我其实想说“我手头有点紧”，但最后还是咽回去了。）\n（我觉得自己总是这样，明明心里不愿意，却怕说出来显得不合群。这种憋着的感觉让我很委屈，可又觉得说出来好像也没用，反正最后还是会答应。）",
+        "reasoning": "（咨询师在问最近一次觉得“不该开口”的情境，这让我想到昨天下午的事。当时我正忙着整理会议材料，同事又让我帮忙订餐，我其实想说“我手头有点紧”，但最后还是咽回去了。）\n（我觉得自己总是这样，明明心里不愿意，却怕说出来显得不合群。这种憋着的感觉让我很委屈，可又觉得说出来好像也没用，反正最后还是会答应。）"
+      }
+    }
+  ],
+  "created": 1794545026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1937,
+    "total_tokens": 2064,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

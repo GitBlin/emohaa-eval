@@ -1,0 +1,41 @@
+{
+  "id": "8d7e2ca78eba4aea953d1185497cfd2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……有个同事说了句话，说“没有人能和她合不来”。听起来像夸人吧？可我听完反而更难受了，也说不上为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我慢慢说，态度倒是挺温和的。但我还是不太确定该从哪里讲起，毕竟这种事说出来有点丢人。同事那句话我记了很久，每次想起来都像根刺一样。）\n（也许可以先提一下那句话，看看他会怎么反应。不过我不想一下子讲太多，先简单说个大概，看他能不能理解我的意思。要是他追问得太急，我可能就不想说了。）",
+        "reasoning": "（他让我慢慢说，态度倒是挺温和的。但我还是不太确定该从哪里讲起，毕竟这种事说出来有点丢人。同事那句话我记了很久，每次想起来都像根刺一样。）\n（也许可以先提一下那句话，看看他会怎么反应。不过我不想一下子讲太多，先简单说个大概，看他能不能理解我的意思。要是他追问得太急，我可能就不想说了。）"
+      }
+    }
+  ],
+  "created": 1794552146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1083,
+    "total_tokens": 1201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

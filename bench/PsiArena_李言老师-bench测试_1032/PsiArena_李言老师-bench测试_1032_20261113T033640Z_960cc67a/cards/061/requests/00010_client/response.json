@@ -1,0 +1,41 @@
+{
+  "id": "debbdbb4ba514c2ea05cb6fce03eb0ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧。代码明明能跑，但我总觉得不够干净，改到凌晨。同事说“已经可以了”，我却觉得他们只是没看出来问题。在我家，事情做得“差不多”就等于没做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次因为没做到最好而难受的时候，这让我一下子想到上周那件事。本来不想提的，但既然已经聊到这儿了，说说也无妨。）\n（其实那件事到现在还压在心里，代码明明能跑，可就是觉得不够干净。同事说我想太多，可他们不懂，在我家，事情做得差不多就等于没做。爸妈从来只看结果，过程再辛苦也不会被认可。）",
+        "reasoning": "（咨询师问的是最近一次因为没做到最好而难受的时候，这让我一下子想到上周那件事。本来不想提的，但既然已经聊到这儿了，说说也无妨。）\n（其实那件事到现在还压在心里，代码明明能跑，可就是觉得不够干净。同事说我想太多，可他们不懂，在我家，事情做得差不多就等于没做。爸妈从来只看结果，过程再辛苦也不会被认可。）"
+      }
+    }
+  ],
+  "created": 1794544258,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1871,
+    "total_tokens": 2008,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

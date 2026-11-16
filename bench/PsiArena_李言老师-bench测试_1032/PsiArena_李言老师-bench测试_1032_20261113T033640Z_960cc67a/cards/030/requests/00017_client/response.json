@@ -1,0 +1,41 @@
+{
+  "id": "6afa695c2949418eba7bf7f6ca27740a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……被看见吧。但也不全是。嗯，我好像也想确认，我喜欢的那些东西本身是有价值的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，好像不是随便安慰我，而是真的想让我分清那两种感觉。我有点被问住了，但心里也隐约知道答案。）\n（被看见当然重要，可如果只是被看见，我好像还是会一直等着别人开口。也许我更想确认的是，我喜欢的那些东西，本身就是有价值的，哪怕没人夸。）",
+        "reasoning": "（她问得挺细的，好像不是随便安慰我，而是真的想让我分清那两种感觉。我有点被问住了，但心里也隐约知道答案。）\n（被看见当然重要，可如果只是被看见，我好像还是会一直等着别人开口。也许我更想确认的是，我喜欢的那些东西，本身就是有价值的，哪怕没人夸。）"
+      }
+    }
+  ],
+  "created": 1794549764,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2491,
+    "total_tokens": 2592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

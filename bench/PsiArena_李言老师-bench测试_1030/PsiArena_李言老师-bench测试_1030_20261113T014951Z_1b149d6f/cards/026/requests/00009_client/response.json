@@ -1,0 +1,41 @@
+{
+  "id": "bb38bdbfd517464c9476e4c5d5f79087",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我最想说的是“你别怕我”……可话到嘴边，常常就变成教训了。我小时候在家里，爸妈都是老师，家里讲规矩，做不好就要被说，我好像也把这套带回来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想对女儿说什么……这话一下子戳到我了。我平时哪敢跟女儿说软话啊，一开口就变成教训了。可要说最想说的，其实是“别怕妈妈”吧，我不想她跟我小时候一样，被大人说得不敢出声。）\n（但我又想到，我爸妈都是老师，在家里也像在课堂上一样，规矩严得很。我好像不知不觉就把那套搬过来了，一看到错题就急，一急就凶她。这到底是她的问题，还是我自己的老毛病？）",
+        "reasoning": "（她问我最想对女儿说什么……这话一下子戳到我了。我平时哪敢跟女儿说软话啊，一开口就变成教训了。可要说最想说的，其实是“别怕妈妈”吧，我不想她跟我小时候一样，被大人说得不敢出声。）\n（但我又想到，我爸妈都是老师，在家里也像在课堂上一样，规矩严得很。我好像不知不觉就把那套搬过来了，一看到错题就急，一急就凶她。这到底是她的问题，还是我自己的老毛病？）"
+      }
+    }
+  ],
+  "created": 1794535865,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 1803,
+    "total_tokens": 1968,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

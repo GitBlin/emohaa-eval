@@ -1,0 +1,41 @@
+{
+  "id": "994a7019a7c74f5a9ba7e9fda0c00423",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也不知道……就是觉得，回去之后可能还是会难受，但好像知道可以先做点什么了。先试试看吧，不行再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想聊什么，看来是想确认我现在的状态和接下来的方向。刚才聊完确实没那么紧绷了，但我也清楚这种轻松可能只是暂时的。）\n（我想把这种变化说得实在一点，不能让人觉得我已经完全好了。毕竟回去之后，可能还是会忍不住比较，还是会难受。但至少现在能想到具体可以做的事，比如课堂发言，这算是个开始吧。）",
+        "reasoning": "（咨询师问我最想聊什么，看来是想确认我现在的状态和接下来的方向。刚才聊完确实没那么紧绷了，但我也清楚这种轻松可能只是暂时的。）\n（我想把这种变化说得实在一点，不能让人觉得我已经完全好了。毕竟回去之后，可能还是会忍不住比较，还是会难受。但至少现在能想到具体可以做的事，比如课堂发言，这算是个开始吧。）"
+      }
+    }
+  ],
+  "created": 1794546132,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3038,
+    "total_tokens": 3149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

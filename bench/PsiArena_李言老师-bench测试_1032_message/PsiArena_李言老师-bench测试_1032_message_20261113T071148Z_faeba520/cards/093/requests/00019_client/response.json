@@ -1,0 +1,41 @@
+{
+  "id": "131f0b04abd34da7a7b298b5e36badbf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那句“我不想相亲”。每次想到这，脑子里就冒出他们失望的样子，然后就卡住了，说不下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是演练时卡住的那句话。每次想到要跟爸妈说“我不想相亲”，脑子里就会冒出他们失望的表情，然后那句话就堵在喉咙里。其实我真正怕的不是他们生气，而是那种“你怎么这么不懂事”的眼神，好像我做什么都是错的。）\n（也许可以先从最简单的开始，不用一次说太多。比如先告诉他们我最近状态不好，需要点时间，这样至少不用直接对抗相亲的事。这样想的话，好像没那么难开口了。）",
+        "reasoning": "（她问的是演练时卡住的那句话。每次想到要跟爸妈说“我不想相亲”，脑子里就会冒出他们失望的表情，然后那句话就堵在喉咙里。其实我真正怕的不是他们生气，而是那种“你怎么这么不懂事”的眼神，好像我做什么都是错的。）\n（也许可以先从最简单的开始，不用一次说太多。比如先告诉他们我最近状态不好，需要点时间，这样至少不用直接对抗相亲的事。这样想的话，好像没那么难开口了。）"
+      }
+    }
+  ],
+  "created": 1794558286,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2495,
+    "total_tokens": 2623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

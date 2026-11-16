@@ -1,0 +1,41 @@
+{
+  "id": "26e98e2d492a4c67b3ea728cf867db6c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……不敢面对吧。停下来以后，房间里特别静，我就得一个人待着，那种感觉我有点怕。其实说出来挺没出息的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺准的，好像一下戳到那个我一直没敢细想的地方。我确实不是舍不得，而是怕停下来之后那种空落落的感觉又回来，怕自己撑不住。）\n（可这种话平时根本说不出口，说出来就觉得自己太没用了。我犹豫了一下，还是想承认一点，但又不想显得太软弱，所以补了后面那句。）",
+        "reasoning": "（她问得挺准的，好像一下戳到那个我一直没敢细想的地方。我确实不是舍不得，而是怕停下来之后那种空落落的感觉又回来，怕自己撑不住。）\n（可这种话平时根本说不出口，说出来就觉得自己太没用了。我犹豫了一下，还是想承认一点，但又不想显得太软弱，所以补了后面那句。）"
+      }
+    }
+  ],
+  "created": 1794539557,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2153,
+    "total_tokens": 2266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

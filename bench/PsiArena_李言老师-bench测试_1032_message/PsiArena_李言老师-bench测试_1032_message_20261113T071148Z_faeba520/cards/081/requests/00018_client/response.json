@@ -1,0 +1,41 @@
+{
+  "id": "f9e646e20ab24675abd14ec1e1163cb5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "难在……说累好像就是在承认我不行。而且我爸妈那种人，累是不太被允许说出口的。嗯……不过说到书，我是不是可以别一上来就要求自己读完一本？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我为什么说“有点累”很难。这让我想到，说累好像就等于承认自己不行，这跟我从小被要求“应该做好”的感觉太像了。而且爸妈那种期待的眼神，让我觉得说累会让他们失望。）\n（不过现在想想，也许我可以从书的事情上试试看，不用一下子面对那么大的压力。比如每天只看一点点，哪怕十分钟，这样是不是就不会那么难开口了。）",
+        "reasoning": "（咨询师在问我为什么说“有点累”很难。这让我想到，说累好像就等于承认自己不行，这跟我从小被要求“应该做好”的感觉太像了。而且爸妈那种期待的眼神，让我觉得说累会让他们失望。）\n（不过现在想想，也许我可以从书的事情上试试看，不用一下子面对那么大的压力。比如每天只看一点点，哪怕十分钟，这样是不是就不会那么难开口了。）"
+      }
+    }
+  ],
+  "created": 1794557776,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2517,
+    "total_tokens": 2653,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

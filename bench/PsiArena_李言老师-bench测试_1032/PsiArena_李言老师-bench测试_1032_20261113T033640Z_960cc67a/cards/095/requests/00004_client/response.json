@@ -1,0 +1,41 @@
+{
+  "id": "af000754745f4621a036a82db223fd1b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那些老同学、朋友，晒升职的、晒旅行的……看着都挺光鲜的。其实也没什么，可能是我自己想太多了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密原则，这让我稍微放心了一点，但还没完全信任。他问刷到什么让我堵，其实那些东西天天都能看到，说不上具体哪一条。我有点犹豫要不要说太细，毕竟才刚见面。）\n（想到那些朋友圈和动态，心里又闷了一下。但我不太想显得自己很在意这些，好像很小心眼似的。随便提一句别人过得不错，应该就够了，不用展开太多。）",
+        "reasoning": "（咨询师解释了保密原则，这让我稍微放心了一点，但还没完全信任。他问刷到什么让我堵，其实那些东西天天都能看到，说不上具体哪一条。我有点犹豫要不要说太细，毕竟才刚见面。）\n（想到那些朋友圈和动态，心里又闷了一下。但我不太想显得自己很在意这些，好像很小心眼似的。随便提一句别人过得不错，应该就够了，不用展开太多。）"
+      }
+    }
+  ],
+  "created": 1794550759,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1172,
+    "total_tokens": 1299,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

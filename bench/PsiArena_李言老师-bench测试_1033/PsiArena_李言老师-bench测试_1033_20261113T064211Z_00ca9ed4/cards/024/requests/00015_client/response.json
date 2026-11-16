@@ -1,0 +1,41 @@
+{
+  "id": "9260102e1aba42728c491a2533d318f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈。她在奶奶面前也是这样，从来不争，只低头做事。我小时候觉得那是懂事，现在想想……唉，我怎么也活成了这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这条规矩最早从谁身上看出来，我一下子就想到了我妈。我妈在奶奶面前也是那样，从不争辩，只是默默做事。我一直以为那是懂事，现在想想，心里有点不是滋味。）\n（可说到一半，我又觉得有点丢人。都这么大的人了，还翻这些旧事出来，好像是在给自己找借口。但话已经出口了，收不回来，只能往下说。）",
+        "reasoning": "（她问我这条规矩最早从谁身上看出来，我一下子就想到了我妈。我妈在奶奶面前也是那样，从不争辩，只是默默做事。我一直以为那是懂事，现在想想，心里有点不是滋味。）\n（可说到一半，我又觉得有点丢人。都这么大的人了，还翻这些旧事出来，好像是在给自己找借口。但话已经出口了，收不回来，只能往下说。）"
+      }
+    }
+  ],
+  "created": 1794553170,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2367,
+    "total_tokens": 2487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

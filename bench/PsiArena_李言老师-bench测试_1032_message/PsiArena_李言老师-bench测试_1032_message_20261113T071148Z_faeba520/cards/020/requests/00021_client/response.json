@@ -1,0 +1,41 @@
+{
+  "id": "42e944a2b0a24ac29a99af039d6f18a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能先深呼吸吧，或者在心里提醒自己，我不是在吵架，只是在说我的想法。（犹豫）不过一个人真的很难稳住，有时候我会想，要是当时能有个地方让我停一下就好了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我紧张时怎么稳住自己，这让我稍微有了点方向。我平时一紧张就脑子空白，好像整个人都被压住了。）\n（我想起自己一个人待着的时候，反而能理清一点，也许可以先停一下再开口。可光靠这个好像还不够，心里还是没底，说出来又怕自己做不到。）",
+        "reasoning": "（咨询师问我紧张时怎么稳住自己，这让我稍微有了点方向。我平时一紧张就脑子空白，好像整个人都被压住了。）\n（我想起自己一个人待着的时候，反而能理清一点，也许可以先停一下再开口。可光靠这个好像还不够，心里还是没底，说出来又怕自己做不到。）"
+      }
+    }
+  ],
+  "created": 1794554875,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2974,
+    "total_tokens": 3091,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

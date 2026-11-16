@@ -1,0 +1,41 @@
+{
+  "id": "e74cc275c8b648cfa528a0a29d3b3fb5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“我最近有点不安”，这句更像我会说的，没那么凶。今天聊完，好像心里有点数了，谢谢你陪我理这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想怎么开口，怕我变成抱怨。其实她说的“我”开头确实更像我平时会说的话，我本来也不是那种爱指责的人，只是憋久了才发朋友圈。）\n（不过这么一捋，我好像没那么慌了。周末先烤东西，晚上再谈，心里有个数了。今天聊到这里，感觉比来的时候踏实多了。）",
+        "reasoning": "（咨询师在帮我想怎么开口，怕我变成抱怨。其实她说的“我”开头确实更像我平时会说的话，我本来也不是那种爱指责的人，只是憋久了才发朋友圈。）\n（不过这么一捋，我好像没那么慌了。周末先烤东西，晚上再谈，心里有个数了。今天聊到这里，感觉比来的时候踏实多了。）"
+      }
+    }
+  ],
+  "created": 1794555325,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3320,
+    "total_tokens": 3430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

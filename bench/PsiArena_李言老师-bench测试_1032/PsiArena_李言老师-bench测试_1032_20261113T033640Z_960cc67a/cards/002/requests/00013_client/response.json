@@ -1,0 +1,41 @@
+{
+  "id": "c1cedc3552ad477b8e4f958a2e53a1cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）应该是心里那个声音吧。周围再热闹，也是别人的事……但我心里那个声音，好像从小就有。我爸妈分开那会儿，我就老觉得是不是我不够好，所以他们才不要这个家了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最难受的是周围的热闹还是心里的声音……她好像一直在帮我把感受拆开来看。我得想想，其实周围再吵，如果心里不觉得是自己有问题，可能也不会那么难受。所以应该是那个声音更扎人吧。）\n（这让我想起小时候，爸妈离婚那阵子，家里总是很安静。我那时候就特别怕一个人待着，总觉得是自己哪里不够好，他们才不要彼此了。这种念头好像一直跟着我，遇到朋友的事就又冒出来了。）",
+        "reasoning": "（咨询师在问我最难受的是周围的热闹还是心里的声音……她好像一直在帮我把感受拆开来看。我得想想，其实周围再吵，如果心里不觉得是自己有问题，可能也不会那么难受。所以应该是那个声音更扎人吧。）\n（这让我想起小时候，爸妈离婚那阵子，家里总是很安静。我那时候就特别怕一个人待着，总觉得是自己哪里不够好，他们才不要彼此了。这种念头好像一直跟着我，遇到朋友的事就又冒出来了。）"
+      }
+    }
+  ],
+  "created": 1794541094,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2139,
+    "total_tokens": 2293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

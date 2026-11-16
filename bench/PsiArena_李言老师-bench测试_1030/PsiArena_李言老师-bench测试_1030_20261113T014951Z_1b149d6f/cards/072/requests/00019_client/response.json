@@ -1,0 +1,41 @@
+{
+  "id": "b2cc4ac242314fffb5c9a7ee9aa2b3d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怎么对自己说话……我以前肯定是骂自己。要不……试着说一句“就几个罐子，扔了就扔了”？虽然说着还有点别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我后悔时怎么对自己说话，这其实是在帮我把那个苛责的声音和真正的自己分开。以前我只会跟着那个声音一起骂自己，现在好像能稍微退一步了。）\n（我想试试用不那么狠的话，可一时又找不准词。说“扔了就扔了”太硬，说“没关系”又太轻。也许可以提醒自己，这几个罐子本来也不算真有用处，这样心里能松一点。）",
+        "reasoning": "（咨询师在问我后悔时怎么对自己说话，这其实是在帮我把那个苛责的声音和真正的自己分开。以前我只会跟着那个声音一起骂自己，现在好像能稍微退一步了。）\n（我想试试用不那么狠的话，可一时又找不准词。说“扔了就扔了”太硬，说“没关系”又太轻。也许可以提醒自己，这几个罐子本来也不算真有用处，这样心里能松一点。）"
+      }
+    }
+  ],
+  "created": 1794538590,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3010,
+    "total_tokens": 3138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

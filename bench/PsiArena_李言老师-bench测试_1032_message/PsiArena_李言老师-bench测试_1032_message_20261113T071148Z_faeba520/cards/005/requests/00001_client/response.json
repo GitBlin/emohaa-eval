@@ -1,0 +1,41 @@
+{
+  "id": "71cfbad52d7d4288b9e7919b57bf0608",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好……嗯，其实我不太确定自己到底需不需要咨询，就是最近总觉得很累。你们这边一般是怎么开始的？会问很多问题吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师做了自我介绍，语气挺温和的。但我第一次来这种地方，还是有点不放心，得先弄清楚他们到底怎么工作。毕竟我连自己到底怎么回事都说不清，万一白花钱白费时间呢。）\n（作为来访者，我习惯先观察对方靠不靠谱，尤其这种涉及隐私的谈话。虽然家里人总说要主动沟通，可面对陌生人还是得留个心眼。先问问流程和保密性吧，看看对方是不是专业，也给自己一点安全感。）\n（好了，现在就像这样试探性地问问咨询师吧。）",
+        "reasoning": "（刚才咨询师做了自我介绍，语气挺温和的。但我第一次来这种地方，还是有点不放心，得先弄清楚他们到底怎么工作。毕竟我连自己到底怎么回事都说不清，万一白花钱白费时间呢。）\n（作为来访者，我习惯先观察对方靠不靠谱，尤其这种涉及隐私的谈话。虽然家里人总说要主动沟通，可面对陌生人还是得留个心眼。先问问流程和保密性吧，看看对方是不是专业，也给自己一点安全感。）\n（好了，现在就像这样试探性地问问咨询师吧。）"
+      }
+    }
+  ],
+  "created": 1794554070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 886,
+    "total_tokens": 1037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

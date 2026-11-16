@@ -1,0 +1,41 @@
+{
+  "id": "7afba3d892174c1ca1fc949bb0360845",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最难受的是……我好像一直在原地打转，想走又舍不得，想留又怕受伤。连我自己都烦自己这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才回应得挺温和，没有急着解释或评判，让我觉得可以稍微松一点。可一想到要说出最难受的部分，心里又堵得慌，好像说出来就会承认自己真的撑不住了。）\n（我其实最难受的是反复纠结，想留下又怕受伤，想离开又舍不得。这种来回拉扯让我觉得自己很没用，连个决定都做不了。）",
+        "reasoning": "（咨询师刚才回应得挺温和，没有急着解释或评判，让我觉得可以稍微松一点。可一想到要说出最难受的部分，心里又堵得慌，好像说出来就会承认自己真的撑不住了。）\n（我其实最难受的是反复纠结，想留下又怕受伤，想离开又舍不得。这种来回拉扯让我觉得自己很没用，连个决定都做不了。）"
+      }
+    }
+  ],
+  "created": 1794541865,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2917,
+    "total_tokens": 3028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

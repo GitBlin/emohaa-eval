@@ -1,0 +1,41 @@
+{
+  "id": "41b473860b7142f7bfd7c9f8a3f23342",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点闷）我会觉得……说了也白说，以后就不想再说了。好像在他们眼里，小孩的事都不算事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是如果爸妈真这么回我，我心里会冒出什么。我得想想，以前好像也这样过。那种感觉就是说了也白说，他们觉得小孩子的事不算什么。我可能就不想再说了，反正说了也没用，还会觉得自己更没用。）\n（其实我特别希望有人能认真听我说，别急着告诉我该怎么做。但好像每次都是这样，大人们总觉得忍一忍就过去了。我是不是真的不该说这些，给他们添麻烦。）",
+        "reasoning": "（他问的是如果爸妈真这么回我，我心里会冒出什么。我得想想，以前好像也这样过。那种感觉就是说了也白说，他们觉得小孩子的事不算什么。我可能就不想再说了，反正说了也没用，还会觉得自己更没用。）\n（其实我特别希望有人能认真听我说，别急着告诉我该怎么做。但好像每次都是这样，大人们总觉得忍一忍就过去了。我是不是真的不该说这些，给他们添麻烦。）"
+      }
+    }
+  ],
+  "created": 1794534832,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1865,
+    "total_tokens": 1994,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

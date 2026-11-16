@@ -1,0 +1,41 @@
+{
+  "id": "27c246f2c082408fafa52d991720687e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是我室友……她那天翻我放东西的袋子，我就站旁边，突然很怕她觉得我乱。后来眼霜不见了，我第一反应就是是不是我帮她清东西时一起弄没了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次出现紧绷感时身边是谁，这让我立刻想到室友。她翻动袋子的时候，那种被盯着的感觉又回来了。我有点犹豫要不要说，毕竟这是私事，但既然已经聊到这儿，还是试着提一下。）\n（我心里其实很矛盾，一方面觉得室友可能没恶意，另一方面又忍不住把眼霜不见的事怪到自己头上。这种反复纠结让我很累，说出来也许能理清一点。）",
+        "reasoning": "（咨询师在问我最近一次出现紧绷感时身边是谁，这让我立刻想到室友。她翻动袋子的时候，那种被盯着的感觉又回来了。我有点犹豫要不要说，毕竟这是私事，但既然已经聊到这儿，还是试着提一下。）\n（我心里其实很矛盾，一方面觉得室友可能没恶意，另一方面又忍不住把眼霜不见的事怪到自己头上。这种反复纠结让我很累，说出来也许能理清一点。）"
+      }
+    }
+  ],
+  "created": 1794550722,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1953,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

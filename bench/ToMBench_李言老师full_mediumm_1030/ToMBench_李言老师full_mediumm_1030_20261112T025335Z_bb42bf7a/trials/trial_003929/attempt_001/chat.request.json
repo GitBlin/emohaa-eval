@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:59:25.244847+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMr. Zhang is a scientist who enjoys a high reputation in the academic world and is famous for his breakthrough research in the field of biotechnology. At an academic conference, someone asks Mr. Zhang if he is conducting a secret research project. Mr. Zhang replies that he is completely focused on publicly published projects and does not conduct any secret research. He also mentions that transparency and openness are important principles of his research work. In fact, Mr. Zhang is conducting a highly confidential government-funded project.\n\n[Question]\nWhy does Mr. Zhang say this?\n\n[Candidate Answers]\nA. Mr. Zhang says this because he needs to hide the highly confidential government-funded project he is conducting to protect the safety and confidentiality of the project.\nB. Mr. Zhang is dissatisfied with the current research direction, and he says this to divert the attention of his peers and cover up his career setbacks.\nC. Mr. Zhang says this because he is indeed only conducting publicly published projects and does not conduct any secret research.\nD. Mr. Zhang recently experiences a career crisis, and he says this to avoid attracting more attention and suspicion.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

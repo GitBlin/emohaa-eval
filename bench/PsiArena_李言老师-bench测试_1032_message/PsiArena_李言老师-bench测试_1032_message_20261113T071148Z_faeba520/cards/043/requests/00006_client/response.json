@@ -1,0 +1,41 @@
+{
+  "id": "8506322c05b64317baf66c3ee2f1c026",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最难受的……可能是我同桌吧。她考得挺好的，然后就……哎，我也说不好，就是感觉她对我有点冷淡。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我除了分数还难受什么……其实我本来不想说得太细。但她好像真的在听，没有急着给建议。）\n（我想到同桌，心里就堵得慌。她考得好，我其实不嫉妒，就是那种被落下的感觉。说出来会不会显得我很小气？可憋着更难受。）",
+        "reasoning": "（她问我除了分数还难受什么……其实我本来不想说得太细。但她好像真的在听，没有急着给建议。）\n（我想到同桌，心里就堵得慌。她考得好，我其实不嫉妒，就是那种被落下的感觉。说出来会不会显得我很小气？可憋着更难受。）"
+      }
+    }
+  ],
+  "created": 1794555726,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1435,
+    "total_tokens": 1534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

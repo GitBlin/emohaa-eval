@@ -1,0 +1,41 @@
+{
+  "id": "e78c4c0034934322ac200e837d48bbca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "只在意“我开始了”……听起来好像轻松点。但又觉得，这算什么成就啊，说出来都怕被人笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没有继续逼我，反而把这十分钟说成是“迈过去”。我心里稍微松了一点，但还是会怀疑，只在意“我开始了”是不是有点自欺欺人。可如果真能不那么在意结果，也许就没那么难开头了。）\n（不过这种想法一出来，我又会想到爸妈和同事，怕他们觉得我连十分钟也要拿来当成就。这种感觉挺别扭的，好像我连放松一下都要先证明自己。）",
+        "reasoning": "（她好像没有继续逼我，反而把这十分钟说成是“迈过去”。我心里稍微松了一点，但还是会怀疑，只在意“我开始了”是不是有点自欺欺人。可如果真能不那么在意结果，也许就没那么难开头了。）\n（不过这种想法一出来，我又会想到爸妈和同事，怕他们觉得我连十分钟也要拿来当成就。这种感觉挺别扭的，好像我连放松一下都要先证明自己。）"
+      }
+    }
+  ],
+  "created": 1794556218,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2093,
+    "total_tokens": 2216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

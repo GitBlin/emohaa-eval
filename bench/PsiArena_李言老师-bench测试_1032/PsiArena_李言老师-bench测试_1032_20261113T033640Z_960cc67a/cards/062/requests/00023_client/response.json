@@ -1,0 +1,41 @@
+{
+  "id": "8f6d52c2211640e7a7b7da2dcf11ec4b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身体原因……医生也建议休息。可我怕照实说，领导又觉得我矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到具体怎么跟领导开口，还问我请假的原因，这让我感觉有点被推着走。我本来只是先做完报表再说，现在却要直接面对请假的事，心里有点打鼓。）\n（但我也清楚，身体确实撑不住了，医生也建议休息。可要是照实说身体原因，领导会不会觉得我矫情？家里那边又该怎么交代……唉，越想越乱，先别把话说太满吧。）",
+        "reasoning": "（咨询师提到具体怎么跟领导开口，还问我请假的原因，这让我感觉有点被推着走。我本来只是先做完报表再说，现在却要直接面对请假的事，心里有点打鼓。）\n（但我也清楚，身体确实撑不住了，医生也建议休息。可要是照实说身体原因，领导会不会觉得我矫情？家里那边又该怎么交代……唉，越想越乱，先别把话说太满吧。）"
+      }
+    }
+  ],
+  "created": 1794544314,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3090,
+    "total_tokens": 3208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

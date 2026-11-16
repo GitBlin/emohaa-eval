@@ -1,0 +1,41 @@
+{
+  "id": "803c7f4c3c2644799c7b100e4092c0bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）不太愿意。可让它闭嘴，我又有点不知道该怎么跟自己说话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这话戳到我了。那个声音确实一直在替我说，我好像从来没想过它有没有资格。但真要让它闭嘴，我又有点慌，好像没了它我连判断都不会了。可一直这样下去，我连去医院都不敢迈出那一步。）\n（也许我该试着分辨一下，哪些话是我自己真心想的，哪些只是习惯性地在重复我爸的语气。这个念头让我有点不踏实，但好像也是时候了。）",
+        "reasoning": "（咨询师这话戳到我了。那个声音确实一直在替我说，我好像从来没想过它有没有资格。但真要让它闭嘴，我又有点慌，好像没了它我连判断都不会了。可一直这样下去，我连去医院都不敢迈出那一步。）\n（也许我该试着分辨一下，哪些话是我自己真心想的，哪些只是习惯性地在重复我爸的语气。这个念头让我有点不踏实，但好像也是时候了。）"
+      }
+    }
+  ],
+  "created": 1794539274,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2716,
+    "total_tokens": 2827,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "06c3dd52541f43d7848459137a798637",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最容易卡住的……可能就是结束的时候，我肯定会忍不住评价自己。嗯，不过十分钟好像也没那么吓人，我可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我做一件不评价自己的事，听起来简单，可对我来说最难的就是不评价。我肯定会忍不住想这十分钟是不是又浪费了，然后开始自责。不过她这么问，应该是想让我提前想到困难，不是要逼我。）\n（也许我可以试着把看小说也当成这十分钟里的事，而不是等看完再后悔。但说实话，我不太确定自己能不能做到不评价，可能得先试试看，卡住了再说。）",
+        "reasoning": "（她让我做一件不评价自己的事，听起来简单，可对我来说最难的就是不评价。我肯定会忍不住想这十分钟是不是又浪费了，然后开始自责。不过她这么问，应该是想让我提前想到困难，不是要逼我。）\n（也许我可以试着把看小说也当成这十分钟里的事，而不是等看完再后悔。但说实话，我不太确定自己能不能做到不评价，可能得先试试看，卡住了再说。）"
+      }
+    }
+  ],
+  "created": 1794540435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2806,
+    "total_tokens": 2929,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

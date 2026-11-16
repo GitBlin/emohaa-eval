@@ -1,0 +1,41 @@
+{
+  "id": "4cc885f5f1404ed189f9bfa06bf81445",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实是希望他们知道，我不是在闹情绪，我是认真在说学生的事。可说着说着就变成那样，我也很气自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最希望同事听懂哪一点……这让我想起那次教研会，其实我提的意见是关于学生情绪管理的，但说着说着就控制不住声音发抖。同事那句“别那么敏感”让我特别难受，好像我认真表达反而成了缺点。）\n（我家里一直鼓励说感受，可到了工作里，好像情绪一露出来就会被贴上标签。这种矛盾让我很困惑，有时候甚至怀疑是不是自己真的有问题。但仔细想想，我提意见的时候是真心想帮忙，不是想闹情绪。）",
+        "reasoning": "（她问我最希望同事听懂哪一点……这让我想起那次教研会，其实我提的意见是关于学生情绪管理的，但说着说着就控制不住声音发抖。同事那句“别那么敏感”让我特别难受，好像我认真表达反而成了缺点。）\n（我家里一直鼓励说感受，可到了工作里，好像情绪一露出来就会被贴上标签。这种矛盾让我很困惑，有时候甚至怀疑是不是自己真的有问题。但仔细想想，我提意见的时候是真心想帮忙，不是想闹情绪。）"
+      }
+    }
+  ],
+  "created": 1794543472,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2065,
+    "total_tokens": 2205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

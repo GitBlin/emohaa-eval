@@ -1,0 +1,41 @@
+{
+  "id": "b4f140cee07e437294872fd7118b546e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）上周赶稿的时候吧。手抖得鼠标都点不准，我还以为是没睡好。现在想想，好像不只是没睡好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次身体提醒是什么时候……我其实记得很清楚，就是上周赶稿那会儿。手抖得厉害，可当时只想着怎么把稿子改完，根本没停下来。现在想想，好像每次都是这样，身体先扛不住了，我才后知后觉。也许我该试着把这件事说出来，看看她怎么回应。）",
+        "reasoning": "（她问我最近一次身体提醒是什么时候……我其实记得很清楚，就是上周赶稿那会儿。手抖得厉害，可当时只想着怎么把稿子改完，根本没停下来。现在想想，好像每次都是这样，身体先扛不住了，我才后知后觉。也许我该试着把这件事说出来，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794537044,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3322,
+    "total_tokens": 3429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

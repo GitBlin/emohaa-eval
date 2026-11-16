@@ -1,0 +1,41 @@
+{
+  "id": "d13efc0e6c6842aea37e243a6160bc33",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……我大学一个室友，在她面前我说话挺随意的，不太怕说错。不过也可能是因为她离我的生活远，不怎么掺和我的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有一个人面前我不用先过那一关……让我想想。好像真的有那么一个人，大学室友，她从来不给我打分，我说什么她都接着。可我又觉得，那是不是只是因为她离我远，不掺和我的事。）\n（这么一想，我有点不确定了。也许不是我的问题，是场合的问题？可如果只是场合，那我是不是又回到原点了。我想把这个矛盾说出来，让她帮我理一理。）",
+        "reasoning": "（她问有没有一个人面前我不用先过那一关……让我想想。好像真的有那么一个人，大学室友，她从来不给我打分，我说什么她都接着。可我又觉得，那是不是只是因为她离我远，不掺和我的事。）\n（这么一想，我有点不确定了。也许不是我的问题，是场合的问题？可如果只是场合，那我是不是又回到原点了。我想把这个矛盾说出来，让她帮我理一理。）"
+      }
+    }
+  ],
+  "created": 1794538585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3206,
+    "total_tokens": 3337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

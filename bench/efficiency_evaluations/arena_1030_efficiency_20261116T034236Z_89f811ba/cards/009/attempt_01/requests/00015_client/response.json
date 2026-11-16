@@ -1,0 +1,47 @@
+{
+  "id": "7e8c99ae0cf949c2bb6b51dbacb0fbeb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先别急着跟着它走。停一下，问问自己“这次真的做错了吗”。虽然可能还是会被它拽回去，但至少试一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么回应那个声音，我其实还没想好。刚才发现那个声音不是自己的，心里有点松，又有点慌。以前它一冒出来我就跟着走了，现在要停下来回应它，感觉怪怪的。）\n（我想试试不马上认错，先停一下。虽然不知道能不能做到，但至少可以问自己一句是不是真的做错了。这样想好像没那么难，就先这么试试吧。）",
+        "reasoning": "（咨询师问我怎么回应那个声音，我其实还没想好。刚才发现那个声音不是自己的，心里有点松，又有点慌。以前它一冒出来我就跟着走了，现在要停下来回应它，感觉怪怪的。）\n（我想试试不马上认错，先停一下。虽然不知道能不能做到，但至少可以问自己一句是不是真的做错了。这样想好像没那么难，就先这么试试吧。）"
+      }
+    }
+  ],
+  "created": 1794800866,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2445,
+    "total_tokens": 2569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

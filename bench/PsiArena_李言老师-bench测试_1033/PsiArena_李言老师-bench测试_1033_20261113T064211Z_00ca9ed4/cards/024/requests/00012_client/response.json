@@ -1,0 +1,41 @@
+{
+  "id": "8db6a3751ee54fbbb948b8e18443d443",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那天吵架，是我不敢说。我其实有一堆话，可一想到说了她会更来劲，我就……咽回去了。可咽回去又难受，觉得说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次憋住的时候，心里更接近哪一种。我一下子想到那天跟婆婆吵架，明明有话却说不出来，那肯定不是没话说，是怕说了更糟。可我又觉得，就算说了，她也不会听，说了又有什么用呢。）\n（这种念头一冒出来，我自己都觉得有点泄气。好像我早就认定了，说了也没用，所以干脆不说。这大概就是我一直以来的老毛病吧。）",
+        "reasoning": "（她问的是最近一次憋住的时候，心里更接近哪一种。我一下子想到那天跟婆婆吵架，明明有话却说不出来，那肯定不是没话说，是怕说了更糟。可我又觉得，就算说了，她也不会听，说了又有什么用呢。）\n（这种念头一冒出来，我自己都觉得有点泄气。好像我早就认定了，说了也没用，所以干脆不说。这大概就是我一直以来的老毛病吧。）"
+      }
+    }
+  ],
+  "created": 1794553159,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2030,
+    "total_tokens": 2162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

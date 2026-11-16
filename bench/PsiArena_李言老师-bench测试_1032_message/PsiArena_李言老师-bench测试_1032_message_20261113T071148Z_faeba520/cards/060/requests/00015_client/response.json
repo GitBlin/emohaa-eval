@@ -1,0 +1,41 @@
+{
+  "id": "ba92657a64bc47f08b64feb76b0a2cf2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "脑子停不下来，翻来覆去地想以前的事。（停顿）越想越烦，越烦越睡不着，就那样熬着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，是注意到我晚上一个人待着的时候最难熬吧。确实，白天还能用作业和上课把那些感觉压下去，一到晚上，安静下来，什么都冒出来了。）\n（我其实不太想细说晚上那些时候，但又觉得他好像真的在听。脑子停不下来，想的都是些过去的事，越想越烦，越烦越睡不着，像个死循环。说出来可能也没用，但至少不用一个人闷着。）",
+        "reasoning": "（他这么问，是注意到我晚上一个人待着的时候最难熬吧。确实，白天还能用作业和上课把那些感觉压下去，一到晚上，安静下来，什么都冒出来了。）\n（我其实不太想细说晚上那些时候，但又觉得他好像真的在听。脑子停不下来，想的都是些过去的事，越想越烦，越烦越睡不着，像个死循环。说出来可能也没用，但至少不用一个人闷着。）"
+      }
+    }
+  ],
+  "created": 1794556653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2267,
+    "total_tokens": 2392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a6dad24a3cd140d89c5148cb986ffedd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像还行吧……就是有点刻意。不过比什么都不说强，我可能太紧张了，其实问作业挺正常的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师是在帮我练习怎么接话，想让我觉得自然一点。可我还是有点担心，这样问会不会显得太刻意，好像我故意找话说。）\n（不过想想，比起什么都不说，这样至少是个开始。而且用问作业当借口，应该不会太奇怪吧。我可能还是太紧张了，其实别人问作业挺正常的事。）",
+        "reasoning": "（咨询师是在帮我练习怎么接话，想让我觉得自然一点。可我还是有点担心，这样问会不会显得太刻意，好像我故意找话说。）\n（不过想想，比起什么都不说，这样至少是个开始。而且用问作业当借口，应该不会太奇怪吧。我可能还是太紧张了，其实别人问作业挺正常的事。）"
+      }
+    }
+  ],
+  "created": 1794551640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2570,
+    "total_tokens": 2673,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

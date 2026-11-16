@@ -1,0 +1,41 @@
+{
+  "id": "9186d49986ca457f95d3c9392fec9dbe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点像我妈说话的口气，又有点像老师。……但说久了，好像也变成我自己的声音了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个声音像谁的，我一下子想到爸妈说话的样子，还有老师同学的那种眼神。可我不想直接说就是他们，那样好像我在怪他们，其实我也知道他们是为我好。）\n（但要是只说是我自己的，又觉得不完全是。那种“不行”的感觉，好像早就混在一起分不清了。也许可以试着告诉她，有时候像别人的，有时候又像自己长出来的。）",
+        "reasoning": "（她问这个声音像谁的，我一下子想到爸妈说话的样子，还有老师同学的那种眼神。可我不想直接说就是他们，那样好像我在怪他们，其实我也知道他们是为我好。）\n（但要是只说是我自己的，又觉得不完全是。那种“不行”的感觉，好像早就混在一起分不清了。也许可以试着告诉她，有时候像别人的，有时候又像自己长出来的。）"
+      }
+    }
+  ],
+  "created": 1794537435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2664,
+    "total_tokens": 2771,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

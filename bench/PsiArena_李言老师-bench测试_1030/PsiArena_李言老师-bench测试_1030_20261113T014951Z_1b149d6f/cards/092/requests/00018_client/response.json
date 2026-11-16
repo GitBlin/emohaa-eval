@@ -1,0 +1,41 @@
+{
+  "id": "29bfa3d01c184da9b50e6c2868e69087",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是晚上在宿舍，她没那么忙的时候，或者一起散步的时候吧。那种时候说话没那么正式，我也没那么紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算挑什么时机，我脑子里一下冒出好几个场景，但又觉得每个都不太对。晚上在宿舍，她可能在忙，或者戴着耳机，我要是突然说那种话，她会不会觉得我怪怪的。）\n（不过散步的时候好像确实轻松点，不用面对面盯着，说出口也没那么难。我可以试着这么提一句，但说完还是有点不放心，怕她真的觉得奇怪。）",
+        "reasoning": "（咨询师问我打算挑什么时机，我脑子里一下冒出好几个场景，但又觉得每个都不太对。晚上在宿舍，她可能在忙，或者戴着耳机，我要是突然说那种话，她会不会觉得我怪怪的。）\n（不过散步的时候好像确实轻松点，不用面对面盯着，说出口也没那么难。我可以试着这么提一句，但说完还是有点不放心，怕她真的觉得奇怪。）"
+      }
+    }
+  ],
+  "created": 1794539954,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2956,
+    "total_tokens": 3071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

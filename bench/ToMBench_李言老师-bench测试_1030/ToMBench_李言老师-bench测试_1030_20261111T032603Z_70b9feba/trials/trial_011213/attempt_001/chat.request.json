@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:54.642329+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn a sunny weekend afternoon, Xiao Ming and his family decide to spend a pleasant time in a theme park. This theme park is themed with classic fairy tales and animated characters, and there are all kinds of costumes and performances inside. When they enter the park, Xiao Ming is attracted by a knight in golden armor. He looks very realistic, almost like he comes out of a storybook. Xiao Ming excitedly rushes to the knight and asks in surprise: \"Are you a real knight?\" The knight smiles and answers: \"Yes, I am a real knight, here to protect everyone in this park.\" Xiao Ming feels very excited, he can't wait to take a photo with this real knight. His family also joins this lively scene, they take a lot of photos.\n\n[Question]\nWhy does the park's 'knight' say this?\n\n[Candidate Answers]\nA. The 'knight' is actually a historian, he shares knowledge about medieval knights here.\nB. The 'knight' is a real knight, needs to protect everyone in the park.\nC. The real identity of the 'knight' is a security guard, he enforces the law in the park and ensures the safety of visitors.\nD. The 'knight' is a professional actor who plays, his task is to make visitors feel happy and believe he is a real knight.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

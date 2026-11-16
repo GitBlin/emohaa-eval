@@ -1,0 +1,41 @@
+{
+  "id": "90cf158718d342c6b6acc2914dbddbf0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……有一点点。肩膀没那么紧了。不过一放松，又有点空落落的，不太习惯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我试着放松肩膀……这种身体上的感觉其实挺陌生的，平时根本不会注意。不过刚才呼了口气，好像真的没那么紧了。也许她说得对，我绷得太久了。）\n（但是要我说接下来怎么办，我脑子里还是乱的。光放松一下，那些事也不会自己消失。不过至少现在没那么堵得慌了，能想想别的了。）",
+        "reasoning": "（她让我试着放松肩膀……这种身体上的感觉其实挺陌生的，平时根本不会注意。不过刚才呼了口气，好像真的没那么紧了。也许她说得对，我绷得太久了。）\n（但是要我说接下来怎么办，我脑子里还是乱的。光放松一下，那些事也不会自己消失。不过至少现在没那么堵得慌了，能想想别的了。）"
+      }
+    }
+  ],
+  "created": 1794537256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3142,
+    "total_tokens": 3241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

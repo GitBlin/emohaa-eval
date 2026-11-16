@@ -1,0 +1,41 @@
+{
+  "id": "0903e85082dd42efa740bc6fa014d0cf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……有点慌，还有点……内疚。好像我想交朋友这件事本身就是错的，是我不够用功。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那个声音响起时的感受，这让我想到每次想跟同学说话时心里那种紧张。其实那个声音一出来，我整个人就缩回去了，好像做什么都是错的。）\n（家里爸妈总说学习最重要，别的都是浪费时间。我好像也慢慢觉得，想交朋友这个念头本身就是不对的，是我不够努力。这种感觉……有点丢人，但又确实是这么想的。）",
+        "reasoning": "（咨询师在问我那个声音响起时的感受，这让我想到每次想跟同学说话时心里那种紧张。其实那个声音一出来，我整个人就缩回去了，好像做什么都是错的。）\n（家里爸妈总说学习最重要，别的都是浪费时间。我好像也慢慢觉得，想交朋友这个念头本身就是不对的，是我不够努力。这种感觉……有点丢人，但又确实是这么想的。）"
+      }
+    }
+  ],
+  "created": 1794553947,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1728,
+    "total_tokens": 1838,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

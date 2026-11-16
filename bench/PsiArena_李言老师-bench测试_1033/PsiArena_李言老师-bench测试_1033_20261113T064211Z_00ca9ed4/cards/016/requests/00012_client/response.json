@@ -1,0 +1,41 @@
+{
+  "id": "618d0fa6d6b34a4787fa9ea95b455fb7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）他手机……最近老是背着我妈接电话，回家的时间也不太对。就这些，说出来好像也没什么大不了的，可我心里就是不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最放不下的细节，这让我有点犹豫。她好像真的在认真听，不是敷衍。可我说出来，会不会显得我在背后说我爸的坏话？）\n（家里的事本来不该对外人讲，可这些细节压在心里太久了。手机、回家晚，这些事单独看都不算什么，可连在一起就让我心里发慌。我是不是太在意了？但不说出来，我又憋得难受。）",
+        "reasoning": "（咨询师在问我最放不下的细节，这让我有点犹豫。她好像真的在认真听，不是敷衍。可我说出来，会不会显得我在背后说我爸的坏话？）\n（家里的事本来不该对外人讲，可这些细节压在心里太久了。手机、回家晚，这些事单独看都不算什么，可连在一起就让我心里发慌。我是不是太在意了？但不说出来，我又憋得难受。）"
+      }
+    }
+  ],
+  "created": 1794552776,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2028,
+    "total_tokens": 2157,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

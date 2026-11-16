@@ -1,0 +1,41 @@
+{
+  "id": "7694fab400c34ea6afee1432f8017b7e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……保密就好。家里的事，其实……唉，有点乱。就是我妈身体不太好，情绪也时好时坏的，我有时候会担心她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来挺专业的，还主动解释了保密原则。不过我还是有点担心，毕竟家里的事……要是传出去可怎么办。但他说不会随便告诉别人，应该可以信吧？）\n（说到家里的事……唉，其实我也不太想提。但既然都坐在这里了，总得说点什么。母亲的情况确实让我很困扰，可具体细节还是说不出口。先含糊地说说看好了，看看他什么反应。）",
+        "reasoning": "（这个咨询师看起来挺专业的，还主动解释了保密原则。不过我还是有点担心，毕竟家里的事……要是传出去可怎么办。但他说不会随便告诉别人，应该可以信吧？）\n（说到家里的事……唉，其实我也不太想提。但既然都坐在这里了，总得说点什么。母亲的情况确实让我很困扰，可具体细节还是说不出口。先含糊地说说看好了，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1794544610,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1264,
+    "total_tokens": 1392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

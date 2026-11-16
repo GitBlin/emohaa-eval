@@ -1,0 +1,41 @@
+{
+  "id": "73fa49072dd4471dbfdd601ec543edbf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "领导吧。尤其对方声音一大，我明明没做错什么，也会先想道歉。可回家我又会气自己，怎么这么怂。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最明显是在跟谁说话时，我一下子想到领导。那种想反驳又不敢的感觉，跟面对我爸时太像了。可我又不想承认自己连工作场合都这么怂，心里有点别扭。）\n（也许可以稍微提一下领导，但别把话说得太重。毕竟现在还在试探咨询师会不会理解这种恐惧，而不是觉得我小题大做。）",
+        "reasoning": "（咨询师在问我最明显是在跟谁说话时，我一下子想到领导。那种想反驳又不敢的感觉，跟面对我爸时太像了。可我又不想承认自己连工作场合都这么怂，心里有点别扭。）\n（也许可以稍微提一下领导，但别把话说得太重。毕竟现在还在试探咨询师会不会理解这种恐惧，而不是觉得我小题大做。）"
+      }
+    }
+  ],
+  "created": 1794542223,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2085,
+    "total_tokens": 2200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

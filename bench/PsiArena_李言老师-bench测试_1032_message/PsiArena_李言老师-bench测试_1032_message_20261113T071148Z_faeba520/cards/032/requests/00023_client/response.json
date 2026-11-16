@@ -1,0 +1,41 @@
+{
+  "id": "847965acdefb4472b2e96ed93a4d2a9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先烤东西，白天做点自己的事，晚上再跟他谈。这样就算谈得不好，白天至少还有点开心的。你觉得这样安排行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她愿意听我说烤东西的事，感觉心里踏实了一点。周末两件事挤在一起确实有点乱，我得先理清楚顺序。先烤东西吧，做点自己的事，心里有底了再去谈那件事，不然一整天都在等，太煎熬了。）\n（不过还是有点担心，万一谈崩了，我还能不能好好烤东西。但至少现在我知道可以找朋友聊聊，也可以出去走走，不会像以前那样全塌下来。）",
+        "reasoning": "（她愿意听我说烤东西的事，感觉心里踏实了一点。周末两件事挤在一起确实有点乱，我得先理清楚顺序。先烤东西吧，做点自己的事，心里有底了再去谈那件事，不然一整天都在等，太煎熬了。）\n（不过还是有点担心，万一谈崩了，我还能不能好好烤东西。但至少现在我知道可以找朋友聊聊，也可以出去走走，不会像以前那样全塌下来。）"
+      }
+    }
+  ],
+  "created": 1794555318,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3125,
+    "total_tokens": 3257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

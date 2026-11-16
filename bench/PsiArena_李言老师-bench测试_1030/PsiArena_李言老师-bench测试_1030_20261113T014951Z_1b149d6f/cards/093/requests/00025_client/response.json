@@ -1,0 +1,41 @@
+{
+  "id": "9775d5d9315f42b186d9f8417105fe43",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "端杯水吧，我平时紧张也爱喝水。……这么一说，好像没那么难了，至少有个能做的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我哪个动作最自然，这让我稍微松了口气。之前一直在说重复那句话、别急着解释，现在有个具体的小动作可以抓，感觉没那么空。）\n（我想了想，端水可能太刻意，深吸一口气比较不显眼，我妈应该不会盯着我呼吸。而且吸气那一下，确实能让我稍微缓一缓，不至于脑子一片空白就乱答。）",
+        "reasoning": "（咨询师问我哪个动作最自然，这让我稍微松了口气。之前一直在说重复那句话、别急着解释，现在有个具体的小动作可以抓，感觉没那么空。）\n（我想了想，端水可能太刻意，深吸一口气比较不显眼，我妈应该不会盯着我呼吸。而且吸气那一下，确实能让我稍微缓一缓，不至于脑子一片空白就乱答。）"
+      }
+    }
+  ],
+  "created": 1794540003,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3512,
+    "total_tokens": 3622,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

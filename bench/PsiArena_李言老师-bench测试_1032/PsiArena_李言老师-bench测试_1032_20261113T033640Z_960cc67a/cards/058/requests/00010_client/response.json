@@ -1,0 +1,41 @@
+{
+  "id": "103e90f448b44cf3aee3de7c71efb371",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周开会，我提了个想法，没人接话，过了几秒大家就聊别的了。我当时脸都热了，后来还反复想是不是我说得太蠢……其实也知道他们可能只是没注意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我回忆最近一次被忽略的场景……这让我想起上周开会时自己说话没人接的样子。其实我本来不想提的，但既然她问了，也许说出来会好受点？）\n（可是说完之后又有点后悔，觉得自己是不是太计较了。同事可能只是没注意，我却记这么久。这种反复琢磨的毛病，连我自己都觉得烦。）",
+        "reasoning": "（她让我回忆最近一次被忽略的场景……这让我想起上周开会时自己说话没人接的样子。其实我本来不想提的，但既然她问了，也许说出来会好受点？）\n（可是说完之后又有点后悔，觉得自己是不是太计较了。同事可能只是没注意，我却记这么久。这种反复琢磨的毛病，连我自己都觉得烦。）"
+      }
+    }
+  ],
+  "created": 1794544034,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1837,
+    "total_tokens": 1960,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

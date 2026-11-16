@@ -1,0 +1,41 @@
+{
+  "id": "f6181c1003fe4e7fb84cd2194a2940af",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺久了吧……可能从我妈第一次发病那会儿就开始了。那时候我刚工作，就特别怕别人知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到这种担心持续多久了……让我想想。其实从我妈第一次发病那会儿就有了吧，那时候我刚工作没多久。现在想想，好像每次我妈情况不好，我上班就特别紧张，总怕别人看出来什么。这种日子……真的挺累的。）\n（不过她这么一问，我倒是意识到，这好像不是最近才有的，是一直都这样。以前总觉得忍忍就过去了，现在反而越来越怕了。）",
+        "reasoning": "（她问到这种担心持续多久了……让我想想。其实从我妈第一次发病那会儿就有了吧，那时候我刚工作没多久。现在想想，好像每次我妈情况不好，我上班就特别紧张，总怕别人看出来什么。这种日子……真的挺累的。）\n（不过她这么一问，我倒是意识到，这好像不是最近才有的，是一直都这样。以前总觉得忍忍就过去了，现在反而越来越怕了。）"
+      }
+    }
+  ],
+  "created": 1794544654,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2040,
+    "total_tokens": 2156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0e0bd48c39ce48738a8af2ac12db2cf6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……快下班的时候吧。明明我自己的事还没做完，旁边同事又过来让我帮忙弄个表，我嘴上就答应了。然后那天又弄到很晚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出具体情境，但我还不太确定她会不会真的理解我，还是只是走个流程。我有点犹豫要不要说太多，怕说了之后被评价或者被觉得矫情。）\n（不过她刚才说“别急着否定自己”，语气还算温和，让我稍微放松了一点。我可以先挑一个最表面的场景说说，看看她的反应，不用一下子把心里那些乱七八糟的都倒出来。）",
+        "reasoning": "（咨询师在引导我说出具体情境，但我还不太确定她会不会真的理解我，还是只是走个流程。我有点犹豫要不要说太多，怕说了之后被评价或者被觉得矫情。）\n（不过她刚才说“别急着否定自己”，语气还算温和，让我稍微放松了一点。我可以先挑一个最表面的场景说说，看看她的反应，不用一下子把心里那些乱七八糟的都倒出来。）"
+      }
+    }
+  ],
+  "created": 1794544984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1144,
+    "total_tokens": 1270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

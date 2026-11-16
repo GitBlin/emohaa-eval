@@ -1,0 +1,41 @@
+{
+  "id": "d9ced5554ea34f98935725ae4b7b597d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这边？你是说学校这块吗……我其实不太想待，但又没什么地方可去。有时候会故意绕开她常走的路。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然问起我平时常不常来这边，这问题有点绕。他是不是在试探我？还是说他想了解我平时怎么应对和姐姐同校这件事？）\n（我其实不太想直接回答常不常来，因为我自己也说不清。有时候会刻意绕开她，但有时候又忍不住关注她。这种矛盾感让我有点烦躁，说出来又怕显得自己很怪。）",
+        "reasoning": "（咨询师突然问起我平时常不常来这边，这问题有点绕。他是不是在试探我？还是说他想了解我平时怎么应对和姐姐同校这件事？）\n（我其实不太想直接回答常不常来，因为我自己也说不清。有时候会刻意绕开她，但有时候又忍不住关注她。这种矛盾感让我有点烦躁，说出来又怕显得自己很怪。）"
+      }
+    }
+  ],
+  "created": 1794546070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2085,
+    "total_tokens": 2204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3f96bac7165a4a60a93245f552eefaaa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没去复诊，药也是想起来才吃……我有点怕去了，医生会觉得我不配合。而且说了又能怎样呢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不是我有问题，是生病了……这句话让我心里有点松动，又有点酸。可一想到要去复诊，就觉得很麻烦，而且跟医生说了又能怎样呢。）\n（我最近确实没去复诊，药也是有一搭没一搭地吃。其实我有点怕医生觉得我不配合，也怕自己真的被当成“有问题”的人。但更怕的是，说了也没用。）",
+        "reasoning": "（咨询师说不是我有问题，是生病了……这句话让我心里有点松动，又有点酸。可一想到要去复诊，就觉得很麻烦，而且跟医生说了又能怎样呢。）\n（我最近确实没去复诊，药也是有一搭没一搭地吃。其实我有点怕医生觉得我不配合，也怕自己真的被当成“有问题”的人。但更怕的是，说了也没用。）"
+      }
+    }
+  ],
+  "created": 1794557602,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1785,
+    "total_tokens": 1902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

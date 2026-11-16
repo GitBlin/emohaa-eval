@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:47:54.366638+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n佐伊的好朋友开始和一个人约会，佐伊知道这个人在过去的关系中曾有过出轨行为。她的朋友觉得自己找到了灵魂伴侣。\n\n## 问题\n在这个场景中，佐伊最有效的Action是什么？\n\n## 选项\nA) 向他们共同的朋友透露他的过去，讨论他们的分手\nB) 接近她朋友的男朋友，就他的过去和他对峙\nC) 决定保持沉默，不干涉朋友的感情生活\nD) 留意朋友的男朋友，确保他不会再出轨\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

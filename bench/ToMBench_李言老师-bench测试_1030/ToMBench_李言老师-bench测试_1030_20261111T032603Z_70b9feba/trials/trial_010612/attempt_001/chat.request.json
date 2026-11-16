@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:09.195767+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nWang Xiaoming participates in a costume party at the amusement park, where he plays a magician. He puts on a gorgeous robe, wears a pointed hat with star patterns, holds a delicate magic wand, starts to walk around the amusement park, and interacts with visitors in a mysterious voice. He says he performs magic, which makes the surrounding children cheer and jump for joy. He appears very natural in this fantasy-filled environment, like a visitor from the magical world.\n\n[Question]\nWhy does Wang Xiaoming say this?\n\n[Candidate Answers]\nA. Wang Xiaoming does this because he truly believes he has magical powers and wants to show everyone.\nB. Wang Xiaoming does this to adapt to the fantasy environment of the amusement park and better integrate into this environment.\nC. Wang Xiaoming does this because he wants to attract the attention of visitors by performing magic and become the focus of the amusement park.\nD. Wang Xiaoming does this because he conducts a social experiment, observing people's reactions to magic.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

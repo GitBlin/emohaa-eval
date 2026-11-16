@@ -1,0 +1,41 @@
+{
+  "id": "752edc5b0f9a4aeeb25ea454ab22df48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想今晚先画一张不给人看的小画，肩膀一绷起来就停一下。嗯，听起来好像没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我选一件最轻的小事来照顾自己，这让我有点意外，原来照顾自己可以这么具体。我想到画画，但又怕自己又陷入那种反复琢磨别人反应的状态。）\n（也许我可以从画一张不给人看的小画开始，这样就不用担心被评价了。肩膀绷起来的时候停下来，这个动作听起来很简单，但对我来说可能真的有用。）",
+        "reasoning": "（咨询师让我选一件最轻的小事来照顾自己，这让我有点意外，原来照顾自己可以这么具体。我想到画画，但又怕自己又陷入那种反复琢磨别人反应的状态。）\n（也许我可以从画一张不给人看的小画开始，这样就不用担心被评价了。肩膀绷起来的时候停下来，这个动作听起来很简单，但对我来说可能真的有用。）"
+      }
+    }
+  ],
+  "created": 1794549810,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3189,
+    "total_tokens": 3296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

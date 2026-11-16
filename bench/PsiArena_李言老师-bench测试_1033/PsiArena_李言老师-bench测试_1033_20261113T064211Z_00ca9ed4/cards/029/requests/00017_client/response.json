@@ -1,0 +1,41 @@
+{
+  "id": "560864b2755b4b2db30fbd98ad7fc847",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（鼻子有点酸）就想听一句“你做得挺好的”吧。唉，都这么大了还惦记这个，是不是有点矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最想听到哪句话……这个问题一下子戳到我了。说实话，我从来没认真想过这个。小时候那些话听多了，就习惯了，也没觉得有什么不对。可现在被他这么一问，心里突然有点酸酸的。）\n（我好像真的挺想听我妈说一句“你做得挺好的”。可是说出来又觉得矫情，都这么大了还惦记这个。算了，说都说了，反正他也不会笑话我。）",
+        "reasoning": "（他问我最想听到哪句话……这个问题一下子戳到我了。说实话，我从来没认真想过这个。小时候那些话听多了，就习惯了，也没觉得有什么不对。可现在被他这么一问，心里突然有点酸酸的。）\n（我好像真的挺想听我妈说一句“你做得挺好的”。可是说出来又觉得矫情，都这么大了还惦记这个。算了，说都说了，反正他也不会笑话我。）"
+      }
+    }
+  ],
+  "created": 1794553457,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2571,
+    "total_tokens": 2691,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

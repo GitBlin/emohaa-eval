@@ -1,0 +1,41 @@
+{
+  "id": "4c484d5032e54da78cc6ff8a98fe4a80",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小组讨论吧，先从同桌那一组开始。不过我怕真到那时候，声音会抖……要不要先自己在家念几遍？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想从哪件小事开始，这让我一下有点紧张。我脑子里立刻想到小组讨论，可又怕真开口的时候声音发抖，被别人看出来。）\n（不过她刚才说允许不确定，这让我稍微松了口气。也许可以先从最熟的人开始，比如同桌，至少不会太尴尬。但我也担心自己一紧张就说不出来，所以得先想好一句最简单的话。）",
+        "reasoning": "（她问我想从哪件小事开始，这让我一下有点紧张。我脑子里立刻想到小组讨论，可又怕真开口的时候声音发抖，被别人看出来。）\n（不过她刚才说允许不确定，这让我稍微松了口气。也许可以先从最熟的人开始，比如同桌，至少不会太尴尬。但我也担心自己一紧张就说不出来，所以得先想好一句最简单的话。）"
+      }
+    }
+  ],
+  "created": 1794548175,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2816,
+    "total_tokens": 2929,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

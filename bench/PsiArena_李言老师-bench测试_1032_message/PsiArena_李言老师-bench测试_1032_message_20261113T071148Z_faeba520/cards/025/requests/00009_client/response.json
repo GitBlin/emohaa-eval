@@ -1,0 +1,41 @@
+{
+  "id": "a7fd418bc09e441d845d85a6ead720b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，咽下去了，也没人可说。我妈从小就跟我说，女人要独立，别什么都指望别人。可她自己当年……又为家里放弃了不少。我到现在也搞不清该听哪句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这么直接点破我在孩子心里位置被替代的恐惧，让我有点被戳中的感觉。平时确实没人能说这些，连老公都觉得我想太多。）\n（我想到我妈以前总说女人要独立，可她自己又为家里牺牲很多。这种矛盾一直压在我心里，现在当妈了更明显。）",
+        "reasoning": "（咨询师这么直接点破我在孩子心里位置被替代的恐惧，让我有点被戳中的感觉。平时确实没人能说这些，连老公都觉得我想太多。）\n（我想到我妈以前总说女人要独立，可她自己又为家里牺牲很多。这种矛盾一直压在我心里，现在当妈了更明显。）"
+      }
+    }
+  ],
+  "created": 1794555027,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1751,
+    "total_tokens": 1865,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

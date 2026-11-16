@@ -1,0 +1,41 @@
+{
+  "id": "04ad8a1ad4a847c795feb6c976327888",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过一次……那天他一个人坐在那儿，我差点就走过去了。（低头）但最后还是没动。我总觉得，我好像没那个资格去管别人的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他说到“有没有哪一刻想过跟谁开口”，我心里好像被戳了一下。其实有过，只是我一直没敢承认。那次他看起来很难过，我差点就开口了，可最后还是退回来了。）\n（我总觉得自己没那个资格，好像一开口就会做错什么。这种念头一直压着我，让我连一句“你还好吗”都说不出来。现在说出来，好像有点丢人，但又有点松了口气。）",
+        "reasoning": "（他说到“有没有哪一刻想过跟谁开口”，我心里好像被戳了一下。其实有过，只是我一直没敢承认。那次他看起来很难过，我差点就开口了，可最后还是退回来了。）\n（我总觉得自己没那个资格，好像一开口就会做错什么。这种念头一直压着我，让我连一句“你还好吗”都说不出来。现在说出来，好像有点丢人，但又有点松了口气。）"
+      }
+    }
+  ],
+  "created": 1794555439,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2006,
+    "total_tokens": 2132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

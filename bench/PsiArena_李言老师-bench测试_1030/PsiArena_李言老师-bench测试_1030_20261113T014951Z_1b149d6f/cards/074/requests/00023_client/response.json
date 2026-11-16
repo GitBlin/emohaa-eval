@@ -1,0 +1,41 @@
+{
+  "id": "f63d01805c734b05a048cc1f5e916a3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我试试啊。（停顿）那个……“我今天有点赶，晚点回你。”……说出来好像也没那么吓人，就是声音有点小。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我现在念一遍那句话，我有点紧张。虽然之前已经在脑子里想好了，但真要说出口还是觉得难为情，好像说出来就会被笑话似的。）\n（不过咨询师说得对，先练一遍总比明天临时卡壳好。我试着小声说，声音可能有点抖，但至少能说完整。说完之后感觉好像也没那么可怕，就是不知道明天真到那时候能不能一样顺。）",
+        "reasoning": "（咨询师让我现在念一遍那句话，我有点紧张。虽然之前已经在脑子里想好了，但真要说出口还是觉得难为情，好像说出来就会被笑话似的。）\n（不过咨询师说得对，先练一遍总比明天临时卡壳好。我试着小声说，声音可能有点抖，但至少能说完整。说完之后感觉好像也没那么可怕，就是不知道明天真到那时候能不能一样顺。）"
+      }
+    }
+  ],
+  "created": 1794538836,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3436,
+    "total_tokens": 3559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

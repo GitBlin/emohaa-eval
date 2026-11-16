@@ -1,0 +1,41 @@
+{
+  "id": "08eeaac86a3342999608e01c170dd7e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是怕自己连五分钟都守不住，然后又开始觉得自己啥都不行。……不过这么一说，好像也没那么吓人，先定五分钟，做到了再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体担心什么，我其实怕的是连这点小事都做不好，又证明自己真的不行。可我也知道，不能一直这么怕下去，得给自己定个能抓住的东西。）\n（五分钟练打字这个目标，听起来是我能碰得到的，比那些大道理实在。先这么定下来吧，至少是个开始。）",
+        "reasoning": "（咨询师在问我具体担心什么，我其实怕的是连这点小事都做不好，又证明自己真的不行。可我也知道，不能一直这么怕下去，得给自己定个能抓住的东西。）\n（五分钟练打字这个目标，听起来是我能碰得到的，比那些大道理实在。先这么定下来吧，至少是个开始。）"
+      }
+    }
+  ],
+  "created": 1794545172,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3141,
+    "total_tokens": 3250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

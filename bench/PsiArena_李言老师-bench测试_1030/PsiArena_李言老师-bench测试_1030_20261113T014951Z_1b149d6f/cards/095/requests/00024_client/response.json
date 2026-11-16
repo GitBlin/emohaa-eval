@@ -1,0 +1,41 @@
+{
+  "id": "4ea74f0723574a2fa9c12156e1fe846c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "收拾包站起来这个行，动作大一点，不容易糊弄自己。要不我干脆定个闹钟，响了一理完就走。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我定一个具体的停止信号，这让我觉得有点踏实，但又怕自己做不到。收拾包站起来这个动作挺实在的，不过光靠动作可能不够。）\n（我想加个更明显的提醒，比如手机闹钟，这样就不容易糊弄自己。说出来之后，心里好像真的有个能抓住的东西了，不像之前那么空。）",
+        "reasoning": "（咨询师在帮我定一个具体的停止信号，这让我觉得有点踏实，但又怕自己做不到。收拾包站起来这个动作挺实在的，不过光靠动作可能不够。）\n（我想加个更明显的提醒，比如手机闹钟，这样就不容易糊弄自己。说出来之后，心里好像真的有个能抓住的东西了，不像之前那么空。）"
+      }
+    }
+  ],
+  "created": 1794540227,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3361,
+    "total_tokens": 3467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

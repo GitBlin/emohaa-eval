@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:46:21.342840+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nAlice had been working for a long time to afford the car of her dreams. After a lot of saving up, she was able to buy it today. Meanwhile, her brother Bill was going through financial struggles and had to sell his car a few weeks ago. Alice decided to take Bill for a ride in her new car that evening.\n\n## Question 1\nWhat emotion(s) would Bill ultimately feel in this situation?\n\n## Choices for Question 1\nA) Sadness\nB) Excitement\nC) Remorse\nD) Disappointment\nE) Hopeless\nF) Guilt\n\n## Question 2\nWhy would Bill feel these emotions in this situation?\n\n## Choices for Question 2\nA) He doesn't like Alice's new car\nB) Alice did not offer him a ride in her new car\nC) He had to sell his own car due to financial struggles\nD) He worked harder than Alice\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

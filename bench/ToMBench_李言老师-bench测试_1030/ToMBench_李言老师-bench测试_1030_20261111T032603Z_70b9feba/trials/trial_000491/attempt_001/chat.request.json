@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:35.696057+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe little sister is playing with toys, she sees her brother playing a game on his phone. The little sister looks at her brother and says, \"Brother, that game is so fun.\"\n\n[Question]\nWhat does the little sister really want to say when she says this?\n\n[Candidate Answers]\nA. The little sister is dissatisfied with her brother wasting time playing games.\nB. The little sister wants her brother to let her play the game for a while.\nC. The little sister thinks her brother should turn down the game music.\nD. The little sister thinks her brother should play more challenging games.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

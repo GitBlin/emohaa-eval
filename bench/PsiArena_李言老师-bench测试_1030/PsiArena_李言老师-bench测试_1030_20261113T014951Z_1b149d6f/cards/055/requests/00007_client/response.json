@@ -1,0 +1,41 @@
+{
+  "id": "61dd5f5162574cd0a44623e95b46dcff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也不是谁直接说……就是我爸妈那种态度吧，总觉得我不够努力，别人都能行我怎么就不行。算了，说这些也没啥用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问是不是有人说过我矫情……其实爸妈没直接这么说，但那种感觉一直都在。他们总说“别人都能行你怎么不行”，差不多一个意思吧。不过现在说这些好像也没什么用，反正他们也不会改。）\n（其实我有点不想往下说了，但刚才她答应保密，态度也还行。要不就稍微提一下爸妈的态度？反正也不是什么秘密，就是觉得说出来有点丢人。）",
+        "reasoning": "（她问是不是有人说过我矫情……其实爸妈没直接这么说，但那种感觉一直都在。他们总说“别人都能行你怎么不行”，差不多一个意思吧。不过现在说这些好像也没什么用，反正他们也不会改。）\n（其实我有点不想往下说了，但刚才她答应保密，态度也还行。要不就稍微提一下爸妈的态度？反正也不是什么秘密，就是觉得说出来有点丢人。）"
+      }
+    }
+  ],
+  "created": 1794537182,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1529,
+    "total_tokens": 1649,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

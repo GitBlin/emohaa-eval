@@ -1,0 +1,41 @@
+{
+  "id": "a0c31273f04a45e88824d9f053d18911",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……怕她问我是不是又在家待着，或者问家里的事。我总不能说，我周末都在担心我妈会不会突然出事吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我周末安排的哪一部分会让我紧张……其实每次同事问起周末，我脑子里就会闪过妈妈突然打电话或者跑来的画面。我总不能说“周末要在家看着我妈，怕她发病”吧。这话说出来太奇怪了，别人肯定觉得我家里有问题。）\n（我可能得想个简单的说法，比如“家里有点事”之类的。但就算这么说，我也怕她追问是什么事。这种时候我就特别想躲开，不想跟人多聊。）",
+        "reasoning": "（她问我周末安排的哪一部分会让我紧张……其实每次同事问起周末，我脑子里就会闪过妈妈突然打电话或者跑来的画面。我总不能说“周末要在家看着我妈，怕她发病”吧。这话说出来太奇怪了，别人肯定觉得我家里有问题。）\n（我可能得想个简单的说法，比如“家里有点事”之类的。但就算这么说，我也怕她追问是什么事。这种时候我就特别想躲开，不想跟人多聊。）"
+      }
+    }
+  ],
+  "created": 1794544693,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2703,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8cea426225e1458ea8deed68e7403b65",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他们先问问我累不累、开不开心，而不是一开口就说身材。可这话我从来没跟他们讲过，想想就紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才那句话让我心里有点酸，好像第一次有人告诉我“你不是不懂事”。我一直以为想被尊重是种奢求，现在却觉得也许可以试着说说看。）\n（可话到嘴边又有点犹豫，那些具体的期待好像很陌生。我从来没认真想过父母该怎么关心我才算对，只习惯了被检查。也许可以试着描述那种不被打分的感觉，但又怕说出来显得太矫情。）",
+        "reasoning": "（她刚才那句话让我心里有点酸，好像第一次有人告诉我“你不是不懂事”。我一直以为想被尊重是种奢求，现在却觉得也许可以试着说说看。）\n（可话到嘴边又有点犹豫，那些具体的期待好像很陌生。我从来没认真想过父母该怎么关心我才算对，只习惯了被检查。也许可以试着描述那种不被打分的感觉，但又怕说出来显得太矫情。）"
+      }
+    }
+  ],
+  "created": 1794545658,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2372,
+    "total_tokens": 2490,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

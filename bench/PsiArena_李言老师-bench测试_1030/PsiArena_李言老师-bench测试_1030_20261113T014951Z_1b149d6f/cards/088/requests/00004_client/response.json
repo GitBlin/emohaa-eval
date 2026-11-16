@@ -1,0 +1,41 @@
+{
+  "id": "1fd4bd57d22744fe80e3ae66328404a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手……手上吧。我有时候会抠手指，抠到有点疼。我也不知道为什么，就是会这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我烦的时候身体哪里最明显，这让我有点不知道该怎么回答。其实我平时不太会注意身体的感觉，但手指的事……我下意识地看了看自己的手，有点犹豫要不要说。）\n（手指的事挺难开口的，感觉说出来会显得很奇怪。但咨询师好像没有在逼我，只是让我留意一下。我想先含糊地提一下，看看她会不会追问，或者会不会觉得我不正常。）",
+        "reasoning": "（咨询师问我烦的时候身体哪里最明显，这让我有点不知道该怎么回答。其实我平时不太会注意身体的感觉，但手指的事……我下意识地看了看自己的手，有点犹豫要不要说。）\n（手指的事挺难开口的，感觉说出来会显得很奇怪。但咨询师好像没有在逼我，只是让我留意一下。我想先含糊地提一下，看看她会不会追问，或者会不会觉得我不正常。）"
+      }
+    }
+  ],
+  "created": 1794539524,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1166,
+    "total_tokens": 1280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

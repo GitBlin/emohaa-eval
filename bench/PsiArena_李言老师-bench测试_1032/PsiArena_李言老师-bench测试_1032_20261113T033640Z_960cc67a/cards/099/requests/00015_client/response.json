@@ -1,0 +1,41 @@
+{
+  "id": "4796e3acaf41405e934be3647432c6b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是吧。停下来就会想很多，越想越觉得自己没用。可看完小说也没多好受，反而更空。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像开始理解我那种紧绷的感觉了，她问我看很晚是不是想缓过去。其实我也说不清，就是不想停下来，停下来就会想很多。她这么问让我觉得她没在怪我，反而有点懂我。）\n（我有点想告诉她，我好像一直在跟自己较劲，但又怕说出来显得太矫情。不过她问得挺温和的，我可以试着说一点真实的感觉，比如看完小说后反而更空。）",
+        "reasoning": "（咨询师好像开始理解我那种紧绷的感觉了，她问我看很晚是不是想缓过去。其实我也说不清，就是不想停下来，停下来就会想很多。她这么问让我觉得她没在怪我，反而有点懂我。）\n（我有点想告诉她，我好像一直在跟自己较劲，但又怕说出来显得太矫情。不过她问得挺温和的，我可以试着说一点真实的感觉，比如看完小说后反而更空。）"
+      }
+    }
+  ],
+  "created": 1794546383,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2259,
+    "total_tokens": 2383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

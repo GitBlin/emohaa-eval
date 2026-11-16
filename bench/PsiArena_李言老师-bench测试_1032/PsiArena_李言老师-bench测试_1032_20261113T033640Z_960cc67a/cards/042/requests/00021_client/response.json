@@ -1,0 +1,41 @@
+{
+  "id": "b417cd50186643cab52a2c74aec66e20",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "九点前后吧，那会儿消息最多。就是家里人可能会问我去干嘛，我还没想好怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体几点方便，这让我有点意外，但也让我觉得他是真想帮我落地。我得想想晚上哪个时间最难受，那时候下楼最管用。）\n（九点前后群里消息最多，我烦躁得不行，正好能借这个时间躲出去。不过家里人会问，我得想好怎么应付，不能让他们觉得我怪。）",
+        "reasoning": "（咨询师问我具体几点方便，这让我有点意外，但也让我觉得他是真想帮我落地。我得想想晚上哪个时间最难受，那时候下楼最管用。）\n（九点前后群里消息最多，我烦躁得不行，正好能借这个时间躲出去。不过家里人会问，我得想好怎么应付，不能让他们觉得我怪。）"
+      }
+    }
+  ],
+  "created": 1794543234,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2915,
+    "total_tokens": 3013,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

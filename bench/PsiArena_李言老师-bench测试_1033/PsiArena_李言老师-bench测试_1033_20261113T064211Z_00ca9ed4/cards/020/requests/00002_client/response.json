@@ -1,0 +1,41 @@
+{
+  "id": "e6bb956686474612bfecb625af1bcf72",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我本来以为咨询就是给建议，告诉我该怎么办。那……你是不会直接告诉我怎么做的，对吧？我有点没底，不太清楚这样聊能聊出什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才解释了咨询的流程，说节奏由我来定，还问我是不确定从哪儿说起还是不清楚哪些适合讲。听起来还算温和，没有急着要我掏心掏肺。但我还是有点不放心，毕竟第一次见面，谁知道会怎么样呢。我本来以为咨询就是给建议，告诉我该怎么做，结果他说主要是听我说，那能有用吗？我得先弄清楚他到底会不会给我一个明确的答案，不然我可能会更焦虑。）\n（而且我确实心里很乱，不知道该从哪件事讲起，家里那些事一件接一件，说出来都显得琐碎。但我又怕说多了显得自己矫情，或者被评判。先试探一下他的方式吧，看看他是不是那种会给具体建议的人，这样我心里也有个底。）",
+        "reasoning": "（咨询师刚才解释了咨询的流程，说节奏由我来定，还问我是不确定从哪儿说起还是不清楚哪些适合讲。听起来还算温和，没有急着要我掏心掏肺。但我还是有点不放心，毕竟第一次见面，谁知道会怎么样呢。我本来以为咨询就是给建议，告诉我该怎么做，结果他说主要是听我说，那能有用吗？我得先弄清楚他到底会不会给我一个明确的答案，不然我可能会更焦虑。）\n（而且我确实心里很乱，不知道该从哪件事讲起，家里那些事一件接一件，说出来都显得琐碎。但我又怕说多了显得自己矫情，或者被评判。先试探一下他的方式吧，看看他是不是那种会给具体建议的人，这样我心里也有个底。）"
+      }
+    }
+  ],
+  "created": 1794552935,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 197,
+    "prompt_tokens": 1060,
+    "total_tokens": 1257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 160,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

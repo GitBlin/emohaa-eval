@@ -1,0 +1,41 @@
+{
+  "id": "95c950dd1195435282e910297d12a528",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下去）我想说……我不想再为了让他们安心，去坐那一场场像面试一样的相亲了。说完又觉得自己挺自私的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在不用懂事的情况下最想说什么。这句话戳到了我，我好像一直等着有人这样问。可话到嘴边又觉得别扭，说出来会不会太自私，太不像我该说的话。）\n（可这里好像真的不用先想别人受不受得了。那我就说一次吧，哪怕有点难堪。说完可能还会替自己辩解一句，毕竟这么想确实不太“懂事”。）",
+        "reasoning": "（她问我在不用懂事的情况下最想说什么。这句话戳到了我，我好像一直等着有人这样问。可话到嘴边又觉得别扭，说出来会不会太自私，太不像我该说的话。）\n（可这里好像真的不用先想别人受不受得了。那我就说一次吧，哪怕有点难堪。说完可能还会替自己辩解一句，毕竟这么想确实不太“懂事”。）"
+      }
+    }
+  ],
+  "created": 1794535527,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2107,
+    "total_tokens": 2224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

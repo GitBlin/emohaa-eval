@@ -1,0 +1,41 @@
+{
+  "id": "d0251deafc7a46dcb9cff5be1e7deec0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀是松的，呼吸也慢下来。我有点意外，原来不用做什么也能松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体的感觉，这让我想起阳台看天时的具体感受。肩膀好像确实没那么绷着，但当时也没太在意。）\n（我有点不确定自己记得准不准，毕竟那几分钟太短了。不过说出来之后，好像又确认了一遍那种松的感觉是真实存在的。）",
+        "reasoning": "（咨询师在问我身体的感觉，这让我想起阳台看天时的具体感受。肩膀好像确实没那么绷着，但当时也没太在意。）\n（我有点不确定自己记得准不准，毕竟那几分钟太短了。不过说出来之后，好像又确认了一遍那种松的感觉是真实存在的。）"
+      }
+    }
+  ],
+  "created": 1794558126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2792,
+    "total_tokens": 2877,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

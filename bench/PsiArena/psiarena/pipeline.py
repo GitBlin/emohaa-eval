@@ -217,11 +217,11 @@ class _Session:
         self._client_msgs.append({"role": "assistant", "content": reply})
         return reply
 
-    def run(self) -> list[str]:
+    def run(self, turns: int = NUM_TURNS, checkpoint=None, history: str = "sliding") -> list[str]:
         extra = "或格式化输出" if self.mode == "rewrite" else ""
         last_client_text = COUNSELOR_OPENER[self.mode]
-        for turn in range(NUM_TURNS):
-            if turn > 5:  # sliding window: drop the oldest user+assistant exchange
+        for turn in range(turns):
+            if history == "sliding" and turn > 5:  # sliding window: drop the oldest user+assistant exchange
                 for _ in range(2):
                     self._counselor_msgs.pop(1)
                     self._client_msgs.pop(1)
@@ -235,16 +235,43 @@ class _Session:
             suffix = COUNSELOR_TURN_SUFFIX.format(n=turn + 2, extra=extra)
             self._counselor_msgs.append({"role": "user", "content": client_text + suffix})
             last_client_text = client_text
+            if checkpoint:
+                checkpoint(turn + 1, self.dialogue)
         return self.dialogue
 
 
-def generate_dialogue(card_index: int, mode: str, feedback: Feedback | None = None) -> list[str]:
+def generate_dialogue(card_index: int, mode: str, feedback: Feedback | None = None,
+                      *, output_dir=None, turns: int = NUM_TURNS, history: str = "sliding") -> list[str]:
     """Generate one full counseling dialogue for the given role card and mode.
 
     Returns the dialogue as a list of ``"心理咨询师: ..."`` / ``"来访者: ..."`` lines.
     ``feedback`` is required for ``rewrite`` mode (summarized prior three-party scores).
     """
+    if history not in ("full", "sliding"):
+        raise ValueError("history must be full or sliding")
+    if not 1 <= turns <= NUM_TURNS:
+        raise ValueError("turns must be between 1 and 25")
     if mode == "rewrite" and feedback is None:
         raise ValueError("rewrite mode requires feedback (see summarize_feedback).")
+    if not 0 <= card_index < len(data.load_role_cards()):
+        raise ValueError("card_index out of range")
     card = data.load_role_cards()[card_index]
-    return _Session(mode=mode, card=card, feedback=feedback).run()
+    from contextlib import ExitStack
+    from pathlib import Path
+    from .runtime import run_log, current_run
+    from .ai_role import counselor_session
+    from .ai_role_transport import write_json, now
+    directory = Path(output_dir) if output_dir is not None else None
+    def checkpoint(turn, dialogue):
+        if directory:
+            write_json(directory / 'dialogue_progress.json', {
+                'at': now(), 'card_index': card_index, 'mode': mode,
+                'completed_turns': turn, 'planned_turns': turns, 'client_history': history,
+                'dialogue': dialogue,
+            })
+    with ExitStack() as stack:
+        if directory and current_run.get() is None:
+            stack.enter_context(run_log(directory))
+        stack.enter_context(counselor_session(
+            directory / 'memory' if directory else None, f'card_{card_index}', mode))
+        return _Session(mode=mode, card=card, feedback=feedback).run(turns, checkpoint, history)

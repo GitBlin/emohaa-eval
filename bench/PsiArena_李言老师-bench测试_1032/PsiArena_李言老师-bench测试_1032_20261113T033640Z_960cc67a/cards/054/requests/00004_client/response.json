@@ -1,0 +1,41 @@
+{
+  "id": "ddb7486e1d2a4df3bfc0be178fd9ca25",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……孩子的事吧，早上又迟到了，老师看我那眼神。唉，我是不是问得有点多——你们咨询师平时会管到生活里的事吗，比如能不能留个联系方式什么的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师好像没有急着给我下判断，而是顺着我的话在问。可我还是有点不放心，不知道她会不会真的理解我，还是只是按流程走。我得再试探一下，看她怎么应对。）\n（如果她愿意在咨询之外也帮我，那我会觉得她更关心我这个人，而不是只把这当成一份工作。但我也知道这样问有点越界，所以得说得含糊一点，看看她的反应。）",
+        "reasoning": "（这位咨询师好像没有急着给我下判断，而是顺着我的话在问。可我还是有点不放心，不知道她会不会真的理解我，还是只是按流程走。我得再试探一下，看她怎么应对。）\n（如果她愿意在咨询之外也帮我，那我会觉得她更关心我这个人，而不是只把这当成一份工作。但我也知道这样问有点越界，所以得说得含糊一点，看看她的反应。）"
+      }
+    }
+  ],
+  "created": 1794543798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1176,
+    "total_tokens": 1312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

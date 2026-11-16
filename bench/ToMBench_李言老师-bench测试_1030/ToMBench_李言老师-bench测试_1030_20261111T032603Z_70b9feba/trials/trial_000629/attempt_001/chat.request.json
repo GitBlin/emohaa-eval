@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:43.814016+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaohua always wants to go mountain climbing. On Friday night, the whole family sits around the dinner table, and mom and Xiaohua discuss the weekend plans together. Xiaohua is about to propose to go mountain climbing, but then he sees his little brother Xiaoyu in the stroller and starts to think. After a while, Xiaohua tells his mom that he wants the whole family to go to the amusement park this weekend. Mom is busy preparing dinner at the time and does not see Xiaohua's series of actions.\n\n[Question]\nWhy does Xiaohua hesitate to speak?\n\n[Candidate Answers]\nA. Xiaohua thinks that mountain climbing is not suitable for his little brother Xiaoyu.\nB. Xiaohua possibly thinks that mom does not want to go mountain climbing and will not accept his suggestion.\nC. Xiaohua sees something shocking at this moment.\nD. Xiaohua thinks about the bad weather, if it rains it may affect mountain climbing.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

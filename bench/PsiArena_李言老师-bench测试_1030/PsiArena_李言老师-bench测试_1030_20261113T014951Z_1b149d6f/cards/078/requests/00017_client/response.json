@@ -1,0 +1,41 @@
+{
+  "id": "cd65ac1658ee40c1b49dc6cc21f91449",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默）……说不上哪一个人。就是家里一直都是这样，懂事、忍让、别给人添麻烦。好像做不好，就是我不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我这把尺子是谁递给我的……我其实心里有答案，就是不太想承认。从小家里就那样，懂事、忍让，好像做得好是应该的，做不好就是我的错。）\n（可说到具体是谁，我又说不清。妈妈？还是整个家的规矩？我不想把责任全推给谁，可又确实是从那时候开始的。）",
+        "reasoning": "（他问我这把尺子是谁递给我的……我其实心里有答案，就是不太想承认。从小家里就那样，懂事、忍让，好像做得好是应该的，做不好就是我的错。）\n（可说到具体是谁，我又说不清。妈妈？还是整个家的规矩？我不想把责任全推给谁，可又确实是从那时候开始的。）"
+      }
+    }
+  ],
+  "created": 1794539020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2618,
+    "total_tokens": 2728,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

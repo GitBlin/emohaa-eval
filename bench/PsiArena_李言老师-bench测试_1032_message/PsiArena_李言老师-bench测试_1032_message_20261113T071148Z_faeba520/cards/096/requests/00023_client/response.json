@@ -1,0 +1,41 @@
+{
+  "id": "7b1cc8d879f946788ea4ca85ad4e1e3b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就停一秒，说“我知道你在”……听起来好像没那么难。我可以试试吧，虽然感觉有点怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我在那个声音出现的时候停一秒，说“我知道你在”……听起来好像很简单，但真的做起来会是什么感觉呢。我平时都是被那个声音压着走的，现在要反过来对它说话，有点怪怪的，好像要跟它对着干似的。）\n（不过她说得也对，我总不能一直这样下去。至少可以先试试，就停一秒，不用做什么大改变。也许真的能让我喘口气。）",
+        "reasoning": "（她让我在那个声音出现的时候停一秒，说“我知道你在”……听起来好像很简单，但真的做起来会是什么感觉呢。我平时都是被那个声音压着走的，现在要反过来对它说话，有点怪怪的，好像要跟它对着干似的。）\n（不过她说得也对，我总不能一直这样下去。至少可以先试试，就停一秒，不用做什么大改变。也许真的能让我喘口气。）"
+      }
+    }
+  ],
+  "created": 1794558500,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3046,
+    "total_tokens": 3161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

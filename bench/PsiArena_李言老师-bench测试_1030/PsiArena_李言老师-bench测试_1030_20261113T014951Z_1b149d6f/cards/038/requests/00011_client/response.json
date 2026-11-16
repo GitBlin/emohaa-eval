@@ -1,0 +1,41 @@
+{
+  "id": "2c2f8b7496f142ee9c695957fbcd3c84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点……说不上来。有点替他委屈，又有点怪他太听话了。反正这种感觉我不太喜欢想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想到小时候的自己是什么感觉……这问题一下子戳到我了。其实我很少去想那时候的事，好像刻意绕开一样。可刚才说出口之后，心里确实有点酸。）\n（我好像有点怨那个小孩，太听话了，又有点替他难受。这种说不清的感觉让我有点想回避，不太想继续往深了说。）",
+        "reasoning": "（她问我想到小时候的自己是什么感觉……这问题一下子戳到我了。其实我很少去想那时候的事，好像刻意绕开一样。可刚才说出口之后，心里确实有点酸。）\n（我好像有点怨那个小孩，太听话了，又有点替他难受。这种说不清的感觉让我有点想回避，不太想继续往深了说。）"
+      }
+    }
+  ],
+  "created": 1794536416,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1985,
+    "total_tokens": 2086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

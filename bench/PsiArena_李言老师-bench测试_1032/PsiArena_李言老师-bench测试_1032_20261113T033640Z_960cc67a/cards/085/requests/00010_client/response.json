@@ -1,0 +1,41 @@
+{
+  "id": "9042c213ca284ed194e60b369484a86f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……有一次。工作上开会，大家讨论得特别起劲，我其实有个想法，但就是没敢说。后来别人说了差不多的，我就在心里骂自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有哪次特别想说，我一下子想到好多事，又好像什么都说不出来。在家里，难受都是藏着的，说出来反而会被说想太多。）\n（可我又确实憋得慌。想到工作上那次，我明明有想法，却一个字都没说出口，那种感觉一直堵在心里。）",
+        "reasoning": "（她问我有没有哪次特别想说，我一下子想到好多事，又好像什么都说不出来。在家里，难受都是藏着的，说出来反而会被说想太多。）\n（可我又确实憋得慌。想到工作上那次，我明明有想法，却一个字都没说出口，那种感觉一直堵在心里。）"
+      }
+    }
+  ],
+  "created": 1794545617,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1764,
+    "total_tokens": 1867,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

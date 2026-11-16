@@ -1,0 +1,41 @@
+{
+  "id": "af21ce6f7baf417bb8a5008c25bd08e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……周末那些家务，好像也不是非我不可。要不，先从少做一点试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我家里的事有没有可以放一放的，这让我有点意外。我一直觉得每件事都得自己扛着，从没想过还能放。）\n（可仔细想想，周末那些家务好像确实不是非做不可。也许可以先从小的开始试试，比如少做一点。不过这么想的时候，心里还是有点不踏实。）",
+        "reasoning": "（咨询师问我家里的事有没有可以放一放的，这让我有点意外。我一直觉得每件事都得自己扛着，从没想过还能放。）\n（可仔细想想，周末那些家务好像确实不是非做不可。也许可以先从小的开始试试，比如少做一点。不过这么想的时候，心里还是有点不踏实。）"
+      }
+    }
+  ],
+  "created": 1794557652,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2308,
+    "total_tokens": 2401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

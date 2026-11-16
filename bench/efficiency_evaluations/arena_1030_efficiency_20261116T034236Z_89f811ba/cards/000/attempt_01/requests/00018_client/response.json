@@ -1,0 +1,47 @@
+{
+  "id": "15495d1603324a348db9b4d68d545267",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了几秒）……你这么一说，好像分不清了。公司里怕让人失望，跟家里那种怕，感觉是同一个。（声音有点闷）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的这个问题，让我心里一紧。公司和家里那个沉默，好像真的是连在一起的。我一直以为是自己太敏感，可现在想想，我使劲的时候，脑子里确实总有一种怕让人失望的声音。）\n（那种声音太像家里了，安静地压着，不说出来，却让人喘不过气。我有点不想承认，可又觉得她看得挺准的。）",
+        "reasoning": "（她问的这个问题，让我心里一紧。公司和家里那个沉默，好像真的是连在一起的。我一直以为是自己太敏感，可现在想想，我使劲的时候，脑子里确实总有一种怕让人失望的声音。）\n（那种声音太像家里了，安静地压着，不说出来，却让人喘不过气。我有点不想承认，可又觉得她看得挺准的。）"
+      }
+    }
+  ],
+  "created": 1794800645,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2892,
+    "total_tokens": 3006,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2560,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

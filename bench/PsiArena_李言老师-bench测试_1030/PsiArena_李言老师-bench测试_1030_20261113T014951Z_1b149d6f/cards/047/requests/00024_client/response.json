@@ -1,0 +1,41 @@
+{
+  "id": "eacad85bf224492b9af7f1422dd8e2f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻点头）不完整的句子……这个可以试试。好像光是想着不用写好，心里就松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像是在鼓励我写一些不完美的东西，可我心里还是有点打鼓。她说的“不像样、不交差”，听起来挺轻松的，但我真能那么做吗？）\n（不过，放下那个“必须写好”的念头，确实让我松了口气。也许可以试试，哪怕只是几个词也行。）",
+        "reasoning": "（咨询师好像是在鼓励我写一些不完美的东西，可我心里还是有点打鼓。她说的“不像样、不交差”，听起来挺轻松的，但我真能那么做吗？）\n（不过，放下那个“必须写好”的念头，确实让我松了口气。也许可以试试，哪怕只是几个词也行。）"
+      }
+    }
+  ],
+  "created": 1794536845,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3440,
+    "total_tokens": 3533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

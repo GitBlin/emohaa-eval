@@ -1,0 +1,41 @@
+{
+  "id": "094f293514e347f48071fc5116e65ffa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "同事吧……我妈那边我还没底。跟同事至少……就算说不好，也不至于那么严重。就是不知道真到那时候，我能不能忍得住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我先从哪种场景试起，这让我有点犹豫。同事之间其实还好，但一想到要面对我妈，心里就发紧。不过那些检讨的话，最先是在她面前学会的，也许该从那里开始。）\n（只是真到了她面前，我可能又会条件反射地缩回去。这种矛盾让我既想试又有点怕，说出来反而能让自己踏实一点。）",
+        "reasoning": "（她问我先从哪种场景试起，这让我有点犹豫。同事之间其实还好，但一想到要面对我妈，心里就发紧。不过那些检讨的话，最先是在她面前学会的，也许该从那里开始。）\n（只是真到了她面前，我可能又会条件反射地缩回去。这种矛盾让我既想试又有点怕，说出来反而能让自己踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794554905,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2576,
+    "total_tokens": 2692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

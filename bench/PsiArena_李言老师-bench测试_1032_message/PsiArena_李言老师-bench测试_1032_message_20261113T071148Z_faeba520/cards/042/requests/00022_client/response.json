@@ -1,0 +1,41 @@
+{
+  "id": "bcd65bdfd2a6403d9a605bc55a2bf10d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提醒自己……我可以在手机上设个提醒，或者干脆在门口贴张纸条。说实话，难受起来我脑子一片乱，可能还是会忘，但总得先试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么提醒自己别忘了这十分钟。我得想个实际点的办法，不能太复杂，不然我这种状态根本记不住。手机设个提醒好像可行，再加张纸条贴门上，出门就能看见。不过我也得说实话，有时候难受起来脑子一片乱，什么提醒都可能顾不上。但至少先这么定，总比什么都不做强。）\n（想到以前难受的时候直接就摸酒瓶了，现在要换成先下楼走十分钟，这中间的犹豫和反复肯定少不了。我得承认自己可能会忘，但也不能因为这个就不去试。先这么跟咨询师说吧，看看他怎么说。）",
+        "reasoning": "（咨询师在问我怎么提醒自己别忘了这十分钟。我得想个实际点的办法，不能太复杂，不然我这种状态根本记不住。手机设个提醒好像可行，再加张纸条贴门上，出门就能看见。不过我也得说实话，有时候难受起来脑子一片乱，什么提醒都可能顾不上。但至少先这么定，总比什么都不做强。）\n（想到以前难受的时候直接就摸酒瓶了，现在要换成先下楼走十分钟，这中间的犹豫和反复肯定少不了。我得承认自己可能会忘，但也不能因为这个就不去试。先这么跟咨询师说吧，看看他怎么说。）"
+      }
+    }
+  ],
+  "created": 1794559102,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 3249,
+    "total_tokens": 3415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

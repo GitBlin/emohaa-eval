@@ -1,0 +1,41 @@
+{
+  "id": "5eb42d9ae60c473daec00b7263483314",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候一两个小时，有时候……说不准，睡前还在想。嗯，我这样是不是有点奇怪？你会不会觉得我太在意这些小事了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那种回想会持续多久……她好像挺关注我这些细节的。但我其实不太想这么快就说得那么深，毕竟才刚开始聊。而且她会不会觉得我太奇怪了，连这种事都要想半天？）\n（要不先随便说个大概吧，就说有时候很久。然后……也许可以试探一下她，问问她会不会觉得我这样很麻烦。这样也能看看她到底怎么看我。）",
+        "reasoning": "（咨询师在问我那种回想会持续多久……她好像挺关注我这些细节的。但我其实不太想这么快就说得那么深，毕竟才刚开始聊。而且她会不会觉得我太奇怪了，连这种事都要想半天？）\n（要不先随便说个大概吧，就说有时候很久。然后……也许可以试探一下她，问问她会不会觉得我这样很麻烦。这样也能看看她到底怎么看我。）"
+      }
+    }
+  ],
+  "created": 1794539786,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1360,
+    "total_tokens": 1482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

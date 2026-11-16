@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001898",
+  "sample_id": "Hinting Task Test:44",
+  "task_file": "Hinting Task Test",
+  "ability": "Non-Literal Communication: Irony/Sarcasm",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "A",
+    "B": "C",
+    "C": "B",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "C",
+  "prediction_original": "B",
+  "reply": "[[C]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:37:08.324715+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:37:30.003795+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "1cacd2f1f5e7400e81a95c20d8ba9c55"
+  ],
+  "started_at": "2026-11-12T09:37:08.324715+00:00",
+  "finished_at": "2026-11-12T09:37:39.549530+00:00",
+  "elapsed_seconds": 31.22491480782628,
+  "user_id": "liyan_b86e5bd70fea3813a14b4553b1ad2725ba617307"
+}

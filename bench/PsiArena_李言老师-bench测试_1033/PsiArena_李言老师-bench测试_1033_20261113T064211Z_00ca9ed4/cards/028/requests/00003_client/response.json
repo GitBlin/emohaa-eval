@@ -1,0 +1,41 @@
+{
+  "id": "59a1606e0b914903927c8563b831b32f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是跟家里有关吧。但说出来又觉得，好像是我自己太敏感了，别人听了可能觉得这没什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近最常冒出来的事，但我还没完全信任她，不想这么快就说到父母。她看起来在认真听，但我得先试探一下她会不会站在我这边，还是像家里人一样觉得我小题大做。）\n（也许我可以先含糊地说跟家里有关，看看她的反应。如果她追问得太急，我就把话收回来，说不知道。这样既回应了问题，又不会暴露太多。）",
+        "reasoning": "（咨询师在问我最近最常冒出来的事，但我还没完全信任她，不想这么快就说到父母。她看起来在认真听，但我得先试探一下她会不会站在我这边，还是像家里人一样觉得我小题大做。）\n（也许我可以先含糊地说跟家里有关，看看她的反应。如果她追问得太急，我就把话收回来，说不知道。这样既回应了问题，又不会暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794553318,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1063,
+    "total_tokens": 1183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

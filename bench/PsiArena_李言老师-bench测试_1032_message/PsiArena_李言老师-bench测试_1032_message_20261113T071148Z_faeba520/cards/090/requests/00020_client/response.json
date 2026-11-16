@@ -1,0 +1,41 @@
+{
+  "id": "2e9b0a3b1b5c4aa9826f97bca391f546",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听点歌？或者把想骂的话写在纸上，写完撕掉。这个我好像能试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在问我走开之后能做什么，好像真的在帮我想办法。我从来没认真想过这个，以前都是憋到爆发，然后自责。现在想想，可能真的需要一些具体的动作，不然光走开也没用。）\n（我想到听歌，那个最不费劲，戴上耳机就能把外面的声音隔开。还有写下来，虽然有点麻烦，但把那些骂自己的话写出来，好像它们就不会一直在脑子里转。这些应该可以试试。）",
+        "reasoning": "（她在问我走开之后能做什么，好像真的在帮我想办法。我从来没认真想过这个，以前都是憋到爆发，然后自责。现在想想，可能真的需要一些具体的动作，不然光走开也没用。）\n（我想到听歌，那个最不费劲，戴上耳机就能把外面的声音隔开。还有写下来，虽然有点麻烦，但把那些骂自己的话写出来，好像它们就不会一直在脑子里转。这些应该可以试试。）"
+      }
+    }
+  ],
+  "created": 1794558235,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2620,
+    "total_tokens": 2744,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

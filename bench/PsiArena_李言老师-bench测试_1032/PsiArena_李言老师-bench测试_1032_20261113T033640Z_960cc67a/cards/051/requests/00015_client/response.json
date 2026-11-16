@@ -1,0 +1,41 @@
+{
+  "id": "1789247b7dde4e37991b8e782e636104",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就是怕那种……小错误被放大吧。小时候写错一个字，我爸都会让我改到对为止。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（（咨询师在问我反复检查的冲动背后具体担心什么错误）她好像真的在认真听，不是随便问问。这让我稍微放松了一点，愿意多说一些。）\n（（想到父母从小对我的要求，那种“不能出错”的紧张感其实一直都在。我担心的是那种被否定的感觉，好像一个小错就能说明我整个人不行。））",
+        "reasoning": "（（咨询师在问我反复检查的冲动背后具体担心什么错误）她好像真的在认真听，不是随便问问。这让我稍微放松了一点，愿意多说一些。）\n（（想到父母从小对我的要求，那种“不能出错”的紧张感其实一直都在。我担心的是那种被否定的感觉，好像一个小错就能说明我整个人不行。））"
+      }
+    }
+  ],
+  "created": 1794543730,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2218,
+    "total_tokens": 2318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

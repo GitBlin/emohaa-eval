@@ -1,0 +1,41 @@
+{
+  "id": "437c185e8e2d46e0bf66088637ebb5b2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我大概会说“没事，下次注意就行”。但轮到自己……这些话就说不出口，总觉得那样是在给自己找借口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果朋友犯错我会怎么说……这让我想到上次同事搞砸了报表，我还安慰他说“下次注意就行”。可轮到自己的时候，那些话就完全说不出口了。好像对别人宽容是理所当然的，对自己却特别苛刻。）\n（这种差别让我有点不是滋味。她是不是想让我意识到，我对自己的标准太严了？但我真的很难把对朋友的那套用在自己身上，总觉得那样会让自己松懈下来。）",
+        "reasoning": "（她问我如果朋友犯错我会怎么说……这让我想到上次同事搞砸了报表，我还安慰他说“下次注意就行”。可轮到自己的时候，那些话就完全说不出口了。好像对别人宽容是理所当然的，对自己却特别苛刻。）\n（这种差别让我有点不是滋味。她是不是想让我意识到，我对自己的标准太严了？但我真的很难把对朋友的那套用在自己身上，总觉得那样会让自己松懈下来。）"
+      }
+    }
+  ],
+  "created": 1794555813,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2028,
+    "total_tokens": 2149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

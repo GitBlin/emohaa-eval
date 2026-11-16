@@ -1,0 +1,41 @@
+{
+  "id": "2d2ab79769ee4b459c2ce0fe67f61414",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "闹钟一响，我就先停手，然后……对自己说一句“我开始了”，不管弄成什么样。这样想想，心里好像有点底了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问闹钟响了先做什么，这是在帮我把最后一步想清楚。我心里有点紧，但也觉得踏实，好像终于有个能抓住的小计划了。那个声音肯定还会说“才十分钟能干什么”，我得先想好怎么应对。）\n（停手，然后对自己说一句“我开始了”。这句话虽然简单，但说出来就像给自己一个交代。今晚我可能真会试试，然后回来告诉她发生了什么。）",
+        "reasoning": "（她问闹钟响了先做什么，这是在帮我把最后一步想清楚。我心里有点紧，但也觉得踏实，好像终于有个能抓住的小计划了。那个声音肯定还会说“才十分钟能干什么”，我得先想好怎么应对。）\n（停手，然后对自己说一句“我开始了”。这句话虽然简单，但说出来就像给自己一个交代。今晚我可能真会试试，然后回来告诉她发生了什么。）"
+      }
+    }
+  ],
+  "created": 1794538622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3708,
+    "total_tokens": 3830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

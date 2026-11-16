@@ -1,0 +1,74 @@
+{
+  "trial_id": "trial_000365",
+  "sample_id": "EU:166",
+  "task": "EU",
+  "language": "zh",
+  "repeat": 0,
+  "category": "perspective_taking",
+  "fine_category": "strange_story",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "E",
+    "answer_q2": "A"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_a3e664102a2c1f9d73b55ff552ef0280436fed42",
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "reply": "{\n    \"answer_q1\": \"E\",\n    \"answer_q2\": \"A\"\n}",
+  "prediction_original": {
+    "answer_q1": "E",
+    "answer_q2": "A"
+  },
+  "component_correct": {
+    "answer_q1": true,
+    "answer_q2": true
+  },
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-12T12:04:19.195970+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-12T12:04:41.075810+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "E",
+    "answer_q2": "A"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 31.819859199225903,
+  "finished_at": "2026-11-12T12:04:51.015737+00:00"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b8f91544a24c4a159642ded098a4ab48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕说错吧。总觉得说出去别人会觉得很怪……在我家也是这样，说什么做什么都得先想想爸妈会怎么看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是没话还是怕说错……这问题有点戳到我。我确实经常在开口前想很多，怕说了冷场，怕别人觉得我奇怪。）\n（在家里也是，爸妈总说“你该怎样怎样”，我好像习惯了先想他们会不会不满意。这跟相亲时那种不自在，可能是同一种东西。）",
+        "reasoning": "（她问我是没话还是怕说错……这问题有点戳到我。我确实经常在开口前想很多，怕说了冷场，怕别人觉得我奇怪。）\n（在家里也是，爸妈总说“你该怎样怎样”，我好像习惯了先想他们会不会不满意。这跟相亲时那种不自在，可能是同一种东西。）"
+      }
+    }
+  ],
+  "created": 1794539932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1932,
+    "total_tokens": 2032,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

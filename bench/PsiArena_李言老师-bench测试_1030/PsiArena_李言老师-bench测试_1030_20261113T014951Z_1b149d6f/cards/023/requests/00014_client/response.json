@@ -1,0 +1,41 @@
+{
+  "id": "98b4ed2f650747eca14e98e86b9991ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我猜……唉，我脑子里冒出来的全是她们会可怜我，或者背后议论我。可你这么一问，我好像也说不出她们真会怎么看我，倒像是我自己先认定了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，我有点答不上来。我总觉得别人知道了就会看轻我，可让我具体说她们会怎么看我，我脑子里一片空白。也许是我从来没敢让别人真正知道过，所以连她们可能的反应都想不出来。）\n（但这么一想，好像确实是我自己先认定了“知道了就会被嫌弃”，才一直躲着。这种感觉挺难受的，又有点说不上来的松动。）",
+        "reasoning": "（她这么问，我有点答不上来。我总觉得别人知道了就会看轻我，可让我具体说她们会怎么看我，我脑子里一片空白。也许是我从来没敢让别人真正知道过，所以连她们可能的反应都想不出来。）\n（但这么一想，好像确实是我自己先认定了“知道了就会被嫌弃”，才一直躲着。这种感觉挺难受的，又有点说不上来的松动。）"
+      }
+    }
+  ],
+  "created": 1794535719,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2425,
+    "total_tokens": 2554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

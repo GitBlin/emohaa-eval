@@ -1,0 +1,41 @@
+{
+  "id": "53fa3d622b7543d0a4fdd60fc59c4e09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了很久）我好像说不出什么好话……可能就“你已经很努力了”吧。但说出来，自己都觉得不太信。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我对自己说温和的话……这让我有点不习惯。我好像从来没对自己说过什么好话，脑子里全是“还不够”“再努力点”。）\n（可如果真要说，也许就是那句“你已经很努力了”。说出来自己都觉得有点别扭，好像不配这么讲。但心里又隐隐觉得，也许真的需要有人这么对我说。）",
+        "reasoning": "（她问我对自己说温和的话……这让我有点不习惯。我好像从来没对自己说过什么好话，脑子里全是“还不够”“再努力点”。）\n（可如果真要说，也许就是那句“你已经很努力了”。说出来自己都觉得有点别扭，好像不配这么讲。但心里又隐隐觉得，也许真的需要有人这么对我说。）"
+      }
+    }
+  ],
+  "created": 1794558231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2015,
+    "total_tokens": 2119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

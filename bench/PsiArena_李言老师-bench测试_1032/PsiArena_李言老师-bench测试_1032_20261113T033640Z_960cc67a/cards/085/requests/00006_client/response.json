@@ -1,0 +1,41 @@
+{
+  "id": "1d3dd695063e4d2ab745f90d5eb66dd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一阵子了吧……说不上来。就是有时候坐在工位上，突然觉得特别慌，又说不出在慌什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种不踏实的感觉持续多久了，看来是想了解我的情绪状态是不是长期的。我其实也说不清楚，就是那种隐隐约约一直存在的感觉，但最近好像更明显了。）\n（我不太敢直接说太多，怕说着说着就控制不住情绪。还是先含糊一点吧，就说是最近更明显，这样既回答了问题，又不用太深入。）",
+        "reasoning": "（咨询师在问我这种不踏实的感觉持续多久了，看来是想了解我的情绪状态是不是长期的。我其实也说不清楚，就是那种隐隐约约一直存在的感觉，但最近好像更明显了。）\n（我不太敢直接说太多，怕说着说着就控制不住情绪。还是先含糊一点吧，就说是最近更明显，这样既回答了问题，又不用太深入。）"
+      }
+    }
+  ],
+  "created": 1794545599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1355,
+    "total_tokens": 1465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

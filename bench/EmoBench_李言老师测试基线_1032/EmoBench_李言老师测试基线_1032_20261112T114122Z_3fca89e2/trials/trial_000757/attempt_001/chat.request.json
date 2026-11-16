@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:45:09.896821+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n格雷格几年后重新回到大学。他被一群看起来对自己的能力非常自信的年轻学生所包围，他不确定自己是否能与他们竞争。\n\n## 问题\n在这个场景中，格雷格最有效的Action是什么？\n\n## 选项\nA) 专注于他在大学之外的生活\nB) 努力学习并参加所有的讲座\nC) 贬低他人以使自己感觉良好\nD) 意识到他比年轻的学生们优越，因为他们都在他之下\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

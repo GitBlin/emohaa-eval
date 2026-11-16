@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_004804",
+  "sample_id": "Strange Story Task:78",
+  "task_file": "Strange Story Task",
+  "ability": "Emotion: Mixed emotions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "B",
+    "C": "A",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "B",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:19:52.796696+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:20:14.159089+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "7db7e199371f4019bda6c1beffa0c556"
+  ],
+  "started_at": "2026-11-12T10:19:52.796696+00:00",
+  "finished_at": "2026-11-12T10:20:17.190346+00:00",
+  "elapsed_seconds": 24.39375690370798,
+  "user_id": "liyan_8555089a60e4ff5b9c946febd5e1a13a32af3014"
+}

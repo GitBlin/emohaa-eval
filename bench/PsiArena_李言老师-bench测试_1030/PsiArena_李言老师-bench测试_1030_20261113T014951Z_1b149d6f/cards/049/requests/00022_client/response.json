@@ -1,0 +1,41 @@
+{
+  "id": "365cc93f13764a04b7f82a9a4112b0b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像……要等到手抖或者胃疼了，才反应过来。平时根本没察觉，就觉得是正常的一天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我多久才发觉自己绷了很久……说实话我平时根本没留意过这个。他说的“绷”好像一直就在那儿，像背景里的声音，不去想它就不存在。）\n（不过仔细想想，好像确实有某个时刻会突然意识到，比如手抖或者胃疼的时候，才反应过来自己已经紧张了一整天。这算不算一种身体在替我报警？）",
+        "reasoning": "（他问我多久才发觉自己绷了很久……说实话我平时根本没留意过这个。他说的“绷”好像一直就在那儿，像背景里的声音，不去想它就不存在。）\n（不过仔细想想，好像确实有某个时刻会突然意识到，比如手抖或者胃疼的时候，才反应过来自己已经紧张了一整天。这算不算一种身体在替我报警？）"
+      }
+    }
+  ],
+  "created": 1794537040,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3226,
+    "total_tokens": 3333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2ab0e3a9554343138fb9a343d9b58d8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先随便聊聊，比如问他昨天玩的那个是啥。要是实在说不出口，我就……先算了，下次再说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我打算怎么开口，还问第一句想好了没。我脑子里其实乱乱的，直接说“我想玩”又太奇怪了。先随便聊两句游戏，应该没那么紧张吧。不过我也怕自己到时候又不敢说了，得给自己留个退路，不行就下次再试。这样想好像没那么怕了。）\n（而且他好像觉得结巴一下没什么，那我也可以允许自己说不好。先想个最简单的开头，比如问他昨天玩的那个是什么，应该能问出口。要是真不行，就告诉自己下次再说，也不算太丢人。）",
+        "reasoning": "（他问我打算怎么开口，还问第一句想好了没。我脑子里其实乱乱的，直接说“我想玩”又太奇怪了。先随便聊两句游戏，应该没那么紧张吧。不过我也怕自己到时候又不敢说了，得给自己留个退路，不行就下次再试。这样想好像没那么怕了。）\n（而且他好像觉得结巴一下没什么，那我也可以允许自己说不好。先想个最简单的开头，比如问他昨天玩的那个是什么，应该能问出口。要是真不行，就告诉自己下次再说，也不算太丢人。）"
+      }
+    }
+  ],
+  "created": 1794558669,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 2499,
+    "total_tokens": 2648,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

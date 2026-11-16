@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:19:17.988267+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOne afternoon, the school announces the latest exam results. Xiao Ming is always the top student in the class, but his performance in this exam is not as good as before. When he sees his report card, he feels very upset. Teacher Li sees his expression, comes over, and says to him: \"Xiao Ming, grades do not represent everything, you are still that shining diamond!\"\n\n[Question]\nDoes Teacher Li really say Xiao Ming is a diamond?\n\n[Candidate Answers]\nA. No\nB. Yes",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:33:33.460849+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLiu Yang, as the captain and good friend Zhao Ming, participates in a football match. Their team wins and gets the first place, Zhao Ming performs outstandingly and gets the MVP. Liu Yang, as the captain, puts in a lot of effort usually, and leads the whole team to work hard in the match. Liu Yang says to Zhao Ming, \"I am so happy, you play really well!\" Liu Yang says to his father, \"I feel very lost.\"\n\n[Question]\nIs what Liu Yang says to Zhao Ming true?\n\n[Candidate Answers]\nA. Yes\nB. No",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8e045afff4984165aa14df765e0a8186",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "估计一开始还是会走神，想着“这十分钟有没有用”。（自嘲地笑）不过要是环境舒服点，可能没那么像交作业。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“十分钟”这个想法拆得更具体，而不是又变成一个新的压力。我想到的不是读书本身，而是开始前那种紧绷感，怕自己又做不好。）\n（可如果连环境都先挑舒服的，也许就没那么像交作业了。我想试着把读书和休息放在一起，而不是和任务绑在一起。）",
+        "reasoning": "（咨询师在帮我把“十分钟”这个想法拆得更具体，而不是又变成一个新的压力。我想到的不是读书本身，而是开始前那种紧绷感，怕自己又做不好。）\n（可如果连环境都先挑舒服的，也许就没那么像交作业了。我想试着把读书和休息放在一起，而不是和任务绑在一起。）"
+      }
+    }
+  ],
+  "created": 1794545435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2487,
+    "total_tokens": 2594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4bc117f60d1f4e379aa4e4e94ce8e83b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是……我一开始收拾东西他就盯着我，穿鞋那会儿就绷不住了。其实说不准，我自己也慌，越慌越觉得他哭得凶。唉，我妈以前总说当妈的要有耐心，可我真做不到那么稳。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得这么细，是希望我留意孩子哭闹的触发点吧。可我真的说不准，也许是我自己先慌了，才觉得他随时都在闹。）\n（想到我妈以前总说当妈的要有耐心，现在我却连早上都撑不住，心里又烦又自责。这种感觉压得我喘不过气，好像怎么做都不够。）",
+        "reasoning": "（咨询师问得这么细，是希望我留意孩子哭闹的触发点吧。可我真的说不准，也许是我自己先慌了，才觉得他随时都在闹。）\n（想到我妈以前总说当妈的要有耐心，现在我却连早上都撑不住，心里又烦又自责。这种感觉压得我喘不过气，好像怎么做都不够。）"
+      }
+    }
+  ],
+  "created": 1794551591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1719,
+    "total_tokens": 1849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

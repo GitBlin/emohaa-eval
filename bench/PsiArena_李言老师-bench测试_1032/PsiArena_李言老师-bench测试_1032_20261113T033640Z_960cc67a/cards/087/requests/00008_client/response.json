@@ -1,0 +1,41 @@
+{
+  "id": "75d5646a8a814dc6acd68d3081bd133b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能更怕真查出什么吧……也怕别人知道。我们家从小就不太说这些，爸妈只会说别想太多、管好自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我更怕查出什么还是怕检查过程……其实我真正怕的是别人知道，怕被当成不正常的人。但既然都说到这了，也许可以稍微透露一点。）\n（家里从小就不太聊这些，爸妈只关心成绩和规矩，别的都不让提。现在每次想开口都觉得像在承认自己有问题，很丢脸。）",
+        "reasoning": "（他问我更怕查出什么还是怕检查过程……其实我真正怕的是别人知道，怕被当成不正常的人。但既然都说到这了，也许可以稍微透露一点。）\n（家里从小就不太聊这些，爸妈只关心成绩和规矩，别的都不让提。现在每次想开口都觉得像在承认自己有问题，很丢脸。）"
+      }
+    }
+  ],
+  "created": 1794545782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1639,
+    "total_tokens": 1746,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

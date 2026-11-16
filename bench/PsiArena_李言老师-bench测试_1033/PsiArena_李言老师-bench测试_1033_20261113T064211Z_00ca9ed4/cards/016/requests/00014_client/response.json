@@ -1,0 +1,41 @@
+{
+  "id": "711661ec64624a89be55eceaa069782d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "告诉妈妈……那条更怕。（低声）说出口就收不回来了，我怕她受不了，也怕她怪我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把问题收窄到两条路里哪条更让我害怕。这个问题一下子戳中了我一直不敢细想的角落。告诉妈妈，意味着我要亲手把那个秘密撕开，她可能会崩溃，而我得承担那个后果；装作不知道，我又得每天看着她蒙在鼓里，自己心里翻江倒海。）\n（我其实更怕的是“说出口”这件事本身。因为不说，我还能假装什么都没发生，维持家里表面的平静。可一旦说了，就再也收不回来了。这种责任太重了，重到我根本扛不动。）",
+        "reasoning": "（咨询师把问题收窄到两条路里哪条更让我害怕。这个问题一下子戳中了我一直不敢细想的角落。告诉妈妈，意味着我要亲手把那个秘密撕开，她可能会崩溃，而我得承担那个后果；装作不知道，我又得每天看着她蒙在鼓里，自己心里翻江倒海。）\n（我其实更怕的是“说出口”这件事本身。因为不说，我还能假装什么都没发生，维持家里表面的平静。可一旦说了，就再也收不回来了。这种责任太重了，重到我根本扛不动。）"
+      }
+    }
+  ],
+  "created": 1794552785,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2253,
+    "total_tokens": 2397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

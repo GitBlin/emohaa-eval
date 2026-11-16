@@ -1,0 +1,41 @@
+{
+  "id": "210b71a1245441a4ac8ea5d6e8b55a70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“瞒着”这件事。因为那些小说内容我还没完全消化，但她瞒着我，让我老觉得是不是自己哪里让她不敢说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我先从哪部分说起。我得想想，现在心里最卡着的是哪一块。是那些小说内容让我不舒服，还是她瞒着我这件事更让我难受？）\n（应该是瞒着这件事。因为那让我觉得，她是不是觉得跟我说了我会看不起她，或者我平时让她觉得没法开口。这个念头比小说本身更让我翻来覆去地想。我得把这点说清楚，但别一下子扯太远。）",
+        "reasoning": "（她问我先从哪部分说起。我得想想，现在心里最卡着的是哪一块。是那些小说内容让我不舒服，还是她瞒着我这件事更让我难受？）\n（应该是瞒着这件事。因为那让我觉得，她是不是觉得跟我说了我会看不起她，或者我平时让她觉得没法开口。这个念头比小说本身更让我翻来覆去地想。我得把这点说清楚，但别一下子扯太远。）"
+      }
+    }
+  ],
+  "created": 1794545428,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2938,
+    "total_tokens": 3062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

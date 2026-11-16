@@ -1,0 +1,41 @@
+{
+  "id": "79c6ffe1838744c3a82bd237ef0d659b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我大概想说……我真的已经很努力了，不是不想学。就是有时候真的很累，累到不想再撑了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想让别人先知道哪一句……这个问题让我有点措手不及。我好像从来没认真想过要跟谁说些什么，因为总觉得说了也没用。但真被问到的时候，心里好像有个声音在说“我真的已经很累了”。）\n（可是说出来又有点难为情，好像承认自己撑不住了一样。爸妈总说读书哪有那么累，我也不知道别人是不是也这样。也许我只是不够努力，才会觉得这么累吧。）",
+        "reasoning": "（她问我最想让别人先知道哪一句……这个问题让我有点措手不及。我好像从来没认真想过要跟谁说些什么，因为总觉得说了也没用。但真被问到的时候，心里好像有个声音在说“我真的已经很累了”。）\n（可是说出来又有点难为情，好像承认自己撑不住了一样。爸妈总说读书哪有那么累，我也不知道别人是不是也这样。也许我只是不够努力，才会觉得这么累吧。）"
+      }
+    }
+  ],
+  "created": 1794536622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2241,
+    "total_tokens": 2361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

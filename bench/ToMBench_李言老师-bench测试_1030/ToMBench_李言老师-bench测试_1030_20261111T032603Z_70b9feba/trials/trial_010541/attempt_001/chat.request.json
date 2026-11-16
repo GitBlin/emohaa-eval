@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:03.989168+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Chen gets second place in the school speech competition, and his good friend wins first place. Li Chen says to his teacher: \"I am happy that my friend wins!\" Li Chen says to his dad: \"I am really disappointed, I want to win.\"\n\n[Question]\nWhy does Li Chen feel both happy and disappointed?\n\n[Candidate Answers]\nA. He is happy that his friend wins, but disappointed with his own ranking.\nB. He is happy that his friend wins, but disappointed that he does not get first place.\nC. He is happy because the competition ends, but disappointed because he thinks he does not speak well.\nD. He does not care about the competition results, he just wants to make his dad happy.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

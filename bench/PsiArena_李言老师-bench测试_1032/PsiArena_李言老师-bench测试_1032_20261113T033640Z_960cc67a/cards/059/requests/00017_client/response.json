@@ -1,0 +1,41 @@
+{
+  "id": "47337345b92a4b35bfc029bba55d058c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周小组汇报吧。我准备了好久，一上去看到有人低头看手机，就感觉声音都在抖，后面越说越快。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没有否定我的感受，还说我是在保护自己……这让我稍微放松了一点。不过被问到最近哪一次最在意，脑子里马上冒出那次小组汇报。）\n（就是上周的事吧，我准备了很久，上台前还在心里默念，结果一开口看到下面有人低头看手机，声音就有点抖。那种感觉现在想起来还是有点难受。）",
+        "reasoning": "（咨询师好像没有否定我的感受，还说我是在保护自己……这让我稍微放松了一点。不过被问到最近哪一次最在意，脑子里马上冒出那次小组汇报。）\n（就是上周的事吧，我准备了很久，上台前还在心里默念，结果一开口看到下面有人低头看手机，声音就有点抖。那种感觉现在想起来还是有点难受。）"
+      }
+    }
+  ],
+  "created": 1794544195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2489,
+    "total_tokens": 2596,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

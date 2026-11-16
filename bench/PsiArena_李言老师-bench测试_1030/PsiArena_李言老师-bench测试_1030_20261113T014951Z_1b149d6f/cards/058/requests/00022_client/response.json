@@ -1,0 +1,41 @@
+{
+  "id": "2ef3ab2923fe45828caeb355858e9968",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默）……好像是我妈那种“别太当真”的语气，但又比她说得狠。可能是我自己把它学过来了，还加了码。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个声音像谁……我第一反应是妈妈，可又觉得不完全对。妈妈不会这么刻薄，她只是习惯性地担心我，说“别太当真”之类的话。但那个声音确实是从她那里来的，只是被我学成了更严厉的版本。）\n（我有点不想承认这一点，好像承认了就是在怪她。可刚才咨询师说这不是我的错，我是不是可以试着说出来？反正说了也不会真的怪谁。）",
+        "reasoning": "（她问这个声音像谁……我第一反应是妈妈，可又觉得不完全对。妈妈不会这么刻薄，她只是习惯性地担心我，说“别太当真”之类的话。但那个声音确实是从她那里来的，只是被我学成了更严厉的版本。）\n（我有点不想承认这一点，好像承认了就是在怪她。可刚才咨询师说这不是我的错，我是不是可以试着说出来？反正说了也不会真的怪谁。）"
+      }
+    }
+  ],
+  "created": 1794537490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3403,
+    "total_tokens": 3533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

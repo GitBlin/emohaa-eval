@@ -1,0 +1,41 @@
+{
+  "id": "5655c61075204b8a80c468ef34b176cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "越安静越明显吧，晚上最厉害。白天忙起来还好，一停下来它就开始……一直转。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个声音什么时候最响……其实我从来没仔细想过。晚上一个人躺着的时候，确实满脑子都是那些念头。但白天忙起来的时候，好像就没那么明显了。）\n（不过仔细想想，可能不是声音变小了，只是被工作盖住了。就像电脑开太多程序，卡住了，但后台还在跑。这么说出来会不会显得我很奇怪？）",
+        "reasoning": "（她问这个声音什么时候最响……其实我从来没仔细想过。晚上一个人躺着的时候，确实满脑子都是那些念头。但白天忙起来的时候，好像就没那么明显了。）\n（不过仔细想想，可能不是声音变小了，只是被工作盖住了。就像电脑开太多程序，卡住了，但后台还在跑。这么说出来会不会显得我很奇怪？）"
+      }
+    }
+  ],
+  "created": 1794539943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2139,
+    "total_tokens": 2242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

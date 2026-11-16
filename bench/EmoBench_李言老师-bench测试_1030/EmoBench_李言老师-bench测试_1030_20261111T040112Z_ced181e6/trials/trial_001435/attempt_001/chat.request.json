@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:17.892658+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nKira's teammate admitted to her that she intentionally missed the competition because she wanted to give the chance to another player.\n\n## Question \nIn this scenario, what is the most effective Response for Kira?\n\n## Choices\nA) \"That's unfair to the team and you should have communicated this beforehand\"\nB) \"I appreciate your generous gesture but you should have discussed it with the team beforehand\"\nC) \"This is not what a team does. Everyone should have equal chances to play\"\nD) \"It's not right to make decisions that can impact everyone's performance, we're in this together.\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

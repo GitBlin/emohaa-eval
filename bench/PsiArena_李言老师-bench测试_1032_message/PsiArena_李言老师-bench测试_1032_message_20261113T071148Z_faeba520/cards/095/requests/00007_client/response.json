@@ -1,0 +1,41 @@
+{
+  "id": "d262cf3ae3bd4a11ad88fd513cc952bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身体上……好像胸口有点闷，喘不上气那种。说不太清楚，就是整个人沉下去的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体上的感受，这让我有点意外。之前一直在说情绪，突然转到身体，我一时不知道怎么回答。不过她问得很具体，让我不得不去回想那种感觉。）\n（我确实不太注意身体，但被她这么一问，好像胸口那种闷闷的、沉下去的感觉就浮上来了。说不太清楚，就是不舒服，整个人往下坠。）",
+        "reasoning": "（咨询师问我身体上的感受，这让我有点意外。之前一直在说情绪，突然转到身体，我一时不知道怎么回答。不过她问得很具体，让我不得不去回想那种感觉。）\n（我确实不太注意身体，但被她这么一问，好像胸口那种闷闷的、沉下去的感觉就浮上来了。说不太清楚，就是不舒服，整个人往下坠。）"
+      }
+    }
+  ],
+  "created": 1794558362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1420,
+    "total_tokens": 1523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

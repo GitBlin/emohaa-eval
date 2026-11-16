@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_002416",
+  "sample_id": "Unexpected Outcome Test:74",
+  "task_file": "Unexpected Outcome Test",
+  "ability": "Belief: Sequence false beliefs",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "D",
+    "B": "B",
+    "C": "C",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "B",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:47:07.050382+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:47:28.470105+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "2140606e6b634ecab32f2b8fc8d54e60"
+  ],
+  "started_at": "2026-11-12T09:47:07.050382+00:00",
+  "finished_at": "2026-11-12T09:47:31.897778+00:00",
+  "elapsed_seconds": 24.847492657601833,
+  "user_id": "liyan_5f96381776baf63fd74f66280e59352233136c35"
+}

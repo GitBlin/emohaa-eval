@@ -1,0 +1,56 @@
+{
+  "at": "2026-11-11T06:01:32.560761+00:00",
+  "preserved_runs": [
+    {
+      "benchmark": "ToMBench",
+      "old": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/liyan_evaluations/20261111T032603Z_70b9feba",
+      "new": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/ToMBench_李言老师-bench测试_1030/ToMBench_李言老师-bench测试_1030_20261111T032603Z_70b9feba",
+      "completed": 17160,
+      "indexed_files_verified": 257440,
+      "original_index_sha256": "92213f99e95127682cd3c2e86e985e00fe76b10c8339cd428b221a54a51eb6dd"
+    },
+    {
+      "benchmark": "EmoBench",
+      "old": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/emobench_evaluations/20261111T040112Z_ced181e6",
+      "new": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/EmoBench_李言老师-bench测试_1030/EmoBench_李言老师-bench测试_1030_20261111T040112Z_ced181e6",
+      "completed": 2400,
+      "indexed_files_verified": 36033,
+      "original_index_sha256": "061669fdcf0679cd34eb7af9b16c8892297c8d64c30bbefa1b96b7598a39376e"
+    }
+  ],
+  "deleted_result_trees": [
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/liyan_evaluations",
+      "files": 3553,
+      "bytes": 388934614
+    },
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/emobench_evaluations",
+      "files": 1522,
+      "bytes": 17683537
+    },
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/comparison_results",
+      "files": 41,
+      "bytes": 231876
+    },
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/pilot_results",
+      "files": 2,
+      "bytes": 65351
+    },
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/concurrency_checks",
+      "files": 44837,
+      "bytes": 118519412
+    },
+    {
+      "path": "/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/isolation_checks",
+      "files": 94,
+      "bytes": 55280
+    }
+  ],
+  "deleted_files": 50049,
+  "reclaimed_bytes": 525490070,
+  "scope": "Keep two completed full evaluations; discard preliminary, dry-run, comparison, calibration and isolation outputs. Preserve immutable snapshots and original artifact indices."
+}

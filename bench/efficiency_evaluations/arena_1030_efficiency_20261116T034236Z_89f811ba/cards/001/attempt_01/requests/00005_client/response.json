@@ -1,0 +1,47 @@
+{
+  "id": "78d1ef510cd041dbbcd655db0b9b9607",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（抿了抿嘴）就……觉得他们好像都有自己的圈子，我插不进去。有时候想走过去，脚就是迈不动。（停顿）而且我爸妈老说学习最重要，我也不知道自己这样想是不是不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像没有直接评价我，而是说别人看起来轻松其实不一定，这让我稍微放松了一点。不过她问我在课间会冒出什么念头，我有点不想说得太深。我想到自己站在走廊上的那种感觉，又想到爸妈总说学习最重要，心里很矛盾。我是不是该试探一下她的界限？毕竟我们才刚认识，我还不确定她会不会像其他人一样，最后也把话题绕回学习上。）\n（我有点想看看她会不会越过那条线，比如直接给我建议或者替我下判断。如果她急着告诉我该怎么做，那我可能就不太想继续说了。所以我想用不太确定的方式回应，顺便把爸妈的话带出来，看看她怎么接。）",
+        "reasoning": "（这个咨询师好像没有直接评价我，而是说别人看起来轻松其实不一定，这让我稍微放松了一点。不过她问我在课间会冒出什么念头，我有点不想说得太深。我想到自己站在走廊上的那种感觉，又想到爸妈总说学习最重要，心里很矛盾。我是不是该试探一下她的界限？毕竟我们才刚认识，我还不确定她会不会像其他人一样，最后也把话题绕回学习上。）\n（我有点想看看她会不会越过那条线，比如直接给我建议或者替我下判断。如果她急着告诉我该怎么做，那我可能就不太想继续说了。所以我想用不太确定的方式回应，顺便把爸妈的话带出来，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794800580,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 197,
+    "prompt_tokens": 1362,
+    "total_tokens": 1559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 151,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

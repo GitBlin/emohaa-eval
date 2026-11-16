@@ -1,0 +1,41 @@
+{
+  "id": "980654bea9074c179526523a5a759cf7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周开会吧。我说了个玩笑，大家都笑了，可我马上又后悔，怕领导觉得我不专业。唉，明明气氛挺好，我却在那儿提心吊胆的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次看人脸色是什么场合……脑子里一下就冒出上周开会的事。那个瞬间特别清楚，我笑完就后悔了，生怕领导觉得我不够专业。）\n（其实这种场景太多了，每天都在发生。但被她这么一问，我才意识到自己连高兴都要先看别人反应，这习惯好像真的改不掉。说出来有点难为情，但好像也只能承认了。）",
+        "reasoning": "（她问我最近一次看人脸色是什么场合……脑子里一下就冒出上周开会的事。那个瞬间特别清楚，我笑完就后悔了，生怕领导觉得我不够专业。）\n（其实这种场景太多了，每天都在发生。但被她这么一问，我才意识到自己连高兴都要先看别人反应，这习惯好像真的改不掉。说出来有点难为情，但好像也只能承认了。）"
+      }
+    }
+  ],
+  "created": 1794535023,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1892,
+    "total_tokens": 2011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

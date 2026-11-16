@@ -1,0 +1,41 @@
+{
+  "id": "e6f22af72aa24702a3e9a814934c16db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是些日常的事……她问我假期回不回家，我说可能想跟朋友出去一趟。然后她就一直说外面不安全、乱花钱什么的。哎，其实我还没想好要不要说这些，你会不会觉得我有点矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很自然地就想往那通电话的细节里问……可我还没准备好把家里那些事都摊开。而且，我其实连他是什么样的人都还不知道，这么快就说到具体的事，让我有点不安。）\n（也许我可以先绕一下，不直接回答电话内容，而是试探一下他的立场。毕竟我之前也遇到过那种上来就劝人“多体谅父母”的人，如果他也是那样，我就不想再往下说了。问问他会不会觉得我矫情，也算是给自己留个退路。）",
+        "reasoning": "（咨询师好像很自然地就想往那通电话的细节里问……可我还没准备好把家里那些事都摊开。而且，我其实连他是什么样的人都还不知道，这么快就说到具体的事，让我有点不安。）\n（也许我可以先绕一下，不直接回答电话内容，而是试探一下他的立场。毕竟我之前也遇到过那种上来就劝人“多体谅父母”的人，如果他也是那样，我就不想再往下说了。问问他会不会觉得我矫情，也算是给自己留个退路。）"
+      }
+    }
+  ],
+  "created": 1794536008,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 1182,
+    "total_tokens": 1343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1f1b641caf6c4823878ba396d2626034",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……觉得家丑不可外扬吧。我从小就被教育要维护家里的体面，说出来好像是在背叛家里人一样。可憋在心里又特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“不太好”的感觉是什么……我其实自己也说不明白。是怕说了就成了不孝的女儿？还是怕说出来就真的变成事实了？）\n（我总觉得家里的事不该往外说，尤其是这种事。可心里又堵得慌，好像不说出来就永远没法喘气。要不……先含糊地说一点试试？）",
+        "reasoning": "（她问我“不太好”的感觉是什么……我其实自己也说不明白。是怕说了就成了不孝的女儿？还是怕说出来就真的变成事实了？）\n（我总觉得家里的事不该往外说，尤其是这种事。可心里又堵得慌，好像不说出来就永远没法喘气。要不……先含糊地说一点试试？）"
+      }
+    }
+  ],
+  "created": 1794535462,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1445,
+    "total_tokens": 1551,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

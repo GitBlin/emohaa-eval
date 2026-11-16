@@ -1,0 +1,41 @@
+{
+  "id": "b41a6d05df324af7b99b97cdee22f9aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我想跟你聊聊我最近的压力，你先听我说完，不用马上给建议，好吗？”说出口好像没那么难，但我怕自己说着说着就哭了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我练习怎么跟丈夫开口，这让我觉得有点紧张，但好像也有一点方向了。我担心自己真说出来的时候会忍不住带情绪，反而让他觉得我在怪他。）\n（我想先跟咨询师确认一下，如果说着说着哭了怎么办，这样我可能会稍微安心一点。毕竟我习惯压着情绪，突然要表达需要，心里没底。）",
+        "reasoning": "（咨询师在引导我练习怎么跟丈夫开口，这让我觉得有点紧张，但好像也有一点方向了。我担心自己真说出来的时候会忍不住带情绪，反而让他觉得我在怪他。）\n（我想先跟咨询师确认一下，如果说着说着哭了怎么办，这样我可能会稍微安心一点。毕竟我习惯压着情绪，突然要表达需要，心里没底。）"
+      }
+    }
+  ],
+  "created": 1794548709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3425,
+    "total_tokens": 3545,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

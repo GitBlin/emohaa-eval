@@ -1,0 +1,41 @@
+{
+  "id": "a2a3e92a435b450181c54004fe935597",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）上周在窗边发呆了一会儿，好像什么也没发生。不过事后我还是有点不放心，反复确认了一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近有没有放松却没出事的时刻……我第一反应是“没有”，但仔细想想，上周那个下午好像确实稍微松了一下。虽然只是很短的一会儿，但事后什么都没发生。）\n（这让我有点意外，也有点不确定。也许我可以试着把这件事说出来，看看她怎么理解。毕竟我一直在提防着，连这种小小的放松都会让我事后反复确认。）",
+        "reasoning": "（她问我最近有没有放松却没出事的时刻……我第一反应是“没有”，但仔细想想，上周那个下午好像确实稍微松了一下。虽然只是很短的一会儿，但事后什么都没发生。）\n（这让我有点意外，也有点不确定。也许我可以试着把这件事说出来，看看她怎么理解。毕竟我一直在提防着，连这种小小的放松都会让我事后反复确认。）"
+      }
+    }
+  ],
+  "created": 1794543591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2810,
+    "total_tokens": 2919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

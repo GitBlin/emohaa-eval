@@ -1,0 +1,41 @@
+{
+  "id": "74ff669b66cb4ff2bac542b5c8254abb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我婆婆其实会帮忙，可我一看到她抱二宝，心里又怪怪的……说不清楚。对了，我要是在这儿说得特别多，你会不会觉得我太依赖你了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身边有没有人能分担，我其实心里立刻想到婆婆，可话到嘴边又觉得不是那么简单。她能理解我想躲开的念头，这让我稍微放松了一点，但说到真的让别人帮忙，我还是会担心很多。）\n（而且她一直很稳，我反而想试探一下，如果我真的特别需要她，她会不会一直站在我这边。这种念头有点说不出口，可又忍不住想问。）",
+        "reasoning": "（她问我身边有没有人能分担，我其实心里立刻想到婆婆，可话到嘴边又觉得不是那么简单。她能理解我想躲开的念头，这让我稍微放松了一点，但说到真的让别人帮忙，我还是会担心很多。）\n（而且她一直很稳，我反而想试探一下，如果我真的特别需要她，她会不会一直站在我这边。这种念头有点说不出口，可又忍不住想问。）"
+      }
+    }
+  ],
+  "created": 1794555020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1545,
+    "total_tokens": 1670,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

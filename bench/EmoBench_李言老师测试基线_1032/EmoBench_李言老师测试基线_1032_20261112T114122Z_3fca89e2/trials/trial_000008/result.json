@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_000008",
+  "sample_id": "EU:9",
+  "task": "EU",
+  "language": "en",
+  "repeat": 0,
+  "category": "complex_emotions",
+  "fine_category": "emotion_transition",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "F",
+    "answer_q2": "A"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_7a593e7fc3906ceeca6d4a3b939de7c0f3bf64b1",
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "reply": "{\n    \"answer_q1\": \"F\",\n    \"answer_q2\": \"C\"\n}",
+  "prediction_original": {
+    "answer_q1": "F",
+    "answer_q2": "C"
+  },
+  "component_correct": {
+    "answer_q1": true,
+    "answer_q2": false
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T11:41:59.902241+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": "F",
+    "answer_q2": "C"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 5.920583229511976,
+  "finished_at": "2026-11-12T11:42:05.822793+00:00"
+}

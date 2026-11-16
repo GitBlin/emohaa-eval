@@ -1,0 +1,41 @@
+{
+  "id": "ae74a3d79979439586ee2349aa60f51a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天吧，先挑一封不太重要的邮件。不过我得先想好，只少检查一遍，不能又忍不住全补回来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是具体时间，这让我有点紧张，好像马上要交作业一样。我其实还没完全准备好，但也不想显得又在逃避。先定个最近的日子吧，给自己一点缓冲，也让她知道我是认真在考虑的。）\n（不过光说时间还不够，我得把条件说清楚，不然到时候做不到会更挫败。加个“只少检查一遍”的限定，心里踏实些，也算是我能接受的步子。）",
+        "reasoning": "（她问的是具体时间，这让我有点紧张，好像马上要交作业一样。我其实还没完全准备好，但也不想显得又在逃避。先定个最近的日子吧，给自己一点缓冲，也让她知道我是认真在考虑的。）\n（不过光说时间还不够，我得把条件说清楚，不然到时候做不到会更挫败。加个“只少检查一遍”的限定，心里踏实些，也算是我能接受的步子。）"
+      }
+    }
+  ],
+  "created": 1794555846,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2753,
+    "total_tokens": 2874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

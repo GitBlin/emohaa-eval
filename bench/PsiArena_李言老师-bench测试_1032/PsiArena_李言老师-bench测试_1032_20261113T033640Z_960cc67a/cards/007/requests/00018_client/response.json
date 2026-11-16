@@ -1,0 +1,41 @@
+{
+  "id": "3ae338ed300948c6b49ce9b6924d8bff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我怕他们说“这有什么大不了的”，然后我又不知道怎么接。可能我得先想好，怎么讲清楚我是真的睡不着，不是故意挑事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把话说得更具体，还问我担心理由。这让我感觉她是在认真帮我想办法，不是随便敷衍。可一想到真要开口，我又有点慌，怕自己说不好，也怕室友觉得我小题大做。）\n（我确实怕他们觉得这事不重要，随便应付我。但如果我先说清楚自己的难处，也许他们会稍微理解一点。只是我不知道怎么把“我睡不着”说得不那么像抱怨。）",
+        "reasoning": "（咨询师在帮我把话说得更具体，还问我担心理由。这让我感觉她是在认真帮我想办法，不是随便敷衍。可一想到真要开口，我又有点慌，怕自己说不好，也怕室友觉得我小题大做。）\n（我确实怕他们觉得这事不重要，随便应付我。但如果我先说清楚自己的难处，也许他们会稍微理解一点。只是我不知道怎么把“我睡不着”说得不那么像抱怨。）"
+      }
+    }
+  ],
+  "created": 1794548260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2678,
+    "total_tokens": 2804,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

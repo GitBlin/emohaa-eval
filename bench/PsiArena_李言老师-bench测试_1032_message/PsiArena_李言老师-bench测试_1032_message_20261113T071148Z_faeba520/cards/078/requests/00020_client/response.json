@@ -1,0 +1,41 @@
+{
+  "id": "6711caffc9fb409d8820444d2d8f8542",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点酸，也有点别扭。好像不太习惯对自己好一点。可要真这么说，我又怕自己一下子松过头了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把对朋友说的那句话讲给自己听……我心里有点发酸。平时都是我在体谅别人，从没想过也能这样对自己。）\n（可要是真对自己说“歇会儿没事”，我又觉得别扭，好像一松口就会变成偷懒的借口。家里那些事，还有单位，总得有人撑着吧。）",
+        "reasoning": "（她让我把对朋友说的那句话讲给自己听……我心里有点发酸。平时都是我在体谅别人，从没想过也能这样对自己。）\n（可要是真对自己说“歇会儿没事”，我又觉得别扭，好像一松口就会变成偷懒的借口。家里那些事，还有单位，总得有人撑着吧。）"
+      }
+    }
+  ],
+  "created": 1794557677,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2654,
+    "total_tokens": 2753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "95be641556244318b65d6b4a3879e894",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈的声音吧，她总说“你这样人家会怎么看”。还有……那些相亲对象的眼神，虽然还没见，我好像已经能想象出来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我挑衣服时脑子里会冒出谁的声音。这个问题让我一下子想到我妈，她总说我穿得不够得体，还有那些相亲对象挑剔的眼神。我好像一直在按别人的标准活着，连穿什么都要先想别人会怎么评判。）\n（这种感觉挺难受的，说出来有点难为情。我其实也意识到自己太在意别人的看法了，但好像控制不住。也许该承认这一点，虽然承认了会显得我很没主见。）",
+        "reasoning": "（咨询师问的是我挑衣服时脑子里会冒出谁的声音。这个问题让我一下子想到我妈，她总说我穿得不够得体，还有那些相亲对象挑剔的眼神。我好像一直在按别人的标准活着，连穿什么都要先想别人会怎么评判。）\n（这种感觉挺难受的，说出来有点难为情。我其实也意识到自己太在意别人的看法了，但好像控制不住。也许该承认这一点，虽然承认了会显得我很没主见。）"
+      }
+    }
+  ],
+  "created": 1794554736,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2137,
+    "total_tokens": 2268,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

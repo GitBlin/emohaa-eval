@@ -1,0 +1,41 @@
+{
+  "id": "ef53d50ee883416786a30c6855ac19a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "课间吧，他们一般在操场。我一下课就往办公室那边走，不往操场去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体怎么行动了，问我什么时候去。我得想想哪个时间最合适，课间他们经常在操场，放学后可能人少一点。但是放学后老师还在吗？我不太确定，有点担心去了找不到人。）\n（还是课间去比较好吧，至少老师肯定在办公室。而且课间他们主要在外面，我往办公室走应该不会太显眼。不过万一路上碰到他们怎么办……算了，先这么定吧。）",
+        "reasoning": "（咨询师在帮我想具体怎么行动了，问我什么时候去。我得想想哪个时间最合适，课间他们经常在操场，放学后可能人少一点。但是放学后老师还在吗？我不太确定，有点担心去了找不到人。）\n（还是课间去比较好吧，至少老师肯定在办公室。而且课间他们主要在外面，我往办公室走应该不会太显眼。不过万一路上碰到他们怎么办……算了，先这么定吧。）"
+      }
+    }
+  ],
+  "created": 1794541177,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2757,
+    "total_tokens": 2878,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

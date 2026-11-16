@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:18:59.430900+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n多利安需要立即进行一项手术，他对这个过程感到非常害怕。他听说这个手术很痛苦，成功率也不高。\n\n## 问题\n在这个场景中，多利安最有效的Action是什么？\n\n## 选项\nA) 尽可能地去了解手术过程，并考虑可能发生的最坏情况\nB) 和朋友聚会，这样他就不会去想即将到来的手术\nC) 和家人谈谈，获得关于离世的安慰\nD) 和他的医生讨论会发生什么\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

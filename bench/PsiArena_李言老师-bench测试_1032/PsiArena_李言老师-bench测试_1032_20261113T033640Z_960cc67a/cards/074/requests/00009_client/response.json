@@ -1,0 +1,41 @@
+{
+  "id": "6ea9400a563d41e09624c0dd70a8fac7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前天吧，开会的时候我提了个小建议，结果有个同事笑了一下，我当场就脸热了。后来一整天都在想，是不是我说得很蠢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次特别在意别人眼光的场景，这让我马上想到前天会议室里的事。那种被当众点名的感觉又浮上来了，好像所有人都在看我，觉得我连这点事都做不好。）\n（其实我明白同事可能只是随口一说，但当时就是控制不住地心慌。我是不是太敏感了？可那种被评价的紧张感特别真实，就像小时候考试没考好被爸妈盯着看一样。）",
+        "reasoning": "（咨询师问的是最近一次特别在意别人眼光的场景，这让我马上想到前天会议室里的事。那种被当众点名的感觉又浮上来了，好像所有人都在看我，觉得我连这点事都做不好。）\n（其实我明白同事可能只是随口一说，但当时就是控制不住地心慌。我是不是太敏感了？可那种被评价的紧张感特别真实，就像小时候考试没考好被爸妈盯着看一样。）"
+      }
+    }
+  ],
+  "created": 1794545013,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1635,
+    "total_tokens": 1768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

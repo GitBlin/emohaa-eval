@@ -1,0 +1,41 @@
+{
+  "id": "1bd32c01e14a4230b6fa8cbf11763a65",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有……说了也没用，他们只会说“我们是为你好”。在家里表达情绪好像总是很麻烦，我得先想好会不会让他们担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我有没有试着跟爸妈表达过自己的希望，这让我想起家里那种氛围。他们确实是关心我，但那种方式让我觉得自己的情绪好像不被允许存在。）\n（我好像从来没认真跟他们说过，因为说了也没用，他们总觉得我太敏感。这种“为你好”的提醒，听多了反而让我更不敢表达真实感受了。）",
+        "reasoning": "（咨询师问到我有没有试着跟爸妈表达过自己的希望，这让我想起家里那种氛围。他们确实是关心我，但那种方式让我觉得自己的情绪好像不被允许存在。）\n（我好像从来没认真跟他们说过，因为说了也没用，他们总觉得我太敏感。这种“为你好”的提醒，听多了反而让我更不敢表达真实感受了。）"
+      }
+    }
+  ],
+  "created": 1794541404,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2013,
+    "total_tokens": 2121,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

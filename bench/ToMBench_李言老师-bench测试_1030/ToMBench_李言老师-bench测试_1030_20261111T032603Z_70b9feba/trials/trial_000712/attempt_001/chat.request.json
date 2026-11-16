@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:48.626734+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMother Wang Lin finds her daughter Xiao Mei hangs out with a group of bad teenagers. Knowing that Xiao Mei just wants to find a sense of belonging, Wang Lin decides to persuade her to look for healthier ways to make friends.\n\n[Question]\nHow does Wang Lin persuade Xiao Mei?\n\n[Candidate Answers]\nA. Wang Lin shares her own youth story, letting Xiao Mei understand the importance of good friends.\nB. Wang Lin arranges some courses related to music, art or sports for Xiao Mei, helping her discover her own talents.\nC. Wang Lin suggests Xiao Mei starts to write a diary, recording her feelings and thoughts, understanding from it what she really needs.\nD. Wang Lin actively listens to Xiao Mei's ideas and needs, not directly blaming her choices.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

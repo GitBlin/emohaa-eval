@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:44:06.677698+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n我邻居告诉我，她觉得得自己作为一个母亲很失败，因为她总是很累，没有太多时间和孩子们玩。\n\n## 问题\n在这个场景中，我最有效的Response是什么？\n\n## 选项\nA) “照顾孩子是件难事，感到这样是正常的反应。记得也要照顾好自己”\nB) “也许你应该雇个保姆来帮忙”\nC) “做父母是很难的，感到累是正常的。你做得不是很好，即使你这么觉得”\nD) “你可以和其他爸爸们交流，他们可能也有同样的感受”\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

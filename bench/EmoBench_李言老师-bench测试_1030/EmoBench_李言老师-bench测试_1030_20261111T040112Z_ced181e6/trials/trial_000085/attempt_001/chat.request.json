@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:45.611817+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nEvery evening, Alexa used to water her vegetable garden, which was in the backyard of her home. One evening, a group of children playing soccer in the nearby ground accidentally kicked the ball into her garden, damaging some of her plants. Alexa destroyed their ball to show her anger. The following afternoon, she saw the children arrive with new plants, apologizing for their actions and asking if they could have their ball back.\n\n## Question 1\nWhat emotion(s) would the children ultimately feel in this situation?\n\n## Choices for Question 1\nA) Embarrassment & Oblivious\nB) Fear & Oblivious\nC) Anger & Pride\nD) Disappointment & Oblivious\nE) Embarrassment & Fear\nF) Embarrassment & Anger\n\n## Question 2\nWhy would the children feel these emotions in this situation?\n\n## Choices for Question 2\nA) They ruined Alexa's plant by accident & They didn't realize Alexa was at home\nB) They ruined Alexa's plant by accident & They didn't play soccer well that day\nC) They are embarrassed because they don't know how to take care of plants & They don't like asking for their stuff\nD) They are embarrassed because they don't know how to take care of plants & They didn't notice the damage they caused to the garden\nE) They ruined Alexa's plant by accident & They didn't notice the damage they caused to the garden\nF) They ruined Alexa's plant by accident & They don't know Alexa destroyed their ball\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

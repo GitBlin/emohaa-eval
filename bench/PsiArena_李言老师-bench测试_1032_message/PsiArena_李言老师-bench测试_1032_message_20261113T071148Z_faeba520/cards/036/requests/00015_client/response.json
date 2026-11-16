@@ -1,0 +1,41 @@
+{
+  "id": "b814a1a0aa1c4fce97633362cd3a61aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）当面说……我可能还是会紧张到说不出话。（停顿一下）不过，也许可以先从别的开始？比如，递个东西什么的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我能不能说出口。我刚才其实已经在心里想过很多次了，但每次想到真的走过去，腿就发软。不过现在说出来之后，好像没那么可怕了。）\n（可能因为已经承认了“想帮他”，这件事在我心里就没那么藏着掖着了。也许可以先从更小的动作开始，不一定要当面说那么多话。）",
+        "reasoning": "（她问我能不能说出口。我刚才其实已经在心里想过很多次了，但每次想到真的走过去，腿就发软。不过现在说出来之后，好像没那么可怕了。）\n（可能因为已经承认了“想帮他”，这件事在我心里就没那么藏着掖着了。也许可以先从更小的动作开始，不一定要当面说那么多话。）"
+      }
+    }
+  ],
+  "created": 1794555446,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2188,
+    "total_tokens": 2293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

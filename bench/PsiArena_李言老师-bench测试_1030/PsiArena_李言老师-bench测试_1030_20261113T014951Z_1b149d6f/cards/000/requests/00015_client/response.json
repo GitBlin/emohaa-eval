@@ -1,0 +1,41 @@
+{
+  "id": "cf135f0a08334125ade3d11d61e4270d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多半是“这样不对”或者“你应该……”。我兴冲冲说点什么，最后常被纠正。久了我就先在心里过一遍，觉得说漂亮了才敢开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我小时候开口说话时最常收到的回应...这个问题让我有点不舒服，因为它戳到了那些我不太愿意回想的记忆。）\n（父母总是很忙，我兴冲冲想跟他们分享什么的时候，他们不是在处理事情就是在纠正我。那种感觉...好像我的表达永远不够好，永远差一点。久而久之，我就学会了先在心里过一遍，觉得说得够好了才开口。）",
+        "reasoning": "（她问的是我小时候开口说话时最常收到的回应...这个问题让我有点不舒服，因为它戳到了那些我不太愿意回想的记忆。）\n（父母总是很忙，我兴冲冲想跟他们分享什么的时候，他们不是在处理事情就是在纠正我。那种感觉...好像我的表达永远不够好，永远差一点。久而久之，我就学会了先在心里过一遍，觉得说得够好了才开口。）"
+      }
+    }
+  ],
+  "created": 1794534658,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2448,
+    "total_tokens": 2570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

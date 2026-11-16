@@ -1,0 +1,47 @@
+{
+  "id": "80963cc6bdd44f19a9d960a9ae5b3c44",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有句话我记挺久的，说我“什么都写脸上，这样会吃亏”。当时我笑笑就过去了，可后来老想起来。其实……我也不确定他们是不是好意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体的话，但我现在还没准备好那么快讲细节。他问得挺温和的，可我心里还是有点防备，不太想马上把那些话摊开来说。）\n（不过既然他问了，我也可以稍微提一点表面的东西，比如同事说我笑得太明显之类的。但我不想深入解释为什么这句话让我堵，先看看他接下来会怎么反应。）",
+        "reasoning": "（咨询师在引导我回忆具体的话，但我现在还没准备好那么快讲细节。他问得挺温和的，可我心里还是有点防备，不太想马上把那些话摊开来说。）\n（不过既然他问了，我也可以稍微提一点表面的东西，比如同事说我笑得太明显之类的。但我不想深入解释为什么这句话让我堵，先看看他接下来会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794800810,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1107,
+    "total_tokens": 1226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

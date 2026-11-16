@@ -1,0 +1,41 @@
+{
+  "id": "0b60eb67de334ad3894e4f3734743990",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会吧…有时候在学校，看别人说说笑笑的，我就觉得自己好像插不进去。嗯…我是不是说得太乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不会觉得我奇怪，还说我认真面对自己，这让我稍微放松了一点。但他说到“怕被觉得奇怪的担心”，我确实经常有这种感觉，尤其是在学校或者家里。）\n（我想说说在学校的事，但一下子不知道从哪开始。也许可以提一下同学，他们好像都挺正常的，就我总觉得自己不太一样。不过说这些会不会太啰嗦了？还是简单点吧，先看看他什么反应。）",
+        "reasoning": "（咨询师说不会觉得我奇怪，还说我认真面对自己，这让我稍微放松了一点。但他说到“怕被觉得奇怪的担心”，我确实经常有这种感觉，尤其是在学校或者家里。）\n（我想说说在学校的事，但一下子不知道从哪开始。也许可以提一下同学，他们好像都挺正常的，就我总觉得自己不太一样。不过说这些会不会太啰嗦了？还是简单点吧，先看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1794540352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1319,
+    "total_tokens": 1442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

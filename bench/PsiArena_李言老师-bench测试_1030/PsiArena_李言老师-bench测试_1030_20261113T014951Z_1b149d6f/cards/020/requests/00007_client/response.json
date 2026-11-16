@@ -1,0 +1,41 @@
+{
+  "id": "89419d7b61ae491784f40c90217d8f61",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）嗯……跟我丈夫说过。他一般就说“别想太多”“忍忍就过去了”。他不是坏人，就是……唉，说了好像也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师似乎真的在认真听我说话，没有像其他人那样急着下判断。她问我是不是以前讲过却没人听，这让我想起很多次跟丈夫诉苦，他总说“别想太多”。）\n（或许可以稍微多说一点，但还是要留些余地。毕竟才刚开始，谁知道她是不是真的能理解。不过那种被忽视的感觉确实很憋闷，说出来也许会好受些。）",
+        "reasoning": "（这位咨询师似乎真的在认真听我说话，没有像其他人那样急着下判断。她问我是不是以前讲过却没人听，这让我想起很多次跟丈夫诉苦，他总说“别想太多”。）\n（或许可以稍微多说一点，但还是要留些余地。毕竟才刚开始，谁知道她是不是真的能理解。不过那种被忽视的感觉确实很憋闷，说出来也许会好受些。）"
+      }
+    }
+  ],
+  "created": 1794535659,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1566,
+    "total_tokens": 1692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

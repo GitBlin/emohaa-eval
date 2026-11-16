@@ -1,0 +1,41 @@
+{
+  "id": "9dd22d1ed0bc4796b95f3251d38530be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "房租吧，拖一天房东就催。（停顿）朋友那边……我其实可以先跟她说一声，晚一点还。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她想让我理清两笔钱的先后，这其实也是我该自己想明白的。房租拖不得，朋友那边又怕被觉得不守信用，我心里是有点乱的。）\n（不过既然她问了，我就先说说最急的，房租确实不能拖，朋友那边我可以先打个招呼，这样也不至于太被动。这样说出来，好像心里稍微有点底了。）",
+        "reasoning": "（她想让我理清两笔钱的先后，这其实也是我该自己想明白的。房租拖不得，朋友那边又怕被觉得不守信用，我心里是有点乱的。）\n（不过既然她问了，我就先说说最急的，房租确实不能拖，朋友那边我可以先打个招呼，这样也不至于太被动。这样说出来，好像心里稍微有点底了。）"
+      }
+    }
+  ],
+  "created": 1794549728,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2965,
+    "total_tokens": 3071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

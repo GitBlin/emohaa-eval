@@ -1,0 +1,41 @@
+{
+  "id": "f08ca7f925094e0db69bc3f56e381062",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是委屈吧……我也不太想承认。明明我已经很努力在管好一切了，怎么一出错，还是全怪我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最先冒出来的是委屈还是烦躁，这让我有点停顿。我其实很少去分辨这些情绪，平时就是觉得烦，烦自己怎么又这样。但仔细想想，好像不只是烦。）\n（可能更接近委屈吧，那种明明自己已经很小心了，却还是被那个声音指责的感觉。不过说出来有点难为情，好像承认自己委屈就输了似的。）",
+        "reasoning": "（咨询师问我最先冒出来的是委屈还是烦躁，这让我有点停顿。我其实很少去分辨这些情绪，平时就是觉得烦，烦自己怎么又这样。但仔细想想，好像不只是烦。）\n（可能更接近委屈吧，那种明明自己已经很小心了，却还是被那个声音指责的感觉。不过说出来有点难为情，好像承认自己委屈就输了似的。）"
+      }
+    }
+  ],
+  "created": 1794543495,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2135,
+    "total_tokens": 2245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

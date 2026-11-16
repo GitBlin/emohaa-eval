@@ -1,0 +1,41 @@
+{
+  "id": "3b32db7b3291445c886ecdd7850ac55a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对一个人说……可能对我妈最难。要不先跟一个关系还行的朋友试试？不过我又怕她随口一句就把我噎回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在建议我先找一个最不费力的方式开口，这让我稍微松了口气，但马上又担心起来。对一个人说一句，听起来比直接面对父母容易些，可我还是怕说不好。）\n（我想到妈妈，毕竟那些话最早是从她那里来的，但跟她开口压力太大了。也许先跟一个关系没那么紧的朋友试试？至少不用马上面对家里人的反应。）",
+        "reasoning": "（咨询师在建议我先找一个最不费力的方式开口，这让我稍微松了口气，但马上又担心起来。对一个人说一句，听起来比直接面对父母容易些，可我还是怕说不好。）\n（我想到妈妈，毕竟那些话最早是从她那里来的，但跟她开口压力太大了。也许先跟一个关系没那么紧的朋友试试？至少不用马上面对家里人的反应。）"
+      }
+    }
+  ],
+  "created": 1794545671,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2577,
+    "total_tokens": 2691,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

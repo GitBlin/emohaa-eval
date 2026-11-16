@@ -1,0 +1,41 @@
+{
+  "id": "9f66e61f7746480f8a91baddc689c83c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我也说不太好，可能最近事情比较多吧。（犹豫了一下）对了，我想问下，我跟你说的这些，你不会告诉别人吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我这感觉是最近才有还是持续一阵子了。其实这个问题让我有点烦，因为我自己也说不清楚到底从什么时候开始的，好像很多事堆在一起。但我不想这么快就全说出来，毕竟才刚开始，我还不太确定他能不能真的理解我。）\n（我想先含糊一点，就说不太确定，可能是最近事情多。然后再试探一下他，问他会不会把我说的话告诉别人，看看他怎么说。这样既回应了他的问题，也能看看他靠不靠谱。）",
+        "reasoning": "（他问我这感觉是最近才有还是持续一阵子了。其实这个问题让我有点烦，因为我自己也说不清楚到底从什么时候开始的，好像很多事堆在一起。但我不想这么快就全说出来，毕竟才刚开始，我还不太确定他能不能真的理解我。）\n（我想先含糊一点，就说不太确定，可能是最近事情多。然后再试探一下他，问他会不会把我说的话告诉别人，看看他怎么说。这样既回应了他的问题，也能看看他靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1794535474,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1078,
+    "total_tokens": 1211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

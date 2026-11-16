@@ -1,0 +1,41 @@
+{
+  "id": "51cfb858ecec497389f4be80e918a0ab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……好像真没有。就算一个人待在自己屋里，脑子里也还是那些声音。说出来有点可笑，我连放松都得先担心是不是在浪费时间。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在家里有没有不用那么小心的时候……说实话，我好像真的想不出来。就算一个人待着，脑子里也还是那些声音，爸妈的、别人的。这种感觉挺让人泄气的。）\n（不过她这么一问，我倒是意识到，好像我从来都没真正放松过。连自己的房间都不算安全，这听起来是不是有点夸张？但事实就是这样。）",
+        "reasoning": "（她问我在家里有没有不用那么小心的时候……说实话，我好像真的想不出来。就算一个人待着，脑子里也还是那些声音，爸妈的、别人的。这种感觉挺让人泄气的。）\n（不过她这么一问，我倒是意识到，好像我从来都没真正放松过。连自己的房间都不算安全，这听起来是不是有点夸张？但事实就是这样。）"
+      }
+    }
+  ],
+  "created": 1794539938,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2026,
+    "total_tokens": 2137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

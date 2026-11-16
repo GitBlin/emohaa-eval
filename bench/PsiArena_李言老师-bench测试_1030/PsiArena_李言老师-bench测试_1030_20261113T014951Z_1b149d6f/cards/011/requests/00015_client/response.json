@@ -1,0 +1,41 @@
+{
+  "id": "3d64dec6468b46df9b146bb8e570509b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "看医生……我其实有点怕去，怕人家真说我有什么问题。不过你说得对，光自己硬扛也不是办法。那……我该怎么开这个口跟我老公说呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到看医生，我其实一直有点回避这个。不是觉得没必要，是怕真查出什么，怕被贴上标签。但她说身体在提醒我，这话让我心里松了一下，好像不是我自己太矫情。）\n（也许可以顺着这个方向，想想具体能做点什么。光靠自己硬撑好像真的快撑不住了，或许该让老公知道一点，至少别让他觉得我每天在家很轻松。）",
+        "reasoning": "（她提到看医生，我其实一直有点回避这个。不是觉得没必要，是怕真查出什么，怕被贴上标签。但她说身体在提醒我，这话让我心里松了一下，好像不是我自己太矫情。）\n（也许可以顺着这个方向，想想具体能做点什么。光靠自己硬撑好像真的快撑不住了，或许该让老公知道一点，至少别让他觉得我每天在家很轻松。）"
+      }
+    }
+  ],
+  "created": 1794535081,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2464,
+    "total_tokens": 2593,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

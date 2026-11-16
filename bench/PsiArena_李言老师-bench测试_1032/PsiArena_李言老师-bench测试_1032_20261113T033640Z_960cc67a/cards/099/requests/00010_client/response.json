@@ -1,0 +1,41 @@
+{
+  "id": "ab0cdd347f7f464f99042b3e51d71ed5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……一本以前的笔记本，上面还写着老师给我的“优秀”。看到那个词我就挺难受的，感觉现在的我和那时候完全不是一个人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到了高考和家里的期待，还问旧书杂物里有没有让我想起以前的东西。这让我一下子有点难受，因为确实有。）\n（我想到那本高中时的笔记本，上面是老师写的“优秀”。那时候我好像还是被认可的，现在却完全不一样了。这种对比让我更觉得自己失败，说出来可能会显得很矫情，但我就是忍不住会去比较。）",
+        "reasoning": "（心理咨询师提到了高考和家里的期待，还问旧书杂物里有没有让我想起以前的东西。这让我一下子有点难受，因为确实有。）\n（我想到那本高中时的笔记本，上面是老师写的“优秀”。那时候我好像还是被认可的，现在却完全不一样了。这种对比让我更觉得自己失败，说出来可能会显得很矫情，但我就是忍不住会去比较。）"
+      }
+    }
+  ],
+  "created": 1794546354,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1735,
+    "total_tokens": 1848,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

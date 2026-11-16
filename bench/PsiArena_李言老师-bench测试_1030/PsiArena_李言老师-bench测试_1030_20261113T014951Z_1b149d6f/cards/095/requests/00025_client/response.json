@@ -1,0 +1,41 @@
+{
+  "id": "ad5b427869e042e19bb1220fc76ebeca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "闹钟一响，我就当是那个声音说“行了，到这儿就够了”。站起来就走，剩下那点没弄完的，留着明天。先这么试试吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到闹钟响了还想再理两下怎么办，这让我想到自己确实容易陷进去停不下来。得认真想想怎么应对那股忍不住的劲。）\n（也许可以把闹钟当成一个明确的信号，响了就站起来，不给自己犹豫的机会。这样简单直接，不用跟自己的习惯较劲。先试试看，不行再调整。）",
+        "reasoning": "（咨询师问到闹钟响了还想再理两下怎么办，这让我想到自己确实容易陷进去停不下来。得认真想想怎么应对那股忍不住的劲。）\n（也许可以把闹钟当成一个明确的信号，响了就站起来，不给自己犹豫的机会。这样简单直接，不用跟自己的习惯较劲。先试试看，不行再调整。）"
+      }
+    }
+  ],
+  "created": 1794540234,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3471,
+    "total_tokens": 3583,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

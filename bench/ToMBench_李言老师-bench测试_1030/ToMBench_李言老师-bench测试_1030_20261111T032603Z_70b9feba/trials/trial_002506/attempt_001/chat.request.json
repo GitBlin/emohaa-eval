@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:34.698264+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nYu Xuan and Xiao Qing are a couple, but recently they have some misunderstandings due to some minor issues, and communication is difficult. On the same day, they both go to the local stall market. The old lady sees Yu Xuan and proposes that they exchange a bouquet of flowers as a symbol of reconciliation. Yu Xuan looks at Xiao Qing, nods secretly, and among various bouquets, he picks a blooming sunflower. The old lady gives him the sunflower, and after he takes it, he looks back at Xiao Qing, but Xiao Qing is looking at other stalls at this time. Yu Xuan silently puts the flowers in her shopping bag.\n\n[Question]\nWhy does Yu Xuan choose sunflowers?\n\n[Candidate Answers]\nA. Yu Xuan chooses sunflowers because they look very fresh and healthy.\nB. Yu Xuan chooses sunflowers because he wants to save money, sunflowers are cheaper than other flowers.\nC. Yu Xuan chooses sunflowers because his favorite flower is the sunflower.\nD. Yu Xuan chooses sunflowers possibly because he knows that Xiao Qing likes them and hopes to eliminate misunderstandings.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

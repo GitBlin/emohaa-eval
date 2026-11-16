@@ -1,0 +1,41 @@
+{
+  "id": "6cec3ee302264037b8dda8230b612687",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想穿件自己平时就觉得自在的衬衫，配条简单的裤子，不硬撑高跟鞋了。这样至少不会一坐下就浑身别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪件穿着开始试，看来是真的在帮我想具体的办法，而不是空泛地安慰我。这个方向让我觉得踏实了一点。）\n（我平时其实喜欢简单宽松的衣服，但相亲总让我觉得必须穿得正式才行。也许可以找一件自己本来就觉得自在、又不会太失礼的，先从这种小地方开始，不用一下子逼自己太多。）",
+        "reasoning": "（她问我从哪件穿着开始试，看来是真的在帮我想具体的办法，而不是空泛地安慰我。这个方向让我觉得踏实了一点。）\n（我平时其实喜欢简单宽松的衣服，但相亲总让我觉得必须穿得正式才行。也许可以找一件自己本来就觉得自在、又不会太失礼的，先从这种小地方开始，不用一下子逼自己太多。）"
+      }
+    }
+  ],
+  "created": 1794542213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2862,
+    "total_tokens": 2974,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

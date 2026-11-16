@@ -1,0 +1,41 @@
+{
+  "id": "a9b7c96fae774f3f8b7a1d61b8cf2ec6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（松了口气）手机放远一点，这个好像能做到。那……我先试两天，不要求自己读多少。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把目标降得这么小，我反而有点松口气。手机放远一点，听起来不像什么大工程，我好像能接受。）\n（可我心里还是不太踏实，怕自己又像以前那样，一开始答应得好好的，过两天就找借口。我想先给自己留点余地，别把话说得太满。）",
+        "reasoning": "（咨询师把目标降得这么小，我反而有点松口气。手机放远一点，听起来不像什么大工程，我好像能接受。）\n（可我心里还是不太踏实，怕自己又像以前那样，一开始答应得好好的，过两天就找借口。我想先给自己留点余地，别把话说得太满。）"
+      }
+    }
+  ],
+  "created": 1794545456,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2931,
+    "total_tokens": 3027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

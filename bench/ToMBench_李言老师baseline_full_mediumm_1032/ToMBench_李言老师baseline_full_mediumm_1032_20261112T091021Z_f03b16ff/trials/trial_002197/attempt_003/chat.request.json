@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:43:28.637568+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nSu Ting publishes an article about future technology trends on her personal blog. This article cites many literature materials and unexpectedly causes a huge response on social media, and people widely share and discuss it.\n\n[Question]\nSu Ting should be surprised at the success of her article, but in fact, she feels anxious. Why is this?\n\n[Candidate Answers]\nA. Su Ting worries that her personal information may be leaked by others because of the popularity of her article.\nB. Su Ting's article contains some unconfirmed information, she worries that this may cause controversy.\nC. Suddenly receiving such high attention and expectations, Su Ting worries that she may not be able to bear it.\nD. Su Ting worries that her next article may not meet people's high expectations.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

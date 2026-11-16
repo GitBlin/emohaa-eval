@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:48.005163+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n在寒风中，衣着单薄的娜塔莉去了一家户外咖啡店，买了一杯她非常渴望的热可可。她点餐时声音颤抖，喝完第一口松了口气。\n\n## 问题 1\n在这种情况下，娜塔莉最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 害怕\nB) 紧张\nC) 开心\nD) 期待\nE) 感激\nF) 自豪\n\n## 问题 2\n娜塔莉为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 她正在享受一杯热可可，这让她感到温暖\nB) 她可能有一个即将到来的截止日期\nC) 咖啡店让她回想起美好的记忆\nD) 服务员让她感到困扰\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

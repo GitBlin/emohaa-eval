@@ -1,0 +1,41 @@
+{
+  "id": "8e2d377a4e824608a403fa90445aefed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "放松……好像也没什么特别的，就是听听歌、画画图。其实有时候连这些也提不起劲，就感觉……嗯，说不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我平时靠什么放松，这问题听起来挺简单的，但我一下子答不上来。那些所谓的放松方式，好像都只是暂时的逃避，根本解决不了心里真正的堵。我有点犹豫要不要说这些，毕竟才刚开始，但对方问得挺温和的，不像在逼我。）\n（其实我更想说的是，真正让我累的不是改稿，是跟人打交道时那种说不出的别扭。可这话太模糊了，说出来会不会显得矫情？算了，先随便应付一下，看看对方怎么接。）",
+        "reasoning": "（咨询师问我平时靠什么放松，这问题听起来挺简单的，但我一下子答不上来。那些所谓的放松方式，好像都只是暂时的逃避，根本解决不了心里真正的堵。我有点犹豫要不要说这些，毕竟才刚开始，但对方问得挺温和的，不像在逼我。）\n（其实我更想说的是，真正让我累的不是改稿，是跟人打交道时那种说不出的别扭。可这话太模糊了，说出来会不会显得矫情？算了，先随便应付一下，看看对方怎么接。）"
+      }
+    }
+  ],
+  "created": 1794542942,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1485,
+    "total_tokens": 1627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "df22f5e4c54e422bab7101af52d3330f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有一点吧……说不上来哪个更重。其实家里也有压力，跟公公婆婆住一起，很多事……唉，算了，我也不知道该不该说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师一直在问我身体上的感觉，好像很关心我的状态。但我其实更想知道他会不会真的理解我，毕竟家里那些事我从来没跟外人说过。也许可以稍微提一下家里，看看他的反应。）\n（不过现在说太多好像也不太安全，毕竟才刚开始。先含糊地说说家里有压力，但不细讲，看他怎么接话。这样既能试探他，又不至于暴露太多。）",
+        "reasoning": "（这个咨询师一直在问我身体上的感觉，好像很关心我的状态。但我其实更想知道他会不会真的理解我，毕竟家里那些事我从来没跟外人说过。也许可以稍微提一下家里，看看他的反应。）\n（不过现在说太多好像也不太安全，毕竟才刚开始。先含糊地说说家里有压力，但不细讲，看他怎么接话。这样既能试探他，又不至于暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794545212,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1395,
+    "total_tokens": 1519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

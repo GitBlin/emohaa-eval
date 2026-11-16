@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:09.615072+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe teacher announces a five-minute break, and Xiaoyu, who finishes his homework, looks at Xiao Jie, seeming a bit anxious in his eyes. Xiao Jie is reading a comic and doesn't pay much attention to him. Xiaoyu looks around at his classmates, lowers his head to look at his homework, and then stares at Xiao Jie. Xiaoyu glances at the teacher's position again. After the bell rings at the end of the break, Xiaoyu gives Xiao Jie a signal again. At this time, the teacher re-enters the classroom and tells the students that he is ready to start correcting homework. At this moment, Xiao Jie looks surprised and shows a surprised look. Xiao Jie quickly looks at Xiaoyu.\n\n[Question]\nWhat does Xiao Jie do next?\n\n[Candidate Answers]\nA. Xiao Jie asks Xiaoyu to help him finish his homework.\nB. Xiao Jie lends the comic to Xiaoyu.\nC. Xiao Jie tells Xiaoyu that he finishes his homework.\nD. Xiao Jie lies to the teacher that he finishes.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b51e3d6375f94de18a51bcbce37304c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈的脸吧……她笑着，我却总觉得那笑后面藏着什么。想到这个，心里就特别堵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问哪一个画面最让我心里发紧……其实每个画面都像针一样扎在心里，但最难受的还是我妈的脸。她总是那样温和地笑着，好像什么都不知道，可我就是忍不住想，她是不是在假装。这种感觉让我既心疼又害怕，好像我们母女之间隔着一层说不破的东西。）\n（说出来这些，心里好像没那么堵了。虽然问题还在，但至少我知道自己不是一个人在瞎想。也许下次可以试着问问妈妈最近过得怎么样，不用一下子摊开，先听听她的声音也好。）",
+        "reasoning": "（她问哪一个画面最让我心里发紧……其实每个画面都像针一样扎在心里，但最难受的还是我妈的脸。她总是那样温和地笑着，好像什么都不知道，可我就是忍不住想，她是不是在假装。这种感觉让我既心疼又害怕，好像我们母女之间隔着一层说不破的东西。）\n（说出来这些，心里好像没那么堵了。虽然问题还在，但至少我知道自己不是一个人在瞎想。也许下次可以试着问问妈妈最近过得怎么样，不用一下子摊开，先听听她的声音也好。）"
+      }
+    }
+  ],
+  "created": 1794554724,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3267,
+    "total_tokens": 3403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

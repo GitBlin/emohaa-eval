@@ -1,0 +1,41 @@
+{
+  "id": "062246cdef04402499c74bd548cb50c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……随口说一句“我最近在试着别那么纠结”这样吧，别太正式。（停顿）不过说完之后，我可能还是会偷偷看她反应。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想怎么说才不至于像在坦白什么……我在想，如果直接说“我在改”，好像太郑重了，反而更奇怪。也许就随口提一句，说自己最近在试着别那么纠结，这样听起来轻松一点。）\n（可是说完之后呢，我还是会担心她怎么接。要是她笑我一句“你早该这样”，我可能又要想半天。不过……这好像又是在提前替她反应了，我得先别想那么远。）",
+        "reasoning": "（她问我想怎么说才不至于像在坦白什么……我在想，如果直接说“我在改”，好像太郑重了，反而更奇怪。也许就随口提一句，说自己最近在试着别那么纠结，这样听起来轻松一点。）\n（可是说完之后呢，我还是会担心她怎么接。要是她笑我一句“你早该这样”，我可能又要想半天。不过……这好像又是在提前替她反应了，我得先别想那么远。）"
+      }
+    }
+  ],
+  "created": 1794537470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2971,
+    "total_tokens": 3106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

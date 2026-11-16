@@ -1,0 +1,41 @@
+{
+  "id": "608fba3ccb774e82aae6767f730d953c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过吧……小时候家里不太兴说这些，说了也就是“别娇气，忍忍就过去了”。好像抱怨身体不舒服，就是不够坚强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是以前也有过这种感觉……确实有。小时候在家里，稍微说点不舒服，爸妈就会说“别娇气，忍忍就过去了”。他们不是不关心我，只是觉得抱怨是软弱的表现。这让我一直觉得，身体上的难受不该多提。）\n（现在想想，我好像一直在延续这个习惯。明明身体不舒服，却总告诉自己“没事，别大惊小怪”。可越是这样压着，心里反而越慌。也许这种怕被看轻的感觉，真的是从小带到现在了。）",
+        "reasoning": "（她问我是不是以前也有过这种感觉……确实有。小时候在家里，稍微说点不舒服，爸妈就会说“别娇气，忍忍就过去了”。他们不是不关心我，只是觉得抱怨是软弱的表现。这让我一直觉得，身体上的难受不该多提。）\n（现在想想，我好像一直在延续这个习惯。明明身体不舒服，却总告诉自己“没事，别大惊小怪”。可越是这样压着，心里反而越慌。也许这种怕被看轻的感觉，真的是从小带到现在了。）"
+      }
+    }
+  ],
+  "created": 1794557856,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1562,
+    "total_tokens": 1704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

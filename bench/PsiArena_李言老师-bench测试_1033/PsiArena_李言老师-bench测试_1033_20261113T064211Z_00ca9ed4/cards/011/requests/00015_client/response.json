@@ -1,0 +1,41 @@
+{
+  "id": "73a4cb498ab248a7b4f5bf224764fa2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一次，孩子闹到半夜，我快撑不住了，他什么都没说，就过来抱了我一下。（轻声）那天我记到现在。是不是我太贪心了，就想要这么一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，让我突然想起那个晚上。那时候我整个人都快撑不住了，他什么都没说，只是走过来抱住我。那种感觉，我到现在都记得很清楚。）\n（可紧接着，我又会忍不住想，是不是我太贪心了。就那么一次，我却一直记着，好像显得我很不知足。但那一刻真的让我觉得，自己不是一个人。）",
+        "reasoning": "（他这么问，让我突然想起那个晚上。那时候我整个人都快撑不住了，他什么都没说，只是走过来抱住我。那种感觉，我到现在都记得很清楚。）\n（可紧接着，我又会忍不住想，是不是我太贪心了。就那么一次，我却一直记着，好像显得我很不知足。但那一刻真的让我觉得，自己不是一个人。）"
+      }
+    }
+  ],
+  "created": 1794552596,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2536,
+    "total_tokens": 2656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

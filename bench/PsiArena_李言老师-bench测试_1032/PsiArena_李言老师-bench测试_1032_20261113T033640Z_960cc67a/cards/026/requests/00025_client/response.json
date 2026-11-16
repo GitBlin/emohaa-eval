@@ -1,0 +1,41 @@
+{
+  "id": "2e8d2df916e044d7af3edb082cf412e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我本来想发：“你试着自己撒面粉，后来就不粘了。”就这么一句。可我看着还是像老师批作业，你帮我改得像个妈说的话吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把准备发给女儿的原话发出来，可能是想帮我调整语气，避免又变成说教。我本来想直接发那句夸她的话，可又担心自己一开口就带着老师的腔调，反而让女儿觉得不自在。）\n（作为妈妈，我确实不擅长说这种软话，平时跟学生说话习惯了直接指出问题。现在要夸女儿，还得先让咨询师看看，心里有点不好意思，但也觉得这样更稳妥。）",
+        "reasoning": "（咨询师让我把准备发给女儿的原话发出来，可能是想帮我调整语气，避免又变成说教。我本来想直接发那句夸她的话，可又担心自己一开口就带着老师的腔调，反而让女儿觉得不自在。）\n（作为妈妈，我确实不擅长说这种软话，平时跟学生说话习惯了直接指出问题。现在要夸女儿，还得先让咨询师看看，心里有点不好意思，但也觉得这样更稳妥。）"
+      }
+    }
+  ],
+  "created": 1794549460,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3392,
+    "total_tokens": 3528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

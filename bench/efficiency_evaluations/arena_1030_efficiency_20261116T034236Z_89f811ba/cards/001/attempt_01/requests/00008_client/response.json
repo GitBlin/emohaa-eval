@@ -1,0 +1,47 @@
+{
+  "id": "7a38f6bd42804b699649b9c5b1a9e2d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我希望你要是真觉得我哪里奇怪，就直接跟我说，别绕弯子。我家里就老是这样，话不明说，让我自己猜，猜得挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我希望他怎么做才放心……这问题让我有点意外，我本来以为他会直接说“我不会评判你”之类的话。但他这样问，好像是真的在认真对待我的防备，不是随便敷衍。）\n（我想了想，其实我最怕的就是说了之后对方表面说没事，心里却在给我贴标签。如果他能直接告诉我他的真实感受，哪怕是不太中听的话，我反而能踏实一点。这跟我家里的情况很像，爸妈总是绕来绕去，我永远猜不透他们到底怎么想，那种感觉太累了。）",
+        "reasoning": "（他问我希望他怎么做才放心……这问题让我有点意外，我本来以为他会直接说“我不会评判你”之类的话。但他这样问，好像是真的在认真对待我的防备，不是随便敷衍。）\n（我想了想，其实我最怕的就是说了之后对方表面说没事，心里却在给我贴标签。如果他能直接告诉我他的真实感受，哪怕是不太中听的话，我反而能踏实一点。这跟我家里的情况很像，爸妈总是绕来绕去，我永远猜不透他们到底怎么想，那种感觉太累了。）"
+      }
+    }
+  ],
+  "created": 1794800594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 1738,
+    "total_tokens": 1894,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:33:32.142592+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nSongfeng, Jianyuan, and Xuefeng are members of the same group, they need to complete a school project together. Now, the core task of the project comes, everyone wants to take on this important task, but they do not want to overwork themselves. Songfeng looks at Jianyuan, then looks at Xuefeng who is playing with his phone, then he smiles at Jianyuan, he seems to have an idea. Then he goes to the corner of the classroom to get his backpack, then he leaves a small note on Jianyuan's desk as if by accident. He comes back, gives Jianyuan a look, then continues to do his work. Jianyuan sees this note, quickly unfolds it, takes a look, then he also smiles. He looks at Songfeng and says, \"I just have an idea, we do this task together, what do you think?\"\n\n[Question]\nWhy does Songfeng go to the corner of the classroom to get his backpack and leave a note?\n\n[Candidate Answers]\nA. Songfeng finds out he forgets to submit an important task, so he goes to get his backpack.\nB. Songfeng goes to get his backpack is just a random act, it has nothing to do with him leaving a note.\nC. Songfeng intentionally forgets his things, he wants to use this opportunity to go back to get his backpack, and write down suggestions.\nD. Songfeng uses this method to let Jianyuan know his suggestion, to avoid letting Xuefeng know this is his idea.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

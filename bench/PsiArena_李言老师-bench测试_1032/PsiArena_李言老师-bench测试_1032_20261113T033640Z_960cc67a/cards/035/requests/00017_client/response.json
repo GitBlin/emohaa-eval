@@ -1,0 +1,41 @@
+{
+  "id": "267d6b47733f437baf8fb1e8e6129d79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先只说感受吧，别一下说太多。但又怕他听完就“嗯”一下……是不是可以加一句“你晚点能回我一下吗”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化表达方式，这让我稍微踏实一点。但我还是担心说太多会显得矫情，或者又变成争吵。先表达感受可能没那么大压力，可光说感受又怕他听不懂。）\n（我想试着把感受和请求连在一起说，但得控制住别太急。也许可以先说“不太好”，再提一句“晚点回我一下”，这样不会像在指责他。）",
+        "reasoning": "（咨询师在引导我具体化表达方式，这让我稍微踏实一点。但我还是担心说太多会显得矫情，或者又变成争吵。先表达感受可能没那么大压力，可光说感受又怕他听不懂。）\n（我想试着把感受和请求连在一起说，但得控制住别太急。也许可以先说“不太好”，再提一句“晚点回我一下”，这样不会像在指责他。）"
+      }
+    }
+  ],
+  "created": 1794542968,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2602,
+    "total_tokens": 2730,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

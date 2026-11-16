@@ -1,0 +1,41 @@
+{
+  "id": "9a0c39903d8942a08069dc958da74713",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都怕吧……但更怕的是听到答案。不问的话，好像还能骗自己没事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺准的……我其实一直不敢细想这个问题。怕他走，更怕自己问了之后，听到那个答案，就再也没法假装没事了。好像不问，就还能拖着。）\n（可这么拖着，真的好吗？我自己也说不清。也许两个都怕吧，但更怕的是自己承受不住那个结果。）",
+        "reasoning": "（她问得挺准的……我其实一直不敢细想这个问题。怕他走，更怕自己问了之后，听到那个答案，就再也没法假装没事了。好像不问，就还能拖着。）\n（可这么拖着，真的好吗？我自己也说不清。也许两个都怕吧，但更怕的是自己承受不住那个结果。）"
+      }
+    }
+  ],
+  "created": 1794555249,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2124,
+    "total_tokens": 2221,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

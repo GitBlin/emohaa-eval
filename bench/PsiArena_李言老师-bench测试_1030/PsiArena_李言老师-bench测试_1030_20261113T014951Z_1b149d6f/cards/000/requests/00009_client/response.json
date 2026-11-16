@@ -1,0 +1,41 @@
+{
+  "id": "a54d3f5c3f564f7ba362dd880a272e35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……很少。印象里有一次我说工作累，我妈没讲道理，就说了句“那就早点睡”。就那么一句，我记了好久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在家里有没有哪次说话没被说教……这个问题让我有点意外，好像真的在认真听我说话。我努力回想，家里那种氛围，大部分时候都是被纠正的，但好像确实有那么一次。）\n（那次我说工作累，我妈没讲道理，只是让我早点睡。那种感觉很奇怪，不是被教育，而是被听到了。也许这就是我一直想要的那种交流吧，但太少了，我都快忘了。）",
+        "reasoning": "（她问我在家里有没有哪次说话没被说教……这个问题让我有点意外，好像真的在认真听我说话。我努力回想，家里那种氛围，大部分时候都是被纠正的，但好像确实有那么一次。）\n（那次我说工作累，我妈没讲道理，只是让我早点睡。那种感觉很奇怪，不是被教育，而是被听到了。也许这就是我一直想要的那种交流吧，但太少了，我都快忘了。）"
+      }
+    }
+  ],
+  "created": 1794534631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1767,
+    "total_tokens": 1892,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

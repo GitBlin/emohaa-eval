@@ -1,0 +1,41 @@
+{
+  "id": "da3b06bd323d428fa6ac096e75e9faa9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那天……在食堂，几个同事在聊排班的事，我本来想说我最近状态不太好，结果话到嘴边，看她们也挺累的样子，就咽回去了。就……算了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师抓住了我反复说的“算了”，这让我有点意外，好像他真的在听。但被这么直接问起最近一次，心里又紧了一下，不太想马上把那种难堪的感觉摊开。）\n（不过既然已经聊到这里，稍微说一点应该没关系吧。那天在食堂的场景一直堵在心里，说出来也许能让我喘口气，但又怕说着说着就控制不住情绪。）",
+        "reasoning": "（咨询师抓住了我反复说的“算了”，这让我有点意外，好像他真的在听。但被这么直接问起最近一次，心里又紧了一下，不太想马上把那种难堪的感觉摊开。）\n（不过既然已经聊到这里，稍微说一点应该没关系吧。那天在食堂的场景一直堵在心里，说出来也许能让我喘口气，但又怕说着说着就控制不住情绪。）"
+      }
+    }
+  ],
+  "created": 1794559300,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1485,
+    "total_tokens": 1610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

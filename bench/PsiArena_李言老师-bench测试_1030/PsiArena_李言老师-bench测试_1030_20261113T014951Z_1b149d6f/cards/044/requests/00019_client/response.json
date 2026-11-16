@@ -1,0 +1,41 @@
+{
+  "id": "f802739008304b01a35fe32f8c92dd1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "锁屏吧，我一天到晚都在看手机。就是有点怕被同学看到，问起来我不好解释，写床头可能更安全点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在帮我想办法，不是随便说说。锁屏这个主意挺实在的，我每天看手机那么多次，应该能看到。不过要是被同学看到，问我这是什么，我可能又不知道怎么回答。）\n（写床头的话，只有我自己知道，可能更合适。晚上乱想的时候抬头就能看见，也不用解释给谁听。但就是不知道我能不能真的坚持去用。）",
+        "reasoning": "（她好像真的在帮我想办法，不是随便说说。锁屏这个主意挺实在的，我每天看手机那么多次，应该能看到。不过要是被同学看到，问我这是什么，我可能又不知道怎么回答。）\n（写床头的话，只有我自己知道，可能更合适。晚上乱想的时候抬头就能看见，也不用解释给谁听。但就是不知道我能不能真的坚持去用。）"
+      }
+    }
+  ],
+  "created": 1794536803,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2809,
+    "total_tokens": 2925,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

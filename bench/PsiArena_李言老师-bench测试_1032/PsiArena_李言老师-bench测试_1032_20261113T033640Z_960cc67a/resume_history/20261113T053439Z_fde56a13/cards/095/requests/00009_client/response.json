@@ -1,0 +1,41 @@
+{
+  "id": "396aa3a01f8e4ecda3f0b111a5d2bb4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我希望他们能说一句“你已经挺好了”，哪怕就一次。但他们从来没说过，好像说了我就会不努力一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起我希望爸妈当时说什么，这让我一下子想起很多小时候的事。那时候每次考完试，他们第一句话总是问别人考了多少，而不是问我累不累。）\n（其实我心里一直有个声音，希望他们能说一句“你已经挺好了”，哪怕就一次。可他们从来不会这么说，好像说了我就会松懈似的。这种感觉压在心里很久了，说出来反而有点酸。）",
+        "reasoning": "（咨询师问起我希望爸妈当时说什么，这让我一下子想起很多小时候的事。那时候每次考完试，他们第一句话总是问别人考了多少，而不是问我累不累。）\n（其实我心里一直有个声音，希望他们能说一句“你已经挺好了”，哪怕就一次。可他们从来不会这么说，好像说了我就会松懈似的。这种感觉压在心里很久了，说出来反而有点酸。）"
+      }
+    }
+  ],
+  "created": 1794546266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1653,
+    "total_tokens": 1765,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

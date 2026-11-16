@@ -1,0 +1,41 @@
+{
+  "id": "5f678ad91f844611bb55b1d15015f55f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口有点闷，肩膀也发紧。最近好像经常这样，就是那种喘不上气的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是身体感觉，这让我意识到自己确实一直在绷着。刚才说起小时候的事，胸口那种闷闷的感觉又上来了，像有东西压着。）\n（我想试着描述得具体点，但又怕说得太矫情。不过既然已经聊到这儿了，稍微说说应该没关系吧。就是那种肩膀发紧、喘不上气的感觉，最近好像经常这样。）",
+        "reasoning": "（咨询师问的是身体感觉，这让我意识到自己确实一直在绷着。刚才说起小时候的事，胸口那种闷闷的感觉又上来了，像有东西压着。）\n（我想试着描述得具体点，但又怕说得太矫情。不过既然已经聊到这儿了，稍微说说应该没关系吧。就是那种肩膀发紧、喘不上气的感觉，最近好像经常这样。）"
+      }
+    }
+  ],
+  "created": 1794543734,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2311,
+    "total_tokens": 2416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

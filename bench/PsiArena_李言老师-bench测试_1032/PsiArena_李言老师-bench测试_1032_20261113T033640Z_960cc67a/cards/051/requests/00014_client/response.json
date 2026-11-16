@@ -1,0 +1,41 @@
+{
+  "id": "6b1cfc4a874a4d828c1a03aaea796edf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如提交代码前，明明已经看过了，还是会再点开看一遍，生怕漏了什么。说起来挺可笑的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次因为怕出错而反复确认的情境，这让我想起工作里的那些细节。我确实从小就被教育要稳重、不能出错，这种习惯已经刻在骨子里了。刚才说到项目拖了一周，其实背后就是这种反复检查的毛病在作祟。）\n（提交代码前反复看这件事，我平时都不太愿意跟人提，怕别人觉得我太较真或者神经质。但咨询师问得挺温和的，没让我觉得被评判。说出来之后，好像也能更清楚地看到自己这种状态有多累。）",
+        "reasoning": "（咨询师在问我最近一次因为怕出错而反复确认的情境，这让我想起工作里的那些细节。我确实从小就被教育要稳重、不能出错，这种习惯已经刻在骨子里了。刚才说到项目拖了一周，其实背后就是这种反复检查的毛病在作祟。）\n（提交代码前反复看这件事，我平时都不太愿意跟人提，怕别人觉得我太较真或者神经质。但咨询师问得挺温和的，没让我觉得被评判。说出来之后，好像也能更清楚地看到自己这种状态有多累。）"
+      }
+    }
+  ],
+  "created": 1794543726,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 2123,
+    "total_tokens": 2271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

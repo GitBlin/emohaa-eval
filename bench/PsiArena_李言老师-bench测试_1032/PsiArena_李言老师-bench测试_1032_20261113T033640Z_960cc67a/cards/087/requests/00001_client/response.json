@@ -1,0 +1,41 @@
+{
+  "id": "02efc01bae074eb4869be09655ff5786",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯...你好。那个，我想先问问，这个咨询具体是怎么进行的？就是...我需要说些什么吗？（声音有些迟疑）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师看起来挺专业的，但我不确定该不该完全信任他。第一次见面就说这么多会不会太快了...我得先试探一下，看看他到底是怎么工作的。毕竟以前也遇到过一些不靠谱的咨询师，说了一堆也没用。先问问咨询具体怎么进行比较保险，这样我也能判断要不要继续谈下去。）\n（其实我挺紧张的，不知道该从哪说起。那些事...太难以启齿了。要是他问得太直接，我可能会想逃避。先看看他什么态度吧，如果感觉不对劲就随便应付几句算了。）",
+        "reasoning": "（心理咨询师看起来挺专业的，但我不确定该不该完全信任他。第一次见面就说这么多会不会太快了...我得先试探一下，看看他到底是怎么工作的。毕竟以前也遇到过一些不靠谱的咨询师，说了一堆也没用。先问问咨询具体怎么进行比较保险，这样我也能判断要不要继续谈下去。）\n（其实我挺紧张的，不知道该从哪说起。那些事...太难以启齿了。要是他问得太直接，我可能会想逃避。先看看他什么态度吧，如果感觉不对劲就随便应付几句算了。）"
+      }
+    }
+  ],
+  "created": 1794545751,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 920,
+    "total_tokens": 1066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

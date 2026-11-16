@@ -1,0 +1,31 @@
+{
+  "planned": 17160,
+  "responses": 17160,
+  "unique_trial_ids": 17160,
+  "unique_users": 17160,
+  "badcases": 3789,
+  "result_files_match_export": true,
+  "source_hashes_match": true,
+  "context_checks": {
+    "before_has_old_messages": 0,
+    "after_unexpected_message_count": 0,
+    "clear_not_flush_context": 0,
+    "reply_or_score_mismatch": 0
+  },
+  "stability": {
+    "zh": {
+      "all_three_correct": 2035,
+      "all_three_wrong": 426,
+      "mixed_correctness": 399,
+      "different_mapped_answers": 439,
+      "vote_ties": 26
+    },
+    "en": {
+      "all_three_correct": 1986,
+      "all_three_wrong": 443,
+      "mixed_correctness": 431,
+      "different_mapped_answers": 481,
+      "vote_ties": 28
+    }
+  }
+}

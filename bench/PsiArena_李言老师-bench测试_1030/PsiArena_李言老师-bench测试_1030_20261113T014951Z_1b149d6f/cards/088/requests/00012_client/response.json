@@ -1,0 +1,41 @@
+{
+  "id": "e91eaf56e9054627aeb92d44497138c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说“这么简单都不会，你脑子是不是有问题”……有时候还会说“你干脆别学了”。听着挺凶的，但那声音其实是我自己的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是那个声音具体会怎么说。这让我有点难受，因为那些话我其实很熟悉，平时根本不想去听。但既然已经说到这儿了，也许可以试着把它说出来。）\n（那些话总是很直接，很凶，像在骂我。说出来会觉得有点丢人，好像承认了自己真的那么差劲。不过她好像没有要评判我的意思，只是在问那个声音本身。）",
+        "reasoning": "（她问的是那个声音具体会怎么说。这让我有点难受，因为那些话我其实很熟悉，平时根本不想去听。但既然已经说到这儿了，也许可以试着把它说出来。）\n（那些话总是很直接，很凶，像在骂我。说出来会觉得有点丢人，好像承认了自己真的那么差劲。不过她好像没有要评判我的意思，只是在问那个声音本身。）"
+      }
+    }
+  ],
+  "created": 1794539566,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2071,
+    "total_tokens": 2192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

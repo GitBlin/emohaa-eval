@@ -1,0 +1,41 @@
+{
+  "id": "3a9f21247d9e4e98ae943c2e78dc6a71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天下午有个同事想让我替她值一会儿班，我本来都打算答应了。要不……这次就试试说“排不开”？可我又怕她追问原因。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我从具体的小事开始试，还给了缓冲话。我脑子里第一个冒出来的就是明天下午同事让我替班的事，本来我都打算答应了，现在想想，这不正好是个机会吗？可话到嘴边又有点发虚，万一我说了“这次不行”，对方追问我原因，我该怎么接？）\n（我是不是得先想好怎么解释？可越想越觉得解释起来像是在道歉，好像拒绝本身就是错的一样。这种心慌的感觉又上来了，但转念一想，也许我不用解释太多，就说自己排不开就行了。先把这个小事试了再说吧。）",
+        "reasoning": "（咨询师让我从具体的小事开始试，还给了缓冲话。我脑子里第一个冒出来的就是明天下午同事让我替班的事，本来我都打算答应了，现在想想，这不正好是个机会吗？可话到嘴边又有点发虚，万一我说了“这次不行”，对方追问我原因，我该怎么接？）\n（我是不是得先想好怎么解释？可越想越觉得解释起来像是在道歉，好像拒绝本身就是错的一样。这种心慌的感觉又上来了，但转念一想，也许我不用解释太多，就说自己排不开就行了。先把这个小事试了再说吧。）"
+      }
+    }
+  ],
+  "created": 1794541487,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 2739,
+    "total_tokens": 2904,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 129,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

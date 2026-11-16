@@ -1,0 +1,41 @@
+{
+  "id": "e4b99936edac45f28ee133c779e2e6ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想到的……是我妈那种期待的眼神。小时候只要没考好，她嘴上不说，可我能感觉到她失望。现在面对来访者，我好像也在等他们给我打分。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在见来访者之前那个念头会让我先想到什么。这让我一下子回到了那种紧绷的感觉里。我其实很清楚那个念头，它总是先冒出来，像条件反射一样。）\n（我想起小时候，每次考试前母亲那种期待的眼神，好像我考不好就不值得被爱。现在面对来访者，那种感觉又回来了，只是换了个场景。我害怕他们也会像母亲那样，用失望的眼神看我。）",
+        "reasoning": "（他问我在见来访者之前那个念头会让我先想到什么。这让我一下子回到了那种紧绷的感觉里。我其实很清楚那个念头，它总是先冒出来，像条件反射一样。）\n（我想起小时候，每次考试前母亲那种期待的眼神，好像我考不好就不值得被爱。现在面对来访者，那种感觉又回来了，只是换了个场景。我害怕他们也会像母亲那样，用失望的眼神看我。）"
+      }
+    }
+  ],
+  "created": 1794538093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1884,
+    "total_tokens": 2017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

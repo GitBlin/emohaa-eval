@@ -1,0 +1,41 @@
+{
+  "id": "4e6f702370fa4405aee3b9240d61ba6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就从最简单的登录功能开始吧，反正也不用给别人看。嗯……我想给自己定个小目标，比如这周先写出来，不管好坏。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化行动了。刚才说“不要求完美”的时候，心里确实松动了一点，但马上又有点发虚，怕自己又只是说说而已。）\n（不过这次好像不太一样，至少知道从哪下手了。那个登录功能最简单，不用想太多，先把它弄出来再说。）",
+        "reasoning": "（咨询师在引导我具体化行动了。刚才说“不要求完美”的时候，心里确实松动了一点，但马上又有点发虚，怕自己又只是说说而已。）\n（不过这次好像不太一样，至少知道从哪下手了。那个登录功能最简单，不用想太多，先把它弄出来再说。）"
+      }
+    }
+  ],
+  "created": 1794543764,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2418,
+    "total_tokens": 2518,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

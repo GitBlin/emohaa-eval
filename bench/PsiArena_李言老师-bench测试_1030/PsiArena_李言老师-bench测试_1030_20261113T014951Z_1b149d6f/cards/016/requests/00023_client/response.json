@@ -1,0 +1,41 @@
+{
+  "id": "717b7a729c8a4870ab7842a6ce24927b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……可以在心里提醒自己“先听，别急着当那个解决问题的人”。或者干脆跟她说一句“我先听你说”，这样我也能稳住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我要怎么提醒自己停住，说明她真的在帮我把想法落到具体做法上，不是空谈。我心里有点踏实，但又怕自己做不到，毕竟那个想分析的劲儿太熟了。）\n（不过我可以试试把之前说的“先听她说”变成一句能说出口的话，这样既提醒自己，也让妈妈知道我是在听，而不是在审。这个办法好像没那么难。）",
+        "reasoning": "（她问我要怎么提醒自己停住，说明她真的在帮我把想法落到具体做法上，不是空谈。我心里有点踏实，但又怕自己做不到，毕竟那个想分析的劲儿太熟了。）\n（不过我可以试试把之前说的“先听她说”变成一句能说出口的话，这样既提醒自己，也让妈妈知道我是在听，而不是在审。这个办法好像没那么难。）"
+      }
+    }
+  ],
+  "created": 1794535542,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3570,
+    "total_tokens": 3687,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

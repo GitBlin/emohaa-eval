@@ -1,0 +1,41 @@
+{
+  "id": "0be5e005b3e44169a6dce746753581ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……会想白天在公司的事。有时候大家聚会，我就在旁边看着，插不上话。说不上来，是不是我太敏感了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我晚上一个人会想什么，这种问题有点戳到我了。我不太想马上说得太深，毕竟才刚开始。但刚才他拒绝加微信之后，我倒觉得他挺有原则的，可能可以稍微多讲一点点表面的东西。）\n（我想说同事聚会的事，但不想显得太可怜。用“默默旁观”这种说法应该能表达出那种孤独感，又不会太暴露自己。最后加一句“是不是我太敏感了”试探一下他的反应，看看他会不会觉得我小题大做。）",
+        "reasoning": "（咨询师在问我晚上一个人会想什么，这种问题有点戳到我了。我不太想马上说得太深，毕竟才刚开始。但刚才他拒绝加微信之后，我倒觉得他挺有原则的，可能可以稍微多讲一点点表面的东西。）\n（我想说同事聚会的事，但不想显得太可怜。用“默默旁观”这种说法应该能表达出那种孤独感，又不会太暴露自己。最后加一句“是不是我太敏感了”试探一下他的反应，看看他会不会觉得我小题大做。）"
+      }
+    }
+  ],
+  "created": 1794541069,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1406,
+    "total_tokens": 1552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

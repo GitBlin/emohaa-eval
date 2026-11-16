@@ -1,0 +1,41 @@
+{
+  "id": "5fb63a6f6b8f4b59a75ae6ceb41a780f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多久……我没想过。可能一开始挺难的，一慌就想马上找她。要不我先定个十分钟吧，先忍十分钟，别急着发消息。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“停一下”要多久能做到，这其实是在帮我把计划落到具体的时间上。我不能再像以前那样含糊地说“我试试”，那样太虚了。）\n（想到晚上等消息那种时候，我确实容易一下子慌起来。如果只是停几秒钟，可能刚意识到就过去了，还是会被情绪带着走。给一个稍微具体点的时间，比如十分钟，好像才够我缓过来，不至于马上又去追问。）",
+        "reasoning": "（她问我“停一下”要多久能做到，这其实是在帮我把计划落到具体的时间上。我不能再像以前那样含糊地说“我试试”，那样太虚了。）\n（想到晚上等消息那种时候，我确实容易一下子慌起来。如果只是停几秒钟，可能刚意识到就过去了，还是会被情绪带着走。给一个稍微具体点的时间，比如十分钟，好像才够我缓过来，不至于马上又去追问。）"
+      }
+    }
+  ],
+  "created": 1794536430,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2746,
+    "total_tokens": 2875,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

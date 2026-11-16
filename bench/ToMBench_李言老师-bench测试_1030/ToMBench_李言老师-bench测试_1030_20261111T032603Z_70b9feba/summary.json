@@ -1,0 +1,740 @@
+{
+  "updated_at": "2026-11-11T03:45:26.832108+00:00",
+  "run_status": "complete",
+  "trials": {
+    "count": 17160,
+    "correct": 13371,
+    "valid": 17160,
+    "invalid": 0,
+    "errors": 0,
+    "accuracy": 0.7791958041958041,
+    "accuracy_on_valid": 0.7791958041958041,
+    "strict_format_rate": 1.0
+  },
+  "planned_trials": 17160,
+  "completed_trials": 17160,
+  "completed_question_languages": 5720,
+  "question_vote_accuracy": 0.7865384615384615,
+  "question_vote_ties_or_no_answer": 54,
+  "questions_with_all_valid_trials": 5720,
+  "attempt_errors": 0,
+  "context_after_audit_errors": 0,
+  "by_language": {
+    "zh": {
+      "count": 8580,
+      "correct": 6732,
+      "valid": 8580,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7846153846153846,
+      "accuracy_on_valid": 0.7846153846153846,
+      "strict_format_rate": 1.0
+    },
+    "en": {
+      "count": 8580,
+      "correct": 6639,
+      "valid": 8580,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7737762237762238,
+      "accuracy_on_valid": 0.7737762237762238,
+      "strict_format_rate": 1.0
+    }
+  },
+  "by_task_file": {
+    "Completion of Failed Actions": {
+      "count": 120,
+      "correct": 66,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.55,
+      "accuracy_on_valid": 0.55,
+      "strict_format_rate": 1.0
+    },
+    "Hinting Task Test": {
+      "count": 618,
+      "correct": 581,
+      "valid": 618,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9401294498381877,
+      "accuracy_on_valid": 0.9401294498381877,
+      "strict_format_rate": 1.0
+    },
+    "Discrepant Emotions": {
+      "count": 240,
+      "correct": 223,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9291666666666667,
+      "accuracy_on_valid": 0.9291666666666667,
+      "strict_format_rate": 1.0
+    },
+    "False Belief Task": {
+      "count": 3600,
+      "correct": 3000,
+      "valid": 3600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8333333333333334,
+      "accuracy_on_valid": 0.8333333333333334,
+      "strict_format_rate": 1.0
+    },
+    "Ambiguous Story Task": {
+      "count": 1200,
+      "correct": 987,
+      "valid": 1200,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8225,
+      "accuracy_on_valid": 0.8225,
+      "strict_format_rate": 1.0
+    },
+    "Multiple Desires": {
+      "count": 120,
+      "correct": 113,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9416666666666667,
+      "accuracy_on_valid": 0.9416666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Discrepant Intentions": {
+      "count": 240,
+      "correct": 211,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8791666666666667,
+      "accuracy_on_valid": 0.8791666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge-Attention Links": {
+      "count": 120,
+      "correct": 42,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.35,
+      "accuracy_on_valid": 0.35,
+      "strict_format_rate": 1.0
+    },
+    "Faux-pas Recognition Test": {
+      "count": 3360,
+      "correct": 2653,
+      "valid": 3360,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7895833333333333,
+      "accuracy_on_valid": 0.7895833333333333,
+      "strict_format_rate": 1.0
+    },
+    "Unexpected Outcome Test": {
+      "count": 1800,
+      "correct": 1324,
+      "valid": 1800,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7355555555555555,
+      "accuracy_on_valid": 0.7355555555555555,
+      "strict_format_rate": 1.0
+    },
+    "Prediction of Actions": {
+      "count": 120,
+      "correct": 88,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7333333333333333,
+      "accuracy_on_valid": 0.7333333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Discrepant Desires": {
+      "count": 120,
+      "correct": 65,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5416666666666666,
+      "accuracy_on_valid": 0.5416666666666666,
+      "strict_format_rate": 1.0
+    },
+    "Scalar Implicature Test": {
+      "count": 1200,
+      "correct": 592,
+      "valid": 1200,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.49333333333333335,
+      "accuracy_on_valid": 0.49333333333333335,
+      "strict_format_rate": 1.0
+    },
+    "Moral Emotions": {
+      "count": 240,
+      "correct": 205,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8541666666666666,
+      "accuracy_on_valid": 0.8541666666666666,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge-Pretend Play Links": {
+      "count": 180,
+      "correct": 36,
+      "valid": 180,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.2,
+      "accuracy_on_valid": 0.2,
+      "strict_format_rate": 1.0
+    },
+    "Emotion Regulation": {
+      "count": 120,
+      "correct": 67,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5583333333333333,
+      "accuracy_on_valid": 0.5583333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Percepts-Knowledge Links": {
+      "count": 240,
+      "correct": 218,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9083333333333333,
+      "accuracy_on_valid": 0.9083333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Strange Story Task": {
+      "count": 2442,
+      "correct": 2122,
+      "valid": 2442,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.868959868959869,
+      "accuracy_on_valid": 0.868959868959869,
+      "strict_format_rate": 1.0
+    },
+    "Persuasion Story Task": {
+      "count": 600,
+      "correct": 375,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.625,
+      "accuracy_on_valid": 0.625,
+      "strict_format_rate": 1.0
+    },
+    "Hidden Emotions": {
+      "count": 480,
+      "correct": 403,
+      "valid": 480,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8395833333333333,
+      "accuracy_on_valid": 0.8395833333333333,
+      "strict_format_rate": 1.0
+    }
+  },
+  "by_ability": {
+    "Intention: Completion of failed actions": {
+      "count": 120,
+      "correct": 66,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.55,
+      "accuracy_on_valid": 0.55,
+      "strict_format_rate": 1.0
+    },
+    "Non-Literal Communication: Irony/Sarcasm": {
+      "count": 156,
+      "correct": 152,
+      "valid": 156,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9743589743589743,
+      "accuracy_on_valid": 0.9743589743589743,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Discrepant emotions": {
+      "count": 240,
+      "correct": 223,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9291666666666667,
+      "accuracy_on_valid": 0.9291666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Content false beliefs": {
+      "count": 1200,
+      "correct": 762,
+      "valid": 1200,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.635,
+      "accuracy_on_valid": 0.635,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Beliefs based action/emotions": {
+      "count": 852,
+      "correct": 702,
+      "valid": 852,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.823943661971831,
+      "accuracy_on_valid": 0.823943661971831,
+      "strict_format_rate": 1.0
+    },
+    "Desire: Multiple desires": {
+      "count": 120,
+      "correct": 113,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9416666666666667,
+      "accuracy_on_valid": 0.9416666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Intention: Discrepant intentions": {
+      "count": 240,
+      "correct": 211,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8791666666666667,
+      "accuracy_on_valid": 0.8791666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge: Knowledge-attention links": {
+      "count": 120,
+      "correct": 42,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.35,
+      "accuracy_on_valid": 0.35,
+      "strict_format_rate": 1.0
+    },
+    "Non-Literal Communication: Faux pas": {
+      "count": 3360,
+      "correct": 2653,
+      "valid": 3360,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7895833333333333,
+      "accuracy_on_valid": 0.7895833333333333,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Sequence false beliefs": {
+      "count": 600,
+      "correct": 424,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7066666666666667,
+      "accuracy_on_valid": 0.7066666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Intention: Prediction of actions": {
+      "count": 120,
+      "correct": 88,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7333333333333333,
+      "accuracy_on_valid": 0.7333333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Desire: Discrepant desires": {
+      "count": 120,
+      "correct": 65,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5416666666666666,
+      "accuracy_on_valid": 0.5416666666666666,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge: Information-knowledge links": {
+      "count": 1200,
+      "correct": 592,
+      "valid": 1200,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.49333333333333335,
+      "accuracy_on_valid": 0.49333333333333335,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Moral emotions": {
+      "count": 240,
+      "correct": 205,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8541666666666666,
+      "accuracy_on_valid": 0.8541666666666666,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge: Knowledge-pretend play links": {
+      "count": 180,
+      "correct": 36,
+      "valid": 180,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.2,
+      "accuracy_on_valid": 0.2,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Emotion regulation": {
+      "count": 120,
+      "correct": 67,
+      "valid": 120,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5583333333333333,
+      "accuracy_on_valid": 0.5583333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Knowledge: Percepts-knowledge links": {
+      "count": 240,
+      "correct": 218,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9083333333333333,
+      "accuracy_on_valid": 0.9083333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Mixed emotions": {
+      "count": 240,
+      "correct": 154,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.6416666666666667,
+      "accuracy_on_valid": 0.6416666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Desire: Desires influence on actions": {
+      "count": 456,
+      "correct": 290,
+      "valid": 456,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.6359649122807017,
+      "accuracy_on_valid": 0.6359649122807017,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Hidden emotions": {
+      "count": 480,
+      "correct": 403,
+      "valid": 480,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.8395833333333333,
+      "accuracy_on_valid": 0.8395833333333333,
+      "strict_format_rate": 1.0
+    },
+    "Intention: Intentions explanations": {
+      "count": 1560,
+      "correct": 1413,
+      "valid": 1560,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9057692307692308,
+      "accuracy_on_valid": 0.9057692307692308,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Location false beliefs Belief: Second-order beliefs": {
+      "count": 600,
+      "correct": 522,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.87,
+      "accuracy_on_valid": 0.87,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Atypical emotional reactions": {
+      "count": 600,
+      "correct": 352,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5866666666666667,
+      "accuracy_on_valid": 0.5866666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Non-literal communication: Egocentric lies": {
+      "count": 240,
+      "correct": 222,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.925,
+      "accuracy_on_valid": 0.925,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Location false beliefs": {
+      "count": 1200,
+      "correct": 1148,
+      "valid": 1200,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9566666666666667,
+      "accuracy_on_valid": 0.9566666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Emotion: Typical emotional reactions": {
+      "count": 600,
+      "correct": 548,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9133333333333333,
+      "accuracy_on_valid": 0.9133333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Non-Literal Communication: Involuntary lies": {
+      "count": 252,
+      "correct": 194,
+      "valid": 252,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7698412698412699,
+      "accuracy_on_valid": 0.7698412698412699,
+      "strict_format_rate": 1.0
+    },
+    "Non-literal communication: White lies": {
+      "count": 240,
+      "correct": 218,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9083333333333333,
+      "accuracy_on_valid": 0.9083333333333333,
+      "strict_format_rate": 1.0
+    },
+    "Non-literal communication: Humor": {
+      "count": 240,
+      "correct": 232,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9666666666666667,
+      "accuracy_on_valid": 0.9666666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Content false beliefs Belief: Second-order beliefs": {
+      "count": 600,
+      "correct": 568,
+      "valid": 600,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9466666666666667,
+      "accuracy_on_valid": 0.9466666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Desire: Desires influence on emotions (beliefs)": {
+      "count": 144,
+      "correct": 85,
+      "valid": 144,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.5902777777777778,
+      "accuracy_on_valid": 0.5902777777777778,
+      "strict_format_rate": 1.0
+    },
+    "Belief: Identity false beliefs": {
+      "count": 240,
+      "correct": 223,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.9291666666666667,
+      "accuracy_on_valid": 0.9291666666666667,
+      "strict_format_rate": 1.0
+    },
+    "Desire: Desire-action contradiction": {
+      "count": 240,
+      "correct": 180,
+      "valid": 240,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.75,
+      "accuracy_on_valid": 0.75,
+      "strict_format_rate": 1.0
+    }
+  },
+  "by_repeat": {
+    "0": {
+      "count": 5720,
+      "correct": 4438,
+      "valid": 5720,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7758741258741259,
+      "accuracy_on_valid": 0.7758741258741259,
+      "strict_format_rate": 1.0
+    },
+    "1": {
+      "count": 5720,
+      "correct": 4458,
+      "valid": 5720,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7793706293706294,
+      "accuracy_on_valid": 0.7793706293706294,
+      "strict_format_rate": 1.0
+    },
+    "2": {
+      "count": 5720,
+      "correct": 4475,
+      "valid": 5720,
+      "invalid": 0,
+      "errors": 0,
+      "accuracy": 0.7823426573426573,
+      "accuracy_on_valid": 0.7823426573426573,
+      "strict_format_rate": 1.0
+    }
+  },
+  "repeat_statistics": {
+    "complete_rounds": 3,
+    "mean_accuracy": 0.7791958041958041,
+    "sample_std_accuracy": 0.003237807548505603
+  },
+  "question_vote_accuracy_by_language": {
+    "en": {
+      "completed_questions": 2860,
+      "accuracy": 0.7818181818181819
+    },
+    "zh": {
+      "completed_questions": 2860,
+      "accuracy": 0.7912587412587413
+    }
+  },
+  "rounds_by_language": {
+    "en": {
+      "rounds": {
+        "1": {
+          "count": 2860,
+          "correct": 2203,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.7702797202797202,
+          "accuracy_on_valid": 0.7702797202797202,
+          "strict_format_rate": 1.0
+        },
+        "2": {
+          "count": 2860,
+          "correct": 2209,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.7723776223776224,
+          "accuracy_on_valid": 0.7723776223776224,
+          "strict_format_rate": 1.0
+        },
+        "3": {
+          "count": 2860,
+          "correct": 2227,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.7786713286713287,
+          "accuracy_on_valid": 0.7786713286713287,
+          "strict_format_rate": 1.0
+        }
+      },
+      "complete_rounds": 3,
+      "mean_accuracy": 0.7737762237762238,
+      "sample_std_accuracy": 0.004367131467411496
+    },
+    "zh": {
+      "rounds": {
+        "1": {
+          "count": 2860,
+          "correct": 2235,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.7814685314685315,
+          "accuracy_on_valid": 0.7814685314685315,
+          "strict_format_rate": 1.0
+        },
+        "2": {
+          "count": 2860,
+          "correct": 2249,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.7863636363636364,
+          "accuracy_on_valid": 0.7863636363636364,
+          "strict_format_rate": 1.0
+        },
+        "3": {
+          "count": 2860,
+          "correct": 2248,
+          "valid": 2860,
+          "invalid": 0,
+          "errors": 0,
+          "accuracy": 0.786013986013986,
+          "accuracy_on_valid": 0.786013986013986,
+          "strict_format_rate": 1.0
+        }
+      },
+      "complete_rounds": 3,
+      "mean_accuracy": 0.7846153846153846,
+      "sample_std_accuracy": 0.0027308565300372925
+    }
+  },
+  "excluding_option_count_mismatches": {
+    "excluded_sample_ids": [
+      "Strange Story Task:293"
+    ],
+    "note": "辅助口径：两种语言均排除选项数不一致题目；原始全量结果保留，不修改题库",
+    "by_language": {
+      "en": {
+        "count": 8577,
+        "correct": 6636,
+        "valid": 8577,
+        "invalid": 0,
+        "errors": 0,
+        "accuracy": 0.7736970968870235,
+        "accuracy_on_valid": 0.7736970968870235,
+        "strict_format_rate": 1.0
+      },
+      "zh": {
+        "count": 8577,
+        "correct": 6729,
+        "valid": 8577,
+        "invalid": 0,
+        "errors": 0,
+        "accuracy": 0.7845400489681706,
+        "accuracy_on_valid": 0.7845400489681706,
+        "strict_format_rate": 1.0
+      }
+    }
+  },
+  "timing": {
+    "measured_trials": 17160,
+    "mean_seconds_per_trial_including_interval": 1.6971311473819517,
+    "median_seconds": 1.6256464160978794,
+    "p95_seconds": 2.284806877374649,
+    "remaining_hours_estimate": 0.0,
+    "full_dataset_1_repeat_1_language_hours": 1.3482764115312174,
+    "full_dataset_5_repeats_1_language_hours": 6.741382057656087,
+    "workers": 32,
+    "caveat": "剩余耗时按并发数理想缩放；full_dataset字段为串行估计；不含认证、限流和中断"
+  }
+}

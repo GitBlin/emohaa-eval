@@ -1,0 +1,41 @@
+{
+  "id": "d7639f9a898f4185b9abf6fcc1b7ff06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是的。我爸妈都是老师，从小对我要求挺高，考好了也就一句“别骄傲”。我好像习惯了先找自己哪儿做得不够。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个习惯是不是以前也常出现，好像戳到了一些我一直回避的东西。我确实总在怀疑自己，尤其在家里的时候。爸妈虽然都是老师，讲道理，但他们的标准总是很高，我很少听到直接的肯定，更多是“还能更好”。）\n（可能正是这样，我才会把别人的评价先当成对的，再反过来怪自己不够好。说出来有点难堪，但好像确实是这样一路过来的。）",
+        "reasoning": "（咨询师问这个习惯是不是以前也常出现，好像戳到了一些我一直回避的东西。我确实总在怀疑自己，尤其在家里的时候。爸妈虽然都是老师，讲道理，但他们的标准总是很高，我很少听到直接的肯定，更多是“还能更好”。）\n（可能正是这样，我才会把别人的评价先当成对的，再反过来怪自己不够好。说出来有点难堪，但好像确实是这样一路过来的。）"
+      }
+    }
+  ],
+  "created": 1794555613,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1807,
+    "total_tokens": 1934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

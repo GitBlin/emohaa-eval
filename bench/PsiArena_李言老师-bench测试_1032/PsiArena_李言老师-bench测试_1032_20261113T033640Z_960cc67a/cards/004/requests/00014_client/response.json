@@ -1,0 +1,41 @@
+{
+  "id": "715c40991825445e8c5b5b111efc3827",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我也不知道。可能还是先忍着吧。爸妈打电话来也就问成绩，我要是说这些，他们也帮不上，还跟着担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师问得挺细的，好像真的在帮我想办法。但我确实不知道找谁，班主任太凶，奶奶不能让她操心。也许……也许可以先问问老师，但得想好怎么说，不能让她觉得我在告状。）\n（我想到爸妈，可他们那么忙，打电话也说不了几句。而且说了又能怎样，他们又回不来。每次打电话都是问成绩，我根本不敢提这些事。）",
+        "reasoning": "（这个咨询师问得挺细的，好像真的在帮我想办法。但我确实不知道找谁，班主任太凶，奶奶不能让她操心。也许……也许可以先问问老师，但得想好怎么说，不能让她觉得我在告状。）\n（我想到爸妈，可他们那么忙，打电话也说不了几句。而且说了又能怎样，他们又回不来。每次打电话都是问成绩，我根本不敢提这些事。）"
+      }
+    }
+  ],
+  "created": 1794541144,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2145,
+    "total_tokens": 2267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

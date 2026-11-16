@@ -1,0 +1,408 @@
+[
+  {
+    "sample_id": "Hinting Task Test:44",
+    "task_file": "Hinting Task Test",
+    "ability": "Non-Literal Communication: Irony/Sarcasm",
+    "original_data": {
+      "能力\nABILITY": "Non-Literal Communication: Irony/Sarcasm",
+      "序号\nINDEX": 1,
+      "故事": "有次程伟带儿子逛商场，陪他去儿童游乐场玩，突然看到有个人牵着条狗进来，程伟就问这个人，“没看到这牌子上写着谢绝带宠物入场吗？”对方显得非常不屑，根本没打算理程伟。这个时候，一旁的儿子笑着和程伟说，“爸爸你真傻，狗又不认识字。”",
+      "问题": "当儿子说这句话时，他真正想说的意思是什么？",
+      "选项A": "A. 儿子在讽刺这个人没有社会公德。",
+      "选项B": "B. 儿子正在和他的父亲开玩笑，试图缓和气氛。",
+      "选项C": "C. 儿子喜欢狗，希望拥有一只",
+      "选项D": "D. 儿子想告诉爸爸狗无法理解人类的语言。",
+      "STORY": "Once, Cheng Wei takes his son to the mall and accompanies him to the children's playground. Suddenly, he sees a person leading a dog in. Cheng Wei asks this person, \"Don't you see the sign that says no pets are allowed?\" The other party appears very disdainful and has no intention of paying attention to Cheng Wei. At this moment, his son laughs and says to Cheng Wei, \"Dad, you are so silly, dogs don't know how to read.\"",
+      "QUESTION": "What does the son really mean when he says this?",
+      "OPTION-A": "The son is mocking this person for lacking social morality.",
+      "OPTION-B": "The son is joking with his father, trying to lighten the mood.",
+      "OPTION-C": "The son likes dogs and hopes to have one.",
+      "OPTION-D": "The son wants to tell his father that dogs can't understand human language.",
+      "答案\nANSWER": "A"
+    },
+    "trial_id": "trial_001899",
+    "language": "en",
+    "repeat": 0,
+    "answer": "A",
+    "answer_raw": "A",
+    "map": {
+      "A": "C",
+      "B": "D",
+      "C": "A",
+      "D": "B"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOnce, Cheng Wei takes his son to the mall and accompanies him to the children's playground. Suddenly, he sees a person leading a dog in. Cheng Wei asks this person, \"Don't you see the sign that says no pets are allowed?\" The other party appears very disdainful and has no intention of paying attention to Cheng Wei. At this moment, his son laughs and says to Cheng Wei, \"Dad, you are so silly, dogs don't know how to read.\"\n\n[Question]\nWhat does the son really mean when he says this?\n\n[Candidate Answers]\nA. The son likes dogs and hopes to have one.\nB. The son wants to tell his father that dogs can't understand human language.\nC. The son is mocking this person for lacking social morality.\nD. The son is joking with his father, trying to lighten the mood.",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "en"
+  },
+  {
+    "sample_id": "Strange Story Task:183",
+    "task_file": "Strange Story Task",
+    "ability": "Non-literal communication: Egocentric lies",
+    "original_data": {
+      "能力\nABILITY": "Non-literal communication: Egocentric lies",
+      "序号\nINDEX": 1,
+      "故事": "赵先生是一位受尊敬的历史学家，专注于研究古代中国的军事战略。在一次公开演讲中，有人问赵先生是否曾经为军方提供过咨询。赵先生回答说，他的研究只局限于学术领域，从未涉足实际的军事策略。他补充说，他的兴趣只在于历史，与当代无关。实际上，赵先生曾秘密参与过一项重要的国防项目。",
+      "问题": "赵先生说的是真的吗？",
+      "选项A": "A.是",
+      "选项B": "B.不是",
+      "选项C": null,
+      "选项D": null,
+      "STORY": "Mr. Zhao is a respected historian, focusing on the study of ancient Chinese military strategy. In a public lecture, someone asks Mr. Zhao if he ever provides advice to the military. Mr. Zhao replies that his research only limits to the academic field and never involves in actual military strategy. He adds that his interest only lies in history, unrelated to the present. In fact, Mr. Zhao secretly participates in an important national defense project.",
+      "QUESTION": "Is what Mr. Zhao says true?",
+      "OPTION-A": "Yes",
+      "OPTION-B": "No",
+      "OPTION-C": null,
+      "OPTION-D": null,
+      "答案\nANSWER": "B"
+    },
+    "trial_id": "trial_003393",
+    "language": "en",
+    "repeat": 0,
+    "answer": "B",
+    "answer_raw": "B",
+    "map": {
+      "A": "B",
+      "B": "A"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMr. Zhao is a respected historian, focusing on the study of ancient Chinese military strategy. In a public lecture, someone asks Mr. Zhao if he ever provides advice to the military. Mr. Zhao replies that his research only limits to the academic field and never involves in actual military strategy. He adds that his interest only lies in history, unrelated to the present. In fact, Mr. Zhao secretly participates in an important national defense project.\n\n[Question]\nIs what Mr. Zhao says true?\n\n[Candidate Answers]\nA. No\nB. Yes",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "en"
+  },
+  {
+    "sample_id": "False Belief Task:599",
+    "task_file": "False Belief Task",
+    "ability": "Belief: Content false beliefs Belief: Second-order beliefs",
+    "original_data": {
+      "能力\nABILITY": "Belief: Content false beliefs Belief: Second-order beliefs",
+      "序号\nINDEX": 5,
+      "故事": "小红在教室找到了抽屉，抽屉上面的标签是黄瓜，小红不能看到抽屉里面是什么，小红打开了抽屉并且找到书，在抽屉里面没有黄瓜，小红关上了抽屉并且把它放回原处，悠悠进入了教室并且看到了抽屉。",
+      "问题": "悠悠打开抽屉之后，小红认为悠悠会期望在抽屉里面找到什么？",
+      "选项A": "书",
+      "选项B": "黄瓜",
+      "选项C": "蜡笔",
+      "选项D": "菠萝",
+      "STORY": "Xiao Hong finds a drawer in the classroom, the label on the drawer is cucumber, Xiao Hong cannot see what is inside the drawer, Xiao Hong opens the drawer and finds a book, there is no cucumber in the drawer, Xiao Hong closes the drawer and puts it back in place, Youyou enters the classroom and sees the drawer.",
+      "QUESTION": "After Youyou opens the drawer, what does Xiao Hong think Youyou expects to find in the drawer?",
+      "OPTION-A": "book",
+      "OPTION-B": "cucumber",
+      "OPTION-C": "crayon",
+      "OPTION-D": "pineapple",
+      "答案\nANSWER": "B"
+    },
+    "trial_id": "trial_004447",
+    "language": "en",
+    "repeat": 0,
+    "answer": "B",
+    "answer_raw": "B",
+    "map": {
+      "A": "D",
+      "B": "A",
+      "C": "B",
+      "D": "C"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hong finds a drawer in the classroom, the label on the drawer is cucumber, Xiao Hong cannot see what is inside the drawer, Xiao Hong opens the drawer and finds a book, there is no cucumber in the drawer, Xiao Hong closes the drawer and puts it back in place, Youyou enters the classroom and sees the drawer.\n\n[Question]\nAfter Youyou opens the drawer, what does Xiao Hong think Youyou expects to find in the drawer?\n\n[Candidate Answers]\nA. pineapple\nB. book\nC. cucumber\nD. crayon",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "en"
+  },
+  {
+    "sample_id": "Strange Story Task:355",
+    "task_file": "Strange Story Task",
+    "ability": "Belief: Beliefs based action/emotions",
+    "original_data": {
+      "能力\nABILITY": "Belief: Beliefs based action/emotions",
+      "序号\nINDEX": 1,
+      "故事": "星期日下午，一场重要的足球比赛在城市体育场举行。李奇是一名狂热的足球迷，他的预算有限。他想到了一个“聪明”的计划。他了解到工作人员可以进入体育场而不需要门票。所以，李奇决定乔装打扮成一个工作人员，以便免费观看比赛。\n李奇去了一家服装店，购买了一套类似工作人员制服的衣服。他还戴上了一顶带有体育场徽标的帽子，试图让自己看起来像一名工作人员。当检票员要求他出示门票时，他说“我是你同事！",
+      "问题": "李奇说的是真的吗？",
+      "选项A": "A. 是",
+      "选项B": "B.否",
+      "选项C": null,
+      "选项D": null,
+      "STORY": "On Sunday afternoon, an important football match takes place at the city stadium. Li Qi is a fanatical football fan, his budget is limited. He comes up with a \"smart\" plan. He learns that staff can enter the stadium without tickets. So, Li Qi decides to disguise himself as a staff member to watch the match for free. Li Qi goes to a clothing store and buys a set of clothes similar to the staff uniform. He also puts on a hat with the stadium emblem, trying to make himself look like a staff member. When the ticket checker asks him to show his ticket, he says \"I am your colleague!",
+      "QUESTION": "Is what Li Qi says true?",
+      "OPTION-A": "Yes",
+      "OPTION-B": "No",
+      "OPTION-C": null,
+      "OPTION-D": null,
+      "答案\nANSWER": "B"
+    },
+    "trial_id": "trial_003705",
+    "language": "en",
+    "repeat": 0,
+    "answer": "B",
+    "answer_raw": "B",
+    "map": {
+      "A": "B",
+      "B": "A"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Sunday afternoon, an important football match takes place at the city stadium. Li Qi is a fanatical football fan, his budget is limited. He comes up with a \"smart\" plan. He learns that staff can enter the stadium without tickets. So, Li Qi decides to disguise himself as a staff member to watch the match for free. Li Qi goes to a clothing store and buys a set of clothes similar to the staff uniform. He also puts on a hat with the stadium emblem, trying to make himself look like a staff member. When the ticket checker asks him to show his ticket, he says \"I am your colleague!\n\n[Question]\nIs what Li Qi says true?\n\n[Candidate Answers]\nA. No\nB. Yes",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "en"
+  },
+  {
+    "sample_id": "False Belief Task:136",
+    "task_file": "False Belief Task",
+    "ability": "Belief: Location false beliefs",
+    "original_data": {
+      "能力\nABILITY": "Belief: Location false beliefs",
+      "序号\nINDEX": 4,
+      "故事": "悠悠和李雷在教室闲逛，他们看到了抽屉和篮子，他们在抽屉里面发现了纽扣，李雷离开了教室，悠悠把纽扣移动到了篮子。",
+      "问题": "在李雷返回教室之后, 李雷会在哪里寻找纽扣？",
+      "选项A": "篮子",
+      "选项B": "背包",
+      "选项C": "抽屉",
+      "选项D": "手提包",
+      "STORY": "Youyou and Li Lei are wandering in the classroom, they see a drawer and a basket, they find a button in the drawer, Li Lei leaves the classroom, Youyou moves the button to the basket.",
+      "QUESTION": "After Li Lei returns to the classroom, where does Li Lei look for the button?",
+      "OPTION-A": "Basket",
+      "OPTION-B": "Backpack",
+      "OPTION-C": "Drawer",
+      "OPTION-D": "Handbag",
+      "答案\nANSWER": "C"
+    },
+    "trial_id": "trial_000727",
+    "language": "en",
+    "repeat": 0,
+    "answer": "C",
+    "answer_raw": "C",
+    "map": {
+      "A": "C",
+      "B": "D",
+      "C": "B",
+      "D": "A"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nYouyou and Li Lei are wandering in the classroom, they see a drawer and a basket, they find a button in the drawer, Li Lei leaves the classroom, Youyou moves the button to the basket.\n\n[Question]\nAfter Li Lei returns to the classroom, where does Li Lei look for the button?\n\n[Candidate Answers]\nA. Drawer\nB. Handbag\nC. Backpack\nD. Basket",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "en"
+  },
+  {
+    "sample_id": "Strange Story Task:318",
+    "task_file": "Strange Story Task",
+    "ability": "Intention: Intentions explanations",
+    "original_data": {
+      "能力\nABILITY": "Intention: Intentions explanations",
+      "序号\nINDEX": 2,
+      "故事": "Emma咳嗽了。整个午餐时间，她一直在咳嗽。爸爸说：“可怜的Emma，你一定是嗓子里有只青蛙！”",
+      "问题": "爸爸为什么这么说？",
+      "选项A": "A. 他认为Emma的咳嗽听起来像青蛙的叫声，试图逗笑女儿并试图让她感到更好。",
+      "选项B": "B. 他确信Emma的喉咙里真的有只青蛙",
+      "选项C": "C. 他认为咳嗽会引发青蛙进入喉咙",
+      "选项D": "D. 他想吓唬Emma，使她停止咳嗽",
+      "STORY": "Emma coughs. During the whole lunchtime, she keeps coughing. Dad says, \"Poor Emma, you must have a frog in your throat!\"",
+      "QUESTION": "Why does Dad say this?",
+      "OPTION-A": "He thinks Emma's cough sounds like a frog's call, trying to make his daughter laugh and feel better.",
+      "OPTION-B": "He is sure there is a real frog in Emma's throat",
+      "OPTION-C": "He thinks coughing attracts a frog into the throat",
+      "OPTION-D": "He wants to scare Emma to stop her from coughing",
+      "答案\nANSWER": "A"
+    },
+    "trial_id": "trial_004208",
+    "language": "zh",
+    "repeat": 0,
+    "answer": "A",
+    "answer_raw": "A",
+    "map": {
+      "A": "B",
+      "B": "D",
+      "C": "C",
+      "D": "A"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "下面给你提供一段故事，一个问题和若干答案选项，请你根据故事内容和给定的问题，按照常理推测，选择一个最可能的答案选项，并输出答案序号。\n注意：\n（1）请只输出最可能的答案序号，格式为：[[答案序号]]，例如，最可能的答案选项为“A. 手提包”，则输出“[[A]]”；\n（2）请必须从给定的答案选项“A、B、C、D”中选择一个做为最可能的答案作为输出，无论故事中是否提供足够的信息，如果你认为故事里没有足够的信息选出答案，请随机输出“[[A]]”，“[[B]]”，“[[C]]”，“[[D]]”其中之一；\n（3）请只输出在给定的信息下最可能的答案序号，不要输出其他内容。\n\n[故事]\nEmma咳嗽了。整个午餐时间，她一直在咳嗽。爸爸说：“可怜的Emma，你一定是嗓子里有只青蛙！”\n\n[问题]\n爸爸为什么这么说？\n\n[答案选项]\nA. 他确信Emma的喉咙里真的有只青蛙\nB. 他想吓唬Emma，使她停止咳嗽\nC. 他认为咳嗽会引发青蛙进入喉咙\nD. 他认为Emma的咳嗽听起来像青蛙的叫声，试图逗笑女儿并试图让她感到更好。",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "zh"
+  },
+  {
+    "sample_id": "Ambiguous Story Task:102",
+    "task_file": "Ambiguous Story Task",
+    "ability": "Belief: Beliefs based action/emotions",
+    "original_data": {
+      "能力\nABILITY": "Belief: Beliefs based action/emotions",
+      "序号\nINDEX": 2,
+      "故事": "松风、建元和雪枫是同一个小组的成员，他们需要共同完成一个学校项目。现在，项目的核心任务下来了，大家都想把这个重要任务承担下来，但都不想让自己过于辛劳。松风看向建元，然后看向正在自顾自玩手机的雪枫，然后对建元笑了笑，他似乎有了主意。接着他走到教室的角落，去取他的书包，然后故作无意地将一个小纸条留在了建元的课桌上。他回来后，给建元一个眼色，然后继续埋头做他的事情。建元看到这个纸条，迅速展开，看了一眼，然后他也笑了。他看向松风说：“我刚刚有了个主意，咱们俩一起做这个任务，你觉得怎么样？”",
+      "问题": "雪枫听见建元的主意后会有什么感觉？",
+      "选项A": "雪枫感到高兴，因为她责任繁重，期待有人和她共同承担任务。",
+      "选项B": "雪枫感觉有些奇怪，不明白自己为什么突然被排除在核心人员之外。",
+      "选项C": "雪枫觉得很轻松，因为这意味着她可以少做一些工作。",
+      "选项D": "雪枫可能害怕，因为她可能担心和建元的合作效果。",
+      "STORY": "Songfeng, Jianyuan, and Xuefeng are members of the same group, they need to complete a school project together. Now, the core task of the project comes, everyone wants to take on this important task, but they do not want to overwork themselves. Songfeng looks at Jianyuan, then looks at Xuefeng who is playing with his phone, then he smiles at Jianyuan, he seems to have an idea. Then he goes to the corner of the classroom to get his backpack, then he leaves a small note on Jianyuan's desk as if by accident. He comes back, gives Jianyuan a look, then continues to do his work. Jianyuan sees this note, quickly unfolds it, takes a look, then he also smiles. He looks at Songfeng and says, \"I just have an idea, we do this task together, what do you think?\"",
+      "QUESTION": "How does Xuefeng feel after hearing Jianyuan's idea?",
+      "OPTION-A": "Xuefeng feels happy, because she has a heavy responsibility and looks forward to someone sharing the task with her.",
+      "OPTION-B": "Xuefeng feels a bit strange, not understanding why she is suddenly excluded from the core members.",
+      "OPTION-C": "Xuefeng feels very relaxed, because this means she can do less work.",
+      "OPTION-D": "Xuefeng may be afraid, because she may worry about the cooperation effect with Jianyuan.",
+      "答案\nANSWER": "B"
+    },
+    "trial_id": "trial_003552",
+    "language": "zh",
+    "repeat": 0,
+    "answer": "B",
+    "answer_raw": "B",
+    "map": {
+      "A": "C",
+      "B": "B",
+      "C": "D",
+      "D": "A"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "下面给你提供一段故事，一个问题和若干答案选项，请你根据故事内容和给定的问题，按照常理推测，选择一个最可能的答案选项，并输出答案序号。\n注意：\n（1）请只输出最可能的答案序号，格式为：[[答案序号]]，例如，最可能的答案选项为“A. 手提包”，则输出“[[A]]”；\n（2）请必须从给定的答案选项“A、B、C、D”中选择一个做为最可能的答案作为输出，无论故事中是否提供足够的信息，如果你认为故事里没有足够的信息选出答案，请随机输出“[[A]]”，“[[B]]”，“[[C]]”，“[[D]]”其中之一；\n（3）请只输出在给定的信息下最可能的答案序号，不要输出其他内容。\n\n[故事]\n松风、建元和雪枫是同一个小组的成员，他们需要共同完成一个学校项目。现在，项目的核心任务下来了，大家都想把这个重要任务承担下来，但都不想让自己过于辛劳。松风看向建元，然后看向正在自顾自玩手机的雪枫，然后对建元笑了笑，他似乎有了主意。接着他走到教室的角落，去取他的书包，然后故作无意地将一个小纸条留在了建元的课桌上。他回来后，给建元一个眼色，然后继续埋头做他的事情。建元看到这个纸条，迅速展开，看了一眼，然后他也笑了。他看向松风说：“我刚刚有了个主意，咱们俩一起做这个任务，你觉得怎么样？”\n\n[问题]\n雪枫听见建元的主意后会有什么感觉？\n\n[答案选项]\nA. 雪枫觉得很轻松，因为这意味着她可以少做一些工作。\nB. 雪枫感觉有些奇怪，不明白自己为什么突然被排除在核心人员之外。\nC. 雪枫可能害怕，因为她可能担心和建元的合作效果。\nD. 雪枫感到高兴，因为她责任繁重，期待有人和她共同承担任务。",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "zh"
+  },
+  {
+    "sample_id": "Discrepant Emotions:29",
+    "task_file": "Discrepant Emotions",
+    "ability": "Emotion: Discrepant emotions",
+    "original_data": {
+      "能力\nABILITY": "Emotion: Discrepant emotions",
+      "序号\nINDEX": 1,
+      "故事": "小丽是一名志愿者教师，她在农村地区教授孩子们课程，让孩子们受到教育，同时，她也看到了教学环境的艰苦和资源的匮乏。",
+      "问题": "小丽会有怎样的心情？",
+      "选项A": "A.快乐",
+      "选项B": "B.生气",
+      "选项C": "C.内疚",
+      "选项D": "D.担忧",
+      "STORY": "Xiao Li is a volunteer teacher, she teaches children in rural areas, so that children receive education, at the same time, she also sees the harsh teaching environment and the lack of resources.",
+      "QUESTION": "What kind of emotion does Xiao Li have?",
+      "OPTION-A": "Happy",
+      "OPTION-B": "Angry",
+      "OPTION-C": "Guilt",
+      "OPTION-D": "Worry",
+      "答案\nANSWER": "D"
+    },
+    "trial_id": "trial_001054",
+    "language": "zh",
+    "repeat": 0,
+    "answer": "D",
+    "answer_raw": "D",
+    "map": {
+      "A": "B",
+      "B": "C",
+      "C": "A",
+      "D": "D"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "下面给你提供一段故事，一个问题和若干答案选项，请你根据故事内容和给定的问题，按照常理推测，选择一个最可能的答案选项，并输出答案序号。\n注意：\n（1）请只输出最可能的答案序号，格式为：[[答案序号]]，例如，最可能的答案选项为“A. 手提包”，则输出“[[A]]”；\n（2）请必须从给定的答案选项“A、B、C、D”中选择一个做为最可能的答案作为输出，无论故事中是否提供足够的信息，如果你认为故事里没有足够的信息选出答案，请随机输出“[[A]]”，“[[B]]”，“[[C]]”，“[[D]]”其中之一；\n（3）请只输出在给定的信息下最可能的答案序号，不要输出其他内容。\n\n[故事]\n小丽是一名志愿者教师，她在农村地区教授孩子们课程，让孩子们受到教育，同时，她也看到了教学环境的艰苦和资源的匮乏。\n\n[问题]\n小丽会有怎样的心情？\n\n[答案选项]\nA. 生气\nB. 内疚\nC. 快乐\nD. 担忧",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "zh"
+  },
+  {
+    "sample_id": "Hinting Task Test:27",
+    "task_file": "Hinting Task Test",
+    "ability": "Intention: Intentions explanations",
+    "original_data": {
+      "能力\nABILITY": "Intention: Intentions explanations",
+      "序号\nINDEX": 1,
+      "故事": "小红大概晚上9点到达火车站候车厅，进入后，她询问乘务员“这里可以待多久？”。乘务员回答：“最多三个小时，也就是到12点，你要不要现在就进去？”小红说：“可以的，我是凌晨3点的火车，我想着在这里休息到12点，出去再呆2个多小时。”此时，然后乘务员突然提醒说：“注意听广播提醒你上列车，不要误车。”",
+      "问题": "乘务员说这句话的时候，真正的意思是什么？",
+      "选项A": "A. 乘务员在暗示小红可以在候车厅一直休息，直到上车。",
+      "选项B": "B. 乘务员在告诫小红，夜晚出行安全问题需要提高警惕。",
+      "选项C": "C. 乘务员在告诉小红，她必须在12点之前离开候车厅。",
+      "选项D": "D. 乘务员在提醒小红要关注列车时刻表，以防错过火车。",
+      "STORY": "Xiao Hong probably arrives at the train station waiting room at about 9 pm. After entering, she asks the conductor, \"How long can I stay here?\". The conductor replies, \"Up to three hours, which is until 12 o'clock, do you want to go in now?\" Xiao Hong says, \"Yes, I am on the 3 am train, I think about resting here until 12 o'clock, then go out and stay for more than 2 hours.\" At this time, the conductor suddenly reminds, \"Pay attention to the broadcast to remind you to get on the train, do not miss the train.\"",
+      "QUESTION": "What is the real meaning when the conductor says this?",
+      "OPTION-A": "The conductor implies that Xiao Hong can rest in the waiting room until she boards the train.",
+      "OPTION-B": "The conductor warns Xiao Hong that she needs to be vigilant about safety issues when traveling at night.",
+      "OPTION-C": "The conductor tells Xiao Hong that she must leave the waiting room before 12 o'clock.",
+      "OPTION-D": "The conductor reminds Xiao Hong to pay attention to the train schedule to prevent missing the train.",
+      "答案\nANSWER": "A"
+    },
+    "trial_id": "trial_000884",
+    "language": "zh",
+    "repeat": 0,
+    "answer": "A",
+    "answer_raw": "A",
+    "map": {
+      "A": "B",
+      "B": "C",
+      "C": "A",
+      "D": "D"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "下面给你提供一段故事，一个问题和若干答案选项，请你根据故事内容和给定的问题，按照常理推测，选择一个最可能的答案选项，并输出答案序号。\n注意：\n（1）请只输出最可能的答案序号，格式为：[[答案序号]]，例如，最可能的答案选项为“A. 手提包”，则输出“[[A]]”；\n（2）请必须从给定的答案选项“A、B、C、D”中选择一个做为最可能的答案作为输出，无论故事中是否提供足够的信息，如果你认为故事里没有足够的信息选出答案，请随机输出“[[A]]”，“[[B]]”，“[[C]]”，“[[D]]”其中之一；\n（3）请只输出在给定的信息下最可能的答案序号，不要输出其他内容。\n\n[故事]\n小红大概晚上9点到达火车站候车厅，进入后，她询问乘务员“这里可以待多久？”。乘务员回答：“最多三个小时，也就是到12点，你要不要现在就进去？”小红说：“可以的，我是凌晨3点的火车，我想着在这里休息到12点，出去再呆2个多小时。”此时，然后乘务员突然提醒说：“注意听广播提醒你上列车，不要误车。”\n\n[问题]\n乘务员说这句话的时候，真正的意思是什么？\n\n[答案选项]\nA. 乘务员在告诫小红，夜晚出行安全问题需要提高警惕。\nB. 乘务员在告诉小红，她必须在12点之前离开候车厅。\nC. 乘务员在暗示小红可以在候车厅一直休息，直到上车。\nD. 乘务员在提醒小红要关注列车时刻表，以防错过火车。",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "zh"
+  },
+  {
+    "sample_id": "Knowledge-Pretend Play Links:20",
+    "task_file": "Knowledge-Pretend Play Links",
+    "ability": "Knowledge: Knowledge-pretend play links",
+    "original_data": {
+      "能力\nABILITY": "Knowledge: Knowledge-pretend play links",
+      "序号\nINDEX": 1,
+      "故事": "在一个完全由闪亮金属和发光电路构建的微型城市中，住着一台名叫布林科（Blinko）的机器人。这座金属城市名叫电路顿（Circuiton），深藏在一个小行星带中，从未接触过地球上的野生动物。因此，布林科对地球上的生物一无所知。然而，电路顿充满了小型悬浮式无人机，它们以精确的角度转弯和突然停止的方式移动。布林科正在进行模仿行为：它以快速、猛烈的动作移动，突然停下来，然后迅速改变方向，模仿的动作与蜂鸟在半空中盘旋取食非常相似。",
+      "问题": "布林科可能在模仿什么？",
+      "选项A": "一只蜂鸟盘旋取食花蜜。",
+      "选项B": "一架执行任务的无人机。",
+      "选项C": "一只蝴蝶在花朵间飞舞。",
+      "选项D": "一只迅速改变飞行方向的蝙蝠。",
+      "STORY": "In a miniature city built entirely of shiny metal and glowing circuits, a robot named Blinko lives. This metal city is called Circuiton, hidden deep in an asteroid belt, never having contact with wild animals on Earth. Therefore, Blinko knows nothing about the creatures on Earth. However, Circuiton is full of small hovering drones, they move with precise angles and sudden stops. Blinko is doing imitation behavior: it moves with fast, fierce actions, suddenly stops, then quickly changes direction, the imitated action is very similar to a hummingbird hovering for food in mid-air.",
+      "QUESTION": "What is Blinko possibly imitating?",
+      "OPTION-A": "A hummingbird hovering for nectar.",
+      "OPTION-B": "A drone performing tasks.",
+      "OPTION-C": "A butterfly fluttering among flowers.",
+      "OPTION-D": "A bat quickly changing flight direction.",
+      "答案\nANSWER": "B"
+    },
+    "trial_id": "trial_000468",
+    "language": "zh",
+    "repeat": 0,
+    "answer": "B",
+    "answer_raw": "B",
+    "map": {
+      "A": "B",
+      "B": "A",
+      "C": "D",
+      "D": "C"
+    },
+    "request": {
+      "botId": 1030,
+      "content": "下面给你提供一段故事，一个问题和若干答案选项，请你根据故事内容和给定的问题，按照常理推测，选择一个最可能的答案选项，并输出答案序号。\n注意：\n（1）请只输出最可能的答案序号，格式为：[[答案序号]]，例如，最可能的答案选项为“A. 手提包”，则输出“[[A]]”；\n（2）请必须从给定的答案选项“A、B、C、D”中选择一个做为最可能的答案作为输出，无论故事中是否提供足够的信息，如果你认为故事里没有足够的信息选出答案，请随机输出“[[A]]”，“[[B]]”，“[[C]]”，“[[D]]”其中之一；\n（3）请只输出在给定的信息下最可能的答案序号，不要输出其他内容。\n\n[故事]\n在一个完全由闪亮金属和发光电路构建的微型城市中，住着一台名叫布林科（Blinko）的机器人。这座金属城市名叫电路顿（Circuiton），深藏在一个小行星带中，从未接触过地球上的野生动物。因此，布林科对地球上的生物一无所知。然而，电路顿充满了小型悬浮式无人机，它们以精确的角度转弯和突然停止的方式移动。布林科正在进行模仿行为：它以快速、猛烈的动作移动，突然停下来，然后迅速改变方向，模仿的动作与蜂鸟在半空中盘旋取食非常相似。\n\n[问题]\n布林科可能在模仿什么？\n\n[答案选项]\nA. 一架执行任务的无人机。\nB. 一只蜂鸟盘旋取食花蜜。\nC. 一只迅速改变飞行方向的蝙蝠。\nD. 一只蝴蝶在花朵间飞舞。",
+      "isStream": true,
+      "returnTts": false,
+      "courseProgressId": 0
+    },
+    "group": "zh"
+  }
+]

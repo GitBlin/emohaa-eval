@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:12:49.320258+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOne afternoon, Li Ming shops at a nearby mall. He walks into a clothing store and sees a shirt he really likes. The salesperson comes over to help him immediately. Li Ming starts to try on the shirt and finds it really suits him. Then, the salesperson starts to persuade him to buy the whole outfit, including pants, a tie, and shoes. Li Ming hesitates for a moment, but the salesperson firmly says, \"Only this whole outfit truly shows your taste!\" Li Ming suddenly says, \"Okay, I take the whole set.\" The salesperson can't help but laugh out loud, thinking to himself, \"This guy really believes it!\n\n[Question]\nWhy does the salesperson say this?\n\n[Candidate Answers]\nA. The salesperson hopes to sell more goods, so he persuades Li Ming to buy the whole set.\nB. The salesperson jokes and does not think the whole outfit has a special function.\nC. The salesperson thinks Li Ming already wears the whole outfit, so he should buy it.\nD. The salesperson thinks the whole outfit suits Li Ming to show his taste.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

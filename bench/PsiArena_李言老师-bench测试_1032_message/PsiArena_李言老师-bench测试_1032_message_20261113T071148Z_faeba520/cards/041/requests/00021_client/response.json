@@ -1,0 +1,41 @@
+{
+  "id": "da8569f341ee4ceebeb76ef056df7930",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写一句：“我的感受是真的，不是我太敏感。”……念出来有点怪，不过好像有点用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那个“卡住”的时刻具体化，让我找到一句能稳住自己的话。我平时总是先怪自己，可能写下来能让我在那一刻不那么慌。）\n（我想提醒自己，我的感受是真实的，不是想多了。这句话听起来简单，但对我来说挺重要的。说出来之后，好像心里有个地方稍微松了一点。）",
+        "reasoning": "（咨询师在帮我把那个“卡住”的时刻具体化，让我找到一句能稳住自己的话。我平时总是先怪自己，可能写下来能让我在那一刻不那么慌。）\n（我想提醒自己，我的感受是真实的，不是想多了。这句话听起来简单，但对我来说挺重要的。说出来之后，好像心里有个地方稍微松了一点。）"
+      }
+    }
+  ],
+  "created": 1794555655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3134,
+    "total_tokens": 3233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

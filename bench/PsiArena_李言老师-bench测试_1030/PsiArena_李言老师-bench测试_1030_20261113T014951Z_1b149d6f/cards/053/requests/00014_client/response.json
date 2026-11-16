@@ -1,0 +1,41 @@
+{
+  "id": "e3d0f80ea03a477887e1286892d36028",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）就是他一个人在角落里，没人管，也不哭不闹。我一想到这个就坐不住，非得去盯着、去提醒。你说这算不算我太紧张了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问“一放手”的画面，这让我心里一下子紧了起来。我本来以为只是自己管得太多，可那个画面太具体了，好像不盯着就会出大事。我是不是真的把什么都揽在自己身上了？）\n（但承认这一点让我有点不安，好像承认了就等于承认自己一直做错了。可我又确实想知道，这种怕到底是从哪里来的，是不是真的只是我一个人的问题。）",
+        "reasoning": "（咨询师问“一放手”的画面，这让我心里一下子紧了起来。我本来以为只是自己管得太多，可那个画面太具体了，好像不盯着就会出大事。我是不是真的把什么都揽在自己身上了？）\n（但承认这一点让我有点不安，好像承认了就等于承认自己一直做错了。可我又确实想知道，这种怕到底是从哪里来的，是不是真的只是我一个人的问题。）"
+      }
+    }
+  ],
+  "created": 1794537196,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2433,
+    "total_tokens": 2563,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a7435657e8354b28b5fb6019ab03c1dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……你说的这些，会告诉我爸妈吗？我不是不想说，就是有点……不太确定。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说节奏由我来定，还说可以慢慢讲……听起来好像不会逼我。但我还是不太确定该说多少，万一说多了会不会被评价？先问问保密的事吧，这样心里能踏实一点。）\n（她看起来挺温和的，可我还是有点紧张。如果我问她会不会告诉我爸妈，她要是回答得含糊，我可能就不敢往下说了。先试探一下，看看她怎么回应。）",
+        "reasoning": "（咨询师说节奏由我来定，还说可以慢慢讲……听起来好像不会逼我。但我还是不太确定该说多少，万一说多了会不会被评价？先问问保密的事吧，这样心里能踏实一点。）\n（她看起来挺温和的，可我还是有点紧张。如果我问她会不会告诉我爸妈，她要是回答得含糊，我可能就不敢往下说了。先试探一下，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794540107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1008,
+    "total_tokens": 1118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

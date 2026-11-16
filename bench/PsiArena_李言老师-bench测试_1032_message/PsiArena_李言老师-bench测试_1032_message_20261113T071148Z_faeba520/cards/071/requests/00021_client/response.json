@@ -1,0 +1,41 @@
+{
+  "id": "0075bd9be766438d94dbe74233d7778e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机备忘录吧，或者贴在桌上。（想了想）手机我老看，可能更管用一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点头）这样安排挺具体。要是那天你又开始反复纠结，你打算怎么提醒自己？",
+        "reasoning": "（点头）这样安排挺具体。要是那天你又开始反复纠结，你打算怎么提醒自己？"
+      }
+    }
+  ],
+  "created": 1794557176,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 2772,
+    "total_tokens": 2816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

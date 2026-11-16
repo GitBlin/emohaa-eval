@@ -1,0 +1,41 @@
+{
+  "id": "cbe2a892f6ff481194abf71045cfb412",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能就会说“这么简单的题怎么又错了？你到底检查了没有？”语气可能不太好……唉，说完我自己也知道不对，可当时就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我第一反应会说什么，这让我有点紧张，因为我知道自己说话可能不太中听。我平时总提醒自己要有耐心，可一到那种时候就控制不住。）\n（我其实不想显得太严厉，毕竟我也是老师，知道教育方法很重要。但看到那些不该错的题，我就忍不住要指出来，可能语气也重了。现在想想，她抵触也许跟我说话的方式有关。）",
+        "reasoning": "（她问我第一反应会说什么，这让我有点紧张，因为我知道自己说话可能不太中听。我平时总提醒自己要有耐心，可一到那种时候就控制不住。）\n（我其实不想显得太严厉，毕竟我也是老师，知道教育方法很重要。但看到那些不该错的题，我就忍不住要指出来，可能语气也重了。现在想想，她抵触也许跟我说话的方式有关。）"
+      }
+    }
+  ],
+  "created": 1794549325,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1302,
+    "total_tokens": 1423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

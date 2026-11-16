@@ -1,0 +1,41 @@
+{
+  "id": "98a10e4515174711afef63fb9c30e330",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是叫她起床、穿衣服，她一直磨蹭，我越催越急，最后两个人都弄得很难受。其实她哭的时候，我心里也乱，不知道该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我具体回忆迟到场景，可那些细节太琐碎了，说出来好像显得我很无能。不过她问得挺温和，没有直接评判我，也许可以稍微说一点。）\n（女儿早上磨蹭确实让我很烦躁，但更难受的是她哭的时候我完全不知道该怎么办。这种无力感比迟到本身更折磨人，可说出来又怕显得矫情。）",
+        "reasoning": "（咨询师想让我具体回忆迟到场景，可那些细节太琐碎了，说出来好像显得我很无能。不过她问得挺温和，没有直接评判我，也许可以稍微说一点。）\n（女儿早上磨蹭确实让我很烦躁，但更难受的是她哭的时候我完全不知道该怎么办。这种无力感比迟到本身更折磨人，可说出来又怕显得矫情。）"
+      }
+    }
+  ],
+  "created": 1794543806,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1406,
+    "total_tokens": 1526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

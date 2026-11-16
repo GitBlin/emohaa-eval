@@ -1,0 +1,41 @@
+{
+  "id": "2a2e931dedbd446d9481eab70d26e5c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都想要……不过先解决睡觉吧，睡不好白天上课都听不进去。可一想到要再开口，我又有点发怵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更想解决睡不好还是想跟室友处自然点，这让我有点犹豫。两个都想要，但要是只能先选一个，睡觉确实更急，白天上课都没精神。）\n（不过一想到要跟室友开口，心里还是发怵。之前说过一次没被当回事，怕再提又显得我难搞。但这次也许可以认真一点说，不是小声嘟囔那种。）",
+        "reasoning": "（咨询师问我更想解决睡不好还是想跟室友处自然点，这让我有点犹豫。两个都想要，但要是只能先选一个，睡觉确实更急，白天上课都没精神。）\n（不过一想到要跟室友开口，心里还是发怵。之前说过一次没被当回事，怕再提又显得我难搞。但这次也许可以认真一点说，不是小声嘟囔那种。）"
+      }
+    }
+  ],
+  "created": 1794552397,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2429,
+    "total_tokens": 2550,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

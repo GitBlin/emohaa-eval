@@ -1,0 +1,41 @@
+{
+  "id": "ac684365b5354d01ba3f1837f63cb1ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他能认真听我说完，别急着辩解，也别反过来怪我想太多。哪怕他说一句“你担心什么，我们聊聊”，我可能都不会这么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我希望他怎么回应，这让我想到每次我想谈这些事，他要么不耐烦要么转移话题。我其实要的很简单，就是他能认真对待我的担心，别让我觉得自己在无理取闹。可每次我还没说完，他就觉得我在找茬，这让我更不敢开口了。）\n（家里从小教我要体谅别人，别太计较，可我现在觉得体谅换来的只有自己憋着。我是不是太在意他的态度了？可如果连这都不在意，那这段关系还剩下什么。）",
+        "reasoning": "（心理咨询师在问我希望他怎么回应，这让我想到每次我想谈这些事，他要么不耐烦要么转移话题。我其实要的很简单，就是他能认真对待我的担心，别让我觉得自己在无理取闹。可每次我还没说完，他就觉得我在找茬，这让我更不敢开口了。）\n（家里从小教我要体谅别人，别太计较，可我现在觉得体谅换来的只有自己憋着。我是不是太在意他的态度了？可如果连这都不在意，那这段关系还剩下什么。）"
+      }
+    }
+  ],
+  "created": 1794542631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1976,
+    "total_tokens": 2124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

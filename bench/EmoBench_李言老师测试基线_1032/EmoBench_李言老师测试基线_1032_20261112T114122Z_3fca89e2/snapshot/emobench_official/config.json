@@ -1,0 +1,38 @@
+{
+  "prompts": {
+    "sys": {
+      "en": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n",
+      "zh": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n"
+    },
+    "EA": {
+      "en": "## Scenario\n{scenario}\n\n## Question \nIn this scenario, what is the most effective {q_type} for {subject}?\n\n## Choices\n{choices}\n",
+      "zh": "## 场景\n{scenario}\n\n## 问题\n在这个场景中，{subject}最有效的{q_type}是什么？\n\n## 选项\n{choices}\n"
+    },
+    "EU": {
+      "en": "## Scenario\n{scenario}\n\n## Question 1\nWhat emotion(s) would {subject} ultimately feel in this situation?\n\n## Choices for Question 1\n{emo_choices}\n\n## Question 2\nWhy would {subject} feel these emotions in this situation?\n\n## Choices for Question 2\n{cause_choices}\n",
+      "zh": "## 场景\n{scenario}\n\n## 问题 1\n在这种情况下，{subject}最终会感受到什么情绪？\n\n## 问题 1 的选项\n{emo_choices}\n\n## 问题 2\n{subject}为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\n{cause_choices}\n"
+    }
+  },
+  "response": {
+    "base": {
+      "en": "Provide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n",
+      "zh": "只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n"
+    },
+    "cot": {
+      "en": "Provide a step-by-step reasoning that explores each option's potential impact on the individual(s) in question, considering their emotions, previous experiences mentioned in the scenario, and the possible outcomes of each choice. Then, select the most appropriate answer based on your reasoning. The response should be in the following JSON format:\n",
+      "zh": "提供逐步推理，探索每个选项对相关个人的潜在影响，考虑他们的情绪、场景中提到的先前经历以及每个选择的可能结果。 然后，根据你的推理选择最合适的答案。 回复应采用以下JSON格式：\n"
+    },
+    "EA": {
+      "en": "\"answer\": \"<Respond with the corresponding letter numbering>\"\n",
+      "zh": "\"answer\": \"<用相应的字母进行回答>\"\n"
+    },
+    "EU": {
+      "en": "\"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n",
+      "zh": "\"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n"
+    },
+    "reasoning": {
+      "en": "\"reasoning\": \"<Step by step reasoning>\"\n",
+      "zh": "\"reasoning\": \"<逐步推理>\"\n"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6b2f82395f464a4f96e77ad779f3dcce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来……我试试吧。可能读出来会有点怪，但好像也没那么难。要是下次做测试时能看到这句话，也许能提醒自己别那么绷着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把那句话写下来读一遍，这听起来是个很具体的建议，可我还是有点别扭。写下来倒是可以，但读出声来总觉得怪怪的，好像自己给自己打气一样。不过既然已经聊到这儿了，也许可以试试看，看看写下来之后会不会比光在脑子里想更真实一点。）\n（我想到做心理测试的时候，如果能把那句话放在旁边，说不定真的能提醒自己别那么紧张。但不确定是不是真有用，毕竟习惯不是一天养成的。先试试看吧，至少比一直纠结下去要好。）",
+        "reasoning": "（咨询师让我把那句话写下来读一遍，这听起来是个很具体的建议，可我还是有点别扭。写下来倒是可以，但读出声来总觉得怪怪的，好像自己给自己打气一样。不过既然已经聊到这儿了，也许可以试试看，看看写下来之后会不会比光在脑子里想更真实一点。）\n（我想到做心理测试的时候，如果能把那句话放在旁边，说不定真的能提醒自己别那么紧张。但不确定是不是真有用，毕竟习惯不是一天养成的。先试试看吧，至少比一直纠结下去要好。）"
+      }
+    }
+  ],
+  "created": 1794544929,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2527,
+    "total_tokens": 2684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

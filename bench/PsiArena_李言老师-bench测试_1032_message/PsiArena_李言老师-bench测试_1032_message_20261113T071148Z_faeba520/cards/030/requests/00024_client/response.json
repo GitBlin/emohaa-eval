@@ -1,0 +1,41 @@
+{
+  "id": "8863a4e760414cbcaa4c8a8d123e464c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想第一句就写“今天跟他在一起，又没话说了”。从最真实的那个瞬间开始吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我想具体的行动，第一句写什么……我得让这个开头真实可做。不能太复杂，不然我今晚可能又拖着不动笔了。）\n（就从今天最真实的感受开始吧，那句“跟他在一起又没话说了”一直卡在心里。写下来，大概能让我看清自己到底怕什么。）",
+        "reasoning": "（咨询师在引导我想具体的行动，第一句写什么……我得让这个开头真实可做。不能太复杂，不然我今晚可能又拖着不动笔了。）\n（就从今天最真实的感受开始吧，那句“跟他在一起又没话说了”一直卡在心里。写下来，大概能让我看清自己到底怕什么。）"
+      }
+    }
+  ],
+  "created": 1794555293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3103,
+    "total_tokens": 3198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

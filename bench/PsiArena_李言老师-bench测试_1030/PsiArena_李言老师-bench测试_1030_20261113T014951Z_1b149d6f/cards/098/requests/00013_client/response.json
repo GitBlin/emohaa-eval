@@ -1,0 +1,41 @@
+{
+  "id": "30f766545c2b4b76ab11d50bcda62621",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过…有一次学校比赛，我输了，回家想说，结果我爸在忙，就“嗯”了一声。后来我就没提了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“很想跟他们讲点什么”，好像戳到心里去了。其实有过好几次，比如那次考试考砸了，回家想跟爸爸说，可他一直在看手机，我就没开口。现在想起来还是有点堵。）\n（我有点犹豫要不要说这些，感觉说出来好像显得我很矫情。但咨询师好像真的在听，不像爸妈那样敷衍。也许可以稍微提一下，不用说得太清楚。）",
+        "reasoning": "（咨询师提到“很想跟他们讲点什么”，好像戳到心里去了。其实有过好几次，比如那次考试考砸了，回家想跟爸爸说，可他一直在看手机，我就没开口。现在想起来还是有点堵。）\n（我有点犹豫要不要说这些，感觉说出来好像显得我很矫情。但咨询师好像真的在听，不像爸妈那样敷衍。也许可以稍微提一下，不用说得太清楚。）"
+      }
+    }
+  ],
+  "created": 1794540396,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2117,
+    "total_tokens": 2236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

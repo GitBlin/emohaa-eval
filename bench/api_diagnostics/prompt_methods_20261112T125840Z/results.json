@@ -1,0 +1,904 @@
+[
+  {
+    "bot": 1030,
+    "method": "bot_list",
+    "ok": true,
+    "fields": []
+  },
+  {
+    "bot": 1030,
+    "method": "bot_detail",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "id",
+      "name",
+      "avatar",
+      "background",
+      "coverImagePath",
+      "sceneImagePath",
+      "coverMediaFileUrl",
+      "sceneMediaFileUrl",
+      "position",
+      "proficient",
+      "tag",
+      "greeting",
+      "summary",
+      "homeDisplayMediaUrl",
+      "listenMediaFileUrl",
+      "thinkMediaFileUrl",
+      "talkMediaFileUrl",
+      "categoryId",
+      "categoryName",
+      "kindId",
+      "kindName",
+      "roleVoiceCode",
+      "accessType"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1030,
+    "method": "context_before",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1030,
+    "method": "stream",
+    "ok": true,
+    "content_type": "text/event-stream;charset=utf-8",
+    "fields": [
+      {
+        "path": "[1].data.usage.prompt_tokens",
+        "value": 1108
+      }
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "context_stream",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 1108
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "nonstream",
+    "ok": true,
+    "content_type": "application/json",
+    "fields": [
+      {
+        "path": ".data.reminderContext",
+        "value": null
+      },
+      {
+        "path": ".data.customMessage",
+        "value": null
+      },
+      {
+        "path": ".data.contents[0].promptTokens",
+        "value": 1289
+      }
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "context_nonstream",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 1289
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].contents[0].promptTokens",
+        "value": 1108
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "inputs",
+    "ok": true,
+    "content_type": "text/event-stream;charset=utf-8",
+    "fields": [
+      {
+        "path": "[1].data.usage.prompt_tokens",
+        "value": 1314
+      }
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "context_inputs",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 1314
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].contents[0].promptTokens",
+        "value": 1289
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[4].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[4].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[4].contents[0].promptTokens",
+        "value": 1108
+      },
+      {
+        "path": ".content[5].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[5].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user",
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1030,
+    "method": "clear_probe_only",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".reminderContext",
+        "value": null
+      },
+      {
+        "path": ".customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "pageNum",
+      "pageSize",
+      "id",
+      "chatId",
+      "sessionId",
+      "userId",
+      "orgId",
+      "botId",
+      "isGreeting",
+      "role",
+      "content",
+      "options",
+      "imageContent",
+      "audioContent",
+      "videoContent",
+      "reminderContext",
+      "videoCoverUrl",
+      "chips",
+      "customMessage",
+      "media",
+      "mediaTime",
+      "interceptContent",
+      "contents",
+      "imgs",
+      "regenerations",
+      "seqNum",
+      "responseSource",
+      "isSuicide",
+      "isSuicideConf",
+      "emotions",
+      "relationId",
+      "courseProgressId",
+      "tsGen",
+      "createTime",
+      "delFlag",
+      "emotionTendency",
+      "sourceProductType",
+      "sourceProductId",
+      "consultantBotId",
+      "consultantUserId"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1030,
+    "method": "context_after_clear_latest",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1030,
+    "method": "context_after_clear_all",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[1].contents[0].promptTokens",
+        "value": 1314
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[3].contents[0].promptTokens",
+        "value": 1289
+      },
+      {
+        "path": ".content[4].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[4].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[5].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[5].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[5].contents[0].promptTokens",
+        "value": 1108
+      },
+      {
+        "path": ".content[6].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[6].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "flush_context",
+      "role",
+      "user",
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "bot_list",
+    "ok": true,
+    "fields": []
+  },
+  {
+    "bot": 1032,
+    "method": "bot_detail",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "id",
+      "name",
+      "avatar",
+      "background",
+      "coverImagePath",
+      "sceneImagePath",
+      "coverMediaFileUrl",
+      "sceneMediaFileUrl",
+      "position",
+      "proficient",
+      "tag",
+      "greeting",
+      "summary",
+      "homeDisplayMediaUrl",
+      "listenMediaFileUrl",
+      "thinkMediaFileUrl",
+      "talkMediaFileUrl",
+      "categoryId",
+      "categoryName",
+      "kindId",
+      "kindName",
+      "roleVoiceCode",
+      "accessType"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1032,
+    "method": "context_before",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1032,
+    "method": "stream",
+    "ok": true,
+    "content_type": "text/event-stream;charset=utf-8",
+    "fields": [
+      {
+        "path": "[1].data.usage.prompt_tokens",
+        "value": 149
+      }
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "context_stream",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "nonstream",
+    "ok": true,
+    "content_type": "application/json",
+    "fields": [
+      {
+        "path": ".data.reminderContext",
+        "value": null
+      },
+      {
+        "path": ".data.customMessage",
+        "value": null
+      },
+      {
+        "path": ".data.contents[0].promptTokens",
+        "value": 149
+      }
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "context_nonstream",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "inputs",
+    "ok": true,
+    "content_type": "text/event-stream;charset=utf-8",
+    "fields": [
+      {
+        "path": "[1].data.usage.prompt_tokens",
+        "value": 149
+      }
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "context_inputs",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[0].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[2].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[4].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[4].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[4].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[5].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[5].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "role",
+      "user",
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  },
+  {
+    "bot": 1032,
+    "method": "clear_probe_only",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".reminderContext",
+        "value": null
+      },
+      {
+        "path": ".customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "pageNum",
+      "pageSize",
+      "id",
+      "chatId",
+      "sessionId",
+      "userId",
+      "orgId",
+      "botId",
+      "isGreeting",
+      "role",
+      "content",
+      "options",
+      "imageContent",
+      "audioContent",
+      "videoContent",
+      "reminderContext",
+      "videoCoverUrl",
+      "chips",
+      "customMessage",
+      "media",
+      "mediaTime",
+      "interceptContent",
+      "contents",
+      "imgs",
+      "regenerations",
+      "seqNum",
+      "responseSource",
+      "isSuicide",
+      "isSuicideConf",
+      "emotions",
+      "relationId",
+      "courseProgressId",
+      "tsGen",
+      "createTime",
+      "delFlag",
+      "emotionTendency",
+      "sourceProductType",
+      "sourceProductId",
+      "consultantBotId",
+      "consultantUserId"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1032,
+    "method": "context_after_clear_latest",
+    "ok": true,
+    "fields": [],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": []
+  },
+  {
+    "bot": 1032,
+    "method": "context_after_clear_all",
+    "ok": true,
+    "fields": [
+      {
+        "path": ".content[0].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[0].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[1].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[1].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[1].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[2].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[2].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[3].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[3].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[3].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[4].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[4].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[5].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[5].customMessage",
+        "value": null
+      },
+      {
+        "path": ".content[5].contents[0].promptTokens",
+        "value": 149
+      },
+      {
+        "path": ".content[6].reminderContext",
+        "value": null
+      },
+      {
+        "path": ".content[6].customMessage",
+        "value": null
+      }
+    ],
+    "keys": [
+      "totalAmount",
+      "totalPageCount",
+      "pageNum",
+      "itemCount",
+      "content",
+      "first",
+      "last"
+    ],
+    "roles": [
+      "flush_context",
+      "role",
+      "user",
+      "role",
+      "user",
+      "role",
+      "user"
+    ]
+  }
+]

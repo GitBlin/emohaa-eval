@@ -1,0 +1,41 @@
+{
+  "id": "176727ce99a84104ae1e57dc28390dfd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想给自己定个小目标，比如至少搭上两三句话再退。要是真退了，也别太苛责自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是怎么提醒自己别退回去，这其实是在帮我想一个具体的办法。我平时确实容易一紧张就缩回来，得有个自己能抓住的东西。）\n（我想到可以给自己定个小目标，比如至少聊上几句再退，这样心里有个数，不至于一慌就全乱了。至于退回去之后怎么办，我其实还没想好，也许先别太苛责自己，能试一次就算进步吧。）",
+        "reasoning": "（咨询师问的是怎么提醒自己别退回去，这其实是在帮我想一个具体的办法。我平时确实容易一紧张就缩回来，得有个自己能抓住的东西。）\n（我想到可以给自己定个小目标，比如至少聊上几句再退，这样心里有个数，不至于一慌就全乱了。至于退回去之后怎么办，我其实还没想好，也许先别太苛责自己，能试一次就算进步吧。）"
+      }
+    }
+  ],
+  "created": 1794534702,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3276,
+    "total_tokens": 3396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

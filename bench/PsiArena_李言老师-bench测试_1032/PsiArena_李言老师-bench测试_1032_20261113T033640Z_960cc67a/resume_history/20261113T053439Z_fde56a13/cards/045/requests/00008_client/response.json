@@ -1,0 +1,41 @@
+{
+  "id": "9481ccc83295421bb70ec69a362a665e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也没怎么平静，就是躺着，后来迷迷糊糊睡着了。其实……我翻通讯录的时候，看到我爸妈的号码，也没敢打。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那晚怎么平静下来的……其实我根本没平静，就是熬着。翻通讯录的时候，看到爸妈的号码也犹豫了，总觉得他们会说我太矫情。）\n（说到爸妈，我想到从小家里就这样，什么都得做好，情绪好像不能随便露出来。现在想想，我好像一直习惯把难受憋着，怕别人觉得我不够好。）",
+        "reasoning": "（她问我那晚怎么平静下来的……其实我根本没平静，就是熬着。翻通讯录的时候，看到爸妈的号码也犹豫了，总觉得他们会说我太矫情。）\n（说到爸妈，我想到从小家里就这样，什么都得做好，情绪好像不能随便露出来。现在想想，我好像一直习惯把难受憋着，怕别人觉得我不够好。）"
+      }
+    }
+  ],
+  "created": 1794543311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1507,
+    "total_tokens": 1616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

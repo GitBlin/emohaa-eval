@@ -1,0 +1,47 @@
+{
+  "id": "666560219e624813ba8c6d2f52d429d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般就……不想说话，往沙发上一坐。家里人问两句，我还容易烦，其实也不是冲他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，至少没跟我打官腔。说“有些问话我也在试探”，这话听着还算实在，没把我当流程走。我心里那点防备稍微松了一点，但也没全放下。）\n（晚上回家它还闷着的时候，我一般就是不想说话。家里人一问，我就烦，其实也不是烦他们，就是自己心里堵得慌。可这些话说出来，又觉得挺丢人的。）",
+        "reasoning": "（他这么问，至少没跟我打官腔。说“有些问话我也在试探”，这话听着还算实在，没把我当流程走。我心里那点防备稍微松了一点，但也没全放下。）\n（晚上回家它还闷着的时候，我一般就是不想说话。家里人一问，我就烦，其实也不是烦他们，就是自己心里堵得慌。可这些话说出来，又觉得挺丢人的。）"
+      }
+    }
+  ],
+  "created": 1794800713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1586,
+    "total_tokens": 1700,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

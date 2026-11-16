@@ -1,0 +1,41 @@
+{
+  "id": "4edee308886a4e82b7a56de02b7cc98f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前几天吃饭的时候，她说了句孩子穿少了，我当时就没接话。其实心里挺不舒服的，但也不知道怎么回。对了……我有点想问，您会不会把我说的事告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说具体的事，但我现在还不太想说得太细。他问得挺温和的，但我还是有点犹豫，不知道该不该把家里的事都倒出来。也许我可以先试探一下，看看他会不会真的理解我，还是只是走个流程。）\n（另外我也在想，咨询师会不会在私下里跟别人聊起我的事，这让我有点不安。毕竟家里的事说出去总觉得不太安全。我得问清楚，不然心里不踏实。）",
+        "reasoning": "（咨询师在引导我说具体的事，但我现在还不太想说得太细。他问得挺温和的，但我还是有点犹豫，不知道该不该把家里的事都倒出来。也许我可以先试探一下，看看他会不会真的理解我，还是只是走个流程。）\n（另外我也在想，咨询师会不会在私下里跟别人聊起我的事，这让我有点不安。毕竟家里的事说出去总觉得不太安全。我得问清楚，不然心里不踏实。）"
+      }
+    }
+  ],
+  "created": 1794549195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1211,
+    "total_tokens": 1352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

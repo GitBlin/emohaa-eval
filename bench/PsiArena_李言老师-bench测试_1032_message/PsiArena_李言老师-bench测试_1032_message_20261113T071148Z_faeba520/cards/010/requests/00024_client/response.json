@@ -1,0 +1,41 @@
+{
+  "id": "ee724c520ca04f66b6620a6849289179",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开头我可能写……“我知道你们是为我好，但我最近有点累，不想再被拿来比较了”。这样写，会不会太直接了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我草稿第一句怎么写开头。我脑子里其实一直想着那句话，但真要写出来，又觉得有点难开口。我不想让爸妈觉得我是在指责他们，可又不想把话说得太软，好像自己没理一样。）\n（我想了想，可能先承认我知道他们是为我好，这样他们就不会一上来就防备。然后再说我最近有点累，不想再被拿来比较。这样写出来，应该能让他们听进去一点吧。）",
+        "reasoning": "（咨询师问我草稿第一句怎么写开头。我脑子里其实一直想着那句话，但真要写出来，又觉得有点难开口。我不想让爸妈觉得我是在指责他们，可又不想把话说得太软，好像自己没理一样。）\n（我想了想，可能先承认我知道他们是为我好，这样他们就不会一上来就防备。然后再说我最近有点累，不想再被拿来比较。这样写出来，应该能让他们听进去一点吧。）"
+      }
+    }
+  ],
+  "created": 1794554387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3049,
+    "total_tokens": 3180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

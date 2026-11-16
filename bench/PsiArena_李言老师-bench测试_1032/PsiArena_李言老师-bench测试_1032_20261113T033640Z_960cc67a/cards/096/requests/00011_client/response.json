@@ -1,0 +1,41 @@
+{
+  "id": "8d16b6d6df2748d8bc7f4e38eb6d0268",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……会吧。不过我家很少聊这些，聊的都是成绩、排名那些。说了也没用，他们好像也不知道怎么接。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是希望妈妈先关心我累不累。其实这问题戳到我了，我确实想，但又觉得想了也没用。家里从来不会聊这些，说出来反而更别扭。）\n（我有点想回避，但既然她问了，还是试着说一点吧。只是别说得太深，先承认一下，再看看她怎么接。）",
+        "reasoning": "（她问我是不是希望妈妈先关心我累不累。其实这问题戳到我了，我确实想，但又觉得想了也没用。家里从来不会聊这些，说出来反而更别扭。）\n（我有点想回避，但既然她问了，还是试着说一点吧。只是别说得太深，先承认一下，再看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794546377,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1820,
+    "total_tokens": 1923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

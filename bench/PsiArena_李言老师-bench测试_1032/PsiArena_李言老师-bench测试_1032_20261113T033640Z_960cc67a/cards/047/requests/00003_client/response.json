@@ -1,0 +1,41 @@
+{
+  "id": "f162e534c407434887ee017b98858fb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是学生闹的时候吧，或者有孩子哭了，我也会跟着难受。说不上来。那个……你会不会觉得我这样有点奇怪？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体什么时候容易想哭，但我现在还没完全信任她，不太想说得太细。她好像挺温和的，但我不确定她会不会像别人一样觉得我太脆弱。）\n（我想稍微试探一下她，看看她会不会评判我，或者能不能接受我这种不太清楚的表达。也许可以问问她会不会觉得我这样很奇怪，这样也能看看她的反应。）",
+        "reasoning": "（咨询师在问我具体什么时候容易想哭，但我现在还没完全信任她，不太想说得太细。她好像挺温和的，但我不确定她会不会像别人一样觉得我太脆弱。）\n（我想稍微试探一下她，看看她会不会评判我，或者能不能接受我这种不太清楚的表达。也许可以问问她会不会觉得我这样很奇怪，这样也能看看她的反应。）"
+      }
+    }
+  ],
+  "created": 1794543414,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1047,
+    "total_tokens": 1161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

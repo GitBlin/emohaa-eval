@@ -1,0 +1,41 @@
+{
+  "id": "bee9a57eb6544a5990e1ed704973f238",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "睡得不好，老醒。那个……我想问一下，你们咨询师会不会把我说的事告诉别人啊？比如单位什么的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我睡眠情况，看来是想了解我的身体状态。但说实话，我现在连睡觉都成问题，脑子里全是工作的事。不过...我其实更想知道他会不会真的理解我的处境。毕竟之前遇到的领导都说我矫情。）\n（作为国企技术员，我习惯性地想测试对方的可靠性。要是他连基本界限都守不住，那后面说再多也没用。但直接问又显得太刻意，得找个自然点的说法。）",
+        "reasoning": "（咨询师问我睡眠情况，看来是想了解我的身体状态。但说实话，我现在连睡觉都成问题，脑子里全是工作的事。不过...我其实更想知道他会不会真的理解我的处境。毕竟之前遇到的领导都说我矫情。）\n（作为国企技术员，我习惯性地想测试对方的可靠性。要是他连基本界限都守不住，那后面说再多也没用。但直接问又显得太刻意，得找个自然点的说法。）"
+      }
+    }
+  ],
+  "created": 1794544234,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1253,
+    "total_tokens": 1377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

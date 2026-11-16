@@ -1,0 +1,41 @@
+{
+  "id": "b12c11715cae422699f2c8eba135bda0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "特别的东西……好像她手机一直在响，她脸色也不太好。我当时只想着她不理我，没往别处想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个，是想让我别光陷在自己的情绪里，试着去回忆当时她那边的情况吧。我确实没太留意，好像只记得她手机一直在响。）\n（嗯，这么一说，她可能那会儿工作上有事，并不是故意不理我。我光顾着慌，连她累不累都没看出来。这个发现让我有点惭愧，也稍微松了口气。）",
+        "reasoning": "（她问这个，是想让我别光陷在自己的情绪里，试着去回忆当时她那边的情况吧。我确实没太留意，好像只记得她手机一直在响。）\n（嗯，这么一说，她可能那会儿工作上有事，并不是故意不理我。我光顾着慌，连她累不累都没看出来。这个发现让我有点惭愧，也稍微松了口气。）"
+      }
+    }
+  ],
+  "created": 1794550303,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2561,
+    "total_tokens": 2670,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

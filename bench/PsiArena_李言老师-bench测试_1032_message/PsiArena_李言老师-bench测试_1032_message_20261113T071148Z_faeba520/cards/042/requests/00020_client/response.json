@@ -1,0 +1,41 @@
+{
+  "id": "6a75ef67b06c449588c3033e6090c820",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "缓一下……可能出去走一圈，或者干脆先不急着说，等自己平静点再说。以前这种时候我就直接去拿酒了，现在想想，好像也有别的选择。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么缓一下，这其实是在帮我想具体的办法。以前那种时候我肯定就想去喝酒了，但现在聊了这么多，我好像能想到别的了。出去走走，或者先不急着说话，这些听起来简单，但对我来说是新的东西。）\n（说“不用酒”的时候，心里其实有点没底，不知道真到了那时候能不能做到。但至少现在能这么想，也算往前走了一步吧。）",
+        "reasoning": "（咨询师在问我怎么缓一下，这其实是在帮我想具体的办法。以前那种时候我肯定就想去喝酒了，但现在聊了这么多，我好像能想到别的了。出去走走，或者先不急着说话，这些听起来简单，但对我来说是新的东西。）\n（说“不用酒”的时候，心里其实有点没底，不知道真到了那时候能不能做到。但至少现在能这么想，也算往前走了一步吧。）"
+      }
+    }
+  ],
+  "created": 1794559037,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3038,
+    "total_tokens": 3170,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

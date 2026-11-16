@@ -1,86 +1,53 @@
-# 李言老师242：并发ToMBench评测（v1.2.0）
+# ToMBench：李言老师-bench测试（1030）
 
-## 2026-11-11 新凭证与新智能体
+脚本evaluate_liyan.py；默认中英文，每题3次、32并发，双语全量17160次。结果文件夹统一为“榜单_智能体名称_ID”，内部运行目录也加相同前缀。自定义--output-dir时仅覆盖输出根目录，运行目录仍保留前缀。
 
-新凭证当前可访问 `1030 — 李言老师-bench测试`。通过 `--bot-id 1030 --bot-name 李言老师-bench测试` 切换目标；清理、历史核查、聊天、权限预检均使用同一目标ID，默认242仍保留以兼容旧调用。
-新凭证来自当前项目的bot_chat_client.py；不要使用下面旧242示例里的Lingx凭证模块。环境变量LINGX_API_KEY/SECRET若存在会优先覆盖模块。
+## 当前正式结果
+
+- 完成目录：`/home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench/ToMBench_李言老师-bench测试_1030/ToMBench_李言老师-bench测试_1030_20261111T032603Z_70b9feba`
+- 可读报告：上述目录的report.md；Word及完整整理报告在`ToMBench_李言老师-bench测试_1030/reports/`。
+- 中文三轮平均78.46%，英文77.38%；全部17160次完成，无接口/上下文审计错误。
+- 历史试跑、并发校准和空dry-run目录已按用户要求清除。参数校准摘要保存在reports中，原始试跑证据不再保留。
+
+## 运行命令
 
 ```bash
 cd /home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt
 
-# 查询新凭证当前用户的可用智能体
+# 查询当前凭证可用智能体
 python3 bot_chat_client.py --list
 
-# 新智能体小规模双语试跑：8题×2语言×3次=48次
+# 参数帮助
+python3 bench/evaluate_liyan.py --help
+
+# 全量输入离线检查
+python3 bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --dry-run
+
+# 小规模测试；会创建新的独立试跑记录
 python3 -u bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --limit 8 --languages zh en --repeats 3 --workers 32 --credentials-module "$PWD/bot_chat_client.py"
 
-# 新智能体双语全量：17160次，完整留档
-mkdir -p bench/run_logs
-nohup python3 -u bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --limit 0 --languages zh en --repeats 3 --workers 32 --interval 0 --summary-every 200 --max-attempts 2 --timeout 60 --credentials-module "$PWD/bot_chat_client.py" > "bench/run_logs/liyan1030_$(date +%Y%m%d_%H%M%S).log" 2>&1 &
-```
+# 双语全量后台运行；不要重复启动已有的运行
+mkdir -p "bench/ToMBench_李言老师-bench测试_1030/logs"
+nohup python3 -u bench/evaluate_liyan.py --bot-id 1030 --bot-name 李言老师-bench测试 --limit 0 --languages zh en --repeats 3 --workers 32 --interval 0 --summary-every 200 --max-attempts 2 --timeout 60 --credentials-module "$PWD/bot_chat_client.py" > "bench/ToMBench_李言老师-bench测试_1030/logs/ToMBench_1030_$(date +%Y%m%d_%H%M%S).log" 2>&1 &
 
-项目当前分支main，origin为https://github.com/GitBlin/emohaa-eval.git。以下仅提交评测代码、测试和文档，避免把带明文凭证的bot_chat_client.py及大量本地输出一并提交：
-
-```bash
-git add bench/evaluate_liyan.py bench/test_evaluate_liyan.py bench/README_liyan_evaluation.md
-git diff --cached --stat
-git commit -m "Support configurable bot IDs and isolated bilingual concurrent evaluation"
-git push -u origin main
-```
-
-这里只提供推送命令，未实际commit/push。部署到另一台机器时应在当地配置API凭证，不要通过Git同步密钥。
-
-默认中英文各2860题，每题每语言3次，共17160个试次，32并发、interval=0、summary-every=200。这里的3轮对应每道题的repeat=0/1/2，任务可交错执行；不代表三个模型版本。
-每个试次使用独立用户（由运行标识和trial_id派生），每次尝试仍先清理上下文、核验无旧消息后再提问。每个线程独享Client/Session/Token。恢复时沿用原用户映射，跳过已有result.json；重试前再次清理。独立用户有助于减少跨题用户记忆污染，但不能证明服务端不存在机构级共享状态。
-
-## 命令
-
-```bash
-cd /home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt/bench
-
-# 帮助：列出所有参数
-python3 evaluate_liyan.py --help
-
-# 查询有权限的旧凭证可用智能体
-python3 /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py --list
-
-# 离线准备全部17160个试次，不发请求
-python3 evaluate_liyan.py --dry-run --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
-
-# 小规模并发试跑：20题×2语言×3次=120次
-python3 -u evaluate_liyan.py --limit 20 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
-
-# 全量中英文：2860题×2语言×3次=17160次，32并发
-python3 -u evaluate_liyan.py --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py
-
-# 后台全量：与上一条二选一，不要重复启动
-mkdir -p run_logs
-nohup python3 -u evaluate_liyan.py --limit 0 --repeats 3 --languages zh en --workers 32 --interval 0 --summary-every 200 --credentials-module /home/wangaoyun/wangaoyun/Lingx/bot_chat_client.py > "run_logs/liyan_$(date +%Y%m%d_%H%M%S).log" 2>&1 &
-# shell会显示PID；日志首行RUN_DIR是完整结果目录
-
-# 查看后台日志（替换实际文件名）
-tail -f run_logs/实际日志文件.log
-
-# 优雅停止后台任务：停止派发，等待在途任务保存
-kill -TERM 实际PID
-
-# 恢复（替换实际RUN_DIR，必须用该运行的快照脚本）
+# 恢复中断，使用该运行冻结的脚本；替换实际RUN_DIR
 python3 -u /实际RUN_DIR/snapshot/evaluate_liyan.py --resume /实际RUN_DIR
 
-# 重建汇总报告，不联网；不能与同目录正在运行的任务同时执行
+# 离线重建汇总，使用冻结脚本
 python3 /实际RUN_DIR/snapshot/evaluate_liyan.py --report-only /实际RUN_DIR
 
-# 查看结果
-cat /实际RUN_DIR/report.md
-python3 -m json.tool /实际RUN_DIR/summary.json
+# 查看日志/优雅停止（替换实际名称/PID）
+tail -f "bench/ToMBench_李言老师-bench测试_1030/logs/实际日志文件.log"
+kill -TERM 实际PID
 
-# 离线回归测试
-python3 test_evaluate_liyan.py
+# 离线测试，仅使用自动清理的临时目录
+python3 bench/test_evaluate_liyan.py
 ```
 
-命令显式选择旧凭证模块，因为当前新凭证没有242权限；不会覆盖bot_chat_client.py中的新凭证。LINGX_API_KEY/LINGX_API_SECRET环境变量若存在，会优先于模块；运行前需确认它们对应有权限的凭证。不要在命令或日志中粘贴密钥。全量会创建17160个试次用户（另有1个预检用户），应使用测试机构。已对8/16/32/64/128并发进行多轮双语测试；持续负载测试中32并发最快，具体记录见concurrency_checks/。这不保证未来负载下速度不变。
+新凭证使用1030。LINGX_API_KEY/LINGX_API_SECRET环境变量优先于凭证模块，运行前确认没有仍指向旧凭证的变量。默认新运行示例路径：`bench/ToMBench_李言老师-bench测试_1030/ToMBench_李言老师-bench测试_1030_<UTC时间>_<随机标识>/`。
 
 ## 参数完整说明
+
 
 | 参数 | 默认值 | 含义 |
 |---|---|---|
@@ -95,11 +62,11 @@ python3 test_evaluate_liyan.py
 | --timeout | 60 | 网络读取超时秒数；连接超时10秒 |
 | --summary-every | 200 | 每完成200次刷新汇总；逐题结果立即保存 |
 | --max-consecutive-errors | 5 | 按完成顺序连续最终请求失败达到阈值，停止派发；在途任务等待保存 |
-| --credentials-module | ../bot_chat_client.py | 凭证来源，建议使用上方旧凭证绝对路径；环境变量优先 |
+| --credentials-module | ../bot_chat_client.py | 凭证来源；使用当前项目bot_chat_client.py，环境变量优先 |
 | --base-url | LINGX_BASE_URL或https://www.ai-role.cn | 平台地址 |
 | --user-id | 自动生成 | 运行用户命名空间/预检用户；试次用户由它与trial_id派生；不要跨运行复用 |
 | --data-dir | bench/Tombench/data | 题库目录 |
-| --output-dir | bench/liyan_evaluations | 结果根目录 |
+| --output-dir | bench/<ToMBench_智能体名称_ID> | 结果根目录 |
 | --model-version | unreported | 记录模型版本，不改变服务端模型 |
 | --harness-version | unreported | 记录封装版本，不改变服务端配置 |
 | --insecure | 关闭 | 显式关闭证书校验；正常运行不需要 |
@@ -108,21 +75,42 @@ python3 test_evaluate_liyan.py
 | --report-only | 无 | 从已有结果重建报告 |
 | --help | 无 | 输出帮助 |
 
-目标固定botId=242。温度、top_p、底层模型、服务端记忆开关没有公开可配置参数，不会伪造设置。
+目标通过--bot-id选择；新凭证使用1030，脚本默认242保留旧调用兼容。--bot-name用于结果目录命名，正式命令应填写实际智能体名称。温度、top_p、底层模型、服务端记忆开关没有公开可配置参数，不会伪造设置。
+
 
 ## 结果与评分
 
-每次运行独立目录，保存完整输入、选项映射、响应、清理及历史审计、失败/重试、耗时、代码和数据快照。认证密钥/Token不保存。
-summary.json中的rounds_by_language分别列出中英文三轮成绩、均值和标准差，question_vote_accuracy_by_language给各语言投票准确率。by_repeat是合并语言的各轮成绩（键0/1/2），repeat_statistics给完整轮次的平均准确率和样本标准差；question_votes.json保存每题映射回原选项后的投票结果。失败与无效答案计错，并列投票不猜答案。重复测量可观察随机性与选项位置敏感性，不能消除数据偏差；三轮标准差不是置信区间。
-运行中responses.jsonl/summary.json每200次刷新，trials/*/result.json逐次落盘。停止派发后在途任务完成再汇总；恢复不会重发已有结果（包括已记录失败），未完成请求可能再次发送且会新建attempt目录。
-单个目录加进程锁，防止重复恢复互相覆盖。不同运行请使用默认自动生成的独立用户命名空间。
+每试次使用独立用户；每次尝试先清理并检查历史为空，失败则不发送题目。三次独立重排选项，严格提取唯一[[A]]类答案；错误、无效和请求失败计错。投票映射回原选项后统计，并列计错。模型及生成参数由服务端控制。
 
-## 双语数据异常
+完整留档：manifest.json、plan.json、snapshot/、trials/、responses.jsonl、badcases.jsonl、question_votes.json、summary.json、review_queue.json、report.md、artifact_index.json。逐题result.json即时保存，汇总每200次刷新。中英文三轮分别汇总；标准差不等于置信区间。
 
-Strange Story Task:293 的中文为赵阳是否说真话的二选一，英文故事仍是赵阳，但英文问题和四个选项变成了李华的另一道题，属于明显错配。脚本保留原题、全量执行并完整记录；summary.json的excluding_option_count_mismatches给两种语言同时排除此题的辅助成绩，不擅自修改题库或宣称全量成绩等价于官方论文成绩。
+恢复沿用冻结设置和用户映射，跳过已有结果，包括已记录最终失败；仅补未完成项。不得同时有其他进程操作同一运行。
 
-## 验证与性能
+原题Strange Story Task:293英文题目/选项错配，保留原始成绩并提供两种语言排除此题的辅助分数。本地适配成绩未正式提交榜单，后台模型/harness版本仍待提供。保持独立开发集和新holdout，避免用失败样本反复调参后再声称未接触。
 
-10项离线回归测试通过，覆盖并发用户隔离、三轮统计、双语分开汇总、异常题辅助统计、恢复、上下文阻断及SSE解析。双语全量17160个输入离线检查通过。
-性能测试原始记录：concurrency_checks/20261110T101518Z/results.json（短批次）和concurrency_checks/20261110T101720Z/results.json（每批384次持续测试）。每个配置重复2次，采用相同样本、选项映射和中英文比例；测试时max-attempts=1，避免重试掩盖失败。正式运行恢复默认2次以容忍暂时错误。
-只根据吞吐量和请求/协议/上下文可靠性选择并发，不根据holdout答题分数调参。短批次耗时不能保证全量耗时；速度外推需考虑长时间限流、磁盘留档和服务波动。
+## 迁移说明
+
+原始完整运行目录、配置和快照保持原字节，artifact_index.json不重写。旧路径在冻结的manifest、调用日志和代码快照中作为历史事实保留；当前路径见bench/结果目录迁移与清理记录.json。迁移后的console.log是原后台日志。数据源目录Tombench等保留原名。
+
+## 单次双语全量与自定义留档名称
+
+`--repeats 1` 表示每个题目每种语言只运行一次。保留原始智能体 ID 1030 与名称，仅通过独立的 `--archive-name` 修改目录名称。
+
+```bash
+cd /home/wangaoyun/wangaoyun/emohaa-eval-upload.UBlCGt
+ARCHIVE_NAME="李言老师full"
+python bench/evaluate_liyan.py \
+  --bot-id 1030 --bot-name "李言老师-bench测试" \
+  --archive-name "$ARCHIVE_NAME" \
+  --languages zh en --repeats 1 --workers 32
+```
+
+共 2860 × 2 = 5720 个答题试次。新留档目录为 `bench/ToMBench_李言老师full_1030/ToMBench_李言老师full_1030_<UTC时间>_<ID>/`。
+`ARCHIVE_NAME` 是 shell 变量，按需修改后通过参数传入；只影响新运行的目录命名及 manifest 中的留档标签，不更改 botId、凭证、实际智能体名称、提示词或评分规则。历史目录不会重命名。空格等路径字符会转为下划线。
+
+仅评中文使用 `--languages zh`，仅评英文使用 `--languages en`，各 2860 个试次。恢复旧运行继续使用该运行 `snapshot/evaluate_liyan.py --resume <运行目录>`，留档标签沿用旧运行。
+
+
+## 1032 的稳定性校准（2026-11-12）
+
+默认并发已由32降为2（脚本1.3.3）。1032在并发2累计52次零错误，3和4均观察到生成失败；不保证全量零错误。1030的历史32并发设置仍保存在原始快照中。当前1032建议新建运行，显式使用 `--workers 2 --max-attempts 2 --timeout 60`。详细记录见 `ToMBench_李言老师baseline_full_mediumm_1032/并发参数建议_20261112.md`。

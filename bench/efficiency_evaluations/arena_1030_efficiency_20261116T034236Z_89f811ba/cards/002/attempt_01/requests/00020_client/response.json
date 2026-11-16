@@ -1,0 +1,47 @@
+{
+  "id": "b74a206c721d4bedb81e3123822a4de8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（照做，停顿了一下）嗯……好像真的稳了一点。不过我心里又冒出来一句，这样是不是太依赖别人了？以后没人在旁边，我还能这样吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把手放在胸口，说一句“我在这里”……这听起来有点傻，可刚才胸口确实松过一下。我试着做了，感觉有点陌生，好像真的在陪自己。）\n（不过心里那个声音又冒出来了，说我这样是不是太依靠别人了。我有点不好意思问出口，怕显得自己太黏人，可又想知道以后遇到事能不能自己稳住。）",
+        "reasoning": "（咨询师让我把手放在胸口，说一句“我在这里”……这听起来有点傻，可刚才胸口确实松过一下。我试着做了，感觉有点陌生，好像真的在陪自己。）\n（不过心里那个声音又冒出来了，说我这样是不是太依靠别人了。我有点不好意思问出口，怕显得自己太黏人，可又想知道以后遇到事能不能自己稳住。）"
+      }
+    }
+  ],
+  "created": 1794800655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3073,
+    "total_tokens": 3195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

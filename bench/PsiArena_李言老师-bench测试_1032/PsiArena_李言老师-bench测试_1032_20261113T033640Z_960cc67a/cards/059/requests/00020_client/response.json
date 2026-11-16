@@ -1,0 +1,41 @@
+{
+  "id": "f60ecfead9fd4370ab87da2f667a966d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……上次班里选个什么委员，我其实有点想试，但一想到要站上去讲，就算了。现在想起来又有点后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像注意到我在拉扯，还问最近哪件事让我冒出这个念头。我有点不想说，因为说出来显得我很小气，但憋着又难受。）\n（上周竞选班委那件事，其实我纠结了很久，最后还是没报名。现在想想，那种怕被别人评价的感觉又冒出来了，觉得自己挺没用的。）",
+        "reasoning": "（咨询师好像注意到我在拉扯，还问最近哪件事让我冒出这个念头。我有点不想说，因为说出来显得我很小气，但憋着又难受。）\n（上周竞选班委那件事，其实我纠结了很久，最后还是没报名。现在想想，那种怕被别人评价的感觉又冒出来了，觉得自己挺没用的。）"
+      }
+    }
+  ],
+  "created": 1794544217,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2760,
+    "total_tokens": 2862,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

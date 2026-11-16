@@ -1,0 +1,41 @@
+{
+  "id": "46980203d6394b63832479477f9eaae3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是对方先给我一点回应的时候吧，哪怕就一个表情。其实我家里人总说要主动、要多联系人，可我就是怕热脸贴冷屁股。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候更愿意先开口，这让我想到家里人总说要主动交流、多建立人脉。可实际上我好像只在确定对方会回应时才敢开口，不然就觉得特别难堪。）\n（不过仔细想想，这种“确定”其实很少，更多时候我还是在等。也许我太把别人的反应当成对自己的评价了，好像对方不回就是我不够好。这种感觉……挺累的。）",
+        "reasoning": "（咨询师问我什么时候更愿意先开口，这让我想到家里人总说要主动交流、多建立人脉。可实际上我好像只在确定对方会回应时才敢开口，不然就觉得特别难堪。）\n（不过仔细想想，这种“确定”其实很少，更多时候我还是在等。也许我太把别人的反应当成对自己的评价了，好像对方不回就是我不够好。这种感觉……挺累的。）"
+      }
+    }
+  ],
+  "created": 1794541374,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1898,
+    "total_tokens": 2021,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7d58c7cd69694136bd4fc05e1dc5ed90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，我试试。……其实我妈偶尔也会夸我两句，要不就从她那儿开始练？虽然一想到她，心里还是有点发紧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说让我找机会试一次，我心里有点打鼓。数三秒听起来简单，可到时候那个声音一冒出来，我真能忍住不接话吗？不过她说的对，我总得试试才知道。）\n（要不就从我妈这儿开始吧。她夸我的时候最让我不知所措，但也最需要练。虽然想到要面对她，心里还是有点发紧。）",
+        "reasoning": "（她说让我找机会试一次，我心里有点打鼓。数三秒听起来简单，可到时候那个声音一冒出来，我真能忍住不接话吗？不过她说的对，我总得试试才知道。）\n（要不就从我妈这儿开始吧。她夸我的时候最让我不知所措，但也最需要练。虽然想到要面对她，心里还是有点发紧。）"
+      }
+    }
+  ],
+  "created": 1794535743,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3010,
+    "total_tokens": 3122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

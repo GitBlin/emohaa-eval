@@ -1,0 +1,41 @@
+{
+  "id": "fbf2e85a77c44e41b5252cbee7c41943",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次我妈看到我画的东西，说了句“这个颜色真好看”。我记了很久。但后来她又说别老弄这些，我就……有点不敢当真了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我哪句话先让我开心，这让我想起小时候一次画画被夸的事。她好像想让我抓住那个开心的瞬间，而不是一直陷在怀疑里。我确实记得，但说出来又怕显得矫情。）\n（不过现在信任感比刚开始强一点了，可以试着讲具体一点。虽然还是有点犹豫，但也许说出来能帮我理清，那种开心和后来的怀疑是怎么连在一起的。）",
+        "reasoning": "（咨询师在问我哪句话先让我开心，这让我想起小时候一次画画被夸的事。她好像想让我抓住那个开心的瞬间，而不是一直陷在怀疑里。我确实记得，但说出来又怕显得矫情。）\n（不过现在信任感比刚开始强一点了，可以试着讲具体一点。虽然还是有点犹豫，但也许说出来能帮我理清，那种开心和后来的怀疑是怎么连在一起的。）"
+      }
+    }
+  ],
+  "created": 1794549754,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2266,
+    "total_tokens": 2392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

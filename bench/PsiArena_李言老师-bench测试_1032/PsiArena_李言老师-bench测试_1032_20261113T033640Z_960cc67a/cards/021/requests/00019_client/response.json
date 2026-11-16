@@ -1,0 +1,41 @@
+{
+  "id": "2289b106d9ae4237b1d1e1738f6245fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“你最近是不是也不舒服”吧。她一问，我可能就慌了。也许我该试着做点什么，别老干坐着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我怕妈妈说什么...其实我最怕她问“你是不是也病了”，这句话像刀子一样，好像我瞒着她什么，又好像她早就看穿了我的恐惧。但转念一想，或许我该试着做点什么，不能总这么僵着。）\n（也许可以从小事开始，比如陪她的时候做点什么，而不是干坐着。这样至少不用一直面对那种沉默，也能让自己不那么慌。）",
+        "reasoning": "（她问到我怕妈妈说什么...其实我最怕她问“你是不是也病了”，这句话像刀子一样，好像我瞒着她什么，又好像她早就看穿了我的恐惧。但转念一想，或许我该试着做点什么，不能总这么僵着。）\n（也许可以从小事开始，比如陪她的时候做点什么，而不是干坐着。这样至少不用一直面对那种沉默，也能让自己不那么慌。）"
+      }
+    }
+  ],
+  "created": 1794548911,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2629,
+    "total_tokens": 2748,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

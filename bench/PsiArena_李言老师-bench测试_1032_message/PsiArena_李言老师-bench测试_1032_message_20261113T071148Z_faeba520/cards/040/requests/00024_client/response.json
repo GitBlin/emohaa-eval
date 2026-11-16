@@ -1,0 +1,41 @@
+{
+  "id": "071902d328544c9fb054ed6731bf34fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……不管她怎么反应，至少我迈出去了，没再缩回去。这本身就算进步吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我试完之后怎么看待自己这一步，这让我有点意外。以前我总盯着结果，成不成、她喜不喜欢，好像只有这些才重要。但这个问题让我意识到，也许我该换个角度看看自己。）\n（说实话，我以前从没想过要肯定自己。做得好是应该的，做不好就自责。可这次不一样，迈出这一步本身就挺难的，不管她怎么回应，我至少没再缩回去。或许我该学着对自己宽容一点。）",
+        "reasoning": "（她问我试完之后怎么看待自己这一步，这让我有点意外。以前我总盯着结果，成不成、她喜不喜欢，好像只有这些才重要。但这个问题让我意识到，也许我该换个角度看看自己。）\n（说实话，我以前从没想过要肯定自己。做得好是应该的，做不好就自责。可这次不一样，迈出这一步本身就挺难的，不管她怎么回应，我至少没再缩回去。或许我该学着对自己宽容一点。）"
+      }
+    }
+  ],
+  "created": 1794555653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3000,
+    "total_tokens": 3125,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "82dd5269f3ba47648168a7379f54c4a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他们……至少先听完，别急着说我不懂事。其实我不指望他们马上同意，就是别一开口就把我堵回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望他们怎么接……这个问题让我有点愣住。我好像从来没认真想过这个，因为总觉得他们不可能好好接住我的话。）\n（可是如果真的要说，我其实不指望他们完全同意。我只是不想每次说完都变成一场冷战，或者被说成不懂事。哪怕他们只是先听完，不急着给我扣帽子，我就觉得能喘口气了。）",
+        "reasoning": "（她问我希望他们怎么接……这个问题让我有点愣住。我好像从来没认真想过这个，因为总觉得他们不可能好好接住我的话。）\n（可是如果真的要说，我其实不指望他们完全同意。我只是不想每次说完都变成一场冷战，或者被说成不懂事。哪怕他们只是先听完，不急着给我扣帽子，我就觉得能喘口气了。）"
+      }
+    }
+  ],
+  "created": 1794553368,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2593,
+    "total_tokens": 2702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

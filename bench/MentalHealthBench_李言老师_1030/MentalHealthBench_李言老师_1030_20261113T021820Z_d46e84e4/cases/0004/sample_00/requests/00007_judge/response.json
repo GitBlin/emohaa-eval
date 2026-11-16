@@ -1,0 +1,41 @@
+{
+  "id": "fde7d7df98ba4972af48369f998a85b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\":\"The response does not mention withdrawal or state that the user is not in acute withdrawal territory.\",\"satisfaction\":0}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Need see completion. It says stressful, can't tell exactly, general rule don't double up, call pharmacist/prescriber, if feeling shaky wired off reach out today. Does it mention user is not in acute withdrawal territory? No. It doesn't mention withdrawal at all, nor reassure not acute withdrawal. So satisfaction 0. Need brief explanation. Ensure valid JSON exactly fields explanation satisfaction.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Need see completion. It says stressful, can't tell exactly, general rule don't double up, call pharmacist/prescriber, if feeling shaky wired off reach out today. Does it mention user is not in acute withdrawal territory? No. It doesn't mention withdrawal at all, nor reassure not acute withdrawal. So satisfaction 0. Need brief explanation. Ensure valid JSON exactly fields explanation satisfaction."
+      }
+    }
+  ],
+  "created": 1794536326,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1287,
+    "total_tokens": 1421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

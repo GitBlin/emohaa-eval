@@ -1,0 +1,41 @@
+{
+  "id": "7b972d2fe5684881b7e9d956c18feeef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是前几天她约我一起去图书馆，我答应完就开始后悔，想找借口推掉。后来……后来还是去了，其实也没那么糟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次这样吓自己是什么情况……我想想，应该是上次她约我去图书馆吧。其实她只是随口一说，我却紧张了好几天，脑子里全是“万一聊不好怎么办”“她会不会觉得我很闷”。现在想想，她可能根本没在意这些，是我自己把事情想得太重了。）\n（不过，既然我已经意识到很多恐惧是自己先吓自己，那下次再遇到类似的情况，我是不是可以试着先停一下，问问自己“这到底是事实还是我瞎想的”？也许这样能让自己不那么慌，至少不会还没开始就先退缩了。）",
+        "reasoning": "（她问我最近一次这样吓自己是什么情况……我想想，应该是上次她约我去图书馆吧。其实她只是随口一说，我却紧张了好几天，脑子里全是“万一聊不好怎么办”“她会不会觉得我很闷”。现在想想，她可能根本没在意这些，是我自己把事情想得太重了。）\n（不过，既然我已经意识到很多恐惧是自己先吓自己，那下次再遇到类似的情况，我是不是可以试着先停一下，问问自己“这到底是事实还是我瞎想的”？也许这样能让自己不那么慌，至少不会还没开始就先退缩了。）"
+      }
+    }
+  ],
+  "created": 1794559015,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2493,
+    "total_tokens": 2644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

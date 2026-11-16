@@ -1,0 +1,41 @@
+{
+  "id": "aab805b5b4514e5d9c2ce32c885416e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（又试了一遍，慢一点）妈，我最近心里有点事……有点担心家里。（呼出一口气）说“担心家里”，好像比我原来想的要安全一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我再试一次，把后面那半句带上。我有点紧张，但也觉得刚才那句说出口后没那么可怕。我想到妈妈可能会问“什么事”，我得先准备一个不那么吓人的说法。）\n（可是我又怕说多了会控制不住情绪，或者让妈妈立刻察觉到我怀疑爸爸。也许我可以先只说“有点担心家里”，这样既不是在挑事，也给自己留了余地。）",
+        "reasoning": "（咨询师让我再试一次，把后面那半句带上。我有点紧张，但也觉得刚才那句说出口后没那么可怕。我想到妈妈可能会问“什么事”，我得先准备一个不那么吓人的说法。）\n（可是我又怕说多了会控制不住情绪，或者让妈妈立刻察觉到我怀疑爸爸。也许我可以先只说“有点担心家里”，这样既不是在挑事，也给自己留了余地。）"
+      }
+    }
+  ],
+  "created": 1794552816,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3234,
+    "total_tokens": 3360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ceed1200e1c949bdbb825e08347b05c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先写给自己看，把那些难听的、憋着的话都倒出来。至于发不发，以后再说吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想先把情绪写透还是写成能发出去的版本。我其实心里有点乱，一方面那些憋着的火气确实想一股脑倒出来，可另一方面又怕真发出去会闹得更僵。写下来不发这个办法让我稍微踏实点，至少不用马上面对她的反应。）\n（我想先写给自己看的，把那些难听的话都写出来，这样心里能松快些。至于发不发，以后再说吧，现在还没想好怎么跟她开口。）",
+        "reasoning": "（她问我更想先把情绪写透还是写成能发出去的版本。我其实心里有点乱，一方面那些憋着的火气确实想一股脑倒出来，可另一方面又怕真发出去会闹得更僵。写下来不发这个办法让我稍微踏实点，至少不用马上面对她的反应。）\n（我想先写给自己看的，把那些难听的话都写出来，这样心里能松快些。至于发不发，以后再说吧，现在还没想好怎么跟她开口。）"
+      }
+    }
+  ],
+  "created": 1794548985,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2796,
+    "total_tokens": 2927,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

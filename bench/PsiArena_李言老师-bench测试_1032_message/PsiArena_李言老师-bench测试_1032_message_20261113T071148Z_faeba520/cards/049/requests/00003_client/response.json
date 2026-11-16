@@ -1,0 +1,41 @@
+{
+  "id": "bc85a5428ab940c8be210cea235bd168",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该……不是身体上的吧。就是心里堵着点什么，但又说不清楚是什么。有时候觉得挺没道理的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在询问我疲惫的性质，是想帮我区分身体和心理的层面。这让我有点犹豫，因为我不太习惯把感受分得这么清楚，家里总是强调要理性，不要纠结情绪。但既然来了，或许可以试着说一点。）\n（我确实觉得不是身体累，更像是心里堵着什么。可具体是什么，我又说不明白，这种感觉让我有点不安。也许可以简单提一下，但不想说得太深，毕竟还没完全信任对方。）",
+        "reasoning": "（咨询师在询问我疲惫的性质，是想帮我区分身体和心理的层面。这让我有点犹豫，因为我不太习惯把感受分得这么清楚，家里总是强调要理性，不要纠结情绪。但既然来了，或许可以试着说一点。）\n（我确实觉得不是身体累，更像是心里堵着什么。可具体是什么，我又说不明白，这种感觉让我有点不安。也许可以简单提一下，但不想说得太深，毕竟还没完全信任对方。）"
+      }
+    }
+  ],
+  "created": 1794555971,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1060,
+    "total_tokens": 1183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

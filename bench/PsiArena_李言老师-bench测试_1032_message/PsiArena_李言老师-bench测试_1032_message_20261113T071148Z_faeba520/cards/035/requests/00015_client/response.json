@@ -1,0 +1,41 @@
+{
+  "id": "21d87caf7b764da9a5f064a140df8d88",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "通常是从“他今天怎么这么冷淡”开始的，然后就一路想到“是不是感情淡了”。我也知道这样想下去没完没了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我晚上念头从哪句话开始，这让我一下子想到那些一个人躺着的时刻。其实我清楚，那些念头总是从“他是不是不想理我”冒出来，然后就越想越乱。）\n（现在好像可以稍微坦白一点了，不用再绕来绕去。我想把那个最常冒出来的句子告诉她，也让她知道，我其实一直明白这样想会把自己拖进去。）",
+        "reasoning": "（她问我晚上念头从哪句话开始，这让我一下子想到那些一个人躺着的时刻。其实我清楚，那些念头总是从“他是不是不想理我”冒出来，然后就越想越乱。）\n（现在好像可以稍微坦白一点了，不用再绕来绕去。我想把那个最常冒出来的句子告诉她，也让她知道，我其实一直明白这样想会把自己拖进去。）"
+      }
+    }
+  ],
+  "created": 1794555442,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2263,
+    "total_tokens": 2379,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

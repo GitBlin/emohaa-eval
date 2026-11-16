@@ -1,0 +1,41 @@
+{
+  "id": "cfd57021fb864bea9155c4b459937671",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我想让他知道，我不是想逼他，只是这样一直猜着，我真的很难受。也想听听他到底在怕什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我继续设想对话的细节，好像在帮我把那些模糊的担心变成具体的话。我有点紧张，但这个问题其实我私下想过很多次了。）\n（我一直怕自己显得太脆弱，可如果不说清楚，他可能永远不知道我为什么难受。我想让他明白，我不是在逼他，只是这种悬着的感觉真的让我很累。）",
+        "reasoning": "（咨询师在引导我继续设想对话的细节，好像在帮我把那些模糊的担心变成具体的话。我有点紧张，但这个问题其实我私下想过很多次了。）\n（我一直怕自己显得太脆弱，可如果不说清楚，他可能永远不知道我为什么难受。我想让他明白，我不是在逼他，只是这种悬着的感觉真的让我很累。）"
+      }
+    }
+  ],
+  "created": 1794555620,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3044,
+    "total_tokens": 3153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

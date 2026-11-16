@@ -1,0 +1,41 @@
+{
+  "id": "8d4243a9602d45c6bc19afa7e2f5cf2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是说出来之后才有的。以前都是自己闷着，越闷越慌。那……我以后遇到那种想拒绝又不敢拒绝的时候，能做点什么呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那种平静是说出来后才有的，还是之前也有。这让我想到，好像确实是在慢慢说出来、被接住之后，心里才没那么慌。以前总是一个人扛着，现在能说出口，感觉不一样了。）\n（不过光有这种平静还不够，我其实更想知道接下来该怎么办。总不能在每次想拒绝的时候都来找咨询师吧，我得自己有点办法才行。）",
+        "reasoning": "（咨询师在问我那种平静是说出来后才有的，还是之前也有。这让我想到，好像确实是在慢慢说出来、被接住之后，心里才没那么慌。以前总是一个人扛着，现在能说出口，感觉不一样了。）\n（不过光有这种平静还不够，我其实更想知道接下来该怎么办。总不能在每次想拒绝的时候都来找咨询师吧，我得自己有点办法才行。）"
+      }
+    }
+  ],
+  "created": 1794552516,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2614,
+    "total_tokens": 2734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

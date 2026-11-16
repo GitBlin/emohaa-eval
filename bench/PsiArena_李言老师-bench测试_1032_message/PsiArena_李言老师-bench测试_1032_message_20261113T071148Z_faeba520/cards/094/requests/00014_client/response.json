@@ -1,0 +1,41 @@
+{
+  "id": "c07eee1700684cfaa1de354cec4a0a70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安静下来……我好像都不太习惯。可能会觉得，其实也没那么糟？不过这种感觉很少，晚上一个人待着的时候，反而更清醒，更睡不着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果那个声音安静下来会怎么看自己……这问题让我有点慌，好像从来没想过没有那个声音的样子。但仔细想想，也许不是完全没可能，只是有点陌生。我是不是把自己逼得太紧了？）\n（晚上明明很累却不想睡，早上又起不来，这个循环我自己也清楚。也许该跟她提一提晚上那段，说不定和早上也有关系。）",
+        "reasoning": "（她问我如果那个声音安静下来会怎么看自己……这问题让我有点慌，好像从来没想过没有那个声音的样子。但仔细想想，也许不是完全没可能，只是有点陌生。我是不是把自己逼得太紧了？）\n（晚上明明很累却不想睡，早上又起不来，这个循环我自己也清楚。也许该跟她提一提晚上那段，说不定和早上也有关系。）"
+      }
+    }
+  ],
+  "created": 1794558378,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2233,
+    "total_tokens": 2351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

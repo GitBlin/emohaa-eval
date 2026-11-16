@@ -1,0 +1,41 @@
+{
+  "id": "f0ddf45905f7443b90bc5413b5176273",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了下）好像……也没真去看过别人家。就是听老师一说，我就先觉得是我的错。可能我从小就习惯了，一出事就先怪自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，是觉得我把所有事都揽到自己身上了吧。可我心里就是觉得别人家孩子都听话，就我家的一团糟。这问题一戳，我确实有点答不上来，好像我从来没真去问过别人家到底什么样。）\n（想到这儿又绕回我妈了。她那时候不也总说我不够好吗，我是不是不知不觉也在用她的方式看自己。这么一想，心里更乱了。）",
+        "reasoning": "（她这么问，是觉得我把所有事都揽到自己身上了吧。可我心里就是觉得别人家孩子都听话，就我家的一团糟。这问题一戳，我确实有点答不上来，好像我从来没真去问过别人家到底什么样。）\n（想到这儿又绕回我妈了。她那时候不也总说我不够好吗，我是不是不知不觉也在用她的方式看自己。这么一想，心里更乱了。）"
+      }
+    }
+  ],
+  "created": 1794556259,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1917,
+    "total_tokens": 2046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

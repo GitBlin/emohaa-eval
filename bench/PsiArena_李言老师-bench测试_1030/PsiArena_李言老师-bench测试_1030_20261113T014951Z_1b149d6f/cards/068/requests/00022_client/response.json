@@ -1,0 +1,41 @@
+{
+  "id": "6b6c2bf23a2544c6ad4a77b4d59f70fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）愿意试试。（犹豫）不过我还是有点担心，万一又回到老样子，会不会白折腾一场。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意把这句话带回去试试。我其实有点想试，但马上又想到自己会不会做不到，万一饭桌上又绷不住怎么办。这种担心一冒出来就有点泄气。）\n（不过刚才说那句话的时候心里确实松了一下，那种感觉我还记得。也许可以试试，至少先给自己一个机会，而不是还没开始就判自己不行。）",
+        "reasoning": "（她问我愿不愿意把这句话带回去试试。我其实有点想试，但马上又想到自己会不会做不到，万一饭桌上又绷不住怎么办。这种担心一冒出来就有点泄气。）\n（不过刚才说那句话的时候心里确实松了一下，那种感觉我还记得。也许可以试试，至少先给自己一个机会，而不是还没开始就判自己不行。）"
+      }
+    }
+  ],
+  "created": 1794538078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3366,
+    "total_tokens": 3469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

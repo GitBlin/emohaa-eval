@@ -1,0 +1,41 @@
+{
+  "id": "ef3e80a4f15447efbd612f3eb4bda8cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低下头）好像……没有。（停了一会儿）我爸妈其实也不是不关心我，就是他们太忙了，说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身边有没有能理解我的人，我脑子里第一个想到的就是我爸妈。可是他们在外地，每次打电话除了问学习就没别的话。其实我挺想告诉他们我害怕去学校，但说了他们只会觉得我不懂事，或者更担心我。奶奶倒是疼我，但她年纪大了，我不想让她操心。所以想了想，好像真的没人能理解我。）\n（这种时候心里特别堵，觉得自己好像被夹在中间，谁也靠不上。我本来想说没有，但想想爸妈也不是完全不关心我，只是他们不懂这些。所以可能还是得提一下他们，虽然说了也白说。）",
+        "reasoning": "（咨询师问我身边有没有能理解我的人，我脑子里第一个想到的就是我爸妈。可是他们在外地，每次打电话除了问学习就没别的话。其实我挺想告诉他们我害怕去学校，但说了他们只会觉得我不懂事，或者更担心我。奶奶倒是疼我，但她年纪大了，我不想让她操心。所以想了想，好像真的没人能理解我。）\n（这种时候心里特别堵，觉得自己好像被夹在中间，谁也靠不上。我本来想说没有，但想想爸妈也不是完全不关心我，只是他们不懂这些。所以可能还是得提一下他们，虽然说了也白说。）"
+      }
+    }
+  ],
+  "created": 1794554123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 2050,
+    "total_tokens": 2209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 130,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

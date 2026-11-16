@@ -1,0 +1,41 @@
+{
+  "id": "b5279e2375fa49278a13d0af593fdfd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要……就是学习上的事吧。我不想让我爸妈知道我因为这些事难受，他们知道了只会说我心思不在学习上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最担心哪类信息被转告……看来他是真的在认真对待我的顾虑。但我还是有点犹豫，不知道该不该直接说。毕竟第一次见面，谁知道他会不会转头就告诉我爸妈。不过他说一般不会主动说，除非有安全风险……那学习上的事应该不算吧？）\n（其实我最怕的就是爸妈知道我因为同学的事这么难受。他们肯定会觉得我矫情，或者又拿我跟别人比。但直接说出来又显得我好像很脆弱……算了，先含糊一点吧，就说学习上的事，别的以后再说。）",
+        "reasoning": "（他问我最担心哪类信息被转告……看来他是真的在认真对待我的顾虑。但我还是有点犹豫，不知道该不该直接说。毕竟第一次见面，谁知道他会不会转头就告诉我爸妈。不过他说一般不会主动说，除非有安全风险……那学习上的事应该不算吧？）\n（其实我最怕的就是爸妈知道我因为同学的事这么难受。他们肯定会觉得我矫情，或者又拿我跟别人比。但直接说出来又显得我好像很脆弱……算了，先含糊一点吧，就说学习上的事，别的以后再说。）"
+      }
+    }
+  ],
+  "created": 1794548294,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1073,
+    "total_tokens": 1217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

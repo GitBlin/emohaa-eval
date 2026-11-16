@@ -1,0 +1,41 @@
+{
+  "id": "ff480931be0c4efa8549e5989f8a179b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会追着问，问是男是女，做什么的，几点回。有时候干脆说别去了，家里有事。我明明都提前说好了……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我父母追问的具体程度，看来是想弄清楚他们的干预到底有多深。这让我有点犹豫，因为一旦说下去，就等于承认家里确实管得太多，好像也在承认自己一直没办法反抗。）\n（可是她刚才说“不一定是你太敏感”，这句话让我稍微放松了一点。也许我可以试着说具体一点，但又不想一下子全倒出来，先描述一个最近发生的事吧，看看她会怎么反应。）",
+        "reasoning": "（咨询师在问我父母追问的具体程度，看来是想弄清楚他们的干预到底有多深。这让我有点犹豫，因为一旦说下去，就等于承认家里确实管得太多，好像也在承认自己一直没办法反抗。）\n（可是她刚才说“不一定是你太敏感”，这句话让我稍微放松了一点。也许我可以试着说具体一点，但又不想一下子全倒出来，先描述一个最近发生的事吧，看看她会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794549338,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1465,
+    "total_tokens": 1589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

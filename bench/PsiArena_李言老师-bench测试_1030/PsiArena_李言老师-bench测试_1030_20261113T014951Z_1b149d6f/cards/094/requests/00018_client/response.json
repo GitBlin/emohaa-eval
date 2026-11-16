@@ -1,0 +1,41 @@
+{
+  "id": "53ce038d936343119e53b7d47ff6a98f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机备忘录吧……反正睡前也在看手机。随手打两行，总比专门找个本子省事，也不会有“写不满一页”的压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，好像真的在帮我把“坚持”这件事变轻一点。我本来怕又变成一项任务，一失败就自责。可她说随手写两笔、忘了也不算失败，这让我稍微没那么紧了。）\n（如果放在手机备忘录里，可能比专门找本子更自然，睡前本来就在看手机。这样不用多一个仪式，也不会因为没写满一页而觉得自己又搞砸了。我想先试试这个。）",
+        "reasoning": "（她这么问，好像真的在帮我把“坚持”这件事变轻一点。我本来怕又变成一项任务，一失败就自责。可她说随手写两笔、忘了也不算失败，这让我稍微没那么紧了。）\n（如果放在手机备忘录里，可能比专门找本子更自然，睡前本来就在看手机。这样不用多一个仪式，也不会因为没写满一页而觉得自己又搞砸了。我想先试试这个。）"
+      }
+    }
+  ],
+  "created": 1794540165,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2760,
+    "total_tokens": 2891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

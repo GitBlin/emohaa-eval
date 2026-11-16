@@ -1,0 +1,41 @@
+{
+  "id": "1f06eadfb62f4cc29f3543041a169dfa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "六点……应该可以吧，我先试试看。还有，吃的方面是不是也得注意点？我老觉得肠胃不好，可能跟吃的东西也有关。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把散步这件事具体化，还给了个时间选项。说实话，六点听起来还行，但我不太确定自己能坚持。得先试试看，不能一下子答应太满，万一做不到反而更烦躁。）\n（不过散步归散步，身体那些不舒服还在。我其实还是有点担心，光靠走路能解决吗？是不是还得从别的方面下手，比如吃的东西。得问问看，但别显得太急。）",
+        "reasoning": "（咨询师在帮我把散步这件事具体化，还给了个时间选项。说实话，六点听起来还行，但我不太确定自己能坚持。得先试试看，不能一下子答应太满，万一做不到反而更烦躁。）\n（不过散步归散步，身体那些不舒服还在。我其实还是有点担心，光靠走路能解决吗？是不是还得从别的方面下手，比如吃的东西。得问问看，但别显得太急。）"
+      }
+    }
+  ],
+  "created": 1794545609,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2728,
+    "total_tokens": 2856,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

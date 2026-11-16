@@ -1,0 +1,41 @@
+{
+  "id": "8106a5f8c7c342c696605eb42eb04b03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "当时我其实觉得那个要求有点过分，可又怕拒绝了她会失望……唉，我好像总是这样，说不太清楚自己到底想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我当时心里怎么想的……其实我也说不清楚，就是觉得那个要求好像不太合理，但又怕拒绝会让她失望。这种矛盾的感觉最近总是缠着我，让我很累。）\n（不过现在坐在咨询师面前，我好像还不太敢完全放开说。毕竟才刚见面，我得先看看她是不是真的能理解我。也许可以稍微提一下我的困扰，但不用说得太深。）",
+        "reasoning": "（她问我当时心里怎么想的……其实我也说不清楚，就是觉得那个要求好像不太合理，但又怕拒绝会让她失望。这种矛盾的感觉最近总是缠着我，让我很累。）\n（不过现在坐在咨询师面前，我好像还不太敢完全放开说。毕竟才刚见面，我得先看看她是不是真的能理解我。也许可以稍微提一下我的困扰，但不用说得太深。）"
+      }
+    }
+  ],
+  "created": 1794534999,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1072,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

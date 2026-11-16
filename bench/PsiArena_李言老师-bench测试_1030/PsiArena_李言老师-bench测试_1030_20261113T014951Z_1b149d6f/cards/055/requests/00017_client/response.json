@@ -1,0 +1,41 @@
+{
+  "id": "31c0e256d3564951bd7dd8f0ff2f98dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我自己说……可能没那么狠吧。至少画画的时候，我没觉得自己不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说那句“我不行”是从外面搬进来的，这让我有点意外。仔细想想，好像确实是这样，每次说这话的时候都感觉不太像自己。现在她问我如果换成自己的语气会怎么评价自己，我一时还真有点说不上来。）\n（不过想到画画的时候，那种感觉倒是挺清楚的。那时候不用想太多，就觉得自己是能做点什么的。虽然放下笔之后又会被拉回去，但至少那一刻是真实的。）",
+        "reasoning": "（她刚才说那句“我不行”是从外面搬进来的，这让我有点意外。仔细想想，好像确实是这样，每次说这话的时候都感觉不太像自己。现在她问我如果换成自己的语气会怎么评价自己，我一时还真有点说不上来。）\n（不过想到画画的时候，那种感觉倒是挺清楚的。那时候不用想太多，就觉得自己是能做点什么的。虽然放下笔之后又会被拉回去，但至少那一刻是真实的。）"
+      }
+    }
+  ],
+  "created": 1794537232,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2631,
+    "total_tokens": 2744,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

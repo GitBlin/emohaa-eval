@@ -1,0 +1,51 @@
+{
+  "trial_id": "trial_003452",
+  "sample_id": "Strange Story Task:117",
+  "task_file": "Strange Story Task",
+  "ability": "Desire: Desire-action contradiction",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "B",
+    "B": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "A",
+  "prediction_original": "B",
+  "reply": "[[A]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:02:58.383792+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:03:20.235263+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "c67d8645747d4105a1d6295b68483fd9"
+  ],
+  "started_at": "2026-11-12T10:02:58.383792+00:00",
+  "finished_at": "2026-11-12T10:03:23.609720+00:00",
+  "elapsed_seconds": 25.226029381155968,
+  "user_id": "liyan_2e383e85f4b4a29a3068c2d11786ddb2b9475ffa"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d0b8728d86cd4a69bd806e4895947138",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……早上起来头有点晕，血压好像也高。去医院查过，也没查出什么大毛病，可我心里还是不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师提到了保密和例外情况，听起来还算专业，但我不确定她是不是真的能理解我的处境。她问我身体哪里不舒服，这让我有点犹豫，毕竟血压升高这种事说出来会不会显得我太脆弱？）\n（作为习惯了隐忍的人，我其实不太愿意直接承认身体问题，尤其不想让人担心。但既然来咨询了，也许该试着说一点。不过还是先轻描淡写地提一下血压吧，看看她怎么反应。）",
+        "reasoning": "（这位咨询师提到了保密和例外情况，听起来还算专业，但我不确定她是不是真的能理解我的处境。她问我身体哪里不舒服，这让我有点犹豫，毕竟血压升高这种事说出来会不会显得我太脆弱？）\n（作为习惯了隐忍的人，我其实不太愿意直接承认身体问题，尤其不想让人担心。但既然来咨询了，也许该试着说一点。不过还是先轻描淡写地提一下血压吧，看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794545200,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1088,
+    "total_tokens": 1217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

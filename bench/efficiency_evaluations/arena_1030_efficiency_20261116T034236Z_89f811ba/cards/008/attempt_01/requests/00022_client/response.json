@@ -1,0 +1,47 @@
+{
+  "id": "3667ef16fd4a49339ff8d567189e94c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试试吧……不回头看，直接去买奶茶。不过我得承认，我可能还是会手痒想点开看看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我定个小约定，发完不回头看。我其实还是担心自己做不到，手会不自觉地想去点开。但她说得对，那个声音连发完都不放过我。也许可以试试，至少先撑过买奶茶那段时间。）\n（不过我也在想，如果连这点小事都做不到，会不会又陷入自责。得给自己留点余地，别又把约定变成新的压力。这样说出来，好像心里踏实一点。）",
+        "reasoning": "（她让我定个小约定，发完不回头看。我其实还是担心自己做不到，手会不自觉地想去点开。但她说得对，那个声音连发完都不放过我。也许可以试试，至少先撑过买奶茶那段时间。）\n（不过我也在想，如果连这点小事都做不到，会不会又陷入自责。得给自己留点余地，别又把约定变成新的压力。这样说出来，好像心里踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794800937,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3275,
+    "total_tokens": 3393,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

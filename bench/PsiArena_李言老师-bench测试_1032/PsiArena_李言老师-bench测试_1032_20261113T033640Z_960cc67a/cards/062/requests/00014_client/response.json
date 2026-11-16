@@ -1,0 +1,41 @@
+{
+  "id": "cd419bfd5f9642ffa70a2cfd33d24b0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "差不多每天都有……有时候早上还没到单位就开始心慌了。说出来有点丢人，一个大男人这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种喘不上气的感觉多久出现一次，是在关心我的具体状况。我本来觉得说出来显得矫情，但既然他问了，还是得老实说。几乎每天都有，这确实不是小事。）\n（可一想到要请假，心里又矛盾起来。领导那态度让我害怕，万一不批，或者批了之后工作出问题，岂不是更糟。这种纠结让我说话都带着犹豫和自嘲。）",
+        "reasoning": "（咨询师在问我这种喘不上气的感觉多久出现一次，是在关心我的具体状况。我本来觉得说出来显得矫情，但既然他问了，还是得老实说。几乎每天都有，这确实不是小事。）\n（可一想到要请假，心里又矛盾起来。领导那态度让我害怕，万一不批，或者批了之后工作出问题，岂不是更糟。这种纠结让我说话都带着犹豫和自嘲。）"
+      }
+    }
+  ],
+  "created": 1794544276,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2147,
+    "total_tokens": 2262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

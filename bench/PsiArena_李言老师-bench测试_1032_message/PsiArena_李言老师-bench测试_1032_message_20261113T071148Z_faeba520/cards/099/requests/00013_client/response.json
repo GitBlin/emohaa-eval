@@ -1,0 +1,41 @@
+{
+  "id": "4a529b3d437d423da586da519fba95c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写的时候……好像没那么急着评判自己，就只是写。不过写完又会想，这有什么用呢，又不能当饭吃。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没有像别人那样急着否定我写东西这件事，反而说值得说。这让我有点意外，也有点……松了口气。他问写的时候什么感觉，我其实很少认真去想这个。）\n（写的时候确实不太一样，好像不用去管自己够不够好。但那种感觉太短暂了，而且我马上就会告诉自己这没什么用。现在说出来，会不会显得我很矛盾，一边说没用一边又觉得舒服？）",
+        "reasoning": "（咨询师好像没有像别人那样急着否定我写东西这件事，反而说值得说。这让我有点意外，也有点……松了口气。他问写的时候什么感觉，我其实很少认真去想这个。）\n（写的时候确实不太一样，好像不用去管自己够不够好。但那种感觉太短暂了，而且我马上就会告诉自己这没什么用。现在说出来，会不会显得我很矛盾，一边说没用一边又觉得舒服？）"
+      }
+    }
+  ],
+  "created": 1794558649,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2149,
+    "total_tokens": 2270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

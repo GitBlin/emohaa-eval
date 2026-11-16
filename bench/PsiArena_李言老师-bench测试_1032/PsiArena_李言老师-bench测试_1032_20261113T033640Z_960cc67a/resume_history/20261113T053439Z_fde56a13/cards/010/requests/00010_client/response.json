@@ -1,0 +1,41 @@
+{
+  "id": "d55d1c3b711743578aec9c07f1bbc8a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先冒出来的……可能是“我是不是又落后了”。（声音低下去）挺丢人的，明明知道他说的话不能全信，我还是会马上想到自己不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我心里最先冒出来的感受是什么，这让我有点不知道该怎么回答。其实每次听到那个同学自贬的时候，我脑子里第一个念头就是“我是不是真的不够好”，但说出来有点难为情。）\n（这种感觉很复杂，好像不只是担心自己，还带着点说不清的生气。他明明那么厉害还那样说，而我明明在努力却总觉得自己差一截。这种比较让我特别难受，但又不想承认自己这么在意。）",
+        "reasoning": "（咨询师问我心里最先冒出来的感受是什么，这让我有点不知道该怎么回答。其实每次听到那个同学自贬的时候，我脑子里第一个念头就是“我是不是真的不够好”，但说出来有点难为情。）\n（这种感觉很复杂，好像不只是担心自己，还带着点说不清的生气。他明明那么厉害还那样说，而我明明在努力却总觉得自己差一截。这种比较让我特别难受，但又不想承认自己这么在意。）"
+      }
+    }
+  ],
+  "created": 1794541653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1798,
+    "total_tokens": 1932,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0e8edbcba97541e9abaa57e28c42f5c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……写作业拖一拖，然后就摸手机。唉，其实我也想改改，就是不知道从哪开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我放学后做什么，好像是想了解我平时怎么打发时间。我之前说过回家就没人，他可能是在想我是不是因为无聊才一直玩手机。但我不想直接承认自己就是靠手机撑着，那样显得我太没出息了。）\n（其实我心里也有点想试试别的，比如写作业的时候放个计时器，或者找点别的事做。但这话说出来会不会显得我太认真了？而且万一做不到，岂不是更丢人。）",
+        "reasoning": "（咨询师在问我放学后做什么，好像是想了解我平时怎么打发时间。我之前说过回家就没人，他可能是在想我是不是因为无聊才一直玩手机。但我不想直接承认自己就是靠手机撑着，那样显得我太没出息了。）\n（其实我心里也有点想试试别的，比如写作业的时候放个计时器，或者找点别的事做。但这话说出来会不会显得我太认真了？而且万一做不到，岂不是更丢人。）"
+      }
+    }
+  ],
+  "created": 1794546389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2528,
+    "total_tokens": 2654,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

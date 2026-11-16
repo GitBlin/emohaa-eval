@@ -1,0 +1,41 @@
+{
+  "id": "33c2e8d5fe8544f1be544d2c77895fab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就前几天吧，我打了一大段话想问她是不是有什么心事，打完又全删了，最后只发了个“早点休息”。现在想想，挺憋的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我最近一次想说却咽回去的时候……这让我想起那天晚上，其实我有很多话想问她，但最后还是什么都没说。我好像总是这样，话到嘴边就咽回去了。）\n（我爸妈就是这样，家里从来不会把话说开，我也习惯了。可为什么对她也是这样呢？明明我很在意她，却连一句“你是不是有心事”都问不出口。这种模式好像从家里带出来的，越想越觉得憋得慌。）",
+        "reasoning": "（她问的是我最近一次想说却咽回去的时候……这让我想起那天晚上，其实我有很多话想问她，但最后还是什么都没说。我好像总是这样，话到嘴边就咽回去了。）\n（我爸妈就是这样，家里从来不会把话说开，我也习惯了。可为什么对她也是这样呢？明明我很在意她，却连一句“你是不是有心事”都问不出口。这种模式好像从家里带出来的，越想越觉得憋得慌。）"
+      }
+    }
+  ],
+  "created": 1794550253,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1681,
+    "total_tokens": 1816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

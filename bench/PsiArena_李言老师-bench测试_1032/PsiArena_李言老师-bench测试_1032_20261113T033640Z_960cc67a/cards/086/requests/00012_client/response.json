@@ -1,0 +1,41 @@
+{
+  "id": "cced63d80f6d4ae2ba10947ff6475a31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……被人随便打分的感觉吧。可奇怪的是，我又会拿这个分数去量自己。以前生病瘦得厉害的时候，反而有人夸我，现在正常了，我却总觉得自己不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是卡在“胖”这个字还是被打分的感觉。我得想想，好像两个都戳我，但“胖”这个字更直接，因为它让我想起以前生病瘦的时候反而被夸，现在正常了却好像不够好。我得把这种矛盾说出来，她应该能理解。）\n（不过我也怕显得太在意别人的话，好像我很虚荣似的。但那种被人随便评价的感觉，确实让我觉得自己一直不够好，得解释一下这种纠结。）",
+        "reasoning": "（她问我是卡在“胖”这个字还是被打分的感觉。我得想想，好像两个都戳我，但“胖”这个字更直接，因为它让我想起以前生病瘦的时候反而被夸，现在正常了却好像不够好。我得把这种矛盾说出来，她应该能理解。）\n（不过我也怕显得太在意别人的话，好像我很虚荣似的。但那种被人随便评价的感觉，确实让我觉得自己一直不够好，得解释一下这种纠结。）"
+      }
+    }
+  ],
+  "created": 1794545641,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2016,
+    "total_tokens": 2160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

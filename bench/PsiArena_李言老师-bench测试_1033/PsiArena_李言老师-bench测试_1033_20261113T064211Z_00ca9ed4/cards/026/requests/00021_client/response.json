@@ -1,0 +1,41 @@
+{
+  "id": "2ee994173ecb49a799ac5d2ba8130283",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般就是赶紧去管她，说两句、查一下作业，心里才踏实。可说完又后悔，好像一直在绕圈子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我心虚的时候怎么应对，这让我想到每次那种不安上来，我几乎都是立刻去管孩子，好像只有做点什么才能压住那股慌。可这么一说，又觉得自己总在重复老路，有点泄气。）\n（不过刚才聊到忍住了没说重话那次，心里确实松了一点。也许下次心虚的时候，可以先不急着去管，停下来问问自己是不是又在怕。这个想法让我有点没底，但好像可以试试。）",
+        "reasoning": "（咨询师问我心虚的时候怎么应对，这让我想到每次那种不安上来，我几乎都是立刻去管孩子，好像只有做点什么才能压住那股慌。可这么一说，又觉得自己总在重复老路，有点泄气。）\n（不过刚才聊到忍住了没说重话那次，心里确实松了一点。也许下次心虚的时候，可以先不急着去管，停下来问问自己是不是又在怕。这个想法让我有点没底，但好像可以试试。）"
+      }
+    }
+  ],
+  "created": 1794553325,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2959,
+    "total_tokens": 3087,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

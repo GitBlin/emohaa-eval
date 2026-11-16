@@ -1,0 +1,41 @@
+{
+  "id": "de88fbc03c0844c097e1b48661c2f401",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……有一次咨询结束以后，我一个人在车里坐了好久，脑子里全是刚才说过的话，怎么都停不下来。我那时候就觉得，糟了，好像有点过了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近哪一刻最明显感觉到快收不住，这让我想到那次咨询结束后自己失控的样子。其实我一直不敢承认，原来我对咨询师的依赖已经到这种程度了。）\n（这种依赖让我既羞耻又害怕，说出来可能会被评判，但我又隐约觉得她不会直接批评我。也许我可以试着透露一点点，看看她怎么反应。）",
+        "reasoning": "（她问的是最近哪一刻最明显感觉到快收不住，这让我想到那次咨询结束后自己失控的样子。其实我一直不敢承认，原来我对咨询师的依赖已经到这种程度了。）\n（这种依赖让我既羞耻又害怕，说出来可能会被评判，但我又隐约觉得她不会直接批评我。也许我可以试着透露一点点，看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794550525,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1571,
+    "total_tokens": 1684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

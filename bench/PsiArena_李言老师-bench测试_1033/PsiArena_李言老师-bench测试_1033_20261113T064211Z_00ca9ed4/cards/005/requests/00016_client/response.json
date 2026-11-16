@@ -1,0 +1,41 @@
+{
+  "id": "6b1fa1642f954f1cbc78515521f664df",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是有一段写我自己等消息的心情，写完觉得挺真的。……不过说完这些，我又有点担心，是不是太自我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体说说自己满意的部分，这让我有点不习惯，但好像也没那么难。之前总是先想别人怎么看，现在试着从自己角度去讲，反而觉得轻松了一些。）\n（不过说完之后，我又忍不住担心这是不是太自我了。这种担心好像跟等消息时的焦虑有点像，都是怕自己不够好。也许可以顺着这个想法，问问咨询师怎么调整这种心态。）",
+        "reasoning": "（咨询师在引导我具体说说自己满意的部分，这让我有点不习惯，但好像也没那么难。之前总是先想别人怎么看，现在试着从自己角度去讲，反而觉得轻松了一些。）\n（不过说完之后，我又忍不住担心这是不是太自我了。这种担心好像跟等消息时的焦虑有点像，都是怕自己不够好。也许可以顺着这个想法，问问咨询师怎么调整这种心态。）"
+      }
+    }
+  ],
+  "created": 1794552352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2475,
+    "total_tokens": 2592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

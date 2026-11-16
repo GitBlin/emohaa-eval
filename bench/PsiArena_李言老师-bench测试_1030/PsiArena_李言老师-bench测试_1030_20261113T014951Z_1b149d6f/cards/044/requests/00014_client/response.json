@@ -1,0 +1,41 @@
+{
+  "id": "95ba935866d7411fb934913c2e3d0b81",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会说……是不是我不够好，是不是我哪里做错了。反正就是觉得自己很差劲，比不上别人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那时候心里会跟自己说什么……其实那些话我平时都不敢细想，一想就更难受了。但她说这不是我的错，好像有点懂我为什么总怪自己。）\n（那些话就是觉得自己很差劲，比不上别人，别人不想要我也正常。说出来有点难堪，但好像憋着更累。她问得挺温和的，也许可以稍微讲一点。）",
+        "reasoning": "（她问我那时候心里会跟自己说什么……其实那些话我平时都不敢细想，一想就更难受了。但她说这不是我的错，好像有点懂我为什么总怪自己。）\n（那些话就是觉得自己很差劲，比不上别人，别人不想要我也正常。说出来有点难堪，但好像憋着更累。她问得挺温和的，也许可以稍微讲一点。）"
+      }
+    }
+  ],
+  "created": 1794536775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2299,
+    "total_tokens": 2403,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

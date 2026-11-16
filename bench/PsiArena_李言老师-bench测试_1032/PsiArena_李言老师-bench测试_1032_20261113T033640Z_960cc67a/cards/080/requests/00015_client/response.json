@@ -1,0 +1,41 @@
+{
+  "id": "3afe2af3ea174ccaa5db89d4154ae0c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候我爸就这样，家里事他不太说，遇到问题就板着脸，好像男人一示弱就完了。我可能不知不觉学了他那套，但现在又觉得这样挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这种“男的必须会”的念头最早从哪里来……他好像真的在认真听，不是随便安慰我。这让我想起小时候的事，但说出来有点难为情。）\n（我爸就是这样的人，从不当面示弱，对我妈也是闷着。我可能不知不觉就学了他那套。可我现在不想再这样了，憋着太难受。）",
+        "reasoning": "（咨询师问我这种“男的必须会”的念头最早从哪里来……他好像真的在认真听，不是随便安慰我。这让我想起小时候的事，但说出来有点难为情。）\n（我爸就是这样的人，从不当面示弱，对我妈也是闷着。我可能不知不觉就学了他那套。可我现在不想再这样了，憋着太难受。）"
+      }
+    }
+  ],
+  "created": 1794545393,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2394,
+    "total_tokens": 2515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

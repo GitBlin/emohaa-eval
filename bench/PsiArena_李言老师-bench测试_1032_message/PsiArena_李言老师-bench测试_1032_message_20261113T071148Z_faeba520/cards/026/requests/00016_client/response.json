@@ -1,0 +1,41 @@
+{
+  "id": "cf1db953f5cc416c983cbceef88ba258",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提醒自己停下来……我想想。也许深呼吸一下？或者干脆把想说的话先写下来，说之前看一眼。我是老师，写板书习惯了的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我卡住了怎么提醒自己停下来，这问题挺实在的。我平时确实容易一开口就收不住，得想个能落地的办法。深呼吸好像可以，但怕自己一急就忘了。把话写下来可能更靠谱，毕竟我是老师，写东西习惯了。）\n（不过写下来会不会太刻意了？万一女儿看到纸条，会不会觉得我在装样子？算了，先别想那么多，能让自己稳住才是关键。我可以试试把想说的话简单写两句，说之前看一眼，至少能提醒自己别又拐回老路。）",
+        "reasoning": "（她问我卡住了怎么提醒自己停下来，这问题挺实在的。我平时确实容易一开口就收不住，得想个能落地的办法。深呼吸好像可以，但怕自己一急就忘了。把话写下来可能更靠谱，毕竟我是老师，写东西习惯了。）\n（不过写下来会不会太刻意了？万一女儿看到纸条，会不会觉得我在装样子？算了，先别想那么多，能让自己稳住才是关键。我可以试试把想说的话简单写两句，说之前看一眼，至少能提醒自己别又拐回老路。）"
+      }
+    }
+  ],
+  "created": 1794555076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2293,
+    "total_tokens": 2446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

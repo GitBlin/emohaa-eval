@@ -1,0 +1,41 @@
+{
+  "id": "01c5a5be26ef4ccd8960dcf760a2539d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你这么一问，我有点说不上来。家里人倒是总让我多跟人联系，可又好像嫌我太在意这些。……对了，你会不会也这样？私下里也会一直等别人回消息吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是有人说过我太黏人……其实家里人确实老让我多跟人联系，但好像又嫌我太在意这些。这种矛盾让我有点烦躁，不想这么快被看透。）\n（不过她看起来没有评判我的意思，也许我可以稍微试探一下她的界限……比如问问她私下会不会也这样等消息？这样既能转移话题，又能看看她怎么回应。）",
+        "reasoning": "（咨询师问我是不是有人说过我太黏人……其实家里人确实老让我多跟人联系，但好像又嫌我太在意这些。这种矛盾让我有点烦躁，不想这么快被看透。）\n（不过她看起来没有评判我的意思，也许我可以稍微试探一下她的界限……比如问问她私下会不会也这样等消息？这样既能转移话题，又能看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794552311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1303,
+    "total_tokens": 1433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

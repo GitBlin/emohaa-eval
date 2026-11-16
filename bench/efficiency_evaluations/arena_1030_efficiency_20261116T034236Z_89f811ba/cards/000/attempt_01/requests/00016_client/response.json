@@ -1,0 +1,47 @@
+{
+  "id": "fe3bfc5083684bb2b69f1b302b3288ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "差在……那时候我没觉得跟人相处是件要“努力”的事。现在跟同事，我好像每句话都在心里过一遍，累得很。（叹气）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是和现在比差在哪，这让我忽然意识到大学那种自然已经很久没出现了。现在跟同事相处，总像在完成任务，每句话都得想合不合适，累得慌。）\n（不过她这么一问，我也想到，也许不用一下子改变所有关系，先从那种“不说话也不尴尬”的感觉里找一点回来，比如食堂碰见同事时试着放松一点。）",
+        "reasoning": "（她问的是和现在比差在哪，这让我忽然意识到大学那种自然已经很久没出现了。现在跟同事相处，总像在完成任务，每句话都得想合不合适，累得慌。）\n（不过她这么一问，我也想到，也许不用一下子改变所有关系，先从那种“不说话也不尴尬”的感觉里找一点回来，比如食堂碰见同事时试着放松一点。）"
+      }
+    }
+  ],
+  "created": 1794800635,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2649,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

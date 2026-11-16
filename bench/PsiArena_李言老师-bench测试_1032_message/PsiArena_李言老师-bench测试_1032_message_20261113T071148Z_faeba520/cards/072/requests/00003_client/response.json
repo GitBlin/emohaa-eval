@@ -1,0 +1,41 @@
+{
+  "id": "dbbd8764d2fa4c2ab2f6a63b3938f8bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是上周吧，我姐姐来我家，站在门口就不太愿意进来。她那个表情，我到现在还记得。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎想让我放松下来，说很多人都有类似困扰……可我不太确定他是不是真的理解。他问最近一次难受是什么时候，我脑子里一下子涌出好多画面，乱糟糟的。）\n（我想试着说一点，但又怕说多了会被评判。姐姐上次来家里那个表情我还记得，她那种嫌弃的眼神让我特别难受。也许我可以先提一下这个，看看咨询师会怎么反应。）",
+        "reasoning": "（咨询师似乎想让我放松下来，说很多人都有类似困扰……可我不太确定他是不是真的理解。他问最近一次难受是什么时候，我脑子里一下子涌出好多画面，乱糟糟的。）\n（我想试着说一点，但又怕说多了会被评判。姐姐上次来家里那个表情我还记得，她那种嫌弃的眼神让我特别难受。也许我可以先提一下这个，看看咨询师会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794557215,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1075,
+    "total_tokens": 1192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

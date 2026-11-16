@@ -1,0 +1,41 @@
+{
+  "id": "175b29f1a13f465f8ba3f2e1fadd94b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提醒……我可以在笔记本上写个小标记吧，开会前写一下。看到就提醒自己一下。会不会有点傻？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么给自己留个提醒……嗯，领导在场的时候我确实整个人都绷着，光想着怎么表现好。她这么一问，我倒是想到可以借点小动作，比如笔和本子，这样在开会时能有个抓手。不过我又有点担心，万一连这种小动作都做不到，是不是显得我很没用。）\n（但转念一想，她之前也说过不用逼自己每天都做到，偶尔忘了也正常。那我就先这么试试吧，反正就是写个字的事，不行再说。）",
+        "reasoning": "（她问我怎么给自己留个提醒……嗯，领导在场的时候我确实整个人都绷着，光想着怎么表现好。她这么一问，我倒是想到可以借点小动作，比如笔和本子，这样在开会时能有个抓手。不过我又有点担心，万一连这种小动作都做不到，是不是显得我很没用。）\n（但转念一想，她之前也说过不用逼自己每天都做到，偶尔忘了也正常。那我就先这么试试吧，反正就是写个字的事，不行再说。）"
+      }
+    }
+  ],
+  "created": 1794552531,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 3018,
+    "total_tokens": 3154,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

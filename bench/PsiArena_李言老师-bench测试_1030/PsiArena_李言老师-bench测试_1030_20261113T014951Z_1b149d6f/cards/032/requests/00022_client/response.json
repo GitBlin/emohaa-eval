@@ -1,0 +1,41 @@
+{
+  "id": "298ca3ede7434beeadc72d00ca2dc4cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟……这个我做得到，不算太难。行，我想试试，今晚要是又开始等，我就先下楼走一圈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意定个“先出门十分钟”的小规矩。这听起来比“别盯着手机”更具体，好像我真的能试着做。可马上又想到，万一我出门回来，他还是没回，那种落差会不会更重。）\n（不过刚才说到对自己太苛刻，我确实想改一改。十分钟而已，不是要解决所有问题，是给自己一个喘口气的机会。也许可以先从今晚试试，不逼自己立刻做到完美。）",
+        "reasoning": "（她问我愿不愿意定个“先出门十分钟”的小规矩。这听起来比“别盯着手机”更具体，好像我真的能试着做。可马上又想到，万一我出门回来，他还是没回，那种落差会不会更重。）\n（不过刚才说到对自己太苛刻，我确实想改一改。十分钟而已，不是要解决所有问题，是给自己一个喘口气的机会。也许可以先从今晚试试，不逼自己立刻做到完美。）"
+      }
+    }
+  ],
+  "created": 1794536238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3216,
+    "total_tokens": 3339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

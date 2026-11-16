@@ -1,0 +1,47 @@
+{
+  "id": "952d4a17c55845f2b5275e44d8ce798c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你这么一说……好像真是。我一直以为是自己想太多，可好像不管等消息还是写信，我都先怪自己。可能跟家里也有关系吧，从小他们就说要多跟人打交道，人缘好才是本事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说这两件事是同一个动作……我好像从来没这么想过。等消息和写信，确实都是先怪自己。但为什么会这样呢？）\n（也许跟家里有关吧。从小爸妈就总说要主动跟人打交道，人缘好才算有出息。我好像一直在照着这个标准做，怕哪句话说不好就让人不喜欢了。）",
+        "reasoning": "（咨询师说这两件事是同一个动作……我好像从来没这么想过。等消息和写信，确实都是先怪自己。但为什么会这样呢？）\n（也许跟家里有关吧。从小爸妈就总说要主动跟人打交道，人缘好才算有出息。我好像一直在照着这个标准做，怕哪句话说不好就让人不喜欢了。）"
+      }
+    }
+  ],
+  "created": 1794800717,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1650,
+    "total_tokens": 1772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2e92162b9ff2402c8fdda21002c20eb1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，第一次。我就是……有点担心，我说的话会不会被告诉别人？比如学校或者我爸妈之类的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用紧张，让我想到什么就说什么……可我还是有点不放心。他说这里能安心说话，但真的能安心吗？我连他是什么样的人都不知道。他问我有没有咨询经历，这算是在了解我的情况吧。不过我还是想先知道，我说的话会不会被传出去，或者被记录在什么地方。毕竟这些事我连室友都没说过，要是被学校知道了……算了，还是先问问清楚比较保险。）",
+        "reasoning": "（咨询师说不用紧张，让我想到什么就说什么……可我还是有点不放心。他说这里能安心说话，但真的能安心吗？我连他是什么样的人都不知道。他问我有没有咨询经历，这算是在了解我的情况吧。不过我还是想先知道，我说的话会不会被传出去，或者被记录在什么地方。毕竟这些事我连室友都没说过，要是被学校知道了……算了，还是先问问清楚比较保险。）"
+      }
+    }
+  ],
+  "created": 1794554082,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 990,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

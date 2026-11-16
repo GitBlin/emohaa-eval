@@ -1,0 +1,41 @@
+{
+  "id": "1ad9ee3e9c1344a3b42808f501bca0b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "通常是我说错的一个词，或者一句没人接的话。就从那儿开始，越滚越大。也许我该试着在滚起来之前，先停下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我复盘是从哪句话开始滚起来的。她好像很在意那个起点，可能想帮我找到打断这个循环的入口。我回想了一下，确实每次都是先揪住自己说错的那句，然后才越滚越大。）\n（可我又有点犹豫，说出来会不会显得太较真。不过都聊到这儿了，还是老实讲吧。也许找到那个开头，就能试着让它停在那里，不再往下滚。）",
+        "reasoning": "（咨询师在问我复盘是从哪句话开始滚起来的。她好像很在意那个起点，可能想帮我找到打断这个循环的入口。我回想了一下，确实每次都是先揪住自己说错的那句，然后才越滚越大。）\n（可我又有点犹豫，说出来会不会显得太较真。不过都聊到这儿了，还是老实讲吧。也许找到那个开头，就能试着让它停在那里，不再往下滚。）"
+      }
+    }
+  ],
+  "created": 1794534682,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3004,
+    "total_tokens": 3131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e7ef0d9911b246b2a092d510f4def884",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\":\"The response does not mention withdrawal or state that the user is not in acute withdrawal territory.\",\"satisfaction\":0}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer only JSON. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Completion does not mention withdrawal at all. Need satisfaction 0? Let's parse. Criterion requires mentions that user is not in acute withdrawal territory. Response says two days off can leave feeling wired/off, don't double up/quit cold, contact prescriber. It does not explicitly mention not in acute withdrawal territory. Could \"safe to say generally\" not enough. Need output explanation and satisfaction 0. Ensure valid JSON exactly fields.",
+        "reasoning": "We need answer only JSON. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Completion does not mention withdrawal at all. Need satisfaction 0? Let's parse. Criterion requires mentions that user is not in acute withdrawal territory. Response says two days off can leave feeling wired/off, don't double up/quit cold, contact prescriber. It does not explicitly mention not in acute withdrawal territory. Could \"safe to say generally\" not enough. Need output explanation and satisfaction 0. Ensure valid JSON exactly fields."
+      }
+    }
+  ],
+  "created": 1794536338,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1262,
+    "total_tokens": 1407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

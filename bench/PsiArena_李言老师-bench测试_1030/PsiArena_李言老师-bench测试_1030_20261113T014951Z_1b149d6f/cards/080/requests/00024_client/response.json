@@ -1,0 +1,41 @@
+{
+  "id": "705de341ef8c4ff6a6e74a8ccea47668",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末晚上吧，孩子睡了，她一般心情也松。我想试试，不过得给自己留个余地——说不好就停，别硬撑着说完。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体时机，这让我有点紧张，但也觉得该想想实际可行的办法。周末晚上那种时候，家里安静，她心情通常不错，应该不会一开口就吵起来。）\n（我得承认自己还是会怕，怕话说出口就变味。不过既然已经聊到这一步了，总得给自己留个退路，不能把话说死。先提一句“我可能说不好”，至少能让她知道我不是在找茬。）",
+        "reasoning": "（咨询师问的是具体时机，这让我有点紧张，但也觉得该想想实际可行的办法。周末晚上那种时候，家里安静，她心情通常不错，应该不会一开口就吵起来。）\n（我得承认自己还是会怕，怕话说出口就变味。不过既然已经聊到这一步了，总得给自己留个退路，不能把话说死。先提一句“我可能说不好”，至少能让她知道我不是在找茬。）"
+      }
+    }
+  ],
+  "created": 1794539108,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3502,
+    "total_tokens": 3632,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

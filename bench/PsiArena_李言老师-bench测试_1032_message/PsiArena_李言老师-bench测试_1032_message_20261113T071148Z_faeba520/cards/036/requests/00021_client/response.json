@@ -1,0 +1,41 @@
+{
+  "id": "601bcb74570c40c781a49c8d8309a304",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能让我别那么慌，就当是件很小的事。（想了想）而且就算没递好，我也不会一直自责了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那句话能帮我做什么……其实我自己也还没完全想清楚。不过刚才说出口的时候，好像心里真的松了一点。也许是让我别把一次尝试看得那么重，就算手抖了、没递好，也不代表我这个人就失败了。）\n（而且，我确实不想再像以前那样，光看着却什么都不做。那种自责比紧张还难受。所以明天哪怕只是把本子传过去，能让自己少一点后悔，应该也算有用吧。）",
+        "reasoning": "（她问我那句话能帮我做什么……其实我自己也还没完全想清楚。不过刚才说出口的时候，好像心里真的松了一点。也许是让我别把一次尝试看得那么重，就算手抖了、没递好，也不代表我这个人就失败了。）\n（而且，我确实不想再像以前那样，光看着却什么都不做。那种自责比紧张还难受。所以明天哪怕只是把本子传过去，能让自己少一点后悔，应该也算有用吧。）"
+      }
+    }
+  ],
+  "created": 1794555466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2685,
+    "total_tokens": 2812,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

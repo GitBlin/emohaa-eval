@@ -1,0 +1,41 @@
+{
+  "id": "ff34710bf1814149a4fc2c143fb5c3c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下，声音低下去）我……大概还是会说“还行”吧。说累，好像显得我多没用似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，我心里一下子堵得慌。这么多年没人问过，真有人问了，我反倒不知道咋说。说累吧，好像显得自己多没用；说不累，那是骗人。可能话到嘴边就成了一句“还行”，习惯了。）\n（可我也想知道，她听了我这话会咋想。会不会觉得我连累都不敢认，太窝囊了。）",
+        "reasoning": "（她这么问，我心里一下子堵得慌。这么多年没人问过，真有人问了，我反倒不知道咋说。说累吧，好像显得自己多没用；说不累，那是骗人。可能话到嘴边就成了一句“还行”，习惯了。）\n（可我也想知道，她听了我这话会咋想。会不会觉得我连累都不敢认，太窝囊了。）"
+      }
+    }
+  ],
+  "created": 1794536988,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2115,
+    "total_tokens": 2225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

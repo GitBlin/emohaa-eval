@@ -1,0 +1,41 @@
+{
+  "id": "b0a03d4711804fa9a4878c83c6ff419e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末吧，找个他心情好的时候。说实话我有点怕说砸了，但总比一直不说强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候跟儿子说，这让我有点压力。我其实心里没底，怕自己到时候又说不好，或者一开口就变味了。）\n（不过刚才想到的那个说法确实比直接吼他要好。我得给自己定个具体点的打算，不能光嘴上说说。周末可能是个机会，气氛松一点，我试试看吧。）",
+        "reasoning": "（咨询师问我打算什么时候跟儿子说，这让我有点压力。我其实心里没底，怕自己到时候又说不好，或者一开口就变味了。）\n（不过刚才想到的那个说法确实比直接吼他要好。我得给自己定个具体点的打算，不能光嘴上说说。周末可能是个机会，气氛松一点，我试试看吧。）"
+      }
+    }
+  ],
+  "created": 1794559023,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2743,
+    "total_tokens": 2844,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

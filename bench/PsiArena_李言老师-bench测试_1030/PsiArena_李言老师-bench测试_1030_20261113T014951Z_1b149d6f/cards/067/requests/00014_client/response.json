@@ -1,0 +1,41 @@
+{
+  "id": "86a48d7fd09741e8b356212f62f726d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是硬撑吧。撑到后来我发现……我好像把照顾她当成自己一个人的责任了。可这本来，也不该全是我一个人的事，对吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么熬过去的，好像觉得我有什么办法似的。其实哪有什么办法，就是硬撑。但这么一说，我忽然意识到，我好像一直把照顾她当成我一个人的事，从来没想过这本来就不该全压在我身上。）",
+        "reasoning": "（她问我怎么熬过去的，好像觉得我有什么办法似的。其实哪有什么办法，就是硬撑。但这么一说，我忽然意识到，我好像一直把照顾她当成我一个人的事，从来没想过这本来就不该全压在我身上。）"
+      }
+    }
+  ],
+  "created": 1794538005,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 2396,
+    "total_tokens": 2485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

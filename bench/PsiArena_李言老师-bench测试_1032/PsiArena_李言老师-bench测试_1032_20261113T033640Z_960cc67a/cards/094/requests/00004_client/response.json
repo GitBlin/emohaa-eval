@@ -1,0 +1,41 @@
+{
+  "id": "6bf6a7eeec1e4f8b9a84f9947d023ab9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是家里人吧，也可能是我同事。他们好像都觉得我挺能扛的。（犹豫）我这么说会不会有点奇怪？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怕被谁觉得小题大做……我其实不太想这么快就说到家里人，毕竟才刚开始。但刚才已经说了怕被觉得小题大做，如果完全回避好像也不太对。也许可以稍微提一下，但不用展开太多。）\n（她好像挺认真在听，没有那种急着下判断的感觉。不过我还是得先试探一下她会不会真的理解我，而不是像同事那样觉得我太敏感。先含糊地说说家里人或者同事吧，看看她怎么回应。）",
+        "reasoning": "（她问我怕被谁觉得小题大做……我其实不太想这么快就说到家里人，毕竟才刚开始。但刚才已经说了怕被觉得小题大做，如果完全回避好像也不太对。也许可以稍微提一下，但不用展开太多。）\n（她好像挺认真在听，没有那种急着下判断的感觉。不过我还是得先试探一下她会不会真的理解我，而不是像同事那样觉得我太敏感。先含糊地说说家里人或者同事吧，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794546113,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1128,
+    "total_tokens": 1260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

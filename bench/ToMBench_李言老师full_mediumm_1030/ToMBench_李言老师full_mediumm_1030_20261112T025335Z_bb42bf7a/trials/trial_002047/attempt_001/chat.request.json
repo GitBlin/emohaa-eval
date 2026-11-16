@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:32.467377+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nYilin, Siya and Jingjing are friends, but recently Siya misunderstands Jingjing. One day, they are in the library. Yilin, who is studying, sees Jingjing coming over, Jingjing's face looks a bit strange. Siya is looking for study materials, Jingjing sees it and immediately turns her head and leaves. Yilin looks at Jingjing's back, sighs deeply, and looks at Siya not far away, her eyes hint at something. Siya looks at Yilin's actions, but does not take any action. Yilin silently shakes her head and continues to study.\n\n[Question]\nHow do you think Yilin feels?\n\n[Candidate Answers]\nA. Yilin feels angry because Siya ignores her gaze and hints.\nB. Yilin feels happy because her relationship with Siya does not receive any impact.\nC. Yilin feels confused because she does not know why Siya and Jingjing become like this.\nD. Yilin feels helpless because Siya ignores her hints, she cannot help the two friends reconcile.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

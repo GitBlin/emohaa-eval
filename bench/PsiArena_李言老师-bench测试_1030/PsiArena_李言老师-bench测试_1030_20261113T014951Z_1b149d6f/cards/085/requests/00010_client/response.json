@@ -1,0 +1,41 @@
+{
+  "id": "e351af0112fc42a6ae1130659cc9844e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）好像是小学的时候吧。有一次考试没考好，我记得我爸没骂我，就是很失望地看了我一眼。那眼神我到现在都记得，比骂我还难受。从那以后我就特别怕让人失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起第一次“懂事”是什么时候，我脑子里马上就浮现出小时候的画面。我记得很清楚，那次考试没考好，回家路上一直害怕，结果爸妈没骂我，只是说“我们对你很失望”。那种感觉比挨骂还难受，好像自己做错了天大的事。从那以后，我就总怕让他们失望，做什么都先想他们会不会不高兴。现在想想，可能就是从那时候开始的吧。）",
+        "reasoning": "（她问起第一次“懂事”是什么时候，我脑子里马上就浮现出小时候的画面。我记得很清楚，那次考试没考好，回家路上一直害怕，结果爸妈没骂我，只是说“我们对你很失望”。那种感觉比挨骂还难受，好像自己做错了天大的事。从那以后，我就总怕让他们失望，做什么都先想他们会不会不高兴。现在想想，可能就是从那时候开始的吧。）"
+      }
+    }
+  ],
+  "created": 1794539285,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1938,
+    "total_tokens": 2077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

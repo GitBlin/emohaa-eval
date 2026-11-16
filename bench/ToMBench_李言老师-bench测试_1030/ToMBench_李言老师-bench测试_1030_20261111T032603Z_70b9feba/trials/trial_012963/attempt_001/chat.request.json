@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:40:10.325059+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Wang is a freshman, he joins the school drama club, but he is not familiar with the members of the drama club. In a public performance of the drama club, he plays a scholar. He not only puts on the costume of an ancient scholar, but also learns the speech and manners of that era, saying that he is writing an autobiography. Such behavior makes him very popular in the campus, and classmates are attracted by his talent and unique personality.\n\n[Question]\nWhy does Xiao Wang do this?\n\n[Candidate Answers]\nA. Xiao Wang does this because he is conducting a social experiment on the impact of ancient culture on modern students.\nB. Xiao Wang does this because he really thinks he is a reborn ancient scholar.\nC. Xiao Wang does this because he wants to improve his academic achievements by imitating ancient scholars.\nD. Xiao Wang does this in order to better adapt to the campus environment and integrate into the student social circle.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

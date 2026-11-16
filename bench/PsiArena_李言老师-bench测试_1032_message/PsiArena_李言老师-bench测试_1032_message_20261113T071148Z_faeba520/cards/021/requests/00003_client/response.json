@@ -1,0 +1,41 @@
+{
+  "id": "8ec2329f988942cebb419df8084f6e54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）就……前两天在医院吧。具体也说不清，反正就是在那个环境里，人特别闷。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师在引导我说出具体情境，但我还不太想这么快就深入。他问最近一次心里堵的情况，我其实立刻想到了医院，但不太愿意直接说。也许可以模糊地提一下，看看他会不会追问太多，或者能不能理解我的犹豫。）\n（作为来访者，我习惯先观察对方是否可靠。现在只是试探性地透露一点，如果他的反应让我觉得安全，或许可以再多说些。不过还是得保留一些，不能一下子全盘托出。）",
+        "reasoning": "（这位咨询师在引导我说出具体情境，但我还不太想这么快就深入。他问最近一次心里堵的情况，我其实立刻想到了医院，但不太愿意直接说。也许可以模糊地提一下，看看他会不会追问太多，或者能不能理解我的犹豫。）\n（作为来访者，我习惯先观察对方是否可靠。现在只是试探性地透露一点，如果他的反应让我觉得安全，或许可以再多说些。不过还是得保留一些，不能一下子全盘托出。）"
+      }
+    }
+  ],
+  "created": 1794554811,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1063,
+    "total_tokens": 1194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

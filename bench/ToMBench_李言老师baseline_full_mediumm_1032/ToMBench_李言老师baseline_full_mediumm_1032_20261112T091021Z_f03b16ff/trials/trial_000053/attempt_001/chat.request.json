@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:10:55.886513+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Na is a passionate community volunteer, often helps to organize community activities. One day, she is in charge of collecting donated clothes and categorizes them into packages. Ali is her assistant, due to a misunderstanding, he mistakenly packs the clothes that a resident specifically marks for a specific charity into the general donation box. Mark knows the special significance of these clothes, but because he has a personal grudge with that resident, he does not tell Li Na and Ali. When that resident asks, Li Na feels confused, and Ali starts to check if there is a mistake, finally finds out it is his own mistake.\n\n[Question]\nWhat is the possible intention behind Mark's behavior?\n\n[Candidate Answers]\nA. Mark possibly has a dispute with that resident, chooses not to tell Li Na and Ali.\nB. Mark is possibly busy with other work, does not have time to tell Li Na and Ali about the mistake.\nC. Mark possibly has a conflict with that resident, deliberately chooses to remain silent to see the resident's donation plan fail.\nD. Mark possibly thinks that Li Na and Ali find the mistake and correct it on their own.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

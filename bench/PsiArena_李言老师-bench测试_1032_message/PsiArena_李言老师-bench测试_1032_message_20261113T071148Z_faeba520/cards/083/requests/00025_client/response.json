@@ -1,0 +1,41 @@
+{
+  "id": "73f25fe5b19f4ee9a4c383d6b2123ba5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……大概就是散步的时候，随口说一句“最近身体一直不太舒服，你陪我去趟医院吧”。就这么简单，不绕弯子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算怎么开口说第一句，这让我稍微有点紧张。不过刚才在心里默念过几遍，大概有个模糊的草稿了。）\n（我想先顺着平时散步聊天那样，轻轻提一句身体不太舒服，然后直接说想让她陪我去医院。这样不会太沉重，也把最难的部分先说出来。）",
+        "reasoning": "（咨询师问我打算怎么开口说第一句，这让我稍微有点紧张。不过刚才在心里默念过几遍，大概有个模糊的草稿了。）\n（我想先顺着平时散步聊天那样，轻轻提一句身体不太舒服，然后直接说想让她陪我去医院。这样不会太沉重，也把最难的部分先说出来。）"
+      }
+    }
+  ],
+  "created": 1794557931,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3129,
+    "total_tokens": 3235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

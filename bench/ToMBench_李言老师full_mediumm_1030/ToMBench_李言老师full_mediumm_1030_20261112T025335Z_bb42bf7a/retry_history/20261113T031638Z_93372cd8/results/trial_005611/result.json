@@ -1,0 +1,42 @@
+{
+  "trial_id": "trial_005611",
+  "sample_id": "Faux-pas Recognition Test:222",
+  "task_file": "Faux-pas Recognition Test",
+  "ability": "Non-Literal Communication: Faux pas",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "D",
+    "B": "C",
+    "C": "B",
+    "D": "A"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T03:01:40.671938+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T03:02:02.180990+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T03:01:40.671938+00:00",
+  "finished_at": "2026-11-12T03:02:21.772685+00:00",
+  "elapsed_seconds": 41.10085929185152,
+  "user_id": "liyan_1881e49ac92a5606552b13aee9230cd254c55ac8"
+}

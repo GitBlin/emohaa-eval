@@ -1,0 +1,41 @@
+{
+  "id": "9729a0b8cdfa482d9dabdde6b3256f76",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧，考了第二名回家，我妈第一句问的是第一名是谁。那时候我就觉得……我好像永远差一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我较劲最早从什么时候开始，这让我一下子回到了小时候。好像这个问题戳到了什么，我有点想回避，但又觉得该说点什么。）\n（我想到的是父母总拿我和别人比，那种感觉特别熟悉。说出来的时候，心里有点酸，又有点无奈，好像现在还在为这些事较劲挺可笑的。）",
+        "reasoning": "（咨询师问我较劲最早从什么时候开始，这让我一下子回到了小时候。好像这个问题戳到了什么，我有点想回避，但又觉得该说点什么。）\n（我想到的是父母总拿我和别人比，那种感觉特别熟悉。说出来的时候，心里有点酸，又有点无奈，好像现在还在为这些事较劲挺可笑的。）"
+      }
+    }
+  ],
+  "created": 1794545361,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2683,
+    "total_tokens": 2784,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

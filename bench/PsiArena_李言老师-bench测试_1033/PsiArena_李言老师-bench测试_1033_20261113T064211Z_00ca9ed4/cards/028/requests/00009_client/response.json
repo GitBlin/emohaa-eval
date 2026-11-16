@@ -1,0 +1,41 @@
+{
+  "id": "7daed8c031f04171a8f212537537ef43",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过一次……去年我跟朋友出去玩，没先跟他们说。其实那几天挺开心的，但回来之后我妈冷了好几天脸，我心里又特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有哪次按自己想法做，结果没那么糟。我脑子里第一个跳出来的就是那次和朋友的旅行。其实那几天我挺开心的，可回来之后我妈那个脸色，让我觉得开心好像都是偷来的。）\n（我有点犹豫要不要说，毕竟说出来好像显得我在抱怨，又怕她觉得我小题大做。但那次确实是我少数没听他们的时候，虽然代价是后面被念了很久。也许可以提一下，看看她怎么反应。）",
+        "reasoning": "（她问我有没有哪次按自己想法做，结果没那么糟。我脑子里第一个跳出来的就是那次和朋友的旅行。其实那几天我挺开心的，可回来之后我妈那个脸色，让我觉得开心好像都是偷来的。）\n（我有点犹豫要不要说，毕竟说出来好像显得我在抱怨，又怕她觉得我小题大做。但那次确实是我少数没听他们的时候，虽然代价是后面被念了很久。也许可以提一下，看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794553340,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1718,
+    "total_tokens": 1851,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

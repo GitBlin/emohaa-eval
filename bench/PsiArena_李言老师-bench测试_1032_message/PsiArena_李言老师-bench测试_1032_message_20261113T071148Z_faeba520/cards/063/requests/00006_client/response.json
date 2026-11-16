@@ -1,0 +1,41 @@
+{
+  "id": "347ce33c7a93466691c7278c9a4635f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "焦虑，还有点发紧，越查越觉得自己笨。对了，我有点担心——你会不会把我说的这些记录给别人看？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我查手续时的感觉，没有逼我讲具体的事，好像真的在听。可我还是有点不放心，她会不会只是职业性的耐心？毕竟之前碰过壁，不想再被随便评价。）\n（现在说焦虑和发紧，应该可以吧，不算太深。顺便问问她会不会记录、会不会跟别人说，也是想看看她到底怎么对待这些事。如果她回答得含糊，我可能就不想往下说了。）",
+        "reasoning": "（她问我查手续时的感觉，没有逼我讲具体的事，好像真的在听。可我还是有点不放心，她会不会只是职业性的耐心？毕竟之前碰过壁，不想再被随便评价。）\n（现在说焦虑和发紧，应该可以吧，不算太深。顺便问问她会不会记录、会不会跟别人说，也是想看看她到底怎么对待这些事。如果她回答得含糊，我可能就不想往下说了。）"
+      }
+    }
+  ],
+  "created": 1794556793,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1390,
+    "total_tokens": 1514,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

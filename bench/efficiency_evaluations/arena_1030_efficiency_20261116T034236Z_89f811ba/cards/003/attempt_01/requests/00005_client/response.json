@@ -1,0 +1,47 @@
+{
+  "id": "11d01e8689674a19b05155e4c159ed9d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是……“是不是我这个人有问题”。说出来有点丢人，但我确实老这么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在那种时候心里冒出来的第一句话是什么……我其实很少跟别人说这些。她好像挺认真在听，不像随便问问。但一下子让我说心里话，还是有点别扭。）\n（可能是我确实有点想说了吧，憋着也难受。第一句话……大概是觉得自己是不是有问题，为什么别人都不太愿意跟我多待。说出来有点丢人，但好像也只能这么说了。）",
+        "reasoning": "（她问我在那种时候心里冒出来的第一句话是什么……我其实很少跟别人说这些。她好像挺认真在听，不像随便问问。但一下子让我说心里话，还是有点别扭。）\n（可能是我确实有点想说了吧，憋着也难受。第一句话……大概是觉得自己是不是有问题，为什么别人都不太愿意跟我多待。说出来有点丢人，但好像也只能这么说了。）"
+      }
+    }
+  ],
+  "created": 1794800579,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1333,
+    "total_tokens": 1439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

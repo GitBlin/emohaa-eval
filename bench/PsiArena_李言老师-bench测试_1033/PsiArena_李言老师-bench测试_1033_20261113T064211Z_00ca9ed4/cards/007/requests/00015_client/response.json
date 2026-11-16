@@ -1,0 +1,41 @@
+{
+  "id": "2f37f0d9e8234ad7888bd05dc0e3b167",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这么一想……好像跟高中一个同学还能聊几句。嗯，也许不全是我的问题。但宿舍这个，我还是不知道该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问是不是每群人都插不上话……这么一想，好像确实不全是我的问题。跟高中那个同学聊天还挺自然的，至少不用绷着。也许我把自己想得太糟了。）\n（不过就算知道不是每群人里都这样，现在这个宿舍还是让我很难受。总不能一直忍着，总得想个办法吧。）",
+        "reasoning": "（她问是不是每群人都插不上话……这么一想，好像确实不全是我的问题。跟高中那个同学聊天还挺自然的，至少不用绷着。也许我把自己想得太糟了。）\n（不过就算知道不是每群人里都这样，现在这个宿舍还是让我很难受。总不能一直忍着，总得想个办法吧。）"
+      }
+    }
+  ],
+  "created": 1794552394,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2327,
+    "total_tokens": 2429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

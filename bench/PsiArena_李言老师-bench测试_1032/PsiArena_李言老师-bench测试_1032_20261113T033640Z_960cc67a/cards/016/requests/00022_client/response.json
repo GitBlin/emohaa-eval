@@ -1,0 +1,41 @@
+{
+  "id": "8dff73f5bbfa4c2f84b34699dc537b10",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她爸？你是说我爸吧……嗯，我和我爸不算特别亲，很多话都绕着我妈说。也正因为这样，我才更不知道该不该直接问他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她突然问我“和她爸平时熟吗”，这个问法让我有点意外……我前面说的明明是“我爸”，她怎么会说“她爸”呢？是不是我刚才说得太绕，让她听岔了？）\n（不过现在也不是纠结这个的时候。她问我和爸爸平时熟不熟，其实是想了解我和父母关系的远近吧。我和爸爸确实不算特别亲近，但也不至于很疏远，只是很多话不会直接说。这种家庭氛围可能也让我现在更不敢开口。）",
+        "reasoning": "（她突然问我“和她爸平时熟吗”，这个问法让我有点意外……我前面说的明明是“我爸”，她怎么会说“她爸”呢？是不是我刚才说得太绕，让她听岔了？）\n（不过现在也不是纠结这个的时候。她问我和爸爸平时熟不熟，其实是想了解我和父母关系的远近吧。我和爸爸确实不算特别亲近，但也不至于很疏远，只是很多话不会直接说。这种家庭氛围可能也让我现在更不敢开口。）"
+      }
+    }
+  ],
+  "created": 1794548588,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 3030,
+    "total_tokens": 3171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

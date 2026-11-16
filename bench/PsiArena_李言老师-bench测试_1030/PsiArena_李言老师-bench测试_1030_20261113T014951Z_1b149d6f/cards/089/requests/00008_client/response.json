@@ -1,0 +1,41 @@
+{
+  "id": "ec7a1898e196402fbe5d3d4c056b8924",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）爸妈是直接替我做决定，室友是拿一套道理来压我……可说到底，都是别人觉得我该怎么活。（皱眉）这么一说，好像又有点像。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的不是我爸妈的事，而是我为什么觉得不一样。看来她一直在听我说，也在分辨我自己怎么想。我确实觉得不一样，爸妈是管我，室友是拿一套道理压我。可这么一说，好像又有点明白，那种被评判的感觉是连着的。）\n（我有点不想承认这个联系，但既然都说到这儿了，遮着也没意思。也许可以顺着讲一点，不用一下子全摊开。）",
+        "reasoning": "（她问的不是我爸妈的事，而是我为什么觉得不一样。看来她一直在听我说，也在分辨我自己怎么想。我确实觉得不一样，爸妈是管我，室友是拿一套道理压我。可这么一说，好像又有点明白，那种被评判的感觉是连着的。）\n（我有点不想承认这个联系，但既然都说到这儿了，遮着也没意思。也许可以顺着讲一点，不用一下子全摊开。）"
+      }
+    }
+  ],
+  "created": 1794539555,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1713,
+    "total_tokens": 1846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1c40818547e4441c94a7dd5851ce17e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我先下楼吧，走一走可能没那么容易一直想着手机。要是回来还是忍不住看，我也想再跟你聊聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想先下楼还是先收桌子，好像是在帮我把行动具体化。我确实需要这种具体的东西，不然一焦虑就全乱了。下楼透气可能更快让我从等待里抽离出来，收桌子虽然也能分心，但还在屋里，容易又看手机。）\n（而且我想让她知道，这次不是随便说说，我真的打算这么做。顺便也确认一下，如果我还是忍不住看手机，是不是可以回来跟她说，而不是又一个人硬扛。）",
+        "reasoning": "（她问我更想先下楼还是先收桌子，好像是在帮我把行动具体化。我确实需要这种具体的东西，不然一焦虑就全乱了。下楼透气可能更快让我从等待里抽离出来，收桌子虽然也能分心，但还在屋里，容易又看手机。）\n（而且我想让她知道，这次不是随便说说，我真的打算这么做。顺便也确认一下，如果我还是忍不住看手机，是不是可以回来跟她说，而不是又一个人硬扛。）"
+      }
+    }
+  ],
+  "created": 1794550036,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3057,
+    "total_tokens": 3183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

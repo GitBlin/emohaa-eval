@@ -1,0 +1,41 @@
+{
+  "id": "cfd1e392f6794f0cacfb50aed0b60cb9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被说吧……我妈以前总盯着我，扔点什么她都要念。现在换成我姐了。其实我也分不清，是舍不得东西，还是不想再被人说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是怕浪费，还是怕被说。这让我想起小时候，我妈总是一边收拾一边念叨，说我不会过日子。那种被盯着看的感觉，到现在都还在。我好像真的分不清，到底是东西本身重要，还是我不想再听到那些话。）\n（而且不只是我妈，我姐现在也这么说。她们说的好像都对，可我就是做不到。每次想扔点什么，手就停住了，心里堵得慌。可能我真正怕的，是她们那种失望的眼神吧。）",
+        "reasoning": "（咨询师问我是怕浪费，还是怕被说。这让我想起小时候，我妈总是一边收拾一边念叨，说我不会过日子。那种被盯着看的感觉，到现在都还在。我好像真的分不清，到底是东西本身重要，还是我不想再听到那些话。）\n（而且不只是我妈，我姐现在也这么说。她们说的好像都对，可我就是做不到。每次想扔点什么，手就停住了，心里堵得慌。可能我真正怕的，是她们那种失望的眼神吧。）"
+      }
+    }
+  ],
+  "created": 1794538536,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1937,
+    "total_tokens": 2081,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

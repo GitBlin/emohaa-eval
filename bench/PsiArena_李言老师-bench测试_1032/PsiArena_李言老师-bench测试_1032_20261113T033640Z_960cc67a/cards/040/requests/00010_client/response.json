@@ -1,0 +1,41 @@
+{
+  "id": "27e4391d722440f19d4ff937b5c8ec3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有。我试过想开口，但话到嘴边就变了味，最后变成聊工作、聊天气。我爸妈那辈从来不聊这些，我好像也没学会怎么好好说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有跟她提过真实感受……其实我试过，但每次都说不出口。家里从小就不聊这些，一开口就觉得别扭，好像示弱就是认输一样。）\n（而且……我总觉得自己要是说了，她可能反而会躲着我。那种怕失去她的感觉太强了，压过了我想表达的冲动。所以每次话到嘴边，又咽回去了。）",
+        "reasoning": "（她问我有没有跟她提过真实感受……其实我试过，但每次都说不出口。家里从小就不聊这些，一开口就觉得别扭，好像示弱就是认输一样。）\n（而且……我总觉得自己要是说了，她可能反而会躲着我。那种怕失去她的感觉太强了，压过了我想表达的冲动。所以每次话到嘴边，又咽回去了。）"
+      }
+    }
+  ],
+  "created": 1794543074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1820,
+    "total_tokens": 1942,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

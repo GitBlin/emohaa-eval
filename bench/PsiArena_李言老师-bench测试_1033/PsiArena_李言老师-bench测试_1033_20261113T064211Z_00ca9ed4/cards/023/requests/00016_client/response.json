@@ -1,0 +1,41 @@
+{
+  "id": "2ddd2080234a42f995e02d30c1fa4a1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先从相亲这件事开始。下次他们再提，我想试着自己说“这个我自己安排”。不过……我怕一开口就吵起来，你有什么办法吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先从哪件事开始拿主意。我心里其实早就有答案了，就是相亲这件事。每次他们一提，我就觉得被推着走，好像我的人生不是我的。说出来好像有点硬，但我不想再绕圈子了，得让他们知道这是我的底线。）\n（可是我又怕自己说出口后撑不住，万一他们一闹，我又缩回去了怎么办。所以我想先问问咨询师，该怎么把话说出口，既不吵起来，又能让他们听进去。）",
+        "reasoning": "（咨询师问我想先从哪件事开始拿主意。我心里其实早就有答案了，就是相亲这件事。每次他们一提，我就觉得被推着走，好像我的人生不是我的。说出来好像有点硬，但我不想再绕圈子了，得让他们知道这是我的底线。）\n（可是我又怕自己说出口后撑不住，万一他们一闹，我又缩回去了怎么办。所以我想先问问咨询师，该怎么把话说出口，既不吵起来，又能让他们听进去。）"
+      }
+    }
+  ],
+  "created": 1794553137,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2548,
+    "total_tokens": 2683,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

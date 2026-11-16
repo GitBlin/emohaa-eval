@@ -1,0 +1,41 @@
+{
+  "id": "095112a51e064534bf1fc01620b59a84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音变小）就是……我又让他不满意了。好像不管我考多少分，都不够。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（ta问的是我爸沉默时我心里最先冒出来的念头。我有点不想说，因为那个念头很丢人。但前面他都没评判我，可能说了也没事。）\n（我确实总觉得自己不够好，每次我爸不说话，我就觉得他又对我不满意了。这种感觉很熟悉，几乎成了习惯。说出来有点难堪，但也许他能帮我看看这是怎么回事。）",
+        "reasoning": "（ta问的是我爸沉默时我心里最先冒出来的念头。我有点不想说，因为那个念头很丢人。但前面他都没评判我，可能说了也没事。）\n（我确实总觉得自己不够好，每次我爸不说话，我就觉得他又对我不满意了。这种感觉很熟悉，几乎成了习惯。说出来有点难堪，但也许他能帮我看看这是怎么回事。）"
+      }
+    }
+  ],
+  "created": 1794545779,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1456,
+    "total_tokens": 1557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

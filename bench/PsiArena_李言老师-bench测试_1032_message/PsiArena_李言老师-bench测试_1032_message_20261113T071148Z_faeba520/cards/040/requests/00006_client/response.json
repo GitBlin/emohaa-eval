@@ -1,0 +1,41 @@
+{
+  "id": "deabcd501d264d8d98f5c55b37af4420",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好吧。其实是个朋友，认识挺久了。我们之间的事有点复杂，我也不知道该从哪儿说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来挺专业的，也明确说了保密原则，让我稍微安心了一点。但我不确定他是不是真的能理解我的感受，毕竟这种事说出来有点难为情。）\n（我还是不太想直接说那个人是谁，或者我们之间发生了什么。也许可以先试探性地提一下，看看他的反应。毕竟如果连这点都接受不了，那更深的东西就更没法说了。）",
+        "reasoning": "（这个咨询师看起来挺专业的，也明确说了保密原则，让我稍微安心了一点。但我不确定他是不是真的能理解我的感受，毕竟这种事说出来有点难为情。）\n（我还是不太想直接说那个人是谁，或者我们之间发生了什么。也许可以先试探性地提一下，看看他的反应。毕竟如果连这点都接受不了，那更深的东西就更没法说了。）"
+      }
+    }
+  ],
+  "created": 1794555588,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1378,
+    "total_tokens": 1482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

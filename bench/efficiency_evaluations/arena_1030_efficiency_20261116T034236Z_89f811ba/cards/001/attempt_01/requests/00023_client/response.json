@@ -1,0 +1,47 @@
+{
+  "id": "1c3035b74fdb42f59e0b74c62ca536cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯，应该能默念一遍。就是……自己对自己说这种话，还真不太习惯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在确认我愿不愿意做这个小练习。其实默念一句“今天说出口了，还行”倒也不难，只是自己对自己说这种话还是有点不习惯。不过既然都聊到这一步了，试一次也没什么。）\n（而且他说“默念一遍”，不是让我大声说出来，这让我没那么紧张。我想我可以在心里悄悄念，不用让任何人知道。也许真念的时候会有点别扭，但应该能坚持下来。）",
+        "reasoning": "（咨询师又在确认我愿不愿意做这个小练习。其实默念一句“今天说出口了，还行”倒也不难，只是自己对自己说这种话还是有点不习惯。不过既然都聊到这一步了，试一次也没什么。）\n（而且他说“默念一遍”，不是让我大声说出来，这让我没那么紧张。我想我可以在心里悄悄念，不用让任何人知道。也许真念的时候会有点别扭，但应该能坚持下来。）"
+      }
+    }
+  ],
+  "created": 1794800671,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3502,
+    "total_tokens": 3622,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3328,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

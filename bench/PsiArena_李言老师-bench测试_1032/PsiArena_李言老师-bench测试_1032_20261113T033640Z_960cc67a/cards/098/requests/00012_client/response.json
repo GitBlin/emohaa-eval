@@ -1,0 +1,41 @@
+{
+  "id": "5a1c6430c6ad4ba19025e3e58978708d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕他们说我，说我老玩手机、不学好。唉，其实我自己也知道这样不太好，可就是……停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我最担心他们来时会发生什么，这让我想到每次爸妈突然推门进来的场景。他们总是带着那种“你怎么又在玩手机”的眼神，让我觉得自己特别糟糕。）\n（其实我真正怕的是被他们发现我躲在厕所这么久，然后又要被说教。他们根本不明白我为什么需要这样，只会觉得我不听话。这种时候我就更想躲起来了。）",
+        "reasoning": "（心理咨询师问我最担心他们来时会发生什么，这让我想到每次爸妈突然推门进来的场景。他们总是带着那种“你怎么又在玩手机”的眼神，让我觉得自己特别糟糕。）\n（其实我真正怕的是被他们发现我躲在厕所这么久，然后又要被说教。他们根本不明白我为什么需要这样，只会觉得我不听话。这种时候我就更想躲起来了。）"
+      }
+    }
+  ],
+  "created": 1794546360,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1948,
+    "total_tokens": 2056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

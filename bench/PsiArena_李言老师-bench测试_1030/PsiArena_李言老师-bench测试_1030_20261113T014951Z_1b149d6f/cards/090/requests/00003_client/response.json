@@ -1,0 +1,41 @@
+{
+  "id": "0323017fbeec4de09e6511fcd7e793d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那还行吧。其实我也说不太清楚，就是最近心情一直很糟，说不上来为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说会保密，但提到人身安全风险时例外……这让我有点紧张，不知道她说的风险具体指什么。不过至少她没打算直接告诉我爸妈，稍微放心一点。）\n（但我还是不太想马上说太多，毕竟才刚开始。先随便说点表面的吧，就说最近心情不太好，但别说得太具体，看看她怎么接话。）",
+        "reasoning": "（她刚才说会保密，但提到人身安全风险时例外……这让我有点紧张，不知道她说的风险具体指什么。不过至少她没打算直接告诉我爸妈，稍微放心一点。）\n（但我还是不太想马上说太多，毕竟才刚开始。先随便说点表面的吧，就说最近心情不太好，但别说得太具体，看看她怎么接话。）"
+      }
+    }
+  ],
+  "created": 1794539773,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1039,
+    "total_tokens": 1143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

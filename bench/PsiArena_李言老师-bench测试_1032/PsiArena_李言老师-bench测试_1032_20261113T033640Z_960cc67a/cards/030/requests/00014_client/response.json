@@ -1,0 +1,41 @@
+{
+  "id": "7cd67179b145499586ab7003575f5f36",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点开心，但紧接着又觉得……是不是客套话。嗯，我爸妈以前也说过别太在意这些，所以我就更不确定了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到被夸时的感受...这让我想起小时候的事。其实每次被夸的时候，心里总是先高兴一下，紧接着就会想“是不是在敷衍我”。这种矛盾的感觉一直存在，可能和我爸妈总说“别骄傲”有关。）\n（现在想想，这种既渴望被肯定又不敢相信的心态，好像也影响到了我和对象的关系。每次他夸我，我都会下意识地怀疑他是不是真心的。）",
+        "reasoning": "（咨询师问到被夸时的感受...这让我想起小时候的事。其实每次被夸的时候，心里总是先高兴一下，紧接着就会想“是不是在敷衍我”。这种矛盾的感觉一直存在，可能和我爸妈总说“别骄傲”有关。）\n（现在想想，这种既渴望被肯定又不敢相信的心态，好像也影响到了我和对象的关系。每次他夸我，我都会下意识地怀疑他是不是真心的。）"
+      }
+    }
+  ],
+  "created": 1794549749,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2158,
+    "total_tokens": 2279,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

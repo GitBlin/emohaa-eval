@@ -1,0 +1,41 @@
+{
+  "id": "f4467696f4ed4b65b061572e464510b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "语速会变快，然后……会忍不住多解释几句，好像说多一点就能证明我靠谱。可说完又觉得更累，像在表演。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才那句话让我心里一紧，他说我把自己放回了等妈妈评价的孩子。这确实是我没意识到的，被他一说反而更难受了。我好像确实在每次咨询时都绷着，生怕说错话被来访者评判。）\n（那种被“打分”的感觉一上来，我就控制不住地想多解释、多补充，好像说少了就显得我不够专业。但越是这样，越觉得累，也越觉得自己在表演。这种状态我自己都感觉到了，可就是停不下来。）",
+        "reasoning": "（咨询师刚才那句话让我心里一紧，他说我把自己放回了等妈妈评价的孩子。这确实是我没意识到的，被他一说反而更难受了。我好像确实在每次咨询时都绷着，生怕说错话被来访者评判。）\n（那种被“打分”的感觉一上来，我就控制不住地想多解释、多补充，好像说少了就显得我不够专业。但越是这样，越觉得累，也越觉得自己在表演。这种状态我自己都感觉到了，可就是停不下来。）"
+      }
+    }
+  ],
+  "created": 1794538098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2018,
+    "total_tokens": 2161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

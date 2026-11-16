@@ -1,0 +1,41 @@
+{
+  "id": "c0cf1c5c1b404c99b5e6db33f21f7db6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……有时候自己一个人也会。比如买件衣服、发个朋友圈，都会想她会不会觉得不好。明明她不在旁边，我还是会这样。想想也挺烦的，我是不是有点太在意她的看法了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我一个人的时候是不是还紧绷着，这让我想到很多小事。比如买衣服、发朋友圈，明明没人看着，我却总在脑子里先过一遍我妈会怎么说。这种感觉很真实，也很烦人。她好像真的在听，不是敷衍我。）\n（我有点犹豫要不要说这些，听起来好像很琐碎。但也许这就是问题所在，那些小事堆在一起，让我越来越不相信自己的判断。我想试着说出来，看看她能不能理解这种连小事都做不了主的憋屈。）",
+        "reasoning": "（她问我一个人的时候是不是还紧绷着，这让我想到很多小事。比如买衣服、发朋友圈，明明没人看着，我却总在脑子里先过一遍我妈会怎么说。这种感觉很真实，也很烦人。她好像真的在听，不是敷衍我。）\n（我有点犹豫要不要说这些，听起来好像很琐碎。但也许这就是问题所在，那些小事堆在一起，让我越来越不相信自己的判断。我想试着说出来，看看她能不能理解这种连小事都做不了主的憋屈。）"
+      }
+    }
+  ],
+  "created": 1794535878,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 1931,
+    "total_tokens": 2084,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d173fd28b788439c9d723aa59a26d789",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……有一次我们聊到以后的事，他特别认真地讲他的打算，我听着听着突然就慌了，特别想逃。他那么认真，我却……唉，我是不是很奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才没有逼我讲小时候的事，还让我自己定节奏，这让我稍微松了口气。可一想到要具体说那次紧张的情形，心里又开始发紧，不知道说多少才合适。）\n（也许可以先说个大概，不用讲得太细。提到他认真说未来的样子，应该能让她明白我为什么突然紧张，但又不会一下子把过去的事全抖出来。我想试试看，她会不会接得住。）",
+        "reasoning": "（她刚才没有逼我讲小时候的事，还让我自己定节奏，这让我稍微松了口气。可一想到要具体说那次紧张的情形，心里又开始发紧，不知道说多少才合适。）\n（也许可以先说个大概，不用讲得太细。提到他认真说未来的样子，应该能让她明白我为什么突然紧张，但又不会一下子把过去的事全抖出来。我想试试看，她会不会接得住。）"
+      }
+    }
+  ],
+  "created": 1794555565,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1552,
+    "total_tokens": 1681,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "manifests": [
+    "bench/PsiArena_李言老师-bench测试_1030/PsiArena_李言老师-bench测试_1030_20261113T014951Z_1b149d6f/manifest.json",
+    "bench/PsiArena_李言老师-bench测试_1032/PsiArena_李言老师-bench测试_1032_20261113T033640Z_960cc67a/manifest.json"
+  ],
+  "plan_equal": true,
+  "shared_files": 35,
+  "hash_differences": [],
+  "extra_1032_files": [
+    "scripts/resume_liyan.py"
+  ],
+  "roles_match_except_counselor": true,
+  "settings": {
+    "temperature": [
+      0.7,
+      0.7
+    ],
+    "default_max_tokens": [
+      2048,
+      2048
+    ],
+    "client_max_tokens": [
+      8192,
+      8192
+    ],
+    "judge_max_tokens": [
+      16384,
+      16384
+    ],
+    "timeout": [
+      180.0,
+      180.0
+    ]
+  }
+}

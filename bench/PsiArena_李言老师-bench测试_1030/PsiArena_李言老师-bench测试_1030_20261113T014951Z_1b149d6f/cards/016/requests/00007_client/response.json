@@ -1,0 +1,41 @@
+{
+  "id": "47a74efd4a114a6db28b312326c86d40",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈吧，她总说家里的事别往外说，要懂事。其实……我有时候觉得，是不是我太敏感了，别人家可能也有这些事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起是谁最常提醒我顾全体面……这个问题让我一下子想到我妈。她总是说家里的事别往外说，要懂事。可我爸呢，他好像从来不在乎这些。我有点不想直接回答，怕一开口就收不住，把那些藏了很久的事都倒出来。）\n（而且她刚才说“不是你自己想太多”，这话让我心里松了一下，但又有点警惕。我是不是可以稍微试探她一下，看她会不会真的站在我这边？还是说，她只是在按流程安慰我。）",
+        "reasoning": "（她问起是谁最常提醒我顾全体面……这个问题让我一下子想到我妈。她总是说家里的事别往外说，要懂事。可我爸呢，他好像从来不在乎这些。我有点不想直接回答，怕一开口就收不住，把那些藏了很久的事都倒出来。）\n（而且她刚才说“不是你自己想太多”，这话让我心里松了一下，但又有点警惕。我是不是可以稍微试探她一下，看她会不会真的站在我这边？还是说，她只是在按流程安慰我。）"
+      }
+    }
+  ],
+  "created": 1794535468,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1575,
+    "total_tokens": 1720,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

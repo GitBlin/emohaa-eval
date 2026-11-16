@@ -1,0 +1,41 @@
+{
+  "id": "d602bb392d2a422db5efdf742503ce49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）别像平时那样骂自己吧……就当成在跟一个朋友说话。（有点不确定）我对自己好像一直都挺凶的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我用什么口吻写会比较舒服……我之前说话总是很苛刻，对自己也是。也许可以试着不那么凶，像对朋友那样？不过说实话，我对自己温柔起来有点别扭，不太习惯。）\n（但想想，写东西本来就是给自己看的，如果还是骂自己，那写了也没用。也许可以先跟自己说一句“你也不容易”，虽然有点奇怪，但总比一直指责自己好。）",
+        "reasoning": "（她问我用什么口吻写会比较舒服……我之前说话总是很苛刻，对自己也是。也许可以试着不那么凶，像对朋友那样？不过说实话，我对自己温柔起来有点别扭，不太习惯。）\n（但想想，写东西本来就是给自己看的，如果还是骂自己，那写了也没用。也许可以先跟自己说一句“你也不容易”，虽然有点奇怪，但总比一直指责自己好。）"
+      }
+    }
+  ],
+  "created": 1794555809,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3073,
+    "total_tokens": 3190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

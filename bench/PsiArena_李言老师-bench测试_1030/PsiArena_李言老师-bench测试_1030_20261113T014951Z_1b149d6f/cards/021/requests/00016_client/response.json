@@ -1,0 +1,41 @@
+{
+  "id": "dc8fad355fc14da684618a556cb2b54b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……听你这么一说，我愣了一下。好像我从来没想过这个角度，一直默认就是我的错。可她那样，可能真的只是累了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一问，我忽然有点愣住。是啊，我一直把妈妈的眼神当成自己的错，可仔细想想，她病成那样，累成那样，那眼神里可能真的不全是我的问题。但承认这个，好像又有点对不起她，心里还是拧着。）\n（不过，如果真像她说的，那不是我一个人的账，那我是不是可以换种方式对她？可我又不知道该怎么做，平时除了陪着她，好像什么也做不了。）",
+        "reasoning": "（她这么一问，我忽然有点愣住。是啊，我一直把妈妈的眼神当成自己的错，可仔细想想，她病成那样，累成那样，那眼神里可能真的不全是我的问题。但承认这个，好像又有点对不起她，心里还是拧着。）\n（不过，如果真像她说的，那不是我一个人的账，那我是不是可以换种方式对她？可我又不知道该怎么做，平时除了陪着她，好像什么也做不了。）"
+      }
+    }
+  ],
+  "created": 1794535708,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2501,
+    "total_tokens": 2629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eeb72791421d44a7824584465187c748",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先提前说，不等自己快崩了才开口。比如跟他说：“明天你下班后帮我看一小时孩子，我想安静待会儿。”这样会不会显得没那么可怜？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我打算怎么开口，这让我有点紧张，但也觉得有个具体方向了。我想试着说得简单点，不要一开口就变成抱怨或者指责，那样反而容易吵起来。）\n（也许我可以先提前跟他说好，而不是等到自己快撑不住的时候才开口。这样至少能让我感觉是在安排事情，而不是在承认自己不行。）",
+        "reasoning": "（她刚才问我打算怎么开口，这让我有点紧张，但也觉得有个具体方向了。我想试着说得简单点，不要一开口就变成抱怨或者指责，那样反而容易吵起来。）\n（也许我可以先提前跟他说好，而不是等到自己快撑不住的时候才开口。这样至少能让我感觉是在安排事情，而不是在承认自己不行。）"
+      }
+    }
+  ],
+  "created": 1794548490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3102,
+    "total_tokens": 3216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

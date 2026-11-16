@@ -1,0 +1,41 @@
+{
+  "id": "0eae511aea064e5e8eda585a53cf231c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先去洗个澡吧，热水冲一冲，脑子能空一点。洗完再随便找部剧，不让自己一直想着手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想先去洗澡还是先挑部剧看，好像是在帮我把计划落到具体的一步上。我确实需要这样具体的东西，不然脑子又会乱。洗澡还是看剧，我得选一个，不能又卡住。）\n（其实我有点想先洗澡，热水冲下来的时候，脑子会稍微空一点，不用想太多。但我也怕自己进去之后又胡思乱想，所以得给自己一个明确的限制。这样说出来，她应该能明白我不是在敷衍，是真的想试试看。）",
+        "reasoning": "（她问我更想先去洗澡还是先挑部剧看，好像是在帮我把计划落到具体的一步上。我确实需要这样具体的东西，不然脑子又会乱。洗澡还是看剧，我得选一个，不能又卡住。）\n（其实我有点想先洗澡，热水冲下来的时候，脑子会稍微空一点，不用想太多。但我也怕自己进去之后又胡思乱想，所以得给自己一个明确的限制。这样说出来，她应该能明白我不是在敷衍，是真的想试试看。）"
+      }
+    }
+  ],
+  "created": 1794545256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3237,
+    "total_tokens": 3377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

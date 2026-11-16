@@ -1,0 +1,41 @@
+{
+  "id": "5b94043b4566491a948882f727226c7c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "松是松了点，可那种“差一点”的感觉还在。其实不只是弹琴……在家里做什么决定，我都得先想我爸妈会怎么看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在肩膀是不是松了一些……其实弹琴少了，身体是没那么绷着了，但心里那种“差一点”的感觉还在。我想到家里，做什么决定都得先想父母怎么看，好像永远有个标准悬在那儿。）\n（这让我有点烦，不是对她，是对自己。明明都这么大了，还是被那套“你可以更好”绑着。我得说出来，不然她可能以为我只是弹琴才紧张。）",
+        "reasoning": "（她问我现在肩膀是不是松了一些……其实弹琴少了，身体是没那么绷着了，但心里那种“差一点”的感觉还在。我想到家里，做什么决定都得先想父母怎么看，好像永远有个标准悬在那儿。）\n（这让我有点烦，不是对她，是对自己。明明都这么大了，还是被那套“你可以更好”绑着。我得说出来，不然她可能以为我只是弹琴才紧张。）"
+      }
+    }
+  ],
+  "created": 1794544766,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1872,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

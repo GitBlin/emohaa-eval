@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:44:39.594583+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nMy best friend, John, cared a lot about the math competition. For the past two weeks, he has been studying hard at the library every day. Earlier today, our teacher asked me to go to his office and showed me the results. After seeing the results, I found that John didn't win. The teacher told me I was the only one who had seen the results and I shouldn't talk to the other students about it.\n\n## Question 1\nWhat emotion(s) would John ultimately feel in this situation?\n\n## Choices for Question 1\nA) Hopeful & Jealousy\nB) Disappointment & Oblivious\nC) Disappointment & Jealousy\nD) Nervousness & Oblivious\nE) Hopeful & Gratitude\nF) Oblivious & Hopeful\n\n## Question 2\nWhy would John feel these emotions in this situation?\n\n## Choices for Question 2\nA) His teacher praised his hard work & He realized he failed the test\nB) John studied hard for the test and is expecting to win & His teacher praised his hard work\nC) John does not know the results & John studied hard for the test and is expecting to win\nD) John studied hard for the test and is expecting to win & He realized he failed the test\nE) John does not know the results & He was told by his friends that he had won\nF) He was told by his friends that he had won & He realized he failed the test\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

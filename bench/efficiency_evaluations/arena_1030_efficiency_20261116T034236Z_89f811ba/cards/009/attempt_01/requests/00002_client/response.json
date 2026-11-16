@@ -1,0 +1,47 @@
+{
+  "id": "39e9aade70ac47b98ca2e8807c0c7e5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是第一次……说实话我有点紧张，不知道该从哪儿说起。其实也不是什么大问题，就是最近老觉得累，心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了谈话的方式，说节奏由我定，不舒服可以停下来。听起来好像挺温和的，但我不确定是不是真的能这么自由。毕竟平时跟人说话，我总得先想想对方会怎么想……现在突然说可以按我的节奏来，反而有点不习惯。）\n（作为第一次接触这种谈话的人，我其实有点紧张，不知道该说什么。而且我总担心说错话，或者让咨询师觉得我麻烦。不过他说不用准备什么，那……我就先随便说点表面的吧，别一下子暴露太多。）",
+        "reasoning": "（刚才咨询师解释了谈话的方式，说节奏由我定，不舒服可以停下来。听起来好像挺温和的，但我不确定是不是真的能这么自由。毕竟平时跟人说话，我总得先想想对方会怎么想……现在突然说可以按我的节奏来，反而有点不习惯。）\n（作为第一次接触这种谈话的人，我其实有点紧张，不知道该说什么。而且我总担心说错话，或者让咨询师觉得我麻烦。不过他说不用准备什么，那……我就先随便说点表面的吧，别一下子暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794800811,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 966,
+    "total_tokens": 1114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

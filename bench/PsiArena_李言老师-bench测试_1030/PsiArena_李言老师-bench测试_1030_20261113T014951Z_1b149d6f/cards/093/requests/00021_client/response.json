@@ -1,0 +1,41 @@
+{
+  "id": "e148a78ebd914f4fbbdb7265ad141463",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是先追问吧，我妈肯定受不了“还没想清楚”这种话。不过……真要说的话，我可能得先想好一句能重复的话，不然被追两句我就又缩回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想怎么开口，还问我会不会先失望还是先追问。我其实心里清楚，我妈肯定先追问，她受不了\"没想清楚\"这种话。但奇怪的是，想到这个我反而没那么慌了，因为至少我能预料到她的反应。也许我可以试着先说一句，看看会怎样，不行再退回来。）\n（不过我还是有点担心，万一他们追问下去，我又撑不住怎么办。也许得给自己留个后路，比如说完就走开，或者提前想好一句能重复的话。先试试看吧，总比一直闷着强。）",
+        "reasoning": "（咨询师在帮我想怎么开口，还问我会不会先失望还是先追问。我其实心里清楚，我妈肯定先追问，她受不了\"没想清楚\"这种话。但奇怪的是，想到这个我反而没那么慌了，因为至少我能预料到她的反应。也许我可以试着先说一句，看看会怎样，不行再退回来。）\n（不过我还是有点担心，万一他们追问下去，我又撑不住怎么办。也许得给自己留个后路，比如说完就走开，或者提前想好一句能重复的话。先试试看吧，总比一直闷着强。）"
+      }
+    }
+  ],
+  "created": 1794539984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 3049,
+    "total_tokens": 3216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

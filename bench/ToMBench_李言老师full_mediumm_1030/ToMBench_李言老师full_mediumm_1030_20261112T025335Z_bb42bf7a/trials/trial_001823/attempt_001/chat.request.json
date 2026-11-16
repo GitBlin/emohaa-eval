@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:56:11.180679+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMom finds that her daughter, Xiaohua, often uses her cosmetics as toys. To protect her valuable items, mom decides to persuade Xiaohua to stop this behavior.\n\n[Question]\nHow does mom persuade Xiaohua?\n\n[Candidate Answers]\nA. She sets a specific place for Xiaohua's toys and tells her that there are things she can play with there.\nB. She explains to Xiaohua that cosmetics are very expensive and may be wasted if not careful.\nC. She lets Xiaohua know that mom is willing to share many things with her, but some things need to be treasured alone.\nD. She explains to Xiaohua that cosmetics may contain ingredients that are not suitable for children.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

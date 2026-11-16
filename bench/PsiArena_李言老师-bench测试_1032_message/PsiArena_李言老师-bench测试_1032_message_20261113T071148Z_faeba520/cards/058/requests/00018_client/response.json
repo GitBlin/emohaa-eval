@@ -1,0 +1,41 @@
+{
+  "id": "cc59a600d1424cf499af0b2f61958c31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最难的是……问完等着听答案那几秒吧，心里会发慌，怕听到不好的。不过要是提前跟自己说一句“这只是工作上的事”，会不会好一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最难的是哪一步……我想想，开口问本身可能不是最难的，难的是问完之后，对方要是真的说出哪里不好，我能不能稳住自己。我怕自己又陷进去，把一句普通的建议当成否定。但要是能提醒自己，这只是讨论工作，不是评价我这个人，也许就没那么可怕了。）\n（嗯，这样说出来应该可以吧，既回答了问题，也把心里那点担心讲出来了。）",
+        "reasoning": "（咨询师问我最难的是哪一步……我想想，开口问本身可能不是最难的，难的是问完之后，对方要是真的说出哪里不好，我能不能稳住自己。我怕自己又陷进去，把一句普通的建议当成否定。但要是能提醒自己，这只是讨论工作，不是评价我这个人，也许就没那么可怕了。）\n（嗯，这样说出来应该可以吧，既回答了问题，也把心里那点担心讲出来了。）"
+      }
+    }
+  ],
+  "created": 1794556564,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2623,
+    "total_tokens": 2756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

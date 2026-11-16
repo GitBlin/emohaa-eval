@@ -1,0 +1,41 @@
+{
+  "id": "1f936bdf53ca4f69a43b6dbdfade51c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……也许不要一上来就说他爸妈，先说我自己吧。就说我最近很累，有些事想跟他一起商量。（停顿）可我又怕，光说累，他根本听不出我想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我怎么说才能让丈夫听进去，我脑子里马上想到的是，这话不能说得太冲，不然他又会缩回去。可要是不说清楚，我又怕自己憋着憋着又咽回去了。）\n（我在想，也许可以先从“我最近很累”说起，而不是一开口就怪他爸妈。这样他应该不会立刻防备。但我又有点不确定，光说累，他真的能懂我想要什么吗？）",
+        "reasoning": "（他问我怎么说才能让丈夫听进去，我脑子里马上想到的是，这话不能说得太冲，不然他又会缩回去。可要是不说清楚，我又怕自己憋着憋着又咽回去了。）\n（我在想，也许可以先从“我最近很累”说起，而不是一开口就怪他爸妈。这样他应该不会立刻防备。但我又有点不确定，光说累，他真的能懂我想要什么吗？）"
+      }
+    }
+  ],
+  "created": 1794554862,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2546,
+    "total_tokens": 2684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

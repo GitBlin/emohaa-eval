@@ -1,0 +1,41 @@
+{
+  "id": "f376575c2fec4e87b6f9f6c2c8e64c10",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上关灯以后吧……有时候会突然特别难受。但我又觉得，说出来好像也没什么用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才很直白地说了咨询外可以找她，也划了紧急情况的线，没有因为我试探就含糊答应，这让我稍微安心一点。但我还是不确定她会不会真的理解我，毕竟我连自己都说不清楚。）\n（晚上关灯以后最难熬，那些念头总是一遍遍回来，可要我说具体在难受什么，我又觉得说不出口。也许先只说这个时间点就够了，别的等以后再说吧。）",
+        "reasoning": "（她刚才很直白地说了咨询外可以找她，也划了紧急情况的线，没有因为我试探就含糊答应，这让我稍微安心一点。但我还是不确定她会不会真的理解我，毕竟我连自己都说不清楚。）\n（晚上关灯以后最难熬，那些念头总是一遍遍回来，可要我说具体在难受什么，我又觉得说不出口。也许先只说这个时间点就够了，别的等以后再说吧。）"
+      }
+    }
+  ],
+  "created": 1794544931,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1414,
+    "total_tokens": 1531,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

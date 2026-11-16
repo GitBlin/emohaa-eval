@@ -1,0 +1,41 @@
+{
+  "id": "9e7f12ba9dbf465984746a6c5480c750",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……确实没有。不做的时候反而更难受，心里空落落的，还老想着“我是不是又浪费了”。好像怎么都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这句话问得挺准的，我确实没轻松多少。不做的时候反而更难受，脑子里翻来覆去地想着那些没做的事，越想越觉得自己没用。这种感觉好像比真的去做了还累。）\n（也许可以试着想想，如果真去做一件很小的事，会是什么样。不用一开始就很大，就是那种失败了也不至于被看穿的事。这样想好像没那么可怕。）",
+        "reasoning": "（他这句话问得挺准的，我确实没轻松多少。不做的时候反而更难受，脑子里翻来覆去地想着那些没做的事，越想越觉得自己没用。这种感觉好像比真的去做了还累。）\n（也许可以试着想想，如果真去做一件很小的事，会是什么样。不用一开始就很大，就是那种失败了也不至于被看穿的事。这样想好像没那么可怕。）"
+      }
+    }
+  ],
+  "created": 1794539313,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2668,
+    "total_tokens": 2785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:57:31.574387+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ming, Xiao Li, and Xiao Zhang are elementary school students, they often play games together after school. This day, while they are playing on the swing, Xiao Ming sneakily glances at a big apple tree not far from his home. He gives Xiao Li and Xiao Zhang each a candy, then points at the apples on the tree, shows a smile, and turns his head to look at Xiao Li and Xiao Zhang. Xiao Li and Xiao Zhang, upon hearing this, look at the big apple tree, then look at each other and nod.\n\n[Question]\nWhat do you think Xiao Li and Xiao Zhang are thinking?\n\n[Candidate Answers]\nA. Xiao Li and Xiao Zhang want to go to Xiao Ming's house to play.\nB. Xiao Zhang and Xiao Li are about to set off to help Xiao Ming work.\nC. Xiao Li and Xiao Zhang want to eat the apples right away.\nD. Xiao Zhang and Xiao Li do not understand what Xiao Ming wants to do.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

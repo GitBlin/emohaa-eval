@@ -1,0 +1,41 @@
+{
+  "id": "a1560a5c61d3494e983b6135b7619cbd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想让她知道……我其实没那么坚强。我一直表现得挺懂事的，可我也会累，会想有人靠着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想让妈妈知道什么……这个问题让我有点措手不及。我从来没想过可以这样直接表达，好像一直在等别人来问，又怕被问。）\n（其实我心里很清楚，就是想让妈妈知道我也会累，不是永远都能自己扛。可说出来又觉得矫情，好像在她眼里我一直是个懂事的孩子，不该有这些情绪。这种矛盾让我有点想躲，但又觉得她问得很认真。）",
+        "reasoning": "（她问我最想让妈妈知道什么……这个问题让我有点措手不及。我从来没想过可以这样直接表达，好像一直在等别人来问，又怕被问。）\n（其实我心里很清楚，就是想让妈妈知道我也会累，不是永远都能自己扛。可说出来又觉得矫情，好像在她眼里我一直是个懂事的孩子，不该有这些情绪。这种矛盾让我有点想躲，但又觉得她问得很认真。）"
+      }
+    }
+  ],
+  "created": 1794537815,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1985,
+    "total_tokens": 2099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

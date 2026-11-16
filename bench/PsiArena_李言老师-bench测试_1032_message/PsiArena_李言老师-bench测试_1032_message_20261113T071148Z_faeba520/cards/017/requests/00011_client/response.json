@@ -1,0 +1,41 @@
+{
+  "id": "c599dd42a1484c06ad4a62a3fbd5635d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小听多了吧。女孩子要顾家、要传宗接代，做不到就是我不够好。我知道这么想不对，可就是……改不掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个“欠”字是从哪儿来的……其实我自己也说不清。从小家里就念叨，女孩子要把家顾好，我好像早就把这些话刻进骨头里了。现在想想，挺累的。）\n（可我又怕说这些显得在怪父母，他们也不容易。但确实，我好像一直在按他们的标准活，连生孩子这件事都觉得是在还债。）",
+        "reasoning": "（她问这个“欠”字是从哪儿来的……其实我自己也说不清。从小家里就念叨，女孩子要把家顾好，我好像早就把这些话刻进骨头里了。现在想想，挺累的。）\n（可我又怕说这些显得在怪父母，他们也不容易。但确实，我好像一直在按他们的标准活，连生孩子这件事都觉得是在还债。）"
+      }
+    }
+  ],
+  "created": 1794554673,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1777,
+    "total_tokens": 1893,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

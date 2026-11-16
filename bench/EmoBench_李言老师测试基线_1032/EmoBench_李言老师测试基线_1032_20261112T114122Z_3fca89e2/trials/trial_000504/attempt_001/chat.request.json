@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:42:29.138862+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nJacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it.\n\n## Question \nIn this scenario, what is the most effective Action for Jacob?\n\n## Choices\nA) Talk to friends or relatives to ease his worries\nB) Try to calm down, perhaps go for a short walk or meditate\nC) Prepare ahead of time so he has everything he needs available\nD) Accept that things aren't going to be perfect\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

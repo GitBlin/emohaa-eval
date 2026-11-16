@@ -1,0 +1,41 @@
+{
+  "id": "07a95d1577da4aed99a3a05fc5c856f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候会忍不住看手机……想给他发消息。（有点难堪）明知道说了也没用。（停顿）也有时候就硬扛着，看看书，或者早点睡。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问起夜里一个人怎么熬过去，我一下子想到那些翻来覆去的晚上。手机就在手边，有时候真的忍不住想给他发消息，哪怕明知道结果还是吵，还是难受。可这话说出来，好像显得自己很没骨气，很矛盾。）\n（又想到还有别的时候，我其实会试着做点别的，比如看看书，或者干脆早点躺下，不让自己一直想。只是不太确定这些算不算真的有用，还是只是在躲着。）",
+        "reasoning": "（他问起夜里一个人怎么熬过去，我一下子想到那些翻来覆去的晚上。手机就在手边，有时候真的忍不住想给他发消息，哪怕明知道结果还是吵，还是难受。可这话说出来，好像显得自己很没骨气，很矛盾。）\n（又想到还有别的时候，我其实会试着做点别的，比如看看书，或者干脆早点躺下，不让自己一直想。只是不太确定这些算不算真的有用，还是只是在躲着。）"
+      }
+    }
+  ],
+  "created": 1794554566,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2786,
+    "total_tokens": 2927,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

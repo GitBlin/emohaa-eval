@@ -1,0 +1,41 @@
+{
+  "id": "b22b968ae2524c71b9379563a215bb72",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，就一句“试过了”。说实话，今晚到底能不能少喝，我还是没底，但至少知道该先做什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他说“明早一句试过了就行”，不催我、不逼我，这让我心里松了点。以前总怕做不到就被否定，现在他这么讲，我倒愿意去试。今晚要做的其实就是两件小事，免打扰和写纸条，没那么吓人。）\n（不过酒我还是没底，得把话说前头，免得他以为我今晚就能戒掉。我这种老毛病，不是一天两天的事，得慢慢来。）",
+        "reasoning": "（他说“明早一句试过了就行”，不催我、不逼我，这让我心里松了点。以前总怕做不到就被否定，现在他这么讲，我倒愿意去试。今晚要做的其实就是两件小事，免打扰和写纸条，没那么吓人。）\n（不过酒我还是没底，得把话说前头，免得他以为我今晚就能戒掉。我这种老毛病，不是一天两天的事，得慢慢来。）"
+      }
+    }
+  ],
+  "created": 1794536656,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3479,
+    "total_tokens": 3604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

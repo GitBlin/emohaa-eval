@@ -1,0 +1,41 @@
+{
+  "id": "185f6d02aa974d1db015ae5a1f6656bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱着眉想了会儿）说不好……我爸妈嘴上说的是成绩重要，别分心。可他们跟朋友聊天那个样子，又很自然，很熟络。我就……有点乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这个“够格”的标准最初是从谁那儿来的，这让我一下子想到家里。爸妈嘴上说成绩重要，可他们的眼神和那些“别人家孩子”的比较，早就刻在我心里了。我其实不太想直接怪他们，毕竟他们也是为我好，但那种压力确实一直都在。）\n（不过除了家里，学校好像也在推着这个标准。身边同学都在拼，我不自觉就拿来跟自己比。这种感觉很矛盾，既知道不该只盯着成绩，又觉得放松一点就是错。说出来有点乱，但大概就是这样。）",
+        "reasoning": "（咨询师问我这个“够格”的标准最初是从谁那儿来的，这让我一下子想到家里。爸妈嘴上说成绩重要，可他们的眼神和那些“别人家孩子”的比较，早就刻在我心里了。我其实不太想直接怪他们，毕竟他们也是为我好，但那种压力确实一直都在。）\n（不过除了家里，学校好像也在推着这个标准。身边同学都在拼，我不自觉就拿来跟自己比。这种感觉很矛盾，既知道不该只盯着成绩，又觉得放松一点就是错。说出来有点乱，但大概就是这样。）"
+      }
+    }
+  ],
+  "created": 1794534641,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 2049,
+    "total_tokens": 2209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

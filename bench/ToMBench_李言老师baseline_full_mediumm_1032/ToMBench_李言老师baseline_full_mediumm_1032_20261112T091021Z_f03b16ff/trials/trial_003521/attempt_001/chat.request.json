@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T10:04:21.504903+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Ting thinks she is an experienced gardener, she sees her neighbor Zhang Hua uses what she considers to be inefficient and outdated gardening techniques in the garden.\n\n[Question]\nLi Ting initially looks down on Zhang Hua's gardening techniques, why does she later feel proud?\n\n[Candidate Answers]\nA. Li Ting learns that Zhang Hua's gardening techniques are actually more environmentally friendly, this makes her feel proud of his methods.\nB. Li Ting finds out that Zhang Hua's garden wins the first prize in the community gardening competition, this makes her feel proud.\nC. Zhang Hua is Li Ting's student, his techniques are traditional, but Li Ting later finds out they are beneficial for garden growth.\nD. Li Ting realizes that Zhang Hua's techniques are actually what she once teaches him, this makes her feel proud.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

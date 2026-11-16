@@ -1,0 +1,41 @@
+{
+  "id": "b4123c77b97642ee9e6bca02305a6301",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大多一个人走。偶尔碰到熟人也就点个头，不太想多聊。其实……也不是完全不想，就是不知道聊什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是走操场时是一个人还是碰到人，看来是想了解我有没有能放松的社交空间，或者有没有能说上话的人。这个问题让我有点矛盾，一个人走确实自在，但也会觉得孤单。我其实不太想显得自己完全没朋友，可又确实没什么能聊这些的人。还是先承认一个人走吧，这样比较真实。）\n（不过光说一个人走好像太消极了，得补充一下其实也不是完全不想跟人接触。这样既回答了问题，又不会让咨询师觉得我太封闭。）",
+        "reasoning": "（咨询师问的是走操场时是一个人还是碰到人，看来是想了解我有没有能放松的社交空间，或者有没有能说上话的人。这个问题让我有点矛盾，一个人走确实自在，但也会觉得孤单。我其实不太想显得自己完全没朋友，可又确实没什么能聊这些的人。还是先承认一个人走吧，这样比较真实。）\n（不过光说一个人走好像太消极了，得补充一下其实也不是完全不想跟人接触。这样既回答了问题，又不会让咨询师觉得我太封闭。）"
+      }
+    }
+  ],
+  "created": 1794535093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2710,
+    "total_tokens": 2852,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

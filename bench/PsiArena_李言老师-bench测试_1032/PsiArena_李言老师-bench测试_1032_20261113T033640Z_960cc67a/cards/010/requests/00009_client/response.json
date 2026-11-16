@@ -1,0 +1,41 @@
+{
+  "id": "c9716942f7d442ddbfaedceaa6a4d24e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……好像更怕自己真的信了他的话。我爸妈老拿我跟别人比，我本来就老觉得自己不够好，他再这么说，我居然会想“是不是我真不行”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更担心什么，是在帮我区分不舒服的具体来源。我确实没细想过这个，但那种被压着的感觉很真实。）\n（我想到爸妈总拿我和别人比，可能让我对这种事特别敏感。同学那种自贬又享受安慰的样子，让我觉得自己认真努力反而像个傻子。）",
+        "reasoning": "（咨询师在问我更担心什么，是在帮我区分不舒服的具体来源。我确实没细想过这个，但那种被压着的感觉很真实。）\n（我想到爸妈总拿我和别人比，可能让我对这种事特别敏感。同学那种自贬又享受安慰的样子，让我觉得自己认真努力反而像个傻子。）"
+      }
+    }
+  ],
+  "created": 1794548317,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1659,
+    "total_tokens": 1766,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

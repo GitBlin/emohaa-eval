@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:30:18.058274+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nTeacher Lin notices that the excellent student Wang Lei's grades are slipping recently. He finds out that Wang Lei practices for a music competition until late at night. Teacher Lin decides to persuade Wang Lei, telling him about the importance of balance.\n\n[Question]\nHow does Teacher Lin persuade Wang Lei?\n\n[Candidate Answers]\nA. Teacher Lin shares other students' cases, telling Wang Lei how to maintain his studies while pursuing his dreams.\nB. Teacher Lin says that he fully supports Wang Lei's decision, but hopes that he makes a wise choice.\nC. Teacher Lin can share his own experience, telling Wang Lei about the consequences of excessive effort in the past.\nD. Teacher Lin arranges a time management course for Wang Lei, helping him to better balance his studies and interests.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

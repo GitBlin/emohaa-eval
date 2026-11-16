@@ -1,0 +1,41 @@
+{
+  "id": "bbfcb2eea57642aba8e4af45b6229a33",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我猜他可能会说我想太多，或者又沉默。但……也许我该试试，别一上来就说那么重的，先问问他最近是不是真的很忙。这样是不是好一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我他会怎么反应……说实话我脑子里第一个画面就是他沉默，然后说我想多了。但也许，也许他不会像我想的那样。我其实从来没真的试过好好说，都是憋着或者发朋友圈。）\n（现在想想，也许我可以换个说法，别一上来就那么重。先问问他最近是不是真的忙，也让他知道我不是在闹。这样就算他忙，至少能回我一句，我也不用一直猜。）",
+        "reasoning": "（他问我他会怎么反应……说实话我脑子里第一个画面就是他沉默，然后说我想多了。但也许，也许他不会像我想的那样。我其实从来没真的试过好好说，都是憋着或者发朋友圈。）\n（现在想想，也许我可以换个说法，别一上来就那么重。先问问他最近是不是真的忙，也让他知道我不是在闹。这样就算他忙，至少能回我一句，我也不用一直猜。）"
+      }
+    }
+  ],
+  "created": 1794555289,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2434,
+    "total_tokens": 2566,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

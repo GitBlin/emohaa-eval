@@ -1,0 +1,41 @@
+{
+  "id": "caf8721eb6d34873a2ec4cf8f0a9ff90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就忍着，不说了。说了也没用，还可能被说想太多。小时候爸妈分开那阵，我也是这样，什么都不说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么应对家里的那些话……其实我一直都是忍着，习惯了。但这样忍着，好像也没让事情变好，反而更难受了。）\n（我想到小时候爸妈分开那阵，家里气氛很紧张，我更不敢说什么了。那时候朋友就是我唯一的出口，所以现在才会这么怕被丢下吧。）",
+        "reasoning": "（她问我怎么应对家里的那些话……其实我一直都是忍着，习惯了。但这样忍着，好像也没让事情变好，反而更难受了。）\n（我想到小时候爸妈分开那阵，家里气氛很紧张，我更不敢说什么了。那时候朋友就是我唯一的出口，所以现在才会这么怕被丢下吧。）"
+      }
+    }
+  ],
+  "created": 1794553941,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1644,
+    "total_tokens": 1743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "004919be2d5645489f41a221de2ff4bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）我大概会觉得自己没用吧……（想了想）不过，也许可以跟自己说，下次再试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问如果明天没开口我会怎么对自己说。这让我有点为难，因为平时我总觉得自己不够好，做不好事情就会怪自己。可老师这么问，好像是在让我别太苛责自己。）\n（我想了想，也许可以试试不骂自己，就说下次再试试。这样说出来心里没那么沉重，好像给自己留了条路。）",
+        "reasoning": "（咨询师在问如果明天没开口我会怎么对自己说。这让我有点为难，因为平时我总觉得自己不够好，做不好事情就会怪自己。可老师这么问，好像是在让我别太苛责自己。）\n（我想了想，也许可以试试不骂自己，就说下次再试试。这样说出来心里没那么沉重，好像给自己留了条路。）"
+      }
+    }
+  ],
+  "created": 1794554157,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2830,
+    "total_tokens": 2934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

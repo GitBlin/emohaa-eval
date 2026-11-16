@@ -1,0 +1,41 @@
+{
+  "id": "42995b4951d647bb9cd097965fdf53d0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试过听点声音，或者起来喝口热水。有时候管用，有时候……脑子还是停不下来。这样的小办法，真的有用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我晚上回想涌上来时有没有分神的办法，看来是想让我找到一些自己能做的小行动。我确实想改变，可又怕自己做不到，心里那个自我怀疑的声音又冒出来了。不过，既然想试试，不如说个实际点的，比如起来喝点热水、听听声音，这些也许能打断那种反复想的状态。）\n（但我得先确认这办法是不是真的有用，不然又成了空想。而且我总觉得自己没资格被帮，说这些的时候心里还是有点打鼓，怕说出来显得太简单，可又确实想抓住点什么。）",
+        "reasoning": "（咨询师在问我晚上回想涌上来时有没有分神的办法，看来是想让我找到一些自己能做的小行动。我确实想改变，可又怕自己做不到，心里那个自我怀疑的声音又冒出来了。不过，既然想试试，不如说个实际点的，比如起来喝点热水、听听声音，这些也许能打断那种反复想的状态。）\n（但我得先确认这办法是不是真的有用，不然又成了空想。而且我总觉得自己没资格被帮，说这些的时候心里还是有点打鼓，怕说出来显得太简单，可又确实想抓住点什么。）"
+      }
+    }
+  ],
+  "created": 1794557376,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2569,
+    "total_tokens": 2726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

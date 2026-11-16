@@ -1,0 +1,41 @@
+{
+  "id": "514000448d074342888fda9d48a88788",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "二十分钟吧，半小时我怕自己熬不住。我就去写会儿题，或者听歌，反正别一直看手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我具体的方法，让我定一个等待窗口。这听起来挺实际的，但我心里还是有点没底。半小时会不会太长了？万一他很快就回了呢，或者一直不回，我可能连二十分钟都熬不住。）\n（不过，如果时间定短一点，我至少能更容易做到。二十分钟好像还能接受，做点别的事分散一下注意力，应该不会太难熬。先试试看吧，总比一直盯着手机强。）",
+        "reasoning": "（咨询师在教我具体的方法，让我定一个等待窗口。这听起来挺实际的，但我心里还是有点没底。半小时会不会太长了？万一他很快就回了呢，或者一直不回，我可能连二十分钟都熬不住。）\n（不过，如果时间定短一点，我至少能更容易做到。二十分钟好像还能接受，做点别的事分散一下注意力，应该不会太难熬。先试试看吧，总比一直盯着手机强。）"
+      }
+    }
+  ],
+  "created": 1794551653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2930,
+    "total_tokens": 3054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

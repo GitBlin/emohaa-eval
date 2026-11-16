@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:57.059899+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n佩里最近发现自己患有一种不可治愈的疾病，长期来看会让他身体衰弱。他正在挣扎着如何把这个消息告诉他的妻子。\n\n## 问题\n在这个场景中，佩里最有效的Action是什么？\n\n## 选项\nA) 保守这个秘密，因为他知道这会伤害他的妻子\nB) 立即告诉妻子，不考虑她的感受\nC) 提出离婚，这样她就不必承受这种痛苦\nD) 找一个合适的时机，深入讨论这个问题\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

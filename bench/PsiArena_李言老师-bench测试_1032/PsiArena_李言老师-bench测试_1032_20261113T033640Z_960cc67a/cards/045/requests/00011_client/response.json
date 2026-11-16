@@ -1,0 +1,41 @@
+{
+  "id": "cbef73c173484403b4e0ada21fd7a36e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像……真没怎么留过。下班回家也就是改作业、备第二天的课，忙完就睡。可最近连这些都有点做不进去，我是不是把太多东西都压在这上面了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我平时怎么给自己留空间……可我真的没想过这个问题。从小家里就讲究规矩，连情绪都要按对错来，我哪敢给自己留什么空间。她这么一问，我反而更清楚地看到自己一直在硬撑。）\n（可是现在这种状态，连工作都受影响，我是不是真的把太多东西都压在这段咨询关系上了？说出来有点难为情，但好像确实是这样。）",
+        "reasoning": "（她问我平时怎么给自己留空间……可我真的没想过这个问题。从小家里就讲究规矩，连情绪都要按对错来，我哪敢给自己留什么空间。她这么一问，我反而更清楚地看到自己一直在硬撑。）\n（可是现在这种状态，连工作都受影响，我是不是真的把太多东西都压在这段咨询关系上了？说出来有点难为情，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794550539,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1896,
+    "total_tokens": 2031,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

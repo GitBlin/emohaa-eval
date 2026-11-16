@@ -1,0 +1,41 @@
+{
+  "id": "6b54cb4031b2474bba3724cb63685b57",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟我男朋友有关吧……但不是他做了什么不好的事，他人很好。就是有些话，我一直没敢跟他说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是某个人让我不安，还是最近发生了什么事。我其实心里很清楚，是男朋友，但直接说出来好像太快了，我还需要一点时间。毕竟我们才刚开始聊，我还没完全信任他。）\n（不过既然他这么问了，我可以用模糊一点的方式回应，让他知道大概方向，但又不用把细节全盘托出。就说跟男朋友有关，但还没准备好细讲，这样既回答了问题，又保持了距离。）",
+        "reasoning": "（咨询师问我是某个人让我不安，还是最近发生了什么事。我其实心里很清楚，是男朋友，但直接说出来好像太快了，我还需要一点时间。毕竟我们才刚开始聊，我还没完全信任他。）\n（不过既然他这么问了，我可以用模糊一点的方式回应，让他知道大概方向，但又不用把细节全盘托出。就说跟男朋友有关，但还没准备好细讲，这样既回答了问题，又保持了距离。）"
+      }
+    }
+  ],
+  "created": 1794542958,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1522,
+    "total_tokens": 1643,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

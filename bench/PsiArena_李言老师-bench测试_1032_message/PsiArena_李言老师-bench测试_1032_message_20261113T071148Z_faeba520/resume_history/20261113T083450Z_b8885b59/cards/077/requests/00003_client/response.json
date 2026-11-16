@@ -1,0 +1,41 @@
+{
+  "id": "0d7ad66502004628b3eb7c5ca9ad7d13",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一阵了吧……几个星期，也可能更久，我自己也说不清。反正就是上班的时候特别明显，一想到要去医院就发怵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我持续多久了……这个问题让我有点不知道怎么回答。说长不长说短不短，但我不想一上来就说得太严重，好像显得我很脆弱似的。）\n（也许可以含糊一点带过去，就说几个月吧，然后赶紧把话题转到工作上去。毕竟工作的事说起来更“正当”一些，总比承认自己情绪出问题要容易开口。）",
+        "reasoning": "（他问我持续多久了……这个问题让我有点不知道怎么回答。说长不长说短不短，但我不想一上来就说得太严重，好像显得我很脆弱似的。）\n（也许可以含糊一点带过去，就说几个月吧，然后赶紧把话题转到工作上去。毕竟工作的事说起来更“正当”一些，总比承认自己情绪出问题要容易开口。）"
+      }
+    }
+  ],
+  "created": 1794557554,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1052,
+    "total_tokens": 1162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

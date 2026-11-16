@@ -1,0 +1,41 @@
+{
+  "id": "09dec75642a044088078f674cdfd527d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "放下手机我试过，但一放下就开始想事情……听点轻音乐倒是没试过。不过我有点担心，万一试了没用，是不是又说明我连休息都做不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我睡前有没有能放松的小动作，看来是想帮我在睡前找一点改变的空间。以前我根本没想过这些，总觉得睡不着就是自己不够自律。）\n（不过现在想想，也许真可以试试放下手机，或者听点轻音乐。但我马上又担心，万一试了没用，是不是又证明我连休息都做不好。这种想法一冒出来，我自己都觉得有点可笑。）",
+        "reasoning": "（咨询师在问我睡前有没有能放松的小动作，看来是想帮我在睡前找一点改变的空间。以前我根本没想过这些，总觉得睡不着就是自己不够自律。）\n（不过现在想想，也许真可以试试放下手机，或者听点轻音乐。但我马上又担心，万一试了没用，是不是又证明我连休息都做不好。这种想法一冒出来，我自己都觉得有点可笑。）"
+      }
+    }
+  ],
+  "created": 1794558384,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2429,
+    "total_tokens": 2556,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

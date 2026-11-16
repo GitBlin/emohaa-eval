@@ -1,0 +1,41 @@
+{
+  "id": "88bb7a56cf2d4d29a2cc00e4fe830d4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就说“姑姑，我最近老睡不好，心里有点烦”。先这句吧，别的……看情况再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她帮我把时间都想好了，还问我第一句话怎么说。这让我有点安心，又有点紧张。说实话，真到了那一刻，我可能还是会不知道从哪开口。）\n（不过如果只是说最近睡不好，应该没那么难。这句话我平时也能说出口，不像说那些心里的事那么重。先从这个开始，也许姑姑会接着问下去。）",
+        "reasoning": "（她帮我把时间都想好了，还问我第一句话怎么说。这让我有点安心，又有点紧张。说实话，真到了那一刻，我可能还是会不知道从哪开口。）\n（不过如果只是说最近睡不好，应该没那么难。这句话我平时也能说出口，不像说那些心里的事那么重。先从这个开始，也许姑姑会接着问下去。）"
+      }
+    }
+  ],
+  "created": 1794556690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3203,
+    "total_tokens": 3308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

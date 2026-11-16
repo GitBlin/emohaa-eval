@@ -1,0 +1,41 @@
+{
+  "id": "bebd7d89de294ac4ac058447bd97ee3e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是……我老公吧。虽然他说过那种话，但有时候也会问我累不累。我想试着跟他说，可又怕一开口就变成吵架。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我向信任的人开口求助，这让我想到我老公。虽然他有时候说话让我委屈，但至少他是我最亲近的人。不过直接说“撑不住”会不会显得太脆弱了？）\n（也许可以试着用更简单的方式表达，比如直接让他帮忙看会儿孩子。但万一他觉得我连这点事都做不好怎么办……还是先试试看吧，总比一直憋着强。）",
+        "reasoning": "（咨询师建议我向信任的人开口求助，这让我想到我老公。虽然他有时候说话让我委屈，但至少他是我最亲近的人。不过直接说“撑不住”会不会显得太脆弱了？）\n（也许可以试着用更简单的方式表达，比如直接让他帮忙看会儿孩子。但万一他觉得我连这点事都做不好怎么办……还是先试试看吧，总比一直憋着强。）"
+      }
+    }
+  ],
+  "created": 1794548463,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2492,
+    "total_tokens": 2616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:56:47.286264+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZheming and Lanlan are a couple, they take care of grandfather. Grandfather just comes out of the hospital, he needs 24-hour care. The whole family eats dinner, the atmosphere is quite heavy. Zheming suddenly looks at Lanlan who holds the grandfather's health check report while eating, Lanlan sees the tension in Zheming's eyes. Lanlan does not speak, but her expression obviously becomes serious. Zheming realizes that grandfather is watching them, instantly changes his expression, Zheming smiles at grandfather, then starts to speak.\n\n[Question]\nWhy does Zheming smile at grandfather and start to speak?\n\n[Candidate Answers]\nA. Zheming does not want the disagreement between him and Lanlan to be known by grandfather.\nB. Zheming thinks of grandfather's discharge from the hospital today, feels happy, so he smiles at grandfather.\nC. Zheming avoids continuing eye contact with Lanlan by talking to grandfather.\nD. Zheming tries to ease the tension of the matter that needs to discuss with grandfather with a smile.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7b61863e162f4dabb3c4666af447f2b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "顺手写一句吧，就写“先别急着怪自己，等见面再说”。简单点，太长了我也懒得看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我在睡前翻备忘录时，是只记下琢磨的事，还是顺手写一句什么。这让我想到今晚就能落实的事，也想到这些天的谈话确实让我心里松动了些。）\n（我其实一直不习惯对自己说软话，但写一句提醒的话，好像比空想更实在。就写“先别急着怪自己，等见面再说”吧，简单，能提醒我停下来。）",
+        "reasoning": "（他问我在睡前翻备忘录时，是只记下琢磨的事，还是顺手写一句什么。这让我想到今晚就能落实的事，也想到这些天的谈话确实让我心里松动了些。）\n（我其实一直不习惯对自己说软话，但写一句提醒的话，好像比空想更实在。就写“先别急着怪自己，等见面再说”吧，简单，能提醒我停下来。）"
+      }
+    }
+  ],
+  "created": 1794536470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3776,
+    "total_tokens": 3893,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

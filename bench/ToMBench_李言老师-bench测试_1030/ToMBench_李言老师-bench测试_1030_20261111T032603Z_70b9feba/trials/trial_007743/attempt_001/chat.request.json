@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:33:55.251459+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaodong, Xiaoxi, and Xiaonan are playing a flying chess game. Xiaonan is the birthday boy today, he is playing the game with full concentration, without paying attention to anything else. Xiaodong and Xiaoxi often exchange glances during the game, occasionally smiling slightly. Xiaodong quietly shows his chess piece to Xiaoxi. Xiaoxi looks at the chess piece in Xiaodong's hand, then glances at Xiaonan, then nods. In the subsequent game, although Xiaodong and Xiaoxi are competitors, they cooperate cleverly several times, and in the end, Xiaonan wins the game.\n\n[Question]\nWhat do you think Xiaonan thinks?\n\n[Candidate Answers]\nA. Xiaonan thinks they are playing unfairly, he is a bit unhappy.\nB. Xiaonan does not understand why they cooperate in secret, he feels puzzled.\nC. Xiaonan notices their interaction, but he does not think too much.\nD. Xiaonan is happy to win the game.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

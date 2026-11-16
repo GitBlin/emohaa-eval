@@ -1,0 +1,55 @@
+{
+  "trial_id": "trial_001964",
+  "sample_id": "EA:55",
+  "task": "EA",
+  "language": "zh",
+  "repeat": 2,
+  "category": "Social-Others",
+  "fine_category": null,
+  "question_type": "Action",
+  "labels": {
+    "answer": "B"
+  },
+  "maps": {
+    "answer": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_faa798b33c9512fbd41692bc4b405c1a598a5264",
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "reply": "{\n    \"answer\": \"B\"\n}",
+  "prediction_original": {
+    "answer": "B"
+  },
+  "component_correct": {
+    "answer": true
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T04:02:49.021008+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer": "B"
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 1.8387860469520092,
+  "finished_at": "2026-11-11T04:02:50.859455+00:00"
+}

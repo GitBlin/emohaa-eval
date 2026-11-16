@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001165",
+  "sample_id": "Ambiguous Story Task:41",
+  "task_file": "Ambiguous Story Task",
+  "ability": "Intention: Intentions explanations",
+  "language": "en",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "B",
+    "C": "A",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "C",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:25:52.942407+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:26:14.264093+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "d8a41be55b684512b584798f1d330920"
+  ],
+  "started_at": "2026-11-12T09:25:52.942407+00:00",
+  "finished_at": "2026-11-12T09:26:16.380263+00:00",
+  "elapsed_seconds": 23.437962278723717,
+  "user_id": "liyan_c01ab32dfce06925b2dbe1185a78233e8ab6a004"
+}

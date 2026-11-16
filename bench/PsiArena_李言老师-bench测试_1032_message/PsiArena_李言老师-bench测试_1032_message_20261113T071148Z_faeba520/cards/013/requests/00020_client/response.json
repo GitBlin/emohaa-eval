@@ -1,0 +1,41 @@
+{
+  "id": "0c32c56cd4e548a4836b93147ff4215b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像对朋友那样……（轻轻笑了一下）我对朋友倒是挺宽容的。可轮到我自己，就忍不住挑刺。这么一想，好像有点不公平。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“允许看错”之后还要面对“看错的自己”，这让我心里忽然有点松动。之前一直觉得选错就是失败，可从没想过要怎样对待那个可能做错选择的自己。他问我会责怪还是像对朋友那样，这让我有点愣住，因为我平时对朋友确实挺宽容的，但对自己就特别苛刻。）\n（想到这些，我有点不好意思承认，自己好像一直对自己太严格了。如果换成朋友犯错，我肯定会安慰她，可轮到自己就不行了。这个对比让我心里有点酸酸的，也隐约觉得该对自己好一点，但又不太习惯。）",
+        "reasoning": "（咨询师提到“允许看错”之后还要面对“看错的自己”，这让我心里忽然有点松动。之前一直觉得选错就是失败，可从没想过要怎样对待那个可能做错选择的自己。他问我会责怪还是像对朋友那样，这让我有点愣住，因为我平时对朋友确实挺宽容的，但对自己就特别苛刻。）\n（想到这些，我有点不好意思承认，自己好像一直对自己太严格了。如果换成朋友犯错，我肯定会安慰她，可轮到自己就不行了。这个对比让我心里有点酸酸的，也隐约觉得该对自己好一点，但又不太习惯。）"
+      }
+    }
+  ],
+  "created": 1794554546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 2950,
+    "total_tokens": 3114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 130,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3c1cc7901b0347c9afec430015a1e1f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他们先问我，你现在到底舒不舒服，想不想。而不是一开口就问什么时候结婚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问“最希望别人先问我什么”，这让我心里有点发紧。一直以来好像都是被安排、被追问结果，很少有人真的在意我自己的感受。我想到每次相亲前，父母只会说“去见见”，从来不会问我愿不愿意、紧不紧张。）\n（这种被忽略的感觉让我有点委屈，但也让我意识到，我其实很希望有人能先关心我当下的状态，而不是直接把我推到事情面前。我想把这一点说出来，但又怕说得太直白会显得矫情，所以可能还是会带着一点犹豫和试探。）",
+        "reasoning": "（对方问“最希望别人先问我什么”，这让我心里有点发紧。一直以来好像都是被安排、被追问结果，很少有人真的在意我自己的感受。我想到每次相亲前，父母只会说“去见见”，从来不会问我愿不愿意、紧不紧张。）\n（这种被忽略的感觉让我有点委屈，但也让我意识到，我其实很希望有人能先关心我当下的状态，而不是直接把我推到事情面前。我想把这一点说出来，但又怕说得太直白会显得矫情，所以可能还是会带着一点犹豫和试探。）"
+      }
+    }
+  ],
+  "created": 1794546141,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2919,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

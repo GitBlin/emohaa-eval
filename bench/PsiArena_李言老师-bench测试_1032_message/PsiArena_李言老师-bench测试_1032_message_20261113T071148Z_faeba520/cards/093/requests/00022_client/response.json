@@ -1,0 +1,41 @@
+{
+  "id": "58b5c3a27231498384f2b915b27d4fc4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先随口说一句，别搞得太正式。不过我妈肯定要追问为什么，我得想好怎么接。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把抽象的“表达自己”落到具体行动上。刚才我提到周末想在家待着，她马上追问怎么开口——这让我有点紧张，但好像也没那么难，毕竟不是什么大事。）\n（我想先说得随意一点，别搞得像正式谈判。不过我也清楚，我妈肯定会追问原因，所以得提前想好怎么回应，不能一被问就缩回去。）",
+        "reasoning": "（咨询师在帮我把抽象的“表达自己”落到具体行动上。刚才我提到周末想在家待着，她马上追问怎么开口——这让我有点紧张，但好像也没那么难，毕竟不是什么大事。）\n（我想先说得随意一点，别搞得像正式谈判。不过我也清楚，我妈肯定会追问原因，所以得提前想好怎么回应，不能一被问就缩回去。）"
+      }
+    }
+  ],
+  "created": 1794558298,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2751,
+    "total_tokens": 2861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

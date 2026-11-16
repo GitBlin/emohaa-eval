@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:13.417063+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Qiang is an engineer, he wants to convince his wife to support him in giving up his current job and pursuing his true love for the photography profession. His wife worries about the financial security of the family and the uncertainty of the future.\n\n[Question]\nHow does Zhang Qiang convince his wife?\n\n[Candidate Answers]\nA. Zhang Qiang takes professional photography training or education to improve skills and market competitiveness.\nB. He involves his wife in the decision-making process, making her feel she is a part of this decision.\nC. Zhang Qiang shows his serious attitude towards this decision by sharing his passion for photography and future plans.\nD. He can consider transitioning gradually, such as working while being a part-time photographer, gradually expanding the photography business.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

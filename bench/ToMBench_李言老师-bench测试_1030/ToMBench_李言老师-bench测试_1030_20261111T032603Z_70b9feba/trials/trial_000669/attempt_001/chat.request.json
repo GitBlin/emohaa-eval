@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:46.059661+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nWang Wu is a person who loves outdoor sports, he goes to play ball or climb mountains every weekend, pursuing excitement and challenge. Li Min is completely opposite, she is a homebody, likes to read books or play video games at home on weekends, enjoying peace and ease. Wang Wu wants to pursue Li Min. This weekend, Wang Wu wants to invite Li Min to go out together, and proposes to let Li Min decide the place to go.\n\n[Question]\nFacing Wang Wu's invitation, where does Li Min most likely choose to go?\n\n[Candidate Answers]\nA. Shopping center\nB. Play games at home\nC. Library\nD. Exhibition",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

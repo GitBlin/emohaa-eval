@@ -1,0 +1,41 @@
+{
+  "id": "6c05569ae52445dea783b73ed990aed3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先去把那件衣服买回来。（顿了顿）但我也在想，她要是再说，我该怎么回她，总不能又闷着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没有直接给我答案，而是把问题又抛回给我了。这让我有点不安，但也觉得被推了一把。我确实不想再缩回去，可具体怎么走，脑子里还是乱乱的。）\n（我想先做一件小事试试看，比如那件衣服。但一想到室友可能会说的话，心里又有点堵。也许我得先想好怎么回应她，不然到时候又只能闷着。）",
+        "reasoning": "（咨询师好像没有直接给我答案，而是把问题又抛回给我了。这让我有点不安，但也觉得被推了一把。我确实不想再缩回去，可具体怎么走，脑子里还是乱乱的。）\n（我想先做一件小事试试看，比如那件衣服。但一想到室友可能会说的话，心里又有点堵。也许我得先想好怎么回应她，不然到时候又只能闷着。）"
+      }
+    }
+  ],
+  "created": 1794539598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2638,
+    "total_tokens": 2756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

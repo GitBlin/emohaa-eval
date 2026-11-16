@@ -1,0 +1,41 @@
+{
+  "id": "f14af23e019b42ea9e356a3c98546f95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没聊过。他们嘴上说随我，可我知道他们心里不是这么想的。我妈是老师，她总觉得当老师才安稳……我现在做的这些，她其实看不上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了我爸妈的期待，这让我有点不知道该怎么回答。其实我从来没真正和他们聊过这个，每次打电话都是报喜不报忧。）\n（我爸妈都是老师，从小家里就看重成绩和体面。他们嘴上说随我，可我知道他们心里还是希望我稳定、有出息。这种压力让我觉得自己好像怎么做都不够好，连带着工作上的疲惫和迷茫都变得更重了。）",
+        "reasoning": "（咨询师问到了我爸妈的期待，这让我有点不知道该怎么回答。其实我从来没真正和他们聊过这个，每次打电话都是报喜不报忧。）\n（我爸妈都是老师，从小家里就看重成绩和体面。他们嘴上说随我，可我知道他们心里还是希望我稳定、有出息。这种压力让我觉得自己好像怎么做都不够好，连带着工作上的疲惫和迷茫都变得更重了。）"
+      }
+    }
+  ],
+  "created": 1794545324,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1876,
+    "total_tokens": 2006,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

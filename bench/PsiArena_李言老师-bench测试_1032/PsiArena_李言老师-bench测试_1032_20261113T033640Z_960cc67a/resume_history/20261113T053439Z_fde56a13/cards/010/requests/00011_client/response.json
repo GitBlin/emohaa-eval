@@ -1,0 +1,41 @@
+{
+  "id": "f2f1f4fe5b4748db873d85edd879cb54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是他说“我都没复习”“我肯定完了”的时候。（想了想）尤其课间大家还都围着他听，我站在旁边，就觉得自己好像特别傻。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体哪句话最容易勾起“落后”的感觉，他好像想帮我找到那个触发点。我刚才说了“我是不是又落后了”，现在得想想具体场景。）\n（课间聊学习的时候，他说“我都没复习”，我明明知道他不是真的没复习，可那句话就是会让我心里一紧。可能因为在家里，爸妈也总拿我跟别人比，所以这种话特别容易戳到我。）",
+        "reasoning": "（咨询师在问我具体哪句话最容易勾起“落后”的感觉，他好像想帮我找到那个触发点。我刚才说了“我是不是又落后了”，现在得想想具体场景。）\n（课间聊学习的时候，他说“我都没复习”，我明明知道他不是真的没复习，可那句话就是会让我心里一紧。可能因为在家里，爸妈也总拿我跟别人比，所以这种话特别容易戳到我。）"
+      }
+    }
+  ],
+  "created": 1794541658,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1901,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

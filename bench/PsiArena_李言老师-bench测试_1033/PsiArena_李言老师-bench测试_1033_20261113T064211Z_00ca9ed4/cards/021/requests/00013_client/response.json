@@ -1,0 +1,41 @@
+{
+  "id": "765f0e06163e4213b5753c3d58f4f9d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一下）以前……我妈算一个。她最懂我。（声音有点哽）可现在她躺在病床上，眼神空空的，我跟她说话，她有时候都认不太清我。我反而成了那个要撑着她的人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我家里有没有例外能说两句的人。我脑子里第一个闪过的就是我妈。可这个念头一出来，心里就堵得更厉害。）\n（以前她是最能听我说话的人，现在却变成这样。我坐在床边，她眼神空空的，我讲什么都像掉进水里。那种感觉太难受了，好像我连最后能说的人都没了。）",
+        "reasoning": "（她问我家里有没有例外能说两句的人。我脑子里第一个闪过的就是我妈。可这个念头一出来，心里就堵得更厉害。）\n（以前她是最能听我说话的人，现在却变成这样。我坐在床边，她眼神空空的，我讲什么都像掉进水里。那种感觉太难受了，好像我连最后能说的人都没了。）"
+      }
+    }
+  ],
+  "created": 1794553087,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2253,
+    "total_tokens": 2384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

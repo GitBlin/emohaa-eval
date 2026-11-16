@@ -1,0 +1,41 @@
+{
+  "id": "6e685a6bdf65436eb3734175aebf1f89",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，二十分钟，我试试。做不到也不硬撑，反正回来还能跟你说。这么一想，好像没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我定个小规矩，二十分钟再坐，听起来不算难。我本来还怕自己做不到，可这么一说，好像有了个抓手。不过我也得承认，自己不是那种一次就能做好的人，先试试看吧。）\n（想到这些天聊下来，心里那股堵着的劲儿好像松了点。以前总觉得没人懂，现在至少有个地方能说，还能商量着来。那就先按她说的做，做不到也不硬撑。）",
+        "reasoning": "（她让我定个小规矩，二十分钟再坐，听起来不算难。我本来还怕自己做不到，可这么一说，好像有了个抓手。不过我也得承认，自己不是那种一次就能做好的人，先试试看吧。）\n（想到这些天聊下来，心里那股堵着的劲儿好像松了点。以前总觉得没人懂，现在至少有个地方能说，还能商量着来。那就先按她说的做，做不到也不硬撑。）"
+      }
+    }
+  ],
+  "created": 1794535757,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3351,
+    "total_tokens": 3473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

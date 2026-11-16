@@ -1,0 +1,41 @@
+{
+  "id": "54529eb2735a4c0789ca94c692a6aff4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就跟她说，我现在走在路上会紧张，有时候会屏住呼吸。（轻轻呼出一口气）先不讲那天的事，就说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想从哪件最小的事开始跟朋友说。我脑子里最先冒出来的就是路上紧张、屏住呼吸这些，因为那是我每天都要经历的，说出口好像也没那么难。但我又怕一开口就收不住，或者被当成小题大做，所以得先讲清楚我不想讲被袭击的细节。）\n（能说出这件事，其实我自己也有点意外。以前总觉得这些感受说出来很丢脸，现在至少能承认它确实存在。我想让她知道，我并不是完全好了，只是愿意先迈出这一小步。）",
+        "reasoning": "（她问我想从哪件最小的事开始跟朋友说。我脑子里最先冒出来的就是路上紧张、屏住呼吸这些，因为那是我每天都要经历的，说出口好像也没那么难。但我又怕一开口就收不住，或者被当成小题大做，所以得先讲清楚我不想讲被袭击的细节。）\n（能说出这件事，其实我自己也有点意外。以前总觉得这些感受说出来很丢脸，现在至少能承认它确实存在。我想让她知道，我并不是完全好了，只是愿意先迈出这一小步。）"
+      }
+    }
+  ],
+  "created": 1794544734,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 3020,
+    "total_tokens": 3169,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

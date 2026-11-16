@@ -1,0 +1,41 @@
+{
+  "id": "cbaa0bede14541f7b93c5c8aebc04b01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能更怕被拒绝吧……感觉主动了还被冷脸，就特别丢人。可回家又后悔，唉，我也觉得自己很矛盾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我更怕被拒绝还是事后自责……这个问题让我有点难受。其实两个都怕，但拒绝更让我觉得丢脸，好像我主动了反而会被别人看不起。可我又不想一直这样缩着，心里好矛盾。）\n（想到家里爸妈总是说要勇敢、要争气，可他们根本不知道我在学校连开口都难。这种时候就觉得特别孤单，好像没人真的懂我。）",
+        "reasoning": "（她刚才问我更怕被拒绝还是事后自责……这个问题让我有点难受。其实两个都怕，但拒绝更让我觉得丢脸，好像我主动了反而会被别人看不起。可我又不想一直这样缩着，心里好矛盾。）\n（想到家里爸妈总是说要勇敢、要争气，可他们根本不知道我在学校连开口都难。这种时候就觉得特别孤单，好像没人真的懂我。）"
+      }
+    }
+  ],
+  "created": 1794550076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1858,
+    "total_tokens": 1977,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4a8e165460db44b6873a9c1c68d82bd2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候真想一走了之，什么都不管了。（声音有点激动，又很快低下去）可过几天……又会想，是不是我太冲动了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我想做什么……其实我心里清楚，但说出来好像就承认了什么似的。可我真的太累了，有时候真想一走了之，什么都不管了。可是孩子怎么办，爸妈会怎么说……）\n（我不能真的走，我知道自己做不到。每次气头上想离开，过几天又忍不住想他，想他对我好的时候。这种反反复复的，连我自己都觉得丢人。）",
+        "reasoning": "（他问我想做什么……其实我心里清楚，但说出来好像就承认了什么似的。可我真的太累了，有时候真想一走了之，什么都不管了。可是孩子怎么办，爸妈会怎么说……）\n（我不能真的走，我知道自己做不到。每次气头上想离开，过几天又忍不住想他，想他对我好的时候。这种反反复复的，连我自己都觉得丢人。）"
+      }
+    }
+  ],
+  "created": 1794554512,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1610,
+    "total_tokens": 1726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

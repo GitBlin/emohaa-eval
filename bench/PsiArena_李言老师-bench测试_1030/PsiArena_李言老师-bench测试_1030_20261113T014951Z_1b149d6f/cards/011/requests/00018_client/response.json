@@ -1,0 +1,41 @@
+{
+  "id": "d55c6af1751d4f33aa623d56ad31f26a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "发消息吧……写下来我能慢慢想措辞，当面说我怕一急就说不清。那我先编辑一条存着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到怕自己临阵退缩，这让我想到自己平时确实容易在关键时刻犹豫。写下来或者发消息可能比当面说更容易些，毕竟不用直接面对他的反应。）\n（不过发消息会不会显得太正式了？但总比到时候说不出口强。我得先想好怎么措辞，不能让他觉得我在小题大做。）",
+        "reasoning": "（她提到怕自己临阵退缩，这让我想到自己平时确实容易在关键时刻犹豫。写下来或者发消息可能比当面说更容易些，毕竟不用直接面对他的反应。）\n（不过发消息会不会显得太正式了？但总比到时候说不出口强。我得先想好怎么措辞，不能让他觉得我在小题大做。）"
+      }
+    }
+  ],
+  "created": 1794535093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2821,
+    "total_tokens": 2924,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

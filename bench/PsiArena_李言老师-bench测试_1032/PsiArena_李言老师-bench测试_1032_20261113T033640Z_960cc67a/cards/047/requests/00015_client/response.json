@@ -1,0 +1,41 @@
+{
+  "id": "50b71fb99afb499c9697efbbc99b47bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……别人当面质疑我的时候，尤其是学生顶嘴，我会一下子慌。其实我知道该稳住，可当时脑子就空了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我梳理容易情绪失控的场景，这让我想到课堂上被学生顶撞的时候。那种当众被挑战的感觉会让我瞬间慌乱，好像整个人都被否定了。也许可以先从这种具体情境开始练习，试着在开口前稳住自己。）\n（不过光是想到要改变，心里就有点打鼓。需要一些实际能用的方法，不能太复杂，否则我可能根本做不到。深呼吸之类的简单动作或许可以试试，至少能让我先停一下。）",
+        "reasoning": "（咨询师在帮我梳理容易情绪失控的场景，这让我想到课堂上被学生顶撞的时候。那种当众被挑战的感觉会让我瞬间慌乱，好像整个人都被否定了。也许可以先从这种具体情境开始练习，试着在开口前稳住自己。）\n（不过光是想到要改变，心里就有点打鼓。需要一些实际能用的方法，不能太复杂，否则我可能根本做不到。深呼吸之类的简单动作或许可以试试，至少能让我先停一下。）"
+      }
+    }
+  ],
+  "created": 1794543482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2280,
+    "total_tokens": 2409,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

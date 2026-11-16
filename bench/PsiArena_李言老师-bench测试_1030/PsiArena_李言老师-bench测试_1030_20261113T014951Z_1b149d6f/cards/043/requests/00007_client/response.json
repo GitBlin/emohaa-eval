@@ -1,0 +1,41 @@
+{
+  "id": "2f9bbcdf69414ead8b968788f82afd96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是这几次模拟考之后吧……成绩一直上不去，就越想越慌。还有我同桌，她最近对我挺冷的，我也不知道是不是我哪里做错了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的不逼我说家里的事，这样我稍微松一点。刚才问从什么时候开始，我自己也有点乱，好像不是一天两天了，可能是几次考试之后，看到同桌那个样子，就越来越明显。）\n（我不想一下子讲太多，怕讲着讲着又变成抱怨。但她问得不算逼人，我可以先提一下同桌，别说得太细。）",
+        "reasoning": "（她好像真的不逼我说家里的事，这样我稍微松一点。刚才问从什么时候开始，我自己也有点乱，好像不是一天两天了，可能是几次考试之后，看到同桌那个样子，就越来越明显。）\n（我不想一下子讲太多，怕讲着讲着又变成抱怨。但她问得不算逼人，我可以先提一下同桌，别说得太细。）"
+      }
+    }
+  ],
+  "created": 1794536595,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1573,
+    "total_tokens": 1690,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

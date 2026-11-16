@@ -1,0 +1,41 @@
+{
+  "id": "934a9f42ec4f4c81bf32c8caac3c2edb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈问得多吧，一回家就问作业写没写、考试多少分。我爸也问，但他老是看手机，问两句就不听了。我有时候觉得，在他们眼里分数比我重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像真的在听我说话，没有急着批评我。他问家里谁问得多……让我想起每天回家妈妈就追着问作业和成绩，爸爸回来也是问考试。）\n（我其实挺烦的，但又不敢说，怕他们觉得我不懂事。在他们眼里好像只有分数重要，我玩会儿手机就是错的。可我也需要喘口气啊，厕所里那半小时是我自己的时间。）",
+        "reasoning": "（这个咨询师好像真的在听我说话，没有急着批评我。他问家里谁问得多……让我想起每天回家妈妈就追着问作业和成绩，爸爸回来也是问考试。）\n（我其实挺烦的，但又不敢说，怕他们觉得我不懂事。在他们眼里好像只有分数重要，我玩会儿手机就是错的。可我也需要喘口气啊，厕所里那半小时是我自己的时间。）"
+      }
+    }
+  ],
+  "created": 1794558620,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1628,
+    "total_tokens": 1759,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

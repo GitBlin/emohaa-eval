@@ -1,0 +1,41 @@
+{
+  "id": "1326faa691334fa28d4964bf5345548e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望他们……能主动问问我吧。哪怕就一句“今天怎么样”。我好像一直在等别人先开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起小时候最希望爸妈给什么，这让我有点意外。我本来以为会继续聊现在的工作和社交，没想到会回到那么早的时候。）\n（想了想，其实我很少跟人提这些。但既然已经说到这儿了，好像也没那么难开口。就是那种，希望他们能主动问问我，而不是总让我去猜。）",
+        "reasoning": "（咨询师问起小时候最希望爸妈给什么，这让我有点意外。我本来以为会继续聊现在的工作和社交，没想到会回到那么早的时候。）\n（想了想，其实我很少跟人提这些。但既然已经说到这儿了，好像也没那么难开口。就是那种，希望他们能主动问问我，而不是总让我去猜。）"
+      }
+    }
+  ],
+  "created": 1794541362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1731,
+    "total_tokens": 1832,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:51.838952+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n经过几周的犹豫不决，欧文最终告诉了他的父母，由于失业，他遇到了严重的财务问题。\n\n## 问题\n在这个场景中，欧文的父母最有效的Response是什么？\n\n## 选项\nA) \"你当时工作的时候就应该多存点钱\"\nB) \"你应该早点告诉我们。\"\nC) \"我们真的很遗憾你处在这种情况下，但我们相信你能度过难关\"\nD) \"我们可以借给你一些钱，直到你再次站稳脚跟\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

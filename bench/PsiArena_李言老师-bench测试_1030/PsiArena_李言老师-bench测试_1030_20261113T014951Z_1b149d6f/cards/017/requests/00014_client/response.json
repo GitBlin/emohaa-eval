@@ -1,0 +1,41 @@
+{
+  "id": "e1cdefbfa62e43f1bcae5563e2737e2f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我爸妈吧……他们一直觉得我让他们省心。（停顿）还有我丈夫，我怕他觉得，娶了我这么个……（没说完，苦笑了一下）其实说了他们也不会懂，可能还觉得我事多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是怕谁失望，这问题一下子戳到我了。我脑子里第一个冒出来的就是爸妈，他们从小就觉得我懂事，能扛事，是他们的骄傲。可丈夫那边呢，他嘴上不说，心里会不会也觉得我不够好，连个孩子都怀不上。这两种怕叠在一起，让我觉得好像怎么做都不对。）\n（想到这里心里堵得慌，好像说出来也没用，他们不会真的理解我。这种话憋在心里太久了，现在一被问，反而有点想苦笑，因为连我自己都觉得，说了可能也是白说。）",
+        "reasoning": "（咨询师问的是怕谁失望，这问题一下子戳到我了。我脑子里第一个冒出来的就是爸妈，他们从小就觉得我懂事，能扛事，是他们的骄傲。可丈夫那边呢，他嘴上不说，心里会不会也觉得我不够好，连个孩子都怀不上。这两种怕叠在一起，让我觉得好像怎么做都不对。）\n（想到这里心里堵得慌，好像说出来也没用，他们不会真的理解我。这种话憋在心里太久了，现在一被问，反而有点想苦笑，因为连我自己都觉得，说了可能也是白说。）"
+      }
+    }
+  ],
+  "created": 1794535527,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 170,
+    "prompt_tokens": 2359,
+    "total_tokens": 2529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

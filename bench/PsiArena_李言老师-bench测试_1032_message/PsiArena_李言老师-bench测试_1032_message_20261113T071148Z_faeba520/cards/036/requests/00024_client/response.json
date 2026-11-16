@@ -1,0 +1,41 @@
+{
+  "id": "ca7bc61bcefb4d99a6e20c1a9fe96ada",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）只要我递过去了，哪怕手有点抖，也算做到了吧。（顿了顿）嗯，这样定的话，我好像没那么怕了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把目标变得具体，这样我就不会觉得那么难了。她问怎样才算做到了，我其实心里有点怕自己做不到。）\n（我想了想，如果只是把本子递过去，哪怕手有点抖，好像也算我做到了。这样想的话，压力小一点。不过还是有点担心明天真的会紧张。）",
+        "reasoning": "（咨询师在帮我把目标变得具体，这样我就不会觉得那么难了。她问怎样才算做到了，我其实心里有点怕自己做不到。）\n（我想了想，如果只是把本子递过去，哪怕手有点抖，好像也算我做到了。这样想的话，压力小一点。不过还是有点担心明天真的会紧张。）"
+      }
+    }
+  ],
+  "created": 1794555476,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2951,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

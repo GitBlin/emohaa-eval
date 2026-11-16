@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:42.648210+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nChen's son, Xiao Ming, is in junior high school this year, but he is obsessed with video games and often does not do his homework. Chen advises him, but Xiao Ming thinks playing games is much more interesting than studying.\n\n[Question]\nHow does Chen convince Xiao Ming?\n\n[Candidate Answers]\nA. Invite Xiao Ming's friends to his house and encourage them to study together.\nB. Participate in some interesting learning-related activities with Xiao Ming, such as hands-on science experiments, visiting science and technology museums, etc.\nC. Understand the games Xiao Ming plays, and try to find the connection between learning and games, such as: the historical background or mathematical strategies in the game.\nD. Emphasize the harm of video games, show examples of poor grades due to playing games around him, and recommend him to join other interest groups or sports activities.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

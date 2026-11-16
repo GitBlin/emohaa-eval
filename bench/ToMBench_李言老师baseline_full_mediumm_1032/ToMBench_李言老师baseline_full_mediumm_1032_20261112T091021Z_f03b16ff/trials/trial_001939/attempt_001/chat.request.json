@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:37:40.012058+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nHuahua feels a bit down after Liangliang accidentally loses his pet puppy, and Liangliang is always working hard to find the puppy. Yuwen knows this situation, looks at the silent Huahua, he turns his head and talks to Liangliang who sits next to Huahua. Yuwen casually takes out a football from his backpack, Liangliang immediately recognizes that this is the football that Huahua always wants to buy but does not have the money to buy. Yuwen gives a slight smile to Liangliang, then gently places the football next to Liangliang, then turns his head back to read a book carelessly, as if nothing happens. Huahua looks at Yuwen with confusion. Liangliang also looks at Yuwen, their eyes meet, Liangliang nods.\n\n[Question]\nHow do you think Huahua feels at this moment?\n\n[Candidate Answers]\nA. Huahua feels confused, not knowing why Yuwen puts a football next to Liangliang.\nB. Huahua feels lost, because he also wants to have that football.\nC. Huahua is happy, because he thinks Yuwen cares about him.\nD. Huahua is very excited, because he thinks Yuwen is going to give him the football.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

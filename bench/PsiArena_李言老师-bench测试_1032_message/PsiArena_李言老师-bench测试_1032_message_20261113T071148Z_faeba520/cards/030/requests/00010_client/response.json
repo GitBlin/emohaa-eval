@@ -1,0 +1,41 @@
+{
+  "id": "d72b531e72da49d7bc2925acc5eb6aca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提过……又好像没真正提过。我话到嘴边就咽回去了，怕显得我太计较。而且我从小家里就这样，有什么不满都不太说得出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到有没有跟对方提过，这让我有点卡住。其实我试过，但每次话到嘴边又咽回去，怕说出来显得我太计较，或者让他觉得我难搞。）\n（家里从小就是这样，有什么不满都憋着，爸妈说这样才懂事。所以现在面对他，我也习惯性地把情绪压下去，可越压越难受。）",
+        "reasoning": "（咨询师问到有没有跟对方提过，这让我有点卡住。其实我试过，但每次话到嘴边又咽回去，怕说出来显得我太计较，或者让他觉得我难搞。）\n（家里从小就是这样，有什么不满都憋着，爸妈说这样才懂事。所以现在面对他，我也习惯性地把情绪压下去，可越压越难受。）"
+      }
+    }
+  ],
+  "created": 1794555239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1809,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

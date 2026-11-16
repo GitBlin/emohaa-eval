@@ -1,0 +1,41 @@
+{
+  "id": "7162084a3d0e48f8a0b0dbd6acc132bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "同桌吧，跟他一起还挺放松的。不过他有时候也忙，我不想老去烦他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师问得挺细的，让我想身边有没有让我放松的人。我脑子里第一个冒出来的就是同桌，跟他在一起不用想太多。不过说出来会不会显得我朋友很少啊，有点不好意思。）\n（其实跟同桌聊天挺轻松的，他不会像别人那样盯着我看。但我不想让咨询师觉得我只有这一个朋友，那样好像我挺可怜的。还是先提一下他，但别说得太夸张。）",
+        "reasoning": "（这个咨询师问得挺细的，让我想身边有没有让我放松的人。我脑子里第一个冒出来的就是同桌，跟他在一起不用想太多。不过说出来会不会显得我朋友很少啊，有点不好意思。）\n（其实跟同桌聊天挺轻松的，他不会像别人那样盯着我看。但我不想让咨询师觉得我只有这一个朋友，那样好像我挺可怜的。还是先提一下他，但别说得太夸张。）"
+      }
+    }
+  ],
+  "created": 1794540423,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2653,
+    "total_tokens": 2763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

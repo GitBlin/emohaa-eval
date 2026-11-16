@@ -1,0 +1,41 @@
+{
+  "id": "512c376da3864139ba1a67a433abcd62",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）你这么一问……我好像想到家里了。小时候我爸妈都忙，我跟他们说学校里的事，他们经常嗯一声就过去了。久了我也就不太说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起落空的感觉以前是不是也碰到过，看来是顺着我刚才说的“怕没人接”往下挖。这让我想起家里的事，其实那种感觉挺熟悉的。）\n（小时候在家里好像也是这样，爸妈忙他们的，我说话他们经常没反应。那时候不太懂，现在想想，可能我从那时候起就习惯了把话咽回去。）",
+        "reasoning": "（她问起落空的感觉以前是不是也碰到过，看来是顺着我刚才说的“怕没人接”往下挖。这让我想起家里的事，其实那种感觉挺熟悉的。）\n（小时候在家里好像也是这样，爸妈忙他们的，我说话他们经常没反应。那时候不太懂，现在想想，可能我从那时候起就习惯了把话咽回去。）"
+      }
+    }
+  ],
+  "created": 1794534631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1723,
+    "total_tokens": 1834,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

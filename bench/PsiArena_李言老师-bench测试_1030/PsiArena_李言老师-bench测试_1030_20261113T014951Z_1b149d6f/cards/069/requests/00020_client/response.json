@@ -1,0 +1,41 @@
+{
+  "id": "9c1081f675bb4691b924d1f539cb51b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）散步吧，就慢慢走一圈。以前烦的时候走过几次，走着走着好像没那么紧了。就是……我总坚持不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我除了问他还有什么能让自己松一点的事。我得想想，平时那些反复洗手换衣服其实不算放松，反而越弄越紧张。走路的时候好像脑子能空一点，呼吸也顺一些。但我不确定这算不算数，怕说出来显得太简单了。）\n（不过她问的是身体先松一点，走路确实是我偶尔会做的事，虽然不常，但至少不用依赖别人。说出来试试吧，反正也只是个小事。）",
+        "reasoning": "（她问我除了问他还有什么能让自己松一点的事。我得想想，平时那些反复洗手换衣服其实不算放松，反而越弄越紧张。走路的时候好像脑子能空一点，呼吸也顺一些。但我不确定这算不算数，怕说出来显得太简单了。）\n（不过她问的是身体先松一点，走路确实是我偶尔会做的事，虽然不常，但至少不用依赖别人。说出来试试吧，反正也只是个小事。）"
+      }
+    }
+  ],
+  "created": 1794538077,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3226,
+    "total_tokens": 3353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

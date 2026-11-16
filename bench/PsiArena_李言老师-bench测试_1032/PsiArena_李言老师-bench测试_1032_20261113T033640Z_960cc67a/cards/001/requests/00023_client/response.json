@@ -1,0 +1,41 @@
+{
+  "id": "16aa078102584990a452f6683378da00",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "把话题递回去……这个我好像能做到。那我先在家把这两句练熟，再找机会试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我怎么应对对话中的尴尬停顿，把话题递回去。这个方法听起来简单，但实际操作起来我还是会紧张。不过至少有个具体的话可以说了。）\n（想到要在同桌面前练习，心里有点打鼓，但总比一直闷着强。先在家练熟可能会让我稍微安心一点，至少不会一开口就慌。）",
+        "reasoning": "（咨询师在教我怎么应对对话中的尴尬停顿，把话题递回去。这个方法听起来简单，但实际操作起来我还是会紧张。不过至少有个具体的话可以说了。）\n（想到要在同桌面前练习，心里有点打鼓，但总比一直闷着强。先在家练熟可能会让我稍微安心一点，至少不会一开口就慌。）"
+      }
+    }
+  ],
+  "created": 1794548184,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3025,
+    "total_tokens": 3124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

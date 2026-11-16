@@ -1,0 +1,41 @@
+{
+  "id": "36bbda00bc374c0a955666e3339a25c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）应该是让我妈担心吧。她一担心，我就得反过来安慰她，还得装没事。（低声）好像我连难受都得挑人、挑时候。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更怕哪一种。被说娇气，还是让妈妈担心。我其实两个都怕，但要选一个的话，让妈妈担心更让我受不了。因为被说娇气顶多是自己忍着，可妈妈一担心，那种眼神和追问，会让我觉得是自己闯了祸。而且她越担心，我就越得装没事，太累了。）\n（可这么一想，我好像一直在为别人的反应活着。这跟我现在怕出门、怕别人眼光，是不是有点关系？我不太确定，但好像确实是这样。）",
+        "reasoning": "（她问我更怕哪一种。被说娇气，还是让妈妈担心。我其实两个都怕，但要选一个的话，让妈妈担心更让我受不了。因为被说娇气顶多是自己忍着，可妈妈一担心，那种眼神和追问，会让我觉得是自己闯了祸。而且她越担心，我就越得装没事，太累了。）\n（可这么一想，我好像一直在为别人的反应活着。这跟我现在怕出门、怕别人眼光，是不是有点关系？我不太确定，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794538038,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2325,
+    "total_tokens": 2475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

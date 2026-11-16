@@ -1,0 +1,41 @@
+{
+  "id": "eb0aa192e62247479cbd190eb011f220",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想让她知道……我不是故意把日子过成这样。可这话到嘴边又咽回去了，我怕她听了更失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我最想让我妈知道、却一直说不出口的那句话。这让我心里一下子堵得慌，好像有什么东西压了很久。我其实一直想让她看到，我不是在胡闹，也不是故意要让她失望。）\n（可这话说出来太沉了，我怕自己一开口就收不住。而且，我连自己都还没完全接受现在的身份，又怎么让她接受呢。也许先说说那种怕被否定的感觉，会比直接说那句话容易些。）",
+        "reasoning": "（她问的是我最想让我妈知道、却一直说不出口的那句话。这让我心里一下子堵得慌，好像有什么东西压了很久。我其实一直想让她看到，我不是在胡闹，也不是故意要让她失望。）\n（可这话说出来太沉了，我怕自己一开口就收不住。而且，我连自己都还没完全接受现在的身份，又怎么让她接受呢。也许先说说那种怕被否定的感觉，会比直接说那句话容易些。）"
+      }
+    }
+  ],
+  "created": 1794537776,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1959,
+    "total_tokens": 2086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

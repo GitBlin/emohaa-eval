@@ -1,0 +1,41 @@
+{
+  "id": "39afd6402fbe433bb87990eee19ecefb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……初中那会儿吧。转班以后，谁都不熟，想靠近又怕被拒绝，后来就变成谁都不敢信了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是“不信任”从什么时候开始明显，这个问题让我一下子想到初中那些事。那时候刚转班，谁也不认识，想靠近别人又怕被拒绝，慢慢就变得谁都不敢信了。）\n（其实现在想想，那种防备好像一直跟着我，只是初中以后更严重了。不过说出来有点乱，不知道能不能讲清楚。）",
+        "reasoning": "（咨询师问的是“不信任”从什么时候开始明显，这个问题让我一下子想到初中那些事。那时候刚转班，谁也不认识，想靠近别人又怕被拒绝，慢慢就变得谁都不敢信了。）\n（其实现在想想，那种防备好像一直跟着我，只是初中以后更严重了。不过说出来有点乱，不知道能不能讲清楚。）"
+      }
+    }
+  ],
+  "created": 1794550536,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2426,
+    "total_tokens": 2533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

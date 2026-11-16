@@ -1,0 +1,41 @@
+{
+  "id": "c7fdfa85ba6c44f098c294fbaf8232b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句我能说。就是怕说完这句，后面又接不上了，冷在那儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先备好第一句话，这让我觉得轻松了一点。不用一下子把所有事都倒出来，先只说一句“最近我有点累”就行。这个做法我能接受，至少有个开头，不会太突兀。）\n（不过我也在想，光说一句累，后面呢？我怕自己又停在那里。也许可以顺着这句话，简单提一句工作上的事，不用说得太细。这样既开了口，又不会一下子把气氛弄得太沉重。）",
+        "reasoning": "（咨询师建议我先备好第一句话，这让我觉得轻松了一点。不用一下子把所有事都倒出来，先只说一句“最近我有点累”就行。这个做法我能接受，至少有个开头，不会太突兀。）\n（不过我也在想，光说一句累，后面呢？我怕自己又停在那里。也许可以顺着这句话，简单提一句工作上的事，不用说得太细。这样既开了口，又不会一下子把气氛弄得太沉重。）"
+      }
+    }
+  ],
+  "created": 1794554145,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2985,
+    "total_tokens": 3103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

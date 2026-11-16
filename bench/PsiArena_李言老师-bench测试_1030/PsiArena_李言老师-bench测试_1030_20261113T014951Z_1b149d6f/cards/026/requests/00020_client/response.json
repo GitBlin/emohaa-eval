@@ -1,0 +1,41 @@
+{
+  "id": "f8e839e8b1904e56bce7254a280c567b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我猜……她可能会说“你别老说我粗心”。其实我自己也知道，这话我说得最多。要真听到，我希望能忍住不反驳。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我猜女儿会说出哪句话……这让我心里有点发紧。我其实能想到，女儿最不想听的大概就是那些否定她的话。可这么一想，又觉得自己平时确实说了不少，有点不是滋味。）\n（不过既然咨询师这么问了，我也愿意顺着想一想。也许女儿真正在意的不是题目本身，而是我说话的方式。那我可以试着把“你怎么又错了”换成别的说法，这样至少能少让她抵触一点。）",
+        "reasoning": "（她问我猜女儿会说出哪句话……这让我心里有点发紧。我其实能想到，女儿最不想听的大概就是那些否定她的话。可这么一想，又觉得自己平时确实说了不少，有点不是滋味。）\n（不过既然咨询师这么问了，我也愿意顺着想一想。也许女儿真正在意的不是题目本身，而是我说话的方式。那我可以试着把“你怎么又错了”换成别的说法，这样至少能少让她抵触一点。）"
+      }
+    }
+  ],
+  "created": 1794535919,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3147,
+    "total_tokens": 3278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

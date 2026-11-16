@@ -1,0 +1,41 @@
+{
+  "id": "129ac3061e1048699c4276ef166f88fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这个好像能试试。就是先认出那个念头，别急着信它。我可能做不到一次就改，但至少能留意一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说的这个方法好像没那么难，就是先分清哪些是我猜的。可我还是有点怕，万一认出来了，那个念头还是压着我怎么办。）\n（不过她没逼我立刻做到，只是让我试试看。也许可以先从下次见面时留意一下开始，不用一下子改太多。）",
+        "reasoning": "（她说的这个方法好像没那么难，就是先分清哪些是我猜的。可我还是有点怕，万一认出来了，那个念头还是压着我怎么办。）\n（不过她没逼我立刻做到，只是让我试试看。也许可以先从下次见面时留意一下开始，不用一下子改太多。）"
+      }
+    }
+  ],
+  "created": 1794536109,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 3132,
+    "total_tokens": 3226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

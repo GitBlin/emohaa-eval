@@ -1,0 +1,41 @@
+{
+  "id": "3161523d7c9e4d339a8d16b3f4b217f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先停一下，别马上怪自己。可说实话，真到那时候，我可能还是会先慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望自己能先想起什么，这让我有点慌。以前从没想过还能这样问自己，好像真的可以试着不立刻怪自己。可脑子里马上又冒出他手机的事，那种熟悉的不安又来了。）\n（我想抓住刚才那句话，但好像一碰到具体的事就又乱了。或者我可以先承认，我确实想试着停一下，哪怕只有几秒钟也好。）",
+        "reasoning": "（咨询师在问我希望自己能先想起什么，这让我有点慌。以前从没想过还能这样问自己，好像真的可以试着不立刻怪自己。可脑子里马上又冒出他手机的事，那种熟悉的不安又来了。）\n（我想抓住刚才那句话，但好像一碰到具体的事就又乱了。或者我可以先承认，我确实想试着停一下，哪怕只有几秒钟也好。）"
+      }
+    }
+  ],
+  "created": 1794536260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2718,
+    "total_tokens": 2826,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

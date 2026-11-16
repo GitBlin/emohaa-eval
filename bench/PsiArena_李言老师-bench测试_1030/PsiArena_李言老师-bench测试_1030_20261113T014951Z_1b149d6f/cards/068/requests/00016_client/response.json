@@ -1,0 +1,41 @@
+{
+  "id": "3e14f083fdfa4e86a2e59f2c7762f936",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声念了一遍）可能我会说：“妈，我最近有点累，你别担心，也不用马上安慰我。”（停顿）这样说，好像没那么难开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我用自己的口气改那句话……我脑子里先冒出来的是\"妈，我最近有点累，你别担心\"。这样听起来没那么严重，她应该不会追问太多。可我又有点拿不准，这算不算在解释？会不会一说\"累\"，她又开始问是不是工作太辛苦、要不要休息几天。）\n（不过想想，比起\"不舒服\"那么直白，说\"累\"确实更像我会说的话。至少我能说出口，不至于卡在喉咙里。先把这句说顺了，以后再慢慢往前走吧。）",
+        "reasoning": "（她让我用自己的口气改那句话……我脑子里先冒出来的是\"妈，我最近有点累，你别担心\"。这样听起来没那么严重，她应该不会追问太多。可我又有点拿不准，这算不算在解释？会不会一说\"累\"，她又开始问是不是工作太辛苦、要不要休息几天。）\n（不过想想，比起\"不舒服\"那么直白，说\"累\"确实更像我会说的话。至少我能说出口，不至于卡在喉咙里。先把这句说顺了，以后再慢慢往前走吧。）"
+      }
+    }
+  ],
+  "created": 1794538052,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2685,
+    "total_tokens": 2829,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

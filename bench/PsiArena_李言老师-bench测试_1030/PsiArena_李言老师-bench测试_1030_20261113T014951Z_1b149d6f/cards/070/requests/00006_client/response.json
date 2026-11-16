@@ -1,0 +1,41 @@
+{
+  "id": "8f7b31572abc4ed08e9f50c1cf892ccf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最想说的可能是……我其实很怕自己不够格。但马上又觉得，这样说是不是显得我太依赖别人的认可了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我直接说，可我心里还是有点打鼓。如果完全不评判，我最想说的其实是——我根本不确定自己配不配坐这个位置。但这话太直白了，说出来好像就暴露了。）\n（也许我可以先绕一下，问问她会不会觉得我太依赖她的认可。这样既试探了她的反应，又不用一下子把最脆弱的部分摊开。毕竟我还没完全信任她，得留点余地。）",
+        "reasoning": "（她让我直接说，可我心里还是有点打鼓。如果完全不评判，我最想说的其实是——我根本不确定自己配不配坐这个位置。但这话太直白了，说出来好像就暴露了。）\n（也许我可以先绕一下，问问她会不会觉得我太依赖她的认可。这样既试探了她的反应，又不用一下子把最脆弱的部分摊开。毕竟我还没完全信任她，得留点余地。）"
+      }
+    }
+  ],
+  "created": 1794538470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1505,
+    "total_tokens": 1625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

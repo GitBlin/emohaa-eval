@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:16.862931+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nTaylor had to complete a group project for the human-computer interaction course. The teams were assigned randomly, and Taylor was excited about meeting new teammates. During weeks of working on the project, he realized he was the only one doing the work, and none of his teammates were willing to help. After all projects were submitted and assessed, his group's project was selected as the best and got the highest mark.\n\n## Question 1\nWhat emotion(s) would Taylor ultimately feel in this situation?\n\n## Choices for Question 1\nA) Pride & Remorse\nB) Pride & Annoyance\nC) Disappointment & Remorse\nD) Pride & Embarrassment\nE) Embarrassment & Remorse\nF) Disappointment & Hopeless\n\n## Question 2\nWhy would Taylor feel these emotions in this situation?\n\n## Choices for Question 2\nA) His team got first place & His teammates put in a lot of effort\nB) His team got first place & He doesn't like teamwork assignments\nC) His team got first place & He did all the work for this project\nD) He did all the work for this project & His team's project was chosen as the best\nE) His contribution to the project was recognized & His team's project was chosen as the best\nF) His team got first place & His teammates got the highest mark without doing any work\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

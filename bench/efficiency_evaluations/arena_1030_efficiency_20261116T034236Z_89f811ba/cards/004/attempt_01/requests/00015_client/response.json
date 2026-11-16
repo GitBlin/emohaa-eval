@@ -1,0 +1,47 @@
+{
+  "id": "39369a5eafaa4eff923c88c079c4983f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说一点点……好像没那么吓人。可我又怕她追问，我一说就露馅了，最后还是得全说出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（班主任问过我，说明她可能真的在意我。咨询师说“只跟她说一点点”，好像没那么吓人。但我还是怕，万一我说了，她找那些人谈话，他们肯定知道是我说的，到时候更麻烦。）\n（可是不说的话，我每天都要一个人面对操场，那种害怕压得我喘不过气。也许可以先试试说一句不痛不痒的话，看老师什么反应，再决定要不要多说一点。）",
+        "reasoning": "（班主任问过我，说明她可能真的在意我。咨询师说“只跟她说一点点”，好像没那么吓人。但我还是怕，万一我说了，她找那些人谈话，他们肯定知道是我说的，到时候更麻烦。）\n（可是不说的话，我每天都要一个人面对操场，那种害怕压得我喘不过气。也许可以先试试说一句不痛不痒的话，看老师什么反应，再决定要不要多说一点。）"
+      }
+    }
+  ],
+  "created": 1794800751,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2335,
+    "total_tokens": 2455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2048,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

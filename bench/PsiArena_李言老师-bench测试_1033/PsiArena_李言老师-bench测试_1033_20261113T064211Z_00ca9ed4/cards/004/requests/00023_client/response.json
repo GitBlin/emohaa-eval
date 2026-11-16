@@ -1,0 +1,41 @@
+{
+  "id": "220bfa3d421a4404a823b26bd032c1c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "放学后……大概四点半吧，等班里人走得差不多了再去。我说这个，心里有点紧张，但也有点盼着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个老师问得挺细的，连几点去找都问。我想想，放学后班里人走得差不多了，那时候老师还在。四点半左右应该行吧，太早了人多，太晚了她可能就走了。）\n（我有点怕说错时间，但既然都聊到这一步了，总得给个准话。四点半吧，说出来心里也有个数。）",
+        "reasoning": "（这个老师问得挺细的，连几点去找都问。我想想，放学后班里人走得差不多了，那时候老师还在。四点半左右应该行吧，太早了人多，太晚了她可能就走了。）\n（我有点怕说错时间，但既然都聊到这一步了，总得给个准话。四点半吧，说出来心里也有个数。）"
+      }
+    }
+  ],
+  "created": 1794552373,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3232,
+    "total_tokens": 3339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

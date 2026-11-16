@@ -1,0 +1,41 @@
+{
+  "id": "514e57d59abc4db297527c0f8366df71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下，声音放低）其实……我也说不清楚，就是最近走在街上总觉得不太舒服，具体怎么回事我也讲不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我想先谈哪方面……我其实自己也说不清楚，但既然来了总得说点什么。不过我不想一上来就全盘托出，先随便提一下最近的状态吧，看看他会不会追问太多。他看起来还算耐心，但我还是得留个心眼，别一下子把什么都倒出来。）\n（说“走在街上不太舒服”应该够模糊了，既回应了他的问题，又不会暴露太多。如果他继续问细节，我再慢慢看要不要多说一点。现在还是先观察一下他的反应比较安全。）",
+        "reasoning": "（他问我想先谈哪方面……我其实自己也说不清楚，但既然来了总得说点什么。不过我不想一上来就全盘托出，先随便提一下最近的状态吧，看看他会不会追问太多。他看起来还算耐心，但我还是得留个心眼，别一下子把什么都倒出来。）\n（说“走在街上不太舒服”应该够模糊了，既回应了他的问题，又不会暴露太多。如果他继续问细节，我再慢慢看要不要多说一点。现在还是先观察一下他的反应比较安全。）"
+      }
+    }
+  ],
+  "created": 1794544627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1030,
+    "total_tokens": 1171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

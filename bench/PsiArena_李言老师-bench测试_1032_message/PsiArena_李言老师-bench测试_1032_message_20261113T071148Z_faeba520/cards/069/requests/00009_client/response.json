@@ -1,0 +1,41 @@
+{
+  "id": "a90db40fed8c4a1a985e0d868771a8bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就躲起来，或者看我妈怎么应对。她总是忍着。我有时候觉得自己也像她，太在意别人的脸色了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问起我小时候会怎么办……这个问题让我有点难受。那时候爸爸发火，我根本不知道该怎么办，只能躲着。现在想想，那种害怕的感觉好像一直跟着我。）\n（我是不是太依赖别人的反应了？就像小时候看爸爸的脸色一样，现在也总在猜别人会不会突然变脸。这种想法让我觉得有点丢脸，但又控制不住。）",
+        "reasoning": "（他问起我小时候会怎么办……这个问题让我有点难受。那时候爸爸发火，我根本不知道该怎么办，只能躲着。现在想想，那种害怕的感觉好像一直跟着我。）\n（我是不是太依赖别人的反应了？就像小时候看爸爸的脸色一样，现在也总在猜别人会不会突然变脸。这种想法让我觉得有点丢脸，但又控制不住。）"
+      }
+    }
+  ],
+  "created": 1794557115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1748,
+    "total_tokens": 1857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

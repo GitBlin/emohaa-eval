@@ -1,0 +1,41 @@
+{
+  "id": "02d5ad1a3a974e1b8e00f7f5a612f667",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟的话……好像还行。画什么我没想好，可能就是随便涂几笔吧，不想再给自己定任务了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没有急着否定我，还把我的尝试说成是勇敢。这让我稍微松了一点，但一听到要具体定下来画什么，又有点怕自己做不到。十分钟……听起来不算多，也许可以先从手边的东西开始，不用想太多。）\n（不过我还是担心，万一连这么小的事都坚持不了，是不是又证明我不行。可如果只是随便涂几笔，好像压力没那么大。我不想把画画也变成任务。）",
+        "reasoning": "（她好像没有急着否定我，还把我的尝试说成是勇敢。这让我稍微松了一点，但一听到要具体定下来画什么，又有点怕自己做不到。十分钟……听起来不算多，也许可以先从手边的东西开始，不用想太多。）\n（不过我还是担心，万一连这么小的事都坚持不了，是不是又证明我不行。可如果只是随便涂几笔，好像压力没那么大。我不想把画画也变成任务。）"
+      }
+    }
+  ],
+  "created": 1794540202,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2853,
+    "total_tokens": 2977,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

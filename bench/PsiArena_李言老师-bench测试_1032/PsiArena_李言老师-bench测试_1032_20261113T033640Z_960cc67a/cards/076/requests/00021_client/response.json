@@ -1,0 +1,41 @@
+{
+  "id": "a1204e3a88634bf4a3407390d322ee26",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我先说吧，但你别让我感觉像在汇报工作。我想试着讲讲这周哪些时候没那么慌，哪些时候又卡住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想先说还是她先问，其实是在给我选择权，不想让我有压力。我有点担心自己一开口就变成汇报工作，又回到那种怕被评价的状态。）\n（我想先说说这周有没有做到，但又怕讲着讲着就开始自我检查。也许可以先提醒她，别让我把话说成“做得好不好”，这样我才能松一点。）",
+        "reasoning": "（她问我想先说还是她先问，其实是在给我选择权，不想让我有压力。我有点担心自己一开口就变成汇报工作，又回到那种怕被评价的状态。）\n（我想先说说这周有没有做到，但又怕讲着讲着就开始自我检查。也许可以先提醒她，别让我把话说成“做得好不好”，这样我才能松一点。）"
+      }
+    }
+  ],
+  "created": 1794545211,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2994,
+    "total_tokens": 3104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

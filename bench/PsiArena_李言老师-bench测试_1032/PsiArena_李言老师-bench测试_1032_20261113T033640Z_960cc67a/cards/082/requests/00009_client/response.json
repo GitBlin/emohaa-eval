@@ -1,0 +1,41 @@
+{
+  "id": "82ca6adb0c954efe9c73c8dd4dee7373",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被否定……差不多吧。点头了，好像就等于承认我不如他们。我从小家里就这样，错了也得撑着，不能让人看笑话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这话说得挺准的，我抗拒的好像确实不是道理本身。可是让我承认这一点，感觉像在认输。我爸妈从小就这样，错了也要撑住，低头就是丢人。现在对着比我小的人，更拉不下脸。）\n（不过他说“被否定”，我有点被戳到了。点头之后要面对什么？大概就是承认自己不如人吧。这话说出来有点难堪，但也许可以试着讲一点家里的事。）",
+        "reasoning": "（他这话说得挺准的，我抗拒的好像确实不是道理本身。可是让我承认这一点，感觉像在认输。我爸妈从小就这样，错了也要撑住，低头就是丢人。现在对着比我小的人，更拉不下脸。）\n（不过他说“被否定”，我有点被戳到了。点头之后要面对什么？大概就是承认自己不如人吧。这话说出来有点难堪，但也许可以试着讲一点家里的事。）"
+      }
+    }
+  ],
+  "created": 1794545441,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1603,
+    "total_tokens": 1731,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

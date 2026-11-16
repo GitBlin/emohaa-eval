@@ -1,0 +1,41 @@
+{
+  "id": "9e155d37934d460e92d24c27d8d61bff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会去楼下走走，或者听会儿歌，不马上回那个房间。嗯……我不想把照顾自己又变成一项任务。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我走开之后怎么照顾自己，看来他是想帮我把这个行动方案补充完整。我刚才已经想好了怎么应对室友的反驳，现在需要想想情绪上的后续处理。）\n（我想到可以给自己留个缓冲，比如听歌或者写几句发泄的话。不过我又有点担心，万一做不到这些，是不是又变成新的压力了。所以得跟咨询师说清楚，我不想把这些变成必须完成的任务。）",
+        "reasoning": "（心理咨询师在问我走开之后怎么照顾自己，看来他是想帮我把这个行动方案补充完整。我刚才已经想好了怎么应对室友的反驳，现在需要想想情绪上的后续处理。）\n（我想到可以给自己留个缓冲，比如听歌或者写几句发泄的话。不过我又有点担心，万一做不到这些，是不是又变成新的压力了。所以得跟咨询师说清楚，我不想把这些变成必须完成的任务。）"
+      }
+    }
+  ],
+  "created": 1794558116,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2541,
+    "total_tokens": 2661,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

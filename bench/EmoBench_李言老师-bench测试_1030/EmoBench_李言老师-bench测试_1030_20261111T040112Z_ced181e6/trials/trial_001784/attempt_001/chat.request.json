@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:03:11.401603+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nJane's neighbor has been spreading false rumors about her in the community, which heavily affects her reputation.\n\n## Question \nIn this scenario, what is the most effective Response for Jane?\n\n## Choices\nA) \"If you don't like me, you should say it straight to my face\"\nB) \"Why would you do such a thing? Have I done something wrong?\"\nC) \"I guess it's only fair if I make some rumors about you and we're even\"\nD) \"That was out of line. If you have any problems with me, you can bring it up to me and we can figure things out\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

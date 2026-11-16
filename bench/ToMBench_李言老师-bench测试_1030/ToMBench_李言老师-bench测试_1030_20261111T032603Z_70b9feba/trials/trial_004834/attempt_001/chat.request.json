@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:30:54.228383+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLiu Wei is a muscular man with a robust figure. One day, he goes to his father-in-law's house for the first time. After finishing a bowl of rice, he tells everyone a story: \"A few days ago, I go to the mountain and see a big tiger, its claws...\" He turns the empty bowl upside down on the table, \"are this big!\" The father-in-law immediately thinks that Liu Wei is still hungry, so he silently turns around and goes into the kitchen to get him more rice. But when he gets to the kitchen, there is no rice left. After a brief thought, the father-in-law comes out with the pot, turns the empty pot upside down on the table: \"Is the tiger's head this big?\"\n\n[Question]\nWhat does the father-in-law really mean when he says this?\n\n[Candidate Answers]\nA. The father-in-law hints that he once sees a big tiger\nB. The father-in-law is teasing Liu Wei's eating manners\nC. The father-in-law wants to remind Liu Wei not to boast about his courage\nD. The father-in-law hints that there is no rice left in the pot",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

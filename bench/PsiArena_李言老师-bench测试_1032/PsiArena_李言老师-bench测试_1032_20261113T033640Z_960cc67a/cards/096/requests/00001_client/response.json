@@ -1,0 +1,41 @@
+{
+  "id": "e22dda9235fc40cbb449668c1e67f064",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。那个，我想先问一下，就是，咨询一般是怎么进行的啊？我需要做些什么吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师看起来挺温和的，但我不确定该不该相信她。第一次见面就说这么多真的好吗...也许可以先问问她到底会怎么进行咨询，这样至少能知道接下来要面对什么。不过还是别表现得太急切，稍微试探一下就好。）\n（她会不会觉得我问题很多很麻烦？但如果不问清楚的话，我可能根本没法开口说自己的事。先问问咨询方式吧，这样既不会显得太抗拒，也能稍微了解下情况。）",
+        "reasoning": "（心理咨询师看起来挺温和的，但我不确定该不该相信她。第一次见面就说这么多真的好吗...也许可以先问问她到底会怎么进行咨询，这样至少能知道接下来要面对什么。不过还是别表现得太急切，稍微试探一下就好。）\n（她会不会觉得我问题很多很麻烦？但如果不问清楚的话，我可能根本没法开口说自己的事。先问问咨询方式吧，这样既不会显得太抗拒，也能稍微了解下情况。）"
+      }
+    }
+  ],
+  "created": 1794546258,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 903,
+    "total_tokens": 1027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

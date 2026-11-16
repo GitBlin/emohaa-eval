@@ -1,0 +1,41 @@
+{
+  "id": "1c3a21d5ede842eb9f623ff84354fa96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像谁……说不上来。不是我爸也不是我妈，倒像是我自己长出来的一个声音，一直在我耳边说“别太过”。可我又觉得累，好像一直在跟自己较劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个声音像谁……我一下子有点说不上来。不是爸妈，他们其实挺开放的。可那个管着我的语气，又确实很熟悉。好像是很多年来我自己慢慢养成的，一边想要自由，一边又立刻把自己按住。这种感觉有点难受，但也让我意识到，我一直在跟自己打架。）\n（也许我该承认，这个声音不是别人塞给我的，是我自己长出来的。承认这一点反而让我松了口气，至少说明它不是不可动摇的。我想试着把它说清楚，哪怕还有点没想透。）",
+        "reasoning": "（她问这个声音像谁……我一下子有点说不上来。不是爸妈，他们其实挺开放的。可那个管着我的语气，又确实很熟悉。好像是很多年来我自己慢慢养成的，一边想要自由，一边又立刻把自己按住。这种感觉有点难受，但也让我意识到，我一直在跟自己打架。）\n（也许我该承认，这个声音不是别人塞给我的，是我自己长出来的。承认这一点反而让我松了口气，至少说明它不是不可动摇的。我想试着把它说清楚，哪怕还有点没想透。）"
+      }
+    }
+  ],
+  "created": 1794535538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2669,
+    "total_tokens": 2819,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

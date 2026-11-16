@@ -1,0 +1,41 @@
+{
+  "id": "445a2f242fac49a9b6439c4444f0fc2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有。（很快地）说了也没用，他们那么忙。而且……我们家不兴说这些，奶奶总说懂事的孩子不添乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有跟爸妈说过想念……这个问题让我有点难受。家里从来不会说这种话，说了反而显得矫情。奶奶总说要懂事，要体谅他们忙。我要是说我想他们，好像就是在怪他们一样。）\n（其实我也试过想开口，但话到嘴边就咽回去了。他们那么累，我再提这些，不是添乱吗。而且说了又能怎样，他们也不会因此就不忙了。）",
+        "reasoning": "（她问有没有跟爸妈说过想念……这个问题让我有点难受。家里从来不会说这种话，说了反而显得矫情。奶奶总说要懂事，要体谅他们忙。我要是说我想他们，好像就是在怪他们一样。）\n（其实我也试过想开口，但话到嘴边就咽回去了。他们那么累，我再提这些，不是添乱吗。而且说了又能怎样，他们也不会因此就不忙了。）"
+      }
+    }
+  ],
+  "created": 1794556633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1771,
+    "total_tokens": 1894,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

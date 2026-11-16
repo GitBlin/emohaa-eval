@@ -1,0 +1,41 @@
+{
+  "id": "70f3842f071a4468914291f5720fe761",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那还好。我就是怕我妈知道，她要是知道了肯定会一直问。不过我现在还不想说那么细，你不会觉得我这样很难搞吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才把保密的事说得很清楚，还问我具体担心被谁知道……这让我稍微松了口气，至少她没敷衍我。但我还是不太想马上说太多，毕竟刚认识，谁知道她会不会转头就告诉我妈。）\n（其实我真正怕的是我妈知道后会一直追问，她总觉得我该把心思都放在学习上。不过这些我还不打算说，先看看她接下来会怎么问吧。）",
+        "reasoning": "（她刚才把保密的事说得很清楚，还问我具体担心被谁知道……这让我稍微松了口气，至少她没敷衍我。但我还是不太想马上说太多，毕竟刚认识，谁知道她会不会转头就告诉我妈。）\n（其实我真正怕的是我妈知道后会一直追问，她总觉得我该把心思都放在学习上。不过这些我还不打算说，先看看她接下来会怎么问吧。）"
+      }
+    }
+  ],
+  "created": 1794536336,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1210,
+    "total_tokens": 1332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

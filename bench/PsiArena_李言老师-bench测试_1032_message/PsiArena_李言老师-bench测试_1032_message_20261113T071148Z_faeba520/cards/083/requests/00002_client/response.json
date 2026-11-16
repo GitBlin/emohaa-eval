@@ -1,0 +1,41 @@
+{
+  "id": "cd42085a88ad42489608037bffeed868",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清楚……就是身体老是觉得不对劲，但又说不上具体哪里出问题。对了，你做这行多久了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来比较温和，没有给我压力，说可以随时停下来。但我还是不太确定该不该完全信任他，毕竟第一次见面。他问我最近最放不下什么，我其实有很多话想说，但又不知道从哪开始。身体不舒服的事一直压在心里，可说出来好像显得我很软弱，而且去医院的事……唉，先含糊地提一下身体的问题吧，看看他什么反应。）\n（不过还是得试探一下，我对他了解太少了。问问他的经验，这样心里能踏实点。虽然知道这样问可能有点冒犯，但总比稀里糊涂地什么都说出来强。）",
+        "reasoning": "（这位咨询师看起来比较温和，没有给我压力，说可以随时停下来。但我还是不太确定该不该完全信任他，毕竟第一次见面。他问我最近最放不下什么，我其实有很多话想说，但又不知道从哪开始。身体不舒服的事一直压在心里，可说出来好像显得我很软弱，而且去医院的事……唉，先含糊地提一下身体的问题吧，看看他什么反应。）\n（不过还是得试探一下，我对他了解太少了。问问他的经验，这样心里能踏实点。虽然知道这样问可能有点冒犯，但总比稀里糊涂地什么都说出来强。）"
+      }
+    }
+  ],
+  "created": 1794557826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 979,
+    "total_tokens": 1137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 130,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

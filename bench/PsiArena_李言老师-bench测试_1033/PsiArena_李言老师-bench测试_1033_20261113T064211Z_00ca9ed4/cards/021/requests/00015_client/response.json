@@ -1,0 +1,41 @@
+{
+  "id": "6321cd4556bb416b9e12af17ad7396b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（情绪有点上来）有次她半夜喊我，我实在太累了，冲她发了火。第二天她什么都不记得了，可我记得。（停顿）我到现在都过不去这个坎，觉得自己特别不是人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体是哪件事放不下。这个问题让我一下子想到很多，可脑子里最清楚的就是那次冲她发火。她当时那个眼神，我现在还记得。我其实不想说这个，但既然她问了，也许该说出来。）\n（说到这个我就觉得自己挺没用的，一个当儿子的，连好好说话都做不到。我是不是真的没照顾好她，可能不只是这一件事，是很多小事堆起来的。但最让我过不去的，还是那次发火。）",
+        "reasoning": "（她问我具体是哪件事放不下。这个问题让我一下子想到很多，可脑子里最清楚的就是那次冲她发火。她当时那个眼神，我现在还记得。我其实不想说这个，但既然她问了，也许该说出来。）\n（说到这个我就觉得自己挺没用的，一个当儿子的，连好好说话都做不到。我是不是真的没照顾好她，可能不只是这一件事，是很多小事堆起来的。但最让我过不去的，还是那次发火。）"
+      }
+    }
+  ],
+  "created": 1794553095,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2494,
+    "total_tokens": 2639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

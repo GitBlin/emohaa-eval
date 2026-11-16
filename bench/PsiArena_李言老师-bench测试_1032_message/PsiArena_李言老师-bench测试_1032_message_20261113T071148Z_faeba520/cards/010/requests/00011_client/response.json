@@ -1,0 +1,41 @@
+{
+  "id": "08e12006f49f45b0b94df4d475f7842b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是。从小在家里，出了什么问题，爸妈也总说多从自己身上找原因。可这次我真觉得不全是我的问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是常怪自己，这让我想到平时确实总先怀疑自己是不是不够好。可那个同学明明很优秀却老说自己不行，这让我更难受，好像他那样说反而显得我更差。）\n（在我家里，爸妈也总说要多从自己身上找原因，所以我一遇到不顺就先怪自己。但这次我觉得不全是我自己的问题，那个同学那样说话确实让我很不舒服。）",
+        "reasoning": "（咨询师问我是不是常怪自己，这让我想到平时确实总先怀疑自己是不是不够好。可那个同学明明很优秀却老说自己不行，这让我更难受，好像他那样说反而显得我更差。）\n（在我家里，爸妈也总说要多从自己身上找原因，所以我一遇到不顺就先怪自己。但这次我觉得不全是我自己的问题，那个同学那样说话确实让我很不舒服。）"
+      }
+    }
+  ],
+  "created": 1794554326,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1859,
+    "total_tokens": 1978,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

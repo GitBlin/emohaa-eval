@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:16:22.089678+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nMom finishes making dinner, comes to the dining room to eat with dad and son, sees two pairs of chopsticks on the table, and says, \"Strange, how many of us eat together today?\"\n\n[Question]\nWhat does mom really mean when she says this?\n\n[Candidate Answers]\nA. Mom hints that she should get another pair of chopsticks.\nB. Mom hints that there should be more people coming home.\nC. Mom hints that she is not very hungry and may not eat much food.\nD. Mom is asking about the number of people eating together.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

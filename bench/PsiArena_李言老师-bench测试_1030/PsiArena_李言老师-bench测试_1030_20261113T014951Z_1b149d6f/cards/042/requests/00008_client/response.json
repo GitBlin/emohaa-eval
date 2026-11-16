@@ -1,0 +1,41 @@
+{
+  "id": "c579bd33f45d455db696d4cdd2345306",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "医生还说我肝的指标也不太好，让我必须戒酒。可他一说“必须”，我心里就更烦……好像我什么都不做到似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（医生提到血糖的时候，我其实心里一沉。他问得这么直接，倒让我觉得他不是在敷衍我。可“别的”……真要说出来，好像就是在承认自己身体已经烂到一定程度了。）\n（我有点想避开这个话题，但话到嘴边又觉得瞒着没意思。毕竟他刚才没指责我，只是把喝酒和血糖的关系摆出来。也许我该把医生原话带出来，看看他什么反应，也算试探他到底能不能接住我这些烂摊子。）",
+        "reasoning": "（医生提到血糖的时候，我其实心里一沉。他问得这么直接，倒让我觉得他不是在敷衍我。可“别的”……真要说出来，好像就是在承认自己身体已经烂到一定程度了。）\n（我有点想避开这个话题，但话到嘴边又觉得瞒着没意思。毕竟他刚才没指责我，只是把喝酒和血糖的关系摆出来。也许我该把医生原话带出来，看看他什么反应，也算试探他到底能不能接住我这些烂摊子。）"
+      }
+    }
+  ],
+  "created": 1794536593,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1772,
+    "total_tokens": 1912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

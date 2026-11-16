@@ -1,0 +1,41 @@
+{
+  "id": "56e5d6425f2e490bb293db2c23737816",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概有几个月了吧……从我们慢慢走近开始。（顿了顿）其实我知道他家里也有压力，他好像一直不敢让人知道我们的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问这个问题是想了解这段关系持续了多久，进而评估我的情绪困扰有多深。我得回忆一下具体时间，但说着说着可能会想到更多细节。）\n（我有点犹豫要不要提他家里的事，毕竟这涉及他的隐私。但不说的话，好像又没法解释他为什么总是退缩。还是先提一下，看看咨询师什么反应吧。）",
+        "reasoning": "（他问这个问题是想了解这段关系持续了多久，进而评估我的情绪困扰有多深。我得回忆一下具体时间，但说着说着可能会想到更多细节。）\n（我有点犹豫要不要提他家里的事，毕竟这涉及他的隐私。但不说的话，好像又没法解释他为什么总是退缩。还是先提一下，看看咨询师什么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794555567,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1682,
+    "total_tokens": 1788,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:34:46.732254+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nQiQi, JunJun, and HanHan are all members of their community activity group. They are planning a new community service project. HanHan is a new member, he does not understand community service very well. One day, JunJun finds QiQi holding a detailed plan of the community service project they are planning. QiQi raises her eyebrows at JunJun, lightly shakes the plan in her hand, then turns to look at HanHan, as if hinting at something. QiQi quickly glances at JunJun, then hands the document to HanHan with a smile. HanHan cheerfully accepts the plan and starts to read.\n\n[Question]\nWhy does QiQi give the document to HanHan?\n\n[Candidate Answers]\nA. QiQi wants HanHan to play the role of the person in charge.\nB. QiQi wants HanHan to get into work mode.\nC. QiQi hopes HanHan increases his involvement in the planning.\nD. QiQi needs HanHan to help revise the plan.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

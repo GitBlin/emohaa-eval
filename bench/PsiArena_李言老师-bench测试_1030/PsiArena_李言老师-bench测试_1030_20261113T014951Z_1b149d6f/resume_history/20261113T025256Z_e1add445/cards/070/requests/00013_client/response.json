@@ -1,0 +1,41 @@
+{
+  "id": "e7b10e7cc68e416b98e774635a7d0a4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我可能想说……昨天有个来访者临时改时间，我明明没生气，可挂了电话之后，我反复想是不是我哪里没做好，想了一晚上。说出来都觉得有点小题大做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师一直在引导我去看见那些被压抑的“小事”，刚才提到父亲那句“这点事也值得说”，确实让我心里一紧。现在她问我“最先想说的是哪件”，我脑子里立刻浮现出昨天那个来访者的事——明明是很小的一件事，但我却反复想了一晚上。这种说出来会不会显得太小题大做了？可咨询师刚才说“允许你说一件小事”，也许我真的可以试试，虽然还是有点犹豫。）",
+        "reasoning": "（这位咨询师一直在引导我去看见那些被压抑的“小事”，刚才提到父亲那句“这点事也值得说”，确实让我心里一紧。现在她问我“最先想说的是哪件”，我脑子里立刻浮现出昨天那个来访者的事——明明是很小的一件事，但我却反复想了一晚上。这种说出来会不会显得太小题大做了？可咨询师刚才说“允许你说一件小事”，也许我真的可以试试，虽然还是有点犹豫。）"
+      }
+    }
+  ],
+  "created": 1794538111,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2386,
+    "total_tokens": 2525,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

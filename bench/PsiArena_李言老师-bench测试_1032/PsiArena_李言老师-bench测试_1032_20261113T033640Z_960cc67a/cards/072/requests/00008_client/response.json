@@ -1,0 +1,41 @@
+{
+  "id": "99e0de98620f46b6a7e134998093f191",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "空罐子吧。玻璃的、铁皮的，洗干净了就摞起来。我总觉得以后能装点什么……（停顿）其实家里根本没那么多东西要装。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了具体哪类东西舍不得扔，这让我想起家里那些罐子。她好像没有评判我，而是顺着刚才节俭的话题往下问，让我觉得可以多说一点。）\n（那些空罐子确实是最典型的，每次看到都觉得以后能派上用场，可实际上从来没装过什么。这跟从小家里教的不浪费东西有关，好像扔掉就是对不起那些年的苦日子。）",
+        "reasoning": "（咨询师问到了具体哪类东西舍不得扔，这让我想起家里那些罐子。她好像没有评判我，而是顺着刚才节俭的话题往下问，让我觉得可以多说一点。）\n（那些空罐子确实是最典型的，每次看到都觉得以后能派上用场，可实际上从来没装过什么。这跟从小家里教的不浪费东西有关，好像扔掉就是对不起那些年的苦日子。）"
+      }
+    }
+  ],
+  "created": 1794544930,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1557,
+    "total_tokens": 1678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

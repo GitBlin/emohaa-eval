@@ -1,0 +1,41 @@
+{
+  "id": "2c19b117a3ff403582d1bd81a4ee144b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这周末吧，她那天好像不在。（顿了顿）说真的，想到要去，心里还是有点紧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算哪天去，好像真把这件事当成我能做到的了。我本来觉得这只是想想而已，可被她这么一问，我突然觉得也许可以试试。）\n（这周末室友不在，家里安静些，我或许能自己把衣服买回来。想到要真的去做，心里有点紧，但也不是完全害怕。）",
+        "reasoning": "（她问我打算哪天去，好像真把这件事当成我能做到的了。我本来觉得这只是想想而已，可被她这么一问，我突然觉得也许可以试试。）\n（这周末室友不在，家里安静些，我或许能自己把衣服买回来。想到要真的去做，心里有点紧，但也不是完全害怕。）"
+      }
+    }
+  ],
+  "created": 1794539688,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3456,
+    "total_tokens": 3547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

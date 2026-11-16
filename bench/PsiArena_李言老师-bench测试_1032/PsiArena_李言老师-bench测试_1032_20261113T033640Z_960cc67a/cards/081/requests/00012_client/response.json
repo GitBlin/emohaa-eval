@@ -1,0 +1,41 @@
+{
+  "id": "3cc13b78c458432cb8c8e3f199506b59",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）其实不是哪一本，是一整排。我一看书架就觉得欠了好多债。越“该读”的，我越不敢碰。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，是想让我具体看看焦虑是从哪本书冒出来的吧。可我脑子里其实不是哪一本，是一整排书压过来，那种感觉更像一整面墙，而不是单独一本。）\n（而且我平时确实会先挑那种“最该读”的，好像不先读它就对不起自己。这个习惯好像跟我从小被要求“有用”有关，越想越觉得累。）",
+        "reasoning": "（他这么问，是想让我具体看看焦虑是从哪本书冒出来的吧。可我脑子里其实不是哪一本，是一整排书压过来，那种感觉更像一整面墙，而不是单独一本。）\n（而且我平时确实会先挑那种“最该读”的，好像不先读它就对不起自己。这个习惯好像跟我从小被要求“有用”有关，越想越觉得累。）"
+      }
+    }
+  ],
+  "created": 1794545408,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1965,
+    "total_tokens": 2082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

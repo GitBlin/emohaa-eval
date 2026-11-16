@@ -1,0 +1,41 @@
+{
+  "id": "281192fcd3ab44868261379a716d1e0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有点像我爸那种挑剔的口气。不过……好像也混着我自己的。我总怕别人挑我毛病，就先自己挑一遍。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（那个挑毛病的声音……被这么一问，我脑子里突然就冒出我爸的样子。他总是一脸不满意，看什么都不顺眼。我好像把他那套标准装进自己心里了，连画完稿子都要先自己审一遍。）\n（可仔细想想，那个声音也不全是我爸的。有时候更像是我自己，怕别人挑我毛病，就先自己挑一遍。这样别人就挑不出什么了。挺累的，但好像一直这么干。）",
+        "reasoning": "（那个挑毛病的声音……被这么一问，我脑子里突然就冒出我爸的样子。他总是一脸不满意，看什么都不顺眼。我好像把他那套标准装进自己心里了，连画完稿子都要先自己审一遍。）\n（可仔细想想，那个声音也不全是我爸的。有时候更像是我自己，怕别人挑我毛病，就先自己挑一遍。这样别人就挑不出什么了。挺累的，但好像一直这么干。）"
+      }
+    }
+  ],
+  "created": 1794536438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2542,
+    "total_tokens": 2674,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

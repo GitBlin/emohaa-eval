@@ -1,0 +1,41 @@
+{
+  "id": "27c3b55f093d4133a0a71474d01d0024",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能……先停一下，告诉自己这只是那个老声音，不是我做得真的有多糟。不过说实话，真到那时候，我不确定自己能不能做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望怎么对待那个声音……我其实从来没想过还能“对它说”什么，以前只会被它压着走。现在想想，也许我可以试着不那么快信它。）\n（不过真到那时候，我大概还是会慌。得先能停下来，才谈得上别的。这个方向好像可以试试。）",
+        "reasoning": "（她问我希望怎么对待那个声音……我其实从来没想过还能“对它说”什么，以前只会被它压着走。现在想想，也许我可以试着不那么快信它。）\n（不过真到那时候，我大概还是会慌。得先能停下来，才谈得上别的。这个方向好像可以试试。）"
+      }
+    }
+  ],
+  "created": 1794554340,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2263,
+    "total_tokens": 2363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

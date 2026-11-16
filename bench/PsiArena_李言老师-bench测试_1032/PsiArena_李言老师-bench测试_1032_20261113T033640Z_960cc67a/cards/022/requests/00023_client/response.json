@@ -1,0 +1,41 @@
+{
+  "id": "a67e4a23ebcd4cdaaecb1ad9de6b1eac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前几天打电话吧。我本来想说说自己最近累，结果说着说着又开始检讨自己，她反而语气好了点。我挂了电话又觉得挺没劲的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次的具体情形，我脑子里马上浮现出打电话的画面。那种明明想说说自己的累，可话到嘴边又变成检讨自己的感觉，太熟悉了。我有点犹豫要不要讲得那么细，毕竟这是家里的事，说出来好像显得我很计较。但刚才她一直在认真听，也许我可以试着说一点点。）\n（而且我确实累了，每次挂完电话都会反复想自己是不是又说错了。这种累不是身体上的，是心里一直绷着。我想让她知道，我不是不想改，是每次一开始就不知道该怎么停。）",
+        "reasoning": "（她问的是最近一次的具体情形，我脑子里马上浮现出打电话的画面。那种明明想说说自己的累，可话到嘴边又变成检讨自己的感觉，太熟悉了。我有点犹豫要不要讲得那么细，毕竟这是家里的事，说出来好像显得我很计较。但刚才她一直在认真听，也许我可以试着说一点点。）\n（而且我确实累了，每次挂完电话都会反复想自己是不是又说错了。这种累不是身体上的，是心里一直绷着。我想让她知道，我不是不想改，是每次一开始就不知道该怎么停。）"
+      }
+    }
+  ],
+  "created": 1794542294,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 3126,
+    "total_tokens": 3280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

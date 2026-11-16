@@ -1,0 +1,60 @@
+{
+  "trial_id": "trial_001892",
+  "sample_id": "Strange Story Task:280",
+  "task_file": "Strange Story Task",
+  "ability": "Belief: Identity false beliefs",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "D",
+    "B": "A",
+    "C": "C",
+    "D": "B"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "B",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:36:56.438492+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:37:18.207123+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:37:41.784961+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "55d4a89cc64447b0bbff180b517e0bca"
+  ],
+  "started_at": "2026-11-12T09:36:56.438492+00:00",
+  "finished_at": "2026-11-12T09:37:48.511647+00:00",
+  "elapsed_seconds": 52.0733806155622,
+  "user_id": "liyan_a3ac602bee2a9be5cdbc9ee7340ce98e7dbd56d5"
+}

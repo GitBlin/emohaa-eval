@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:20.042472+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn an amusement park, friends are lining up to ride the roller coaster. Xiao Ming tells Xiao Hong, \"Our company brings 30 groups of people this time, most people choose to ride the roller coaster, some choose the bumper cars, but almost no one chooses the carousel.\" Xiao Hong observes and finds that only 4 groups of people are on the bumper cars.\n\n[Question]\nPlease guess how many groups choose the roller coaster before Xiao Hong observes?\n\n[Candidate Answers]\nA. Before Xiao Hong observes, she guesses that 26 groups of people choose the roller coaster.\nB. Before Xiao Hong observes, she guesses that 25 groups of people choose the roller coaster.\nC. Before Xiao Hong observes, she guesses that 10 groups of people choose the roller coaster.\nD. Before Xiao Hong observes, she guesses that 30 groups of people choose the roller coaster.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

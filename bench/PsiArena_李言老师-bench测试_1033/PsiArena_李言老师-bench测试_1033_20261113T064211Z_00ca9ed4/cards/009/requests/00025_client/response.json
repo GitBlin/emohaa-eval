@@ -1,0 +1,41 @@
+{
+  "id": "bb78cd643ca4498289b09fb80e878dec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是话到嘴边、还没说出口的那几秒吧，心跳会快起来。不过今天聊下来，我心里好像有个底了，知道可以给自己留个缝。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我紧张会在哪个瞬间冒出来，我一下子想到的就是话要出口前那几秒。那种感觉我太熟了，心跳会快，脑子里全是对方会不会不高兴。）\n（不过这次聊下来，我也确实明白了一件事——不用马上去哄她。虽然还是怕，但至少心里有个底了，知道可以给自己留个缝。）",
+        "reasoning": "（她问我紧张会在哪个瞬间冒出来，我一下子想到的就是话要出口前那几秒。那种感觉我太熟了，心跳会快，脑子里全是对方会不会不高兴。）\n（不过这次聊下来，我也确实明白了一件事——不用马上去哄她。虽然还是怕，但至少心里有个底了，知道可以给自己留个缝。）"
+      }
+    }
+  ],
+  "created": 1794552553,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3666,
+    "total_tokens": 3778,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d4208ac4f4184727a7a69fb4a2e189f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那天我手头自己那份活已经压到最后期限了，晚上还得赶回家给我妈送药。可这些我当时都没跟她说……我怕说了像在找借口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，让我觉得她是真的在听，不是随便应付我。可要我说当时的情况，好像就得把家里那套规矩也扯出来，有点乱。）\n（我其实心里清楚，那天活实在太多，可一想到同事失望的样子，又觉得自己在找借口。家里从小就说助人为乐，好像拒绝别人就是我不对似的。）",
+        "reasoning": "（她这么问，让我觉得她是真的在听，不是随便应付我。可要我说当时的情况，好像就得把家里那套规矩也扯出来，有点乱。）\n（我其实心里清楚，那天活实在太多，可一想到同事失望的样子，又觉得自己在找借口。家里从小就说助人为乐，好像拒绝别人就是我不对似的。）"
+      }
+    }
+  ],
+  "created": 1794541431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1665,
+    "total_tokens": 1778,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

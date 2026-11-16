@@ -1,0 +1,41 @@
+{
+  "id": "dad0ea4ad819463087c12972e0450817",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点酸吧…不过也没什么，他们都忙。我好像也不太会跟他们说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像真的在听我说话，不是随便问问。她说“想被照顾一下”的时候，我心里突然有点酸，因为从来没人这么说过。但我不想哭出来，太丢人了。）\n（其实我有点想告诉她更多，比如我有时候特别想跟爸妈说说话，可他们一回来就累得不想理我。可我又怕说多了显得我很矫情，毕竟他们工作也不容易。）",
+        "reasoning": "（这个咨询师好像真的在听我说话，不是随便问问。她说“想被照顾一下”的时候，我心里突然有点酸，因为从来没人这么说过。但我不想哭出来，太丢人了。）\n（其实我有点想告诉她更多，比如我有时候特别想跟爸妈说说话，可他们一回来就累得不想理我。可我又怕说多了显得我很矫情，毕竟他们工作也不容易。）"
+      }
+    }
+  ],
+  "created": 1794540392,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2010,
+    "total_tokens": 2119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

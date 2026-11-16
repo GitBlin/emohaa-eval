@@ -1,0 +1,41 @@
+{
+  "id": "938d68011ff9488c9105497c3fbaedde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧，有次考试拿了98分，我挺高兴地回家，结果我爸只问那两分丢哪了。那会儿我就觉得，做到98分好像也不算数。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最早从哪件事开始觉得不能出错。我脑子里一下冒出很多画面，但最清楚的是小时候考了98分那次。）\n（我本来不想说得太细，可既然都聊到这儿了，也许说出来能让他明白那种感觉。不过说完又有点后悔，怕显得自己太计较小时候的事。）",
+        "reasoning": "（咨询师在问我最早从哪件事开始觉得不能出错。我脑子里一下冒出很多画面，但最清楚的是小时候考了98分那次。）\n（我本来不想说得太细，可既然都聊到这儿了，也许说出来能让他明白那种感觉。不过说完又有点后悔，怕显得自己太计较小时候的事。）"
+      }
+    }
+  ],
+  "created": 1794544266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2109,
+    "total_tokens": 2220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

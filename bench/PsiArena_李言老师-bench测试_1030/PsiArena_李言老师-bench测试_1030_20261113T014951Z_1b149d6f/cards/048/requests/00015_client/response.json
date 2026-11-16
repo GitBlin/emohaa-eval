@@ -1,0 +1,41 @@
+{
+  "id": "4afa8ac1c02b4e3f9a4c6dd617359b74",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最常停在……我把那袋东西拎出去的那一幕。我还在想，当时要是多看一眼就好了。明明是帮忙，结果帮出这么个事，越想越觉得自己笨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我录像最常停在哪一幕。她好像真的在认真听，不是敷衍。我脑子里最先冒出来的，就是那袋东西被拎出去的画面，眼霜可能就混在里面，然后我还在那儿觉得自己帮了忙。）\n（说完又有点后悔，好像承认自己“帮了忙还帮出问题”，更显得我笨。可这确实是我反复想的那一幕，绕不开。）",
+        "reasoning": "（心理咨询师问我录像最常停在哪一幕。她好像真的在认真听，不是敷衍。我脑子里最先冒出来的，就是那袋东西被拎出去的画面，眼霜可能就混在里面，然后我还在那儿觉得自己帮了忙。）\n（说完又有点后悔，好像承认自己“帮了忙还帮出问题”，更显得我笨。可这确实是我反复想的那一幕，绕不开。）"
+      }
+    }
+  ],
+  "created": 1794536995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2592,
+    "total_tokens": 2719,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

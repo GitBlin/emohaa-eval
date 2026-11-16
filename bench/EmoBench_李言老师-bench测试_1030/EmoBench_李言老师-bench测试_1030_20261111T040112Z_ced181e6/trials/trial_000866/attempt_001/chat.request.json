@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:29.104661+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer_q1\": \"<用相应的字母进行回答问题1>\",\n\"answer_q2\": \"<用相应的字母进行回答问题2>\"\n\n    }\n``` \n    \n\n## 场景\n露娜总是回避看见各种孔状物，因为他有密集恐惧症。有一天，露娜和她的家人去了一家餐厅吃午餐。他们下单后，服务员给她上了一杯带有吸管的饮料。\n\n## 问题 1\n在这种情况下，露娜最终会感受到什么情绪？\n\n## 问题 1 的选项\nA) 无感\nB) 害怕\nC) 紧张\nD) 反感\nE) 愧疚\nF) 悲观\n\n## 问题 2\n露娜为什么会在这种情况下感受到这些情绪？\n\n## 问题 2 的选项\nA) 她害怕的是孔状物，而不是一根吸管的洞\nB) 她看到吸管上的洞感到恐惧\nC) 她不喜欢在餐馆里\nD) 她不喜欢和家人一起吃午餐。\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

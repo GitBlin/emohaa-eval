@@ -1,0 +1,41 @@
+{
+  "id": "b8fcb4387f7541a7ab7f6052088941f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）那我加上一句……“想请您帮我看着点”。老师，这样写她会不会觉得我要求太多？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师这么问，是觉得我还能再往前走一步。可我心里其实有点打鼓，怕加了要求，老师反而觉得我事多。不过她说的也对，要是只说我害怕，老师可能也不知道该怎么帮我。）\n（我想试着加一句“想请您帮我看着点”，又觉得这样会不会太麻烦老师了。可要是不说，我可能又得自己一个人扛着。先问问她这样写行不行吧，至少她在这里，能听我说。）",
+        "reasoning": "（老师这么问，是觉得我还能再往前走一步。可我心里其实有点打鼓，怕加了要求，老师反而觉得我事多。不过她说的也对，要是只说我害怕，老师可能也不知道该怎么帮我。）\n（我想试着加一句“想请您帮我看着点”，又觉得这样会不会太麻烦老师了。可要是不说，我可能又得自己一个人扛着。先问问她这样写行不行吧，至少她在这里，能听我说。）"
+      }
+    }
+  ],
+  "created": 1794534854,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2444,
+    "total_tokens": 2570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

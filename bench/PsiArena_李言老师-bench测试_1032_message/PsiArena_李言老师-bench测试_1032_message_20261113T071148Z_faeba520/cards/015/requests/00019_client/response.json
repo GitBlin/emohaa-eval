@@ -1,0 +1,41 @@
+{
+  "id": "51d42c2c73aa45169879b35494f5fce5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小事啊……比如晚上少刷会儿手机，早点躺下？或者白天出门走走。听起来挺简单的，可我总觉得自己没资格这么“闲”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“稳一点”拆成小步骤，这个方向让我觉得没那么难。可我心里还是有点打鼓，怕自己连小事都做不好。）\n（不过她说得对，不用一步到位。我想了想，也许真能从小事开始，比如给自己留一点安静的时间。只是这个念头一冒出来，我又担心这样是不是太不顾别人了。）",
+        "reasoning": "（咨询师在帮我把“稳一点”拆成小步骤，这个方向让我觉得没那么难。可我心里还是有点打鼓，怕自己连小事都做不好。）\n（不过她说得对，不用一步到位。我想了想，也许真能从小事开始，比如给自己留一点安静的时间。只是这个念头一冒出来，我又担心这样是不是太不顾别人了。）"
+      }
+    }
+  ],
+  "created": 1794554583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2795,
+    "total_tokens": 2910,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "73b2761b48fa467ea6f4265b0da8aadc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就自己消化吧……有时候消化不掉，就积着。其实我知道这样不好，可一开口又觉得别扭，好像不该麻烦别人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我憋着的情绪最后去哪儿了，这让我想起很多小时候的事。家里总是这样，有话不说，有感受也不提，好像说出来就会破坏什么似的。）\n（我其实一直很清楚自己受了家里影响，但真的去面对这个事实还是有点难受。说出来的时候，那种委屈和无奈一下子涌上来了，声音可能都有点抖。不过说出来之后，反而觉得轻松了一点。）",
+        "reasoning": "（咨询师问我憋着的情绪最后去哪儿了，这让我想起很多小时候的事。家里总是这样，有话不说，有感受也不提，好像说出来就会破坏什么似的。）\n（我其实一直很清楚自己受了家里影响，但真的去面对这个事实还是有点难受。说出来的时候，那种委屈和无奈一下子涌上来了，声音可能都有点抖。不过说出来之后，反而觉得轻松了一点。）"
+      }
+    }
+  ],
+  "created": 1794556843,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1779,
+    "total_tokens": 1895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

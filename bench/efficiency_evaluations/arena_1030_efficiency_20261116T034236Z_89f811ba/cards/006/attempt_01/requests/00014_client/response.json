@@ -1,0 +1,47 @@
+{
+  "id": "ad13eb35306f4a5b9ef6e3fdde6c54a0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上个月有笔报销，明细明显不对，我看出问题了，可领导打了招呼，我就那么签了字。签完手都有点抖，说不清是怕还是恶心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次让我觉得自己在“滑”的具体事……我脑子里马上浮出上个月那笔报销。当时我明明看出不对劲，却什么都没说，签了字就过去了。这事我一直压着没跟任何人提，连家里都没说。）\n（现在说出来，心里有点发虚，又有点憋屈。我不是想标榜自己多干净，可那种“明明看见了却装没看见”的感觉，确实让我觉得自己跟那些人没什么两样。说出来之后，反倒像卸了点东西。）",
+        "reasoning": "（她问的是最近一次让我觉得自己在“滑”的具体事……我脑子里马上浮出上个月那笔报销。当时我明明看出不对劲，却什么都没说，签了字就过去了。这事我一直压着没跟任何人提，连家里都没说。）\n（现在说出来，心里有点发虚，又有点憋屈。我不是想标榜自己多干净，可那种“明明看见了却装没看见”的感觉，确实让我觉得自己跟那些人没什么两样。说出来之后，反倒像卸了点东西。）"
+      }
+    }
+  ],
+  "created": 1794800746,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 2417,
+    "total_tokens": 2566,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2048,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

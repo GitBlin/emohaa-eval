@@ -1,0 +1,41 @@
+{
+  "id": "c3b5d08152ff4b4db384020b75b0c6f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）应该……不会吧，他们都在聊姐姐的事。（小声）不过我还是有点发怵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我他们会不会注意到，其实我也有点不确定。但仔细想想，聚会时大家聊得那么热闹，谁会一直盯着我看呢。去倒杯水这种小事，应该没人会特别留意吧。）\n（不过要我真的这么做，还是有点发怵，总觉得像是偷偷溜走一样。但也许可以先试试看，找个人少的时候，或者假装去拿点吃的。）",
+        "reasoning": "（她问我他们会不会注意到，其实我也有点不确定。但仔细想想，聚会时大家聊得那么热闹，谁会一直盯着我看呢。去倒杯水这种小事，应该没人会特别留意吧。）\n（不过要我真的这么做，还是有点发怵，总觉得像是偷偷溜走一样。但也许可以先试试看，找个人少的时候，或者假装去拿点吃的。）"
+      }
+    }
+  ],
+  "created": 1794558243,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2282,
+    "total_tokens": 2389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

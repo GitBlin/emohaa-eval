@@ -1,0 +1,41 @@
+{
+  "id": "a5238870a71f4b67a86d066b07261efe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "消化不了……就是躺着翻来覆去地想，越想越觉得自己这也不行那也不行。有时候想着想着，就觉得是不是我这个人本来就有问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我挂了电话怎么消化，我其实很少跟人讲这些。一般就是自己闷着，躺着翻来覆去地想。想到最后好像都是自己不够好，不然怎么什么都做不成。）\n（我妈一个人把我拉扯大，我总觉得不能让她再操心了。可越这么想，越觉得自己没用，连个像样的工作都找不到。这种话平时没人说，说了也怕人家觉得我矫情。）",
+        "reasoning": "（她问我挂了电话怎么消化，我其实很少跟人讲这些。一般就是自己闷着，躺着翻来覆去地想。想到最后好像都是自己不够好，不然怎么什么都做不成。）\n（我妈一个人把我拉扯大，我总觉得不能让她再操心了。可越这么想，越觉得自己没用，连个像样的工作都找不到。这种话平时没人说，说了也怕人家觉得我矫情。）"
+      }
+    }
+  ],
+  "created": 1794557409,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1931,
+    "total_tokens": 2054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

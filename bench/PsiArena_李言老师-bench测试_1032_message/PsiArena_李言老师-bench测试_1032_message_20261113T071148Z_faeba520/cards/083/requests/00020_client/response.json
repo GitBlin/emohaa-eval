@@ -1,0 +1,41 @@
+{
+  "id": "52272c6604124c4d8a72ad84cbed63c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先聊聊最近身体不太舒服，然后再说那句“陪我去趟医院”。就是不知道说完之后她会不会追问一堆，我又答不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么起头，是直接说还是先铺垫。我本来想直接说，但话到嘴边又觉得太突兀了，得找个由头。散步的时候说身体最近不太舒服，这个好像自然一点。不过说完这句之后呢，后面那句“陪我去趟医院”还是很难开口，感觉会一下子把气氛弄得很重。）\n（而且我有点担心，万一她问东问西，我又不知道怎么解释，到时候可能就不想说了。也许可以先把开头想好，后面的事到时候再看吧。至少先迈出第一步。）",
+        "reasoning": "（她问我打算怎么起头，是直接说还是先铺垫。我本来想直接说，但话到嘴边又觉得太突兀了，得找个由头。散步的时候说身体最近不太舒服，这个好像自然一点。不过说完这句之后呢，后面那句“陪我去趟医院”还是很难开口，感觉会一下子把气氛弄得很重。）\n（而且我有点担心，万一她问东问西，我又不知道怎么解释，到时候可能就不想说了。也许可以先把开头想好，后面的事到时候再看吧。至少先迈出第一步。）"
+      }
+    }
+  ],
+  "created": 1794557911,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2679,
+    "total_tokens": 2830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

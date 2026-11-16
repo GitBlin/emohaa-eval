@@ -1,0 +1,41 @@
+{
+  "id": "80a2401b3d9b417194192841b183278f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，第一次。我……其实也不太清楚该从哪儿说，就是最近总觉得很累，做什么都提不起劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的流程，还问我有没有类似经历。看来是想先了解我的背景，建立初步信任。但我不太想这么快就谈自己，得先试探一下他的专业性和边界。）\n（毕竟我是第一次接触心理咨询，而且职业和性格都让我对陌生人保持警惕。作为护士，我习惯照顾别人但很少暴露自己的脆弱，更别说直接谈自杀倾向了。不如先模糊地表达困扰，顺便看看他会不会像普通朋友那样越界。）\n（好了，现在这样回应应该既不会太深入，又能观察他的反应。）",
+        "reasoning": "（刚才咨询师解释了咨询的流程，还问我有没有类似经历。看来是想先了解我的背景，建立初步信任。但我不太想这么快就谈自己，得先试探一下他的专业性和边界。）\n（毕竟我是第一次接触心理咨询，而且职业和性格都让我对陌生人保持警惕。作为护士，我习惯照顾别人但很少暴露自己的脆弱，更别说直接谈自杀倾向了。不如先模糊地表达困扰，顺便看看他会不会像普通朋友那样越界。）\n（好了，现在这样回应应该既不会太深入，又能观察他的反应。）"
+      }
+    }
+  ],
+  "created": 1794557551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 964,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8592e6a196df4e8fb8976c66d625bf24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上个月吧，我给家里打了钱，我妈就说了句“收到了”，然后就开始说弟弟的事。我……我有时候真觉得，他们找我就是为了钱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到最近家里的事，让我一下子想到上个月给家里打钱的时候。那种感觉又冒上来了，明明每个月都寄钱回去，可他们好像只关心这个。）\n（我其实很怕说出来显得自己小气，但每次打电话，除了钱的事，他们好像就没别的话跟我说了。这让我觉得，自己可能真的只是家里的一个经济来源。）",
+        "reasoning": "（咨询师问到最近家里的事，让我一下子想到上个月给家里打钱的时候。那种感觉又冒上来了，明明每个月都寄钱回去，可他们好像只关心这个。）\n（我其实很怕说出来显得自己小气，但每次打电话，除了钱的事，他们好像就没别的话跟我说了。这让我觉得，自己可能真的只是家里的一个经济来源。）"
+      }
+    }
+  ],
+  "created": 1794543970,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1606,
+    "total_tokens": 1723,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

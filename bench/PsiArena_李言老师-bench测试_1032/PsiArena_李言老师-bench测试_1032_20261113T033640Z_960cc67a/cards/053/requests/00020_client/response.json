@@ -1,0 +1,41 @@
+{
+  "id": "6fec6695d72d4d0781730d2912ed06b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肯定是“你在浪费时间”之类的。我好像很难允许自己什么都不做，连歇一会儿都觉得心虚。这样是不是挺不正常的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师让我想象放松十分钟，我脑子里立刻就有声音在骂自己懒。这声音太熟悉了，简直像我妈在说话。我是不是该承认这一点？但说出来会不会显得我很软弱？）\n（其实我有点想试试看，如果真的什么都不做会怎样。可又害怕那种空落落的感觉，好像一停下来就会被别人超过。我得问问咨询师，如果连自己妈的声音都甩不掉，那还能怎么办。）",
+        "reasoning": "（这个咨询师让我想象放松十分钟，我脑子里立刻就有声音在骂自己懒。这声音太熟悉了，简直像我妈在说话。我是不是该承认这一点？但说出来会不会显得我很软弱？）\n（其实我有点想试试看，如果真的什么都不做会怎样。可又害怕那种空落落的感觉，好像一停下来就会被别人超过。我得问问咨询师，如果连自己妈的声音都甩不掉，那还能怎么办。）"
+      }
+    }
+  ],
+  "created": 1794543808,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2868,
+    "total_tokens": 2990,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

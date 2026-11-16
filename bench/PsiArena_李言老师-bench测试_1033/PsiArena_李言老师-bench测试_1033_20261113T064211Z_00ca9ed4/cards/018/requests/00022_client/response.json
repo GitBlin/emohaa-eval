@@ -1,0 +1,41 @@
+{
+  "id": "8fa576596e034c1fb907cc5234f9efd4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想用“我感觉”开头吧，比如跟她说，如果这事让我觉得自己像个外人，我会很难受。这样说出来，应该不像下通牒……你觉得呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么把底线讲给妻子听，还提醒别像下通牒。我其实最怕的就是把话说重了，反而让她觉得我在拒绝她整个人。我得想个软一点的说法，先让她明白我不是在否定她，只是需要她在乎我的感受。）\n（而且我确实不想再像以前那样憋着，最后自己难受。这次我想试着把话说得直接点，但语气别那么硬，就像平时聊天那样。也许可以先说“我想让你知道”，这样听起来不像是在指责。）",
+        "reasoning": "（她问我怎么把底线讲给妻子听，还提醒别像下通牒。我其实最怕的就是把话说重了，反而让她觉得我在拒绝她整个人。我得想个软一点的说法，先让她明白我不是在否定她，只是需要她在乎我的感受。）\n（而且我确实不想再像以前那样憋着，最后自己难受。这次我想试着把话说得直接点，但语气别那么硬，就像平时聊天那样。也许可以先说“我想让你知道”，这样听起来不像是在指责。）"
+      }
+    }
+  ],
+  "created": 1794552930,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 3152,
+    "total_tokens": 3300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

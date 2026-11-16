@@ -1,0 +1,41 @@
+{
+  "id": "5b2f936365bc4fb8bf204b11d5e97c86",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "书吧……那些书就摆在那儿，天天提醒我。可说出来又觉得，不就是没看书吗，别人压力比我大多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我哪件事压得最重，这让我一下子想到书架上那些没读的书。其实工作上的事也压着，但那个似乎有期限，书不一样，书是我自己选的，是我对自己许下的承诺。没做到，就像在证明我连自己都管不好。）\n（可我又觉得，光说书好像显得太小题大做了。别人压力大都是忙项目忙家庭，我在这纠结几本书。但那种看着它们堆在那里、一本本落灰的感觉，真的很堵。我得把这种矛盾说出来，不然显得我太矫情。）",
+        "reasoning": "（咨询师问我哪件事压得最重，这让我一下子想到书架上那些没读的书。其实工作上的事也压着，但那个似乎有期限，书不一样，书是我自己选的，是我对自己许下的承诺。没做到，就像在证明我连自己都管不好。）\n（可我又觉得，光说书好像显得太小题大做了。别人压力大都是忙项目忙家庭，我在这纠结几本书。但那种看着它们堆在那里、一本本落灰的感觉，真的很堵。我得把这种矛盾说出来，不然显得我太矫情。）"
+      }
+    }
+  ],
+  "created": 1794557752,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 1956,
+    "total_tokens": 2109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

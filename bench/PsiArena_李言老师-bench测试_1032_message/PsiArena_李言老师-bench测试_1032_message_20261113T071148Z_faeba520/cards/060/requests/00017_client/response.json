@@ -1,0 +1,41 @@
+{
+  "id": "d0b42b9c49684f0ab88c3044b6e770c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一次吧……我跟姑姑说了句我不喜欢那双鞋，她没说我，就换了。就那么一下，好像没那么堵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有哪次稍微缓过来，我一下想到的居然是跟姑姑说那件鞋的事。那件事我一直记得，但从来没跟别人提过，说出来之后确实没那么堵了。也许我可以试试，把这种“说出来会好一点”的感觉告诉她，看看她怎么回应。）\n（不过我也拿不准这算不算真的有用，毕竟只是那一小会儿。但至少那一次我没有像平时那样全憋着，这对我来说已经不太一样了。）",
+        "reasoning": "（她问有没有哪次稍微缓过来，我一下想到的居然是跟姑姑说那件鞋的事。那件事我一直记得，但从来没跟别人提过，说出来之后确实没那么堵了。也许我可以试试，把这种“说出来会好一点”的感觉告诉她，看看她怎么回应。）\n（不过我也拿不准这算不算真的有用，毕竟只是那一小会儿。但至少那一次我没有像平时那样全憋着，这对我来说已经不太一样了。）"
+      }
+    }
+  ],
+  "created": 1794556661,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2459,
+    "total_tokens": 2588,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

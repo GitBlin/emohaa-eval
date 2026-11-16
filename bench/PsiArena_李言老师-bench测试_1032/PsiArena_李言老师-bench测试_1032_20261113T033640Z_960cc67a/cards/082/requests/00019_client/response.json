@@ -1,0 +1,41 @@
+{
+  "id": "62506d8fcf4042859f7a6ab576b36eb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "笔记本打开后中间偏上那块吧，我一般就盯着那儿。写那儿应该能看到，不过……真到那时候，眼睛可能根本不往那儿看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我开会时最先看到桌面哪个区域，这是在帮我把提醒落实到具体位置。我之前提到用纸条提醒，但还没想好放哪里。）\n（我平时开会习惯把笔记本摊开，视线自然落在本子中间偏上的地方。这个位置很自然，不会显得刻意。不过真到那时候，我可能还是会紧张，注意力全在别人身上，纸条写了也未必看得到。）",
+        "reasoning": "（咨询师在问我开会时最先看到桌面哪个区域，这是在帮我把提醒落实到具体位置。我之前提到用纸条提醒，但还没想好放哪里。）\n（我平时开会习惯把笔记本摊开，视线自然落在本子中间偏上的地方。这个位置很自然，不会显得刻意。不过真到那时候，我可能还是会紧张，注意力全在别人身上，纸条写了也未必看得到。）"
+      }
+    }
+  ],
+  "created": 1794545485,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2594,
+    "total_tokens": 2715,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

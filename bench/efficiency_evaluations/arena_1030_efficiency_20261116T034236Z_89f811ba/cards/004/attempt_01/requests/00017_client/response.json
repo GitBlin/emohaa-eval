@@ -1,0 +1,47 @@
+{
+  "id": "a2376d60287a426191582a18922a0997",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕她问“是谁”。我要是说了名字，老师去找他们，他们肯定知道是我说的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心老师接着问什么……其实我最怕的就是老师问“是谁”。一说出来就收不住了，万一老师去找那些人，事情闹大了，他们肯定更恨我。可要是不说名字，老师会不会觉得我在瞎编？）\n（不过现在想想，老师要是真问，我也可以先不说名字，就说“我不想说”，这样应该也行吧。就是不知道这样老师会不会就不管我了。）",
+        "reasoning": "（她问我最担心老师接着问什么……其实我最怕的就是老师问“是谁”。一说出来就收不住了，万一老师去找那些人，事情闹大了，他们肯定更恨我。可要是不说名字，老师会不会觉得我在瞎编？）\n（不过现在想想，老师要是真问，我也可以先不说名字，就说“我不想说”，这样应该也行吧。就是不知道这样老师会不会就不管我了。）"
+      }
+    }
+  ],
+  "created": 1794800760,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2544,
+    "total_tokens": 2657,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

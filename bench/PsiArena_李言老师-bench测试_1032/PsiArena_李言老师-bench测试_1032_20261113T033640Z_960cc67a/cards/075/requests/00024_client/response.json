@@ -1,0 +1,41 @@
+{
+  "id": "57f68dc74ab44198bf7c30c614209ac9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧，一个人躺着之前，反正那会儿也没人管我。……先试一周看看，不行我再换个时间。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体时段，看来是想帮我把这个五分钟落到每天的生活里。我晚上一个人待着的时候最放松，也不会有人来打断我，这个时间应该最靠得住。）\n（不过我也得承认，以前定过不少计划都没坚持下来，所以得把话说在前头，免得又变成压自己的事。先试一周看看，不行再换时间，这样心里没那么大负担。）",
+        "reasoning": "（她问我具体时段，看来是想帮我把这个五分钟落到每天的生活里。我晚上一个人待着的时候最放松，也不会有人来打断我，这个时间应该最靠得住。）\n（不过我也得承认，以前定过不少计划都没坚持下来，所以得把话说在前头，免得又变成压自己的事。先试一周看看，不行再换时间，这样心里没那么大负担。）"
+      }
+    }
+  ],
+  "created": 1794545177,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3246,
+    "total_tokens": 3358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

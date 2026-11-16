@@ -1,0 +1,41 @@
+{
+  "id": "cca9d9ffbea64aecac01bf1cc2efc309",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "用得上吧，跟他说之前我肯定紧张，说不定又想喝一口壮胆。到时候先下楼走一圈，回来再说，可能就没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我周末跟儿子说话那天能不能用上纸条。她是在帮我把计划落到具体场景里，让我想想那个时刻会不会真的需要。这让我有点紧张，因为跟儿子开口这件事本身就让我发怵。）\n（我确实怕说不好，一急就想去喝酒。但纸条上写的是先走十分钟再决定，这给了我一点缓冲的余地。也许真到了那个节骨眼，我能先下楼走走，而不是直接去拿酒。）",
+        "reasoning": "（咨询师问我周末跟儿子说话那天能不能用上纸条。她是在帮我把计划落到具体场景里，让我想想那个时刻会不会真的需要。这让我有点紧张，因为跟儿子开口这件事本身就让我发怵。）\n（我确实怕说不好，一急就想去喝酒。但纸条上写的是先走十分钟再决定，这给了我一点缓冲的余地。也许真到了那个节骨眼，我能先下楼走走，而不是直接去拿酒。）"
+      }
+    }
+  ],
+  "created": 1794559110,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3440,
+    "total_tokens": 3572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

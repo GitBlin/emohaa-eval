@@ -1,0 +1,41 @@
+{
+  "id": "507a4068e78b4edc9913ef70b40b492f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明确的……没有。真要说，反而是后来有人还问我那个数字怎么补的。可我当时根本没听进去，光顾着紧张了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我区分事实和我的想象。我确实找不到明确的否定，但那种感觉太强烈了，好像不需要别人说出口我就已经知道了。这让我有点不舒服，好像被看穿了一样。）\n（不过仔细想想，我好像一直在用别人的反应来审判自己。如果当时真的没人说什么，那我是不是可以试着不急着给自己定罪？但马上又觉得，万一他们就是那么想的呢……）",
+        "reasoning": "（咨询师在帮我区分事实和我的想象。我确实找不到明确的否定，但那种感觉太强烈了，好像不需要别人说出口我就已经知道了。这让我有点不舒服，好像被看穿了一样。）\n（不过仔细想想，我好像一直在用别人的反应来审判自己。如果当时真的没人说什么，那我是不是可以试着不急着给自己定罪？但马上又觉得，万一他们就是那么想的呢……）"
+      }
+    }
+  ],
+  "created": 1794543479,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2565,
+    "total_tokens": 2684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "payload": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nA junior employee making routine adjustments to some of Theo's equipment accuses him of causing the equipment malfunction.\n\n## Question \nIn this scenario, what is the most effective Action for Theo?\n\n## Choices\nA) Reprimand the employee for making such accusations\nB) Ignore the accusation as it is not important\nC) Explain that malfunctions were not his fault\nD) Accept his mistake and apologize to the employee\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  }
+}

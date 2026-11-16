@@ -1,0 +1,41 @@
+{
+  "id": "041c32316bc8435d9f57c12be0d33b1f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "自己消化吧，习惯了。其实……我很少跟人说这些，连我丈夫，我也不太说。有时候想说，又觉得说了也没用，还可能添麻烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我平时怎么处理情绪，这让我想到自己其实一直很孤独。她说得对，从小憋着已经成习惯了，可这种习惯真的让我很累。）\n（我该不该说其实我很少找人倾诉呢？但说了又怕显得自己太脆弱。不过既然都聊到这儿了，稍微透露一点应该没关系吧。只是说出来之后，那种熟悉的懊悔感又冒上来了。）",
+        "reasoning": "（咨询师在问我平时怎么处理情绪，这让我想到自己其实一直很孤独。她说得对，从小憋着已经成习惯了，可这种习惯真的让我很累。）\n（我该不该说其实我很少找人倾诉呢？但说了又怕显得自己太脆弱。不过既然都聊到这儿了，稍微透露一点应该没关系吧。只是说出来之后，那种熟悉的懊悔感又冒上来了。）"
+      }
+    }
+  ],
+  "created": 1794551435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1629,
+    "total_tokens": 1754,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

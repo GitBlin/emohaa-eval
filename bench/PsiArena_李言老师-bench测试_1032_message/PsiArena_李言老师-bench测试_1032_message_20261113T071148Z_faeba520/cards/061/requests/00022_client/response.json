@@ -1,0 +1,41 @@
+{
+  "id": "5ebffb0790ae417abcf09cddc2506504",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那个PDQ-4+啊，网上那个。分数那么高，我总担心是不是真得去医院看看，还是说……我想多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像没太明白我说的测试是什么。我明明之前提过那个PDQ-4+量表，他怎么会没跟上呢。可能他以为我在说别的检查吧。）\n（我有点着急，那个分数一直压在我心里，我得说清楚。不过说完又有点后悔，是不是显得我太在意一个网上的测试了，说不定他也会觉得我小题大做。）",
+        "reasoning": "（这个咨询师好像没太明白我说的测试是什么。我明明之前提过那个PDQ-4+量表，他怎么会没跟上呢。可能他以为我在说别的检查吧。）\n（我有点着急，那个分数一直压在我心里，我得说清楚。不过说完又有点后悔，是不是显得我太在意一个网上的测试了，说不定他也会觉得我小题大做。）"
+      }
+    }
+  ],
+  "created": 1794556773,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2988,
+    "total_tokens": 3103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

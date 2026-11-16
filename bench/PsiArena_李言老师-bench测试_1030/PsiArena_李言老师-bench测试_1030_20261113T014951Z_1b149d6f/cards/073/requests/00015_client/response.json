@@ -1,0 +1,41 @@
+{
+  "id": "7c6f7a2885d641a290566d1df34eeae4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下，声音很低）那……那不是我的错。说出口有点别扭，好像不是真的。可说完，胸口好像没那么紧了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对自己说那句话。我心里其实有点抗拒，好像说出来就是在替自己开脱，可又有点想试试。怪了自己这么多年，也许真的累了。）\n（声音小一点吧，别太用力，不然我会觉得自己在骗人。说出来之后，好像胸口没那么紧了，但马上又有点空，不知道该不该信。）",
+        "reasoning": "（她让我对自己说那句话。我心里其实有点抗拒，好像说出来就是在替自己开脱，可又有点想试试。怪了自己这么多年，也许真的累了。）\n（声音小一点吧，别太用力，不然我会觉得自己在骗人。说出来之后，好像胸口没那么紧了，但马上又有点空，不知道该不该信。）"
+      }
+    }
+  ],
+  "created": 1794538564,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2476,
+    "total_tokens": 2577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

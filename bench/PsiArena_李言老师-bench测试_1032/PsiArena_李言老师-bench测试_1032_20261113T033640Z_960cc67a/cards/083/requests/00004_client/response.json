@@ -1,0 +1,41 @@
+{
+  "id": "2be3a5d49bf646e9a2bcfa36b473e7cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "压力……工作一直都有压力吧，但也没觉得哪件事特别大。嗯……其实我有时候会想，是不是该去医院看看，可一想到这个就……唉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这些不舒服是不是在压力大的事之后开始的……他好像想找什么原因。但我其实不太想深挖这些，感觉说多了会很麻烦。而且说实话，我自己也搞不明白到底是怎么开始的。）\n（不过既然他问了，我还是稍微提一下工作吧，这个比较安全。至于去医院的事……我有点犹豫要不要说，但这也是我真正卡住的地方。先含糊地提一句看看他什么反应。）",
+        "reasoning": "（咨询师问我这些不舒服是不是在压力大的事之后开始的……他好像想找什么原因。但我其实不太想深挖这些，感觉说多了会很麻烦。而且说实话，我自己也搞不明白到底是怎么开始的。）\n（不过既然他问了，我还是稍微提一下工作吧，这个比较安全。至于去医院的事……我有点犹豫要不要说，但这也是我真正卡住的地方。先含糊地提一句看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1794545540,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1148,
+    "total_tokens": 1277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

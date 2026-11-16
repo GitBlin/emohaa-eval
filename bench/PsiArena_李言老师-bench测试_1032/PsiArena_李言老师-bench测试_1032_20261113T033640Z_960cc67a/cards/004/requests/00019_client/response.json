@@ -1,0 +1,41 @@
+{
+  "id": "d90ea541cd81425da9d921b8e94182c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先走开吧，往办公室那边走。虽然有点怕他们看见，但总比站着被围着强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个老师好像真的在帮我想办法。她问我更想先离开还是先靠近人多的地方，说明她没觉得我傻。其实我早就想过走开，只是没敢真做。去办公室那边可能更安全，但要是被他们看见我去告状，会不会更糟？不过总比一直站着挨欺负强。）\n（我得想个具体点的。比如课间铃一响就站起来走，不让他们围过来。去小卖部那边人挺多的，应该不会追过来。但我还是有点怕，万一被拦住呢？得给自己留个退路。）",
+        "reasoning": "（这个老师好像真的在帮我想办法。她问我更想先离开还是先靠近人多的地方，说明她没觉得我傻。其实我早就想过走开，只是没敢真做。去办公室那边可能更安全，但要是被他们看见我去告状，会不会更糟？不过总比一直站着挨欺负强。）\n（我得想个具体点的。比如课间铃一响就站起来走，不让他们围过来。去小卖部那边人挺多的，应该不会追过来。但我还是有点怕，万一被拦住呢？得给自己留个退路。）"
+      }
+    }
+  ],
+  "created": 1794541168,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2600,
+    "total_tokens": 2751,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

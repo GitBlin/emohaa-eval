@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:37:56.898212+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Meng receives an envelope from abroad, inside is a birthday card from her cousin with whom she has not been in contact for a long time.\n\n[Question]\nZhang Meng should be very happy, but why does she show feelings of betrayal?\n\n[Candidate Answers]\nA. Zhang Meng has a money dispute with her cousin before, she thinks this card is the cousin's birthday gift, inside is a bank card returning her money.\nB. Zhang Meng is very jealous of her cousin because he has the opportunity to travel abroad and she does not, so she feels betrayed.\nC. Zhang Meng wants to borrow money from her cousin, so she feels very disappointed with this card that has no money.\nD. The cousin says he attends every birthday of Zhang Meng, but he goes abroad and only sends a card as a gift.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

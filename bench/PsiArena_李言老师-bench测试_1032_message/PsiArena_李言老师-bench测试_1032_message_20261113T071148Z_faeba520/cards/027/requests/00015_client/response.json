@@ -1,0 +1,41 @@
+{
+  "id": "9c3e2428de9f4b9d85127b653db8f697",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没跟她说过，怪不好意思的。不过你这么一问，我好像有点想试着跟她说说看？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我朋友是否知道那种轻松感，这让我想到自己其实很少直接表达感受。可能我习惯了把好的感受也藏着，怕说出来就变味了。）\n（不过她这么问，好像是在提醒我，有些关系是可以直接表达的。这让我有点想试着去想一想，能不能做点什么不一样的事，而不是一直困在比较里。）",
+        "reasoning": "（咨询师在问我朋友是否知道那种轻松感，这让我想到自己其实很少直接表达感受。可能我习惯了把好的感受也藏着，怕说出来就变味了。）\n（不过她这么问，好像是在提醒我，有些关系是可以直接表达的。这让我有点想试着去想一想，能不能做点什么不一样的事，而不是一直困在比较里。）"
+      }
+    }
+  ],
+  "created": 1794555097,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2315,
+    "total_tokens": 2415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

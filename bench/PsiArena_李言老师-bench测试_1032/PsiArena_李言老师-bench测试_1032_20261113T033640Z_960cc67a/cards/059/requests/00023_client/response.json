@@ -1,0 +1,41 @@
+{
+  "id": "97756b5f721d4932b3ee61e9227a6d94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想准备一句简单的，但别背得太死，不然到时候一紧张又卡住。这样是不是有点矛盾？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在帮我把行动具体化，不是催我，也不是评价我。我好像没那么慌了，但一想到真要开口，还是会担心自己说不好。先准备一句会让我心里有点底，可又怕准备得太死，到时候反而更僵。）\n（也许我可以准备个简单的，但别逼自己非得原样说出来。这样既算迈出一步，也不至于把自己卡住。）",
+        "reasoning": "（她这是在帮我把行动具体化，不是催我，也不是评价我。我好像没那么慌了，但一想到真要开口，还是会担心自己说不好。先准备一句会让我心里有点底，可又怕准备得太死，到时候反而更僵。）\n（也许我可以准备个简单的，但别逼自己非得原样说出来。这样既算迈出一步，也不至于把自己卡住。）"
+      }
+    }
+  ],
+  "created": 1794544231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3037,
+    "total_tokens": 3146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

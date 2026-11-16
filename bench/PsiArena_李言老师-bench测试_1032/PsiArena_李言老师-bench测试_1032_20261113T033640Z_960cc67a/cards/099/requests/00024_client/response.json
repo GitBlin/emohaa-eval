@@ -1,0 +1,41 @@
+{
+  "id": "e964500def2a4b0e9d619c558e2f2951",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……夹好纸条，读一页，合上书。做到这三步，我再看小说，应该就不那么心虚了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我区分“到点休息”和“逃避”的区别，这让我稍微松了口气。她问我想把“到点”定在完成哪一步之后，这让我得认真想想怎么给自己一个明确的界线。）\n（我有点犹豫，怕定得太死又做不到，但也不想再糊里糊涂地混过去。夹好纸条、读一页、合上书，这几步听起来不算太难，也许可以试试。）",
+        "reasoning": "（咨询师在帮我区分“到点休息”和“逃避”的区别，这让我稍微松了口气。她问我想把“到点”定在完成哪一步之后，这让我得认真想想怎么给自己一个明确的界线。）\n（我有点犹豫，怕定得太死又做不到，但也不想再糊里糊涂地混过去。夹好纸条、读一页、合上书，这几步听起来不算太难，也许可以试试。）"
+      }
+    }
+  ],
+  "created": 1794546431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3118,
+    "total_tokens": 3238,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

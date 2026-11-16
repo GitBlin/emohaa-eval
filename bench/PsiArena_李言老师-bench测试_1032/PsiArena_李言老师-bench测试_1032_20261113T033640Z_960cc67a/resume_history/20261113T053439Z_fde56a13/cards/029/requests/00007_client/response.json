@@ -1,0 +1,41 @@
+{
+  "id": "7dc0b293b4004282aa1a4416911023d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最怕他们说“你怎么这么不懂事”。我妈一急就会说这句……听着特别难受，好像我做什么都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才明确说了不会主动告诉家里人，这让我稍微松了口气。但她问起最怕家里人说哪句话，一下子戳到了我的痛处。我其实很怕被说“不懂事”，因为那会让我觉得自己很失败。）\n（想到妈妈总拿别人家孩子比较，那种委屈和愤怒就涌上来了。我明明已经很努力在控制自己了，可每次被这样说，反而更想花钱来缓解这种难受。）",
+        "reasoning": "（咨询师刚才明确说了不会主动告诉家里人，这让我稍微松了口气。但她问起最怕家里人说哪句话，一下子戳到了我的痛处。我其实很怕被说“不懂事”，因为那会让我觉得自己很失败。）\n（想到妈妈总拿别人家孩子比较，那种委屈和愤怒就涌上来了。我明明已经很努力在控制自己了，可每次被这样说，反而更想花钱来缓解这种难受。）"
+      }
+    }
+  ],
+  "created": 1794542533,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1483,
+    "total_tokens": 1604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

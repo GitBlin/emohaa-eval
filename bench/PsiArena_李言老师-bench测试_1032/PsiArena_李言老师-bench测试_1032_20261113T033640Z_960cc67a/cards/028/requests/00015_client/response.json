@@ -1,0 +1,41 @@
+{
+  "id": "9fb6566e12a8466f9ae4df68076b5ae2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说：“我也有约好的事，为什么你们从来不问我方不方便？”（顿了顿）可这话说出来，好像又是在顶撞她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想反驳哪一句，我一下子有点说不出来。其实那句话在心里憋了很久，但真要说出口又觉得不太对，好像顶撞了就是不孝顺。）\n（我想到自己明明已经跟朋友约好了，也提前说了，可我妈一句话就把我打回原形。那种感觉不是生气，是委屈，好像我连安排自己时间都不配。可我又怕说得太狠，显得我不懂事。）",
+        "reasoning": "（她问我最想反驳哪一句，我一下子有点说不出来。其实那句话在心里憋了很久，但真要说出口又觉得不太对，好像顶撞了就是不孝顺。）\n（我想到自己明明已经跟朋友约好了，也提前说了，可我妈一句话就把我打回原形。那种感觉不是生气，是委屈，好像我连安排自己时间都不配。可我又怕说得太狠，显得我不懂事。）"
+      }
+    }
+  ],
+  "created": 1794549384,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2298,
+    "total_tokens": 2420,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

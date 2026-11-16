@@ -1,0 +1,41 @@
+{
+  "id": "09090d51d71b439ab5ed343ee6ff8638",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末早上吧，那会儿还没被工作消息轰炸，脑子清醒点。不过我又怕定了早上，回头做不到更沮丧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我一天里哪个时刻最不费劲，这问题让我有点意外，好像之前都没往这个方向想过。周末早上确实是我最放松的时候，没有工作消息催着，整个人没那么紧绷。）\n（不过刚说完就有点心虚，怕自己又立了个做不到的计划，回头又变成新的压力。这种担心好像一直都在，每次想给自己安排点什么，第一反应就是“会不会又坚持不了”。）",
+        "reasoning": "（她问我一天里哪个时刻最不费劲，这问题让我有点意外，好像之前都没往这个方向想过。周末早上确实是我最放松的时候，没有工作消息催着，整个人没那么紧绷。）\n（不过刚说完就有点心虚，怕自己又立了个做不到的计划，回头又变成新的压力。这种担心好像一直都在，每次想给自己安排点什么，第一反应就是“会不会又坚持不了”。）"
+      }
+    }
+  ],
+  "created": 1794539114,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3006,
+    "total_tokens": 3122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

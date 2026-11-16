@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:42:53.832753+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nManager Li usually prefers light food. His birthday is coming soon, and the office decides to hold a small birthday party for him. Assistant Wang is in charge of organizing the party and asks everyone about food preferences. Director Zhang suggests, \"We can order some special dishes.\" On the day of the party, Director Zhang happily announces, \"The spicy Sichuan cuisine I highly recommend is here, Manager Li definitely likes it!\" Manager Li smiles and says, \"Thank you for your arrangement, I try it later.\"\n\n[Question]\nDoes Director Zhang know that Manager Li does not eat spicy food?\n\n[Candidate Answers]\nA. Knows\nB. Does not know",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "71e681d07e014b3391e25798fbc9cfce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如……孩子不睡觉，我哄了好久他还是哭，我就会觉得是不是我哪里做错了。明明别人带孩子好像都很轻松。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我要例子……我其实不太想说具体的，怕说出来显得更矫情。但刚才他那么说，好像真的不嫌我烦。也许可以说一点点。）\n（比如孩子不睡觉那件事吧，我哄了好久他还在哭，那一刻我真的觉得自己特别没用。这个说出来应该没关系，反正他也不会笑我。）",
+        "reasoning": "（他问我要例子……我其实不太想说具体的，怕说出来显得更矫情。但刚才他那么说，好像真的不嫌我烦。也许可以说一点点。）\n（比如孩子不睡觉那件事吧，我哄了好久他还在哭，那一刻我真的觉得自己特别没用。这个说出来应该没关系，反正他也不会笑我。）"
+      }
+    }
+  ],
+  "created": 1794554302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1446,
+    "total_tokens": 1544,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

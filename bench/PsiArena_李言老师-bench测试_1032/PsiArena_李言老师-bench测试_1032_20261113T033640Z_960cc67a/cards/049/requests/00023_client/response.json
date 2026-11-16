@@ -1,0 +1,41 @@
+{
+  "id": "04bd32572a2748abbc5671eed3285dd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是怕……自己一放松，就会有什么不好的事冒出来。其实也没具体发生过，可能是我自己吓自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我在想，咨询师问的是我担心会发生什么。其实我也说不清具体怕什么，就是那种不放心，好像放松了就会有什么东西溜出来。这大概跟我一直把情绪压着有关，怕一松手就控制不住。）\n（不过刚才窗边发呆那次，好像确实没出事，我也确认过了。这让我有点犹豫，也许不是每次放松都会出问题？至少可以试着先不急着确认，看看会怎样。）",
+        "reasoning": "（我在想，咨询师问的是我担心会发生什么。其实我也说不清具体怕什么，就是那种不放心，好像放松了就会有什么东西溜出来。这大概跟我一直把情绪压着有关，怕一松手就控制不住。）\n（不过刚才窗边发呆那次，好像确实没出事，我也确认过了。这让我有点犹豫，也许不是每次放松都会出问题？至少可以试着先不急着确认，看看会怎样。）"
+      }
+    }
+  ],
+  "created": 1794543598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2889,
+    "total_tokens": 3011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

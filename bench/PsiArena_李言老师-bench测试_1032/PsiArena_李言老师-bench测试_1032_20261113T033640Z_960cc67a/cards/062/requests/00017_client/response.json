@@ -1,0 +1,41 @@
+{
+  "id": "596a57e5fd734d62b71f9e76ad8680dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……我最近老出错，反应也慢，还总请假去医院。可我又怕真请长假，岗位就没了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我“老这样”具体指什么，他好像想让我把问题说得更清楚些。我其实也说不准，就是最近状态特别差，总出错，脑子跟不上。领导那句话让我觉得自己是不是真的成了累赘。但请长假又怕丢工作，家里也靠我这点工资，越想越乱。）\n（或许我可以试着把这种矛盾说出来，让咨询师帮我理理。毕竟现在心里太乱了，一个人想不明白。）",
+        "reasoning": "（咨询师在问我“老这样”具体指什么，他好像想让我把问题说得更清楚些。我其实也说不准，就是最近状态特别差，总出错，脑子跟不上。领导那句话让我觉得自己是不是真的成了累赘。但请长假又怕丢工作，家里也靠我这点工资，越想越乱。）\n（或许我可以试着把这种矛盾说出来，让咨询师帮我理理。毕竟现在心里太乱了，一个人想不明白。）"
+      }
+    }
+  ],
+  "created": 1794544288,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2443,
+    "total_tokens": 2569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

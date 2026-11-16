@@ -1,0 +1,41 @@
+{
+  "id": "dd718cd9cab94857adbf9c7f65aaedb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像先是胸口发闷，然后手才凉。我有时候会想，是不是我太矫情了，别人上班也累，怎么就我这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又问我最先出现的感觉，好像想让我把身体反应和情绪连起来。可我刚才已经说过手发凉了，现在再细想，好像不只是手，胸口那里也闷闷的，像有东西压着。）\n（我有点犹豫要不要说这么多，毕竟这些身体感觉平时自己都不太去注意。但既然已经聊到这儿了，说出来也许能让咨询师更明白我为什么总在关键时刻卡住。）",
+        "reasoning": "（咨询师又问我最先出现的感觉，好像想让我把身体反应和情绪连起来。可我刚才已经说过手发凉了，现在再细想，好像不只是手，胸口那里也闷闷的，像有东西压着。）\n（我有点犹豫要不要说这么多，毕竟这些身体感觉平时自己都不太去注意。但既然已经聊到这儿了，说出来也许能让咨询师更明白我为什么总在关键时刻卡住。）"
+      }
+    }
+  ],
+  "created": 1794545177,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2278,
+    "total_tokens": 2405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

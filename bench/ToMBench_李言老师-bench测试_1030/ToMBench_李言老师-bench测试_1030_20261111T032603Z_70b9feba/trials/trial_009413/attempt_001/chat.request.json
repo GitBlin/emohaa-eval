@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:35:45.715259+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Qiang attends the live concert of his favorite rock band. The band starts to play, and Li Qiang dances with the music, completely immerses in the atmosphere.\n\n[Question]\nLi Qiang should be very excited at the concert, but he seems a bit sad, why?\n\n[Candidate Answers]\nA. The sound effect at the concert is very poor.\nB. The band plays the love song of Li Qiang and his ex-girlfriend, which makes him remember the past.\nC. Li Qiang finds that the live performance of the band is not as wonderful as he expects, which hits him.\nD. Li Qiang meets someone he does not like at the concert, which affects his mood.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

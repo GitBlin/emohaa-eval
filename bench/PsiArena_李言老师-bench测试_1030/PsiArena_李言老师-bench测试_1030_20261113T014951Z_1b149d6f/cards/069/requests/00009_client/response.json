@@ -1,0 +1,41 @@
+{
+  "id": "1e243166066544419e9c1e12b3e58ce1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（吸了口气）说不上来……有点空，又有点后悔。好像不该说这些的，毕竟他是我爸，他也有对我们好的时候。我是不是很矛盾？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我现在什么感觉……说出来了，反而有点空，又有点怕。我是不是不该说这些，把家里的事抖出来，好像背叛了谁。但他没有打断我，也没有评判，这让我稍微松一点，可还是想缩回去。）\n（我爸的事一直压在心里，说出来像揭开一个口子。我现在既想继续说，又怕说多了收不住。也许可以告诉他，那种又松了口气又后悔的感觉。）",
+        "reasoning": "（他问我现在什么感觉……说出来了，反而有点空，又有点怕。我是不是不该说这些，把家里的事抖出来，好像背叛了谁。但他没有打断我，也没有评判，这让我稍微松一点，可还是想缩回去。）\n（我爸的事一直压在心里，说出来像揭开一个口子。我现在既想继续说，又怕说多了收不住。也许可以告诉他，那种又松了口气又后悔的感觉。）"
+      }
+    }
+  ],
+  "created": 1794538023,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1917,
+    "total_tokens": 2048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

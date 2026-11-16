@@ -1,0 +1,41 @@
+{
+  "id": "b683465ec2cc423c806e18d9d0c42eb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就上次我妈问我学校怎么样，我说了句有点累，她马上接“别想太多”。我就没再往下说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次觉得说出来也没用是什么时候……这让我想到上周的事。当时我试着跟妈妈提学校的事，她一边听一边看手机，最后只说了句“别想太多”。那种感觉又回来了，说了跟没说一样。）\n（其实我有点犹豫要不要讲这个，但刚才她没催我，让我觉得可以试着说。不过我不太想细讲，怕说着说着又变成抱怨。简单提一下应该可以吧。）",
+        "reasoning": "（她问我最近一次觉得说出来也没用是什么时候……这让我想到上周的事。当时我试着跟妈妈提学校的事，她一边听一边看手机，最后只说了句“别想太多”。那种感觉又回来了，说了跟没说一样。）\n（其实我有点犹豫要不要讲这个，但刚才她没催我，让我觉得可以试着说。不过我不太想细讲，怕说着说着又变成抱怨。简单提一下应该可以吧。）"
+      }
+    }
+  ],
+  "created": 1794544272,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2694,
+    "total_tokens": 2822,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

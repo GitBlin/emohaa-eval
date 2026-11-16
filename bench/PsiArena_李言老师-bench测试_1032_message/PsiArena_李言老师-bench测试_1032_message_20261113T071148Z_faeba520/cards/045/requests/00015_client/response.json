@@ -1,0 +1,41 @@
+{
+  "id": "c95905c79d0c46d6b58cf33b000893e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了几秒）会回想你说过的话……有时候晚上睡不着，也会想起来。（小声）我觉得自己是不是有点不正常。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想很多的时候会想到什么……这个问题让我有点慌。我不想直接说那些梦，更不想承认自己会期待咨询。可是既然都聊到这里了，也许可以稍微透露一点，但别说得太深。先说说会回想对话吧，这个比较安全，也能让他明白我确实很在意。说完之后我有点后悔，怕他觉得我不正常，得赶紧补一句，试探一下他的反应。）",
+        "reasoning": "（咨询师问我想很多的时候会想到什么……这个问题让我有点慌。我不想直接说那些梦，更不想承认自己会期待咨询。可是既然都聊到这里了，也许可以稍微透露一点，但别说得太深。先说说会回想对话吧，这个比较安全，也能让他明白我确实很在意。说完之后我有点后悔，怕他觉得我不正常，得赶紧补一句，试探一下他的反应。）"
+      }
+    }
+  ],
+  "created": 1794555782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2232,
+    "total_tokens": 2349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

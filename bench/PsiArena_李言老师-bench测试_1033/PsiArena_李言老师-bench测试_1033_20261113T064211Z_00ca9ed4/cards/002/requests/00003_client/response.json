@@ -1,0 +1,41 @@
+{
+  "id": "5d398424874a4ef0ab22cb00a68d224d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……最近心里挺堵的，说不太清楚。反正就是觉得，好像自己在朋友那儿没那么重要了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说具体的事，但我还不太确定她是不是真的能理解我。她提到“不想跟朋友说”，这让我稍微放松了一点，但我不想一下子全说出来，还是先试探一下她到底怎么看待这种事。）\n（而且我其实有点担心，如果我说了太多，她会不会像别人一样觉得我太敏感或者太黏人。先含糊地表达一下难受的感觉，看看她的反应再说。）",
+        "reasoning": "（咨询师在引导我说具体的事，但我还不太确定她是不是真的能理解我。她提到“不想跟朋友说”，这让我稍微放松了一点，但我不想一下子全说出来，还是先试探一下她到底怎么看待这种事。）\n（而且我其实有点担心，如果我说了太多，她会不会像别人一样觉得我太敏感或者太黏人。先含糊地表达一下难受的感觉，看看她的反应再说。）"
+      }
+    }
+  ],
+  "created": 1794552146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1070,
+    "total_tokens": 1185,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

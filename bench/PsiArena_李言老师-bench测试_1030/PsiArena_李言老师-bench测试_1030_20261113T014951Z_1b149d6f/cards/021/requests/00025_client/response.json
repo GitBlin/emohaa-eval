@@ -1,0 +1,41 @@
+{
+  "id": "dc8a13396252413f8af33f2c5e684859",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "进病房之前吧，在门口站一下，深呼吸，然后把那句话跟自己说一遍。这样走进去的时候，心里能稳一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候跟自己说这句话，好像是在帮我把这个想法落到具体的地方。进病房前那几步路，确实是最容易紧张的时候，心里会开始乱。）\n（我得给自己找个能抓住的时机，不能太复杂，太复杂了我可能又顾不上。在门口停一下，深呼吸，说那句话，这个动作简单，我能做到。）",
+        "reasoning": "（她问我什么时候跟自己说这句话，好像是在帮我把这个想法落到具体的地方。进病房前那几步路，确实是最容易紧张的时候，心里会开始乱。）\n（我得给自己找个能抓住的时机，不能太复杂，太复杂了我可能又顾不上。在门口停一下，深呼吸，说那句话，这个动作简单，我能做到。）"
+      }
+    }
+  ],
+  "created": 1794535748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3521,
+    "total_tokens": 3624,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dcc755724a0741b8a1664e71dfc02679",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻吸气）先照顾呼吸吧……至少这个我能做到。（停顿）就是不知道能不能坚持，别又三天打鱼两天晒网的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想先照顾呼吸还是肩膀，好像是在让我从身体上选一个能落地的动作。这个话题跳得有点快，我本来还在担心会不会又回到原来的样子，但至少现在肩膀确实松了一点。）\n（我想先照顾呼吸，因为肩膀放松我控制不了，但呼吸好像能自己来。不过我不敢一下子说太肯定，怕做不到又自责，所以还是得加一句“不知道能不能做到”，这样心里才踏实一点。）",
+        "reasoning": "（咨询师问我最想先照顾呼吸还是肩膀，好像是在让我从身体上选一个能落地的动作。这个话题跳得有点快，我本来还在担心会不会又回到原来的样子，但至少现在肩膀确实松了一点。）\n（我想先照顾呼吸，因为肩膀放松我控制不了，但呼吸好像能自己来。不过我不敢一下子说太肯定，怕做不到又自责，所以还是得加一句“不知道能不能做到”，这样心里才踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794546092,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3219,
+    "total_tokens": 3348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

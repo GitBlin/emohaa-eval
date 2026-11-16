@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:35:11.240675+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXinxin, Jiayi, and Qiaoqiao are in a group, preparing for the end-of-term project meeting. Qiaoqiao chats with other classmates on the side, while Xinxin and Jiayi dedicate themselves to this project. Seeing Jiayi completes a task, Xinxin gives Jiayi an appreciative smile, then gently points at Qiaoqiao who is chatting, and then looks at Jiayi with her eyes. After smiling at Jiayi, Xinxin's face suddenly becomes serious. Qiaoqiao sees Xinxin's pointing and the change in her face.\n\n[Question]\nHow do you think Qiaoqiao feels after seeing Xinxin's behavior?\n\n[Candidate Answers]\nA. Qiaoqiao thinks Xinxin is just joking and does not take it seriously.\nB. Qiaoqiao thinks Xinxin has no reason to be angry with him, feels angry.\nC. Qiaoqiao is very happy because he enjoys talking with the classmates next to him.\nD. Qiaoqiao feels nervous, thinking that he does not participate in the project.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

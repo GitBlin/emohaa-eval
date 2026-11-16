@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:27:37.191860+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn the office, Wang Qiang is the project team leader, and Zhang Wei is Wang Qiang's old deputy. The project team recently brings in a new member Li Li, today Wang Qiang and Zhang Wei arrange for Li Li to complete a task independently, and this task usually is Zhang Wei's responsibility. Li Li works hard in front of the computer, Zhang Wei stands behind her for a while, then walks towards Wang Qiang, the two exchange a complex look. Wang Qiang slightly nods his head, Zhang Wei then returns to his seat, the two do not have further conversation. Li Li notices all of this, but continues to focus on her screen.\n\n[Question]\nWhat does Li Li do next?\n\n[Candidate Answers]\nA. Li Li tries to seek sympathy and support from the outside world by posting negative feelings about the work environment on social media.\nB. Li Li decides to completely ignore the exchange between Wang Qiang and Zhang Wei, thinks it may have nothing to do with her, continues to work hard, and does not consider their intentions.\nC. Li Li decides to walk directly to Wang Qiang and Zhang Wei's desk, asks them about their views on her work, and expresses her willingness to accept any feedback to improve her performance. (Effective method)\nD. Li Li decides to take a break, opens a mobile game to distract her attention, tries to forget the situation just now.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

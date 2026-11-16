@@ -1,0 +1,41 @@
+{
+  "id": "a626bb519b41410cb840df626deb8385",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "基本是被推着走，完全控制不住。唉，有时候我都怀疑，是不是真是我自己心不诚，才变成这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问的是早上念头涌上来时是被推着走还是能拉开距离，这让我想到那种完全被控制的感觉。我确实完全被念头推着走，根本控制不住，这种无力感让我很绝望。）\n（而且我妈那句“心不诚”一直压在我心里，让我觉得自己做什么都不对。这种被否定和无法控制的双重压力让我特别难受，可能说出来会好受一点，但又觉得说了也没用。）",
+        "reasoning": "（心理咨询师问的是早上念头涌上来时是被推着走还是能拉开距离，这让我想到那种完全被控制的感觉。我确实完全被念头推着走，根本控制不住，这种无力感让我很绝望。）\n（而且我妈那句“心不诚”一直压在我心里，让我觉得自己做什么都不对。这种被否定和无法控制的双重压力让我特别难受，可能说出来会好受一点，但又觉得说了也没用。）"
+      }
+    }
+  ],
+  "created": 1794544491,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2284,
+    "total_tokens": 2407,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

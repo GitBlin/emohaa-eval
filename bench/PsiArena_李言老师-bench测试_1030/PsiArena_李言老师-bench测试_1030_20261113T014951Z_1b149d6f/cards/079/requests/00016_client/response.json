@@ -1,0 +1,41 @@
+{
+  "id": "26e8afc0d332419192b20f554acb9f7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……我爸妈那种不放心的口气吧。可他们明明没这么说过，是我自己替他们说的。想到这点，我有点说不上来的难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到那个“这也没什么”像谁的语气。我一下子想到爸妈，但又觉得他们没这么直接说过。其实更像是我自己替他们说的，怕我太得意。心里有点酸，也觉得自己这样挺可悲的。）\n（可我又不想把责任都推给父母，他们确实没苛责过我。也许这个声音是我自己长出来的，为了不让自己失望。这么想反而更沉重，因为连怪都怪不到别人头上。）",
+        "reasoning": "（咨询师问到那个“这也没什么”像谁的语气。我一下子想到爸妈，但又觉得他们没这么直接说过。其实更像是我自己替他们说的，怕我太得意。心里有点酸，也觉得自己这样挺可悲的。）\n（可我又不想把责任都推给父母，他们确实没苛责过我。也许这个声音是我自己长出来的，为了不让自己失望。这么想反而更沉重，因为连怪都怪不到别人头上。）"
+      }
+    }
+  ],
+  "created": 1794539020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2660,
+    "total_tokens": 2792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

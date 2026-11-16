@@ -1,0 +1,41 @@
+{
+  "id": "5c160387589b4dc4a9df2add7e225d41",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，分不太清了。有时候觉得那本来就是我自己的想法。……这么一想，好像有点难过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一问，我好像才意识到，平时真没去分过这句话到底是谁在说。原来很多时候我自己都没察觉，就已经用我妈的口气在压自己了。）\n（这让我有点难过，也有点不甘心。是不是我可以试着先别急着下结论，先看看自己到底感觉到了什么，而不是马上否定。）",
+        "reasoning": "（她这么一问，我好像才意识到，平时真没去分过这句话到底是谁在说。原来很多时候我自己都没察觉，就已经用我妈的口气在压自己了。）\n（这让我有点难过，也有点不甘心。是不是我可以试着先别急着下结论，先看看自己到底感觉到了什么，而不是马上否定。）"
+      }
+    }
+  ],
+  "created": 1794539963,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2593,
+    "total_tokens": 2685,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

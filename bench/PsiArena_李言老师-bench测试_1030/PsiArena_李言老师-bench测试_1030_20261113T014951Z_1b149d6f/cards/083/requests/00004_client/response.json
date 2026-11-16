@@ -1,0 +1,41 @@
+{
+  "id": "55ba6b6e572b4524b789096e3eb188fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来，可能都有吧。就是……有时候胃也不太舒服，老跑厕所。我也不太清楚这算怎么回事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我疲惫是身体上的还是心理上的...这个问题让我有点不知所措。我确实分不清，身体不舒服和心里烦躁好像混在一起了。说多了怕被当成小题大做，而且我也不想显得太矫情。）\n（还是先含糊点带过去吧，就说说不清楚。不过提一下肠胃，这个症状比较具体，说出来应该不会太奇怪。毕竟拉肚子这种事，总归是身体上的问题吧。）",
+        "reasoning": "（咨询师在问我疲惫是身体上的还是心理上的...这个问题让我有点不知所措。我确实分不清，身体不舒服和心里烦躁好像混在一起了。说多了怕被当成小题大做，而且我也不想显得太矫情。）\n（还是先含糊点带过去吧，就说说不清楚。不过提一下肠胃，这个症状比较具体，说出来应该不会太奇怪。毕竟拉肚子这种事，总归是身体上的问题吧。）"
+      }
+    }
+  ],
+  "created": 1794539201,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1220,
+    "total_tokens": 1340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

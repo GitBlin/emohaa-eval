@@ -1,0 +1,41 @@
+{
+  "id": "d14ad44351da46a18217510f1ea66ecb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能都有吧。不过要是没人回，我就会开始乱想，是不是我说错话了，是不是人家烦我了。这种感觉……其实挺熟悉的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，我好像从来没认真想过这个问题。是等某个人，还是只是不想一个人待着？）\n（嗯……可能都有吧。但那种没人回的感觉，真的会让我忍不住乱想，是不是我说错话了，是不是人家烦我了。这种感觉从小就有点熟悉，家里人不也总说要多跟人联系嘛。）",
+        "reasoning": "（她问得挺细的，我好像从来没认真想过这个问题。是等某个人，还是只是不想一个人待着？）\n（嗯……可能都有吧。但那种没人回的感觉，真的会让我忍不住乱想，是不是我说错话了，是不是人家烦我了。这种感觉从小就有点熟悉，家里人不也总说要多跟人联系嘛。）"
+      }
+    }
+  ],
+  "created": 1794541352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1536,
+    "total_tokens": 1644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

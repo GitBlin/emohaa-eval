@@ -1,0 +1,41 @@
+{
+  "id": "d7ae1e303ec44925ad7a42f200f040ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我外婆吧……她不太管我成绩，见我就问我吃没吃好。不过她住老家，一年见不了几次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我身边有没有可能真心对我说这句话的人……我脑子里第一个冒出来的是外婆。她跟爸妈不一样，从来不会拿我跟谁比。可是外婆在老家，平时也见不着几面。想到这儿就有点难过，好像能给我这种感觉的人，离我那么远。）\n（不过她这么一问，我倒是第一次认真去想，身边其实不是完全没有人。也许我可以试着把这些话说给外婆听？但又怕她说出去，或者觉得我矫情。算了，先把这个念头说出来看看吧。）",
+        "reasoning": "（她问我身边有没有可能真心对我说这句话的人……我脑子里第一个冒出来的是外婆。她跟爸妈不一样，从来不会拿我跟谁比。可是外婆在老家，平时也见不着几面。想到这儿就有点难过，好像能给我这种感觉的人，离我那么远。）\n（不过她这么一问，我倒是第一次认真去想，身边其实不是完全没有人。也许我可以试着把这些话说给外婆听？但又怕她说出去，或者觉得我矫情。算了，先把这个念头说出来看看吧。）"
+      }
+    }
+  ],
+  "created": 1794555775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2807,
+    "total_tokens": 2946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

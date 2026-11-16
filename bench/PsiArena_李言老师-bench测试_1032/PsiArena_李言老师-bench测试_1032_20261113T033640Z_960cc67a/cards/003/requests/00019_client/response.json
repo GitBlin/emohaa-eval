@@ -1,0 +1,41 @@
+{
+  "id": "52da04b02fda46e4aace5c70c5e2a986",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……明天中午可以问旁边那个同事，附近有没有什么好吃的。听起来比较随意，就算被拒也不至于太尴尬。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我准备从哪件具体小事问起……看来是想让我把刚才说的想法落到行动上。我确实觉得午饭是个好开头，但真要说出口还是有点紧张，怕自己问得笨拙。）\n（不过既然都聊到这儿了，不如就试试吧。先问问附近有没有好吃的，听起来随意，也不会给对方压力。就算被拒绝，也还能用“我自己去”来给自己留个台阶。）",
+        "reasoning": "（她问我准备从哪件具体小事问起……看来是想让我把刚才说的想法落到行动上。我确实觉得午饭是个好开头，但真要说出口还是有点紧张，怕自己问得笨拙。）\n（不过既然都聊到这儿了，不如就试试吧。先问问附近有没有好吃的，听起来随意，也不会给对方压力。就算被拒绝，也还能用“我自己去”来给自己留个台阶。）"
+      }
+    }
+  ],
+  "created": 1794541134,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2782,
+    "total_tokens": 2902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

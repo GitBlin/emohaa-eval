@@ -1,0 +1,41 @@
+{
+  "id": "d88fb8425ea0455991c483a8601b916b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最想讲的是……我到底该不该做点什么。有时候我真想装个摄像头，或者直接问我爸，可又怕这一问，家就散了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想先讲哪一部分……我其实一直在想，是不是该做点什么。妈妈什么都不知道，可我不能装作没看见。但说出来又怕真的把事情闹大，家里就散了。）\n（我心里乱得很。有时候真想直接去问我爸，可又怕问了之后没法收场。我到底该不该主动去查？还是就这样忍着，等它自己过去？）",
+        "reasoning": "（她问我最想先讲哪一部分……我其实一直在想，是不是该做点什么。妈妈什么都不知道，可我不能装作没看见。但说出来又怕真的把事情闹大，家里就散了。）\n（我心里乱得很。有时候真想直接去问我爸，可又怕问了之后没法收场。我到底该不该主动去查？还是就这样忍着，等它自己过去？）"
+      }
+    }
+  ],
+  "created": 1794554681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2080,
+    "total_tokens": 2198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

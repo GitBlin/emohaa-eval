@@ -1,0 +1,41 @@
+{
+  "id": "5f2281a455014e028497dbd8e5cf542e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头，语气松了些）是有点意外。我一直以为自己一开口就会乱，没想到说清楚了反而没那么怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是没想到自己能说得这么稳。说实话，那句话从嘴里出来的时候，我自己都愣了一下。以前总觉得一开口就会乱，会被人抓住把柄，可刚才那句话好像真的把什么挡住了。）\n（我确实有点意外，但那种意外里带着一点踏实。也许我并不是不会说，只是以前一开口就先替别人否定自己。现在想想，那句话其实没那么难，难的是先让自己相信它。）",
+        "reasoning": "（她问我是不是没想到自己能说得这么稳。说实话，那句话从嘴里出来的时候，我自己都愣了一下。以前总觉得一开口就会乱，会被人抓住把柄，可刚才那句话好像真的把什么挡住了。）\n（我确实有点意外，但那种意外里带着一点踏实。也许我并不是不会说，只是以前一开口就先替别人否定自己。现在想想，那句话其实没那么难，难的是先让自己相信它。）"
+      }
+    }
+  ],
+  "created": 1794539656,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3166,
+    "total_tokens": 3282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

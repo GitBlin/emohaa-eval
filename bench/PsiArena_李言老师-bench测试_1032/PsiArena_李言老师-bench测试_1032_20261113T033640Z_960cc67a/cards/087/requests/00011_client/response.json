@@ -1,0 +1,41 @@
+{
+  "id": "64ae36173fad4b5581e1fe39bf1ca0c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会胸口发紧，然后就想躲起来，不想说话，也不想看人。好像整个人一下子缩回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应，这让我有点意外。我本来以为她会继续追问父母的事，或者干脆说我想太多。那个眼神……其实不用真看到，光是想到就够难受了。）\n（每次觉得要被否定的时候，身体确实会先有反应。胸口发紧，然后整个人就缩起来，好像这样能躲开什么。说出来有点难为情，但好像确实是这样的。）",
+        "reasoning": "（咨询师在问我身体反应，这让我有点意外。我本来以为她会继续追问父母的事，或者干脆说我想太多。那个眼神……其实不用真看到，光是想到就够难受了。）\n（每次觉得要被否定的时候，身体确实会先有反应。胸口发紧，然后整个人就缩起来，好像这样能躲开什么。说出来有点难为情，但好像确实是这样的。）"
+      }
+    }
+  ],
+  "created": 1794545795,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1949,
+    "total_tokens": 2059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

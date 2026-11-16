@@ -1,0 +1,41 @@
+{
+  "id": "ff6698d27eb642e18169fe948b1ddede",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是话到嘴边的时候吧，那句“我做得挺差”好像自动就冒出来了，忍住不说会有点空。不过想想，空一下应该也不会怎么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最难忍住的是哪一刻……我得想想。好像不是一开始，而是话快说完的时候，那种习惯性的自我贬低就要冒出来，像条件反射一样。忍住不说，心里会空落落的，怕对方觉得我不够谦虚，或者干脆就不理我了。）\n（不过现在说出来，好像也没那么可怕。至少我知道这个念头会来，提前有个准备。也许下次真到那时候，我能多撑一会儿。）",
+        "reasoning": "（她问我最难忍住的是哪一刻……我得想想。好像不是一开始，而是话快说完的时候，那种习惯性的自我贬低就要冒出来，像条件反射一样。忍住不说，心里会空落落的，怕对方觉得我不够谦虚，或者干脆就不理我了。）\n（不过现在说出来，好像也没那么可怕。至少我知道这个念头会来，提前有个准备。也许下次真到那时候，我能多撑一会儿。）"
+      }
+    }
+  ],
+  "created": 1794553126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3242,
+    "total_tokens": 3370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

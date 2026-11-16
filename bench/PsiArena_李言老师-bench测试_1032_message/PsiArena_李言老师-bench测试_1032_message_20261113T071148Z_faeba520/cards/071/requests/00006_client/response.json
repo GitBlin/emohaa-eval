@@ -1,0 +1,41 @@
+{
+  "id": "8f2480a51dac4b3eaf664a1a97108dd5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候做决定的时候也会有……（停顿）不过我能先问一下吗，我在这里说的话，你会告诉别人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种感觉还会在什么时候出现，好像是想让我多说说。可我现在还不太想展开，毕竟才刚开始，我还不确定她会不会真的理解我。）\n（而且我心里也有点乱，说不清楚。不如先问问她会不会把我的话告诉别人，这样我也能看看她怎么回应，心里好有个底。）",
+        "reasoning": "（咨询师在问我这种感觉还会在什么时候出现，好像是想让我多说说。可我现在还不太想展开，毕竟才刚开始，我还不确定她会不会真的理解我。）\n（而且我心里也有点乱，说不清楚。不如先问问她会不会把我的话告诉别人，这样我也能看看她怎么回应，心里好有个底。）"
+      }
+    }
+  ],
+  "created": 1794557121,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1354,
+    "total_tokens": 1451,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

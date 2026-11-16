@@ -1,0 +1,41 @@
+{
+  "id": "3c8eed175ea14fab9d10aee5e150bfa1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "时好时坏吧，医生说要看后续治疗。我现在每天去医院，可有时候坐在那儿，真不知道该跟她说什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师没有评判我这个念头，反而说这是人之常情，让我心里稍微松了一点。她问起我妈的情况，我其实一直不太敢细想，但既然已经说到这了，也许可以试着讲讲。）\n（我妈现在时好时坏，我每天去医院陪她，可有时候不知道该说什么，那种沉默让我很难受。我想着，也许可以问问咨询师，下次陪她的时候我能做点什么，至少别让自己那么慌。）",
+        "reasoning": "（心理咨询师没有评判我这个念头，反而说这是人之常情，让我心里稍微松了一点。她问起我妈的情况，我其实一直不太敢细想，但既然已经说到这了，也许可以试着讲讲。）\n（我妈现在时好时坏，我每天去医院陪她，可有时候不知道该说什么，那种沉默让我很难受。我想着，也许可以问问咨询师，下次陪她的时候我能做点什么，至少别让自己那么慌。）"
+      }
+    }
+  ],
+  "created": 1794548895,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2369,
+    "total_tokens": 2491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

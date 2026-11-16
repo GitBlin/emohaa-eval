@@ -1,0 +1,41 @@
+{
+  "id": "030d0abeacd44183aec817d9dfff5b5f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会，我一般绕小区外那条河走，人少点。要是这次谈得下去，我打算就按这个路线走，不硬撑着一次谈完，谈不下去就停一停。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了散步路线的细节，看来是在帮我具体化这个行动计划。我确实需要提前想好路线，不然到时候可能又因为周围人多而开不了口。）\n（不过我也意识到，光选路线还不够，关键是我得给自己留个退路。万一真谈不下去，不能硬撑，但也不能像以前那样直接走掉。得想个办法让两个人都能缓一缓。）",
+        "reasoning": "（咨询师问到了散步路线的细节，看来是在帮我具体化这个行动计划。我确实需要提前想好路线，不然到时候可能又因为周围人多而开不了口。）\n（不过我也意识到，光选路线还不够，关键是我得给自己留个退路。万一真谈不下去，不能硬撑，但也不能像以前那样直接走掉。得想个办法让两个人都能缓一缓。）"
+      }
+    }
+  ],
+  "created": 1794545463,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3328,
+    "total_tokens": 3460,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

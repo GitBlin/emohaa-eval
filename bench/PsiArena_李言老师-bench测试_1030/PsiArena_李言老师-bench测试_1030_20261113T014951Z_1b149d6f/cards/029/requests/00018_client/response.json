@@ -1,0 +1,41 @@
+{
+  "id": "26fa928e99634d5e9c7ac2e6844ff976",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……好像还真是。我一直以为那是我自己的声音，原来是她的。想到这个，有点说不上来的滋味。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一说，我愣了一下。好像真的是，那个声音的语气跟我妈一模一样。我一直以为那是我自己在骂自己，可其实是我把妈妈的话搬进了脑子里。）\n（这让我有点难受，也有点说不上来的轻松。如果那声音不是我自己，那我是不是不用一直这么跟自己对着干？可接下来又不知道该怎么办，总得做点什么吧。）",
+        "reasoning": "（她这么一说，我愣了一下。好像真的是，那个声音的语气跟我妈一模一样。我一直以为那是我自己在骂自己，可其实是我把妈妈的话搬进了脑子里。）\n（这让我有点难受，也有点说不上来的轻松。如果那声音不是我自己，那我是不是不用一直这么跟自己对着干？可接下来又不知道该怎么办，总得做点什么吧。）"
+      }
+    }
+  ],
+  "created": 1794536076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2711,
+    "total_tokens": 2812,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

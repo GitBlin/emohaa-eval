@@ -1,0 +1,41 @@
+{
+  "id": "ce6ac6d033204841bf98abe867da9213",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这样压力小点。可万一我说完这句，同桌只是“哦”一声，我又不知道接什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我先练开场白，这比整段话容易开口。不过我还是有点担心，万一同桌觉得我太刻意，或者根本不想听我说话，那我不是更尴尬了。）\n（但我又觉得，如果连一句“我想补充一点”都不敢说，那以后可能就一直这样了。要不先试试，至少在家里念几遍，总比什么都不做强。）",
+        "reasoning": "（她让我先练开场白，这比整段话容易开口。不过我还是有点担心，万一同桌觉得我太刻意，或者根本不想听我说话，那我不是更尴尬了。）\n（但我又觉得，如果连一句“我想补充一点”都不敢说，那以后可能就一直这样了。要不先试试，至少在家里念几遍，总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1794548179,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2925,
+    "total_tokens": 3032,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b1d7aa2e30c84f82aa8a5d7a2f930cd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……前几天跟同事吃饭，我好像说多了，回家又一直在想。其实也知道可能没什么，但就是停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师现在在问我最近一次自我挑剔的具体场合，看来是想帮我把这种模式落到具体情境里。我有点犹豫，因为说出来可能会显得我很在意别人的反应，但也许可以试着讲一个不那么沉重的例子。）\n（和同事吃饭那次其实挺典型的，我一直在想自己是不是说多了。不过现在情绪没那么乱了，我想试着看看，如果当时不那样反复想，还能做点什么不一样的。也许可以先从这种小事开始练习，别一下子要求自己完全改掉。）",
+        "reasoning": "（咨询师现在在问我最近一次自我挑剔的具体场合，看来是想帮我把这种模式落到具体情境里。我有点犹豫，因为说出来可能会显得我很在意别人的反应，但也许可以试着讲一个不那么沉重的例子。）\n（和同事吃饭那次其实挺典型的，我一直在想自己是不是说多了。不过现在情绪没那么乱了，我想试着看看，如果当时不那样反复想，还能做点什么不一样的。也许可以先从这种小事开始练习，别一下子要求自己完全改掉。）"
+      }
+    }
+  ],
+  "created": 1794542239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2433,
+    "total_tokens": 2564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

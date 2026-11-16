@@ -1,0 +1,130 @@
+{
+  "created_at": "2026-11-12T11:41:22.746743+00:00",
+  "benchmark": "EmoBench",
+  "script_version": "1.0.2",
+  "bot_id": 1032,
+  "bot_name": "李言老师测试基线",
+  "base_url": "https://www.ai-role.cn",
+  "tasks": [
+    "EU",
+    "EA"
+  ],
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "repeats": 1,
+  "seed": 42,
+  "cot": false,
+  "shuffle_options": false,
+  "planned_trials": 800,
+  "selected_question_languages": 800,
+  "workers": 8,
+  "interval": 0,
+  "timeout": 60.0,
+  "max_attempts": 3,
+  "max_consecutive_errors": 5,
+  "summary_every": 200,
+  "verify_tls": true,
+  "user_namespace": "emo_eval_20261112T114122Z_3fca89e2",
+  "credentials_module": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bot_chat_client.py",
+  "model_version": "unreported",
+  "harness_version": "unreported",
+  "generation_parameters": "backend defaults, not exposed by agent API; official API example uses temperature=0.6",
+  "context_policy": "unique user per trial; clear and verify before every attempt",
+  "scoring": "EA: exact answer; EU: emotion AND cause correct; invalid/error counted wrong",
+  "protocol_differences": [
+    "official system instruction carried in user content",
+    "platform model/generation parameters are not fixed by this client",
+    "three repeats are saved/scored separately; plurality is auxiliary",
+    "duplicate JSON keys rejected; invalid format is not retried for a better answer"
+  ],
+  "source_hashes": {
+    "snapshot/evaluate_emobench.py": "845cc6426129d1cb08386afeea3c1ef47ca9075fe1be7c8a51f2e9b60fc6981d",
+    "snapshot/emobench_api.py": "c6a88da255a70c2a06025011f2c9b97fb48bf22f9e539f28a530254386e50e1e",
+    "snapshot/data/EU.jsonl": "60140a7617779bdb496cd50dcebaf33037c39c65821ae300a6a24a72fd7c7037",
+    "snapshot/data/EA.jsonl": "344c84913ed4adc9f26261a03cc4ddbecceeef4fcb8f77ab0405f8a63e8a4628",
+    "snapshot/emobench_official/prompts.yaml": "544a65036fb784ccbbaa4bf256f0f23008689c628d60830f6d64b9a631339f9e",
+    "snapshot/emobench_official/response.yaml": "cb100b2b814e4bd1180df8282f1c5e517ef410986cc71624cee60b875f99125f",
+    "snapshot/emobench_official/utils.py": "399862a073fce9b632a1e67a3fef18c2ca146a2a916602b3159d54c19ff71c61",
+    "snapshot/emobench_official/config.json": "1be28e628905bdec975c877c76f16367c5681b1766d63b7d7707a5272ad1cb21",
+    "snapshot/emobench_official/data.py": "b33ad6e87d84c0ca12078de935c67baf4d84ddde5b4a891acbb6e70e19dbff7d",
+    "snapshot/emobench_official/model.py": "5c2e1f3ec4a6a1f9dad0b43eb0c2205f6d447aa78a6263e86d0e617d0e65b629",
+    "snapshot/emobench_official/main.py": "38b001fd462f8d0e2632d13cb6eef3cc533d0750d337015968dfc989b467d118",
+    "snapshot/emobench_official/LICENSE": "9f50c12f10cb3c2b44d249356c26abe37a86537f29c5eb847554e579b2f11fb0",
+    "snapshot/emobench_official/provenance.json": "744dccb2d651785081c0441511045aa8bcd73f59f6b2b4a47d4bbc4b599301a2",
+    "plan.json": "8edabb3afd6c2f77d263e2d8b6463f5ef6ec080d5f7fd36db1cb27a7ab3a4ad6",
+    "data_audit.json": "0b1a5f73eda722c93813e5461e99e08314c7ccb35d49f990b1a6005285bacfc1"
+  },
+  "official_provenance": {
+    "repository": "https://github.com/Sahandfer/EmoBench",
+    "checked_date": "2026-11-11",
+    "files": {
+      "src/data.py": {
+        "sha": "8007e36a68db2165e8ad147c9056bc93348a6cbe",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/data.py"
+      },
+      "src/model.py": {
+        "sha": "5bc32a4509ed22d1fa13139312c7bbf13c50022e",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/model.py"
+      },
+      "src/main.py": {
+        "sha": "dfa78524fd59c3d5a8d2ede013dbb7f9115117c8",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/main.py"
+      },
+      "LICENSE": {
+        "sha": "4e0994ecce005a6fac35550e7a0b83407876e527",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/LICENSE"
+      },
+      "data/EA.jsonl": {
+        "sha": "a667412d7657bb54a69743be7e5749ff61ed00bb",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/data/EA.jsonl"
+      },
+      "data/EU.jsonl": {
+        "sha": "bea31c8d11c1541ea1b352e61e74bcc2c8c1be82",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/data/EU.jsonl"
+      },
+      "src/configs/prompts.yaml": {
+        "sha": "8f77150c552e2ae6d2aa643084155d0383068ad1",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/configs/prompts.yaml"
+      },
+      "src/configs/response.yaml": {
+        "sha": "20422e6d0ed8710836de3577f834a948b014d97c",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/configs/response.yaml"
+      },
+      "src/utils.py": {
+        "sha": "0c4ee6f9ef32c2eaa2681e1f4956e585cd6fc656",
+        "url": "https://github.com/Sahandfer/EmoBench/blob/master/src/utils.py"
+      }
+    }
+  },
+  "environment": {
+    "python": "3.10.19 (main, Oct 21 2025, 16:43:05) [GCC 11.2.0]",
+    "platform": "Linux-5.4.119-19.0009.28-x86_64-with-glibc2.28",
+    "requests": "2.32.5"
+  },
+  "invocation": [
+    "bench/evaluate_emobench.py",
+    "--bot-id",
+    "1032",
+    "--bot-name",
+    "李言老师测试基线",
+    "--tasks",
+    "EU",
+    "EA",
+    "--languages",
+    "zh",
+    "en",
+    "--repeats",
+    "1",
+    "--workers",
+    "8",
+    "--max-attempts",
+    "3",
+    "--timeout",
+    "60",
+    "--max-consecutive-errors",
+    "5"
+  ],
+  "holdout_status": "evaluation data; do not train or tune prompts on these samples"
+}

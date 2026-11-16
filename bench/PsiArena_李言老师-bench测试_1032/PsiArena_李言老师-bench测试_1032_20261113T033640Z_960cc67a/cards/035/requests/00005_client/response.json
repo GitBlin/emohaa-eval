@@ -1,0 +1,41 @@
+{
+  "id": "70fc49558f1640548c662346b0cacb0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就是……不太想被家里人知道吧。他们会问很多，我解释不清。你会不会觉得我太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么直接问我在担心被谁知道……我其实不太想马上说具体的人，感觉还没到那一步。但至少他保证了保密，这让我稍微安心一点。）\n（我是不是可以再试探一下？比如问他会不会评判我，这样能看看他是不是真的能接纳我的情绪。毕竟我连自己都理不清，更怕被直接下结论。）",
+        "reasoning": "（他这么直接问我在担心被谁知道……我其实不太想马上说具体的人，感觉还没到那一步。但至少他保证了保密，这让我稍微安心一点。）\n（我是不是可以再试探一下？比如问他会不会评判我，这样能看看他是不是真的能接纳我的情绪。毕竟我连自己都理不清，更怕被直接下结论。）"
+      }
+    }
+  ],
+  "created": 1794542884,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1283,
+    "total_tokens": 1387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

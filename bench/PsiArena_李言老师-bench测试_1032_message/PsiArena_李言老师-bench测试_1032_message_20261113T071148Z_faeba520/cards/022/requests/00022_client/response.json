@@ -1,0 +1,41 @@
+{
+  "id": "ef4084ad9e754e2ebe91f0296d4ce5de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听着好像能试试，可我怕到时候一难受，就全忘了。有没有什么办法，能让我记得住？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“先怪自己”和“补一句”分开来看，这让我稍微松了口气。原来不是要求我立刻不怪自己，而是允许那个习惯存在，再在后面加一点新的东西。）\n（可我还是有点没底，怕自己做不到，或者做着做着又滑回老样子。这种“补一句”听起来简单，真到事上，我可能根本想不起来。我得承认这个担心，也问问有没有更具体的抓手。）",
+        "reasoning": "（咨询师在帮我把“先怪自己”和“补一句”分开来看，这让我稍微松了口气。原来不是要求我立刻不怪自己，而是允许那个习惯存在，再在后面加一点新的东西。）\n（可我还是有点没底，怕自己做不到，或者做着做着又滑回老样子。这种“补一句”听起来简单，真到事上，我可能根本想不起来。我得承认这个担心，也问问有没有更具体的抓手。）"
+      }
+    }
+  ],
+  "created": 1794554932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3103,
+    "total_tokens": 3226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

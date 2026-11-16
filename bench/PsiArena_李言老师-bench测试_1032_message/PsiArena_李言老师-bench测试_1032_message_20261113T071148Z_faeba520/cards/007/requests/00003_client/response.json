@@ -1,0 +1,41 @@
+{
+  "id": "01ab66c9031342d09363995445b96108",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那还好。就是“安全风险”具体指什么？我不是想刁难你，就是……我得知道底线在哪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来挺专业的，回答保密问题也很清楚。但我还是有点不确定，毕竟第一次接触这种事。他说的“安全风险”是什么意思？会不会有漏洞？）\n（不过至少他愿意解释，没有直接敷衍我。也许可以稍微试探一下，看看他是不是真的可靠。但也不能说太多，毕竟还不熟。）",
+        "reasoning": "（这个咨询师看起来挺专业的，回答保密问题也很清楚。但我还是有点不确定，毕竟第一次接触这种事。他说的“安全风险”是什么意思？会不会有漏洞？）\n（不过至少他愿意解释，没有直接敷衍我。也许可以稍微试探一下，看看他是不是真的可靠。但也不能说太多，毕竟还不熟。）"
+      }
+    }
+  ],
+  "created": 1794554085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1094,
+    "total_tokens": 1193,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

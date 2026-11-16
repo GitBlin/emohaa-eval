@@ -1,0 +1,41 @@
+{
+  "id": "b1676f94ee0e47889c27f97bb259d73d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "别太温柔吧，那样我会觉得假。就像朋友那样，正常点说“没事，别急”，可能我能听进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望用什么语气对自己说话，这让我有点意外。之前都是催自己快点、别乱想，现在要换成照顾自己的语气，反而不知道该怎么拿捏。我得想想，如果太温柔会不会显得假，太凶又变回老样子。）\n（也许可以试试像朋友那样说话，不用特别亲密，但至少别那么冲。这样我还能接受，不会觉得太别扭。不过具体怎么开口，还是得再琢磨一下。）",
+        "reasoning": "（咨询师在问我希望用什么语气对自己说话，这让我有点意外。之前都是催自己快点、别乱想，现在要换成照顾自己的语气，反而不知道该怎么拿捏。我得想想，如果太温柔会不会显得假，太凶又变回老样子。）\n（也许可以试试像朋友那样说话，不用特别亲密，但至少别那么冲。这样我还能接受，不会觉得太别扭。不过具体怎么开口，还是得再琢磨一下。）"
+      }
+    }
+  ],
+  "created": 1794554144,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2565,
+    "total_tokens": 2692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

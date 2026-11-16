@@ -1,0 +1,41 @@
+{
+  "id": "a7522a87f88244b1a2d3ac6d396754f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……听歌，或者一直刷手机，刷到困得不行了才睡。其实我也知道这样不太好，但不知道还能干嘛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像注意到了我说话时的那种习惯，还问我是怎么熬过去的。我其实不太想现在就说得太深，毕竟才刚开始，而且我也不确定她会不会真的理解。）\n（不过她问得挺温和的，没有逼我的意思。我可以稍微说一点，但不用全盘托出。就说晚上听歌、看手机这些，听起来很普通，应该不会显得太奇怪吧。）",
+        "reasoning": "（她好像注意到了我说话时的那种习惯，还问我是怎么熬过去的。我其实不太想现在就说得太深，毕竟才刚开始，而且我也不确定她会不会真的理解。）\n（不过她问得挺温和的，没有逼我的意思。我可以稍微说一点，但不用全盘托出。就说晚上听歌、看手机这些，听起来很普通，应该不会显得太奇怪吧。）"
+      }
+    }
+  ],
+  "created": 1794536733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1332,
+    "total_tokens": 1448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7c8d60e88d374ad19cc2c2553d202d3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今晚吧，睡不着的时候正好。反正那些念头本来就在脑子里转，不如写出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺具体的，好像真的在帮我规划。我平时晚上脑子最乱，但也许乱的时候反而写得出来。）\n（不过我又有点担心，怕自己拖到明天又不敢写了。要不就今晚试试，反正只是写给自己看。）",
+        "reasoning": "（她问得挺具体的，好像真的在帮我规划。我平时晚上脑子最乱，但也许乱的时候反而写得出来。）\n（不过我又有点担心，怕自己拖到明天又不敢写了。要不就今晚试试，反正只是写给自己看。）"
+      }
+    }
+  ],
+  "created": 1794555274,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2652,
+    "total_tokens": 2727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

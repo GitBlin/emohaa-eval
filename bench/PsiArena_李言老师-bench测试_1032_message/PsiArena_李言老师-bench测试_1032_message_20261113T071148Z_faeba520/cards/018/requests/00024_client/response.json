@@ -1,0 +1,41 @@
+{
+  "id": "5db36c7ec2b84c1f8447f52c7d212900",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）会，我怕她觉得我在敷衍。所以我想补一句，“不是推脱，我是真的想认真想清楚，再跟你聊”。这样她应该能明白吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会不会担心妻子把“我需要想想”误解成敷衍，这确实戳到我的点。我其实最怕的就是这个，怕她以为我在推脱，可我又不想假装立刻就能给出答案。）\n（也许我可以先坦白这份担心，再补一句我会怎么处理——把“想想”和“不会跑掉”说清楚，这样她应该能明白我不是在敷衍。）",
+        "reasoning": "（她问我会不会担心妻子把“我需要想想”误解成敷衍，这确实戳到我的点。我其实最怕的就是这个，怕她以为我在推脱，可我又不想假装立刻就能给出答案。）\n（也许我可以先坦白这份担心，再补一句我会怎么处理——把“想想”和“不会跑掉”说清楚，这样她应该能明白我不是在敷衍。）"
+      }
+    }
+  ],
+  "created": 1794554748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3290,
+    "total_tokens": 3412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

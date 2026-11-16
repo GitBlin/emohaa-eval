@@ -1,0 +1,41 @@
+{
+  "id": "16e44067097a451c84bbc8e79741e0e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……说不上来，有时候在教室里，学生一点小事我就鼻子发酸。嗯……我这样说会不会显得很奇怪？你会不会觉得我太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我情绪容易出现的时机，但我还不太确定要不要说太具体的。先含糊一点，把话题拉回到咨询本身，试探一下她的反应。毕竟我还不太了解她，直接说太多细节有点不安。）\n（而且我确实有点担心，如果说了太多自己的事，她会不会觉得我太麻烦或者太脆弱。不如先问问她会不会觉得烦，看看她怎么回应，这样也能测试一下她的态度。）",
+        "reasoning": "（咨询师在问我情绪容易出现的时机，但我还不太确定要不要说太具体的。先含糊一点，把话题拉回到咨询本身，试探一下她的反应。毕竟我还不太了解她，直接说太多细节有点不安。）\n（而且我确实有点担心，如果说了太多自己的事，她会不会觉得我太麻烦或者太脆弱。不如先问问她会不会觉得烦，看看她怎么回应，这样也能测试一下她的态度。）"
+      }
+    }
+  ],
+  "created": 1794536753,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1055,
+    "total_tokens": 1182,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

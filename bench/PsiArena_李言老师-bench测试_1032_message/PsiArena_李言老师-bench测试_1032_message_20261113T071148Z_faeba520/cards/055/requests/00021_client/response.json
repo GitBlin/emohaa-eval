@@ -1,0 +1,41 @@
+{
+  "id": "1fd0fdd103814306ae037424345e2c63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我可以试试。就是有点怕，怕明天还是没动，又证明我不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我今晚就试试把笔放床边……好像挺简单的，但我心里有点打鼓。万一明天早上我还是没动，是不是又证明我连这点小事都做不到？）\n（不过她说摸两下也算，不画也算。这让我稍微松了口气。也许可以先试试，就当是给自己留个退路，不行也不至于太难受。）",
+        "reasoning": "（她让我今晚就试试把笔放床边……好像挺简单的，但我心里有点打鼓。万一明天早上我还是没动，是不是又证明我连这点小事都做不到？）\n（不过她说摸两下也算，不画也算。这让我稍微松了口气。也许可以先试试，就当是给自己留个退路，不行也不至于太难受。）"
+      }
+    }
+  ],
+  "created": 1794556458,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2859,
+    "total_tokens": 2955,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

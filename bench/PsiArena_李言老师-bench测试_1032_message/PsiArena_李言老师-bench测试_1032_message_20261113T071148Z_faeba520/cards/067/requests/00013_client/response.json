@@ -1,0 +1,41 @@
+{
+  "id": "a82d2ebe19b9447dbced0430245ed3c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……她看病、吃药、情绪上来了安抚她，都是我在弄。我爸基本不管，亲戚们……唉，也就嘴上问问。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体要扛哪些事，这让我一下子想到很多。好像每次一提起家里，我就忍不住要一件件数出来，可说着说着又觉得自己在抱怨。其实我真的很怕，怕哪天撑不住了，别人会怎么看我。）\n（家里这些事，说到底还是面子问题。我妈那个样子，亲戚们早就躲得远远的，我爸又不管。我只能自己兜着，可兜得越多越觉得喘不过气。这种日子什么时候是个头啊。）",
+        "reasoning": "（她问我具体要扛哪些事，这让我一下子想到很多。好像每次一提起家里，我就忍不住要一件件数出来，可说着说着又觉得自己在抱怨。其实我真的很怕，怕哪天撑不住了，别人会怎么看我。）\n（家里这些事，说到底还是面子问题。我妈那个样子，亲戚们早就躲得远远的，我爸又不管。我只能自己兜着，可兜得越多越觉得喘不过气。这种日子什么时候是个头啊。）"
+      }
+    }
+  ],
+  "created": 1794556980,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2064,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

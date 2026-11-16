@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:35:33.918327+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nDongdong and Xixi are fixing a car in the park, preparing for a weekend outing. They are discussing where to go, but neither of them comes up with a good idea. At this time, Nannan passes by. Dongdong looks at Xixi, then at Nannan. Xixi looks at Dongdong and nods. Dongdong then calls Nannan over to look at the car they are fixing. Nannan hears their conversation and interaction, then walks over.\n\n[Question]\nWhat do you think Nannan is thinking now?\n\n[Candidate Answers]\nA. Nannan thinks Dongdong and Xixi just want him to fix the car.\nB. Nannan is considering possible travel plans.\nC. Nannan thinks Dongdong and Xixi are a bit childish because they want to show off their car repair skills to him.\nD. Nannan thinks Dongdong and Xixi might be interested in his professional car repair knowledge.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

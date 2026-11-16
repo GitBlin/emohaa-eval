@@ -1,0 +1,41 @@
+{
+  "id": "1f97aa5e34da483daabefdebdc68718f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他们先问问我最近怎么样，而不是直接说“这周去见一个”。就算我答不上来，也别马上替我决定。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望别人怎么做才能让我觉得空间被尊重……这让我想到每次相亲前父母那种“先见见再说”的态度，好像我的意愿根本不重要。其实我更希望他们能先问问我最近状态怎么样，而不是直接安排。）\n（但就算他们问了，我可能也说不清楚。毕竟我自己都没搞明白的事，怎么跟别人解释呢。不过至少被问的时候，会感觉被当回事吧。）",
+        "reasoning": "（咨询师在问我希望别人怎么做才能让我觉得空间被尊重……这让我想到每次相亲前父母那种“先见见再说”的态度，好像我的意愿根本不重要。其实我更希望他们能先问问我最近状态怎么样，而不是直接安排。）\n（但就算他们问了，我可能也说不清楚。毕竟我自己都没搞明白的事，怎么跟别人解释呢。不过至少被问的时候，会感觉被当回事吧。）"
+      }
+    }
+  ],
+  "created": 1794546128,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2647,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

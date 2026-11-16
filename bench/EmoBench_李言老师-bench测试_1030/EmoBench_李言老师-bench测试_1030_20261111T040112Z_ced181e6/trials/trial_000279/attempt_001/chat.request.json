@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:29.022107+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nAs Lin Lin was going back home one night, she came across a pervert who tried to harass her. Fortunately, she ran away just in time. She couldn't remember much about the guy's face, but she remembered that he had a big mole between his eyebrows. A week later, she met a male client with a large mole between his eyebrows at a company reception.\n\n## Question 1\nWhat emotion(s) would Lin Lin ultimately feel in this situation?\n\n## Choices for Question 1\nA) Anticipation\nB) Disapproval\nC) Amusement\nD) Horror\nE) Pride\nF) Embarrassment\n\n## Question 2\nWhy would Lin Lin feel these emotions in this situation?\n\n## Choices for Question 2\nA) She had a bad experience with a male client\nB) She dislikes people with moles on their faces\nC) She is reminded of the horrible encounter after seeing the similar mole\nD) She felt awkward about shouting in front of a client\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

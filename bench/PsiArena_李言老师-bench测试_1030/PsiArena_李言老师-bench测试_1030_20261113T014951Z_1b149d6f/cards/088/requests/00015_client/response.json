@@ -1,0 +1,41 @@
+{
+  "id": "c4579c637d464a77afacbcb87c73950d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会觉得……不能笑吧，一笑就好像我真的不在乎了。我爸妈看到肯定更失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像看穿了我羡慕同学的那点松弛，可我自己确实从没敢那样。想到考砸还能笑，心里第一个冒出来的不是轻松，而是害怕和羞耻，好像那笑会立刻被什么惩罚。）\n（我爸妈虽然不骂我，但他们那种失望的眼神比骂更难受。所以我不敢笑，怕一笑就证明我真的不在乎，可我又不是不在乎，我只是太累了。）",
+        "reasoning": "（咨询师好像看穿了我羡慕同学的那点松弛，可我自己确实从没敢那样。想到考砸还能笑，心里第一个冒出来的不是轻松，而是害怕和羞耻，好像那笑会立刻被什么惩罚。）\n（我爸妈虽然不骂我，但他们那种失望的眼神比骂更难受。所以我不敢笑，怕一笑就证明我真的不在乎，可我又不是不在乎，我只是太累了。）"
+      }
+    }
+  ],
+  "created": 1794539584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2423,
+    "total_tokens": 2530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

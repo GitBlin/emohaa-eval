@@ -1,0 +1,41 @@
+{
+  "id": "5d016f4c22244e77a44b1f9908c52efe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "经常吧……尤其是我爸妈说起别人家孩子的时候。他们也不是骂我，就是那种……嗯，好像我永远差一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是经常觉得自己没用……其实这个问题我自己都想过很多次。每次考完试，爸妈虽然不会直接骂我，但他们那种眼神和语气，总让我觉得还不够好。我明明已经努力了，可为什么还是达不到他们的期望呢。）\n（说起来，好像在家里做什么事都得先想想爸妈会怎么看。连选个兴趣班都要考虑对学习有没有帮助。这种感觉真的挺累的，但又不知道该怎么说。）",
+        "reasoning": "（她问我是不是经常觉得自己没用……其实这个问题我自己都想过很多次。每次考完试，爸妈虽然不会直接骂我，但他们那种眼神和语气，总让我觉得还不够好。我明明已经努力了，可为什么还是达不到他们的期望呢。）\n（说起来，好像在家里做什么事都得先想想爸妈会怎么看。连选个兴趣班都要考虑对学习有没有帮助。这种感觉真的挺累的，但又不知道该怎么说。）"
+      }
+    }
+  ],
+  "created": 1794558075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1690,
+    "total_tokens": 1810,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

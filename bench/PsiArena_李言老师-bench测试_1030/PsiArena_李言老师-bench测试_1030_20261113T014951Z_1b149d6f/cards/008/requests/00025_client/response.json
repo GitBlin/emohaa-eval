@@ -1,0 +1,41 @@
+{
+  "id": "c0422397cea342119fc3f784d090617d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该能试试。先停一下，问问自己这话是提醒还是判决。嗯……今天聊完，我心里松了不少，明天午休我想去试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我以后能不能用同样的方式掂量那些话，我其实心里有点没底。刚才说“不是判决书”的时候是挺轻松的，但真到那个场合，我可能还是会先紧张一下。）\n（不过这次聊下来，我至少知道自己会先停下来想想了，不会像以前那样立刻缩回去。明天午休跟小林试一下，也许是个开始，虽然我还是有点怕自己又在意别人的眼光。）",
+        "reasoning": "（她问我以后能不能用同样的方式掂量那些话，我其实心里有点没底。刚才说“不是判决书”的时候是挺轻松的，但真到那个场合，我可能还是会先紧张一下。）\n（不过这次聊下来，我至少知道自己会先停下来想想了，不会像以前那样立刻缩回去。明天午休跟小林试一下，也许是个开始，虽然我还是有点怕自己又在意别人的眼光。）"
+      }
+    }
+  ],
+  "created": 1794535094,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3565,
+    "total_tokens": 3691,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

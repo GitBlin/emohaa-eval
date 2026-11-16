@@ -1,0 +1,41 @@
+{
+  "id": "ebe346f5b0b84e01bf1d7639230c99b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）不想。我不想她跟我一样，考好了也不敢高兴。可这么一想，我是不是一直在做我最讨厌的那种事……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一问，我心里有点被戳到了。我从来没认真想过，我是不是在让女儿重复我当年的感受。那种被挑剔着长大的滋味，其实我比谁都清楚，可我怎么就顺着手把它用到女儿身上了。）\n（我好像一直觉得严格才是对孩子好，可现在被她点出来，我有点慌，也有点自责。是不是我真的做错了，还一直以为自己是在负责。）",
+        "reasoning": "（她这么一问，我心里有点被戳到了。我从来没认真想过，我是不是在让女儿重复我当年的感受。那种被挑剔着长大的滋味，其实我比谁都清楚，可我怎么就顺着手把它用到女儿身上了。）\n（我好像一直觉得严格才是对孩子好，可现在被她点出来，我有点慌，也有点自责。是不是我真的做错了，还一直以为自己是在负责。）"
+      }
+    }
+  ],
+  "created": 1794555065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2007,
+    "total_tokens": 2123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

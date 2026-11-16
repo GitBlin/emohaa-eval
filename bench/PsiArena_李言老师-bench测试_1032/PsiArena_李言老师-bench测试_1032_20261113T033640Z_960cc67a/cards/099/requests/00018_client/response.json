@@ -1,0 +1,41 @@
+{
+  "id": "e8bdf41025384b7391f7bc118ca364b2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "读一页书吧，这个听起来没那么吓人。不过……我要是又断了怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我缩小目标，让我选一个十分钟的小动作。这个方向好像比之前列满计划要实际一点，但我还是有点不确定自己能不能坚持。）\n（背单词和写题都让我想到以前失败的计划，读一页书可能没那么大压力。不过说实话，我连十分钟都怕自己做不到，得先问问如果又断了怎么办。）",
+        "reasoning": "（咨询师在帮我缩小目标，让我选一个十分钟的小动作。这个方向好像比之前列满计划要实际一点，但我还是有点不确定自己能不能坚持。）\n（背单词和写题都让我想到以前失败的计划，读一页书可能没那么大压力。不过说实话，我连十分钟都怕自己做不到，得先问问如果又断了怎么办。）"
+      }
+    }
+  ],
+  "created": 1794546398,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2527,
+    "total_tokens": 2625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

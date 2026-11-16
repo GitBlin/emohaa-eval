@@ -1,0 +1,41 @@
+{
+  "id": "3e9400a741834853b29907717e1315d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“我最近有点没底”，不直接说“我需要你”。这样好像没那么吓人，也能让他知道我状态不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化表达方式，而不是逼我立刻摊牌。这让我稍微松一点，但“需要你”这几个字还是让我紧张。也许我可以试试把话说得轻一点，不直接提“需要”，而是说最近有点没底，这样既不算太暴露，也能让他知道我的状态。）\n（可我又怕自己说完就忍不住解释太多，所以得先想好怎么收住。如果我能提前给自己一个底线，比如说完就去做别的事，可能就不会一直盯着他回没回。这样应该比现在这样憋着好一点。）",
+        "reasoning": "（咨询师在引导我具体化表达方式，而不是逼我立刻摊牌。这让我稍微松一点，但“需要你”这几个字还是让我紧张。也许我可以试试把话说得轻一点，不直接提“需要”，而是说最近有点没底，这样既不算太暴露，也能让他知道我的状态。）\n（可我又怕自己说完就忍不住解释太多，所以得先想好怎么收住。如果我能提前给自己一个底线，比如说完就去做别的事，可能就不会一直盯着他回没回。这样应该比现在这样憋着好一点。）"
+      }
+    }
+  ],
+  "created": 1794549972,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2774,
+    "total_tokens": 2926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

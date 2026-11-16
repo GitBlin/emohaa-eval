@@ -1,0 +1,41 @@
+{
+  "id": "39c135037f0040a28f765b424542c1c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……经常有。（声音变小）不光是成绩，跟人相处也是。我总觉得是不是我哪里不对，所以别人才会这样对我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是觉得自己不够好……这个问题戳到我了。其实不止是家里，在学校也是，那种“不够好”的感觉一直都在。特别是那个女孩，我为了她连原来的朋友都不怎么来往了，结果她说冷就冷。）\n（我本来不想提她的，但话到嘴边又忍不住。可能憋太久了，总得有人说出来。她会不会觉得我太矫情？算了，先说出来看看。）",
+        "reasoning": "（她问我是不是觉得自己不够好……这个问题戳到我了。其实不止是家里，在学校也是，那种“不够好”的感觉一直都在。特别是那个女孩，我为了她连原来的朋友都不怎么来往了，结果她说冷就冷。）\n（我本来不想提她的，但话到嘴边又忍不住。可能憋太久了，总得有人说出来。她会不会觉得我太矫情？算了，先说出来看看。）"
+      }
+    }
+  ],
+  "created": 1794543338,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2201,
+    "total_tokens": 2323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

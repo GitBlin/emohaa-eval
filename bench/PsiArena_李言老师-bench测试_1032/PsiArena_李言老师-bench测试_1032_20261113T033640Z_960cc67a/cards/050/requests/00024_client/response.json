@@ -1,0 +1,41 @@
+{
+  "id": "7b9d498bd69345e08e7d67433df6be84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他……不太会说，可有时候我干活回来，他会给我留着水。唉，这么一想，好像也不是没人管。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我爸平时怎么表达在意……这问题让我有点愣住。仔细想想，他好像真没说过什么软和话，可那些小动作又确实是在意。心里有点酸，又觉得好像没那么孤单了。）\n（以前总觉得活着没劲，现在想想，至少还有个人等着吃饭。也许我不用非得听他说什么，把饭做好端过去，这就够了。）",
+        "reasoning": "（她问我爸平时怎么表达在意……这问题让我有点愣住。仔细想想，他好像真没说过什么软和话，可那些小动作又确实是在意。心里有点酸，又觉得好像没那么孤单了。）\n（以前总觉得活着没劲，现在想想，至少还有个人等着吃饭。也许我不用非得听他说什么，把饭做好端过去，这就够了。）"
+      }
+    }
+  ],
+  "created": 1794543667,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3135,
+    "total_tokens": 3245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:01:31.370981+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n瑞亚辞职做一个全职妈妈了。虽然她喜欢这样，但她还是怀念公司和同事的陪伴。\n\n## 问题\n在这个场景中，瑞亚最有效的Action是什么？\n\n## 选项\nA) 全心全意做全职妈妈\nB) 邀请她的同事来帮忙照看宝宝\nC) 加入新妈妈的游戏小组或社交团体\nD) 看看她是否能找到全职工作\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

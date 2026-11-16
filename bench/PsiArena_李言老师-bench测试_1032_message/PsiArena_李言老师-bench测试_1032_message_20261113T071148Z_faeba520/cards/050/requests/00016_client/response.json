@@ -1,0 +1,41 @@
+{
+  "id": "5e448f866cf347ccabb586c8303784a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "拉住我的……说不上来。有时候会想起我妈那句话吧，就，算了，再熬熬。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我念头上来的时候有没有什么能拉住我……这个问题让我愣了一下。以前从没认真想过这种事，好像都是硬扛过去的。不过仔细想想，确实有那么几个瞬间，会突然觉得不能就这么算了。）\n（我妈那句话又冒出来了。虽然平时不敢多想，但那种时候它自己就会钻出来。说出来有点不好意思，但确实是这样。）",
+        "reasoning": "（她问我念头上来的时候有没有什么能拉住我……这个问题让我愣了一下。以前从没认真想过这种事，好像都是硬扛过去的。不过仔细想想，确实有那么几个瞬间，会突然觉得不能就这么算了。）\n（我妈那句话又冒出来了。虽然平时不敢多想，但那种时候它自己就会钻出来。说出来有点不好意思，但确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794559024,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2320,
+    "total_tokens": 2418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

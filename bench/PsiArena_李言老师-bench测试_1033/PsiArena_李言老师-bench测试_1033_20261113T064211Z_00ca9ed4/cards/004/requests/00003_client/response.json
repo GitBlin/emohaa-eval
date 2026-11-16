@@ -1,0 +1,41 @@
+{
+  "id": "f689451e2d6249ec9a4c527cedcb80d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "路上……也没啥。就是，嗯……我不想说学校的事，可以吗？反正就是……有点不想去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用回答问题，想到哪儿说到哪儿……听起来好像没那么可怕。但她让我说路上小事，我脑子里一下就想到操场那些人了，心里有点发紧。）\n（我其实也不知道该不该说，说多了会不会被追问。先随便说一点吧，就讲学校，讲我不想去的那个感觉，别讲太细。）",
+        "reasoning": "（咨询师说不用回答问题，想到哪儿说到哪儿……听起来好像没那么可怕。但她让我说路上小事，我脑子里一下就想到操场那些人了，心里有点发紧。）\n（我其实也不知道该不该说，说多了会不会被追问。先随便说一点吧，就讲学校，讲我不想去的那个感觉，别讲太细。）"
+      }
+    }
+  ],
+  "created": 1794552299,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1093,
+    "total_tokens": 1190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

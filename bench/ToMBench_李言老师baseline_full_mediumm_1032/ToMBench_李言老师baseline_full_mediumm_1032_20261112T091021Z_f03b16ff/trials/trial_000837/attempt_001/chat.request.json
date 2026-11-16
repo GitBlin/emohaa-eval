@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:19:32.989769+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a coffee shop, Lisa, as a waitress, accidentally bumps into the coffee cup on the edge of the table in the midst of her busy work, and the coffee splashes onto Bob's company contract, but Lisa is unaware. Bob is right next to the counter paying the bill and does not see the contract is ruined, and the shop owner happens to see this scene, but he chooses not to tell Bob, because Bob's rude attitude towards the waitress just now makes him very angry. After Bob leaves, the shop owner tells Lisa about the mistake she unintentionally makes just now, and Lisa only then knows that she accidentally ruins Bob's important document.\n\n[Question]\nWhat is the possible intention behind Lisa's behavior?\n\n[Candidate Answers]\nA. Lisa might do this on purpose, because she is angry at Bob's rude attitude and wants to retaliate by ruining his document.\nB. Lisa might want to attract Bob's attention, so she deliberately creates this accident.\nC. Lisa might try to keep Bob in the coffee shop for a longer time by spilling coffee.\nD. Lisa's behavior is unintentional, she accidentally bumps into the coffee cup in her busy work, and she is not aware at all that she might ruin Bob's contract.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

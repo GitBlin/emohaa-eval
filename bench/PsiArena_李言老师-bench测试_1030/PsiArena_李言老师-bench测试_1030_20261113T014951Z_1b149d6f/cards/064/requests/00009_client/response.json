@@ -1,0 +1,41 @@
+{
+  "id": "158f883159a34809b7446fd19dd8b487",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我妈吧。她是老师，特别会讲道理。我一说难过，她就给我分析该怎么办，说得都对……可我就是更想她先听我说完。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起家里有没有谁是我试着递过去却没被接住的人。这让我想起妈妈，她做教育工作，总是很理性地分析问题，好像我的难过在她那里都变成了需要纠正的偏差。我其实想说的是，她不是不关心，只是那种关心让我觉得自己的感受是错的。）\n（也许我可以试着说出这一点，不用说得太清楚，就提一下那种被“分析”的感觉。这样既回应了她，也让我自己慢慢看清，为什么我总是不敢把情绪递出去。）",
+        "reasoning": "（她问起家里有没有谁是我试着递过去却没被接住的人。这让我想起妈妈，她做教育工作，总是很理性地分析问题，好像我的难过在她那里都变成了需要纠正的偏差。我其实想说的是，她不是不关心，只是那种关心让我觉得自己的感受是错的。）\n（也许我可以试着说出这一点，不用说得太清楚，就提一下那种被“分析”的感觉。这样既回应了她，也让我自己慢慢看清，为什么我总是不敢把情绪递出去。）"
+      }
+    }
+  ],
+  "created": 1794537806,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1765,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

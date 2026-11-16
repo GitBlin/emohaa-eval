@@ -1,0 +1,41 @@
+{
+  "id": "b687c36bba70443eaded739b388a95a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是……在公司的时候吧，尤其大家一起吃饭聊天，我插不上话那种时候。哎，对了，我能不能加你个微信什么的？平时也能问问你。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出具体情境，但我其实还没完全信任她。她问我什么时候更明显，我确实有想到一些场景，但不想一下子说得太深。也许可以提一下公司里的事，但不用讲得太细，先看看她怎么反应。）\n（另外，我有点想试探一下她的界限。她看起来挺温和的，但不知道会不会太接近。问一句能不能私下加微信，应该能看出她会不会坚持职业边界。）",
+        "reasoning": "（咨询师在引导我说出具体情境，但我其实还没完全信任她。她问我什么时候更明显，我确实有想到一些场景，但不想一下子说得太深。也许可以提一下公司里的事，但不用讲得太细，先看看她怎么反应。）\n（另外，我有点想试探一下她的界限。她看起来挺温和的，但不知道会不会太接近。问一句能不能私下加微信，应该能看出她会不会坚持职业边界。）"
+      }
+    }
+  ],
+  "created": 1794534605,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1098,
+    "total_tokens": 1230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

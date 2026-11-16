@@ -1,0 +1,41 @@
+{
+  "id": "8e1c482a02dd4c82b77899df9c474179",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就先只做一次，洗完脸数三次呼吸，走神了也算。我先不要求自己马上就不难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体能做到哪一步，这让我稍微松了口气。她没逼我立刻解决，而是让我自己定个范围，这让我觉得比较能接受。）\n（我想着先别给自己太大压力，从最轻的开始就好。数三次呼吸听起来不难，就算走神了也没关系，至少先试一次看看。）",
+        "reasoning": "（咨询师在问我具体能做到哪一步，这让我稍微松了口气。她没逼我立刻解决，而是让我自己定个范围，这让我觉得比较能接受。）\n（我想着先别给自己太大压力，从最轻的开始就好。数三次呼吸听起来不难，就算走神了也没关系，至少先试一次看看。）"
+      }
+    }
+  ],
+  "created": 1794550748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2672,
+    "total_tokens": 2769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

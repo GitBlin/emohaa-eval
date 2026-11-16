@@ -1,0 +1,41 @@
+{
+  "id": "f1e99ad082894ce893a2f93d30c6186e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）好像……也是哦。可能是我自己想太多了。（轻轻呼了口气）那我先试试，就一次，看看会怎么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我分析“别人会不会注意到”这件事，好像是在让我别把别人的目光想得太重。但我还是会担心，毕竟班上那些人嘴很碎。）\n（不过她说得也有道理，发作业本确实很平常。也许我可以先试一次，看看情况，不用一下子想那么远。这样想好像没那么紧张了。）",
+        "reasoning": "（咨询师在帮我分析“别人会不会注意到”这件事，好像是在让我别把别人的目光想得太重。但我还是会担心，毕竟班上那些人嘴很碎。）\n（不过她说得也有道理，发作业本确实很平常。也许我可以先试一次，看看情况，不用一下子想那么远。这样想好像没那么紧张了。）"
+      }
+    }
+  ],
+  "created": 1794555452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2368,
+    "total_tokens": 2469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

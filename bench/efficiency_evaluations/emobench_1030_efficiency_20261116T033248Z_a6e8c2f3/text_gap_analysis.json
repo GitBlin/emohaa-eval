@@ -1,0 +1,50 @@
+{
+  "source_run": "bench/efficiency_evaluations/emobench_1030_efficiency_20261116T033248Z_a6e8c2f3",
+  "note": "Derived from original timestamped events; original artifacts unchanged",
+  "summary": {
+    "scope": "successful requests only; each request contributes one maximum",
+    "measured_requests": 4,
+    "requests_with_at_least_two_text_events": 4,
+    "single_text_event_requests": 0,
+    "max_gap_p50_seconds": 0.07580421999955433,
+    "max_gap_p95_seconds": 0.1228981518986984,
+    "max_gap_seconds": 0.12624180399870966,
+    "requests_exceeding_gap": {
+      "0.5": 0,
+      "1": 0,
+      "2": 0
+    },
+    "tail_wait_p50_seconds": 0.02338865350066044,
+    "tail_wait_p95_seconds": 0.023676576747857326
+  },
+  "cases": [
+    {
+      "trial_id": "trial_000466",
+      "group": "EA_en",
+      "text_event_count": 5,
+      "max_text_gap_seconds": 0.10395078999863472,
+      "tail_wait_seconds": 0.023324565001530573
+    },
+    {
+      "trial_id": "trial_000676",
+      "group": "EA_zh",
+      "text_event_count": 4,
+      "max_text_gap_seconds": 0.00010488800035091117,
+      "tail_wait_seconds": 0.022500109997054096
+    },
+    {
+      "trial_id": "trial_000122",
+      "group": "EU_en",
+      "text_event_count": 11,
+      "max_text_gap_seconds": 0.04765765000047395,
+      "tail_wait_seconds": 0.023452741999790305
+    },
+    {
+      "trial_id": "trial_000302",
+      "group": "EU_zh",
+      "text_event_count": 7,
+      "max_text_gap_seconds": 0.12624180399870966,
+      "tail_wait_seconds": 0.02371607699751621
+    }
+  ]
+}

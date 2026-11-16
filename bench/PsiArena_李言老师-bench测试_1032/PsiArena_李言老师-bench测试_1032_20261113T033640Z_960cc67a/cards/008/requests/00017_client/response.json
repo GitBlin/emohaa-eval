@@ -1,0 +1,41 @@
+{
+  "id": "ccb23af475b041ecac73ff6dc7947844",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……改成“我担心他们觉得我太过了”？这样听起来，好像确实没那么绝对了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把“他们觉得我太过了”改写成更中性的话，这让我有点紧张，因为平时我很少这样去审视自己的想法。不过刚才聊到胃会先紧一下，我确实感觉现在胃没那么紧了。）\n（我试着想，也许可以改成“我担心他们觉得我太过了”，这样听起来是在说我的感受，而不是直接认定他们真的这么想。这个改动好像让我稍微松了口气，至少不用一上来就把别人当成在评判我。）",
+        "reasoning": "（咨询师让我把“他们觉得我太过了”改写成更中性的话，这让我有点紧张，因为平时我很少这样去审视自己的想法。不过刚才聊到胃会先紧一下，我确实感觉现在胃没那么紧了。）\n（我试着想，也许可以改成“我担心他们觉得我太过了”，这样听起来是在说我的感受，而不是直接认定他们真的这么想。这个改动好像让我稍微松了口气，至少不用一上来就把别人当成在评判我。）"
+      }
+    }
+  ],
+  "created": 1794541428,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2564,
+    "total_tokens": 2687,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

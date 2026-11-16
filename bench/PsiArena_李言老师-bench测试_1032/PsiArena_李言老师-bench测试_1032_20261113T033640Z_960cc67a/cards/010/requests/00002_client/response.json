@@ -1,0 +1,41 @@
+{
+  "id": "ee3e4abf44c14f5884b48cc20f0b6a3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个……我想先确认一下，我在这里说的话，会不会被告诉别人？比如学校或者我爸妈。我不是不信任你，就是……有点不放心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说没有固定格式，让我按舒服的节奏说。但我其实不太确定该说多少，也不知道他会不会把我的话告诉别人。这种不安让我想先确认一下保密的事，毕竟学校里的事传出去会很麻烦。不过直接问会不会显得太防备了？算了，还是先试探一下吧。）",
+        "reasoning": "（心理咨询师说没有固定格式，让我按舒服的节奏说。但我其实不太确定该说多少，也不知道他会不会把我的话告诉别人。这种不安让我想先确认一下保密的事，毕竟学校里的事传出去会很麻烦。不过直接问会不会显得太防备了？算了，还是先试探一下吧。）"
+      }
+    }
+  ],
+  "created": 1794548290,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 973,
+    "total_tokens": 1073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

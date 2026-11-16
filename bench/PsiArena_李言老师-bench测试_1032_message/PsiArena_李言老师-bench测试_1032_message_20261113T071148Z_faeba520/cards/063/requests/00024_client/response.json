@@ -1,0 +1,41 @@
+{
+  "id": "63ec84b40d344ed4a9697023d29121a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写完就合上本子，去陪孩子待一会儿，或者洗个脸。先不要求自己把所有答案都想出来。今天能到这儿，我心里好像没那么乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化行动计划，问我写完问题后怎么让自己停下来。这让我意识到自己确实容易陷入过度思考，得想个实际的办法。）\n（我想到可以给自己设个界限，比如写完就收起来，去陪孩子，这样既能完成计划又不至于失控。虽然可能还会担心，但至少有个具体的行动方向了。）",
+        "reasoning": "（咨询师在帮我具体化行动计划，问我写完问题后怎么让自己停下来。这让我意识到自己确实容易陷入过度思考，得想个实际的办法。）\n（我想到可以给自己设个界限，比如写完就收起来，去陪孩子，这样既能完成计划又不至于失控。虽然可能还会担心，但至少有个具体的行动方向了。）"
+      }
+    }
+  ],
+  "created": 1794556864,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3233,
+    "total_tokens": 3345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

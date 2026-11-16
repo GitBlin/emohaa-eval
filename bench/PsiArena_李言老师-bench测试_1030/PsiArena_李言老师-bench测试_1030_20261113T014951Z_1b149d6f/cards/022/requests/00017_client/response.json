@@ -1,0 +1,41 @@
+{
+  "id": "f3f0ed23717f4c1aa7e2e2164d8686e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试……比如别人夸我的时候，先在心里默数几下，别急着接话。这样想想好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我试着接受那种温暖的感觉，而不是立刻推开。她问得挺具体的，让我想一个实际能做的动作。我心里有点矛盾，既想试试，又怕自己做不到。）\n（不过她说得对，那个声音确实没那么实。也许我可以从很小的事开始，比如别人夸我的时候，先在心里数几秒再回应。这样不算太冒险，也不会太别扭。）",
+        "reasoning": "（咨询师在引导我试着接受那种温暖的感觉，而不是立刻推开。她问得挺具体的，让我想一个实际能做的动作。我心里有点矛盾，既想试试，又怕自己做不到。）\n（不过她说得对，那个声音确实没那么实。也许我可以从很小的事开始，比如别人夸我的时候，先在心里数几秒再回应。这样不算太冒险，也不会太别扭。）"
+      }
+    }
+  ],
+  "created": 1794535733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2791,
+    "total_tokens": 2905,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

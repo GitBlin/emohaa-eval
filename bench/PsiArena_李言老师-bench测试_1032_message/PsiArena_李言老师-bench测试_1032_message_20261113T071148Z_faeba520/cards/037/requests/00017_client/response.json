@@ -1,0 +1,41 @@
+{
+  "id": "27ddc98acf1c4eebb0d9ea386baea783",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“我最近有点不安”……好像能说出口，比我想的简单点。但真到那时候，我可能又咽回去了，得先在心里练几遍才行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在引导我试着表达感受，而不是去分析对方哪里变了。听起来好像简单一点，只说自己不安……可我还是会担心，一开口就变成在责怪她。我习惯把话憋着，真要说出来，可能得先想好怎么措辞，不然又搞砸了。）\n（也许可以先在心里过一遍，再挑个她状态没那么差的时候说？这样至少不会一开口就让她觉得我在逼她。）",
+        "reasoning": "（她这是在引导我试着表达感受，而不是去分析对方哪里变了。听起来好像简单一点，只说自己不安……可我还是会担心，一开口就变成在责怪她。我习惯把话憋着，真要说出来，可能得先想好怎么措辞，不然又搞砸了。）\n（也许可以先在心里过一遍，再挑个她状态没那么差的时候说？这样至少不会一开口就让她觉得我在逼她。）"
+      }
+    }
+  ],
+  "created": 1794555469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2693,
+    "total_tokens": 2825,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "370084f84c3c44b6bd70c79c37a11d79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也许……我可以把它写在手机备忘录里，紧张的时候看一眼。虽然听起来有点傻，但好像能给我一点底气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么提醒自己，这让我有点意外。以前我总觉得情绪来了就陷进去，没想过还能提前准备点什么。现在好像真的可以试着给自己留个记号。）\n（我想起手机备忘录，平时记学习任务用的，放这句话进去应该不麻烦。紧张的时候翻出来看一眼，也许能让我缓一缓，不至于又习惯性地缩回去。）",
+        "reasoning": "（她问我打算怎么提醒自己，这让我有点意外。以前我总觉得情绪来了就陷进去，没想过还能提前准备点什么。现在好像真的可以试着给自己留个记号。）\n（我想起手机备忘录，平时记学习任务用的，放这句话进去应该不麻烦。紧张的时候翻出来看一眼，也许能让我缓一缓，不至于又习惯性地缩回去。）"
+      }
+    }
+  ],
+  "created": 1794536633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3021,
+    "total_tokens": 3126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

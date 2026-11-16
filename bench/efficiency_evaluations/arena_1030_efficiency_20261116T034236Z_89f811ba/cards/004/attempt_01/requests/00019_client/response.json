@@ -1,0 +1,47 @@
+{
+  "id": "2c6c8f09850f4c88b874ff2e5fa86e3e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……不是。她问过我好几回了，还单独叫过我。也许我可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我老师平时是不是那种会随便应付人的人。我想了想，班主任确实问过我好几次，还单独找过我，应该不是随便问问。可我还是有点拿不准，万一她只是客气一下呢。不过既然她这么问，我好像可以试着相信一次。）\n（也许我可以先按刚才想好的那句话去试试，不用一下子全说。至少先看看老师什么反应，再决定要不要多说一点。）",
+        "reasoning": "（她问我老师平时是不是那种会随便应付人的人。我想了想，班主任确实问过我好几次，还单独找过我，应该不是随便问问。可我还是有点拿不准，万一她只是客气一下呢。不过既然她这么问，我好像可以试着相信一次。）\n（也许我可以先按刚才想好的那句话去试试，不用一下子全说。至少先看看老师什么反应，再决定要不要多说一点。）"
+      }
+    }
+  ],
+  "created": 1794800770,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2750,
+    "total_tokens": 2861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2560,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

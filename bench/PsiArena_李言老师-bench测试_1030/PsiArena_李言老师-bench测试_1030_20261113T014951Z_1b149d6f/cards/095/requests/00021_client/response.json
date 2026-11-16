@@ -1,0 +1,41 @@
+{
+  "id": "0ff8c72808eb4392944eec950b9f9016",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小事啊……要不就从整理东西开始？我工作里那些乱糟糟的资料，理一理，反正也不费什么劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说从小处开始，这让我稍微松了口气。以前一想到改变就觉得要定个大目标，结果反而更焦虑。整理资料这件事我确实做得顺手，也不会有太大压力。）\n（也许可以先从工作里那些乱糟糟的文件开始试试。反正做不好也没人盯着，至少能让自己觉得有点掌控感。）",
+        "reasoning": "（咨询师说从小处开始，这让我稍微松了口气。以前一想到改变就觉得要定个大目标，结果反而更焦虑。整理资料这件事我确实做得顺手，也不会有太大压力。）\n（也许可以先从工作里那些乱糟糟的文件开始试试。反正做不好也没人盯着，至少能让自己觉得有点掌控感。）"
+      }
+    }
+  ],
+  "created": 1794540212,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3019,
+    "total_tokens": 3118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

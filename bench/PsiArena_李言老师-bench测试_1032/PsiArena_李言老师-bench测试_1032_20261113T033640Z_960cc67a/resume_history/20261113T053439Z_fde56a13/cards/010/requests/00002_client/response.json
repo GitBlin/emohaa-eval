@@ -1,0 +1,41 @@
+{
+  "id": "b217248893e5411eb18b741e2c8564d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实也不太清楚该从哪说。（犹豫）那个，我想先确认一下，我跟你说的这些，会不会告诉我爸妈或者学校？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我现在最希望他了解什么……但我其实还没想清楚要不要说太多。这个咨询师看起来还算温和，但毕竟第一次见面，谁知道他会不会把我的话传出去或者随便评判。先试探一下他会不会把我的情况告诉别人吧，这样我才能稍微放心一点。）",
+        "reasoning": "（他问我现在最希望他了解什么……但我其实还没想清楚要不要说太多。这个咨询师看起来还算温和，但毕竟第一次见面，谁知道他会不会把我的话传出去或者随便评判。先试探一下他会不会把我的情况告诉别人吧，这样我才能稍微放心一点。）"
+      }
+    }
+  ],
+  "created": 1794541608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 974,
+    "total_tokens": 1066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

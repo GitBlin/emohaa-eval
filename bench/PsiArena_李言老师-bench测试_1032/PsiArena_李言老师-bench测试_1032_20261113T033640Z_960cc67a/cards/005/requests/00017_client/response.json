@@ -1,0 +1,41 @@
+{
+  "id": "21b1796bff274c3cbedf19521f9203e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周给同事发了条消息，她隔了一天才回，就两个字。我当时盯着那两个字看了好久，越想越觉得自己是不是烦到人家了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近哪次回应让我最难受，这让我想起上周等同事消息的事。她好像没有评判我，而是真的想帮我理清这种难受的感觉。）\n（我该说具体一点，但又不想显得太计较。那个同事的事确实让我心里堵得慌，说出来可能能看清自己到底在纠结什么。）",
+        "reasoning": "（咨询师在问我最近哪次回应让我最难受，这让我想起上周等同事消息的事。她好像没有评判我，而是真的想帮我理清这种难受的感觉。）\n（我该说具体一点，但又不想显得太计较。那个同事的事确实让我心里堵得慌，说出来可能能看清自己到底在纠结什么。）"
+      }
+    }
+  ],
+  "created": 1794541403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2397,
+    "total_tokens": 2502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

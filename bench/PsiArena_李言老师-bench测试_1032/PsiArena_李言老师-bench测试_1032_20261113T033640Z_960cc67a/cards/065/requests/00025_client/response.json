@@ -1,0 +1,41 @@
+{
+  "id": "fbdb9eb586824ddaab5811f3ca938801",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧，我妈看我烧香时心不在焉，就站在旁边说了那句。我当时手都在抖，只想赶紧离开那儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问起最近一次听到那句话的情境，看来是想帮我理清这些压力具体发生在什么时候。我得回忆一个真实又具体的场景，不能太模糊。）\n（想到上周烧香时妈妈在佛像前说那句话，心里那股沉甸甸的感觉又回来了。说出来可能有点难堪，但这也是我一直憋着的事。）",
+        "reasoning": "（对方问起最近一次听到那句话的情境，看来是想帮我理清这些压力具体发生在什么时候。我得回忆一个真实又具体的场景，不能太模糊。）\n（想到上周烧香时妈妈在佛像前说那句话，心里那股沉甸甸的感觉又回来了。说出来可能有点难堪，但这也是我一直憋着的事。）"
+      }
+    }
+  ],
+  "created": 1794544544,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3383,
+    "total_tokens": 3482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

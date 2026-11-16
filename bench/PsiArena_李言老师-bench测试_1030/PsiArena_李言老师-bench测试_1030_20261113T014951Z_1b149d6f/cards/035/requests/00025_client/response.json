@@ -1,0 +1,41 @@
+{
+  "id": "0a171c9e2dfe421ab37478e3b8f6d1e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想记下……每次想说“没事”的时候。然后，也许挑一次，跟朋友说一句“我最近有点累”。就先这样，不敢定太大。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算记下什么变化，语气很温和，没有逼我马上给出大计划。这让我稍微放松一点，但心里还是有点不确定，怕自己做不到。）\n（我想先记下那些“没事”冒出来的时刻，因为那是我习惯藏自己的地方。然后也许试着对朋友说一句“我最近有点累”，不用摊开太多。这样的小事，我好像还能试试。）",
+        "reasoning": "（她问我打算记下什么变化，语气很温和，没有逼我马上给出大计划。这让我稍微放松一点，但心里还是有点不确定，怕自己做不到。）\n（我想先记下那些“没事”冒出来的时刻，因为那是我习惯藏自己的地方。然后也许试着对朋友说一句“我最近有点累”，不用摊开太多。这样的小事，我好像还能试试。）"
+      }
+    }
+  ],
+  "created": 1794536303,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3700,
+    "total_tokens": 3821,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

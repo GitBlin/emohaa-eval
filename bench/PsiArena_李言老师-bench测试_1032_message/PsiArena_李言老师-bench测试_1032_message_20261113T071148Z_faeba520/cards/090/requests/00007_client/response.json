@@ -1,0 +1,41 @@
+{
+  "id": "5a218be2b4fc474884eeb537dbc6f675",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有吧……我爸妈整天忙，回家也就问学习。朋友那边，我也不太想讲这些，讲了她们也未必懂。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才没有直接回答我的问题，反而把话题又绕回我身上。我有点失望，本来想试探一下她是不是真的懂那种感受。不过她问起我身边有没有人能说，这让我心里更堵了。）\n（爸妈整天忙工作，回家就是问成绩，朋友那边我又不想显得太矫情。其实有时候话到嘴边了，又觉得说出来也没用，还不如自己憋着。但憋着憋着就...我不想提那件事，太丢人了。）",
+        "reasoning": "（她刚才没有直接回答我的问题，反而把话题又绕回我身上。我有点失望，本来想试探一下她是不是真的懂那种感受。不过她问起我身边有没有人能说，这让我心里更堵了。）\n（爸妈整天忙工作，回家就是问成绩，朋友那边我又不想显得太矫情。其实有时候话到嘴边了，又觉得说出来也没用，还不如自己憋着。但憋着憋着就...我不想提那件事，太丢人了。）"
+      }
+    }
+  ],
+  "created": 1794558190,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1419,
+    "total_tokens": 1553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

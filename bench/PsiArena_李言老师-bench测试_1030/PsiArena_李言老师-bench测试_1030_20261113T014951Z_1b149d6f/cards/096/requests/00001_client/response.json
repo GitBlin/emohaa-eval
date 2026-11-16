@@ -1,0 +1,41 @@
+{
+  "id": "ca41ec31691a40718d7c55219dce7680",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。那个，我想先问一下，这种咨询一般是怎么进行的啊？就是……我需不需要说很多？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在我是17岁的高中女生，面对心理咨询师时感到紧张又警惕。对方刚做完自我介绍，我得先弄清楚咨询到底是怎么回事。爸妈总说看心理医生是软弱的表现，但这次实在撑不住了...不过还是得先试探下，不能什么都往外说。）\n（咨询师看起来挺温和的，但谁知道会不会像班主任那样转头就告诉家长。我得问问具体流程，还有保密原则——这个最重要。要是被同学知道我来咨询，肯定会被议论的...）",
+        "reasoning": "（现在我是17岁的高中女生，面对心理咨询师时感到紧张又警惕。对方刚做完自我介绍，我得先弄清楚咨询到底是怎么回事。爸妈总说看心理医生是软弱的表现，但这次实在撑不住了...不过还是得先试探下，不能什么都往外说。）\n（咨询师看起来挺温和的，但谁知道会不会像班主任那样转头就告诉家长。我得问问具体流程，还有保密原则——这个最重要。要是被同学知道我来咨询，肯定会被议论的...）"
+      }
+    }
+  ],
+  "created": 1794540103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 903,
+    "total_tokens": 1033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "01cea8a897d446469c2784ae8a6374c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能……每天一两分钟？我也不敢定太多。（有点不好意思）先试试看吧，别又给自己弄成任务。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我每天能抽出几分钟来练习呼吸，这让我有点紧张。我其实很想说“我可以每天十分钟”，但马上又担心自己做不到，怕又变成那种半途而废的人。）\n（不过刚才肩膀确实松了一点，那个感觉还在。我不想再给自己定太高的标准了，也许先试一个很小的量，哪怕只是工作间隙的一分钟。这样就算没坚持下来，至少不会那么自责。）",
+        "reasoning": "（咨询师在问我每天能抽出几分钟来练习呼吸，这让我有点紧张。我其实很想说“我可以每天十分钟”，但马上又担心自己做不到，怕又变成那种半途而废的人。）\n（不过刚才肩膀确实松了一点，那个感觉还在。我不想再给自己定太高的标准了，也许先试一个很小的量，哪怕只是工作间隙的一分钟。这样就算没坚持下来，至少不会那么自责。）"
+      }
+    }
+  ],
+  "created": 1794546099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3306,
+    "total_tokens": 3427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

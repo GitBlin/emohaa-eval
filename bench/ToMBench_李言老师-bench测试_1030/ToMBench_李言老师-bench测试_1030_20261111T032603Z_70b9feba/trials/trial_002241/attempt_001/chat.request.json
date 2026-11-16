@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:19.810765+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLi Hua is in charge of showcasing a new software product at the company's annual dinner. As he prepares for the demonstration, he accidentally deletes the key demonstration file. Zhang Wei, who does not understand this software well, mistakenly thinks an irrelevant file is the demonstration file and deletes it while helping Li Hua find the file. At the same time, Wang Min sees this, she is Li Hua's competitor, clearly knows that the real demonstration file is already deleted by Li Hua, but in order to take the initiative at the dinner, she chooses not to tell Zhang Wei and Li Hua. When Li Hua realizes the file is missing, he feels very anxious and looks for solutions everywhere. Later, Zhang Wei realizes the mistake he might have made when he hears other colleagues discussing the preparation process for the demonstration.\n\n[Question]\nWang Min knows that the real demonstration file is deleted by Li Hua, but does not tell Zhang Wei and Li Hua, what kind of emotion does she feel?\n\n[Candidate Answers]\nA. Wang Min possibly feels worried, fearing that her silence is discovered.\nB. Wang Min possibly feels guilty because she does not help her colleagues solve the problem.\nC. Wang Min possibly feels satisfied and confident because she sees Li Hua's predicament brings her a competitive advantage.\nD. Wang Min possibly feels indifferent because she thinks this does not affect her performance.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f6d2cf1895c74fb59b63fbcd09780b3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "耳熟……太耳熟了。我爸妈从小就这样，吃饭的时候看我一眼，那眼神我到现在都记得。他们不是骂我，但那种……那种失望的感觉，比骂我还难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这句话听着耳熟吗……确实，这话太熟悉了，从小就听。我爸妈吃饭时那种眼神，那种语气，跟这句话一模一样。）\n（他们不是骂我，可那种失望的眼神比骂还难受。我好像一直在追一个永远追不上的标准。说到这个，我有点想叹气，又觉得说出来会不会显得我在怪父母。）",
+        "reasoning": "（她问我这句话听着耳熟吗……确实，这话太熟悉了，从小就听。我爸妈吃饭时那种眼神，那种语气，跟这句话一模一样。）\n（他们不是骂我，可那种失望的眼神比骂还难受。我好像一直在追一个永远追不上的标准。说到这个，我有点想叹气，又觉得说出来会不会显得我在怪父母。）"
+      }
+    }
+  ],
+  "created": 1794539536,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1728,
+    "total_tokens": 1847,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

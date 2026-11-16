@@ -1,0 +1,41 @@
+{
+  "id": "9e34e809b413445eadf896bc7f06817b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（一怔）像……太像了。原来我一直在拿这句话劝自己回去。可光认出来，好像还不够，真到那个晚上，我还是发怵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她点破了那句话的来处……没错，就是从小听到大的。可就算知道是它，我心里还是发虚，真到了那个晚上，我能顶住吗？）\n（也许该问问她，有没有什么具体的法子，让我在那种时候不至于又顺着老路走。）",
+        "reasoning": "（她点破了那句话的来处……没错，就是从小听到大的。可就算知道是它，我心里还是发虚，真到了那个晚上，我能顶住吗？）\n（也许该问问她，有没有什么具体的法子，让我在那种时候不至于又顺着老路走。）"
+      }
+    }
+  ],
+  "created": 1794535331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3208,
+    "total_tokens": 3306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

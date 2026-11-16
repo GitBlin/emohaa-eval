@@ -1,0 +1,47 @@
+{
+  "id": "6d795407cb3d497c966e2e444eb42305",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那样说好像能安心些。不过老师会不会觉得我在提要求，或者敷衍我？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师让我直接说“先别说是谁”，这好像真的能让我安心一点。可我还是有点不放心，万一老师觉得我多事，或者敷衍我怎么办。我得先问清楚，她会不会真听进去，不然我说了也白说。）\n（还有，我其实也想问问，说完之后老师会怎么对我。是不是就问问就完了，还是以后会多留意我一点。这些事我搞不明白，心里没底。）",
+        "reasoning": "（老师让我直接说“先别说是谁”，这好像真的能让我安心一点。可我还是有点不放心，万一老师觉得我多事，或者敷衍我怎么办。我得先问清楚，她会不会真听进去，不然我说了也白说。）\n（还有，我其实也想问问，说完之后老师会怎么对我。是不是就问问就完了，还是以后会多留意我一点。这些事我搞不明白，心里没底。）"
+      }
+    }
+  ],
+  "created": 1794800766,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2651,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

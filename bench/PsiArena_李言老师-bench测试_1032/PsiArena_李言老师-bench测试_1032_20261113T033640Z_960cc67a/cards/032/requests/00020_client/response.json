@@ -1,0 +1,41 @@
+{
+  "id": "84961ceb44284790b75dedfc380cf74c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他先问一句“怎么了”，这样我还能慢慢说。不过我也想试试，发完那条消息后不一直盯着手机，去找点别的事做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望他先安慰我还是先问怎么了……其实我有点怕说“先安慰我”会显得太黏人，可心里又确实想要他先问一句。那就说希望他先问吧，这样我还能慢慢讲，不会一下子太失控。）\n（不过光是等他反应，好像我还是在原地转。我得给自己找点别的事做，不能一直盯着手机。也许可以试着不删消息，发出去之后就去忙别的，别让自己又陷进去。）",
+        "reasoning": "（她问我希望他先安慰我还是先问怎么了……其实我有点怕说“先安慰我”会显得太黏人，可心里又确实想要他先问一句。那就说希望他先问吧，这样我还能慢慢讲，不会一下子太失控。）\n（不过光是等他反应，好像我还是在原地转。我得给自己找点别的事做，不能一直盯着手机。也许可以试着不删消息，发出去之后就去忙别的，别让自己又陷进去。）"
+      }
+    }
+  ],
+  "created": 1794549977,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2865,
+    "total_tokens": 3002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

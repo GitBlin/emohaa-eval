@@ -1,0 +1,41 @@
+{
+  "id": "e04d6b4139ba4340b90e43dfa58c65fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一直在推着我走吧。喘口气……可能发呆的时候算一下，但马上又觉得这样很浪费时间，就更慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在这个标准还在推着我走，还是能停下来喘口气。我一下子想到每天一睁眼就绷着的那种感觉，根本停不下来。可我又不想说得太绝对，好像自己完全没救似的。）\n（其实我知道有时候坐着发呆，或者画画那会儿，好像能松一点点。但那种松快太短了，马上又会被拉回去。说出来会不会显得我太矛盾，一会儿说停不下一会儿又说能停？）",
+        "reasoning": "（她问我现在这个标准还在推着我走，还是能停下来喘口气。我一下子想到每天一睁眼就绷着的那种感觉，根本停不下来。可我又不想说得太绝对，好像自己完全没救似的。）\n（其实我知道有时候坐着发呆，或者画画那会儿，好像能松一点点。但那种松快太短了，马上又会被拉回去。说出来会不会显得我太矛盾，一会儿说停不下一会儿又说能停？）"
+      }
+    }
+  ],
+  "created": 1794540166,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2196,
+    "total_tokens": 2320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b5f3090d835e4ba1861d1054f9cda07e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小吧。我家里就是这样，父母说什么就是什么，很少让我自己拿主意。后来……我丈夫走了以后，就更不敢有自己的想法了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这种习惯是从什么时候开始的……我一下子有点不知道怎么说。其实不是一天两天了，好像从小家里就是这样，大人说什么就是什么，我很少能自己拿主意。）\n（后来丈夫走了，家里就剩我和公婆一起撑着，我更不敢有自己的想法了。总觉得自己要是松一点，这个家就散了。可能就是从那时候起，我把自己放得越来越靠后了。）",
+        "reasoning": "（她问这种习惯是从什么时候开始的……我一下子有点不知道怎么说。其实不是一天两天了，好像从小家里就是这样，大人说什么就是什么，我很少能自己拿主意。）\n（后来丈夫走了，家里就剩我和公婆一起撑着，我更不敢有自己的想法了。总觉得自己要是松一点，这个家就散了。可能就是从那时候起，我把自己放得越来越靠后了。）"
+      }
+    }
+  ],
+  "created": 1794557616,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1646,
+    "total_tokens": 1762,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

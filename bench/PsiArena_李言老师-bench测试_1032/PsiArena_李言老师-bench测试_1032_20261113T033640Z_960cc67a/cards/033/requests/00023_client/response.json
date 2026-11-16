@@ -1,0 +1,41 @@
+{
+  "id": "64ee819db5fa42328c88524e04367743",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是他骗我。没来我还能接受，可他撒谎，就好像觉得我好糊弄。这比什么都让我难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更难受的是他没来还是他骗我，这个问题让我心里一紧。其实我一直在回避这个点，但他问得很准，我确实更在意被欺骗这件事。）\n（想到他撒谎的样子，那种被当成傻子的感觉又涌上来了。我是不是该承认自己真正在意的是信任问题，而不是一顿饭？）",
+        "reasoning": "（咨询师在问我更难受的是他没来还是他骗我，这个问题让我心里一紧。其实我一直在回避这个点，但他问得很准，我确实更在意被欺骗这件事。）\n（想到他撒谎的样子，那种被当成傻子的感觉又涌上来了。我是不是该承认自己真正在意的是信任问题，而不是一顿饭？）"
+      }
+    }
+  ],
+  "created": 1794542696,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3225,
+    "total_tokens": 3326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

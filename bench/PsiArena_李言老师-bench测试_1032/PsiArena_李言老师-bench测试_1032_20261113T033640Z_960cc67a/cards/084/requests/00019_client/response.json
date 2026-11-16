@@ -1,0 +1,41 @@
+{
+  "id": "0e480eee919b4243b4339006dbce69ab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "松一点点……听起来好像没那么吓人。但我担心的是，我一松就收不住，比如吃零食、熬夜，一开头就停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像抓住了我真正的矛盾点。我确实怕全放开就完了，但他说只松一点点，让我觉得好像能试试。不过我还是担心，万一松了一点就收不住怎么办？）\n（我想到平时吃零食、熬夜这些事，明明知道不该，可一旦开始就停不下来。这可能就是我害怕的地方吧，怕自己根本没有中间状态，要么绷死要么彻底放纵。）",
+        "reasoning": "（这个咨询师好像抓住了我真正的矛盾点。我确实怕全放开就完了，但他说只松一点点，让我觉得好像能试试。不过我还是担心，万一松了一点就收不住怎么办？）\n（我想到平时吃零食、熬夜这些事，明明知道不该，可一旦开始就停不下来。这可能就是我害怕的地方吧，怕自己根本没有中间状态，要么绷死要么彻底放纵。）"
+      }
+    }
+  ],
+  "created": 1794545639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2659,
+    "total_tokens": 2777,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

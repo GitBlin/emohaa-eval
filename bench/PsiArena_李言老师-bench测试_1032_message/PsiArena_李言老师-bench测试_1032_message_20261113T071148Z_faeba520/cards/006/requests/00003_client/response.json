@@ -1,0 +1,41 @@
+{
+  "id": "77189c21eded4a98b4e533ba7a16982d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……有一阵子了吧，具体什么时候也说不准。对了，我想问一下，您做咨询，会不会也有自己解决不了的问题？就是那种，您也会觉得无能为力的时候？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师在问我压抑感从什么时候开始，看来是想帮我理清时间线。但我现在还没法完全信任他，不想这么快就深入。而且我确实也说不太清楚，那种感觉是慢慢积累的。）\n（我想先试探一下他，看看他作为咨询师的专业边界在哪里。毕竟在这种体制内待久了，我对人的动机总是有点警惕。问他有没有类似经历，既能测试他的反应，也能稍微拉近一点距离，但又不会暴露太多自己。）",
+        "reasoning": "（这位咨询师在问我压抑感从什么时候开始，看来是想帮我理清时间线。但我现在还没法完全信任他，不想这么快就深入。而且我确实也说不太清楚，那种感觉是慢慢积累的。）\n（我想先试探一下他，看看他作为咨询师的专业边界在哪里。毕竟在这种体制内待久了，我对人的动机总是有点警惕。问他有没有类似经历，既能测试他的反应，也能稍微拉近一点距离，但又不会暴露太多自己。）"
+      }
+    }
+  ],
+  "created": 1794554078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1075,
+    "total_tokens": 1217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

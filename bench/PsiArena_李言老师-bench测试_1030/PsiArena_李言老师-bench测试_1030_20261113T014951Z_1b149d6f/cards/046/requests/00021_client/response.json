@@ -1,0 +1,41 @@
+{
+  "id": "d7cdd53f75e84b63a097c1e52cc87b60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）那就先放下手机吧，这个我还能做到。不过真放下之后，心里空落落的，不知道会不会又胡思乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那十分钟落到一个具体的小动作上，这让我感觉没那么空。可我又怕说得太满，到时候做不到，所以想先选个最容易的，同时把心里那点没底也说出来。）\n（毕竟我一直习惯把休息当成偷懒，真到闹钟响的时候，可能还是会下意识找点事做。但先把手机放下这个动作还算简单，至少能让我别一上来就给自己太大压力。）",
+        "reasoning": "（咨询师在帮我把那十分钟落到一个具体的小动作上，这让我感觉没那么空。可我又怕说得太满，到时候做不到，所以想先选个最容易的，同时把心里那点没底也说出来。）\n（毕竟我一直习惯把休息当成偷懒，真到闹钟响的时候，可能还是会下意识找点事做。但先把手机放下这个动作还算简单，至少能让我别一上来就给自己太大压力。）"
+      }
+    }
+  ],
+  "created": 1794536836,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3170,
+    "total_tokens": 3297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

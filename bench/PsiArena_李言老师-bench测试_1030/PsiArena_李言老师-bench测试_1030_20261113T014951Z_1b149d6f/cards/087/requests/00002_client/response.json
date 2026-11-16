@@ -1,0 +1,41 @@
+{
+  "id": "85065a21a95d4cd5bd2f91c13f2d06e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……最近身体不太舒服，睡得很晚，白天又没精神。其实也说不上哪件事，就是整个人挺乱的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用提前想好该说什么，这让我稍微放松了一点，但心里还是有点没底。他让我从最近在意的小事或者此刻的感受说起，可是我真的不太确定该从哪开始。最近身体总觉得不太舒服，睡眠也很乱，但具体原因我有点说不出口。也许先提一下身体上的问题比较安全，不用马上谈到那些更尴尬的事。不过说完之后又有点后悔，怕他追问下去。）",
+        "reasoning": "（咨询师说不用提前想好该说什么，这让我稍微放松了一点，但心里还是有点没底。他让我从最近在意的小事或者此刻的感受说起，可是我真的不太确定该从哪开始。最近身体总觉得不太舒服，睡眠也很乱，但具体原因我有点说不出口。也许先提一下身体上的问题比较安全，不用马上谈到那些更尴尬的事。不过说完之后又有点后悔，怕他追问下去。）"
+      }
+    }
+  ],
+  "created": 1794539504,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1019,
+    "total_tokens": 1141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

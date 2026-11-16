@@ -1,0 +1,41 @@
+{
+  "id": "2bf8b22f034b43b69a2a7d990631d036",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我怕变懒、变散漫。但……也许不会像我想的那么糟？我想试着从小事开始，比如允许自己少检查一遍邮件。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如果放松自我监督会担心变成什么样，这让我有点不安。我确实害怕一旦放松就会失去控制，但同时又觉得这种担心本身就很矛盾，因为现在的状态已经让我很累了。）\n（我想到可以试着从很小的事情开始，比如允许自己少检查一遍邮件，看看会发生什么。这听起来好像可行，但心里还是没底，不确定自己能不能真的做到。）",
+        "reasoning": "（咨询师在问我如果放松自我监督会担心变成什么样，这让我有点不安。我确实害怕一旦放松就会失去控制，但同时又觉得这种担心本身就很矛盾，因为现在的状态已经让我很累了。）\n（我想到可以试着从很小的事情开始，比如允许自己少检查一遍邮件，看看会发生什么。这听起来好像可行，但心里还是没底，不确定自己能不能真的做到。）"
+      }
+    }
+  ],
+  "created": 1794555841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2661,
+    "total_tokens": 2781,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

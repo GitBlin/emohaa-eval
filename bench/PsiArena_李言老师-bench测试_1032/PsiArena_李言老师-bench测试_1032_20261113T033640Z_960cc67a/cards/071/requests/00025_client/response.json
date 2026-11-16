@@ -1,0 +1,41 @@
+{
+  "id": "bc238b812a2442af9e93d086d325e9e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以试试，先从回一封不重要的邮件开始，写完就发，不再反复读。就是……要是又停不下来，我该怎么提醒自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到要挑一件五分钟的小事直接放下，这让我想到平时那些反复纠结的琐碎选择。我其实有点怕自己做不到，但既然已经聊到这里，或许可以试试看。选一件具体的小事，比如回消息，这样至少有个明确的开始。）\n（我担心的是万一又停不下来怎么办，所以想先问问有没有办法提醒自己。毕竟之前定时间限制也怕做不到，但咨询师好像觉得可以尝试，那就先说说看吧。）",
+        "reasoning": "（咨询师提到要挑一件五分钟的小事直接放下，这让我想到平时那些反复纠结的琐碎选择。我其实有点怕自己做不到，但既然已经聊到这里，或许可以试试看。选一件具体的小事，比如回消息，这样至少有个明确的开始。）\n（我担心的是万一又停不下来怎么办，所以想先问问有没有办法提醒自己。毕竟之前定时间限制也怕做不到，但咨询师好像觉得可以尝试，那就先说说看吧。）"
+      }
+    }
+  ],
+  "created": 1794544969,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3483,
+    "total_tokens": 3617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

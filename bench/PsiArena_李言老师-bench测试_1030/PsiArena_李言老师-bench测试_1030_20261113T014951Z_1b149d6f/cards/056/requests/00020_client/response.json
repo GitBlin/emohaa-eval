@@ -1,0 +1,41 @@
+{
+  "id": "a7ca6911aea14d43a2c8343ae333e1d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说，“你就是不够好”“你看人家”。……不过说出来，好像这两句话也没那么吓人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音具体说什么……我其实知道得很清楚，每次打完电话它都会冒出来。说出来有点难堪，但既然她问了，我就老实说吧。）\n（\"你就是不够好\"\"你看人家\"——这两句话几乎每次都是这样。不过说到这儿，我好像突然意识到，这个声音一直都是在拿我跟别人比。也许……也许这个发现有点用？）",
+        "reasoning": "（她问我那个声音具体说什么……我其实知道得很清楚，每次打完电话它都会冒出来。说出来有点难堪，但既然她问了，我就老实说吧。）\n（\"你就是不够好\"\"你看人家\"——这两句话几乎每次都是这样。不过说到这儿，我好像突然意识到，这个声音一直都是在拿我跟别人比。也许……也许这个发现有点用？）"
+      }
+    }
+  ],
+  "created": 1794537420,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3106,
+    "total_tokens": 3210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

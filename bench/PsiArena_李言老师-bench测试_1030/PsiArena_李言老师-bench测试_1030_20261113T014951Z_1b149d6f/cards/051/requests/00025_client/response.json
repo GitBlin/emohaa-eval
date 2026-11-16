@@ -1,0 +1,41 @@
+{
+  "id": "ba67abaf14a743d7ac020e3a36734600",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我把手机放远一点，睡前听会儿音乐，不刷朋友圈。定个时间，比如十一点就放下，试试看吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我梳理具体的行动，这让我稍微安心了一点。刷手机确实会看到那些让我难受的东西，尤其是晚上。我得想个能替代的办法，不能太复杂，不然我肯定坚持不了。）\n（听音乐好像还行，以前写代码时也常听。但光听可能不够，得给自己一个明确的界限，比如只看到几点。这样既不用完全戒掉手机，也能控制住自己不去比较。）",
+        "reasoning": "（咨询师在帮我梳理具体的行动，这让我稍微安心了一点。刷手机确实会看到那些让我难受的东西，尤其是晚上。我得想个能替代的办法，不能太复杂，不然我肯定坚持不了。）\n（听音乐好像还行，以前写代码时也常听。但光听可能不够，得给自己一个明确的界限，比如只看到几点。这样既不用完全戒掉手机，也能控制住自己不去比较。）"
+      }
+    }
+  ],
+  "created": 1794537072,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3554,
+    "total_tokens": 3679,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

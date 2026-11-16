@@ -1,0 +1,41 @@
+{
+  "id": "ceea3a773ba548848018c6457d501517",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "聊书或者电影吧，那个我比较放松，也不用担心说错话。就是……发出去之后，我可能还是会忍不住看手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我别把笔友当求助对象，就当普通聊天试试。这个说法好像让我没那么大压力了，不用非得靠对方来稳住自己。聊书和电影的话，我确实比较放松，因为那些话题不涉及“我这个人怎么样”，对方回不回也不至于让我怀疑自己。）\n（不过我还是有点担心，怕自己一聊起来又忍不住盯着回复看。可能得先给自己定个规矩，比如发完就不去管，等下次想起来再说。这样至少不会重蹈覆辙。）",
+        "reasoning": "（她让我别把笔友当求助对象，就当普通聊天试试。这个说法好像让我没那么大压力了，不用非得靠对方来稳住自己。聊书和电影的话，我确实比较放松，因为那些话题不涉及“我这个人怎么样”，对方回不回也不至于让我怀疑自己。）\n（不过我还是有点担心，怕自己一聊起来又忍不住盯着回复看。可能得先给自己定个规矩，比如发完就不去管，等下次想起来再说。这样至少不会重蹈覆辙。）"
+      }
+    }
+  ],
+  "created": 1794534888,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3400,
+    "total_tokens": 3540,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9ff29dc7d4564c449fc11c0f21919b42",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它想让我别再光坐着想了，真的去问一次。可能先做点小的，比如把要问的问题写下来，再决定哪天去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我不甘心会推着我往哪走……这让我想到自己其实一直卡在原地，不是不想动，是怕走错。我得让她知道，我虽然怕，但心里还是想往前迈一步的，哪怕很小。）\n（不甘心大概就是想让我别光坐着想了，得真的去问一次。我打算先做点能控制的小事，比如把要问的问题写下来，这样至少不会一开口就乱。）",
+        "reasoning": "（她问我不甘心会推着我往哪走……这让我想到自己其实一直卡在原地，不是不想动，是怕走错。我得让她知道，我虽然怕，但心里还是想往前迈一步的，哪怕很小。）\n（不甘心大概就是想让我别光坐着想了，得真的去问一次。我打算先做点能控制的小事，比如把要问的问题写下来，这样至少不会一开口就乱。）"
+      }
+    }
+  ],
+  "created": 1794556858,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3051,
+    "total_tokens": 3178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

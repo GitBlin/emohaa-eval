@@ -1,0 +1,229 @@
+{"event": "start", "at": "2026-11-12T09:10:21.447342+00:00", "already_completed": 0}
+{"event": "complete", "at": "2026-11-12T10:31:43.388101+00:00", "completed_trials": 5720}
+{"at": "20261113T015449Z_833c8e72", "action": "retry request_error only; preserve prior attempts", "trial_ids": ["trial_000055", "trial_000129", "trial_000144", "trial_000149", "trial_000151", "trial_000375", "trial_000377", "trial_000415", "trial_000540", "trial_000541", "trial_000625", "trial_000709", "trial_000749", "trial_000870", "trial_000871", "trial_000874", "trial_000904", "trial_000955", "trial_000958", "trial_000959", "trial_000974", "trial_000975", "trial_001019", "trial_001038", "trial_001039", "trial_001050", "trial_001056", "trial_001057", "trial_001107", "trial_001114", "trial_001121", "trial_001122", "trial_001123", "trial_001124", "trial_001136", "trial_001137", "trial_001146", "trial_001147", "trial_001152", "trial_001434", "trial_001435", "trial_001458", "trial_001571", "trial_001584", "trial_001585", "trial_001599", "trial_001632", "trial_001650", "trial_001655", "trial_001674", "trial_001675", "trial_001692", "trial_001693", "trial_001719", "trial_001794", "trial_001796", "trial_001902", "trial_001931", "trial_001944", "trial_001945", "trial_001960", "trial_002088", "trial_002089", "trial_002102", "trial_002103", "trial_002146", "trial_002182", "trial_002189", "trial_002216", "trial_002224", "trial_002230", "trial_002231", "trial_002293", "trial_002325", "trial_002326", "trial_002363", "trial_002371", "trial_002419", "trial_002442", "trial_002454", "trial_002455", "trial_002510", "trial_002511", "trial_002527", "trial_002550", "trial_002551", "trial_002552", "trial_002586", "trial_002634", "trial_002635", "trial_002694", "trial_002742", "trial_002743", "trial_002851", "trial_002863", "trial_002947", "trial_003036", "trial_003042", "trial_003043", "trial_003067", "trial_003127", "trial_003138", "trial_003198", "trial_003199", "trial_003338", "trial_003435", "trial_003438", "trial_003439", "trial_003462", "trial_003463", "trial_003474", "trial_003547", "trial_003620", "trial_003621", "trial_003637", "trial_003869", "trial_003894", "trial_003932", "trial_003938", "trial_003992", "trial_004036", "trial_004037", "trial_004070", "trial_004089", "trial_004101", "trial_004112", "trial_004122", "trial_004205", "trial_004270", "trial_004280", "trial_004316", "trial_004317", "trial_004337", "trial_004395", "trial_004604", "trial_004605", "trial_004629", "trial_004731", "trial_004917", "trial_005006", "trial_005079", "trial_005119", "trial_005258", "trial_005308", "trial_005332", "trial_005333", "trial_005334", "trial_005335", "trial_005570", "trial_005611", "trial_005638", "trial_005639"], "count": 152, "workers": 8}
+{"event": "start", "at": "2026-11-13T01:54:49.900367+00:00", "already_completed": 5568}
+{"event": "complete", "at": "2026-11-13T02:03:04.351003+00:00", "completed_trials": 5720}
+{"at": "20261113T020337Z_bae4e6fb", "action": "retry request_error only; preserve prior attempts", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_000871", "trial_001655", "trial_002103", "trial_002325", "trial_002455", "trial_002511", "trial_002634", "trial_002742", "trial_003067", "trial_003127", "trial_003199", "trial_003338", "trial_003547", "trial_003621", "trial_003637", "trial_004037", "trial_004316", "trial_004604", "trial_004605", "trial_004731", "trial_004917", "trial_005079", "trial_005611", "trial_005638"], "count": 28, "workers": 8}
+{"event": "start", "at": "2026-11-13T02:03:38.099705+00:00", "already_completed": 5692}
+{"event": "fatal", "at": "2026-11-13T02:05:48.190703+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T02:05:48.395342+00:00", "completed_trials": 5709}
+{"at": "20261113T031845Z_3cf58a5c", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_002455", "trial_003067", "trial_003127", "trial_003199"], "count": 9, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:18:46.181144+00:00", "already_completed": 5700}
+{"event": "fatal", "at": "2026-11-13T03:20:56.777865+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:20:56.987005+00:00", "completed_trials": 5712}
+{"at": "20261113T032130Z_d24a04d8", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_002455", "trial_003067", "trial_003127", "trial_003199", "trial_003637"], "count": 10, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:21:30.622956+00:00", "already_completed": 5702}
+{"event": "fatal", "at": "2026-11-13T03:23:41.413264+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:23:41.616134+00:00", "completed_trials": 5715}
+{"at": "20261113T032414Z_2d9853fd", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004604", "trial_004605"], "count": 10, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:24:15.263468+00:00", "already_completed": 5705}
+{"event": "fatal", "at": "2026-11-13T03:26:26.289441+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:26:26.491811+00:00", "completed_trials": 5717}
+{"at": "20261113T032659Z_33527c91", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004604", "trial_004605", "trial_004731", "trial_004917"], "count": 12, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:27:00.180887+00:00", "already_completed": 5705}
+{"event": "fatal", "at": "2026-11-13T03:29:11.272824+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:29:11.472728+00:00", "completed_trials": 5717}
+{"at": "20261113T032944Z_2c3af4ab", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004604", "trial_004605", "trial_004731"], "count": 11, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:29:45.179744+00:00", "already_completed": 5706}
+{"event": "fatal", "at": "2026-11-13T03:31:56.139089+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:31:56.343452+00:00", "completed_trials": 5718}
+{"at": "20261113T033403Z_6f32b889", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004605", "trial_004731", "trial_005079"], "count": 11, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:34:04.139846+00:00", "already_completed": 5707}
+{"event": "fatal", "at": "2026-11-13T03:36:14.961592+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:36:15.182820+00:00", "completed_trials": 5719}
+{"at": "20261113T033648Z_bc219313", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004605", "trial_004731", "trial_005079", "trial_005611"], "count": 12, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:36:49.088205+00:00", "already_completed": 5707}
+{"event": "fatal", "at": "2026-11-13T03:38:59.458053+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:38:59.662241+00:00", "completed_trials": 5719}
+{"at": "20261113T033932Z_47eed7d1", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003067", "trial_003127", "trial_003199", "trial_004605", "trial_004731", "trial_005079", "trial_005611"], "count": 12, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:39:33.451406+00:00", "already_completed": 5707}
+{"event": "fatal", "at": "2026-11-13T03:41:43.991112+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:41:44.201559+00:00", "completed_trials": 5720}
+{"at": "20261113T034217Z_2db497f4", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000151", "trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_004605", "trial_005079", "trial_005611"], "count": 10, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:42:17.989511+00:00", "already_completed": 5710}
+{"event": "fatal", "at": "2026-11-13T03:44:05.536531+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:44:05.740199+00:00", "completed_trials": 5720}
+{"at": "20261113T034439Z_0f859783", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:44:39.578488+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:45:45.496682+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:45:45.700316+00:00", "completed_trials": 5720}
+{"at": "20261113T034618Z_44bdee91", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:46:19.506044+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:47:25.594960+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:47:25.802454+00:00", "completed_trials": 5720}
+{"at": "20261113T034759Z_5597c4a1", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:47:59.625488+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:49:05.578904+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:49:05.788849+00:00", "completed_trials": 5720}
+{"at": "20261113T034939Z_293146dd", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:49:39.627233+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:50:45.400811+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:50:45.607052+00:00", "completed_trials": 5720}
+{"at": "20261113T035118Z_45f01bf5", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:51:19.418239+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:52:25.771611+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:52:25.980569+00:00", "completed_trials": 5720}
+{"at": "20261113T035259Z_d2d3f161", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:52:59.842617+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:54:05.941340+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:54:06.150005+00:00", "completed_trials": 5720}
+{"at": "20261113T035439Z_fa92605f", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:54:40.007970+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:55:46.149505+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:55:46.356026+00:00", "completed_trials": 5720}
+{"at": "20261113T035619Z_0004b736", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:56:20.253994+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:57:26.409809+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:57:26.615517+00:00", "completed_trials": 5720}
+{"at": "20261113T035759Z_c2b62b05", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:58:00.548227+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T03:59:06.797483+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T03:59:07.005341+00:00", "completed_trials": 5720}
+{"at": "20261113T035940Z_19ad726e", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T03:59:41.059922+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:00:47.316162+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:00:47.524698+00:00", "completed_trials": 5720}
+{"at": "20261113T040120Z_3ccd262d", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:01:21.477193+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:02:27.181453+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:02:27.384248+00:00", "completed_trials": 5720}
+{"at": "20261113T040300Z_20c3f7bd", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:03:01.301300+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:04:07.255424+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:04:07.461383+00:00", "completed_trials": 5720}
+{"at": "20261113T040440Z_03336674", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:04:41.443670+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:05:47.276102+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:05:47.484287+00:00", "completed_trials": 5720}
+{"at": "20261113T040620Z_56d40c9e", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:06:21.502114+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:07:27.860825+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:07:28.066863+00:00", "completed_trials": 5720}
+{"at": "20261113T040801Z_789293ff", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:08:02.102063+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:09:08.391269+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:09:08.595976+00:00", "completed_trials": 5720}
+{"at": "20261113T040942Z_66e17209", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199", "trial_005611"], "count": 7, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:09:42.602271+00:00", "already_completed": 5713}
+{"event": "fatal", "at": "2026-11-13T04:10:48.745019+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:10:48.950442+00:00", "completed_trials": 5720}
+{"at": "20261113T041122Z_8bdff2e8", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:11:22.991396+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:12:28.904735+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:12:29.110667+00:00", "completed_trials": 5720}
+{"at": "20261113T041302Z_5686efb9", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:13:03.188582+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:14:09.449546+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:14:09.656595+00:00", "completed_trials": 5720}
+{"at": "20261113T041443Z_ddcafe01", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:14:43.719000+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:15:49.675305+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:15:49.882978+00:00", "completed_trials": 5720}
+{"at": "20261113T041623Z_70c643dc", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:16:23.944240+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:17:29.957348+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:17:30.164657+00:00", "completed_trials": 5720}
+{"at": "20261113T041803Z_5e770cec", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:18:04.255961+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:19:10.021083+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:19:10.227465+00:00", "completed_trials": 5720}
+{"at": "20261113T041943Z_34d99ddc", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:19:44.333194+00:00", "already_completed": 5714}
+{"event": "fatal", "at": "2026-11-13T04:20:50.399035+00:00", "error": "APIError: 连续失败达到阈值；停止派发并等待在途任务保存"}
+{"event": "failed", "at": "2026-11-13T04:20:50.602998+00:00", "completed_trials": 5720}
+{"at": "20261113T042124Z_ab219ca3", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_000625", "trial_002103", "trial_003127", "trial_003199"], "count": 6, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:21:24.723067+00:00", "already_completed": 5714}
+{"event": "complete", "at": "2026-11-13T04:22:30.502120+00:00", "completed_trials": 5720}
+{"at": "20261113T042304Z_a347111f", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_003127", "trial_003199"], "count": 4, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:23:04.843352+00:00", "already_completed": 5716}
+{"event": "complete", "at": "2026-11-13T04:24:10.867171+00:00", "completed_trials": 5720}
+{"at": "20261113T042444Z_ac855757", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_003127", "trial_003199"], "count": 4, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:24:45.201158+00:00", "already_completed": 5716}
+{"event": "complete", "at": "2026-11-13T04:25:51.100235+00:00", "completed_trials": 5720}
+{"at": "20261113T042624Z_a67b2cc6", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_003127", "trial_003199"], "count": 4, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:26:25.384462+00:00", "already_completed": 5716}
+{"event": "complete", "at": "2026-11-13T04:27:31.372286+00:00", "completed_trials": 5720}
+{"at": "20261113T042805Z_81fb4fe3", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_000415", "trial_003127", "trial_003199"], "count": 4, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:28:05.683809+00:00", "already_completed": 5716}
+{"event": "complete", "at": "2026-11-13T04:29:11.970206+00:00", "completed_trials": 5720}
+{"at": "20261113T042945Z_88908795", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003127", "trial_003199"], "count": 3, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:29:46.293738+00:00", "already_completed": 5717}
+{"event": "complete", "at": "2026-11-13T04:30:52.445568+00:00", "completed_trials": 5720}
+{"at": "20261113T043126Z_50226b47", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003127", "trial_003199"], "count": 3, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:31:26.771563+00:00", "already_completed": 5717}
+{"event": "complete", "at": "2026-11-13T04:32:32.939423+00:00", "completed_trials": 5720}
+{"at": "20261113T043306Z_77b5ac6e", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:33:07.256691+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:34:12.974338+00:00", "completed_trials": 5720}
+{"at": "20261113T043446Z_cf20e340", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:34:47.297527+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:35:53.272790+00:00", "completed_trials": 5720}
+{"at": "20261113T043627Z_4eec6764", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:36:27.621814+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:37:33.842471+00:00", "completed_trials": 5720}
+{"at": "20261113T043807Z_95f26e12", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:38:08.232889+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:39:14.329075+00:00", "completed_trials": 5720}
+{"at": "20261113T043948Z_5879ec7d", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:39:48.652335+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:40:54.508028+00:00", "completed_trials": 5720}
+{"at": "20261113T044128Z_f2ae7ef9", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:41:28.918779+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:42:34.840811+00:00", "completed_trials": 5720}
+{"at": "20261113T044308Z_b4e2c519", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:43:09.315617+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:44:15.531408+00:00", "completed_trials": 5720}
+{"at": "20261113T044449Z_cf65a26b", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:44:49.961223+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:45:55.221183+00:00", "completed_trials": 5720}
+{"at": "20261113T044629Z_52fdea88", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:46:29.660648+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:47:35.473003+00:00", "completed_trials": 5720}
+{"at": "20261113T044809Z_e90a4924", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:48:09.917229+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:49:15.710347+00:00", "completed_trials": 5720}
+{"at": "20261113T044949Z_49187a8b", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:49:50.120410+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:50:56.640952+00:00", "completed_trials": 5720}
+{"at": "20261113T045130Z_49ef06e2", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:51:31.110097+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:52:36.995444+00:00", "completed_trials": 5720}
+{"at": "20261113T045310Z_e0b4d0d6", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_000375", "trial_003199"], "count": 2, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:53:11.485361+00:00", "already_completed": 5718}
+{"event": "complete", "at": "2026-11-13T04:54:17.693414+00:00", "completed_trials": 5720}
+{"at": "20261113T045451Z_87726045", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:54:52.126353+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T04:55:57.978876+00:00", "completed_trials": 5720}
+{"at": "20261113T045631Z_708570aa", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:56:32.454299+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T04:57:37.998139+00:00", "completed_trials": 5720}
+{"at": "20261113T045811Z_ac8f6dc2", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:58:12.483356+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T04:59:17.766129+00:00", "completed_trials": 5720}
+{"at": "20261113T045951Z_a6680dc3", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T04:59:52.256509+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:00:57.607230+00:00", "completed_trials": 5720}
+{"at": "20261113T050131Z_a9a5975f", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:01:32.121464+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:02:38.108975+00:00", "completed_trials": 5720}
+{"at": "20261113T050312Z_8fe98043", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:03:12.693239+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:04:18.214984+00:00", "completed_trials": 5720}
+{"at": "20261113T050452Z_3c74038b", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:04:52.771921+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:05:58.606599+00:00", "completed_trials": 5720}
+{"at": "20261113T050632Z_d0c55f8f", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:06:33.165168+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:07:38.964042+00:00", "completed_trials": 5720}
+{"at": "20261113T050812Z_6bfc6504", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:08:13.476803+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:09:18.709292+00:00", "completed_trials": 5720}
+{"at": "20261113T050952Z_29c89446", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:09:53.252587+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:10:58.824910+00:00", "completed_trials": 5720}
+{"at": "20261113T051132Z_521eccb7", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:11:33.402788+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:12:39.009276+00:00", "completed_trials": 5720}
+{"at": "20261113T051313Z_119c6e62", "action": "retry selected statuses; preserve prior attempts", "statuses": ["request_error"], "benchmark": "tombench", "trial_ids": ["trial_003199"], "count": 1, "workers": 8}
+{"event": "start", "at": "2026-11-13T05:13:13.602138+00:00", "already_completed": 5719}
+{"event": "complete", "at": "2026-11-13T05:13:23.615167+00:00", "completed_trials": 5720}

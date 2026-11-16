@@ -1,0 +1,41 @@
+{
+  "id": "c053e8dc0509432982c16e4e954a5199",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……这学期开始吧，也可能更早，我说不准。嗯……对了，我想问一下，我在这儿说的话，你会告诉我爸妈吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像挺温和的，没有逼我马上说清楚。但这个问题……从什么时候开始的？我其实也记不太清了，好像一直都有，又好像是最近才明显。）\n（不过，我有点想知道，如果我在这里说了些什么，会不会被告诉别人？比如我爸妈。他们要是知道了，肯定又要说我心思没放在学习上。我得先问清楚这个，不然我不敢往下说。）",
+        "reasoning": "（咨询师好像挺温和的，没有逼我马上说清楚。但这个问题……从什么时候开始的？我其实也记不太清了，好像一直都有，又好像是最近才明显。）\n（不过，我有点想知道，如果我在这里说了些什么，会不会被告诉别人？比如我爸妈。他们要是知道了，肯定又要说我心思没放在学习上。我得先问清楚这个，不然我不敢往下说。）"
+      }
+    }
+  ],
+  "created": 1794553920,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1082,
+    "total_tokens": 1199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

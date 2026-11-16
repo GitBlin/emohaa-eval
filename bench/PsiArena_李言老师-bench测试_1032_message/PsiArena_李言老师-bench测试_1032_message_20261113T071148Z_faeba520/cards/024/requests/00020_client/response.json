@@ -1,0 +1,41 @@
+{
+  "id": "4faaff95bc2e4879b4b38dffcd0964a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想提醒自己：“我先说我自己的感受。”……不然一绕回去，就又变成抱怨她了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我绕回去时想记得哪句话……我其实最怕的就是又变成抱怨婆婆，那样连我自己都觉得烦。可我又不想完全避开这件事，毕竟那确实是我心里堵着的地方。）\n（我想我需要一句能让自己稳住的话，不用多漂亮，只要能把话拉回我自己的感受上。这样说出来，也许就不会又把错都推到别人身上。）",
+        "reasoning": "（她问我绕回去时想记得哪句话……我其实最怕的就是又变成抱怨婆婆，那样连我自己都觉得烦。可我又不想完全避开这件事，毕竟那确实是我心里堵着的地方。）\n（我想我需要一句能让自己稳住的话，不用多漂亮，只要能把话拉回我自己的感受上。这样说出来，也许就不会又把错都推到别人身上。）"
+      }
+    }
+  ],
+  "created": 1794555052,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2757,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

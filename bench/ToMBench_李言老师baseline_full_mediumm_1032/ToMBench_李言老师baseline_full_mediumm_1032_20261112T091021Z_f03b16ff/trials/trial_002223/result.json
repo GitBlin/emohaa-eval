@@ -1,0 +1,60 @@
+{
+  "trial_id": "trial_002223",
+  "sample_id": "False Belief Task:404",
+  "task_file": "False Belief Task",
+  "ability": "Belief: Content false beliefs",
+  "language": "en",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "A",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "D",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:43:32.646447+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:43:53.976050+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:44:17.678105+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "8b563147cf5843e0bf1aa1970983a89a"
+  ],
+  "started_at": "2026-11-12T09:43:32.646447+00:00",
+  "finished_at": "2026-11-12T09:44:30.300543+00:00",
+  "elapsed_seconds": 57.65418912097812,
+  "user_id": "liyan_c35cc0343f9dee6702267bcc227163cdbd51593f"
+}

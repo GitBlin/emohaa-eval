@@ -1,0 +1,44 @@
+{
+  "bot_id": 1033,
+  "unit": "ASCII/BMP characters: codepoints = UTF-16 units",
+  "tests": [
+    {
+      "test": 5001,
+      "content_codepoints": 5001,
+      "utf16_units": 5001,
+      "status": "error",
+      "error_type": "APIError",
+      "server_error": "发送内容长度不能超过5000"
+    },
+    {
+      "test": 5000,
+      "content_codepoints": 5000,
+      "utf16_units": 5000,
+      "status": "success",
+      "reply": "OK",
+      "metadata": {
+        "models": [
+          "1033"
+        ],
+        "conversation_ids": [],
+        "finish_seen": true
+      }
+    },
+    {
+      "test": "case_1",
+      "content_codepoints": 15034,
+      "utf16_units": 15034,
+      "status": "error",
+      "error_type": "APIError",
+      "server_error": "发送内容长度不能超过5000"
+    },
+    {
+      "test": "case_10",
+      "content_codepoints": 9636,
+      "utf16_units": 9636,
+      "status": "error",
+      "error_type": "APIError",
+      "server_error": "发送内容长度不能超过5000"
+    }
+  ]
+}

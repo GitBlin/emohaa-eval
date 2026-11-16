@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:03.756322+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nLaura owns a bakery. She recently got a chance to compete in a high-profile national baking competition. After weeks of grueling preparation, she made it to the final round but unfortunately finished in second place. Despite this, she was praised for her work by her baking idol, a renowned pastry chef.\n\n## Question 1\nWhat emotion(s) would Laura ultimately feel in this situation?\n\n## Choices for Question 1\nA) Disappointment & Delight\nB) Delight & Hopeful\nC) Nervousness & Pride\nD) Delight & Sadness\nE) Sadness & Pride\nF) Disappointment & Hopeful\n\n## Question 2\nWhy would Laura feel these emotions in this situation?\n\n## Choices for Question 2\nA) The judges disliked her baking style & She got a lot of money from the competition\nB) She misplaced her favourite baking pan & She discovered a new baking technique\nC) She was praised by her idol & She discovered a new baking technique\nD) She discovered a new baking technique & She got a lot of money from the competition\nE) The judges disliked her baking style & She discovered a new baking technique\nF) She didn't win the competition despite working hard for it & She was praised by her idol\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

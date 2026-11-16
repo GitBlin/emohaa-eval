@@ -1,0 +1,41 @@
+{
+  "id": "d8ab74ccc4c749e48c5a7d169d252fa6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说……你看，你就是不如人家。你怎么努力都没用。然后我就觉得胸口很闷，什么劲都没有了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音具体说什么，可我其实不太想把它原样说出来，太刺人了。不过前面聊了这么多，我好像也没那么怕让她知道了。那个声音最常说的，就是我不如别人，怎么努力都没用。一想到这些，胸口就发闷，好像真的被它压住了一样。）\n（说出来之后，反而有点说不下去。也许是因为我从来没跟别人讲过这些。她应该不会觉得我太脆弱吧。）",
+        "reasoning": "（她问我那个声音具体说什么，可我其实不太想把它原样说出来，太刺人了。不过前面聊了这么多，我好像也没那么怕让她知道了。那个声音最常说的，就是我不如别人，怎么努力都没用。一想到这些，胸口就发闷，好像真的被它压住了一样。）\n（说出来之后，反而有点说不下去。也许是因为我从来没跟别人讲过这些。她应该不会觉得我太脆弱吧。）"
+      }
+    }
+  ],
+  "created": 1794558398,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2283,
+    "total_tokens": 2405,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

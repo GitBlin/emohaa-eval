@@ -1,0 +1,41 @@
+{
+  "id": "9e9781c0358d4a70a0d76d8965f6224e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "指尖更明显，整只手也有点凉。我搓了搓，好像好一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注身体感受，这让我稍微放松了一点。刚才练习表达之后确实没那么堵了，但手凉的感觉还在。我注意到手指尖特别凉，可能因为紧张时血液循环变差了。）\n（虽然现在情绪稳定了些，但想到回去还要面对室友就有点发怵。不过刚才的练习让我觉得，也许可以试着用更平静的方式表达自己。现在先回答咨询师的问题吧，不用想太多。）",
+        "reasoning": "（咨询师在引导我关注身体感受，这让我稍微放松了一点。刚才练习表达之后确实没那么堵了，但手凉的感觉还在。我注意到手指尖特别凉，可能因为紧张时血液循环变差了。）\n（虽然现在情绪稳定了些，但想到回去还要面对室友就有点发怵。不过刚才的练习让我觉得，也许可以试着用更平静的方式表达自己。现在先回答咨询师的问题吧，不用想太多。）"
+      }
+    }
+  ],
+  "created": 1794545896,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3125,
+    "total_tokens": 3240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

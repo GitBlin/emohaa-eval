@@ -1,0 +1,41 @@
+{
+  "id": "b685fc5a6d324a5bab47b28663dc8ecb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（回想）就是那天晚上，我在旁边掉眼泪，他翻个身就睡了。以前我只觉得“他不在乎我”。现在……也许他是真的累了，但那和我不重要，好像不是一回事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回想一次具体的“没接住”的情形，还说要换个新角度去理解。我心里第一个冒出来的还是那天晚上，他睡着的那件事。以前我只会觉得是自己不够重要，可现在我想试着看清楚，当时到底发生了什么。）\n（他那天好像确实挺累的，第二天还要早起上班。也许他不是故意无视我，只是真的撑不住了。但这么想的时候，我又有点不甘心，好像是在替他找借口。不过至少我能分清，他睡着和他不在乎我，可能不是一回事。）",
+        "reasoning": "（咨询师让我回想一次具体的“没接住”的情形，还说要换个新角度去理解。我心里第一个冒出来的还是那天晚上，他睡着的那件事。以前我只会觉得是自己不够重要，可现在我想试着看清楚，当时到底发生了什么。）\n（他那天好像确实挺累的，第二天还要早起上班。也许他不是故意无视我，只是真的撑不住了。但这么想的时候，我又有点不甘心，好像是在替他找借口。不过至少我能分清，他睡着和他不在乎我，可能不是一回事。）"
+      }
+    }
+  ],
+  "created": 1794556975,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2438,
+    "total_tokens": 2591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

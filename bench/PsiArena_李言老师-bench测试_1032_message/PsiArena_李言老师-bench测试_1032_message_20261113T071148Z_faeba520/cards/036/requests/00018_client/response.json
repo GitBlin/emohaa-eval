@@ -1,0 +1,41 @@
+{
+  "id": "ce7c3777f7d34e12954bf05448f8b5d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以……提前深呼吸几下？（想了想）或者就当是普通发作业，别想那么多。就算紧张，也没关系吧，反正就一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体的应对办法，不是催我马上做到，这让我稍微松了口气。但我确实怕到时候手抖或者脸红，被看出来就糟了。）\n（我想先想一个不引人注意的小动作，比如深呼吸，这样别人不会发现。而且我得给自己留条后路，不能一次没做好就全完了，那样我肯定更不敢动了。）",
+        "reasoning": "（咨询师在帮我想具体的应对办法，不是催我马上做到，这让我稍微松了口气。但我确实怕到时候手抖或者脸红，被看出来就糟了。）\n（我想先想一个不引人注意的小动作，比如深呼吸，这样别人不会发现。而且我得给自己留条后路，不能一次没做好就全完了，那样我肯定更不敢动了。）"
+      }
+    }
+  ],
+  "created": 1794555455,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2451,
+    "total_tokens": 2561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

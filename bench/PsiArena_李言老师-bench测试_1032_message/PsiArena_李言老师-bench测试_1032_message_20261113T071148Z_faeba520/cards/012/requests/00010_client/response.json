@@ -1,0 +1,41 @@
+{
+  "id": "c2524bd71063456288ec77a91e0083ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不好……一个人静下来的时候，那个想走的声音特别大。可一想到孩子，想到爸妈，我就又缩回去了。（苦笑）我是不是特别没出息。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更常听见哪一个声音，我一下子有点乱。那个想走的声音其实每次都在，可它刚冒出来，另一个声音就压上来了，说别闹了，忍忍吧。我好像一直在两个声音中间来回晃。）\n（想到爸妈从小教我的那些话，还有孩子，我就更不敢动了。可心里又觉得委屈，好像我自己的感受从来都不重要。也许我该说出来，但又怕显得太软弱。）",
+        "reasoning": "（咨询师问我更常听见哪一个声音，我一下子有点乱。那个想走的声音其实每次都在，可它刚冒出来，另一个声音就压上来了，说别闹了，忍忍吧。我好像一直在两个声音中间来回晃。）\n（想到爸妈从小教我的那些话，还有孩子，我就更不敢动了。可心里又觉得委屈，好像我自己的感受从来都不重要。也许我该说出来，但又怕显得太软弱。）"
+      }
+    }
+  ],
+  "created": 1794554515,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1697,
+    "total_tokens": 1830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

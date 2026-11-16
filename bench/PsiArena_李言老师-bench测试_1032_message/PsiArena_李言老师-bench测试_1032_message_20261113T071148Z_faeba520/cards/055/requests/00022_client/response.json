@@ -1,0 +1,41 @@
+{
+  "id": "8534c99a554e40539913508882cbb1ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能会说“果然没用”。……但也许能换个说法，就说“至少我拿起来了”吧。感觉怪怪的，不太习惯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像是在提醒我，别把拿一下笔也当成必须成功的任务。这个说法让我稍微松了口气，但又有点不习惯。以前不管做什么，最后都会被拿来衡量，所以脑子里第一反应还是“这算没算做到”。）\n（可如果只是拿起笔又放下，好像确实不用马上给自己下结论。我想试着不那么快否定自己，也许可以把它看成一个小小的开始，而不是又一场考试。）",
+        "reasoning": "（她好像是在提醒我，别把拿一下笔也当成必须成功的任务。这个说法让我稍微松了口气，但又有点不习惯。以前不管做什么，最后都会被拿来衡量，所以脑子里第一反应还是“这算没算做到”。）\n（可如果只是拿起笔又放下，好像确实不用马上给自己下结论。我想试着不那么快否定自己，也许可以把它看成一个小小的开始，而不是又一场考试。）"
+      }
+    }
+  ],
+  "created": 1794556465,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2955,
+    "total_tokens": 3073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

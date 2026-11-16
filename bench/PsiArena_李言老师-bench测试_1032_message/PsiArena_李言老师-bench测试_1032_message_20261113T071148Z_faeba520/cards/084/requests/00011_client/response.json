@@ -1,0 +1,41 @@
+{
+  "id": "a44925bd14834a8abeba4cafb16a2e0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……小时候学琴那会儿吧。弹错一个音就得重来，我妈就坐在旁边。好像从那时候起，做什么都得做到最好，差一点心里就不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起这个念头最早从什么时候开始，让我不得不去回想那些小时候的事。其实我有点抗拒，因为那些回忆总是带着压力，但既然已经聊到这儿了，说出来好像也没那么难。）\n（小时候练琴的场景一下子就冒出来了，那时候妈妈总在旁边盯着，弹错一个音都不行。这种感觉好像一直延续到现在，做什么都怕出错。说起来有点乱，但我就是觉得，好像从来没人告诉过我，做得差不多就可以了。）",
+        "reasoning": "（咨询师问起这个念头最早从什么时候开始，让我不得不去回想那些小时候的事。其实我有点抗拒，因为那些回忆总是带着压力，但既然已经聊到这儿了，说出来好像也没那么难。）\n（小时候练琴的场景一下子就冒出来了，那时候妈妈总在旁边盯着，弹错一个音都不行。这种感觉好像一直延续到现在，做什么都怕出错。说起来有点乱，但我就是觉得，好像从来没人告诉过我，做得差不多就可以了。）"
+      }
+    }
+  ],
+  "created": 1794557878,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1891,
+    "total_tokens": 2028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

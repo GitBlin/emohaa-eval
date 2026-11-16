@@ -1,0 +1,41 @@
+{
+  "id": "dbdb03ff483b4a98b696fedfe68eabae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样啊……那节奏真的由我定吗？我有点担心说多了会被人觉得矫情。对了，你们咨询师会不会把来访者说的事情告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的基本流程，还说节奏由我来定。听起来倒是挺温和的，但我还是不太确定能不能真的放心说。毕竟第一次见面，谁知道对方会怎么看待我这些乱七八糟的事。）\n（作为来访者，我习惯先试探一下对方的边界，看看这个咨询师是不是真的能守住规矩。毕竟我平时就挺在意别人怎么看我的，要是随便说太多反而被评判，那还不如不说。所以我想先问个稍微越界的问题，看看对方怎么反应。）",
+        "reasoning": "（刚才咨询师解释了咨询的基本流程，还说节奏由我来定。听起来倒是挺温和的，但我还是不太确定能不能真的放心说。毕竟第一次见面，谁知道对方会怎么看待我这些乱七八糟的事。）\n（作为来访者，我习惯先试探一下对方的边界，看看这个咨询师是不是真的能守住规矩。毕竟我平时就挺在意别人怎么看我的，要是随便说太多反而被评判，那还不如不说。所以我想先问个稍微越界的问题，看看对方怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794539203,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 971,
+    "total_tokens": 1113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

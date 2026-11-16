@@ -1,0 +1,41 @@
+{
+  "id": "93ef9e23d2594737a521328049d9b09d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……她提过一部电影，我其实偷偷去看了，就想着能跟她说上几句。但真到要说的时候，又怕她问我为什么看，我就答不上来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才没有笑我，还说我真诚。我本来以为说出那句话会显得很蠢，结果好像没那么糟。也许我可以试着多说一点，不用一下子全藏起来。）\n（其实我最近翻过她提到的那部电影，还特意看了两遍。但我不敢直接告诉她，怕她问我为什么看，也怕自己讲不好。不过在这里先说出来，好像没那么难。）",
+        "reasoning": "（她刚才没有笑我，还说我真诚。我本来以为说出那句话会显得很蠢，结果好像没那么糟。也许我可以试着多说一点，不用一下子全藏起来。）\n（其实我最近翻过她提到的那部电影，还特意看了两遍。但我不敢直接告诉她，怕她问我为什么看，也怕自己讲不好。不过在这里先说出来，好像没那么难。）"
+      }
+    }
+  ],
+  "created": 1794542577,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2206,
+    "total_tokens": 2330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

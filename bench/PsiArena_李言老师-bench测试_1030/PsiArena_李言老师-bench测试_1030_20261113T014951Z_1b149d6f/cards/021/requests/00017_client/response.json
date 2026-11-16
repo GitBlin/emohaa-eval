@@ -1,0 +1,41 @@
+{
+  "id": "2aa47245bf3441408105d3226c40080e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是小时候吧。家里出了事，大人都在难过，我就觉得……我得做点什么，做不好就是我没用。久了就成习惯了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个“默认”从哪儿来，我脑子里一下就浮出小时候家里的画面。好像那时候就学会了，家里一有事，先想自己哪里没做好，这样至少还能做点什么。）\n（可这么想的时候，心里又有点发沉。原来我这么多年一直背着的，不全是妈妈的事，还有自己给自己压上去的东西。说出来反而松了口气，又有点不是滋味。）",
+        "reasoning": "（她问我这个“默认”从哪儿来，我脑子里一下就浮出小时候家里的画面。好像那时候就学会了，家里一有事，先想自己哪里没做好，这样至少还能做点什么。）\n（可这么想的时候，心里又有点发沉。原来我这么多年一直背着的，不全是妈妈的事，还有自己给自己压上去的东西。说出来反而松了口气，又有点不是滋味。）"
+      }
+    }
+  ],
+  "created": 1794535712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2603,
+    "total_tokens": 2717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

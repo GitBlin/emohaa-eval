@@ -1,0 +1,41 @@
+{
+  "id": "ff326138822f41a6bdfdf315601668e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "出去走走吧，闷在屋里我容易胡思乱想。其实说出来之后，我好像没那么慌了，至少知道自己下一步能做什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“照顾自己”具体化，而不是让我觉得是在逃避。这让我稍微松了口气，原来给自己留后路不是软弱。不过一想到要主动开口，心里还是七上八下的。）\n（出去走走吧，闷在家里只会越想越糟。但我又怕自己到时候临阵退缩，所以得把话说死一点，给自己点压力。）",
+        "reasoning": "（咨询师在帮我把“照顾自己”具体化，而不是让我觉得是在逃避。这让我稍微松了口气，原来给自己留后路不是软弱。不过一想到要主动开口，心里还是七上八下的。）\n（出去走走吧，闷在家里只会越想越糟。但我又怕自己到时候临阵退缩，所以得把话说死一点，给自己点压力。）"
+      }
+    }
+  ],
+  "created": 1794555302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2742,
+    "total_tokens": 2849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

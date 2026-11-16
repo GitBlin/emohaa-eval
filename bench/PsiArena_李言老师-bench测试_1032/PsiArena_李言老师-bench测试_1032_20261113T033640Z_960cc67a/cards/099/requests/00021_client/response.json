@@ -1,0 +1,41 @@
+{
+  "id": "670519ca072e48549331956dd189fe99",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "用计时器吧。手机一拿起来我就容易分心，怕又点开小说……虽然这么说有点丢人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更想用计时器还是手机提醒，这让我有点犹豫。手机就在旁边，如果用来计时，我肯定会忍不住去看别的，说不定又陷进小说里。我对自己这点自制力实在没什么信心。）\n（不过计时器好像太正式了，感觉像在逼自己必须做到。也许可以试试把手机放远一点，用计时器，这样至少能少个诱惑。虽然还是担心做不到，但总得先试试看吧。）",
+        "reasoning": "（咨询师问我更想用计时器还是手机提醒，这让我有点犹豫。手机就在旁边，如果用来计时，我肯定会忍不住去看别的，说不定又陷进小说里。我对自己这点自制力实在没什么信心。）\n（不过计时器好像太正式了，感觉像在逼自己必须做到。也许可以试试把手机放远一点，用计时器，这样至少能少个诱惑。虽然还是担心做不到，但总得先试试看吧。）"
+      }
+    }
+  ],
+  "created": 1794546415,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2810,
+    "total_tokens": 2936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

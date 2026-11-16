@@ -1,0 +1,41 @@
+{
+  "id": "d81979bc99d543078874921c0be90b64",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我想先问一下，我说的话是保密的吧？比如工作上的事、家里的事，不会被我认识的人知道？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询不是随便闲聊，而是围绕我想谈的事情展开。他态度还算温和，但我还是有点不确定该怎么开始。毕竟第一次接触，我需要先确认一些基本的东西，比如保密性，这关系到我能说多少。）\n（作为性格内向又容易焦虑的人，我确实对隐私很敏感。虽然对方是咨询师，但直接说出工作上的挫败和家庭压力还是让我有点防备。先问问保密的事，看看他的反应，这样我才能稍微放松一点。）\n（好了，那么现在就像这样对咨询师说吧。）",
+        "reasoning": "（刚才咨询师解释了咨询不是随便闲聊，而是围绕我想谈的事情展开。他态度还算温和，但我还是有点不确定该怎么开始。毕竟第一次接触，我需要先确认一些基本的东西，比如保密性，这关系到我能说多少。）\n（作为性格内向又容易焦虑的人，我确实对隐私很敏感。虽然对方是咨询师，但直接说出工作上的挫败和家庭压力还是让我有点防备。先问问保密的事，看看他的反应，这样我才能稍微放松一点。）\n（好了，那么现在就像这样对咨询师说吧。）"
+      }
+    }
+  ],
+  "created": 1794543674,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 953,
+    "total_tokens": 1099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

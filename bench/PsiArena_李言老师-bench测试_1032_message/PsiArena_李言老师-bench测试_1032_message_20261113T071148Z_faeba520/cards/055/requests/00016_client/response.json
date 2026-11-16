@@ -1,0 +1,41 @@
+{
+  "id": "156f0e051b574e55a297f8de4f82e703",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就昨天早上吧，闹钟响了，我躺在床上第一个念头就是“今天肯定又不行”。天天这样。……不过说出来好像没之前那么堵了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次那个声音冒出来是什么情境……其实我昨天早上就经历了。闹钟响了，我躺在床上，第一个念头就是“今天肯定又不行”。这种感觉太熟悉了，每天都在重复。）\n（不过现在想想，也许我可以试着做点不一样的事。比如先不急着骂自己，而是起来画十分钟。虽然我也不知道能不能做到，但说出来好像比憋着好一点。）",
+        "reasoning": "（她问我最近一次那个声音冒出来是什么情境……其实我昨天早上就经历了。闹钟响了，我躺在床上，第一个念头就是“今天肯定又不行”。这种感觉太熟悉了，每天都在重复。）\n（不过现在想想，也许我可以试着做点不一样的事。比如先不急着骂自己，而是起来画十分钟。虽然我也不知道能不能做到，但说出来好像比憋着好一点。）"
+      }
+    }
+  ],
+  "created": 1794556438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2373,
+    "total_tokens": 2490,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

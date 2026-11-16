@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:47.261877+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Wei finds out that his grandfather plans to sell the old piano at home. Knowing that this is a memento of his grandfather and his late grandmother, Xiaowei decides to persuade him to keep it.\n\n[Question]\nHow does Xiao Wei persuade his grandfather?\n\n[Candidate Answers]\nA. He lets his grandfather know that every time Xiaowei sees that piano, he feels the warmth of home and the love of his grandparents.\nB. He suggests making a special cover for the piano, making it a decoration in the home, not just an instrument.\nC. He suggests finding an expert to assess the value of the piano, it possibly has a higher historical and artistic value than his grandfather imagines.\nD. He proposes to his grandfather that they can consult a musician or a pianist together, to hear their opinions on this piano.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "abdd7e7041f649bebbf25a66ef77cf87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心别人会觉得我不够努力吧，好像一停下来就会被说。说起来有点可笑，我连发呆都要有负罪感。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我“太闲”时心里最常冒出的担心，这让我想到妈妈那种不认可的眼神。我好像总是把放松和浪费时间划等号，其实背后是怕自己不够好。）\n（不过现在讨论这个有点沉重，我更想抓住刚才想到的具体行动。给室友发消息这件事让我觉得可以试着做点什么，哪怕只是很小的一步。）",
+        "reasoning": "（咨询师在问我“太闲”时心里最常冒出的担心，这让我想到妈妈那种不认可的眼神。我好像总是把放松和浪费时间划等号，其实背后是怕自己不够好。）\n（不过现在讨论这个有点沉重，我更想抓住刚才想到的具体行动。给室友发消息这件事让我觉得可以试着做点什么，哪怕只是很小的一步。）"
+      }
+    }
+  ],
+  "created": 1794544475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2756,
+    "total_tokens": 2864,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

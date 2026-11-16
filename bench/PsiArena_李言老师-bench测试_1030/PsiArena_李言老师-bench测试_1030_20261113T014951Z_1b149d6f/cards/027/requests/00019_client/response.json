@@ -1,0 +1,41 @@
+{
+  "id": "5c6d0e123d14409e92e6c4665a1d63e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一句好像是……“我又让她失望了”。然后就是“我是不是该听她的”。说出来有点丢人，但确实是这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我心里冒出来的第一句……其实每次听到那声叹气，我脑子里最先跳出来的就是“我又让她失望了”。好像我做什么都逃不开这个，明明有时候觉得自己没做错，可那个声音一出来，就全乱了。）\n（还有那句“我是不是该听她的”也会跟着冒出来，像条件反射一样。说出来有点难为情，但确实是这样，我好像总在等她的反应来决定自己该不该坚持。）",
+        "reasoning": "（她问的是我心里冒出来的第一句……其实每次听到那声叹气，我脑子里最先跳出来的就是“我又让她失望了”。好像我做什么都逃不开这个，明明有时候觉得自己没做错，可那个声音一出来，就全乱了。）\n（还有那句“我是不是该听她的”也会跟着冒出来，像条件反射一样。说出来有点难为情，但确实是这样，我好像总在等她的反应来决定自己该不该坚持。）"
+      }
+    }
+  ],
+  "created": 1794535925,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3050,
+    "total_tokens": 3177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

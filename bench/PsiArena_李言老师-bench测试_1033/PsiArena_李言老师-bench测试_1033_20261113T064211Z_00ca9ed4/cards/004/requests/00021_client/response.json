@@ -1,0 +1,41 @@
+{
+  "id": "e654dc31861a43d1bd28f060c1e69ca9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "收尾啊……我可能就说“老师，谢谢你听我说，我先回去了”。这样说会不会太随便了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我怎么收尾，我有点懵。刚才说买辣条的时候还挺有劲的，现在一想真要跟老师说完那些话，又不知道该怎么结束对话了。我平时跟老师说话都紧张，说完事情就想赶紧跑。）\n（不过老师这么问，应该是想让我准备充分点。我想了想，可能说一句“谢谢老师，我先回去了”比较合适，这样既礼貌又不用多待。就是不知道说完这句，老师会不会又问我别的。）",
+        "reasoning": "（老师问我怎么收尾，我有点懵。刚才说买辣条的时候还挺有劲的，现在一想真要跟老师说完那些话，又不知道该怎么结束对话了。我平时跟老师说话都紧张，说完事情就想赶紧跑。）\n（不过老师这么问，应该是想让我准备充分点。我想了想，可能说一句“谢谢老师，我先回去了”比较合适，这样既礼貌又不用多待。就是不知道说完这句，老师会不会又问我别的。）"
+      }
+    }
+  ],
+  "created": 1794552365,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3034,
+    "total_tokens": 3160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

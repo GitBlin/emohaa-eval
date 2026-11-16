@@ -1,0 +1,47 @@
+{
+  "id": "3b6ba6246f814336b67c68cbbd0ccb7b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不一样……学校是害怕，怕他们又来找我。家里是空，冷冷清清的，晚上我一个人，有时候就偷偷哭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问学校里的难受和家里的难受是不是同一种。我脑子里有点乱，想分开说又说不清楚。学校是害怕，家里是空，但都是没人管我。这让我想起爸妈总说别惹事，可能他们觉得惹事才是问题，我难受不算问题。）\n（被围着的时候我总想是不是自己哪里不对，是不是太闷了才招人烦。可我又没做错什么。这种念头一直转，晚上也睡不着。）",
+        "reasoning": "（她问学校里的难受和家里的难受是不是同一种。我脑子里有点乱，想分开说又说不清楚。学校是害怕，家里是空，但都是没人管我。这让我想起爸妈总说别惹事，可能他们觉得惹事才是问题，我难受不算问题。）\n（被围着的时候我总想是不是自己哪里不对，是不是太闷了才招人烦。可我又没做错什么。这种念头一直转，晚上也睡不着。）"
+      }
+    }
+  ],
+  "created": 1794800727,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1793,
+    "total_tokens": 1922,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

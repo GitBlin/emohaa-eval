@@ -1,0 +1,41 @@
+{
+  "id": "e046b0b7b09d493f8c4492791cb91846",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了下）好像是……从小听来的吧。家里出了事，从来不往外说，说了就是丢人。我大概不知不觉就信了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个判词是从哪儿来的……我其实从来没细想过。就是觉得，从小到大，家里人都是这么说的，谁家有事都自己扛着，不能往外说。我妈那样，我爸不管，长辈只会说“多担待”。我好像不知不觉就照着这个活了。）\n（可她说“判词”这个词，让我心里咯噔一下。好像我一直觉得自己有错，但错在哪儿，是谁定的，我真没想过。也许……不全是我自己琢磨出来的，是听多了，就当成真的了。）",
+        "reasoning": "（她问我这个判词是从哪儿来的……我其实从来没细想过。就是觉得，从小到大，家里人都是这么说的，谁家有事都自己扛着，不能往外说。我妈那样，我爸不管，长辈只会说“多担待”。我好像不知不觉就照着这个活了。）\n（可她说“判词”这个词，让我心里咯噔一下。好像我一直觉得自己有错，但错在哪儿，是谁定的，我真没想过。也许……不全是我自己琢磨出来的，是听多了，就当成真的了。）"
+      }
+    }
+  ],
+  "created": 1794538014,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2618,
+    "total_tokens": 2761,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "9f5fd3960f6e4e2099f4c56ca34942c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作的时候吧……开会讲方案，大家都听我的，那时候觉得自己还行。但一下班，好像那个“还行”就没了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有觉得自己其实挺好的时候，我脑子里第一个冒出来的就是工作。可能因为工作是我唯一能确定自己做得不错的地方吧。但说完又觉得有点空，好像除了工作，我就找不出别的了。）\n（而且她这么一问，我反而更清楚地感觉到，自己好像一直在用工作上的表现来撑住什么。可撑住了又怎么样呢，下班以后还是一个人。）",
+        "reasoning": "（她问我有没有觉得自己其实挺好的时候，我脑子里第一个冒出来的就是工作。可能因为工作是我唯一能确定自己做得不错的地方吧。但说完又觉得有点空，好像除了工作，我就找不出别的了。）\n（而且她这么一问，我反而更清楚地感觉到，自己好像一直在用工作上的表现来撑住什么。可撑住了又怎么样呢，下班以后还是一个人。）"
+      }
+    }
+  ],
+  "created": 1794800584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1442,
+    "total_tokens": 1555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1280,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

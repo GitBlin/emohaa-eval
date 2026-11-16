@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:18:52.061827+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nAnalia has been diagnosed with chronic illness. She's afraid her boyfriend might leave her if she tells him about it because he might not want to deal with the emotional burden.\n\n## Question \nIn this scenario, what is the most effective Action for Analia?\n\n## Choices\nA) Urgently tell her boyfriend everything\nB) Not tell him anything until she feels that he can handle it\nC) Discuss her illness with a close friend first to get guidance\nD) Break up with her boyfriend before telling him to avoid potential heartbreak\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

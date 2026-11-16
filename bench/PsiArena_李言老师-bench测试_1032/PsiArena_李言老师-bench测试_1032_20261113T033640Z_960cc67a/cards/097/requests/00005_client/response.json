@@ -1,0 +1,41 @@
+{
+  "id": "f712a2f247334d7686e72ea20466cff1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心……好像也说不上具体担心什么。就是觉得漏了什么，心里不踏实。……我是不是说得太乱了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有评判我，反而说这可能是一种想确认连接的习惯……让我稍微放松了一点。但他说到“背后的需要”，我又有点警惕，好像要被看穿似的。我不知道怎么回答才安全。）\n（问我不回消息会担心什么……说实话我自己也没想清楚。就是那种感觉，好像漏了什么就会出问题。可具体会出什么问题，我说不上来。也许先含糊带过比较好，我还不想这么快就说到深处。）",
+        "reasoning": "（咨询师没有评判我，反而说这可能是一种想确认连接的习惯……让我稍微放松了一点。但他说到“背后的需要”，我又有点警惕，好像要被看穿似的。我不知道怎么回答才安全。）\n（问我不回消息会担心什么……说实话我自己也没想清楚。就是那种感觉，好像漏了什么就会出问题。可具体会出什么问题，我说不上来。也许先含糊带过比较好，我还不想这么快就说到深处。）"
+      }
+    }
+  ],
+  "created": 1794550928,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1270,
+    "total_tokens": 1391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

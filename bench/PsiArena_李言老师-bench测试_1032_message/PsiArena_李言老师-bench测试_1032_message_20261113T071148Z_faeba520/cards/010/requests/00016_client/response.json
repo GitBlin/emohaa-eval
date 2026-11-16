@@ -1,0 +1,41 @@
+{
+  "id": "a47873cbb0fa4a98b914971cdb7cde96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是爸妈那边吧。同学的话我可以躲，可爸妈的话躲不掉。就是……不知道该怎么跟他们开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问哪一边更放不下……我脑子里第一个冒出来的就是爸妈。同学那边，说实话，再难受也顶多是心里堵一下，可爸妈不一样，他们的看法好像一直压在我身上，我根本没办法装作不在乎。）\n（可要是真去跟他们说，我又不知道该怎么开口。他们大概只会觉得我矫情，或者又扯到成绩上去。这种感觉挺矛盾的，一边想让他们别再比了，一边又怕说了更糟。）",
+        "reasoning": "（他问哪一边更放不下……我脑子里第一个冒出来的就是爸妈。同学那边，说实话，再难受也顶多是心里堵一下，可爸妈不一样，他们的看法好像一直压在我身上，我根本没办法装作不在乎。）\n（可要是真去跟他们说，我又不知道该怎么开口。他们大概只会觉得我矫情，或者又扯到成绩上去。这种感觉挺矛盾的，一边想让他们别再比了，一边又怕说了更糟。）"
+      }
+    }
+  ],
+  "created": 1794554350,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2338,
+    "total_tokens": 2458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

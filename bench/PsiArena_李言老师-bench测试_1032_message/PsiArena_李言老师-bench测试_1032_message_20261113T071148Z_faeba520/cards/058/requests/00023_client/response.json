@@ -1,0 +1,41 @@
+{
+  "id": "f5c7c89a847e437cb1926e64be465d4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机壁纸吧，我老看手机。写一句……“先停一停，别急着演”？会不会有点好笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么提醒比较容易注意到……我想想。手机倒是总在手里，但一焦虑就只顾着刷，壁纸可能根本看不见。小纸条贴在电脑边上？我加班的时候会一直盯着屏幕。）\n（嗯，电脑边上的纸条应该最管用，工作的时候一抬头就看见了。写什么好呢，不能太长，太长了又像在说教自己。就简单一句，提醒自己那只是自己演出来的，不是真的。）",
+        "reasoning": "（她问我什么提醒比较容易注意到……我想想。手机倒是总在手里，但一焦虑就只顾着刷，壁纸可能根本看不见。小纸条贴在电脑边上？我加班的时候会一直盯着屏幕。）\n（嗯，电脑边上的纸条应该最管用，工作的时候一抬头就看见了。写什么好呢，不能太长，太长了又像在说教自己。就简单一句，提醒自己那只是自己演出来的，不是真的。）"
+      }
+    }
+  ],
+  "created": 1794556591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3175,
+    "total_tokens": 3300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

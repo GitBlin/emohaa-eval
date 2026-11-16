@@ -1,0 +1,41 @@
+{
+  "id": "e25195bc1b604537b3b7b50ca7b15b85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）弹窗吧，我可能直接点掉。锁住支付……虽然烦，但也许真能拦住我。（有点犹豫）不过会不会太夸张了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那个“声音”变成具体能拦住我的办法，还问我要弹窗还是锁住支付。我得想想哪个真能管用，别又只是嘴上说说。）\n（其实弹窗我可能看一眼就点掉了，根本拦不住。锁住支付按钮虽然麻烦，但至少能让我多一步，说不定就懒得弄了。不过我也怕自己嫌麻烦，干脆换个方式偷偷买。）",
+        "reasoning": "（咨询师在帮我把那个“声音”变成具体能拦住我的办法，还问我要弹窗还是锁住支付。我得想想哪个真能管用，别又只是嘴上说说。）\n（其实弹窗我可能看一眼就点掉了，根本拦不住。锁住支付按钮虽然麻烦，但至少能让我多一步，说不定就懒得弄了。不过我也怕自己嫌麻烦，干脆换个方式偷偷买。）"
+      }
+    }
+  ],
+  "created": 1794549698,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2569,
+    "total_tokens": 2696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

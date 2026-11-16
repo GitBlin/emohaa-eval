@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:27:10.531506+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hong just comes home and she finds that the TV at home does not work. She checks the TV plug and finds everything is normal, but the TV still cannot turn on. At this time, her roommate Xiao Gang comes home and tells her that he goes to an appliance store today and sees a new type of smart TV, and he really wants to buy it. Xiao Hong knows that Xiao Gang is saving money recently, but she also really wants a new TV. She looks out the window and finds that the weather is very good, which is suitable for going out for a walk to think.\n\n[Question]\nAfter Xiao Hong finds out that the TV is broken, what does she most likely do?\n\n[Candidate Answers]\nA. She goes out for a walk to relax.\nB. She continues to try to repair the TV.\nC. She searches online for how to repair the TV.\nD. She invites Xiao Gang to go to the appliance store to see the new TV.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

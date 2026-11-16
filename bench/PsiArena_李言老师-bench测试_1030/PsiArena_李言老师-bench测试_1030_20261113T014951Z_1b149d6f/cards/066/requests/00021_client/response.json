@@ -1,0 +1,41 @@
+{
+  "id": "3385132161c2429cafc8e8c7149d2cba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来可能还行……我有时候会记一点东西。找别人说，我还没太想好，总觉得家丑不可外扬似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“别的方式”有没有影子……其实我最近确实想过，是不是该找个人说说，或者写下来。可一想到要跟别人开口，又觉得有点难为情，好像把家里的事往外倒似的。不过写下来这个，我倒是能接受，至少不用面对别人的反应。）\n（而且她提到“留一条退路”，让我觉得好像没那么孤单了。也许我可以先试试写，哪怕不给他看，至少自己心里能清楚一点。）",
+        "reasoning": "（她问我“别的方式”有没有影子……其实我最近确实想过，是不是该找个人说说，或者写下来。可一想到要跟别人开口，又觉得有点难为情，好像把家里的事往外倒似的。不过写下来这个，我倒是能接受，至少不用面对别人的反应。）\n（而且她提到“留一条退路”，让我觉得好像没那么孤单了。也许我可以先试试写，哪怕不给他看，至少自己心里能清楚一点。）"
+      }
+    }
+  ],
+  "created": 1794537957,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3143,
+    "total_tokens": 3274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

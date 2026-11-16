@@ -1,0 +1,41 @@
+{
+  "id": "4beaddb9f3ec4f088e927713c73e7410",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是“不检查就会出事”。有时候更吓人，会想“你是不是要变成你爸那样了”。我知道这没道理，可那一下就是会冒出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我观察那个“检查冲动”背后的念头，这让我有点紧张，因为那念头其实很吓人。我担心说出来会显得太夸张，但既然已经聊到这儿了，也许可以试着坦白一点。）\n（我想起每次手发凉的时候，心里那个声音确实是关于我爸的，好像只要不检查，我就会变成他那样。这种恐惧太深了，说出来的时候我得小心点，别显得太失控。）",
+        "reasoning": "（咨询师在引导我观察那个“检查冲动”背后的念头，这让我有点紧张，因为那念头其实很吓人。我担心说出来会显得太夸张，但既然已经聊到这儿了，也许可以试着坦白一点。）\n（我想起每次手发凉的时候，心里那个声音确实是关于我爸的，好像只要不检查，我就会变成他那样。这种恐惧太深了，说出来的时候我得小心点，别显得太失控。）"
+      }
+    }
+  ],
+  "created": 1794544785,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3128,
+    "total_tokens": 3260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

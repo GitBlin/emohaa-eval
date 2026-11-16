@@ -1,0 +1,41 @@
+{
+  "id": "5f83f155a3174828a117bcc32f489dcb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先聊点吃的或者平时周末做些什么吧，这种话题没那么有压力。工作也能聊，但我不想一上来就像在汇报。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我准备聊什么话题，这让我稍微松了口气，至少比被问“你怕不怕”好回答。但我还是有点拿不准，怕自己选的话题太普通，显得没意思。）\n（上次提到工作忙，其实我觉得聊工作没压力，毕竟平时跟同事也能说上几句。不过我更想从吃的开始，因为吃饭是相亲里最自然的事，也不用一直盯着对方眼睛。这样想好像没那么紧张了。）",
+        "reasoning": "（咨询师在问我准备聊什么话题，这让我稍微松了口气，至少比被问“你怕不怕”好回答。但我还是有点拿不准，怕自己选的话题太普通，显得没意思。）\n（上次提到工作忙，其实我觉得聊工作没压力，毕竟平时跟同事也能说上几句。不过我更想从吃的开始，因为吃饭是相亲里最自然的事，也不用一直盯着对方眼睛。这样想好像没那么紧张了。）"
+      }
+    }
+  ],
+  "created": 1794542238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3222,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

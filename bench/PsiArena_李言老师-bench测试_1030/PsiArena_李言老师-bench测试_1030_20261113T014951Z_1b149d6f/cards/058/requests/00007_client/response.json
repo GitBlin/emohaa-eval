@@ -1,0 +1,41 @@
+{
+  "id": "f1ad8555d25b4865824c8614f743821f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像从来没想过这个……可能就是想让她先别急着说“别想太多”，先听我说完吧。嗯……这样说是不是显得我在怪她？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望妈妈怎么回应……我从来没认真想过这个。每次都是说完就后悔，觉得自己不该说。）\n（其实我想要的很简单的吧，就是别急着说我想太多，先听我说完。可这样说好像有点怪，好像在怪我妈。算了，先这么说吧，反正她应该不会评判我。）",
+        "reasoning": "（她问我希望妈妈怎么回应……我从来没认真想过这个。每次都是说完就后悔，觉得自己不该说。）\n（其实我想要的很简单的吧，就是别急着说我想太多，先听我说完。可这样说好像有点怪，好像在怪我妈。算了，先这么说吧，反正她应该不会评判我。）"
+      }
+    }
+  ],
+  "created": 1794537405,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1631,
+    "total_tokens": 1732,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

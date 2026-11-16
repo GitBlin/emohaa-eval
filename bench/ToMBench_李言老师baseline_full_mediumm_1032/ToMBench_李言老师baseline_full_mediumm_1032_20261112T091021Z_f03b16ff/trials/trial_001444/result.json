@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001444",
+  "sample_id": "Persuasion Story Task:2",
+  "task_file": "Persuasion Story Task",
+  "ability": "Desire: Desires influence on actions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "B",
+    "B": "D",
+    "C": "C",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "A",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:28:53.809618+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:29:15.461599+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "e71e13eb30ae4bdc8c2ba9372c326dfb"
+  ],
+  "started_at": "2026-11-12T09:28:53.809618+00:00",
+  "finished_at": "2026-11-12T09:29:25.309707+00:00",
+  "elapsed_seconds": 31.500171948224306,
+  "user_id": "liyan_a48abb71ad30f7065f901ba6664fb6bd14ac2fd7"
+}

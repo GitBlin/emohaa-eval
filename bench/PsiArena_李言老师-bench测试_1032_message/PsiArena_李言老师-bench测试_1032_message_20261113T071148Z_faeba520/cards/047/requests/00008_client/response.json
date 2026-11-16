@@ -1,0 +1,41 @@
+{
+  "id": "d62eefa6695b41a29eba8ec3935c6fee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）它……它好像想说“你太累了”。嗯……其实我从小家里就鼓励把感受说出来，我爸妈总说别憋着。可到了工作里，又好像不能这样，得端着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那团堵着的东西想说什么……这个问题让我有点意外，但好像也戳到了什么。喉咙发紧的感觉又上来了，我得缓一缓。）\n（其实我从来没这么想过，但被她一问，脑子里突然冒出很多画面。小时候爸妈总说想哭就哭出来，可学校里又总说老师要稳重。我好像一直在两个标准之间被拉扯着，难怪这么累。）",
+        "reasoning": "（她问我那团堵着的东西想说什么……这个问题让我有点意外，但好像也戳到了什么。喉咙发紧的感觉又上来了，我得缓一缓。）\n（其实我从来没这么想过，但被她一问，脑子里突然冒出很多画面。小时候爸妈总说想哭就哭出来，可学校里又总说老师要稳重。我好像一直在两个标准之间被拉扯着，难怪这么累。）"
+      }
+    }
+  ],
+  "created": 1794555872,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1549,
+    "total_tokens": 1684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

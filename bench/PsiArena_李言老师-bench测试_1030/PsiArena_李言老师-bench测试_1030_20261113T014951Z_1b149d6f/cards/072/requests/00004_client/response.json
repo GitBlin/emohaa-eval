@@ -1,0 +1,41 @@
+{
+  "id": "3d6ae8517b344c529512da497a83f807",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……她一说我，我就觉得委屈，又觉得自己是不是真有问题。对了，我能不能问一下，我们聊的这些，你会不会告诉我姐或者别人啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我姐那句话时我心里怎么接的……其实我不想马上说这个，感觉还没到那份上。她一直很温和，但我还是有点不确定她会不会像别人一样，聊着聊着就给我建议、让我做这做那。）\n（也许可以试探一下她的界限。比如问她会不会把我说的话告诉别人，或者私下联系我。这样能看看她是不是真的能守住咨询的规矩，我也好决定要不要再往下说。）",
+        "reasoning": "（她问我姐那句话时我心里怎么接的……其实我不想马上说这个，感觉还没到那份上。她一直很温和，但我还是有点不确定她会不会像别人一样，聊着聊着就给我建议、让我做这做那。）\n（也许可以试探一下她的界限。比如问她会不会把我说的话告诉别人，或者私下联系我。这样能看看她是不是真的能守住咨询的规矩，我也好决定要不要再往下说。）"
+      }
+    }
+  ],
+  "created": 1794538507,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1204,
+    "total_tokens": 1334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

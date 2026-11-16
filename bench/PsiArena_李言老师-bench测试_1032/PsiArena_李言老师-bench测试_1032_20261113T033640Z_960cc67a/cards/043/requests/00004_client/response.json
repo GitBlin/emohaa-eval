@@ -1,0 +1,41 @@
+{
+  "id": "2c1549175c8d4db7b6c6d6ae5f0cf1fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是学习的时候吧。坐在那儿半天也看不进去书，然后就越想越烦，晚上也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最早察觉的变化是什么，情绪、睡眠还是学习状态...她好像很认真在帮我理清楚。但我其实不太想这么快就说得太细，毕竟才刚开始，我还不太确定能不能信任她。）\n（而且她问得这么直接，我有点不知道该说到什么程度。或许可以先随便说一个，看看她接下来怎么反应，会不会像别人一样急着给我建议或者评判我。）",
+        "reasoning": "（咨询师在问我最早察觉的变化是什么，情绪、睡眠还是学习状态...她好像很认真在帮我理清楚。但我其实不太想这么快就说得太细，毕竟才刚开始，我还不太确定能不能信任她。）\n（而且她问得这么直接，我有点不知道该说到什么程度。或许可以先随便说一个，看看她接下来怎么反应，会不会像别人一样急着给我建议或者评判我。）"
+      }
+    }
+  ],
+  "created": 1794543189,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1187,
+    "total_tokens": 1300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

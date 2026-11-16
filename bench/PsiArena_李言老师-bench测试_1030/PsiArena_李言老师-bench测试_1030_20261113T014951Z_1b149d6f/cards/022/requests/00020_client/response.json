@@ -1,0 +1,41 @@
+{
+  "id": "c02567a8bef7452186e68fcc348cbe96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上次她说我最近气色好，我张口就说“哪有，我最近累得要死”。……现在想想，她当时好像愣了一下。下次要不就数三秒，说句“谢谢妈”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我上次我妈夸我时我是怎么接的，这让我想起那个场景。心里有点不是滋味，因为当时我几乎是本能地躲开了。现在回头想，好像每次都是这样，先把自己压下去才安心。）\n（不过既然要练习改变，也许可以从这件小事开始。数三秒再开口，听起来简单，但真到那时候，那个声音肯定又会冒出来。我得先跟自己说好，别又急着否定。）",
+        "reasoning": "（咨询师问我上次我妈夸我时我是怎么接的，这让我想起那个场景。心里有点不是滋味，因为当时我几乎是本能地躲开了。现在回头想，好像每次都是这样，先把自己压下去才安心。）\n（不过既然要练习改变，也许可以从这件小事开始。数三秒再开口，听起来简单，但真到那时候，那个声音肯定又会冒出来。我得先跟自己说好，别又急着否定。）"
+      }
+    }
+  ],
+  "created": 1794535747,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3130,
+    "total_tokens": 3269,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

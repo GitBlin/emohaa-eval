@@ -1,0 +1,41 @@
+{
+  "id": "3d6aca5288a34301b93321e2b9eae5f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先别在气头上说，挑个她心情好的时候，就说我最近过得挺累的，想让她听听我的想法。就是不知道她会不会又劝我“别多想”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想怎么跟我妈开口。我其实心里也没底，但刚才想到我妈至少不会像我爸那样吼我，就觉得可以先试试。不能一上来就说重话，不然肯定又吵起来。）\n（我想先挑个她心情好的时候，别在饭桌上或者她忙的时候说。可以先从我自己难受说起，不是指责他们，这样她可能听得进去一点。虽然还是有点怕，但总比一直憋着强。）",
+        "reasoning": "（她问我想怎么跟我妈开口。我其实心里也没底，但刚才想到我妈至少不会像我爸那样吼我，就觉得可以先试试。不能一上来就说重话，不然肯定又吵起来。）\n（我想先挑个她心情好的时候，别在饭桌上或者她忙的时候说。可以先从我自己难受说起，不是指责他们，这样她可能听得进去一点。虽然还是有点怕，但总比一直憋着强。）"
+      }
+    }
+  ],
+  "created": 1794554940,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3267,
+    "total_tokens": 3404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

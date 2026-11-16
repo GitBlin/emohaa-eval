@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_004986",
+  "sample_id": "False Belief Task:149",
+  "task_file": "False Belief Task",
+  "ability": "Belief: Location false beliefs Belief: Second-order beliefs",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "A",
+  "prediction_original": "B",
+  "reply": "[[A]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:22:30.979087+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:22:52.675479+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "a7e69b002d4b4950862a6d4a86b94c55"
+  ],
+  "started_at": "2026-11-12T10:22:30.979087+00:00",
+  "finished_at": "2026-11-12T10:22:55.345301+00:00",
+  "elapsed_seconds": 24.36629754677415,
+  "user_id": "liyan_ac6e2fcd851dc87299b60751d8f7de9f973bd3ec"
+}

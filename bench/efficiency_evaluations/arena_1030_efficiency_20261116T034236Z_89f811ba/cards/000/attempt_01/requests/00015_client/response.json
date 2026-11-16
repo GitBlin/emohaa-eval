@@ -1,0 +1,47 @@
+{
+  "id": "29b6483b55e247999146cc99235a2ab9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过吧……大学时跟一个室友，偶尔一起吃饭不说话也不尴尬。那时候没多想，现在回想，可能那就是自然的。（语气有点不确定）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有过“自然”的时刻……我脑子里第一反应是大学那个室友，但说出来会不会显得我太在意这种小事。不过确实，跟她在一起时我没那么多顾虑。）\n（说“可能吧”也是因为我不太确定那算不算自然，还是只是她脾气好。现在想想，那种不用费力的感觉，好像真的挺少的。）",
+        "reasoning": "（她问我有没有过“自然”的时刻……我脑子里第一反应是大学那个室友，但说出来会不会显得我太在意这种小事。不过确实，跟她在一起时我没那么多顾虑。）\n（说“可能吧”也是因为我不太确定那算不算自然，还是只是她脾气好。现在想想，那种不用费力的感觉，好像真的挺少的。）"
+      }
+    }
+  ],
+  "created": 1794800629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2545,
+    "total_tokens": 2653,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

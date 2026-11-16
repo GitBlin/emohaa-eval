@@ -1,0 +1,41 @@
+{
+  "id": "c9ef882cdeb44ceb8eb1ccf405de0ddc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "以前……我喜欢一个人散步，走走就什么都不想了。还有听听歌。这些年好像都顾不上了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我没认识他之前的事……那时候好像确实轻松些，可又觉得那么远，远得不像自己的。我是不是该说点什么，不能老让她这么问下去。）\n（散步、听歌，这些事说出来有点小，但那时候是真的能松口气。不过现在提这些，又怕她觉得我光会说不会做。）",
+        "reasoning": "（她问起我没认识他之前的事……那时候好像确实轻松些，可又觉得那么远，远得不像自己的。我是不是该说点什么，不能老让她这么问下去。）\n（散步、听歌，这些事说出来有点小，但那时候是真的能松口气。不过现在提这些，又怕她觉得我光会说不会做。）"
+      }
+    }
+  ],
+  "created": 1794552651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3364,
+    "total_tokens": 3461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

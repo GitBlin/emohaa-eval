@@ -1,0 +1,41 @@
+{
+  "id": "f2d7b67c58f145e2890388f86ea15db7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都是吧。我想找话说，可又不知道该说什么，就……挺矛盾的。他好像也不太在意有没有话说，这让我更难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在这段关系里更常是哪个角色……其实两个都是。想找话说的时候，感觉自己像在硬撑，怕沉默被对方当成我不在乎。可对方好像不这么想，他从来不会主动去填那个空。）\n（我是不是太在意那种“有深度”的感觉了？可我真的受不了每次都只聊那些表面的东西。也许我一直在等他能主动一点，但他就是那样的人，这让我更觉得孤单。）",
+        "reasoning": "（她问我在这段关系里更常是哪个角色……其实两个都是。想找话说的时候，感觉自己像在硬撑，怕沉默被对方当成我不在乎。可对方好像不这么想，他从来不会主动去填那个空。）\n（我是不是太在意那种“有深度”的感觉了？可我真的受不了每次都只聊那些表面的东西。也许我一直在等他能主动一点，但他就是那样的人，这让我更觉得孤单。）"
+      }
+    }
+  ],
+  "created": 1794555236,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1723,
+    "total_tokens": 1849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

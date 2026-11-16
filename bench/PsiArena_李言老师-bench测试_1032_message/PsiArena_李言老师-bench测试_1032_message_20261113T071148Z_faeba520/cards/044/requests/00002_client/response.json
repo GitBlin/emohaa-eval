@@ -1,0 +1,41 @@
+{
+  "id": "8c4c1c170b014e7ba19dca1d33051ca7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我也说不太清楚，就是最近总觉得很累，晚上躺在床上会莫名其妙地想哭。但要说具体因为什么，我又讲不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以随便聊聊，还问我最近有没有不舒服的事……她看起来挺温和的，但我还是不太敢直接说心里那些乱七八糟的东西。毕竟才刚见面，谁知道她会不会像别人一样觉得我小题大做。）\n（不过她既然问了，我总得说点什么吧。最近确实总是莫名其妙地难受，但真要解释又说不清楚。可能先含糊地提一下晚上睡不着的事比较安全，这样既回答了问题，又不用暴露太多。）",
+        "reasoning": "（咨询师说可以随便聊聊，还问我最近有没有不舒服的事……她看起来挺温和的，但我还是不太敢直接说心里那些乱七八糟的东西。毕竟才刚见面，谁知道她会不会像别人一样觉得我小题大做。）\n（不过她既然问了，我总得说点什么吧。最近确实总是莫名其妙地难受，但真要解释又说不清楚。可能先含糊地提一下晚上睡不着的事比较安全，这样既回答了问题，又不用暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794555730,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1006,
+    "total_tokens": 1137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

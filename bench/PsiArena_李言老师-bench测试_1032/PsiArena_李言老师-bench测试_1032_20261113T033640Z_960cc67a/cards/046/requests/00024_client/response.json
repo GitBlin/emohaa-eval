@@ -1,0 +1,41 @@
+{
+  "id": "4a8bd3fe147c437081347d1a2027c2fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是晚上躺床上，手机就在旁边。我明明想睡，又忍不住拿起来看。……其实我也知道这样不对，就是停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次特别想动手的具体情境，看来是想帮我找到那个空慌感出现的触发点。但说实话我有点烦躁，因为这个问题我前面已经提过类似的了，现在又绕回来问。）\n（而且“动手”这个词听起来有点刺耳，我并不是想做什么伤害自己的事，只是手停不下来。这种被反复追问细节的感觉让我更累了，好像我怎么说都不够清楚。）",
+        "reasoning": "（咨询师在问我最近一次特别想动手的具体情境，看来是想帮我找到那个空慌感出现的触发点。但说实话我有点烦躁，因为这个问题我前面已经提过类似的了，现在又绕回来问。）\n（而且“动手”这个词听起来有点刺耳，我并不是想做什么伤害自己的事，只是手停不下来。这种被反复追问细节的感觉让我更累了，好像我怎么说都不够清楚。）"
+      }
+    }
+  ],
+  "created": 1794543517,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3289,
+    "total_tokens": 3410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

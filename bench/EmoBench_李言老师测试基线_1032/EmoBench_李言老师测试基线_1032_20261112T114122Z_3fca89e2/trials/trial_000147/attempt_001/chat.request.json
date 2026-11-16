@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:43:39.505968+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nFatima and her family were invited to a dinner at their neighbor's house. Fatima's neighbor, Jennifer, had recently adopted a vegetarian diet for ethical reasons. During dinner, Jennifer served a delicious vegetarian lasagna that she had made herself. Fatima, who was unaware of Jennifer's diet choice, took a bite and immediately made a face of disgust. She asked Jennifer why she didn't add any meat to the lasagna, as it would taste much better that way.\n\n## Question 1\nWhat emotion(s) would Jennifer ultimately feel in this situation?\n\n## Choices for Question 1\nA) Amusement\nB) Disgust\nC) Gratitude\nD) Anticipation\nE) Joy\nF) Sadness\n\n## Question 2\nWhy would Jennifer feel these emotions in this situation?\n\n## Choices for Question 2\nA) She was glad Fatima enjoyed her food\nB) Fatima suggested the lasagna would be better with meat\nC) Fatima was disgusted by her cooking\nD) She didn't like what she cooked\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

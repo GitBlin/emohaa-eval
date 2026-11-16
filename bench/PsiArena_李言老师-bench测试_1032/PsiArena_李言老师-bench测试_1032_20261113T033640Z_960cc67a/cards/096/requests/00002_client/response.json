@@ -1,0 +1,41 @@
+{
+  "id": "c30bd596d63046bfaa7794b29141a20d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……也不太确定该从哪说。其实我也说不太清楚自己怎么了。那个，我想问一下，我在这里说的话，你会告诉我爸妈吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问我想先聊哪方面，还说不必提前准备。可我还是有点紧张，不知道能不能真的随便说。她看起来挺温和的，但我总得先试探一下，看看这里到底安不安全。毕竟以前跟爸妈说这些，他们只会问我成绩怎么样。）\n（我有点担心她会像老师或者家长那样，听到我状态不好就急着教育我。如果她也会那样，我可能就说不下去了。所以得先问清楚，她会不会告诉我爸妈。这样我才能决定要不要说更多。）",
+        "reasoning": "（刚才咨询师问我想先聊哪方面，还说不必提前准备。可我还是有点紧张，不知道能不能真的随便说。她看起来挺温和的，但我总得先试探一下，看看这里到底安不安全。毕竟以前跟爸妈说这些，他们只会问我成绩怎么样。）\n（我有点担心她会像老师或者家长那样，听到我状态不好就急着教育我。如果她也会那样，我可能就说不下去了。所以得先问清楚，她会不会告诉我爸妈。这样我才能决定要不要说更多。）"
+      }
+    }
+  ],
+  "created": 1794546263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 999,
+    "total_tokens": 1143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

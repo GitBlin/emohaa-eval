@@ -1,0 +1,41 @@
+{
+  "id": "42b877a5b4d641f096a5d097e4e86367",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想把笔和纸直接放在枕头边上，手机放远一点充电。这样躺下就看见笔，不用犹豫。就怕……到时候还是手痒。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第25轮，后期阶段，探索解决方案和行动计划。咨询师问我用什么提醒自己开始那三分钟，这是很具体的行动问题了。我确实需要个东西，不然躺下就顺手摸手机了。）\n（笔和纸放在床头，这个办法对我挺合适的，不用太复杂，我这种人一复杂就容易放弃。不过我也知道，光有提醒不够，心里那个“还不够”的声音还是会冒出来。）",
+        "reasoning": "（第25轮，后期阶段，探索解决方案和行动计划。咨询师问我用什么提醒自己开始那三分钟，这是很具体的行动问题了。我确实需要个东西，不然躺下就顺手摸手机了。）\n（笔和纸放在床头，这个办法对我挺合适的，不用太复杂，我这种人一复杂就容易放弃。不过我也知道，光有提醒不够，心里那个“还不够”的声音还是会冒出来。）"
+      }
+    }
+  ],
+  "created": 1794540280,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3627,
+    "total_tokens": 3750,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

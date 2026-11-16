@@ -1,0 +1,41 @@
+{
+  "id": "d6459089c8a44c1b9c9fe11b3134e8da",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想跟她说我最近接了个新项目，还挺开心的……结果她一句“这有什么用，还不如早点稳定下来”。我……我就是想让她听我说完，哪怕一句也好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我当时想跟妈妈说什么……其实那件事我本来不想提的，但既然她问了，而且刚才也没有急着评价我，也许可以稍微说一点。不过还是别一下子讲太多，先看看她怎么反应。）\n（我想到妈妈那个表情就有点烦，又有点委屈。明明是我自己的事，她总要插一脚。可说完又怕显得我在抱怨，好像我多不懂事似的。）",
+        "reasoning": "（她问我当时想跟妈妈说什么……其实那件事我本来不想提的，但既然她问了，而且刚才也没有急着评价我，也许可以稍微说一点。不过还是别一下子讲太多，先看看她怎么反应。）\n（我想到妈妈那个表情就有点烦，又有点委屈。明明是我自己的事，她总要插一脚。可说完又怕显得我在抱怨，好像我多不懂事似的。）"
+      }
+    }
+  ],
+  "created": 1794535864,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1569,
+    "total_tokens": 1697,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

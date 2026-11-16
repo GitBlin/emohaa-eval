@@ -1,0 +1,41 @@
+{
+  "id": "dd3a24ee8cdb4752b9a7c2cb7cab073f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……还真没试过。可能说了她们会问我怎么了，但我又怕一开口就收不住，哭得稀里哗啦的，那多尴尬。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会不会跟朋友说一句“我最近有点难受”，我脑子里第一个反应是……说了又能怎样呢。但仔细想想，我好像从来没真的试过，总是先替别人想好他们会不会嫌我烦。）\n（其实我也有点好奇，如果我真的开口了，她们会不会其实很愿意听。可这种念头一冒出来，我又觉得自己是不是太矫情了，人家凭什么要接住我的情绪。）",
+        "reasoning": "（她问我会不会跟朋友说一句“我最近有点难受”，我脑子里第一个反应是……说了又能怎样呢。但仔细想想，我好像从来没真的试过，总是先替别人想好他们会不会嫌我烦。）\n（其实我也有点好奇，如果我真的开口了，她们会不会其实很愿意听。可这种念头一冒出来，我又觉得自己是不是太矫情了，人家凭什么要接住我的情绪。）"
+      }
+    }
+  ],
+  "created": 1794553554,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2812,
+    "total_tokens": 2940,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

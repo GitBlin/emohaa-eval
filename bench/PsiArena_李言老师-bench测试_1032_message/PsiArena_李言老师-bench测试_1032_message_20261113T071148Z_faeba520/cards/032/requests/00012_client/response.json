@@ -1,0 +1,41 @@
+{
+  "id": "a4c682f1bb2c4f7794788de7c595f56a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我会发朋友圈，发那种“放手”之类的话，其实是想让他看到，想让他紧张我一下。结果他反应比我还快，一点安慰都没有。现在想想挺幼稚的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么让自己好受一点，这让我想到自己那些不太成熟的做法。发朋友圈说放手，其实是想让他看到，想让他紧张我。可他反应那么快，反而让我更难受了，好像他早就等着我说这句话似的。）\n（我是不是太依赖他的反应来确认自己的价值了？明明知道这样不好，可当时就是控制不住。现在说出来，有点难为情，又有点委屈。）",
+        "reasoning": "（咨询师问我怎么让自己好受一点，这让我想到自己那些不太成熟的做法。发朋友圈说放手，其实是想让他看到，想让他紧张我。可他反应那么快，反而让我更难受了，好像他早就等着我说这句话似的。）\n（我是不是太依赖他的反应来确认自己的价值了？明明知道这样不好，可当时就是控制不住。现在说出来，有点难为情，又有点委屈。）"
+      }
+    }
+  ],
+  "created": 1794555269,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2032,
+    "total_tokens": 2165,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

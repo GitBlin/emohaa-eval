@@ -1,0 +1,41 @@
+{
+  "id": "a41f0083caa741b3a7eefce59546cfbd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……家里吧。小时候我一说累或者委屈，他们就会说“别想太多，把事做好”。所以我现在也老觉得，先扛着再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回复第7轮初期阶段。规则：每轮只针对对话规则中的一个方面。初期目标是建立信任，防御试探，模糊描述，测试界限。上一轮咨询师问“你以前是不是也常有人跟你说‘这没什么大不了的’？” 需要回答，可能稍微透露一点但模糊，保持防御。简短2-3句。可以表达父母常说“别想太多/努力就行”，但不要深入。也可情绪略波动。不要过早谢谢再见。第7轮是初期最后，需为中期过渡。回答：嗯，家里吧。小时候我一说累或者委屈，他们就会说“别想太多，把事做好”。所以我现在也老觉得，先扛着再说。",
+        "reasoning": "我们需要回复第7轮初期阶段。规则：每轮只针对对话规则中的一个方面。初期目标是建立信任，防御试探，模糊描述，测试界限。上一轮咨询师问“你以前是不是也常有人跟你说‘这没什么大不了的’？” 需要回答，可能稍微透露一点但模糊，保持防御。简短2-3句。可以表达父母常说“别想太多/努力就行”，但不要深入。也可情绪略波动。不要过早谢谢再见。第7轮是初期最后，需为中期过渡。回答：嗯，家里吧。小时候我一说累或者委屈，他们就会说“别想太多，把事做好”。所以我现在也老觉得，先扛着再说。"
+      }
+    }
+  ],
+  "created": 1794555789,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 1441,
+    "total_tokens": 1626,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 149,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

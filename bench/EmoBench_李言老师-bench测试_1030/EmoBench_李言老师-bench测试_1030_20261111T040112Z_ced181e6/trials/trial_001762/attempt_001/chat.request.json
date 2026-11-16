@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:03:01.721637+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nDani's supervisor has just given him a huge amount of work with a very short deadline\n\n## Question \nIn this scenario, what is the most effective Response for Dani?\n\n## Choices\nA) \"I don't think I can finish this on time\"\nB) \"It's going to be a challenge, but I'll prioritize it and try my best\"\nC) \"Of course, even if I have to pull an all-nighter\"\nD) \"I think it might be a bit difficult. Is there anyone else that can help?\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

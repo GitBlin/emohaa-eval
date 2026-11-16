@@ -1,0 +1,41 @@
+{
+  "id": "0612104dc15c49c6865947cc4883a849",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧。我家里不太聊这些，爸妈更关心我成绩、以后找什么工作。说心里话反而像在浪费时间，慢慢地我就不太说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这个习惯从什么时候开始的……让我一下子想到小时候。那时候家里好像确实不太谈感受，父母更在意我成绩怎么样、以后有没有出息。）\n（我是不是该说得具体一点？毕竟现在好像可以稍微多讲一些了。嗯，就说家里吧，他们其实不是不管我，只是关心的东西不太一样。这样讲应该能让她明白我的意思。）",
+        "reasoning": "（咨询师问到这个习惯从什么时候开始的……让我一下子想到小时候。那时候家里好像确实不太谈感受，父母更在意我成绩怎么样、以后有没有出息。）\n（我是不是该说得具体一点？毕竟现在好像可以稍微多讲一些了。嗯，就说家里吧，他们其实不是不管我，只是关心的东西不太一样。这样讲应该能让她明白我的意思。）"
+      }
+    }
+  ],
+  "created": 1794553943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1788,
+    "total_tokens": 1902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

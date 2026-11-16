@@ -1,0 +1,41 @@
+{
+  "id": "4a3ddacc72414cbcb38d3330363da7ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……买东西吧。有时候买完就后悔，觉得不该买。但过一阵又忍不住。唉，我也知道这样不对，可就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近哪件事最容易让我反复想起自己是不是没做好。她好像很能理解那种说不清但一直悬着的感觉，这让我稍微放松了一点。但我还是不太想直接说太多，毕竟才刚开始，我得先看看她值不值得信任。）\n（也许我可以先模模糊糊提一下买东西的事，但不用说得太具体。这样既回应了她，又不会一下子把自己暴露太多。而且我确实经常买完东西就后悔，这个感觉挺明显的，说说应该没关系。）",
+        "reasoning": "（咨询师在问我最近哪件事最容易让我反复想起自己是不是没做好。她好像很能理解那种说不清但一直悬着的感觉，这让我稍微放松了一点。但我还是不太想直接说太多，毕竟才刚开始，我得先看看她值不值得信任。）\n（也许我可以先模模糊糊提一下买东西的事，但不用说得太具体。这样既回应了她，又不会一下子把自己暴露太多。而且我确实经常买完东西就后悔，这个感觉挺明显的，说说应该没关系。）"
+      }
+    }
+  ],
+  "created": 1794542470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1067,
+    "total_tokens": 1208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

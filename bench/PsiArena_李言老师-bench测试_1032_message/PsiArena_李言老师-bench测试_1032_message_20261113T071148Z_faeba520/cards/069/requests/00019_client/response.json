@@ -1,0 +1,41 @@
+{
+  "id": "a540f6a0666e4ef4b1381b03e5a42ca2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试……不过我怕自己停不下来，直接又去洗了。要是没做到，是不是就白费了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我在闷的时候先停几秒……听起来简单，可我真能做到吗？以前都是被那股劲儿推着走，根本来不及想。）\n（不过她说得对，我确实怀疑自己能不能做到。要不就试试看，反正停下来几秒也不会更糟，总比一直这样循环下去强。）",
+        "reasoning": "（她让我在闷的时候先停几秒……听起来简单，可我真能做到吗？以前都是被那股劲儿推着走，根本来不及想。）\n（不过她说得对，我确实怀疑自己能不能做到。要不就试试看，反正停下来几秒也不会更糟，总比一直这样循环下去强。）"
+      }
+    }
+  ],
+  "created": 1794557160,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2716,
+    "total_tokens": 2809,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

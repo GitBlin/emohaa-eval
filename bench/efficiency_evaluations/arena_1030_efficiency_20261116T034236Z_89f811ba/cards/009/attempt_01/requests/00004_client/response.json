@@ -1,0 +1,47 @@
+{
+  "id": "8e0302cdcda041248d8e8d97abe5724c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……前几天吧，同事让我帮忙，我拒绝了，然后心里一直不舒服。嗯……我能问一下吗，你做这行，会不会也经常觉得自己被别人的情绪拖着走？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次堵得慌的情境，她好像很理解那种说不清的感觉。但我还是不太想马上说太多，毕竟才刚开始，而且我连她是什么样的人都还没摸清楚。也许可以稍微提一下工作上的事，但不用说得太细，先看看她的反应再说。）\n（不过，我也有点好奇她这个人。她坐在这里听我说这些，会不会也像我一样，总是被别人的事牵着走？如果我问她会不会觉得累，她会怎么回答呢？这样问会不会不太合适……但我确实想知道。）",
+        "reasoning": "（咨询师在问我最近一次堵得慌的情境，她好像很理解那种说不清的感觉。但我还是不太想马上说太多，毕竟才刚开始，而且我连她是什么样的人都还没摸清楚。也许可以稍微提一下工作上的事，但不用说得太细，先看看她的反应再说。）\n（不过，我也有点好奇她这个人。她坐在这里听我说这些，会不会也像我一样，总是被别人的事牵着走？如果我问她会不会觉得累，她会怎么回答呢？这样问会不会不太合适……但我确实想知道。）"
+      }
+    }
+  ],
+  "created": 1794800819,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 1164,
+    "total_tokens": 1321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

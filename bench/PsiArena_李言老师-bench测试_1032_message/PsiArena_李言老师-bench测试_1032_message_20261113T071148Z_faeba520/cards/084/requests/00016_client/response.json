@@ -1,0 +1,41 @@
+{
+  "id": "57dad1f9a707436e9936091db7069d1f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像没那么堵了。就是……我在想，光说出来够吗？下次又想吃零食、又熬夜的时候，我该怎么办呢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在的感受，我好像确实比刚来的时候松了一点。那种一直憋着的东西被说出来后，反而没那么可怕了。）\n（不过光是这样还不够，我不想每次都靠事后自责来收拾。我想知道下次再遇到那种冲动的时候，能不能有点别的办法，而不是又陷进去。）",
+        "reasoning": "（咨询师问我现在的感受，我好像确实比刚来的时候松了一点。那种一直憋着的东西被说出来后，反而没那么可怕了。）\n（不过光是这样还不够，我不想每次都靠事后自责来收拾。我想知道下次再遇到那种冲动的时候，能不能有点别的办法，而不是又陷进去。）"
+      }
+    }
+  ],
+  "created": 1794557899,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2385,
+    "total_tokens": 2479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

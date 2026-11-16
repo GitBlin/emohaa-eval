@@ -1,0 +1,41 @@
+{
+  "id": "081f110ad3324736b3001faed9f6bd39",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候吧……我爸妈不太吵我，但他们一不高兴就不说话。家里安静下来，我就会一直猜是不是我做错了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起最早的时候……我脑子里一下就冒出小时候的画面。爸妈总说让我自由选择，可他们一沉默，我就觉得是不是自己又做错了什么。那种安静特别难熬，好像我得去猜他们的脸色。）\n（现在想想，我好像一直在重复这种模式。男友不回应的时候，那种熟悉的慌张就又回来了。可我又怕说这些显得太矫情，毕竟家里其实对我挺好的。）",
+        "reasoning": "（她问起最早的时候……我脑子里一下就冒出小时候的画面。爸妈总说让我自由选择，可他们一沉默，我就觉得是不是自己又做错了什么。那种安静特别难熬，好像我得去猜他们的脸色。）\n（现在想想，我好像一直在重复这种模式。男友不回应的时候，那种熟悉的慌张就又回来了。可我又怕说这些显得太矫情，毕竟家里其实对我挺好的。）"
+      }
+    }
+  ],
+  "created": 1794536182,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1777,
+    "total_tokens": 1892,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

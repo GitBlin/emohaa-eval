@@ -1,0 +1,41 @@
+{
+  "id": "4ebd939340bd42d79c38a7e3298e164e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧，一个人待着的时候。白天忙起来还好，一到晚上就……唉，我也说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候特别明显……其实夜里最难熬，但我不想说得太细。她好像挺认真在听，可我还没准备好把那些念头都倒出来。先含糊一点吧，就说晚上吧。）\n（护士的工作本来就累，夜班之后整个人都空了。但真正让我难受的，不只是累。算了，先只说晚上，别一下子说太多。）",
+        "reasoning": "（她问我什么时候特别明显……其实夜里最难熬，但我不想说得太细。她好像挺认真在听，可我还没准备好把那些念头都倒出来。先含糊一点吧，就说晚上吧。）\n（护士的工作本来就累，夜班之后整个人都空了。但真正让我难受的，不只是累。算了，先只说晚上，别一下子说太多。）"
+      }
+    }
+  ],
+  "created": 1794557570,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1337,
+    "total_tokens": 1440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

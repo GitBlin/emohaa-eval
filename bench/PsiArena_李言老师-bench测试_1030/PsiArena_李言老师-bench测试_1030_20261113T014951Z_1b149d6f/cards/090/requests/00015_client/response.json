@@ -1,0 +1,41 @@
+{
+  "id": "5e444ba5f6394381a4258c1503769c31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她……先别急着说话，就听我说完。哪怕就说一句“是挺难受的”也行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我希望妈妈怎么做，可我其实从没认真想过这一点。刚才说妈妈讲道理让我不想开口，现在她这么一问，我忽然有点说不上来，好像心里有个模糊的期待，但真要说清楚又很难。）\n（也许就是希望她别急着说话，别急着把我那些感受都解释成“想太多”。我需要的可能不是道理，而是有人先安安静静听我把话说完。这个念头冒出来的时候，有点酸酸的，因为好像从来没人这样对过我。）",
+        "reasoning": "（她问的是我希望妈妈怎么做，可我其实从没认真想过这一点。刚才说妈妈讲道理让我不想开口，现在她这么一问，我忽然有点说不上来，好像心里有个模糊的期待，但真要说清楚又很难。）\n（也许就是希望她别急着说话，别急着把我那些感受都解释成“想太多”。我需要的可能不是道理，而是有人先安安静静听我把话说完。这个念头冒出来的时候，有点酸酸的，因为好像从来没人这样对过我。）"
+      }
+    }
+  ],
+  "created": 1794539825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2341,
+    "total_tokens": 2474,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "42aa6a39d1ed432a937ff6f17af4157c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就晚上吧，晚上他容易犯糊涂，吃口热饭能踏实点。先做一顿试试，做不好再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法一点点落到实处，问先从哪一顿开始。她没催我，也没说我一定得做到，这让我稍微松了点。我本来怕自己又半途而废，但要是只做晚上一顿，好像还能试试。）\n（我爸晚上犯糊涂的时候多，有时候连饭都顾不上吃。我要是能把晚饭弄好，他吃了能安稳点，我心里也踏实些。那就先这么定吧，别想太远。）",
+        "reasoning": "（咨询师在帮我把想法一点点落到实处，问先从哪一顿开始。她没催我，也没说我一定得做到，这让我稍微松了点。我本来怕自己又半途而废，但要是只做晚上一顿，好像还能试试。）\n（我爸晚上犯糊涂的时候多，有时候连饭都顾不上吃。我要是能把晚饭弄好，他吃了能安稳点，我心里也踏实些。那就先这么定吧，别想太远。）"
+      }
+    }
+  ],
+  "created": 1794543650,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2706,
+    "total_tokens": 2833,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

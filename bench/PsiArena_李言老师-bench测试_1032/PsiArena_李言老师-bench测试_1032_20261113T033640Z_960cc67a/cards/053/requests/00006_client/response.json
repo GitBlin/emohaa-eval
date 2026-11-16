@@ -1,0 +1,41 @@
+{
+  "id": "dabe33c364c14a9fbc37318cb4d88c90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "烦，但也有点……心虚吧。好像她一说，我就觉得自己确实做得不够好。这种感觉挺难受的，我不想承认，可它就是在那儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我妈说教时我的感觉……其实我心里挺乱的。一方面觉得烦，觉得她根本不了解我的处境；但另一方面又忍不住想，也许她是对的，是我自己做得不够好。）\n（这种感觉从小就跟着我，好像永远在跟她的标准较劲。现在当老师了，这种较劲又转到学生身上，甚至转到自己孩子身上。我不想承认，但可能我真的怕自己不够好。）",
+        "reasoning": "（她问我妈说教时我的感觉……其实我心里挺乱的。一方面觉得烦，觉得她根本不了解我的处境；但另一方面又忍不住想，也许她是对的，是我自己做得不够好。）\n（这种感觉从小就跟着我，好像永远在跟她的标准较劲。现在当老师了，这种较劲又转到学生身上，甚至转到自己孩子身上。我不想承认，但可能我真的怕自己不够好。）"
+      }
+    }
+  ],
+  "created": 1794543741,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1407,
+    "total_tokens": 1527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

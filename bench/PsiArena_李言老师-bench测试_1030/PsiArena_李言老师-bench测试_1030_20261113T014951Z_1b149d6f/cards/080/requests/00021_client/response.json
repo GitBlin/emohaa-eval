@@ -1,0 +1,41 @@
+{
+  "id": "181b368e74bd4a808b88298177084785",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概会说“我最近心里有点事，想跟你说说，你别急着觉得我是在怪你”。说完这句，我可能就不知道往下怎么接了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我第一句会怎么说，这让我有点紧张。光是想到要开口就已经手心冒汗了，但既然之前已经想到先说自己而不是质问她，那第一句话应该从我的感受开始。不能一上来就提手机的事，那样太像审问了。我得让她知道我不是在指责她，只是我自己心里有些东西堵着，想说出来。）\n（不过说完这句之后，我完全不知道她会怎么接。如果她反应冷淡或者觉得我莫名其妙，我可能就说不下去了。这种不确定感让我很不安，但至少这句话听起来还算平和，不会让她觉得被攻击。）",
+        "reasoning": "（咨询师在问我第一句会怎么说，这让我有点紧张。光是想到要开口就已经手心冒汗了，但既然之前已经想到先说自己而不是质问她，那第一句话应该从我的感受开始。不能一上来就提手机的事，那样太像审问了。我得让她知道我不是在指责她，只是我自己心里有些东西堵着，想说出来。）\n（不过说完这句之后，我完全不知道她会怎么接。如果她反应冷淡或者觉得我莫名其妙，我可能就说不下去了。这种不确定感让我很不安，但至少这句话听起来还算平和，不会让她觉得被攻击。）"
+      }
+    }
+  ],
+  "created": 1794539078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 3137,
+    "total_tokens": 3297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

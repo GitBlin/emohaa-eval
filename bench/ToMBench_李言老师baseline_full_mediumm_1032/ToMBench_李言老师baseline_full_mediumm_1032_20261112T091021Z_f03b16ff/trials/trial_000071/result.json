@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_000071",
+  "sample_id": "Emotion Regulation:3",
+  "task_file": "Emotion Regulation",
+  "ability": "Emotion: Emotion regulation",
+  "language": "en",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "C",
+    "B": "B",
+    "C": "A",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "A",
+  "prediction_original": "C",
+  "reply": "[[A]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:11:04.953988+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:11:26.772176+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "2df03c84b9564ca8b85958d070a79416"
+  ],
+  "started_at": "2026-11-12T09:11:04.953988+00:00",
+  "finished_at": "2026-11-12T09:11:33.658499+00:00",
+  "elapsed_seconds": 28.70460907742381,
+  "user_id": "liyan_91fda94b0cef40f18dc57fb14741df64dd01483e"
+}

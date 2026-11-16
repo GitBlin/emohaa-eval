@@ -1,0 +1,41 @@
+{
+  "id": "74c79d5d1d61445095d89e80cf983f59",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我们班主任吧，可她挺凶的，我有点怕她。奶奶倒是疼我，但她年纪大了，我不想让她操心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我能不能想到一个能信任的大人，我脑子里第一个冒出来的就是奶奶，但她年纪大了，身体也不好。而且这种事跟她说，她除了担心也帮不上什么忙，说不定还会去找学校，那事情就更大了。我其实不太想让家里人知道，怕他们觉得我没用，连在学校都待不好。）\n（可是除了奶奶，我真的想不出别人了。老师不敢说，爸妈又不在身边，村里也没什么能说上话的大人。这种感觉挺难受的，好像周围这么多人，却没有一个能真正帮到我的人。）",
+        "reasoning": "（咨询师问我能不能想到一个能信任的大人，我脑子里第一个冒出来的就是奶奶，但她年纪大了，身体也不好。而且这种事跟她说，她除了担心也帮不上什么忙，说不定还会去找学校，那事情就更大了。我其实不太想让家里人知道，怕他们觉得我没用，连在学校都待不好。）\n（可是除了奶奶，我真的想不出别人了。老师不敢说，爸妈又不在身边，村里也没什么能说上话的大人。这种感觉挺难受的，好像周围这么多人，却没有一个能真正帮到我的人。）"
+      }
+    }
+  ],
+  "created": 1794541139,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2053,
+    "total_tokens": 2200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

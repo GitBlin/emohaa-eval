@@ -1,0 +1,41 @@
+{
+  "id": "0583d7a8466241319ce6645f5f929b7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低声）大概是……“还真有人愿意啊”。（苦笑）然后可能又赶紧告诉自己，别太指望别人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我如果对方没被推走，心里第一句会冒出什么。我好像一直习惯把人往外推，推完又后悔，怕真没人再坚持。真有人坚持的话，我大概先松一口气，但又怕自己太依赖别人，显得不够独立。）\n（这种矛盾让我有点不知道该怎么接，只能老实说心里会先松一下，然后马上又提醒自己别太靠别人。这大概就是我一直以来的样子，想靠近又怕欠着。）",
+        "reasoning": "（咨询师问我如果对方没被推走，心里第一句会冒出什么。我好像一直习惯把人往外推，推完又后悔，怕真没人再坚持。真有人坚持的话，我大概先松一口气，但又怕自己太依赖别人，显得不够独立。）\n（这种矛盾让我有点不知道该怎么接，只能老实说心里会先松一下，然后马上又提醒自己别太靠别人。这大概就是我一直以来的样子，想靠近又怕欠着。）"
+      }
+    }
+  ],
+  "created": 1794539303,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3405,
+    "total_tokens": 3533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

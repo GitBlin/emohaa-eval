@@ -1,0 +1,41 @@
+{
+  "id": "2ac2e466b1db48288cbdf4ac6a60e67c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是第二天的工作，还有没做完的事，越想越烦。有时也想着早上一定要早起好好吃早饭，结果越想越睡不着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到晚上睡不着的时候脑子里在想什么。我确实经常这样，白天的事、没做完的工作，还有第二天早上的安排，全都在脑子里转个不停。越想睡越清醒，那种感觉特别难受。）\n（而且早上起不来和晚上睡不着好像真的连在一起，越累越睡不着，越睡不着越累。这个循环我自己也隐约感觉到了，但一直没仔细想过。现在说出来，好像确实是个问题。）",
+        "reasoning": "（她问到晚上睡不着的时候脑子里在想什么。我确实经常这样，白天的事、没做完的工作，还有第二天早上的安排，全都在脑子里转个不停。越想睡越清醒，那种感觉特别难受。）\n（而且早上起不来和晚上睡不着好像真的连在一起，越累越睡不着，越睡不着越累。这个循环我自己也隐约感觉到了，但一直没仔细想过。现在说出来，好像确实是个问题。）"
+      }
+    }
+  ],
+  "created": 1794558381,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2329,
+    "total_tokens": 2447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a2c94b5f485240748ac938d873c79b7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会的，我小时候一被说就想躲进房间，觉得说什么都没用。现在想想，她躲我，可能跟我当年一个感觉……这个念头让我挺不好受的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我小时候被说的时候是不是也想躲开，这让我一下子想起很多事。那时候我爸妈也是老师，总觉得他们对我要求特别高，我考不好或者做错了，他们不会骂得很凶，但那种失望的眼神我到现在都记得。我确实会躲，躲进房间，或者假装看书，其实心里特别难受。）\n（现在女儿躲着我的样子，好像跟我那时候差不多。我说出这些的时候，心里有点发紧，原来我一直在重复我爸妈的方式，虽然我明明最讨厌那种被盯着的感觉。）",
+        "reasoning": "（她问我小时候被说的时候是不是也想躲开，这让我一下子想起很多事。那时候我爸妈也是老师，总觉得他们对我要求特别高，我考不好或者做错了，他们不会骂得很凶，但那种失望的眼神我到现在都记得。我确实会躲，躲进房间，或者假装看书，其实心里特别难受。）\n（现在女儿躲着我的样子，好像跟我那时候差不多。我说出这些的时候，心里有点发紧，原来我一直在重复我爸妈的方式，虽然我明明最讨厌那种被盯着的感觉。）"
+      }
+    }
+  ],
+  "created": 1794535874,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2044,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

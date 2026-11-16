@@ -1,0 +1,41 @@
+{
+  "id": "a6676192a9d4411baefb1612b84867a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想聊点我自己真感兴趣的，比如最近在弄的设计或者看的展。虽然不确定他感不感兴趣，但至少我自己能说下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有想聊的方向，这让我觉得她是真的在帮我想办法，而不是只让我自己瞎琢磨。我平时喜欢画画和看展，这些是我真正感兴趣的东西，如果从这些开始聊，应该不会太刻意吧。不过我还是有点担心，万一对方觉得没意思呢，但至少我试着主动了。）\n（也许可以先从轻松的话题入手，比如最近看的展览或者手头在做的设计，这样我自己也能放松些。虽然心里还是有点打鼓，但总比干坐着强，我想试试看。）",
+        "reasoning": "（她问我有没有想聊的方向，这让我觉得她是真的在帮我想办法，而不是只让我自己瞎琢磨。我平时喜欢画画和看展，这些是我真正感兴趣的东西，如果从这些开始聊，应该不会太刻意吧。不过我还是有点担心，万一对方觉得没意思呢，但至少我试着主动了。）\n（也许可以先从轻松的话题入手，比如最近看的展览或者手头在做的设计，这样我自己也能放松些。虽然心里还是有点打鼓，但总比干坐着强，我想试试看。）"
+      }
+    }
+  ],
+  "created": 1794553492,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2686,
+    "total_tokens": 2831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

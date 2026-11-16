@@ -1,0 +1,41 @@
+{
+  "id": "a45b4b99a1a241049d5b5b08a02a661d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……要是有人问，我就说“他上次借过我笔，还他而已”，这也不算假话吧。这样想着，好像没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是有人问起我怎么说，这其实是在帮我想一个不显眼的说法。我要是说“他上次借过我笔”，这就是事实，别人应该不会多想吧。但我还是担心，万一被看出点什么，那还不如不说。）\n（不过她这么一问，我好像有点底了。至少有个能应付的说法，心里没那么慌。可我还是会怕自己到时候嘴笨，真被人问起来就露馅了。）",
+        "reasoning": "（她问的是有人问起我怎么说，这其实是在帮我想一个不显眼的说法。我要是说“他上次借过我笔”，这就是事实，别人应该不会多想吧。但我还是担心，万一被看出点什么，那还不如不说。）\n（不过她这么一问，我好像有点底了。至少有个能应付的说法，心里没那么慌。可我还是会怕自己到时候嘴笨，真被人问起来就露馅了。）"
+      }
+    }
+  ],
+  "created": 1794536389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2753,
+    "total_tokens": 2880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

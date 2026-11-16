@@ -1,0 +1,41 @@
+{
+  "id": "3d869850a88d48c49770babe124bedcb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我老公在家的话，其实能看一会儿。就是……我总不太放心，也不太习惯开口让他来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我家里谁能帮忙看孩子，这让我有点为难。其实老公在的时候是能搭把手的，但我总是不太放心，或者说……不太习惯开口让他来。这好像又回到那个“什么都得自己扛”的念头上了。）\n（我得承认这一点，但又不想显得自己太固执。也许可以说得轻一点，带点犹豫，让他知道我不是不愿意，只是心里那道坎还没完全过去。）",
+        "reasoning": "（咨询师在问我家里谁能帮忙看孩子，这让我有点为难。其实老公在的时候是能搭把手的，但我总是不太放心，或者说……不太习惯开口让他来。这好像又回到那个“什么都得自己扛”的念头上了。）\n（我得承认这一点，但又不想显得自己太固执。也许可以说得轻一点，带点犹豫，让他知道我不是不愿意，只是心里那道坎还没完全过去。）"
+      }
+    }
+  ],
+  "created": 1794535107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3141,
+    "total_tokens": 3256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

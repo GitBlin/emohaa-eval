@@ -1,0 +1,41 @@
+{
+  "id": "527272791f964331be7c5382007fa7d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就躲回自己屋里，或者装作很懂事的样子，不去惹他们。好像从小就觉得，家里气氛不好，我得先反省是不是自己的问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我小时候在那种安静里会做什么。这让我一下子回到那个客厅，那种小心翼翼的感觉又冒出来了。我好像又变成了那个怕做错事的小孩。）\n（我爸妈总说小孩子要懂事，所以我那时候就拼命表现得乖，觉得只要我不添乱，家里就能好起来。现在想想，这种习惯好像一直跟着我，一遇到冷场就忍不住先反省自己。）",
+        "reasoning": "（她问起我小时候在那种安静里会做什么。这让我一下子回到那个客厅，那种小心翼翼的感觉又冒出来了。我好像又变成了那个怕做错事的小孩。）\n（我爸妈总说小孩子要懂事，所以我那时候就拼命表现得乖，觉得只要我不添乱，家里就能好起来。现在想想，这种习惯好像一直跟着我，一遇到冷场就忍不住先反省自己。）"
+      }
+    }
+  ],
+  "created": 1794535285,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1819,
+    "total_tokens": 1939,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

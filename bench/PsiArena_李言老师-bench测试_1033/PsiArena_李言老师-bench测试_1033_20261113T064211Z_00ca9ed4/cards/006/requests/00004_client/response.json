@@ -1,0 +1,41 @@
+{
+  "id": "6ff7f680112240008a6d09ca6578e0cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，是有点担心……单位里人多嘴杂，传出去不好。对了，你们做咨询的，会不会把我说的话记下来给别人看？我就是随口问问。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师提到保密原则时很明确，还点出了我担心被单位知道的顾虑。看来他确实理解我的处境。不过我还是想再试探一下，毕竟在单位里待久了，对“保密”这种事总有点不放心。我是不是该问得更具体些，比如他个人会不会有什么记录之类的。但直接问又显得太不信任人，还是含糊点带过去吧。）\n（其实我真正想说的是，在单位里有些事没法跟人说，憋得慌。但一下子说太深又觉得不安全。先提一句工作上的事，看他怎么接。如果他能理解这种憋着的感觉，也许后面能多说点。）",
+        "reasoning": "（这位咨询师提到保密原则时很明确，还点出了我担心被单位知道的顾虑。看来他确实理解我的处境。不过我还是想再试探一下，毕竟在单位里待久了，对“保密”这种事总有点不放心。我是不是该问得更具体些，比如他个人会不会有什么记录之类的。但直接问又显得太不信任人，还是含糊点带过去吧。）\n（其实我真正想说的是，在单位里有些事没法跟人说，憋得慌。但一下子说太深又觉得不安全。先提一句工作上的事，看他怎么接。如果他能理解这种憋着的感觉，也许后面能多说点。）"
+      }
+    }
+  ],
+  "created": 1794552334,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 1253,
+    "total_tokens": 1430,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 140,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

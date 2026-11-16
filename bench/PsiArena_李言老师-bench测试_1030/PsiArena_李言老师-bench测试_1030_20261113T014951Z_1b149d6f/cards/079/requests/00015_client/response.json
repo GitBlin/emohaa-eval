@@ -1,0 +1,41 @@
+{
+  "id": "d4fb6531d3144a1fbd2fb127d0ec92e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "自己说一句“做得不错”……光是想想就觉得别扭，好像有点假。可能我会马上找理由说“这也没什么”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我自己夸自己一句，这听起来好别扭。我第一反应就是觉得假，好像还没开口，心里就有个声音在说“你哪有那么好”。）\n（可是她问的是说给自己听时会冒出什么，那大概就是这种心虚吧。我好像真的不太习惯不靠别人点头就认可自己，一夸自己反而像在骗人。）",
+        "reasoning": "（她让我自己夸自己一句，这听起来好别扭。我第一反应就是觉得假，好像还没开口，心里就有个声音在说“你哪有那么好”。）\n（可是她问的是说给自己听时会冒出什么，那大概就是这种心虚吧。我好像真的不太习惯不靠别人点头就认可自己，一夸自己反而像在骗人。）"
+      }
+    }
+  ],
+  "created": 1794539015,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2558,
+    "total_tokens": 2664,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

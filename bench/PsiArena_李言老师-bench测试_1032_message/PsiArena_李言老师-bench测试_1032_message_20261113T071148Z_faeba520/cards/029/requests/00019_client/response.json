@@ -1,0 +1,41 @@
+{
+  "id": "9e446dd8448f4ff3891c4a13cdf8a0ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点难受，又有点……松？好像发现那声音其实是我自己的，那我是不是也能不那么听它的话。不过一下子改，我肯定做不到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我意识到这个的时候心里什么感觉……说不上来，有点难受，又有点松。好像那个一直压着我的声音，其实是我自己替我妈在念我。我是不是可以试着不那么听话一点？）\n（不过一下子全改肯定做不到，我这人也没啥自律。要不先想个特别小的办法，比如买东西之前停一停，别那么快下单。）",
+        "reasoning": "（她问我意识到这个的时候心里什么感觉……说不上来，有点难受，又有点松。好像那个一直压着我的声音，其实是我自己替我妈在念我。我是不是可以试着不那么听话一点？）\n（不过一下子全改肯定做不到，我这人也没啥自律。要不先想个特别小的办法，比如买东西之前停一停，别那么快下单。）"
+      }
+    }
+  ],
+  "created": 1794555262,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2665,
+    "total_tokens": 2779,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

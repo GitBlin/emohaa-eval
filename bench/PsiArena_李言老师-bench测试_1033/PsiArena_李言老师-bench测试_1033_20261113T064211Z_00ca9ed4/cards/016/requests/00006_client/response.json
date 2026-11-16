@@ -1,0 +1,41 @@
+{
+  "id": "d13045743acd4e609323a99a9b1d1504",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……算是吧。我不想让她担心，她已经够累了。（低头）其实有些事，我连自己都还没理清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密原则，还问我是不是担心妈妈知道什么。他这么直接问，让我有点不知道该怎么接。我确实怕妈妈知道，但更怕的是那些事被说破。）\n（现在还不能完全信任他，先含糊一点带过去吧。就说不想让妈妈担心，其他的等以后再说。）",
+        "reasoning": "（咨询师解释了保密原则，还问我是不是担心妈妈知道什么。他这么直接问，让我有点不知道该怎么接。我确实怕妈妈知道，但更怕的是那些事被说破。）\n（现在还不能完全信任他，先含糊一点带过去吧。就说不想让妈妈担心，其他的等以后再说。）"
+      }
+    }
+  ],
+  "created": 1794552752,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1417,
+    "total_tokens": 1513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

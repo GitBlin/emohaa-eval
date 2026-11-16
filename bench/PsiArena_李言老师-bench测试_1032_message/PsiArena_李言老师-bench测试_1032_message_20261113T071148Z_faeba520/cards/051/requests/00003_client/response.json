@@ -1,0 +1,41 @@
+{
+  "id": "98f6f1982d06424a9c90fa3bd6752d2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……我也说不太清楚。就是最近工作上的事一直不太顺，挺累的。可能不只是工作吧，但具体是什么，我一时也讲不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方是心理咨询师，他刚才解释了咨询的节奏由我来定，还问我心里最放不下什么。这让我稍微放松了一点，但还不想一下子说太多。毕竟才刚开始，我得试探一下他到底会怎么处理我说的话。）\n（作为来访者，我性格内向又焦虑，习惯先观察再行动。现在可以稍微透露一点表面的困扰，但不能太深入。工作上的不顺和累是事实，说出来也不算暴露太多。用“说不太清楚”这种模糊的表达比较安全，既回应了问题，又保留了距离。）",
+        "reasoning": "（对方是心理咨询师，他刚才解释了咨询的节奏由我来定，还问我心里最放不下什么。这让我稍微放松了一点，但还不想一下子说太多。毕竟才刚开始，我得试探一下他到底会怎么处理我说的话。）\n（作为来访者，我性格内向又焦虑，习惯先观察再行动。现在可以稍微透露一点表面的困扰，但不能太深入。工作上的不顺和累是事实，说出来也不算暴露太多。用“说不太清楚”这种模糊的表达比较安全，既回应了问题，又保留了距离。）"
+      }
+    }
+  ],
+  "created": 1794556119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1063,
+    "total_tokens": 1215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

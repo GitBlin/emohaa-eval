@@ -1,0 +1,41 @@
+{
+  "id": "cbf1ba264a2746a4afcade7a0d413e56",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像提过工作上的项目赶得紧，那阵子她回家都很晚。我当时只当是普通加班，没多问。现在想想，可能那会儿她就已经很累了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一问，我脑子有点乱，得往回翻。好像她提过项目赶得紧，那阵子回家都很晚，我当时只当是普通加班，没多问。）\n（现在想想，我可能太盯着她回不回我，反而没接住她说累。这让我有点自责，也有点明白她不是冲我来的。）",
+        "reasoning": "（她这么一问，我脑子有点乱，得往回翻。好像她提过项目赶得紧，那阵子回家都很晚，我当时只当是普通加班，没多问。）\n（现在想想，我可能太盯着她回不回我，反而没接住她说累。这让我有点自责，也有点明白她不是冲我来的。）"
+      }
+    }
+  ],
+  "created": 1794550337,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3252,
+    "total_tokens": 3369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

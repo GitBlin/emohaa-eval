@@ -1,0 +1,41 @@
+{
+  "id": "1371bd4906944732a341660068df8def",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）我没想过还能这样……比如聚会的时候走开一下？可我又怕他们觉得我奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我能不能在有人比较的场合给自己留点空间，这让我有点不知道该怎么回答。以前我总觉得那些场合里我只能被动承受，从没想过还能主动做点什么。）\n（也许可以试着从小的动作开始，比如走开一下，或者少说几句。但马上又觉得，家里人都在场，这样做会不会显得很奇怪，他们会不会觉得我不合群。）",
+        "reasoning": "（咨询师问我能不能在有人比较的场合给自己留点空间，这让我有点不知道该怎么回答。以前我总觉得那些场合里我只能被动承受，从没想过还能主动做点什么。）\n（也许可以试着从小的动作开始，比如走开一下，或者少说几句。但马上又觉得，家里人都在场，这样做会不会显得很奇怪，他们会不会觉得我不合群。）"
+      }
+    }
+  ],
+  "created": 1794558239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2195,
+    "total_tokens": 2300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

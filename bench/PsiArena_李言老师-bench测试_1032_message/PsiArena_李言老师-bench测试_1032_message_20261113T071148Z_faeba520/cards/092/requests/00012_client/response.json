@@ -1,0 +1,41 @@
+{
+  "id": "dfc25518d2ce48f8b119851ed27f7df8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怎么对待自己……（停顿）好像没怎么想过。一般就是接着担心下一件事，或者怪自己做得不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么对待自己……其实我很少想这个。忙完就忙完了，接着又担心下一次，好像停不下来。这样说出来，会不会显得我对自己太苛刻了？）\n（不过她问得挺温和的，让我有点想说真话。我确实很少对自己好，总觉得不够好就不能歇。说出来可能有点难为情，但也许她能明白。）",
+        "reasoning": "（她问我怎么对待自己……其实我很少想这个。忙完就忙完了，接着又担心下一次，好像停不下来。这样说出来，会不会显得我对自己太苛刻了？）\n（不过她问得挺温和的，让我有点想说真话。我确实很少对自己好，总觉得不够好就不能歇。说出来可能有点难为情，但也许她能明白。）"
+      }
+    }
+  ],
+  "created": 1794558228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1932,
+    "total_tokens": 2039,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

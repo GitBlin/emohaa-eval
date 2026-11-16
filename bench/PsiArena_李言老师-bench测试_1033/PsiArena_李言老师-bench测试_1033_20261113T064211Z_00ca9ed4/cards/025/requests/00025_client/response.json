@@ -1,0 +1,41 @@
+{
+  "id": "121f5d656900440dbfe1277bf078790c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就记成“今天喘了口气”，不写几分钟。（放松了一点）这么一说，好像没那么大压力了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么给自己记这一笔，其实是在帮我把“喘气”这件事具体化、可操作化，而不是又变成一个考核标准。）\n（我本来习惯用“做到没做到”衡量自己，但刚才已经松口说三分钟也算数了。那记这一笔，最好别搞得像打卡任务，不然我又会紧张。可以简单点，就记“今天喘了口气”，不评判长短。）",
+        "reasoning": "（咨询师在问我怎么给自己记这一笔，其实是在帮我把“喘气”这件事具体化、可操作化，而不是又变成一个考核标准。）\n（我本来习惯用“做到没做到”衡量自己，但刚才已经松口说三分钟也算数了。那记这一笔，最好别搞得像打卡任务，不然我又会紧张。可以简单点，就记“今天喘了口气”，不评判长短。）"
+      }
+    }
+  ],
+  "created": 1794553299,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3791,
+    "total_tokens": 3907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

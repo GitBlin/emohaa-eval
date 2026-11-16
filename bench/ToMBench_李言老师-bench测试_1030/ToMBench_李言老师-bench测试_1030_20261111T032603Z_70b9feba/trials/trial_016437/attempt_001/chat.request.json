@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:44:32.995108+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn weekend afternoons, Xiao Hong invites her friend Xiao Li to go shopping and try on clothes at the mall. Xiao Hong tries on a light blue dress and says to Xiao Li: \"I think the style of this dress is good, and the color is also very nice, what do you think?\" Xiao Li looks and says: \"Hmm, this dress is okay, but last week I see our classmate Xiao Mei try on the same style, I think she looks better in it.\" Xiao Hong is silent, then says: \"But I prefer the color combination of this one.\" Xiao Li replies: \"Maybe you can try other styles again.\"\n\n[Question]\nWhere do they shop?\n\n[Candidate Answers]\nA. Supermarket\nB. Department store\nC. Bookstore\nD. Mall",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

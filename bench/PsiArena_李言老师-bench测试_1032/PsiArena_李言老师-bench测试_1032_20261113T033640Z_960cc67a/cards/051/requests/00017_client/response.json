@@ -1,0 +1,41 @@
+{
+  "id": "0aa8daa6b0f04b45a7b83022b38b8aa2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "休息的时候也会，尤其晚上。活动的时候倒还好……可能是最近想太多，睡也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然提到身体症状要重视，还建议去医院，这让我有点意外。我本来是在说心理上的感受，没想到会被引到身体上。不过仔细想想，最近确实经常胸闷，可能身体真的在报警了。）\n（作为软件工程师，我习惯把问题拆解分析，但身体这块我确实一直忽略。咨询师问活动时还是休息时更明显，我得回忆一下。好像加班到深夜时最明显，平时倒还好。也许该认真对待这个建议，不能总觉得自己能扛过去。）",
+        "reasoning": "（咨询师突然提到身体症状要重视，还建议去医院，这让我有点意外。我本来是在说心理上的感受，没想到会被引到身体上。不过仔细想想，最近确实经常胸闷，可能身体真的在报警了。）\n（作为软件工程师，我习惯把问题拆解分析，但身体这块我确实一直忽略。咨询师问活动时还是休息时更明显，我得回忆一下。好像加班到深夜时最明显，平时倒还好。也许该认真对待这个建议，不能总觉得自己能扛过去。）"
+      }
+    }
+  ],
+  "created": 1794543740,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2423,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

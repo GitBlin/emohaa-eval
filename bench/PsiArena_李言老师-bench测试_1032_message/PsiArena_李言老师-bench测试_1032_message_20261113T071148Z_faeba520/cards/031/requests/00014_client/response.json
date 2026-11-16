@@ -1,0 +1,41 @@
+{
+  "id": "8d65c566770c431188470e5f1ad6b6a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）大概是我爸妈吧。他们对我要求挺高的，考好了也就点点头，考差了就……唉。好像我永远差那么一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个标准从哪来的……其实我心里清楚，就是家里。爸妈从来不夸我，考好了也就一句“别骄傲”，考差了就全是失望。我好像一直在证明自己够格，可怎么都不够。）\n（说到这个我有点想笑，又有点难受。他们大概也不是故意的，就是那样的家庭，情感这东西本来就不太表达。可我就是被这么养大的，总觉得要够优秀才有人看得上我。）",
+        "reasoning": "（她问我这个标准从哪来的……其实我心里清楚，就是家里。爸妈从来不夸我，考好了也就一句“别骄傲”，考差了就全是失望。我好像一直在证明自己够格，可怎么都不够。）\n（说到这个我有点想笑，又有点难受。他们大概也不是故意的，就是那样的家庭，情感这东西本来就不太表达。可我就是被这么养大的，总觉得要够优秀才有人看得上我。）"
+      }
+    }
+  ],
+  "created": 1794558995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2206,
+    "total_tokens": 2334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

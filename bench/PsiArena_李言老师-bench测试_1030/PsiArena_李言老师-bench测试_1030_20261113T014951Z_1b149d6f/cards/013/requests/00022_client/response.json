@@ -1,0 +1,41 @@
+{
+  "id": "bca4325bd61542c884601bbf620a1426",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他别急着解释或者反驳，先听我说完。然后……用行动让我看到，不是光一句“我会改”。哪怕是很小的变化。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望看到什么样的回应，这让我得认真想想。以前我可能只想要一句“我改了”就安心，但现在觉得那不够。）\n（他愿意认真听我说完，不急着反驳，这对我来说很重要。而且行动上能让我看到，不是光嘴上说说，这样我才能慢慢信一点。）",
+        "reasoning": "（咨询师在问我希望看到什么样的回应，这让我得认真想想。以前我可能只想要一句“我改了”就安心，但现在觉得那不够。）\n（他愿意认真听我说完，不急着反驳，这对我来说很重要。而且行动上能让我看到，不是光嘴上说说，这样我才能慢慢信一点。）"
+      }
+    }
+  ],
+  "created": 1794535351,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3421,
+    "total_tokens": 3524,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

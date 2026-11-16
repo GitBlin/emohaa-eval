@@ -1,0 +1,41 @@
+{
+  "id": "19e3802061124e19815503ca9479802a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "抽个血吧，听起来没那么麻烦。不过……我想还是先问问医生的意见，别自己瞎猜。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有相对没那么有压力的检查项目，或者想先咨询医生。看来她是想帮我找一个更容易迈出第一步的方式。说实话，我脑子里第一个冒出来的就是抽个血，比起那些复杂的检查，这个听起来简单多了。不过我还是有点拿不准，毕竟真到了医院，可能又是另一回事。）\n（可我又觉得，光靠自己瞎琢磨不行，还是得先问问医生的意见。也许可以先从咨询开始，不用一上来就做检查。这样想着，好像没那么慌了。至少我知道下一步大概该往哪走。）",
+        "reasoning": "（她问我有没有相对没那么有压力的检查项目，或者想先咨询医生。看来她是想帮我找一个更容易迈出第一步的方式。说实话，我脑子里第一个冒出来的就是抽个血，比起那些复杂的检查，这个听起来简单多了。不过我还是有点拿不准，毕竟真到了医院，可能又是另一回事。）\n（可我又觉得，光靠自己瞎琢磨不行，还是得先问问医生的意见。也许可以先从咨询开始，不用一上来就做检查。这样想着，好像没那么慌了。至少我知道下一步大概该往哪走。）"
+      }
+    }
+  ],
+  "created": 1794545639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3327,
+    "total_tokens": 3465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

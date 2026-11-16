@@ -1,0 +1,41 @@
+{
+  "id": "ea5e543b05f34a74aa7bf2b76ab887c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像有人在背后盯着，坐不住。嗯……比如喝茶的时候，我会想着手机是不是又该看一眼了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那个念头出现时的具体感受，这让我有点烦躁又无奈。她好像总想让我把那些模糊的东西说得更清楚，但我说不清啊。）\n（那种感觉就像有人在背后盯着我，不让我停下来。我得试着描述一下，但可能还是说不太明白，只能举个例子了。）",
+        "reasoning": "（咨询师在问我那个念头出现时的具体感受，这让我有点烦躁又无奈。她好像总想让我把那些模糊的东西说得更清楚，但我说不清啊。）\n（那种感觉就像有人在背后盯着我，不让我停下来。我得试着描述一下，但可能还是说不太明白，只能举个例子了。）"
+      }
+    }
+  ],
+  "created": 1794558494,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2705,
+    "total_tokens": 2796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

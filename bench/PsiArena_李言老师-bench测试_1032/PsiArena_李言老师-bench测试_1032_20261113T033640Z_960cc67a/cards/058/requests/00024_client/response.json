@@ -1,0 +1,41 @@
+{
+  "id": "f1545dedd66a468eabfeed2e0482f1ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能戳中的是……我怕别人觉得我不行吧。好像我一直都在等别人点头，才敢觉得自己是好的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问那句话戳中了我哪一点……其实我心里清楚，不是那句话本身，是我自己总怕别人觉得我不行。可要我说得特别明白，又有点难。）\n（也许我可以试着承认，我确实把别人的评价看得太重了，好像一直在等一个认可。这说出来有点不好意思，但好像也是真的。）",
+        "reasoning": "（她问那句话戳中了我哪一点……其实我心里清楚，不是那句话本身，是我自己总怕别人觉得我不行。可要我说得特别明白，又有点难。）\n（也许我可以试着承认，我确实把别人的评价看得太重了，好像一直在等一个认可。这说出来有点不好意思，但好像也是真的。）"
+      }
+    }
+  ],
+  "created": 1794544098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3308,
+    "total_tokens": 3404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

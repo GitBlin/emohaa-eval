@@ -1,0 +1,41 @@
+{
+  "id": "f227cae871284168a4c1ec28fda54642",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是午饭吧，或者问问工作上的小事。就是别太刻意就好。你觉得我这样问会不会显得很生硬？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化，这让我稍微有点方向了。一对一确实比人多的时候轻松，但真要开口还是得有个抓手。）\n（想到午饭或工作上的小事，这些日常话题比较安全，不会显得太刻意。不过我也担心自己话说得太干，所以想问问有没有更自然的说法。）",
+        "reasoning": "（咨询师在引导我具体化，这让我稍微有点方向了。一对一确实比人多的时候轻松，但真要开口还是得有个抓手。）\n（想到午饭或工作上的小事，这些日常话题比较安全，不会显得太刻意。不过我也担心自己话说得太干，所以想问问有没有更自然的说法。）"
+      }
+    }
+  ],
+  "created": 1794541128,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2694,
+    "total_tokens": 2790,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

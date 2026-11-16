@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:54:02.189790+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe new semester of university starts, Xiao Wang and Xiao Zhao become roommates in the dormitory. Xiao Wang's family condition is relatively good, Xiao Zhao's is not so good. One day, Xiao Wang buys some new clothes and snacks, Xiao Zhao sees and asks: \"These new things look pretty good, you shop a lot recently, huh?\" Xiao Wang smiles and replies: \"Yes, I occasionally treat myself well. Do you need anything? I can keep an eye out for you next time.\" Xiao Zhao says: \"No need, but thank you for your offer.\"\n\n[Question]\nWhat is the relationship between Xiao Wang and Xiao Zhao?\n\n[Candidate Answers]\nA. Classmates\nB. Colleagues\nC. Roommates\nD. Friends",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

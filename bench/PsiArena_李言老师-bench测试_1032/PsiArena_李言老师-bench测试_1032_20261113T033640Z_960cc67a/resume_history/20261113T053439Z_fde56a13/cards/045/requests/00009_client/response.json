@@ -1,0 +1,41 @@
+{
+  "id": "fdf9fd86dd454435a155023e5d23c2e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧。而且……在我家，好像不太能随便说这些。我爸妈都是老师，从小就要求我懂事、做好，说这些丧气话，他们会担心的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是担心爸妈追问，还是怕说不清楚……好像都有一点，但更深的是不想让他们失望。在我家，情绪这件事好像从来不是重点，做得好才是。）\n（我得让她明白这种压力不是一天两天了。爸妈都是老师，从小我就觉得表现不好就是给他们丢脸，所以习惯了什么都自己扛。）",
+        "reasoning": "（她问我是不是担心爸妈追问，还是怕说不清楚……好像都有一点，但更深的是不想让他们失望。在我家，情绪这件事好像从来不是重点，做得好才是。）\n（我得让她明白这种压力不是一天两天了。爸妈都是老师，从小我就觉得表现不好就是给他们丢脸，所以习惯了什么都自己扛。）"
+      }
+    }
+  ],
+  "created": 1794543315,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1590,
+    "total_tokens": 1697,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

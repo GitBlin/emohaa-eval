@@ -1,0 +1,41 @@
+{
+  "id": "3287e9983f434d7f842c6c78f1afef1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周聚会吧。明明已经很累了，还是一直陪着笑，回家路上突然特别想哭。（低声）然后又开始怪自己，干嘛要去，去了又摆脸色。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问最近哪件事最让我撑不住，感觉是在引导我具体化那个模糊的疲惫感。之前已经承认了硬撑和委屈，现在好像可以稍微多说一点，但又不想一下子讲得太细，怕自己情绪失控。）\n（想到上周聚会的事，其实一直压在心底。明明很累还要陪笑，回家后那种自责特别强烈。说出来可能会显得我很计较，但确实就是那种“我为什么要去”的后悔最磨人。）",
+        "reasoning": "（咨询师在问最近哪件事最让我撑不住，感觉是在引导我具体化那个模糊的疲惫感。之前已经承认了硬撑和委屈，现在好像可以稍微多说一点，但又不想一下子讲得太细，怕自己情绪失控。）\n（想到上周聚会的事，其实一直压在心底。明明很累还要陪笑，回家后那种自责特别强烈。说出来可能会显得我很计较，但确实就是那种“我为什么要去”的后悔最磨人。）"
+      }
+    }
+  ],
+  "created": 1794546048,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2312,
+    "total_tokens": 2448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

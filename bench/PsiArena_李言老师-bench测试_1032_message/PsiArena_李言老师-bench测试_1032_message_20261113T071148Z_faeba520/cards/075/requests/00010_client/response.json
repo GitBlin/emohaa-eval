@@ -1,0 +1,41 @@
+{
+  "id": "aa255625091941788601fcb599c2b575",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会吧。她一打电话就问我工作找得怎么样，钱够不够。我知道她是关心，可每次挂了电话，我都觉得自己又让她失望了一回。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在和妈妈相处的时候那种“不够”的感觉还会不会冒出来……她好像很在意我和妈妈的关系。我其实不太想怪我妈，她确实辛苦，可每次打电话她都在说工作怎么样、钱够不够，我就觉得自己又没做好。）\n（这种感觉真的很矛盾，我知道她是关心我，但听着就像在检查我有没有达标。我是不是太敏感了？说出来会不会显得我不懂事。）",
+        "reasoning": "（她问我现在和妈妈相处的时候那种“不够”的感觉还会不会冒出来……她好像很在意我和妈妈的关系。我其实不太想怪我妈，她确实辛苦，可每次打电话她都在说工作怎么样、钱够不够，我就觉得自己又没做好。）\n（这种感觉真的很矛盾，我知道她是关心我，但听着就像在检查我有没有达标。我是不是太敏感了？说出来会不会显得我不懂事。）"
+      }
+    }
+  ],
+  "created": 1794557403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1818,
+    "total_tokens": 1940,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

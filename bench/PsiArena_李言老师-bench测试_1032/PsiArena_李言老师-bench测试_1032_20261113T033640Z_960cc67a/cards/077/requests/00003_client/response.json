@@ -1,0 +1,41 @@
+{
+  "id": "8db17e028c7841f6988b18e2834fefd1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……好几个星期了吧，我也记不清了。反正就是上班的时候特别累，回到家也不想说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师提到了保密例外，还直接问持续多久。我其实有点在意她说的“安全风险”是什么意思，会不会我提到自杀她就要通知别人？但先不追问这个了，免得显得太敏感。她问时间，我确实也说不清具体多久，就是感觉从疫情开始就一直这样，越来越重。）\n（我有点犹豫要不要说那么详细，毕竟还不太信任她。先模糊地说几个星期吧，再说工作太累，看看她怎么接。这样既回答了问题，又不用暴露太多。）",
+        "reasoning": "（这位咨询师提到了保密例外，还直接问持续多久。我其实有点在意她说的“安全风险”是什么意思，会不会我提到自杀她就要通知别人？但先不追问这个了，免得显得太敏感。她问时间，我确实也说不清具体多久，就是感觉从疫情开始就一直这样，越来越重。）\n（我有点犹豫要不要说那么详细，毕竟还不太信任她。先模糊地说几个星期吧，再说工作太累，看看她怎么接。这样既回答了问题，又不用暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794545145,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1080,
+    "total_tokens": 1216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

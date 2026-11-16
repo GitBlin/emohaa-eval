@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:32.166320+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaogang and Daming are neighbors, they both live on the sixth floor. Today, the new neighbor Jingjing moves to the seventh floor, Jingjing is very beautiful. Daming goes downstairs and encounters Jingjing who is moving a heavy bag of rice, he plans to go over to help, and his eyes indicate that he has this intention. At this time, Xiaogang is going upstairs, he happens to see this scene, he comes over to greet, then helps Jingjing move the bag of rice upstairs, Jingjing expresses her thanks to him. Xiaogang turns his head and looks at Daming, then he smiles, Daming's face changes slightly. Xiaogang ignores Daming, he walks to his apartment alone.\n\n[Question]\nWhy does Xiaogang turn his head to look at Daming?\n\n[Candidate Answers]\nA. Xiaogang is seeking Daming's approval for his act of helping Jingjing.\nB. Xiaogang confronts Daming face to face, asking why he only watches and does not help.\nC. Xiaogang wants to share his good deed with Daming happily.\nD. Xiaogang looks at Daming, showing off that he does what Daming wants to do first.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

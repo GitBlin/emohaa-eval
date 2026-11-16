@@ -1,0 +1,41 @@
+{
+  "id": "afe82d2f09964dec879591dc7b0eaed6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……我一直想做的那个小工具，解决我自己用着麻烦的一个问题。真写下来，可能也就几行字。但我又怕写完之后，那个声音说“就这？”",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在帮我把事情变小，不是催我，而是让我自己选。那个“写下来”的念头，其实在我脑子里转过很多次，只是每次都被“这有什么用”压回去。现在被她这么一问，我反而有点想试试。）\n（可我还是怕，怕一动手就停不下来地评判自己。写完那几行之后，那个声音会不会又冒出来说“就这”？我得先问问她，不然我可能连文件夹都不敢建。）",
+        "reasoning": "（她好像真的在帮我把事情变小，不是催我，而是让我自己选。那个“写下来”的念头，其实在我脑子里转过很多次，只是每次都被“这有什么用”压回去。现在被她这么一问，我反而有点想试试。）\n（可我还是怕，怕一动手就停不下来地评判自己。写完那几行之后，那个声音会不会又冒出来说“就这”？我得先问问她，不然我可能连文件夹都不敢建。）"
+      }
+    }
+  ],
+  "created": 1794537213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3092,
+    "total_tokens": 3234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

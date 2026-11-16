@@ -1,0 +1,41 @@
+{
+  "id": "449d73b27626496197965bdb3c2d1574",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次吧……小时候发烧，我没去上学，在家躺着。结果我爸回来脸色很难看，没骂我，但那种失望……我记到现在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我有没有哪次按自己想法做过事，这让我想起小时候那次发烧。那件事我一直记着，因为后来被爸爸说了一顿。现在说出来，心里还是有点堵，好像又回到那种不被理解的感觉。我其实挺犹豫要不要讲，怕显得自己太计较，可又觉得不说出来更难受。）\n（这件事让我意识到，我好像一直在怕别人觉得我不懂事。现在说出来，反而有点松口气，但也更清楚自己有多在意别人的看法。她应该能听出我话里的委屈吧。）",
+        "reasoning": "（她问起我有没有哪次按自己想法做过事，这让我想起小时候那次发烧。那件事我一直记着，因为后来被爸爸说了一顿。现在说出来，心里还是有点堵，好像又回到那种不被理解的感觉。我其实挺犹豫要不要讲，怕显得自己太计较，可又觉得不说出来更难受。）\n（这件事让我意识到，我好像一直在怕别人觉得我不懂事。现在说出来，反而有点松口气，但也更清楚自己有多在意别人的看法。她应该能听出我话里的委屈吧。）"
+      }
+    }
+  ],
+  "created": 1794539248,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 2160,
+    "total_tokens": 2308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:53.146031+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThere are 30 chairs in an office, Manager Li tells Director Wang, most of them are brand new, some are still usable, almost none need repairs. After checking, Director Wang finds that only 5 chairs are not brand new and do not need repairs.\n\n[Question]\nPlease ask how many ginkgo trees Director Wang estimates after checking?\n\n[Candidate Answers]\nA. After checking, Director Wang estimates there are 23 brand new chairs.\nB. After checking, Director Wang estimates there are 25 brand new chairs.\nC. After checking, Director Wang estimates there are 9 brand new chairs.\nD. After checking, Director Wang estimates there are 16 brand new chairs.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:40:39.266464+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hong finds a drawer in the classroom, the label on the drawer is cucumber, Xiao Hong cannot see what is inside the drawer, Xiao Hong opens the drawer and finds a book, there is no cucumber in the drawer, Xiao Hong closes the drawer and puts it back in place, Youyou enters the classroom and sees the drawer.\n\n[Question]\nAfter Youyou opens the drawer, what does Xiao Hong think Youyou expects to find in the drawer?\n\n[Candidate Answers]\nA. pineapple\nB. book\nC. cucumber\nD. crayon",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

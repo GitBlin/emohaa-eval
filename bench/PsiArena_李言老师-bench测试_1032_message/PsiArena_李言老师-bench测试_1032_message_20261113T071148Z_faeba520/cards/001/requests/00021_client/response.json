@@ -1,0 +1,41 @@
+{
+  "id": "0f5505c926ff4d8fbb938c40ef910dba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试吧……就一句的话。嗯，我想想，也许可以问问他那道题是怎么想的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我试着多应一句……我心里其实有点打鼓，万一说不好怎么办。不过刚才聊下来，好像也没那么可怕，而且只是多答一句，又不是要我去主动找一堆人说话。也许可以先从同桌这里试一下，反正他平时也不嫌我闷。）\n（要是能顺带问问他的题，那就不只是我单方面回答了，感觉更像互相说话。这样想着，好像比单纯“多应一句”更自然一些，我也没那么慌。）",
+        "reasoning": "（他让我试着多应一句……我心里其实有点打鼓，万一说不好怎么办。不过刚才聊下来，好像也没那么可怕，而且只是多答一句，又不是要我去主动找一堆人说话。也许可以先从同桌这里试一下，反正他平时也不嫌我闷。）\n（要是能顺带问问他的题，那就不只是我单方面回答了，感觉更像互相说话。这样想着，好像比单纯“多应一句”更自然一些，我也没那么慌。）"
+      }
+    }
+  ],
+  "created": 1794553986,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2750,
+    "total_tokens": 2875,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:33:40.895087+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXu Ming, Li Hua, and Zhao Lei are classmates in senior high school, they are preparing a group report. Xu Ming and Li Hua know that although Zhao Lei easily gets nervous when reporting in public, he always performs well once he gets into the state. The counselor suddenly tells them that he comes over to listen to their rehearsal right away. Xu Ming and Li Hua look at Zhao Lei at the same time. Then, Xu Ming smiles at Li Hua. Li Hua nods, walks to Zhao Lei, and whispers something. Zhao Lei appears a bit nervous, then Xu Ming comes over to comfort Zhao Lei, telling Zhao Lei that he supports him from the side.\n\n[Question]\nWhat do you think Zhao Lei thinks?\n\n[Candidate Answers]\nA. Zhao Lei feels a bit nervous, but with the encouragement of friends, he possibly looks forward to this challenge.\nB. Zhao Lei feels that Xu Ming and Li Hua are making fun of him, he is very angry.\nC. Zhao Lei worries that his performance possibly makes the group's performance worse.\nD. Zhao Lei is full of confidence in himself, he fears nothing.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

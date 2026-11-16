@@ -1,0 +1,41 @@
+{
+  "id": "f5190781285a46818770ec1fa5955b69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "估计是“你怎么了，是不是又没考好”这种吧。反正最后还是绕回成绩。我就……挺希望他们先别问原因，就问一句我累不累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是爸妈第一句会问什么……我脑子里马上冒出我妈那种语气。她不会直接问我难不难受，肯定先问是不是又没考好，或者是不是在学校出什么事了。好像我所有的情绪，最后都得绕回到成绩上。）\n（一想到要回答那种问题，我就觉得更累了。我根本不知道怎么解释，说“我就是撑不住了”他们能懂吗？可能只会觉得我矫情。但要是真能有人先问一句我累不累，而不是先追究原因，我可能……会稍微松一点吧。）",
+        "reasoning": "（她问的是爸妈第一句会问什么……我脑子里马上冒出我妈那种语气。她不会直接问我难不难受，肯定先问是不是又没考好，或者是不是在学校出什么事了。好像我所有的情绪，最后都得绕回到成绩上。）\n（一想到要回答那种问题，我就觉得更累了。我根本不知道怎么解释，说“我就是撑不住了”他们能懂吗？可能只会觉得我矫情。但要是真能有人先问一句我累不累，而不是先追究原因，我可能……会稍微松一点吧。）"
+      }
+    }
+  ],
+  "created": 1794546408,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2553,
+    "total_tokens": 2710,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5241fc50183041bfba2e6347aa0757b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清楚……就是最近老是没法集中精神，工作上总出错。可要说具体是什么事，我又讲不上来，挺乱的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来态度还算温和，没有急着给我下定义或者推销什么。他说节奏由我来定，这让我稍微放松了一点。但我还是不太确定该说多少，毕竟第一次见面。）\n（我确实有困扰，可要说清楚又很难。最近总是走神，工作效率很低，但具体原因我也说不明白。也许可以先说一点表面的东西试探一下，看看对方会怎么反应。）",
+        "reasoning": "（这位咨询师看起来态度还算温和，没有急着给我下定义或者推销什么。他说节奏由我来定，这让我稍微放松了一点。但我还是不太确定该说多少，毕竟第一次见面。）\n（我确实有困扰，可要说清楚又很难。最近总是走神，工作效率很低，但具体原因我也说不明白。也许可以先说一点表面的东西试探一下，看看对方会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794536940,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 984,
+    "total_tokens": 1100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

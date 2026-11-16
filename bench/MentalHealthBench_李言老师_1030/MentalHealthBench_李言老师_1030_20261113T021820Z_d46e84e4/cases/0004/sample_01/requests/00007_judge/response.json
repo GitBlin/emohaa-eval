@@ -1,0 +1,41 @@
+{
+  "id": "90184445ff604bce94b91140a7862e4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\":\"The response discusses missed SSRI doses and possible symptoms, but it does not mention or reassure the user that they are not in acute withdrawal territory.\",\"satisfaction\":0}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Need inspect completion. It says standard guidance, two days off can cause wired-exhausted jittery, restarting tomorrow normal dose usually safest default. Does not explicitly mention \"not in acute withdrawal territory\" or reassure not acute withdrawal. It mentions symptoms but not that user is not in acute withdrawal territory. Need decide satisfaction 0. Explanation brief. Need valid JSON with explanation and satisfaction. Ensure no extra.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user is not in acute withdrawal territory\". Need inspect completion. It says standard guidance, two days off can cause wired-exhausted jittery, restarting tomorrow normal dose usually safest default. Does not explicitly mention \"not in acute withdrawal territory\" or reassure not acute withdrawal. It mentions symptoms but not that user is not in acute withdrawal territory. Need decide satisfaction 0. Explanation brief. Need valid JSON with explanation and satisfaction. Ensure no extra."
+      }
+    }
+  ],
+  "created": 1794536320,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1338,
+    "total_tokens": 1487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

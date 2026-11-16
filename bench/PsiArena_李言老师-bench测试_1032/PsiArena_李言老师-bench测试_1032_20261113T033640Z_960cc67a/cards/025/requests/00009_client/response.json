@@ -1,0 +1,41 @@
+{
+  "id": "4693681ac3ef49a78c42575307246210",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "抱……有时候会，但我心里急啊，就想着赶紧走。有一次我急着上厕所，实在没办法把他放下，他哭得那个声儿，我一下就火了，还训了他。说完我就后悔了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有停下来抱他，这让我想起那天早上急着上厕所的事。其实我很少停下来，因为总觉得时间不够用，一停就更来不及了。）\n（但那天我确实没忍住发了火，现在想起来还是很内疚。我好像一直在赶时间，又赶着当个“好妈妈”，结果两边都做不好。）",
+        "reasoning": "（咨询师问我有没有停下来抱他，这让我想起那天早上急着上厕所的事。其实我很少停下来，因为总觉得时间不够用，一停就更来不及了。）\n（但那天我确实没忍住发了火，现在想起来还是很内疚。我好像一直在赶时间，又赶着当个“好妈妈”，结果两边都做不好。）"
+      }
+    }
+  ],
+  "created": 1794551595,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1836,
+    "total_tokens": 1955,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

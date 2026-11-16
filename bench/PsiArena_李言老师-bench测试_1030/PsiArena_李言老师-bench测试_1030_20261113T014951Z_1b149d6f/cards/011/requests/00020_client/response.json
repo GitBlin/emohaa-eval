@@ -1,0 +1,41 @@
+{
+  "id": "9d790134605d4181bf4c87e893bc3105",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能去洗个澡吧，热水冲着会舒服点。平时我连洗澡都匆匆忙忙的，总觉得离开孩子一会儿就不安心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“发消息”这个动作拆得更细，还问我发完之后怎么让自己松一松。这让我觉得她不是只催我去做，而是真的在意我能不能撑住。我想到平时洗完澡会稍微喘口气，但最近连那点时间都常被别的事占掉，所以说得有点犹豫。）\n（不过我也意识到，我总把放松当成奢侈，好像非得先把所有事都做完才配歇一会儿。今晚我想试着不给自己加条件，就洗完澡那几分钟，什么都不想。说出来的时候，心里稍微踏实了一点，但也担心自己到时候又做不到。）",
+        "reasoning": "（咨询师在帮我把“发消息”这个动作拆得更细，还问我发完之后怎么让自己松一松。这让我觉得她不是只催我去做，而是真的在意我能不能撑住。我想到平时洗完澡会稍微喘口气，但最近连那点时间都常被别的事占掉，所以说得有点犹豫。）\n（不过我也意识到，我总把放松当成奢侈，好像非得先把所有事都做完才配歇一会儿。今晚我想试着不给自己加条件，就洗完澡那几分钟，什么都不想。说出来的时候，心里稍微踏实了一点，但也担心自己到时候又做不到。）"
+      }
+    }
+  ],
+  "created": 1794535103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 3031,
+    "total_tokens": 3192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 130,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

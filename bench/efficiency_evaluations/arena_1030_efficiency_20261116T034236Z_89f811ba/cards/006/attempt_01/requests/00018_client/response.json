@@ -1,0 +1,47 @@
+{
+  "id": "fcb9b18963944ee69c00285b539d3b0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）其实一直都有吧，只是最近几年越来越清楚。刚工作那会儿还想着能做点正经事，现在……好像离当初那个自己越来越远了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这个念头最早什么时候冒出来，看来是想帮我理清这种想法是不是一直都有。我确实得想想，不是最近才开始的，签那笔报销只是让我更难受而已。）\n（其实这种抵触早就有了，只是以前没这么强烈。刚工作那会儿还觉得能改变点什么，现在想想挺可笑的。）",
+        "reasoning": "（咨询师问我这个念头最早什么时候冒出来，看来是想帮我理清这种想法是不是一直都有。我确实得想想，不是最近才开始的，签那笔报销只是让我更难受而已。）\n（其实这种抵触早就有了，只是以前没这么强烈。刚工作那会儿还觉得能改变点什么，现在想想挺可笑的。）"
+      }
+    }
+  ],
+  "created": 1794800766,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2918,
+    "total_tokens": 3026,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2560,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

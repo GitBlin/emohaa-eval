@@ -1,0 +1,41 @@
+{
+  "id": "6a65e9e64bdc491cb99a3ca358f3a309",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……先问一句当然好。可要是问了，最后还是按他们的来，我大概会更堵。我想要的可能是，我说的话真的能算数一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是希望父母先问一句，哪怕最后还是按他们的安排。这让我有点难受，因为光是“先问一句”好像也不够。我想要的不是被通知前多一道形式，而是我的意见真的能算数。）\n（可我又不敢直接说“我要他们听我的”，那听起来太强硬了，像在跟父母对抗。我可能得先承认“被问”确实重要，但更想表达我真正在意的是说了之后有没有用。）",
+        "reasoning": "（她问我是不是希望父母先问一句，哪怕最后还是按他们的安排。这让我有点难受，因为光是“先问一句”好像也不够。我想要的不是被通知前多一道形式，而是我的意见真的能算数。）\n（可我又不敢直接说“我要他们听我的”，那听起来太强硬了，像在跟父母对抗。我可能得先承认“被问”确实重要，但更想表达我真正在意的是说了之后有没有用。）"
+      }
+    }
+  ],
+  "created": 1794549428,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2792,
+    "total_tokens": 2927,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

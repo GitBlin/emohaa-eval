@@ -1,0 +1,41 @@
+{
+  "id": "ad272da0d66242c493cff153f2d229ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小就有吧。我习惯了先看别人脸色，再决定自己能不能开口。（停顿）说出来有点酸，我一直都在憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个感觉是从小就有还是最近才明显。其实我心里清楚，不是最近才有的，是从小就学会了看脸色、憋着不说。可刚才那句话说出来，我自己也有点意外，好像第一次把它讲得这么直白。）\n（她这么一问，我反倒松了一点，因为不用再绕了。但说到“憋着”这个词，还是会有点酸，好像承认了自己一直过得很累。）",
+        "reasoning": "（她问这个感觉是从小就有还是最近才明显。其实我心里清楚，不是最近才有的，是从小就学会了看脸色、憋着不说。可刚才那句话说出来，我自己也有点意外，好像第一次把它讲得这么直白。）\n（她这么一问，我反倒松了一点，因为不用再绕了。但说到“憋着”这个词，还是会有点酸，好像承认了自己一直过得很累。）"
+      }
+    }
+  ],
+  "created": 1794552792,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2474,
+    "total_tokens": 2592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

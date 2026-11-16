@@ -1,0 +1,24 @@
+{
+  "bot_id": 1032,
+  "unit": "ASCII/BMP characters: codepoints = UTF-16 units",
+  "tests": [
+    {
+      "length": 5001,
+      "status": "error",
+      "error_type": "APIError",
+      "server_error": "发送内容长度不能超过5000"
+    },
+    {
+      "length": 5000,
+      "status": "success",
+      "reply": "OK",
+      "metadata": {
+        "models": [
+          "1032"
+        ],
+        "conversation_ids": [],
+        "finish_seen": true
+      }
+    }
+  ]
+}

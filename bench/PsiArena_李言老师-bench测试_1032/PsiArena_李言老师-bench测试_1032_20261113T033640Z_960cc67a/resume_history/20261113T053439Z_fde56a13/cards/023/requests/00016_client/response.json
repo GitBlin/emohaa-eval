@@ -1,0 +1,41 @@
+{
+  "id": "df102a23c85a44c98ba6fce3047b9c7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近是跟同事解释流程，我越说对方越不耐烦，我立马就慌了，最后又变成我说“算了按你们的来”。其实事后挺憋屈的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎抓住了我“越解释越糟”这个点，想让我具体说说最近的情况。这让我有点犹豫，因为每次回忆这些都会让我重新感到那种无力。）\n（不过现在好像可以试着说一点，毕竟之前已经聊到家里那些事了。也许可以从工作上的小事开始，不用一下子扯到家里，这样会安全些。）",
+        "reasoning": "（咨询师似乎抓住了我“越解释越糟”这个点，想让我具体说说最近的情况。这让我有点犹豫，因为每次回忆这些都会让我重新感到那种无力。）\n（不过现在好像可以试着说一点，毕竟之前已经聊到家里那些事了。也许可以从工作上的小事开始，不用一下子扯到家里，这样会安全些。）"
+      }
+    }
+  ],
+  "created": 1794542245,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2517,
+    "total_tokens": 2629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

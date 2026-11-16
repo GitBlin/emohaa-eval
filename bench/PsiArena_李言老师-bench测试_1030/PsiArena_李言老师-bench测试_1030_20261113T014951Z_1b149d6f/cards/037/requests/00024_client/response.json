@@ -1,0 +1,41 @@
+{
+  "id": "61850bc09ce944849737d36de8817b5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就设成晚上睡前提醒一次吧，那会儿我脑子转得最凶。到时候翻出来看看，也算给自己一天收个尾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺具体的，让我不得不去想这个提醒到底该怎么设。说实话，我平时不太习惯主动跟人汇报自己的计划，但既然已经聊到这儿了，好像也没必要藏着。）\n（我想了想，晚上睡前确实是我最容易瞎琢磨的时候，那时候把记下来的东西翻出来看看，应该能帮我理清思路。这个办法感觉挺实际的，不是光嘴上说说。）",
+        "reasoning": "（她问得挺具体的，让我不得不去想这个提醒到底该怎么设。说实话，我平时不太习惯主动跟人汇报自己的计划，但既然已经聊到这儿了，好像也没必要藏着。）\n（我想了想，晚上睡前确实是我最容易瞎琢磨的时候，那时候把记下来的东西翻出来看看，应该能帮我理清思路。这个办法感觉挺实际的，不是光嘴上说说。）"
+      }
+    }
+  ],
+  "created": 1794536464,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3662,
+    "total_tokens": 3777,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

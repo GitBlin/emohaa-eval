@@ -1,0 +1,41 @@
+{
+  "id": "e64e2d2d0bfc4af19eea588c67d96e71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想找个专门的时间，别在忙乱的时候随口提。周末晚上吧，我们一般那时候比较放松。不过……我还是有点打鼓，万一到时候我临阵退缩了呢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候聊，还给了两个选项。看来她是想帮我把计划落到实处，而不是停在想法上。）\n（我确实需要个专门的时间，不然话到嘴边又缩回去了。周末晚上比较放松，我们通常那会儿能好好说话。不过我也得给自己留个退路，万一当时情绪不对，硬聊反而更糟。）",
+        "reasoning": "（她问我什么时候聊，还给了两个选项。看来她是想帮我把计划落到实处，而不是停在想法上。）\n（我确实需要个专门的时间，不然话到嘴边又缩回去了。周末晚上比较放松，我们通常那会儿能好好说话。不过我也得给自己留个退路，万一当时情绪不对，硬聊反而更糟。）"
+      }
+    }
+  ],
+  "created": 1794552933,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3271,
+    "total_tokens": 3384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

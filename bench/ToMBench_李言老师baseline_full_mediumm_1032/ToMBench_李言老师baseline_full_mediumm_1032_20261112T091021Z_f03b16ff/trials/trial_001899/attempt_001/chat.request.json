@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:37:11.105365+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOnce, Cheng Wei takes his son to the mall and accompanies him to the children's playground. Suddenly, he sees a person leading a dog in. Cheng Wei asks this person, \"Don't you see the sign that says no pets are allowed?\" The other party appears very disdainful and has no intention of paying attention to Cheng Wei. At this moment, his son laughs and says to Cheng Wei, \"Dad, you are so silly, dogs don't know how to read.\"\n\n[Question]\nWhat does the son really mean when he says this?\n\n[Candidate Answers]\nA. The son likes dogs and hopes to have one.\nB. The son wants to tell his father that dogs can't understand human language.\nC. The son is mocking this person for lacking social morality.\nD. The son is joking with his father, trying to lighten the mood.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

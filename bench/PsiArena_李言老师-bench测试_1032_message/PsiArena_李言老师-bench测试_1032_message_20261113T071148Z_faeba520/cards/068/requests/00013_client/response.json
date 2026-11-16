@@ -1,0 +1,41 @@
+{
+  "id": "5fd8535bc03a4bf99a34eeb66d13b4ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）我……没这么想过。你这么一说，好像我一直把害怕当成不能有的东西。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话让我有点意外。她问真正的勇敢里能不能包含承认害怕……我以前从没这么想过。在我家，勇敢就是不能怕，怕了就是不够好。）\n（可是她说得好像有点道理。如果一个人连自己害怕都不敢承认，那算真的勇敢吗？还是只是在硬撑？我想反驳，又觉得反驳不了。这种感觉让我有点不安，好像我一直以来的信念被轻轻推了一下。）",
+        "reasoning": "（咨询师这句话让我有点意外。她问真正的勇敢里能不能包含承认害怕……我以前从没这么想过。在我家，勇敢就是不能怕，怕了就是不够好。）\n（可是她说得好像有点道理。如果一个人连自己害怕都不敢承认，那算真的勇敢吗？还是只是在硬撑？我想反驳，又觉得反驳不了。这种感觉让我有点不安，好像我一直以来的信念被轻轻推了一下。）"
+      }
+    }
+  ],
+  "created": 1794557047,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2022,
+    "total_tokens": 2134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

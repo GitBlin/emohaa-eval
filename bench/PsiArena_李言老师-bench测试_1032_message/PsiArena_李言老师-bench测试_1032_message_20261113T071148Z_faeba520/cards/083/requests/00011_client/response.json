@@ -1,0 +1,41 @@
+{
+  "id": "119e6d411add4aca95f741ea02f4031e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心……查出来点什么，又担心什么都查不出来，那不就显得我瞎折腾吗。反正怎么想都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我去医院最担心什么……其实我脑子里乱得很。一方面觉得她好像真的在听，另一方面又怕说多了显得自己太没用。但刚才她说不丢人，让我稍微松了口气。）\n（我担心的事情太多了，检查出来有问题怎么办，没问题又觉得自己瞎折腾。这些念头平时根本不敢跟人说，说出来怕被人笑话。不过她问得挺直接的，也许可以试着说一点。）",
+        "reasoning": "（她问我去医院最担心什么……其实我脑子里乱得很。一方面觉得她好像真的在听，另一方面又怕说多了显得自己太没用。但刚才她说不丢人，让我稍微松了口气。）\n（我担心的事情太多了，检查出来有问题怎么办，没问题又觉得自己瞎折腾。这些念头平时根本不敢跟人说，说出来怕被人笑话。不过她问得挺直接的，也许可以试着说一点。）"
+      }
+    }
+  ],
+  "created": 1794557871,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1850,
+    "total_tokens": 1965,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

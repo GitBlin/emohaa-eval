@@ -1,0 +1,41 @@
+{
+  "id": "f2849d3b0fa34c02bcec22c8b16f71bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他总说尊重我的选择，可有时候我听着反而更孤单。好像这件事最后都变成我一个人在纠结，他越不催，我越觉得自己有问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了丈夫的态度，这让我想起他总说\"尊重我的选择\"，可这种尊重有时候反而让我更孤单。他好像没意识到，我需要的不只是他站在我这边，而是他能真正理解我面对的压力。）\n（家里从小就是这样，大事小事都得考虑父母的看法，现在连生孩子这种事都变成了全家的事。我好像一直在为别人的期待活着，却没人问过我到底想要什么。）",
+        "reasoning": "（咨询师问到了丈夫的态度，这让我想起他总说\"尊重我的选择\"，可这种尊重有时候反而让我更孤单。他好像没意识到，我需要的不只是他站在我这边，而是他能真正理解我面对的压力。）\n（家里从小就是这样，大事小事都得考虑父母的看法，现在连生孩子这种事都变成了全家的事。我好像一直在为别人的期待活着，却没人问过我到底想要什么。）"
+      }
+    }
+  ],
+  "created": 1794548638,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1614,
+    "total_tokens": 1736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

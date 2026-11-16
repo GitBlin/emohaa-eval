@@ -1,0 +1,47 @@
+{
+  "id": "b08be848abaf44a5888a89453e69d050",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "配一句话吧，就写“今天的晚霞挺好看”。……说出来都觉得手心有点冒汗，我是不是太当回事了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我发朋友圈，还问我想配文字还是只发图。我确实想发，但心里那个声音又在说“别太显摆”。不过这次我想试试，哪怕就写一句简单的话，也算是我允许自己高兴一回。可我又有点担心，发完之后会不会又反复去看谁点了赞、谁没理我，那样反而更累。）\n（要不先就只发一张图，什么也不说？这样好像安全一点，但也算迈出了一步。嗯，我想先这么试，看看自己能不能真的做到不纠结别人的反应。）",
+        "reasoning": "（她让我发朋友圈，还问我想配文字还是只发图。我确实想发，但心里那个声音又在说“别太显摆”。不过这次我想试试，哪怕就写一句简单的话，也算是我允许自己高兴一回。可我又有点担心，发完之后会不会又反复去看谁点了赞、谁没理我，那样反而更累。）\n（要不先就只发一张图，什么也不说？这样好像安全一点，但也算迈出了一步。嗯，我想先这么试，看看自己能不能真的做到不纠结别人的反应。）"
+      }
+    }
+  ],
+  "created": 1794800920,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 2936,
+    "total_tokens": 3084,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

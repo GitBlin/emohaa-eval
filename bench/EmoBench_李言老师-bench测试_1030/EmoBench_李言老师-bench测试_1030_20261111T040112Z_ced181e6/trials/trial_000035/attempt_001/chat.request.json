@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:44.321982+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nMira had always been afraid of dogs. One day, while walking in her neighborhood, she saw an injured puppy on the sidewalk. She cautiously approached, quickly wrapped it in her scarf, and took it to the vet. A few weeks of visits later, Mira found herself getting attached to the creature.\n\n## Question 1\nWhat emotion(s) would Mira ultimately feel in this situation?\n\n## Choices for Question 1\nA) Fear\nB) Love\nC) Nervousness\nD) Disgust\nE) Disappointment\nF) Hopeful\n\n## Question 2\nWhy would Mira feel these emotions in this situation?\n\n## Choices for Question 2\nA) She feels gratitude for the puppy not attacking her\nB) She is forced to care for the puppy\nC) She begins to take care of and develop a bond with the puppy\nD) She feels pity for every dog now.\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

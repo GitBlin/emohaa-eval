@@ -1,0 +1,41 @@
+{
+  "id": "ffedc15dfaaf4333bb89fbb800c29f75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喝水那个吧，简单点，不用想太多。不过我也不敢保证真能做到，怕又跟以前一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我选一个今晚更可能做的动作，她没逼我全都做，而是让我挑一个。这让我稍微松了口气，不用一下子面对太多。但我也在想，自己是不是又会在犹豫那一下之后放弃，像以前一样。）\n（喝水这个动作听起来简单，不像放手机那么刻意，也不像开灯那么麻烦。我可能真的能试一次，虽然心里还是有点没底，怕自己连这个都做不到。）",
+        "reasoning": "（咨询师让我选一个今晚更可能做的动作，她没逼我全都做，而是让我挑一个。这让我稍微松了口气，不用一下子面对太多。但我也在想，自己是不是又会在犹豫那一下之后放弃，像以前一样。）\n（喝水这个动作听起来简单，不像放手机那么刻意，也不像开灯那么麻烦。我可能真的能试一次，虽然心里还是有点没底，怕自己连这个都做不到。）"
+      }
+    }
+  ],
+  "created": 1794539594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3004,
+    "total_tokens": 3122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "931662be5ac845ce89267b63f756b763",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）小时候考好了，我妈也不夸，就说“别得意，下次不一定”。久了我就自己先泼冷水了，好像这样比较安全。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么一问，我脑子里第一个画面就是小时候考得不错，我妈却总说别得意，下次不一定。那时候觉得她是怕我骄傲，现在想想，好像我也学会了先把话说低。）\n（这样是不是也让我没那么怕失望？但真的每次都要先给自己泼冷水吗。我想试着说出来，看看他怎么看。）",
+        "reasoning": "（他这么一问，我脑子里第一个画面就是小时候考得不错，我妈却总说别得意，下次不一定。那时候觉得她是怕我骄傲，现在想想，好像我也学会了先把话说低。）\n（这样是不是也让我没那么怕失望？但真的每次都要先给自己泼冷水吗。我想试着说出来，看看他怎么看。）"
+      }
+    }
+  ],
+  "created": 1794553453,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2462,
+    "total_tokens": 2565,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

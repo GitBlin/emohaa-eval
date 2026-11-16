@@ -1,0 +1,41 @@
+{
+  "id": "7c6770299edd4177ab12b29473cb947c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……不想让他多想吧。他其实挺尊重我的，可我总觉得说出来会变成他的负担。我也不知道怎么说清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在确认保密原则后，追问丈夫不知道我来咨询的顾虑。这让我有点紧张，不知道该怎么回答。其实我还没准备好说太多，只是觉得说出来会让他有压力。）\n（我可能先含糊带过，把话题拉回到自己身上，说不太清楚怎么讲。这样既回答了问题，又不会深入太多。）",
+        "reasoning": "（咨询师在确认保密原则后，追问丈夫不知道我来咨询的顾虑。这让我有点紧张，不知道该怎么回答。其实我还没准备好说太多，只是觉得说出来会让他有压力。）\n（我可能先含糊带过，把话题拉回到自己身上，说不太清楚怎么讲。这样既回答了问题，又不会深入太多。）"
+      }
+    }
+  ],
+  "created": 1794554654,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1217,
+    "total_tokens": 1316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "579843b603094530b94b18dc50c25dce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想找个周末，两个人都放松的时候吧。先在家把那句话练一遍，也许就没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我什么时候开口，我其实心里是有点数了，可还是发虚。不能随便说个时间，不然到时候又缩回去。得找个两个人都放松的时候，这样我也许能说出口。）\n（他最后那句话让我觉得被推了一把，但不是逼我。我想先试试把那句话在家里说一遍，至少别到时候卡住。希望到时候我能撑住。）",
+        "reasoning": "（他问我什么时候开口，我其实心里是有点数了，可还是发虚。不能随便说个时间，不然到时候又缩回去。得找个两个人都放松的时候，这样我也许能说出口。）\n（他最后那句话让我觉得被推了一把，但不是逼我。我想先试试把那句话在家里说一遍，至少别到时候卡住。希望到时候我能撑住。）"
+      }
+    }
+  ],
+  "created": 1794555632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3397,
+    "total_tokens": 3501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

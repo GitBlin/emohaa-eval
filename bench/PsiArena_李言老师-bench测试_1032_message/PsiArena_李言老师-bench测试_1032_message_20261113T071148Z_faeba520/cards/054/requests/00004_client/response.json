@@ -1,0 +1,41 @@
+{
+  "id": "3a9d17dcb7d645a4b18c24d3585f4ba1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上最乱。大的磨磨蹭蹭不肯穿衣服，我催她，她就哭，小的在旁边也跟着闹。我一边弄一边看时间，心里急得不行……唉，说了好像也没什么用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我早上家里的情况，这让我想起每天最混乱的那个时候。她好像很关注我的感受，但我还不确定能不能完全信任她。先说说表面上的事吧，别一下子讲太深。）\n（早上确实是最难熬的，女儿磨蹭，儿子又闹，我一个人根本顾不过来。可这些说出来好像也没什么用，哪个妈妈不是这样过来的呢？可能真的是我做得不够好。）",
+        "reasoning": "（咨询师问我早上家里的情况，这让我想起每天最混乱的那个时候。她好像很关注我的感受，但我还不确定能不能完全信任她。先说说表面上的事吧，别一下子讲太深。）\n（早上确实是最难熬的，女儿磨蹭，儿子又闹，我一个人根本顾不过来。可这些说出来好像也没什么用，哪个妈妈不是这样过来的呢？可能真的是我做得不够好。）"
+      }
+    }
+  ],
+  "created": 1794556218,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1185,
+    "total_tokens": 1318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

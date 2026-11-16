@@ -1,0 +1,41 @@
+{
+  "id": "96b69764d2b0420b8394021151b2dc0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一下）有次考试没考好，我爸说“你看看你，就这点出息”。其实过去很多年了，但有时候一想起来，心里还是堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起小时候没做好被说的事，让我有点难受。那个考试的画面一下就冒出来了，其实我一直不太愿意去想。）\n（我爸那句话，到现在都像根刺。我明明已经很努力了，可在他眼里好像永远差一点。说起来还是有点委屈，也有点……觉得自己是不是真的很差。）",
+        "reasoning": "（咨询师问起小时候没做好被说的事，让我有点难受。那个考试的画面一下就冒出来了，其实我一直不太愿意去想。）\n（我爸那句话，到现在都像根刺。我明明已经很努力了，可在他眼里好像永远差一点。说起来还是有点委屈，也有点……觉得自己是不是真的很差。）"
+      }
+    }
+  ],
+  "created": 1794557933,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1836,
+    "total_tokens": 1941,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

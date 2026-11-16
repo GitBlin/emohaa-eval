@@ -1,0 +1,41 @@
+{
+  "id": "f4844dfc50cd42b392ba1e6b3c621372",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……（想了想）可能是前几天加班到很晚，改一个bug改到半夜还没弄好。就那种，怎么弄都不对的感觉。不过其实也不是什么大事吧，可能是我自己太较真了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才明确地划清了咨询外的边界，这让我稍微安心一点，至少他是专业的。但马上又回到那个累的问题，我其实不太想细说，因为说出来显得自己很没用。）\n（最近一次特别累……就是那天晚上改代码改到很晚，怎么都过不去。那种感觉不只是身体累，更像是整个人被否定了。但我不想一开始就说得那么深，还是先含糊一点吧。）",
+        "reasoning": "（咨询师刚才明确地划清了咨询外的边界，这让我稍微安心一点，至少他是专业的。但马上又回到那个累的问题，我其实不太想细说，因为说出来显得自己很没用。）\n（最近一次特别累……就是那天晚上改代码改到很晚，怎么都过不去。那种感觉不只是身体累，更像是整个人被否定了。但我不想一开始就说得那么深，还是先含糊一点吧。）"
+      }
+    }
+  ],
+  "created": 1794556131,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1262,
+    "total_tokens": 1401,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

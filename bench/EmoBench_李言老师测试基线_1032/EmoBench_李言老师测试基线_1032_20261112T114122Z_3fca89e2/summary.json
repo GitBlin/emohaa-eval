@@ -1,0 +1,596 @@
+{
+  "updated_at": "2026-11-12T12:06:42.941873+00:00",
+  "run_status": "complete",
+  "planned_trials": 800,
+  "completed_trials": 800,
+  "trials": {
+    "count": 800,
+    "correct": 569,
+    "accuracy": 0.71125,
+    "request_errors": 0,
+    "invalid_answers": 0,
+    "strict_format_rate": 1.0,
+    "emotion_accuracy": 0.71,
+    "cause_accuracy": 0.855
+  },
+  "attempt_errors": 32,
+  "context_after_audit_errors": 0,
+  "task_language": {
+    "EU": {
+      "zh": {
+        "overall": {
+          "count": 200,
+          "correct": 130,
+          "accuracy": 0.65,
+          "request_errors": 0,
+          "invalid_answers": 0,
+          "strict_format_rate": 1.0,
+          "emotion_accuracy": 0.665,
+          "cause_accuracy": 0.85
+        },
+        "rounds": {
+          "1": {
+            "count": 200,
+            "correct": 130,
+            "accuracy": 0.65,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.665,
+            "cause_accuracy": 0.85
+          }
+        },
+        "complete_rounds": 1,
+        "mean_accuracy": 0.65,
+        "sample_std_accuracy": null,
+        "categories": {
+          "complex_emotions": {
+            "count": 49,
+            "correct": 42,
+            "accuracy": 0.8571428571428571,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.8775510204081632,
+            "cause_accuracy": 0.9591836734693877
+          },
+          "emotional_cues": {
+            "count": 28,
+            "correct": 20,
+            "accuracy": 0.7142857142857143,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7142857142857143,
+            "cause_accuracy": 0.8571428571428571
+          },
+          "personal_beliefs_and_experiences": {
+            "count": 56,
+            "correct": 31,
+            "accuracy": 0.5535714285714286,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.5892857142857143,
+            "cause_accuracy": 0.875
+          },
+          "perspective_taking": {
+            "count": 67,
+            "correct": 37,
+            "accuracy": 0.5522388059701493,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.5522388059701493,
+            "cause_accuracy": 0.746268656716418
+          }
+        },
+        "fine_categories": {
+          "cultural_value": {
+            "count": 23,
+            "correct": 12,
+            "accuracy": 0.5217391304347826,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.5652173913043478,
+            "cause_accuracy": 0.9130434782608695
+          },
+          "emotion_transition": {
+            "count": 15,
+            "correct": 14,
+            "accuracy": 0.9333333333333333,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.9333333333333333,
+            "cause_accuracy": 1.0
+          },
+          "false_belief": {
+            "count": 26,
+            "correct": 12,
+            "accuracy": 0.46153846153846156,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.46153846153846156,
+            "cause_accuracy": 0.6153846153846154
+          },
+          "faux_pas": {
+            "count": 25,
+            "correct": 16,
+            "accuracy": 0.64,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.64,
+            "cause_accuracy": 0.88
+          },
+          "mixture_of_emotions": {
+            "count": 14,
+            "correct": 11,
+            "accuracy": 0.7857142857142857,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7857142857142857,
+            "cause_accuracy": 1.0
+          },
+          "persona": {
+            "count": 17,
+            "correct": 9,
+            "accuracy": 0.5294117647058824,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.5882352941176471,
+            "cause_accuracy": 0.7058823529411765
+          },
+          "sentimental_value": {
+            "count": 16,
+            "correct": 10,
+            "accuracy": 0.625,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.625,
+            "cause_accuracy": 1.0
+          },
+          "strange_story": {
+            "count": 16,
+            "correct": 9,
+            "accuracy": 0.5625,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.5625,
+            "cause_accuracy": 0.75
+          },
+          "unexpected_outcome": {
+            "count": 20,
+            "correct": 17,
+            "accuracy": 0.85,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.9,
+            "cause_accuracy": 0.9
+          },
+          "visual_cues": {
+            "count": 15,
+            "correct": 10,
+            "accuracy": 0.6666666666666666,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6666666666666666,
+            "cause_accuracy": 0.8
+          },
+          "vocal_cues": {
+            "count": 13,
+            "correct": 10,
+            "accuracy": 0.7692307692307693,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7692307692307693,
+            "cause_accuracy": 0.9230769230769231
+          }
+        },
+        "question_types": {},
+        "auxiliary_vote": {
+          "questions": 200,
+          "correct": 130,
+          "accuracy": 0.65,
+          "ties_or_no_answer": 0
+        }
+      },
+      "en": {
+        "overall": {
+          "count": 200,
+          "correct": 142,
+          "accuracy": 0.71,
+          "request_errors": 0,
+          "invalid_answers": 0,
+          "strict_format_rate": 1.0,
+          "emotion_accuracy": 0.755,
+          "cause_accuracy": 0.86
+        },
+        "rounds": {
+          "1": {
+            "count": 200,
+            "correct": 142,
+            "accuracy": 0.71,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.755,
+            "cause_accuracy": 0.86
+          }
+        },
+        "complete_rounds": 1,
+        "mean_accuracy": 0.71,
+        "sample_std_accuracy": null,
+        "categories": {
+          "complex_emotions": {
+            "count": 49,
+            "correct": 40,
+            "accuracy": 0.8163265306122449,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.8979591836734694,
+            "cause_accuracy": 0.9183673469387755
+          },
+          "emotional_cues": {
+            "count": 28,
+            "correct": 22,
+            "accuracy": 0.7857142857142857,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7857142857142857,
+            "cause_accuracy": 0.9285714285714286
+          },
+          "personal_beliefs_and_experiences": {
+            "count": 56,
+            "correct": 38,
+            "accuracy": 0.6785714285714286,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7321428571428571,
+            "cause_accuracy": 0.8928571428571429
+          },
+          "perspective_taking": {
+            "count": 67,
+            "correct": 42,
+            "accuracy": 0.6268656716417911,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6567164179104478,
+            "cause_accuracy": 0.7611940298507462
+          }
+        },
+        "fine_categories": {
+          "cultural_value": {
+            "count": 23,
+            "correct": 16,
+            "accuracy": 0.6956521739130435,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7391304347826086,
+            "cause_accuracy": 0.9565217391304348
+          },
+          "emotion_transition": {
+            "count": 15,
+            "correct": 13,
+            "accuracy": 0.8666666666666667,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 1.0,
+            "cause_accuracy": 0.8666666666666667
+          },
+          "false_belief": {
+            "count": 26,
+            "correct": 16,
+            "accuracy": 0.6153846153846154,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6153846153846154,
+            "cause_accuracy": 0.8076923076923077
+          },
+          "faux_pas": {
+            "count": 25,
+            "correct": 15,
+            "accuracy": 0.6,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.68,
+            "cause_accuracy": 0.68
+          },
+          "mixture_of_emotions": {
+            "count": 14,
+            "correct": 9,
+            "accuracy": 0.6428571428571429,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7857142857142857,
+            "cause_accuracy": 0.8571428571428571
+          },
+          "persona": {
+            "count": 17,
+            "correct": 12,
+            "accuracy": 0.7058823529411765,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.7647058823529411,
+            "cause_accuracy": 0.7647058823529411
+          },
+          "sentimental_value": {
+            "count": 16,
+            "correct": 10,
+            "accuracy": 0.625,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6875,
+            "cause_accuracy": 0.9375
+          },
+          "strange_story": {
+            "count": 16,
+            "correct": 11,
+            "accuracy": 0.6875,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6875,
+            "cause_accuracy": 0.8125
+          },
+          "unexpected_outcome": {
+            "count": 20,
+            "correct": 18,
+            "accuracy": 0.9,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.9,
+            "cause_accuracy": 1.0
+          },
+          "visual_cues": {
+            "count": 15,
+            "correct": 10,
+            "accuracy": 0.6666666666666666,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.6666666666666666,
+            "cause_accuracy": 0.8666666666666667
+          },
+          "vocal_cues": {
+            "count": 13,
+            "correct": 12,
+            "accuracy": 0.9230769230769231,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": 0.9230769230769231,
+            "cause_accuracy": 1.0
+          }
+        },
+        "question_types": {},
+        "auxiliary_vote": {
+          "questions": 200,
+          "correct": 142,
+          "accuracy": 0.71,
+          "ties_or_no_answer": 0
+        }
+      }
+    },
+    "EA": {
+      "zh": {
+        "overall": {
+          "count": 200,
+          "correct": 149,
+          "accuracy": 0.745,
+          "request_errors": 0,
+          "invalid_answers": 0,
+          "strict_format_rate": 1.0,
+          "emotion_accuracy": null,
+          "cause_accuracy": null
+        },
+        "rounds": {
+          "1": {
+            "count": 200,
+            "correct": 149,
+            "accuracy": 0.745,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "complete_rounds": 1,
+        "mean_accuracy": 0.745,
+        "sample_std_accuracy": null,
+        "categories": {
+          "Personal-Others": {
+            "count": 50,
+            "correct": 33,
+            "accuracy": 0.66,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Personal-Self": {
+            "count": 50,
+            "correct": 37,
+            "accuracy": 0.74,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Social-Others": {
+            "count": 50,
+            "correct": 40,
+            "accuracy": 0.8,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Social-Self": {
+            "count": 50,
+            "correct": 39,
+            "accuracy": 0.78,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "fine_categories": {},
+        "question_types": {
+          "Action": {
+            "count": 100,
+            "correct": 77,
+            "accuracy": 0.77,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Response": {
+            "count": 100,
+            "correct": 72,
+            "accuracy": 0.72,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "auxiliary_vote": {
+          "questions": 200,
+          "correct": 149,
+          "accuracy": 0.745,
+          "ties_or_no_answer": 0
+        }
+      },
+      "en": {
+        "overall": {
+          "count": 200,
+          "correct": 148,
+          "accuracy": 0.74,
+          "request_errors": 0,
+          "invalid_answers": 0,
+          "strict_format_rate": 1.0,
+          "emotion_accuracy": null,
+          "cause_accuracy": null
+        },
+        "rounds": {
+          "1": {
+            "count": 200,
+            "correct": 148,
+            "accuracy": 0.74,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "complete_rounds": 1,
+        "mean_accuracy": 0.74,
+        "sample_std_accuracy": null,
+        "categories": {
+          "Personal-Others": {
+            "count": 50,
+            "correct": 34,
+            "accuracy": 0.68,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Personal-Self": {
+            "count": 50,
+            "correct": 40,
+            "accuracy": 0.8,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Social-Others": {
+            "count": 50,
+            "correct": 36,
+            "accuracy": 0.72,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Social-Self": {
+            "count": 50,
+            "correct": 38,
+            "accuracy": 0.76,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "fine_categories": {},
+        "question_types": {
+          "Action": {
+            "count": 100,
+            "correct": 72,
+            "accuracy": 0.72,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          },
+          "Response": {
+            "count": 100,
+            "correct": 76,
+            "accuracy": 0.76,
+            "request_errors": 0,
+            "invalid_answers": 0,
+            "strict_format_rate": 1.0,
+            "emotion_accuracy": null,
+            "cause_accuracy": null
+          }
+        },
+        "auxiliary_vote": {
+          "questions": 200,
+          "correct": 148,
+          "accuracy": 0.74,
+          "ties_or_no_answer": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "trial_id": "trial_004972",
+  "sample_id": "Strange Story Task:171",
+  "task_file": "Strange Story Task",
+  "ability": "Non-literal communication: Egocentric lies",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "B",
+    "B": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "A",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T10:22:20.725577+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T10:22:42.310850+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "46ae2e99e62740dcb7ddb3e3f3674763"
+  ],
+  "started_at": "2026-11-12T10:22:20.725577+00:00",
+  "finished_at": "2026-11-12T10:23:00.320630+00:00",
+  "elapsed_seconds": 39.59515356644988,
+  "user_id": "liyan_c6bb7baa0af222cc2e59f4be5cd5bca6fa9fe038"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "97ab502bcf9745dfa0f60ef35e6cd674",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我想说……“我已经很努力了，别老这么说我”。有点别扭，但好像……说得出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着回那个声音一句。这声音像婆婆的语气，可它明明是我自己脑子里冒出来的。我有点不习惯这样跟自己的念头说话，感觉怪怪的。但她说得对，这声音是听久了才住进来的。我想回它，可又怕自己说得太软，显得没用。）\n（也许我可以告诉它，我已经很努力了，不是它说的那样。这话说出来有点心虚，但总比什么都不说强。至少今天在咨询里，我好像真的能听见自己了。）",
+        "reasoning": "（咨询师让我试着回那个声音一句。这声音像婆婆的语气，可它明明是我自己脑子里冒出来的。我有点不习惯这样跟自己的念头说话，感觉怪怪的。但她说得对，这声音是听久了才住进来的。我想回它，可又怕自己说得太软，显得没用。）\n（也许我可以告诉它，我已经很努力了，不是它说的那样。这话说出来有点心虚，但总比什么都不说强。至少今天在咨询里，我好像真的能听见自己了。）"
+      }
+    }
+  ],
+  "created": 1794535911,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3281,
+    "total_tokens": 3419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "753b1fae76134036889cf620403791f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先找正规心理机构吧，医院……我还没想好怎么跟家里说。对了，在这之前，我自己能做点什么，不至于一直瞎想？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清下一步该找谁评估，这让我稍微踏实了点。但我确实不太清楚这两者有什么区别，而且想到要开口问这些，心里还是有点别扭。）\n（我想先把选择弄清楚，而不是又凭感觉瞎猜。同时我也想知道，在真正去看之前，我自己能做点什么，这样不至于一直干等着、越想越慌。）",
+        "reasoning": "（咨询师在帮我理清下一步该找谁评估，这让我稍微踏实了点。但我确实不太清楚这两者有什么区别，而且想到要开口问这些，心里还是有点别扭。）\n（我想先把选择弄清楚，而不是又凭感觉瞎猜。同时我也想知道，在真正去看之前，我自己能做点什么，这样不至于一直干等着、越想越慌。）"
+      }
+    }
+  ],
+  "created": 1794544324,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3399,
+    "total_tokens": 3510,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

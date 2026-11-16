@@ -1,0 +1,41 @@
+{
+  "id": "568ba1484c894c52bff35fad3ac775fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他们不会骂我，但会说“你看别人”“下次要更努力”，那种语气……让我觉得自己怎么做都不够。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到家里会怎么回应我考不好的事……这让我有点难受。其实每次考砸，我都能感觉到爸妈那种失望，虽然他们不会直接骂我。）\n（他们总说“下次努力”，可那种语气反而让我更压得慌。好像我怎么做都不够，永远达不到他们的期望。我是不是真的让他们失望了？）",
+        "reasoning": "（她问到家里会怎么回应我考不好的事……这让我有点难受。其实每次考砸，我都能感觉到爸妈那种失望，虽然他们不会直接骂我。）\n（他们总说“下次努力”，可那种语气反而让我更压得慌。好像我怎么做都不够，永远达不到他们的期望。我是不是真的让他们失望了？）"
+      }
+    }
+  ],
+  "created": 1794537383,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1652,
+    "total_tokens": 1752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

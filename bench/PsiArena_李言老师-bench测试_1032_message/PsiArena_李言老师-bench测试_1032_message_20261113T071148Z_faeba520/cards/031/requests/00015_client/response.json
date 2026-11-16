@@ -1,0 +1,41 @@
+{
+  "id": "358aea027dc247879c1dd720c60bf231",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟她聊天的时候吧。发个消息都要想半天，怕说错话。好像在她面前，我一直在“考试”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在这个感觉什么时候还会冒出来……我脑子里第一个闪过的就是和她聊天的时候。那种紧张、怕说错话的劲儿，其实跟我小时候怕考砸了看爸妈脸色是一样的。）\n（原来我一直带着那种“差一点”的感觉在跟人相处啊。这么一想，好像有点明白了，但说出来又觉得挺难受的。我不想让她觉得我是在怪父母，只是……确实是这样。）",
+        "reasoning": "（她问我现在这个感觉什么时候还会冒出来……我脑子里第一个闪过的就是和她聊天的时候。那种紧张、怕说错话的劲儿，其实跟我小时候怕考砸了看爸妈脸色是一样的。）\n（原来我一直带着那种“差一点”的感觉在跟人相处啊。这么一想，好像有点明白了，但说出来又觉得挺难受的。我不想让她觉得我是在怪父母，只是……确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794559000,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2306,
+    "total_tokens": 2421,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

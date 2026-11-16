@@ -1,0 +1,41 @@
+{
+  "id": "3291f6c1b0c44af49eeafdfdcf03f1e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天吧，他一般早上会来问数学。不过……要是到时候我临阵退缩了，是不是就白聊了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我打算什么时候试，这让我有点紧张，好像在催着我马上行动似的。不过她语气挺平和的，应该只是想知道我有没有具体的想法。）\n（我想了想，明天他大概率还会来问数学题，这是个机会。但我也得给自己留点余地，不能逼太紧，不然可能反而不敢做了。）",
+        "reasoning": "（咨询师在问我打算什么时候试，这让我有点紧张，好像在催着我马上行动似的。不过她语气挺平和的，应该只是想知道我有没有具体的想法。）\n（我想了想，明天他大概率还会来问数学题，这是个机会。但我也得给自己留点余地，不能逼太紧，不然可能反而不敢做了。）"
+      }
+    }
+  ],
+  "created": 1794553989,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2824,
+    "total_tokens": 2925,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d21d7588a867480798bc924a25f958d7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，就一口。不过我有点担心，万一连这个都做不到，会不会又变成一件“必须完成”的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我愿不愿意下次泡茶时先只尝第一口的味道。这个提议听起来简单，但对我来说其实有点难，因为平时喝茶都是匆匆几口就去做别的事了。不过刚才聊到这里，我确实有点想试试看，能不能真的尝出味道来。）\n（但心里还是有点打鼓，怕自己做不到，又变成一种新的任务。如果连喝茶都要“必须做到”，那岂不是又给自己添了压力。所以我想先问问清楚，如果做不到会怎样，这样心里能踏实一点。）",
+        "reasoning": "（咨询师在问我愿不愿意下次泡茶时先只尝第一口的味道。这个提议听起来简单，但对我来说其实有点难，因为平时喝茶都是匆匆几口就去做别的事了。不过刚才聊到这里，我确实有点想试试看，能不能真的尝出味道来。）\n（但心里还是有点打鼓，怕自己做不到，又变成一种新的任务。如果连喝茶都要“必须做到”，那岂不是又给自己添了压力。所以我想先问问清楚，如果做不到会怎样，这样心里能踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794558502,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2872,
+    "total_tokens": 3011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

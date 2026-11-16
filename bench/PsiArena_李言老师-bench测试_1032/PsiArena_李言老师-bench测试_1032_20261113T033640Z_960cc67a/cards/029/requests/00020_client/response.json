@@ -1,0 +1,41 @@
+{
+  "id": "abf8d794705b496e8296bbd4925fd2b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "急用钱被误拦吧。（犹豫）要是有个临时解锁的办法就好了，不然真遇上事更急人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把方案细化，问我会不会担心急用钱被误拦。我得想想，其实我更怕的是半夜真有急事，比如朋友出状况需要我转钱，结果被锁住，那我会很内疚。）\n（而且我不想让这个设置变成又一条被自己骂的理由。之前买东西已经总在心里说“又没忍住”了，要是连急用钱都被挡，那感觉更糟。所以还是得留个能临时解锁的办法，心里踏实点。）",
+        "reasoning": "（咨询师在帮我把方案细化，问我会不会担心急用钱被误拦。我得想想，其实我更怕的是半夜真有急事，比如朋友出状况需要我转钱，结果被锁住，那我会很内疚。）\n（而且我不想让这个设置变成又一条被自己骂的理由。之前买东西已经总在心里说“又没忍住”了，要是连急用钱都被挡，那感觉更糟。所以还是得留个能临时解锁的办法，心里踏实点。）"
+      }
+    }
+  ],
+  "created": 1794549714,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2782,
+    "total_tokens": 2916,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

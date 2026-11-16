@@ -1,0 +1,41 @@
+{
+  "id": "be5554e750744269af44885765aae677",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是前阵子去医院做检查，结果出来以后，我一个人在走廊坐了很久。其实我丈夫也没怪我，可我反而更难受，好像对不起他家里似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次觉得“身体不争气”的具体情境，这让我有点紧张。虽然之前已经聊了一些，但提到检查结果还是让我不太想直接面对。不过既然已经开了口，也许可以稍微说一点，但不想讲太细。）\n（我想到的是那次检查，但更让我难受的是丈夫的态度。他越体谅我，我反而越觉得对不起他和他家里。这种感觉很矛盾，说出来可能显得矫情，但确实压得我喘不过气。）",
+        "reasoning": "（咨询师在问我最近一次觉得“身体不争气”的具体情境，这让我有点紧张。虽然之前已经聊了一些，但提到检查结果还是让我不太想直接面对。不过既然已经开了口，也许可以稍微说一点，但不想讲太细。）\n（我想到的是那次检查，但更让我难受的是丈夫的态度。他越体谅我，我反而越觉得对不起他和他家里。这种感觉很矛盾，说出来可能显得矫情，但确实压得我喘不过气。）"
+      }
+    }
+  ],
+  "created": 1794548631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1403,
+    "total_tokens": 1546,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

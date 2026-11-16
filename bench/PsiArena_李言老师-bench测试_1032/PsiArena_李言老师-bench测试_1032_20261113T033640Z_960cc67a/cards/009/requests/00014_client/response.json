@@ -1,0 +1,41 @@
+{
+  "id": "ce3cd2ddff084164b92618f77ecd0fa7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧，一个朋友让我帮她带孩子，我明明累得不行，还是答应了。答应了又后悔，觉得自己怎么就不能说个不。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次觉得“欠着”的具体场景，这让我一下子想到上周的事。其实说出来有点丢人，但既然都聊到这儿了，也许该说实话。）\n（我本来想说算了，可那种欠着的感觉一直压着我。明明是自己休息时间，却总觉得不答应就像做错了什么。这种感觉太熟悉了，好像从小就被教成这样。）",
+        "reasoning": "（咨询师问的是最近一次觉得“欠着”的具体场景，这让我一下子想到上周的事。其实说出来有点丢人，但既然都聊到这儿了，也许该说实话。）\n（我本来想说算了，可那种欠着的感觉一直压着我。明明是自己休息时间，却总觉得不答应就像做错了什么。这种感觉太熟悉了，好像从小就被教成这样。）"
+      }
+    }
+  ],
+  "created": 1794541456,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2129,
+    "total_tokens": 2240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c8aff61f0dbb4e21907508a9e4d8375e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不上来，有时候一进门就这样，有时候是……听到她说话之后。反正就是很累，晚上也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的时间点，好像是想帮我理清那种紧绷感是从什么时候开始的。但我其实不太想这么快就说到细节，毕竟我们才刚开始谈，我还不确定她会不会理解我的处境。）\n（而且说实话，我自己也说不清楚，有时候是一回去就难受，有时候是后来才慢慢觉得不对劲。这种模糊的感觉让我有点烦躁，又不知道该怎么表达。）",
+        "reasoning": "（咨询师在问我具体的时间点，好像是想帮我理清那种紧绷感是从什么时候开始的。但我其实不太想这么快就说到细节，毕竟我们才刚开始谈，我还不确定她会不会理解我的处境。）\n（而且说实话，我自己也说不清楚，有时候是一回去就难受，有时候是后来才慢慢觉得不对劲。这种模糊的感觉让我有点烦躁，又不知道该怎么表达。）"
+      }
+    }
+  ],
+  "created": 1794545796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1418,
+    "total_tokens": 1528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

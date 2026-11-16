@@ -1,0 +1,41 @@
+{
+  "id": "07ed9f86b57f462389677aa6c6c495d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先想到的还是我妈……虽然明知道她最难听见。不过，好像也该让我自己听见，我老是不把自己的话当回事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想被谁听见……其实第一反应还是我妈。可说出来又觉得有点可笑，明明就是她最听不见我。但好像除了她，也没有谁是我一直等着被听见的。）\n（我是不是也该把自己算进去？我好像从来没想过要听自己说话。这样一想，有点心酸，又有点说不清的轻松。）",
+        "reasoning": "（她问我最想被谁听见……其实第一反应还是我妈。可说出来又觉得有点可笑，明明就是她最听不见我。但好像除了她，也没有谁是我一直等着被听见的。）\n（我是不是也该把自己算进去？我好像从来没想过要听自己说话。这样一想，有点心酸，又有点说不清的轻松。）"
+      }
+    }
+  ],
+  "created": 1794535942,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3512,
+    "total_tokens": 3616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

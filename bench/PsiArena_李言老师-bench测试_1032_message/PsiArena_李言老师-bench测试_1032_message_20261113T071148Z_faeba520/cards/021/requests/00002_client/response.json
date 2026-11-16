@@ -1,0 +1,41 @@
+{
+  "id": "4e27af07854643ca8f9b81b519a9d41f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……说实话，我也不太确定该从哪儿说起。就是最近总觉得很累，心里堵得慌，晚上也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说咨询没有固定套路，主要是通过对话理清感受。这让我稍微放松了一点，但心里还是有点戒备。毕竟第一次见面，我不确定他能不能理解我的处境。）\n（作为家里唯一的儿子，我一直觉得自己应该扛起所有事。现在母亲病重，我更不想在外人面前显得软弱。也许我可以先模糊地提一下最近状态不好，看看他的反应。）",
+        "reasoning": "（心理咨询师说咨询没有固定套路，主要是通过对话理清感受。这让我稍微放松了一点，但心里还是有点戒备。毕竟第一次见面，我不确定他能不能理解我的处境。）\n（作为家里唯一的儿子，我一直觉得自己应该扛起所有事。现在母亲病重，我更不想在外人面前显得软弱。也许我可以先模糊地提一下最近状态不好，看看他的反应。）"
+      }
+    }
+  ],
+  "created": 1794554807,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 962,
+    "total_tokens": 1074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

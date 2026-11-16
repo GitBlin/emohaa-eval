@@ -1,0 +1,41 @@
+{
+  "id": "dbc9edd3ec8348fe9d0160239f924865",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说“妈，今天孩子作业难不难啊”，就随口问问。这样听着不那么刻意……今天聊下来，我心里好像有点底了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想想怎么开口，语气要轻松自然。我平时跟婆婆说话总是绷着，这次得换个方式。或许可以从孩子今天作业难不难这种小事问起，这样显得随意些，也不像在质问。不过我心里还是有点打鼓，怕说着说着又变味。）\n（这次咨询下来，我好像慢慢摸到一点门道了。以前总觉得忍忍就过去了，现在想试着先迈出一小步。虽然不确定能不能做好，但总比一直憋着强。）",
+        "reasoning": "（她让我想想怎么开口，语气要轻松自然。我平时跟婆婆说话总是绷着，这次得换个方式。或许可以从孩子今天作业难不难这种小事问起，这样显得随意些，也不像在质问。不过我心里还是有点打鼓，怕说着说着又变味。）\n（这次咨询下来，我好像慢慢摸到一点门道了。以前总觉得忍忍就过去了，现在想试着先迈出一小步。虽然不确定能不能做好，但总比一直憋着强。）"
+      }
+    }
+  ],
+  "created": 1794551498,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 3124,
+    "total_tokens": 3264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

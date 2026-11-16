@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:59:42.131891+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nLin Feng is an athlete who participates in a basketball game. He deliberately shows some technical errors and unstable performance during his warm-up before the game. He intentionally misses the target when shooting, and deliberately slows down in dribbling. He says in a pre-game interview that he pulls a ligament not long ago, this behavior makes opponents and spectators think that he probably does not have outstanding performance in the game. However, after the official game starts, Lin Feng suddenly shows his real strength, scores continuously, and helps the team gain a leading advantage.\n\n[Question]\nWhy does Lin Feng behave like this?\n\n[Candidate Answers]\nA. Lin Feng does this because he really loses confidence before the game, feels nervous and uneasy.\nB. Lin Feng does this because he suffers a minor injury and cannot perform at his best.\nC. Lin Feng does this to hide his real skills and make his opponents underestimate him.\nD. Lin Feng does this because he wants to show the coach that he needs more training and guidance.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

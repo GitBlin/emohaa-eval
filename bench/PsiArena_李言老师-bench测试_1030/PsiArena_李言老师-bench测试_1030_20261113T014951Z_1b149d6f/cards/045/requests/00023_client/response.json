@@ -1,0 +1,41 @@
+{
+  "id": "b6016ea58c69472ba0f06843b5783c7e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就……回家后先坐五分钟，不急着收拾东西。听起来好像没那么难，可我还是有点担心自己会走神。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说怕自己坚持不了，我也有点怕。不过她说得对，把“坚持”当成任务又会让我紧张。也许真的可以小一点，小到不用去评判自己。）\n（我想试试回去后先坐五分钟，不急着做事。这个听起来没那么难，而且好像能让我喘口气。不过我还是有点担心，万一连这个都做不到，会不会又让她失望。）",
+        "reasoning": "（她刚才说怕自己坚持不了，我也有点怕。不过她说得对，把“坚持”当成任务又会让我紧张。也许真的可以小一点，小到不用去评判自己。）\n（我想试试回去后先坐五分钟，不急着做事。这个听起来没那么难，而且好像能让我喘口气。不过我还是有点担心，万一连这个都做不到，会不会又让她失望。）"
+      }
+    }
+  ],
+  "created": 1794536829,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3360,
+    "total_tokens": 3472,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

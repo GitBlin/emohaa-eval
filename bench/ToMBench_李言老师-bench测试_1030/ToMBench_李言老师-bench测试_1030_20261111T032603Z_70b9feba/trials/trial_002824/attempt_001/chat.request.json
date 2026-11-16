@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:53.658350+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Yang's company holds a weekly meeting every Wednesday. On a certain Monday, the leader takes Xiao Wang to meet with client Director Zhang. The two of them chat happily, but they only talk about some irrelevant topics because there are disagreements on the main issues. As it approaches mealtime, the following conversation occurs: Leader: \"Director Zhang, it is almost mealtime, do you have time? I want to invite you to have a meal.\" Then the leader turns around, winks, and says to Xiao Yang: \"Xiao Yang, do we have a meeting at the unit tonight?\"\n\n[Question]\nWhat is the leader's purpose when he asks Xiao Yang this question?\n\n[Candidate Answers]\nA. The leader wants to ask if Xiao Yang is willing to skip the meeting and join them for dinner.\nB. The leader wants to ask Xiao Yang about the meeting time to arrange a meal with the client.\nC. The leader wants to understand Xiao Yang's preparation for the weekly meeting.\nD. The leader hopes Xiao Yang answers that there is a meeting tonight, so he can use this as an excuse to end the meeting.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

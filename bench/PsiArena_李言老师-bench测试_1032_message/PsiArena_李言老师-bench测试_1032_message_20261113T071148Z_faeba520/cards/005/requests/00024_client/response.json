@@ -1,0 +1,41 @@
+{
+  "id": "edd5cf17f078496dae46c92ead9a247e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以试试。烧水的时候说一句，正好也不赶时间。感觉这个计划没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把泡茶和那句“别急”连到一起，让我觉得这不是随便说说，而是真能落地的做法。我有点想试，但又怕自己坚持不了几天。）\n（不过既然都聊到这儿了，至少可以先从今晚开始，不用一下子想太远。这样说出来，心里反而踏实一点。）",
+        "reasoning": "（咨询师在帮我把泡茶和那句“别急”连到一起，让我觉得这不是随便说说，而是真能落地的做法。我有点想试，但又怕自己坚持不了几天。）\n（不过既然都聊到这儿了，至少可以先从今晚开始，不用一下子想太远。这样说出来，心里反而踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794554168,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3017,
+    "total_tokens": 3112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

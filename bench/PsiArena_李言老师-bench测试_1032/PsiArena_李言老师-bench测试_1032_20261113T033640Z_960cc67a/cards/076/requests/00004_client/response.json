@@ -1,0 +1,41 @@
+{
+  "id": "4a8b591b0f0b4e75b827868b0d71a760",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……晚上睡不好，白天像没电一样。有时候别人跟我说话，我要反应好久，嗯……你会不会觉得我说话很慢、很绕？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我是身体累还是脑子停不下来……他好像想帮我区分感受。但我现在连自己都搞不清楚，说多了怕被觉得矫情。而且他会不会像同事那样觉得我反应慢？）\n（或许可以先说晚上睡不好，这样比较具体。但得小心别让他觉得我在抱怨，或者想从他那里得到太多安慰……毕竟才刚开始。）",
+        "reasoning": "（心理咨询师问我是身体累还是脑子停不下来……他好像想帮我区分感受。但我现在连自己都搞不清楚，说多了怕被觉得矫情。而且他会不会像同事那样觉得我反应慢？）\n（或许可以先说晚上睡不好，这样比较具体。但得小心别让他觉得我在抱怨，或者想从他那里得到太多安慰……毕竟才刚开始。）"
+      }
+    }
+  ],
+  "created": 1794545129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1209,
+    "total_tokens": 1326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

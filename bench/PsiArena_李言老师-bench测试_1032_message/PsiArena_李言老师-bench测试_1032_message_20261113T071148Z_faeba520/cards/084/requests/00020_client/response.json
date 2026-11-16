@@ -1,0 +1,41 @@
+{
+  "id": "ef5bd6a1bc824c098787c08aeee2e193",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（苦笑）它会说，你这样下去就完了，别人都在往前跑，就你在原地松劲。挺严厉的，跟我爸一个调子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问那个声音会说什么。这让我有点紧张，因为平时我总想把它压下去，不太愿意认真去听。）\n（可刚才聊了那么多，我好像能说出来一点了。那个声音总在我放松的时候冒出来，说我这样不行，会被人看不起，会变成没用的人。听起来很严厉，像是从小听惯了的调子。）",
+        "reasoning": "（她问那个声音会说什么。这让我有点紧张，因为平时我总想把它压下去，不太愿意认真去听。）\n（可刚才聊了那么多，我好像能说出来一点了。那个声音总在我放松的时候冒出来，说我这样不行，会被人看不起，会变成没用的人。听起来很严厉，像是从小听惯了的调子。）"
+      }
+    }
+  ],
+  "created": 1794557913,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2761,
+    "total_tokens": 2871,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d83b380ff12e456287d3d4aba5272a72",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "其实……说到家里人，我想到我妈。很奇怪，我跟她说我烦什么，她好像不太在意，可我一说自己哪里做得不好，她反而会多说几句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才没有逼我继续说家里的事，反而让我自己选，这让我稍微松了口气。也许可以试着说一点，不用一下子全抖出来。）\n（其实我心里清楚，那种不确定感最早就是跟妈妈有关的。每次我讲自己的烦恼，她好像都淡淡的，可我一说自己哪里不好，她反而会接话。这个模式我早就注意到了，只是一直没跟别人提过。）",
+        "reasoning": "（她刚才没有逼我继续说家里的事，反而让我自己选，这让我稍微松了口气。也许可以试着说一点，不用一下子全抖出来。）\n（其实我心里清楚，那种不确定感最早就是跟妈妈有关的。每次我讲自己的烦恼，她好像都淡淡的，可我一说自己哪里不好，她反而会接话。这个模式我早就注意到了，只是一直没跟别人提过。）"
+      }
+    }
+  ],
+  "created": 1794542187,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1613,
+    "total_tokens": 1733,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

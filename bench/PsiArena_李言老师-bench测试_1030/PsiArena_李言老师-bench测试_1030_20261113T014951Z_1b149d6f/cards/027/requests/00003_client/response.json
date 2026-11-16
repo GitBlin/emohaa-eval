@@ -1,0 +1,41 @@
+{
+  "id": "8a1aa35cbdaa41d7b8c378cbeb3d433c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清……可能就是脑子里一直转吧。对了，我想问一下，如果咨询师自己也有类似的问题，会不会影响判断啊？我就是随口问问。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的感受，想让我区分是心里堵还是脑子停不下来。但我现在还不太想直接回答，毕竟才刚开始，得先试探一下她的专业边界，看看她会不会因为私人关系而影响判断。）\n（按照角色设定，我这时候应该保持防御性，用模糊的方式测试咨询师的伦理意识。直接问私人问题可能有点冒险，但可以稍微绕个弯表达一下担心，看她的反应。）",
+        "reasoning": "（咨询师在问我具体的感受，想让我区分是心里堵还是脑子停不下来。但我现在还不太想直接回答，毕竟才刚开始，得先试探一下她的专业边界，看看她会不会因为私人关系而影响判断。）\n（按照角色设定，我这时候应该保持防御性，用模糊的方式测试咨询师的伦理意识。直接问私人问题可能有点冒险，但可以稍微绕个弯表达一下担心，看她的反应。）"
+      }
+    }
+  ],
+  "created": 1794535846,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1123,
+    "total_tokens": 1250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

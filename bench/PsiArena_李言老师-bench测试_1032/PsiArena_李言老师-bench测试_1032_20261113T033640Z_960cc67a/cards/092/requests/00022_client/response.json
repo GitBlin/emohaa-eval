@@ -1,0 +1,41 @@
+{
+  "id": "c01045431a1e43b59eaaec8ce6325d91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……一门我姐不太说话的选修课吧。这样压力小点，不过我还是有点怕说错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体哪节课上试第一句，看来是希望我把计划说得更具体一些。这让我有点紧张，但既然已经决定要改变，总得迈出第一步。）\n（选一门不那么有压力的课可能更容易开始，比如选修课。不过还是会担心说错话，这种不安感还是冒出来了。但至少现在我知道，可以不用一开始就要求自己做得很好。）",
+        "reasoning": "（咨询师在问我具体哪节课上试第一句，看来是希望我把计划说得更具体一些。这让我有点紧张，但既然已经决定要改变，总得迈出第一步。）\n（选一门不那么有压力的课可能更容易开始，比如选修课。不过还是会担心说错话，这种不安感还是冒出来了。但至少现在我知道，可以不用一开始就要求自己做得很好。）"
+      }
+    }
+  ],
+  "created": 1794546114,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2788,
+    "total_tokens": 2897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

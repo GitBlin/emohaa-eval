@@ -1,0 +1,41 @@
+{
+  "id": "a61b15a39ad846bb9887e19f797ba92c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是小时候吧。我记得有一次拿了奖状回家，他们看了一眼就放一边了，说忙。后来我就觉得，得做点“有用”的事，他们才会看我一眼。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种自我怀疑是从什么时候开始的……其实这个问题我自己也想过很多次。小时候的事一下子就冒出来了，那时候爸妈总是很忙，我好像很早就学会了不给他们添麻烦。）\n（说起来也奇怪，明明是件小事，可我记得特别清楚。那次我拿着奖状回家，他们只是看了一眼就忙别的去了。我那时候就想，是不是我做得还不够好，他们才不在意。后来就慢慢觉得，我得做点什么有用的才行，光是自己努力好像没什么用。）",
+        "reasoning": "（她问我这种自我怀疑是从什么时候开始的……其实这个问题我自己也想过很多次。小时候的事一下子就冒出来了，那时候爸妈总是很忙，我好像很早就学会了不给他们添麻烦。）\n（说起来也奇怪，明明是件小事，可我记得特别清楚。那次我拿着奖状回家，他们只是看了一眼就忙别的去了。我那时候就想，是不是我做得还不够好，他们才不在意。后来就慢慢觉得，我得做点什么有用的才行，光是自己努力好像没什么用。）"
+      }
+    }
+  ],
+  "created": 1794537352,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1688,
+    "total_tokens": 1829,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

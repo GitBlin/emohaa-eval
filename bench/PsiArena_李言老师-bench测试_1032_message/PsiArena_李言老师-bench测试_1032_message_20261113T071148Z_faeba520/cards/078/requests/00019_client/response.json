@@ -1,0 +1,41 @@
+{
+  "id": "50c5b63bcc7e4b088bace91ace83b257",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对朋友……我肯定不会那么说，大概会说“你已经够累了，歇会儿没事”。这么一比，我对自己确实太狠了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把对自己说的话换成对朋友说，这让我有点意外。我对朋友肯定说不出那么狠的话……可对自己，好像就理所当然地苛刻。这个对比让我心里有点发酸，也有点说不出的别扭。）\n（也许我确实该试着对自己宽容一点，但真要做起来，又觉得不习惯。先试着说一句不那么凶的话吧，虽然说出来还是有点难为情。）",
+        "reasoning": "（她让我把对自己说的话换成对朋友说，这让我有点意外。我对朋友肯定说不出那么狠的话……可对自己，好像就理所当然地苛刻。这个对比让我心里有点发酸，也有点说不出的别扭。）\n（也许我确实该试着对自己宽容一点，但真要做起来，又觉得不习惯。先试着说一句不那么凶的话吧，虽然说出来还是有点难为情。）"
+      }
+    }
+  ],
+  "created": 1794557670,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2563,
+    "total_tokens": 2678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

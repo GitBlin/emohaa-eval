@@ -1,0 +1,41 @@
+{
+  "id": "13e01fd2427340e1b88588a92f813516",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，第一次。之前……其实学校里有辅导员，但我不太敢去。你们这里说的保密，是真的什么都不会告诉别人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我以前有没有类似经历，还强调不需要特别准备……这让我稍微放松了一点，但还是不太确定该说多少。毕竟第一次见面，我习惯性地会先观察对方是不是真的可靠。）\n（提到学校辅导员，其实是想试探一下她会不会像那些人一样敷衍我。而且我也在犹豫要不要直接问保密的事，毕竟工作上的事很敏感……但先说到这里吧，看看她怎么回应。）",
+        "reasoning": "（咨询师在问我以前有没有类似经历，还强调不需要特别准备……这让我稍微放松了一点，但还是不太确定该说多少。毕竟第一次见面，我习惯性地会先观察对方是不是真的可靠。）\n（提到学校辅导员，其实是想试探一下她会不会像那些人一样敷衍我。而且我也在犹豫要不要直接问保密的事，毕竟工作上的事很敏感……但先说到这里吧，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1794545120,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 996,
+    "total_tokens": 1115,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

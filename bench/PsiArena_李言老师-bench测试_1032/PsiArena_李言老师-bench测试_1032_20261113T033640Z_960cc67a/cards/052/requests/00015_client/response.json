@@ -1,0 +1,41 @@
+{
+  "id": "5ab5c4b36ffa4feda6f10a27f96bcedd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "只给自己看的话……可能是先把最基础的功能写出来吧，就几行代码那种。嗯，我试试不要求它一开始就完美。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我愿意先做哪一小步，还特意说只给自己看不告诉别人。这个提议让我稍微松了口气，好像没那么大压力了。但心里还是有点没底，怕自己又像以前一样想太多然后放弃。）\n（不过既然只是写几行代码，而且不用给任何人看，那应该……可以试试？我得把标准压到最低，不然又会卡住。）",
+        "reasoning": "（咨询师在问我愿意先做哪一小步，还特意说只给自己看不告诉别人。这个提议让我稍微松了口气，好像没那么大压力了。但心里还是有点没底，怕自己又像以前一样想太多然后放弃。）\n（不过既然只是写几行代码，而且不用给任何人看，那应该……可以试试？我得把标准压到最低，不然又会卡住。）"
+      }
+    }
+  ],
+  "created": 1794543761,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2329,
+    "total_tokens": 2446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

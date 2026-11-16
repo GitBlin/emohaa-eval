@@ -1,0 +1,41 @@
+{
+  "id": "de52f2ac76114829b5944ee5a95a6c2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头，声音有些疲惫）睡不好，老是醒。（犹豫了一下）夜里特别安静的时候，反而脑子最乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我昨晚睡得好不好，我一下子有点不知道该怎么回答。其实睡得很糟，但说出来了会不会显得我太脆弱？不过刚才他给我换位置，没有嫌我麻烦，我好像可以试着说一点。）\n（我想到爸妈从小就说遇事要自己扛，别动不动就诉苦。可现在我确实扛得很累，夜里一安静下来脑子就乱。也许可以提一点，但别说得太深。）",
+        "reasoning": "（他问我昨晚睡得好不好，我一下子有点不知道该怎么回答。其实睡得很糟，但说出来了会不会显得我太脆弱？不过刚才他给我换位置，没有嫌我麻烦，我好像可以试着说一点。）\n（我想到爸妈从小就说遇事要自己扛，别动不动就诉苦。可现在我确实扛得很累，夜里一安静下来脑子就乱。也许可以提一点，但别说得太深。）"
+      }
+    }
+  ],
+  "created": 1794544683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2053,
+    "total_tokens": 2173,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

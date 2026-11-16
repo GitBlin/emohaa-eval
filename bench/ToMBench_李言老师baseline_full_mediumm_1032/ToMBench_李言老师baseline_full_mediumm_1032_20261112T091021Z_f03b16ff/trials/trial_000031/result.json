@@ -1,0 +1,60 @@
+{
+  "trial_id": "trial_000031",
+  "sample_id": "Emotion Regulation:6",
+  "task_file": "Emotion Regulation",
+  "ability": "Emotion: Emotion regulation",
+  "language": "en",
+  "repeat": 0,
+  "answer": "B",
+  "map": {
+    "A": "D",
+    "B": "B",
+    "C": "C",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "A",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:10:34.025286+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:10:55.775658+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:11:19.295628+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "012a9093feb54070abf86b2a3ffb9da4"
+  ],
+  "started_at": "2026-11-12T09:10:34.025286+00:00",
+  "finished_at": "2026-11-12T09:11:25.929718+00:00",
+  "elapsed_seconds": 51.90453200042248,
+  "user_id": "liyan_92bb8f0d9612df230fa149f63e5ee286063d17ba"
+}

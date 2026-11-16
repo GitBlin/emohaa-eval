@@ -1,0 +1,41 @@
+{
+  "id": "29609febacf34eabb864612e7d71e0d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“我今天不太好”这句话我能说出口，但可能说完就会紧张。是不是还得讲清楚我希望他怎么做，不然他又会觉得我在闹？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意先对他说一句“我今天不太好”。这句话听起来简单，可对我来说像要把自己最脆弱的地方摊开。我第一反应是抗拒，怕他接不住，或者只回个“怎么了”就没下文了。）\n（但我也知道，一直等别人猜确实很累。也许我可以试着把话说得具体一点，不是只丢一句情绪，而是告诉他我现在需要什么。这样至少不会显得像在指责他。）",
+        "reasoning": "（她问我愿不愿意先对他说一句“我今天不太好”。这句话听起来简单，可对我来说像要把自己最脆弱的地方摊开。我第一反应是抗拒，怕他接不住，或者只回个“怎么了”就没下文了。）\n（但我也知道，一直等别人猜确实很累。也许我可以试着把话说得具体一点，不是只丢一句情绪，而是告诉他我现在需要什么。这样至少不会显得像在指责他。）"
+      }
+    }
+  ],
+  "created": 1794542962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2494,
+    "total_tokens": 2617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ff8ce8d6bf724e529a9a78eac8435c6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就不吭声，回自己屋里待着。解释也没用，她一个人把我拉扯大，我不想跟她吵……可心里憋着，挺难受的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在家里被说的时候怎么应对。以前我都不太想提家里的事，但刚才说了那些，好像也没那么难开口了。其实每次我妈一说我，我心里就堵得慌，可又不敢顶嘴，怕她更伤心。）\n（她一个人把我拉扯大不容易，我要是跟她吵，她肯定觉得白养我了。所以我就忍着，什么都不说，回自己屋里待着。可忍着忍着，那些话反而在心里越积越多，晚上更睡不着。）",
+        "reasoning": "（她问我在家里被说的时候怎么应对。以前我都不太想提家里的事，但刚才说了那些，好像也没那么难开口了。其实每次我妈一说我，我心里就堵得慌，可又不敢顶嘴，怕她更伤心。）\n（她一个人把我拉扯大不容易，我要是跟她吵，她肯定觉得白养我了。所以我就忍着，什么都不说，回自己屋里待着。可忍着忍着，那些话反而在心里越积越多，晚上更睡不着。）"
+      }
+    }
+  ],
+  "created": 1794538748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1681,
+    "total_tokens": 1822,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

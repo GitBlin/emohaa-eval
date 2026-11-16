@@ -1,0 +1,41 @@
+{
+  "id": "2fa1d009afca4b6db8fb90f6a0b1e173",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不是入学，是上户口……我可能刚才没说清。我想先确认一下，像我这种情况，需要额外准备什么吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师好像把话题转到入学和档案上了，可我最着急的是孩子上户口。她刚才说离婚不一定影响，这让我稍微松了口气，但心里还是没底。我得把话拉回来，先解决眼前最急的事。）\n（现在情绪比之前稳一些，但提到户口还是有点急。我想先确认自己没搞错方向，顺便问问有没有什么清单能让我照着准备，这样心里能踏实点。）",
+        "reasoning": "（心理咨询师好像把话题转到入学和档案上了，可我最着急的是孩子上户口。她刚才说离婚不一定影响，这让我稍微松了口气，但心里还是没底。我得把话拉回来，先解决眼前最急的事。）\n（现在情绪比之前稳一些，但提到户口还是有点急。我想先确认自己没搞错方向，顺便问问有没有什么清单能让我照着准备，这样心里能踏实点。）"
+      }
+    }
+  ],
+  "created": 1794544462,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3157,
+    "total_tokens": 3277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

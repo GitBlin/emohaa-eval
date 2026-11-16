@@ -1,0 +1,41 @@
+{
+  "id": "1adfea6160444ece90a8866510d5f4f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这周内……行，我试试周末。不过我怕到时候又找借口拖下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在帮我把想法落到具体的时间上。定个期限……说实话，这让我有点紧张，好像一下子被推着往前走。但仔细想想，犹豫了这么久，确实需要一个推力。）\n（这周内的话，也许可以挑个周末。周末她不用上班，散步的时候心情也放松些。不过我还是担心到时候临时退缩。得想个办法让自己没办法反悔才行。）",
+        "reasoning": "（这个咨询师在帮我把想法落到具体的时间上。定个期限……说实话，这让我有点紧张，好像一下子被推着往前走。但仔细想想，犹豫了这么久，确实需要一个推力。）\n（这周内的话，也许可以挑个周末。周末她不用上班，散步的时候心情也放松些。不过我还是担心到时候临时退缩。得想个办法让自己没办法反悔才行。）"
+      }
+    }
+  ],
+  "created": 1794557918,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2868,
+    "total_tokens": 2973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

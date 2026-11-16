@@ -1,0 +1,41 @@
+{
+  "id": "d033314b7bde4a189343e83070075eca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以从我最近老发火说起，跟她讲不是冲她，是我自己心里压着事。这样她应该能听进去一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪件小事切入……我想想，最近发火那事她也在场，从那儿说可能没那么突兀。就说我最近脾气不好，不是冲她，是单位的事压着。）\n（不过说完这句，后面怎么接？总不能又停在那儿。也许先开个头，看看她什么反应再说。反正别一上来就扯到什么变通、辞职那些大的。）",
+        "reasoning": "（她问我从哪件小事切入……我想想，最近发火那事她也在场，从那儿说可能没那么突兀。就说我最近脾气不好，不是冲她，是单位的事压着。）\n（不过说完这句，后面怎么接？总不能又停在那儿。也许先开个头，看看她什么反应再说。反正别一上来就扯到什么变通、辞职那些大的。）"
+      }
+    }
+  ],
+  "created": 1794554130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2620,
+    "total_tokens": 2734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

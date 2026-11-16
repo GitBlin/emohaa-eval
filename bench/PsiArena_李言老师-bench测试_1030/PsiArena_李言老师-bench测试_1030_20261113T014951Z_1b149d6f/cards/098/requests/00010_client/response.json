@@ -1,0 +1,41 @@
+{
+  "id": "ea657a5c9f054a4fa400a494ef2b4b47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕被我爸妈发现，然后说我。在我们家，好像做什么都得先想他们会怎么看，连上厕所都这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最担心什么，这让我想到爸妈发现我在厕所待太久的样子。他们肯定会觉得我奇怪，或者又批评我。其实我也知道这样不好，可就是控制不住自己。）\n（在家里好像做什么都得先想他们会怎么说，连上个厕所都怕被说。这种担心让我更想躲起来，但躲着又更不安。）",
+        "reasoning": "（咨询师问我最担心什么，这让我想到爸妈发现我在厕所待太久的样子。他们肯定会觉得我奇怪，或者又批评我。其实我也知道这样不好，可就是控制不住自己。）\n（在家里好像做什么都得先想他们会怎么说，连上个厕所都怕被说。这种担心让我更想躲起来，但躲着又更不安。）"
+      }
+    }
+  ],
+  "created": 1794540378,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1797,
+    "total_tokens": 1898,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

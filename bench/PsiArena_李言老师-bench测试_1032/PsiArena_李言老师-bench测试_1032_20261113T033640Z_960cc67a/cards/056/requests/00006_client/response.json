@@ -1,0 +1,41 @@
+{
+  "id": "40b9a30542c84301a88586991bc022d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候一会儿就过去了，有时候能折腾到大半夜……我是不是讲得太乱了，你会不会觉得我这人很麻烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我情绪持续多久，还帮我分析了那种感觉，好像挺懂的。但我还是有点不放心，毕竟才刚开始，不知道她会不会真的理解我。而且她会不会觉得我太麻烦，或者觉得我讲不清楚？）\n（我其实也说不清具体多久，有时候一会儿就过去了，有时候一晚上都难受。但我不想说得太细，万一她评判我呢。还是先看看她怎么反应吧。）",
+        "reasoning": "（咨询师在问我情绪持续多久，还帮我分析了那种感觉，好像挺懂的。但我还是有点不放心，毕竟才刚开始，不知道她会不会真的理解我。而且她会不会觉得我太麻烦，或者觉得我讲不清楚？）\n（我其实也说不清具体多久，有时候一会儿就过去了，有时候一晚上都难受。但我不想说得太细，万一她评判我呢。还是先看看她怎么反应吧。）"
+      }
+    }
+  ],
+  "created": 1794543961,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1409,
+    "total_tokens": 1526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

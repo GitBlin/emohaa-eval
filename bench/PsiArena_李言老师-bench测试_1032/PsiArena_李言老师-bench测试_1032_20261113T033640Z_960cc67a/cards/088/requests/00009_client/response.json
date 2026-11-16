@@ -1,0 +1,41 @@
+{
+  "id": "424b6d8740964c5793f26c9c1d9ddc20",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……我妈会说“下次努力”，语气听着特别平静，但我能感觉到她不高兴。我爸不太说话，就看看卷子，然后问我哪里错了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他在问考砸的时候爸妈什么反应……这让我想起上次数学没考好，我妈那种失望的眼神。我不想说太多细节，但好像又瞒不过去。他一直在听，也没评判我，可能可以稍微说一点。）\n（那种沉默比骂我还难受。我妈会说“下次努力”，可她说这话的时候声音都变了，我就知道我让她失望了。我爸更直接，会问我为什么别人能考好。这些事说出来好像显得我很矫情，但我真的每次考完都特别怕回家。）",
+        "reasoning": "（他在问考砸的时候爸妈什么反应……这让我想起上次数学没考好，我妈那种失望的眼神。我不想说太多细节，但好像又瞒不过去。他一直在听，也没评判我，可能可以稍微说一点。）\n（那种沉默比骂我还难受。我妈会说“下次努力”，可她说这话的时候声音都变了，我就知道我让她失望了。我爸更直接，会问我为什么别人能考好。这些事说出来好像显得我很矫情，但我真的每次考完都特别怕回家。）"
+      }
+    }
+  ],
+  "created": 1794545788,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1645,
+    "total_tokens": 1789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

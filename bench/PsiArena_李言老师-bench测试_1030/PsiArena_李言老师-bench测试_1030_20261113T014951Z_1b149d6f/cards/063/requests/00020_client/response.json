@@ -1,0 +1,41 @@
+{
+  "id": "762face750274f40a4b41a4d726d4b00",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想把要说的话提前写在纸上，到时候照着说，至少不会一慌就全乱。还有……能不能先打个电话问清楚要带什么，省得白跑？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪种准备能让我当场稳一点……我其实脑子里已经转过好多遍了。如果真能提前把话写下来，照着念，至少不会一慌就全乱。我还想到，要是能提前打个电话问清楚，心里也能有点底，不至于到了现场才发现少东西。）\n（不过我也担心，电话里人家会不会一听我的情况就态度不好。但总比到了窗口被问住强。先试试打电话吧，哪怕只是问问需要带什么材料，也算往前走了一步。）",
+        "reasoning": "（她问我哪种准备能让我当场稳一点……我其实脑子里已经转过好多遍了。如果真能提前把话写下来，照着念，至少不会一慌就全乱。我还想到，要是能提前打个电话问清楚，心里也能有点底，不至于到了现场才发现少东西。）\n（不过我也担心，电话里人家会不会一听我的情况就态度不好。但总比到了窗口被问住强。先试试打电话吧，哪怕只是问问需要带什么材料，也算往前走了一步。）"
+      }
+    }
+  ],
+  "created": 1794537828,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3150,
+    "total_tokens": 3294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

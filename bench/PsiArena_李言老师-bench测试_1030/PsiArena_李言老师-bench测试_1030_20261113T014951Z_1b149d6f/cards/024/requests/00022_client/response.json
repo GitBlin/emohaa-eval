@@ -1,0 +1,41 @@
+{
+  "id": "fd622652db1b4d1480973f9787cdf69d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说：你看，你又没做到，你就是不行。……说出来才发现，这话跟我婆婆的语气还挺像的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我咽回去之后，懊悔会跟我说什么。那种感觉我太熟了，每次忍下来，晚上一个人坐着就开始翻来覆去地想，觉得自己又没用了一回。可这次好像不太一样，我至少能先认出它来了，不像以前只会闷着难受。也许可以试着把那个声音说出来，让她知道我不是没觉察，只是还不太会应对。）\n（不过说这些的时候，心里还是有点堵。我不太想把自己说得太惨，也不想显得好像已经想通了。其实还没想通，只是模模糊糊觉得，能认出来总比完全被它吞掉强一点。）",
+        "reasoning": "（她问的是我咽回去之后，懊悔会跟我说什么。那种感觉我太熟了，每次忍下来，晚上一个人坐着就开始翻来覆去地想，觉得自己又没用了一回。可这次好像不太一样，我至少能先认出它来了，不像以前只会闷着难受。也许可以试着把那个声音说出来，让她知道我不是没觉察，只是还不太会应对。）\n（不过说这些的时候，心里还是有点堵。我不太想把自己说得太惨，也不想显得好像已经想通了。其实还没想通，只是模模糊糊觉得，能认出来总比完全被它吞掉强一点。）"
+      }
+    }
+  ],
+  "created": 1794535904,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 3172,
+    "total_tokens": 3330,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 133,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

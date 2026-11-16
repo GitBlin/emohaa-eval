@@ -1,0 +1,41 @@
+{
+  "id": "daec3f79934946f5b4c7021824002488",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "两个都担心吧，情绪一上来脑子就空了。要是能有个简单点的提醒，比如写在本子上或者贴在桌上那种？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是更担心记不住步骤还是情绪上来就乱，好像觉得我只要选一个就行。可这两种感觉我都有，而且一乱起来就什么都不管了，哪还分得清是记不住还是乱。）\n（不过她提到留个提醒或预案，这让我觉得不是完全没辙。也许可以写点什么贴在能看见的地方，至少不用全靠脑子记。但我又怕写了也不会去看，或者看了也没用。）",
+        "reasoning": "（她问我是更担心记不住步骤还是情绪上来就乱，好像觉得我只要选一个就行。可这两种感觉我都有，而且一乱起来就什么都不管了，哪还分得清是记不住还是乱。）\n（不过她提到留个提醒或预案，这让我觉得不是完全没辙。也许可以写点什么贴在能看见的地方，至少不用全靠脑子记。但我又怕写了也不会去看，或者看了也没用。）"
+      }
+    }
+  ],
+  "created": 1794545924,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2672,
+    "total_tokens": 2796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

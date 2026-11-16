@@ -1,0 +1,41 @@
+{
+  "id": "0cb07a65360142778468886464c3f32d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……至少别再一个人干等着吧。比如他不过来吃，我就先吃，或者直接跟他说一句“我先吃了”。不过这样做，会不会显得我在赌气啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我下次想躲的时候可以怎么不一样，这让我心里有点没底。我习惯了先忍着，突然要换个方式，又怕自己做不到，又怕做出来太生硬。）\n（不过刚才聊到小时候那个只会躲的自己，确实有点心酸。也许可以先从很小的事情试起，比如不再一直等他，至少不让自己傻站着。但又担心这样会不会显得我在赌气。）",
+        "reasoning": "（咨询师问我下次想躲的时候可以怎么不一样，这让我心里有点没底。我习惯了先忍着，突然要换个方式，又怕自己做不到，又怕做出来太生硬。）\n（不过刚才聊到小时候那个只会躲的自己，确实有点心酸。也许可以先从很小的事情试起，比如不再一直等他，至少不让自己傻站着。但又担心这样会不会显得我在赌气。）"
+      }
+    }
+  ],
+  "created": 1794552735,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2913,
+    "total_tokens": 3038,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

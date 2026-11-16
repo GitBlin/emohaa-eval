@@ -1,0 +1,41 @@
+{
+  "id": "e90f673769064eb2abe53e243db605f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（笑了笑）我可能会跟自己说一句“这半小时我做到了”。回家给自己倒杯热水，也算个小小的仪式吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我想想走完回来怎么跟自己说一声，这好像是在帮我把“对自己好”这件事落实下来。我平时确实很少认可自己，总觉得得先顾着家里、顾着他。）\n（也许我可以回家后给自己倒杯水，就当是个小小的仪式。至于那句话，我不太想搞得那么正式，简单说一句“这半小时我做到了”应该就够了，毕竟太郑重我自己都不好意思。）",
+        "reasoning": "（咨询师让我想想走完回来怎么跟自己说一声，这好像是在帮我把“对自己好”这件事落实下来。我平时确实很少认可自己，总觉得得先顾着家里、顾着他。）\n（也许我可以回家后给自己倒杯水，就当是个小小的仪式。至于那句话，我不太想搞得那么正式，简单说一句“这半小时我做到了”应该就够了，毕竟太郑重我自己都不好意思。）"
+      }
+    }
+  ],
+  "created": 1794554546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2868,
+    "total_tokens": 2984,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

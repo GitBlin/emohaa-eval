@@ -1,0 +1,41 @@
+{
+  "id": "da1d1c842ca141e1815283f2913827de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。说实话我不太确定这种咨询到底是怎么进行的，会不会要我讲很多私人的事情？我就是想先了解一下，一般会怎么聊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立初步联系，说明她准备开始今天的咨询流程。作为来访者，我目前对咨询师还不太了解，内心既希望得到帮助又带着防备，毕竟要跟陌生人谈论感情问题让我很不安。）\n（毕竟我是敏感又倔强的人，对亲密关系缺乏安全感，面对咨询师时本能地想要先确认对方的专业性和咨询方式。我需要先试探性地了解咨询如何进行，才能决定是否要敞开心扉。直接问“会怎么聊”既表达了疑虑，又不会显得太抗拒。）\n（好了，那么现在就像这样对咨询师说吧。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立初步联系，说明她准备开始今天的咨询流程。作为来访者，我目前对咨询师还不太了解，内心既希望得到帮助又带着防备，毕竟要跟陌生人谈论感情问题让我很不安。）\n（毕竟我是敏感又倔强的人，对亲密关系缺乏安全感，面对咨询师时本能地想要先确认对方的专业性和咨询方式。我需要先试探性地了解咨询如何进行，才能决定是否要敞开心扉。直接问“会怎么聊”既表达了疑虑，又不会显得太抗拒。）\n（好了，那么现在就像这样对咨询师说吧。）"
+      }
+    }
+  ],
+  "created": 1794555394,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 895,
+    "total_tokens": 1072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 144,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

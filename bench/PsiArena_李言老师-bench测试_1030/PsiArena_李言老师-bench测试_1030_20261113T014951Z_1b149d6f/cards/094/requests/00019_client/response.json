@@ -1,0 +1,41 @@
+{
+  "id": "e3d34c81920841d49fa7201874cc2fe4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "关灯前吧，那会儿手机正好在手上。不过我不想定得太死，万一某天忘了，又该自责了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方在帮我把这个想法落地，还问得挺细的。我有点感激，但又觉得定得太死容易做不到。关灯那一刻应该是我最放松也最容易拿起手机的时候，不过我不想把它搞成打卡任务，那样我肯定坚持不了。）\n（说完这个我又想到早上，晚上稍微好一点之后，早上那个闹钟的事还是没解决。但我现在不想把两个都揽下来，先看看晚上这个能不能行吧。）",
+        "reasoning": "（对方在帮我把这个想法落地，还问得挺细的。我有点感激，但又觉得定得太死容易做不到。关灯那一刻应该是我最放松也最容易拿起手机的时候，不过我不想把它搞成打卡任务，那样我肯定坚持不了。）\n（说完这个我又想到早上，晚上稍微好一点之后，早上那个闹钟的事还是没解决。但我现在不想把两个都揽下来，先看看晚上这个能不能行吧。）"
+      }
+    }
+  ],
+  "created": 1794540171,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2883,
+    "total_tokens": 3007,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

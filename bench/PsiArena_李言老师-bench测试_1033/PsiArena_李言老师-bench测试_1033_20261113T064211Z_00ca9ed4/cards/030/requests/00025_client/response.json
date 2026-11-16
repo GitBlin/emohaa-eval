@@ -1,0 +1,41 @@
+{
+  "id": "0b97e90b3fa04207a4a189eb1c2c3d49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是说完之后的安静吧。不过今天聊下来，我好像没那么怕那几秒了，至少知道可以提前准备，也有地方先练。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是最难的是说完还是说完之后的安静。其实两个都难，但安静更难。因为说的时候我还能专注在自己的话上，可一停下来，那种空落落的感觉就上来了，会忍不住想他是不是没兴趣。）\n（不过刚才聊了这么多，我好像没那么怕了。至少我知道自己可以准备好收尾的话，也有朋友那边可以练手。这大概就是今天聊下来最实在的收获。）",
+        "reasoning": "（他问的是最难的是说完还是说完之后的安静。其实两个都难，但安静更难。因为说的时候我还能专注在自己的话上，可一停下来，那种空落落的感觉就上来了，会忍不住想他是不是没兴趣。）\n（不过刚才聊了这么多，我好像没那么怕了。至少我知道自己可以准备好收尾的话，也有朋友那边可以练手。这大概就是今天聊下来最实在的收获。）"
+      }
+    }
+  ],
+  "created": 1794553511,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3321,
+    "total_tokens": 3446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

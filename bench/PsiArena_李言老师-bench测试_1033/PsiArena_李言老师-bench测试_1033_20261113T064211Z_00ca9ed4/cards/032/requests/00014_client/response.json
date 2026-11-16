@@ -1,0 +1,41 @@
+{
+  "id": "5d2a9a647878413584bf46ec1495df41",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他就说最近工作忙，让我别多想，然后就没了。我知道他忙，可忙到连一句安慰都没有吗……还是说，其实是我在他心里没那么重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我他当时是怎么回应的，我脑子里一下就浮现出那些对话。每次我说完，他都是说忙、说累，然后就没有下文了。那种感觉就像一拳打在棉花上，使不上劲。）\n（我其实一直想不通，忙是真的，可忙到连一句安慰的话都挤不出来吗？还是说我在他心里，真的没那么重要。这个念头一冒出来，心里就又酸又堵。）",
+        "reasoning": "（他问我他当时是怎么回应的，我脑子里一下就浮现出那些对话。每次我说完，他都是说忙、说累，然后就没有下文了。那种感觉就像一拳打在棉花上，使不上劲。）\n（我其实一直想不通，忙是真的，可忙到连一句安慰的话都挤不出来吗？还是说我在他心里，真的没那么重要。这个念头一冒出来，心里就又酸又堵。）"
+      }
+    }
+  ],
+  "created": 1794553539,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2357,
+    "total_tokens": 2484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

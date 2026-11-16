@@ -1,0 +1,41 @@
+{
+  "id": "25e50e6766a744f68684c4d620c39a9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她觉得跟我说话是安全的，不用怕我。可现在……她好像越来越躲着我了。是不是我太着急纠正她，反而把她推远了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望女儿眼里的我是什么样，这问题戳到我了。我其实一直不敢细想，怕越想越觉得自己做得不够好。可刚才说出“你别怕我”那句话之后，心里好像松了一点点，也许可以试着诚实地回答。）\n（我想让女儿觉得跟我说话是安全的，可现实里她越来越躲着我。想到这儿就有点难受，是不是我太急着纠正她，反而把她推远了。这种自责让我不太想继续往下说，但又觉得该说出来。）",
+        "reasoning": "（她问我希望女儿眼里的我是什么样，这问题戳到我了。我其实一直不敢细想，怕越想越觉得自己做得不够好。可刚才说出“你别怕我”那句话之后，心里好像松了一点点，也许可以试着诚实地回答。）\n（我想让女儿觉得跟我说话是安全的，可现实里她越来越躲着我。想到这儿就有点难受，是不是我太急着纠正她，反而把她推远了。这种自责让我不太想继续往下说，但又觉得该说出来。）"
+      }
+    }
+  ],
+  "created": 1794535869,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1935,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

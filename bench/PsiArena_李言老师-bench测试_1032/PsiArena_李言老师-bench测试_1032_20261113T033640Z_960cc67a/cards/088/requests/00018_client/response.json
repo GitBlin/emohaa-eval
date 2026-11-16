@@ -1,0 +1,41 @@
+{
+  "id": "65dba3a7cd20422dab530a8adae70ec9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）上周数学小测吧。我考得其实还行，但同桌比我高。回家我都没敢提这事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师问我最近发生什么让我更强烈地觉得自己没用，我需要想一个具体的事。上周的数学小测是个好例子，成绩其实还行，但看到同桌比我高，那种感觉一下子就上来了。说出来可能显得我太计较，不过老师刚才说这不傻，也许可以讲讲。）\n（我有点犹豫要不要提，毕竟这听起来像在跟别人比，但那种难受是真实的。提一下同桌考得比我高，还有我回家没敢跟爸妈说，应该能让老师明白我为什么觉得自己没用。）",
+        "reasoning": "（老师问我最近发生什么让我更强烈地觉得自己没用，我需要想一个具体的事。上周的数学小测是个好例子，成绩其实还行，但看到同桌比我高，那种感觉一下子就上来了。说出来可能显得我太计较，不过老师刚才说这不傻，也许可以讲讲。）\n（我有点犹豫要不要提，毕竟这听起来像在跟别人比，但那种难受是真实的。提一下同桌考得比我高，还有我回家没敢跟爸妈说，应该能让老师明白我为什么觉得自己没用。）"
+      }
+    }
+  ],
+  "created": 1794545834,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2503,
+    "total_tokens": 2642,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "64508f15f4bd421ea0240a1949fed35a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是碰到事之后吧……比如聚会散场，别人三三两两约着走，就我一个人回家那种时候。还有我约同事吃饭，人家说“下次吧”，结果就没有下次了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，还说不急着让我下定义，好像没有要逼我马上说清楚的意思。我本来有点防备，怕一开口就被分析，但她这样讲，我反而稍微松了一点。不过我还是不太想直接讲太深，先说说表面的吧，反正那些事确实会让我心里不舒服。）\n（聚会散场之后那种感觉最明显，还有约人被拒绝的时候。这些说出来好像也没什么大不了，但就是会让我一个人待着的时候反复想，是不是自己哪里不对。她要是接着问，我可能得想想怎么讲。）",
+        "reasoning": "（她问得挺细的，还说不急着让我下定义，好像没有要逼我马上说清楚的意思。我本来有点防备，怕一开口就被分析，但她这样讲，我反而稍微松了一点。不过我还是不太想直接讲太深，先说说表面的吧，反正那些事确实会让我心里不舒服。）\n（聚会散场之后那种感觉最明显，还有约人被拒绝的时候。这些说出来好像也没什么大不了，但就是会让我一个人待着的时候反复想，是不是自己哪里不对。她要是接着问，我可能得想想怎么讲。）"
+      }
+    }
+  ],
+  "created": 1794800574,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 1207,
+    "total_tokens": 1370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1024,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

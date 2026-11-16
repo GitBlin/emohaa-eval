@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:29:52.628607+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nJames shows his painting at the school art exhibition. One day, he forgets to take the painting home. Nick, while cleaning the exhibition room, mistakes the painting for an abandoned one and puts it in the discard box. At the same time, Ella knows this is James's work. Ella's own painting also shows at the art exhibition, and she does not want James's painting to be more popular than hers, so she decides not to tell Nick. When James finds the painting is missing, he feels very upset and starts asking classmates. Later, Nick realizes he may have mishandled James's painting.\n\n[Question]\nWhat is the possible intention behind Nick's action?\n\n[Candidate Answers]\nA. Nick possibly does not care about the painting, so he does not notice its value.\nB. Nick possibly acts unconsciously or unknowingly, as he mistakenly thinks James's work is abandoned.\nC. Nick possibly overlooks the importance of the work because he wants to finish the task quickly.\nD. Nick possibly thinks cleaning the exhibition room is more important than preserving the work.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

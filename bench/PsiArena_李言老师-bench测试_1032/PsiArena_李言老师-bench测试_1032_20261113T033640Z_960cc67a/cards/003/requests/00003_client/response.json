@@ -1,0 +1,41 @@
+{
+  "id": "9be76dec6f5d4ee0a782660de67c6c3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……比如大家中午一起吃饭聊天的时候吧。我坐在那儿，也不知道该说什么。哎，我问个别的，如果我话特别多，你会不会觉得烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体场景，但我其实还没准备好说太深。我有点想试探一下，看看这个咨询师是不是真的愿意听我说，还是只是走个流程。而且我也想知道，如果我说些和咨询无关的事，他会不会拒绝我。毕竟我平时也不太容易信任别人。）\n（也许我可以先模糊地提一下聚会的事，但不用说得太细。然后顺便问问他会不会觉得我烦，这样既能测试他的反应，又不会暴露太多自己的不安。）",
+        "reasoning": "（咨询师问我具体场景，但我其实还没准备好说太深。我有点想试探一下，看看这个咨询师是不是真的愿意听我说，还是只是走个流程。而且我也想知道，如果我说些和咨询无关的事，他会不会拒绝我。毕竟我平时也不太容易信任别人。）\n（也许我可以先模糊地提一下聚会的事，但不用说得太细。然后顺便问问他会不会觉得我烦，这样既能测试他的反应，又不会暴露太多自己的不安。）"
+      }
+    }
+  ],
+  "created": 1794541025,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1093,
+    "total_tokens": 1231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

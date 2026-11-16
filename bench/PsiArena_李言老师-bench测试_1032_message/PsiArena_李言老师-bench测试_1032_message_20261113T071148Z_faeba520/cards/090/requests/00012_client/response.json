@@ -1,0 +1,41 @@
+{
+  "id": "022a750e64544ad29f401103ad865a06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不会……我肯定不会那样对朋友。可对自己，好像就完全不一样了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会不会这样骂朋友……当然不会啊，朋友难过的时候我只会心疼。可轮到自己就完全不一样了，好像对自己特别苛刻，这种反差让我有点难受。）\n（她这么一问，我忽然意识到自己好像一直在用两套标准对待自己和别人。这让我有点说不出的别扭，也有点想不通为什么自己会这样。）",
+        "reasoning": "（她问我会不会这样骂朋友……当然不会啊，朋友难过的时候我只会心疼。可轮到自己就完全不一样了，好像对自己特别苛刻，这种反差让我有点难受。）\n（她这么一问，我忽然意识到自己好像一直在用两套标准对待自己和别人。这让我有点说不出的别扭，也有点想不通为什么自己会这样。）"
+      }
+    }
+  ],
+  "created": 1794558207,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1910,
+    "total_tokens": 2002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:28:38.553758+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAfter experiencing a long and hot highway trip, George arrives at Angela's office. Angela immediately starts to talk about some business ideas. George interrupts Angela, saying, \"Ah, I experience a long and hot highway trip.\"\n\n[Question]\nWhat is the real meaning George wants to express?\n\n[Candidate Answers]\nA. George wants Angela to provide some travel advice\nB. George wants to complain to Angela about his trip\nC. George wants to say, \"Can I drink something?\" or \"Can we rest a few minutes before we start talking about business?\"\nD. George wants to say he does not want to listen to any of Angela's ideas",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

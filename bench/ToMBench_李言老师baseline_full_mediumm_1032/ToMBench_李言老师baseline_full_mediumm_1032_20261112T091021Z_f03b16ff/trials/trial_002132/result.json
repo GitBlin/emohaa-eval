@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_002132",
+  "sample_id": "Unexpected Outcome Test:102",
+  "task_file": "Unexpected Outcome Test",
+  "ability": "Emotion: Atypical emotional reactions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "A",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:41:39.742453+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:42:01.320101+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "a894f187d1e240539a58155ff4da011f"
+  ],
+  "started_at": "2026-11-12T09:41:39.742453+00:00",
+  "finished_at": "2026-11-12T09:42:04.734490+00:00",
+  "elapsed_seconds": 24.992132902145386,
+  "user_id": "liyan_cb8ab579da0545fe93466ce33c4c92199ebde22b"
+}

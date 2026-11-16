@@ -1,0 +1,41 @@
+{
+  "id": "a38342838a6841b0b2b22d56d309c5bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "半句的话……好像可以试试。就是说完之后他要是追问，我怕自己又慌了，不知道接什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把目标拆小，只要说半句就好，这让我觉得没那么难了。虽然还是有点紧张，但好像真的可以试试。）\n（不过我心里还是有点不踏实，怕自己说完就冷场，也怕他追问的时候我又缩回去。也许我该先想好这种情况怎么办，不然到时候又慌了。）",
+        "reasoning": "（咨询师在帮我把目标拆小，只要说半句就好，这让我觉得没那么难了。虽然还是有点紧张，但好像真的可以试试。）\n（不过我心里还是有点不踏实，怕自己说完就冷场，也怕他追问的时候我又缩回去。也许我该先想好这种情况怎么办，不然到时候又慌了。）"
+      }
+    }
+  ],
+  "created": 1794536623,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2812,
+    "total_tokens": 2910,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

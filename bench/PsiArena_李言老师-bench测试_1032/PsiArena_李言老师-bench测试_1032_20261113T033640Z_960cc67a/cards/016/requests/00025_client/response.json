@@ -1,0 +1,41 @@
+{
+  "id": "429141ccdf49407cbe8122b200f851af",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周末我跟我妈打电话时，她听我说了两句就说“别多想，你爸不是那种人”。她不是故意怪我，可我当时一下就说不下去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近哪次没被听完的经历，这让我想起上周末和母亲通话时的场景。她总是习惯性地打断我，用“别多想”来结束话题，好像我的感受根本不值得讨论。）\n（作为家中长女，我从小就被教育要懂事、要维护家庭和谐，可这种压抑让我越来越难受。现在连开口都变得困难，因为每次试图表达都会被轻描淡写地带过。也许我该让咨询师知道，这种不被倾听的感觉有多普遍，不只是最近一次的问题。）",
+        "reasoning": "（咨询师问的是最近哪次没被听完的经历，这让我想起上周末和母亲通话时的场景。她总是习惯性地打断我，用“别多想”来结束话题，好像我的感受根本不值得讨论。）\n（作为家中长女，我从小就被教育要懂事、要维护家庭和谐，可这种压抑让我越来越难受。现在连开口都变得困难，因为每次试图表达都会被轻描淡写地带过。也许我该让咨询师知道，这种不被倾听的感觉有多普遍，不只是最近一次的问题。）"
+      }
+    }
+  ],
+  "created": 1794548599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 3353,
+    "total_tokens": 3501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

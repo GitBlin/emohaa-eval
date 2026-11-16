@@ -1,0 +1,41 @@
+{
+  "id": "d8fb06c28b45482fb7789e5876665e70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好...我想先了解一下，这种咨询一般是怎么进行的？我是说，我需要做什么，你会怎么帮我？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在我是来访者了，我是那个34岁的小学教师，正为孩子的自我控制能力问题焦虑。对面是心理咨询师，但我还不确定该不该信任她。毕竟心理咨询这种事，谁知道会不会又是那种说教式的谈话。我得先试探一下她的专业性和方法，看看她是不是真的能理解我的困扰。）\n（我妈妈就是心理咨询师，从小听多了那些理论，但实际面对孩子的问题时根本不管用。所以我对这种谈话持怀疑态度，但又希望真的能得到帮助。先问问她的咨询方式吧，看看她是不是那种只会讲大道理的类型。好了，那么现在就这样开始和咨询师对话吧。）",
+        "reasoning": "（现在我是来访者了，我是那个34岁的小学教师，正为孩子的自我控制能力问题焦虑。对面是心理咨询师，但我还不确定该不该信任她。毕竟心理咨询这种事，谁知道会不会又是那种说教式的谈话。我得先试探一下她的专业性和方法，看看她是不是真的能理解我的困扰。）\n（我妈妈就是心理咨询师，从小听多了那些理论，但实际面对孩子的问题时根本不管用。所以我对这种谈话持怀疑态度，但又希望真的能得到帮助。先问问她的咨询方式吧，看看她是不是那种只会讲大道理的类型。好了，那么现在就这样开始和咨询师对话吧。）"
+      }
+    }
+  ],
+  "created": 1794556182,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 861,
+    "total_tokens": 1019,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 135,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

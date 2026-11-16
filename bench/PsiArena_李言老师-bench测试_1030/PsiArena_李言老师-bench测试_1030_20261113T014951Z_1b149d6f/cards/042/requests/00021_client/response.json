@@ -1,0 +1,41 @@
+{
+  "id": "29e1526bffcf4002866538fb842c607e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个分法听着还行，家人能打进来，我心里踏实点。今晚我就试试，免打扰半小时，纸条也写上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这个折中法子听起来靠谱，群里静音但家人能打进来，半小时后再看，确实不会误事。我心里那根弦松了一点，可又怕自己一忙起来就忘了，或者到点还是忍不住刷手机。）\n（我想答应试试，但得给自己留个余地，不能又变成“必须做到”的压力。让她明早提一句，也算有人盯着，我可能真会去做。）",
+        "reasoning": "（她这个折中法子听起来靠谱，群里静音但家人能打进来，半小时后再看，确实不会误事。我心里那根弦松了一点，可又怕自己一忙起来就忘了，或者到点还是忍不住刷手机。）\n（我想答应试试，但得给自己留个余地，不能又变成“必须做到”的压力。让她明早提一句，也算有人盯着，我可能真会去做。）"
+      }
+    }
+  ],
+  "created": 1794536652,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3371,
+    "total_tokens": 3489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dca389be14434ad6b2f3df69ceb2663b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。那，我说的话你会告诉别人吗？比如学校或者我爸妈那边……我就是想先确认一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释流程，语气还算温和，但我还是有点不放心。他说如实说就好，可我其实不太确定“如实”到什么程度。而且我本来就不太会跟陌生人讲自己的事，更别说一上来就讲最难受的部分了。）\n（我想先试探一下他会不会追问得太紧，或者会不会把我的话拿去告诉别人。毕竟在学校里，我连室友都没法好好沟通，更不敢随便相信一个刚见面的人。先问问保密的事，应该不算过分吧。）",
+        "reasoning": "（咨询师在解释流程，语气还算温和，但我还是有点不放心。他说如实说就好，可我其实不太确定“如实”到什么程度。而且我本来就不太会跟陌生人讲自己的事，更别说一上来就讲最难受的部分了。）\n（我想先试探一下他会不会追问得太紧，或者会不会把我的话拿去告诉别人。毕竟在学校里，我连室友都没法好好沟通，更不敢随便相信一个刚见面的人。先问问保密的事，应该不算过分吧。）"
+      }
+    }
+  ],
+  "created": 1794548112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 973,
+    "total_tokens": 1107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

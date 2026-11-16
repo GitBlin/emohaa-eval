@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-13T02:00:30.686357+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn the New Year gift exchange activity at school, Li Mingzhu looks forward to giving a gift she carefully selects to her classmate Wang Hao. Teacher Zhang organizes this activity and encourages students to give thoughtful gifts to each other. Li Mingzhu misses the moment when Teacher Zhang reminds everyone to pay attention to food allergies, so she chooses a box of exquisite handmade mooncakes. When exchanging gifts, Li Mingzhu hands the gift to Wang Hao and happily says, \"This mooncake is a specialty of our place, I remember you say you like to try local snacks!\" Wang Hao pauses for a moment, then politely replies, \"Oh, thank you, Mingzhu. I definitely try it.\" Teacher Zhang quietly says, \"Every gift is the other's intention, let's look at the gifts from other students next.\"\n\n[Question]\nIf there is, which sentence is inappropriate?\n\n[Candidate Answers]\nA. Every gift is the other's intention, let's look at the gifts of other students next.\nB. This mooncake is a specialty of our place, I remember you saying you like to try local snacks!\nC. No one says what they should not say.\nD. Oh, thank you, Mingzhu. I definitely try it.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

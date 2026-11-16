@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:59.718413+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nJenny was dreading going on a blind date that her friend Lauren had set up for her. She didn't know anything about the guy and was worried it would be awkward. When Jenny arrived at the restaurant, she was pleasantly surprised to see an attractive man waiting for her. As they started talking over dinner, Jenny realized they had a lot in common, and she really enjoyed the conversation. At the end of the night, he asked if he could see her again. Jenny sighed and said she would love to.\n\n## Question 1\nWhat emotion(s) would Jenny ultimately feel in this situation?\n\n## Choices for Question 1\nA) Disappointment & Hopeless\nB) Relief & Excitement\nC) Excitement & Hopeless\nD) Disappointment & Guilt\nE) Jealousy & Disappointment\nF) Jealousy & Guilt\n\n## Question 2\nWhy would Jenny feel these emotions in this situation?\n\n## Choices for Question 2\nA) The guy is also interested in her & She had a nice date and is looking forward to seeing the guy again\nB) She got rid of her fears by going on a date & She enjoys having dinner at restaurants\nC) She didn't expect the guy to be so attractive & She thought the date was awkward\nD) The guy is also interested in her & She didn't expect the guy to be so attractive\nE) The guy is also interested in her & She thought the date was awkward\nF) The guy is also interested in her & She got rid of her fears by going on a date\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b43a89f4affe44a880c36cb393d24544",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不傻，能帮到自己的办法就是好办法。那句话你大概会怎么写？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）我可以在手机里写一句话，犹豫的时候就看看。（有点不好意思）听起来有点傻，不过对我可能有用。",
+        "reasoning": "（想了想）我可以在手机里写一句话，犹豫的时候就看看。（有点不好意思）听起来有点傻，不过对我可能有用。"
+      }
+    }
+  ],
+  "created": 1794557170,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 2687,
+    "total_tokens": 2733,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7a9b4aa4306347bcac1484e76394c409",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧，有个模块出了个bug，其实需求本来就写得模糊，但评审的时候被当众指出来，我第一反应就是……是我没做好。回家改到凌晨三点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回想最近一次因为事情没做好就怪自己不够努力的情况。这让我一下子想到上周代码审查的事，那种被当众指出的感觉又涌上来了。我其实不太想回忆这些，但既然已经聊到这儿了，也许说出来会好受点。）\n（作为习惯把责任都揽在自己身上的人，我第一反应还是觉得那是我的问题。虽然心里也闪过“需求本来就模糊”的念头，但马上又被“是我没做好”压下去了。这种矛盾让我很烦，说出来可能显得我在推卸责任，可不说又憋得慌。）",
+        "reasoning": "（咨询师让我回想最近一次因为事情没做好就怪自己不够努力的情况。这让我一下子想到上周代码审查的事，那种被当众指出的感觉又涌上来了。我其实不太想回忆这些，但既然已经聊到这儿了，也许说出来会好受点。）\n（作为习惯把责任都揽在自己身上的人，我第一反应还是觉得那是我的问题。虽然心里也闪过“需求本来就模糊”的念头，但马上又被“是我没做好”压下去了。这种矛盾让我很烦，说出来可能显得我在推卸责任，可不说又憋得慌。）"
+      }
+    }
+  ],
+  "created": 1794556737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 2110,
+    "total_tokens": 2276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

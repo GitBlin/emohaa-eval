@@ -1,0 +1,41 @@
+{
+  "id": "19b9182c018844449bcfb858ff8e2413",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主要是数据那块的呈现，我总觉得不够直观。要不……我明天先问问同事的意见？虽然有点不好意思开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我聚焦到具体问题上，这让我稍微松了口气。那个方案确实卡在数据呈现上，但说出来好像也没那么可怕。不过想到明天要主动去问同事，心里还是有点打鼓——会不会显得我很不专业？）\n（也许可以试试看，毕竟一直自己硬扛也不是办法。但真要去问的时候，估计还是会犹豫很久吧。）",
+        "reasoning": "（咨询师在帮我聚焦到具体问题上，这让我稍微松了口气。那个方案确实卡在数据呈现上，但说出来好像也没那么可怕。不过想到明天要主动去问同事，心里还是有点打鼓——会不会显得我很不专业？）\n（也许可以试试看，毕竟一直自己硬扛也不是办法。但真要去问的时候，估计还是会犹豫很久吧。）"
+      }
+    }
+  ],
+  "created": 1794545657,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3031,
+    "total_tokens": 3137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

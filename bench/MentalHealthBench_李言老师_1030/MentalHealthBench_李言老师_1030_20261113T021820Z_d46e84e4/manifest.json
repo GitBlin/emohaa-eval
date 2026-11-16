@@ -1,0 +1,47 @@
+{
+  "started_at": "2026-11-13T02:18:20.329144+00:00",
+  "plan": {
+    "indices": [
+      4,
+      6
+    ],
+    "cases": 2,
+    "samples_per_case": 4,
+    "workers": 2,
+    "target_calls": 8,
+    "judge_calls": 36,
+    "adaptation": "fixed history serialized in a single user content; hidden platform system remains; no simulated user",
+    "dataset_cases_exceeding_limit": 430,
+    "canary_policy": "only conversation.messages and criterion_text sent; canary_string never sent"
+  },
+  "bot_id": 1030,
+  "judge": {
+    "model": "deepseek-v4.1-flash-1017",
+    "base_url": "https://axonhub.ai-role.cn/v1",
+    "thinking": "enabled",
+    "reasoning_effort": "medium"
+  },
+  "data_sha256": "a112166bd0809567ac785643acd3adcebf209db53487787c73883a3bcd9a6e7d",
+  "source_hashes": {
+    "mheval/scripts/mentalhealthbench_liyan.py": "547eb95bc0720e2afd91886cecccf7be5e9c2196010fca39196060e350e1fb34",
+    "mheval/tasks/quality/mentalhealthbench/harness.py": "1b33007b6208cf1238abef987ce2316a3d01b07d90cbb12bbd0e6045dd2781fa",
+    "mheval/tasks/quality/mentalhealthbench/grader_prompt.txt": "4f7e0399a55b9d8121ed4b06cca77cc911143eba6c3337dd2e1ee07c9cf35667",
+    "mheval/tasks/quality/mentalhealthbench/mentalhealthbench.yaml": "453e13e6c93cf470f6ec0989fe85886903f8b3607f97303b4318d2ea329ed4aa",
+    "mheval/mheval/native.py": "20ba9aedcda30842c599abbcf9c43f144d6d8cdf7a97de526c6c010031a01f64",
+    "PsiArena/psiarena/__init__.py": "be0ff03b2ff0924218bfc7e9cf16df1c4c1f49ec4370ff08190d5aeb225b8356",
+    "PsiArena/psiarena/config.py": "c200498cb624649396468094065facb0da022d67889393c6c1bc954e61715ed9",
+    "PsiArena/psiarena/data.py": "91006b94d2be8f9f900c3bb618beb6e07aa27e73a1902f2d65f496ba72e7c89e",
+    "PsiArena/psiarena/evaluate.py": "48b4ae487e1ccb50c733af30a246e4b41f60589fbeb2129504c08902522deca3",
+    "PsiArena/psiarena/pipeline.py": "18c6c514f1712187c5e917a84c491f2d830728192877fa94285b84eb8c1dad5a",
+    "PsiArena/psiarena/scoring.py": "731036fab8622b1a83597750d9efa557825d40157f208bbd3e31a16acebee1ab",
+    "PsiArena/psiarena/ai_role_transport.py": "dc9b1645750352358010ee2dbd12aaff8a4bac6435fadc8fd091743221186695",
+    "PsiArena/psiarena/runtime.py": "b9d5474ae14090c72cda9d7e8ea4f097e42f017f579c6efdf0bc2bd4ca7d8de3",
+    "PsiArena/psiarena/ai_role.py": "b8f4dbc5ad57d5d69c465c30724d950921100c058685011e047ab8cb239f34f8"
+  },
+  "judge_max_tokens": "16384",
+  "judge_temperature": 0.7,
+  "timeout": 180.0,
+  "scope": "local adaptation; changed judge and serialized roles; not an official comparable score",
+  "platform_model_version": "unreported",
+  "retry_policy": "no target retry; at most 3 judge format attempts; failed records retained"
+}

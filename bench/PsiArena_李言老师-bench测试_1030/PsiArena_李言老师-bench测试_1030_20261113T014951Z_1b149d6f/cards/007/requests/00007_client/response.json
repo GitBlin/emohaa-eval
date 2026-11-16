@@ -1,0 +1,41 @@
+{
+  "id": "de6f67d90b374adea237c8f2434a562e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头，声音轻了些）有点……说不上来。可能有点酸吧，好像从来没人这么跟我说过。我一直以为就是我自己不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才那句话让我有点意外，说我不是本身有问题，只是缺了练习。我从来没这么想过，一直以来都觉得是自己性格不好，或者就是不会做人。听她这么说，心里好像松了一点，但又不太敢全信。）\n（不过她问我现在心里什么感觉，我确实不知道该怎么说。有点酸酸的，说不上来是难过还是别的。可能一直没人这么跟我说话吧，突然被这么理解一下，反倒有点不习惯。）",
+        "reasoning": "（她刚才那句话让我有点意外，说我不是本身有问题，只是缺了练习。我从来没这么想过，一直以来都觉得是自己性格不好，或者就是不会做人。听她这么说，心里好像松了一点，但又不太敢全信。）\n（不过她问我现在心里什么感觉，我确实不知道该怎么说。有点酸酸的，说不上来是难过还是别的。可能一直没人这么跟我说话吧，突然被这么理解一下，反倒有点不习惯。）"
+      }
+    }
+  ],
+  "created": 1794534825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1531,
+    "total_tokens": 1658,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

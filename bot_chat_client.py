@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-智能体开放平台客户端调用脚本 (已配置测试环境「高中小学校」默认凭证)
+智能体开放平台客户端调用脚本 (已配置当前提供的 API 凭证)
 
 核心功能：
   1. POST /psychology-api/apis/auth             - 生成/换取用户令牌 (apiKey + apiSecret + userId)
@@ -23,11 +23,14 @@ import urllib3
 # 关闭自签名证书告警
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# 测试环境「高中小学校」(OrgId: 440) 默认配置
+# 当前提供的 API 凭证；studentId 和 nonce 不属于现有认证接口的请求字段。
 DEFAULT_BASE_URL = "https://www.ai-role.cn"
-DEFAULT_API_KEY = "psy_0833aef583de4f"
-DEFAULT_API_SECRET = "ee8690039995479da09f1f5411211083"
-DEFAULT_USER_ID = "test_user_demo_01"
+DEFAULT_API_KEY = "psy_5845cbde31ae4c"
+DEFAULT_API_SECRET = "7a2e558a42b9449a9853552f88c0b71e"
+# DEFAULT_API_KEY = "psy_0833aef583de4f"
+# DEFAULT_API_SECRET = "ee8690039995479da09f1f5411211083"
+# 凭证响应中的 userId 为空；认证接口要求非空，沿用原测试用户标识。
+DEFAULT_USER_ID = "way-testbench"
 
 
 class BotChatClient:
@@ -179,7 +182,7 @@ def main():
     print(f"[1] 正在通过 apiKey ({client.api_key}) 为用户 '{args.user_id}' 换取访问令牌...")
     try:
         token = client.auth_user(args.user_id)
-        print(f"状态：成功 (Token: {token[:10]}...{token[-6:]})")
+        print("状态：认证成功")
     except Exception as e:
         print(f"状态：失败，认证异常: {e}")
         sys.exit(1)

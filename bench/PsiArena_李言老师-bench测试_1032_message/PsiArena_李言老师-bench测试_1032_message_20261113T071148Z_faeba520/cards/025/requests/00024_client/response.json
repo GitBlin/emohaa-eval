@@ -1,0 +1,41 @@
+{
+  "id": "2de2c7ae028346d485323d993426dad4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试，可能做不到每次都想起，但至少能停一下。对自己软一点，好像也没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师一直在引导我关注身体的感受，刚才肩膀真的松了一点，让我有点意外。现在她问我下次能不能想起这句话，我其实心里没底，毕竟习惯不是一天养成的。）\n（但想到二宝那张小脸，还有自己一直憋着的难受，我觉得至少可以试试。不用一下子做到多好，能停一下、缓一口气，也许就够了。）",
+        "reasoning": "（这位咨询师一直在引导我关注身体的感受，刚才肩膀真的松了一点，让我有点意外。现在她问我下次能不能想起这句话，我其实心里没底，毕竟习惯不是一天养成的。）\n（但想到二宝那张小脸，还有自己一直憋着的难受，我觉得至少可以试试。不用一下子做到多好，能停一下、缓一口气，也许就够了。）"
+      }
+    }
+  ],
+  "created": 1794555085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3130,
+    "total_tokens": 3234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

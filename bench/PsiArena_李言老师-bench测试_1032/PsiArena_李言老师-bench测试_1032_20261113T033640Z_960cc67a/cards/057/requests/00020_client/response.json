@@ -1,0 +1,41 @@
+{
+  "id": "b482c9dc37214fbdbe8e66e627f33647",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧……我在本子背面写了点乱七八糟的，写完了本来想撕掉，又没舍得。好像就那十分钟，脑子没那么吵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次有自由感的时候……其实我上周偷偷在本子背面写了一段，本来想扔掉的。但说出来会不会显得很傻？不过刚才她说自由和“不被评判”连在一起，好像有点懂我。）\n（写东西的时候确实不用想成绩、排名这些事，哪怕只有十分钟。但说出来又觉得有点不好意思，毕竟这又不是什么正经的作文。）",
+        "reasoning": "（她问的是最近一次有自由感的时候……其实我上周偷偷在本子背面写了一段，本来想扔掉的。但说出来会不会显得很傻？不过刚才她说自由和“不被评判”连在一起，好像有点懂我。）\n（写东西的时候确实不用想成绩、排名这些事，哪怕只有十分钟。但说出来又觉得有点不好意思，毕竟这又不是什么正经的作文。）"
+      }
+    }
+  ],
+  "created": 1794544045,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2775,
+    "total_tokens": 2891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "69365ff32cd0432ba989fde457ad5936",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就上次夹书签那页吧，我也记不清第几页了。先从那页开始，明天试一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“读一页”具体化，这样我才能真的去执行。可我脑子里还是有点乱，想到那本书就想到自己之前没坚持下来，有点怕。）\n（不过她这么问，好像不是要逼我马上做到，而是先让我定一个起点。那就从上次停下的地方开始吧，至少不用再想该从哪页翻起。）",
+        "reasoning": "（咨询师在帮我把“读一页”具体化，这样我才能真的去执行。可我脑子里还是有点乱，想到那本书就想到自己之前没坚持下来，有点怕。）\n（不过她这么问，好像不是要逼我马上做到，而是先让我定一个起点。那就从上次停下的地方开始吧，至少不用再想该从哪页翻起。）"
+      }
+    }
+  ],
+  "created": 1794546435,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3213,
+    "total_tokens": 3323,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

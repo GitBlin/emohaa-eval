@@ -1,0 +1,41 @@
+{
+  "id": "135d7082de8b4311825a3e76bf4c941a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实想说……你能不能别每次都这样对我。可话到嘴边又觉得，说了也没用，他也不会真的听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这么问，好像真的在认真听我说，没有急着给我下判断。我心里那句“你能不能别这样对我”其实一直堵着，可每次话到嘴边又觉得说了也没用。）\n（也许我可以试着说出来，不用讲得太清楚。反正现在只是让他知道我卡在哪儿，不是要一下子解决什么。）",
+        "reasoning": "（他这么问，好像真的在认真听我说，没有急着给我下判断。我心里那句“你能不能别这样对我”其实一直堵着，可每次话到嘴边又觉得说了也没用。）\n（也许我可以试着说出来，不用讲得太清楚。反正现在只是让他知道我卡在哪儿，不是要一下子解决什么。）"
+      }
+    }
+  ],
+  "created": 1794536219,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1470,
+    "total_tokens": 1566,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

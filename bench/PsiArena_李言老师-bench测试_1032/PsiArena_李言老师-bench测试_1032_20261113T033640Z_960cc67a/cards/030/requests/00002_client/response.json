@@ -1,0 +1,41 @@
+{
+  "id": "c12d947aaed54aebb5d59ae6a20489ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我试试吧。其实我也说不太清楚，就是最近跟对象在一起的时候，总觉得气氛怪怪的，聊不起来。嗯，还有……我可以把您当朋友那样聊吗？会不会更放松一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释咨询流程，语气比较温和，但我还是不太确定该信任到什么程度。她让我从最想谈的事开始，可我自己都说不清楚到底哪里出了问题，只是觉得和对象在一起时那种沉默让人难受。我不想一下子把心里那些乱七八糟的念头全倒出来，先模糊地说说表面上的困扰就好，看看她怎么回应。）\n（另外，我也想试探一下她的界限。如果我说想让她像朋友一样多关心我，不知道她会怎么处理。这样既能看看她的专业度，也能让我稍微安心一点。）",
+        "reasoning": "（咨询师在解释咨询流程，语气比较温和，但我还是不太确定该信任到什么程度。她让我从最想谈的事开始，可我自己都说不清楚到底哪里出了问题，只是觉得和对象在一起时那种沉默让人难受。我不想一下子把心里那些乱七八糟的念头全倒出来，先模糊地说说表面上的困扰就好，看看她怎么回应。）\n（另外，我也想试探一下她的界限。如果我说想让她像朋友一样多关心我，不知道她会怎么处理。这样既能看看她的专业度，也能让我稍微安心一点。）"
+      }
+    }
+  ],
+  "created": 1794549677,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 969,
+    "total_tokens": 1130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

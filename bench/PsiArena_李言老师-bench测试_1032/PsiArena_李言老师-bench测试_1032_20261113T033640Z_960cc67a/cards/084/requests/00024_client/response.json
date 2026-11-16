@@ -1,0 +1,41 @@
+{
+  "id": "791f67e7b0b3426dae91ca080a1951a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是逻辑关系吧。图表样式我改过好几遍了，反倒是别人能不能顺着看明白，我心里没底。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把模糊的担心拆成具体的问题。我确实一直笼统地觉得“不够直观”，但被这么一问，好像能分清一点了。图表我改过好几版，样式应该还行，真正让我不放心的是别人能不能顺着逻辑看明白。）\n（也许可以先从这个点入手，明天问同事的时候也能问得具体些。这样想着，心里稍微踏实了点，至少不是一团乱麻了。）",
+        "reasoning": "（咨询师在帮我把模糊的担心拆成具体的问题。我确实一直笼统地觉得“不够直观”，但被这么一问，好像能分清一点了。图表我改过好几版，样式应该还行，真正让我不放心的是别人能不能顺着逻辑看明白。）\n（也许可以先从这个点入手，明天问同事的时候也能问得具体些。这样想着，心里稍微踏实了点，至少不是一团乱麻了。）"
+      }
+    }
+  ],
+  "created": 1794545661,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3125,
+    "total_tokens": 3242,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

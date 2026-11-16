@@ -1,0 +1,41 @@
+{
+  "id": "ac7d1db2adaa43c4a2882cdc682e5ef1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……我没认真想过。可能就想轻松点吧，像普通认识一个人那样，不用端着。不过这么想，是不是太天真了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望相亲是什么样子……说实话我从来没认真想过这个。每次都是被推着去，想的都是怎么别出错。但要是真能自己选，我大概只想随便聊聊，不用端着。）\n（可这念头一冒出来就觉得不现实，我妈肯定觉得我太天真。不过说出来好像也没那么难堪，至少她没笑话我。）",
+        "reasoning": "（她问我希望相亲是什么样子……说实话我从来没认真想过这个。每次都是被推着去，想的都是怎么别出错。但要是真能自己选，我大概只想随便聊聊，不用端着。）\n（可这念头一冒出来就觉得不现实，我妈肯定觉得我太天真。不过说出来好像也没那么难堪，至少她没笑话我。）"
+      }
+    }
+  ],
+  "created": 1794554740,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2234,
+    "total_tokens": 2342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

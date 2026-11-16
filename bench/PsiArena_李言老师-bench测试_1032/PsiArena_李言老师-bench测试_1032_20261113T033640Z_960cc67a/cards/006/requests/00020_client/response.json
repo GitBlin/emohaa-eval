@@ -1,0 +1,41 @@
+{
+  "id": "8ebb7eea320f4b9b850712e5a205c0bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我大概会说“这个我觉得不太合适”，不用吵，就是把话摆出来。可真到那时候，嘴就像被什么堵住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想补一句什么话，这让我有点措手不及。我脑子里立刻浮现出上周开会时的场景，那些同事点头的样子，还有我咽回去的话。其实我真正想说的是“这样不合适”，但当时就是说不出口。）\n（现在回想起来，我确实太在意别人的看法了，总怕说错话得罪人。可越是这样，心里越难受。也许我该换个方式，比如私下提出来，而不是在会上硬碰硬。）",
+        "reasoning": "（咨询师问我最想补一句什么话，这让我有点措手不及。我脑子里立刻浮现出上周开会时的场景，那些同事点头的样子，还有我咽回去的话。其实我真正想说的是“这样不合适”，但当时就是说不出口。）\n（现在回想起来，我确实太在意别人的看法了，总怕说错话得罪人。可越是这样，心里越难受。也许我该换个方式，比如私下提出来，而不是在会上硬碰硬。）"
+      }
+    }
+  ],
+  "created": 1794541444,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2701,
+    "total_tokens": 2831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

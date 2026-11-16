@@ -1,0 +1,41 @@
+{
+  "id": "8423be60c38f4104a95fbe0096983c40",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）散不掉，回家还想着。我家里从小就信佛，爸妈每周都去庙里，我要是让他们知道这些念头……（声音低下去）他们肯定受不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我离开之后难受会不会散掉……这让我想起每次从寺庙回家的路上，那种感觉其实一直跟着我。不是走远了就没了。）\n（在家里也一样，我爸妈对这种事特别认真，从小就这样。我不敢让他们知道，怕他们觉得我不敬。可能正是这种从小到大的压力，让我现在连念头都控制不住。）",
+        "reasoning": "（他问我离开之后难受会不会散掉……这让我想起每次从寺庙回家的路上，那种感觉其实一直跟着我。不是走远了就没了。）\n（在家里也一样，我爸妈对这种事特别认真，从小就这样。我不敢让他们知道，怕他们觉得我不敬。可能正是这种从小到大的压力，让我现在连念头都控制不住。）"
+      }
+    }
+  ],
+  "created": 1794556906,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1789,
+    "total_tokens": 1902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

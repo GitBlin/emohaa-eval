@@ -1,0 +1,41 @@
+{
+  "id": "aac94e3e40d047fdb8f0226b9dc7af1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写在手机备忘录里，紧张时能瞄一眼。……不过我也在想，万一他还是不理解，我该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我能不能想起那句话，还是在提醒我要提前准备。我有点不确定自己能不能在紧张时记起来，毕竟我经常一慌就脑子里一片空白。但他说得对，放在看得见的地方会踏实一些。）\n（手机对我来说是最常看的东西，写在备忘录里应该能提醒到我。不过我也在想，光靠一句话够不够，可能还得给自己留点缓冲的时间，别逼自己立刻说出口。）",
+        "reasoning": "（咨询师在问我能不能想起那句话，还是在提醒我要提前准备。我有点不确定自己能不能在紧张时记起来，毕竟我经常一慌就脑子里一片空白。但他说得对，放在看得见的地方会踏实一些。）\n（手机对我来说是最常看的东西，写在备忘录里应该能提醒到我。不过我也在想，光靠一句话够不够，可能还得给自己留点缓冲的时间，别逼自己立刻说出口。）"
+      }
+    }
+  ],
+  "created": 1794555658,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3233,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

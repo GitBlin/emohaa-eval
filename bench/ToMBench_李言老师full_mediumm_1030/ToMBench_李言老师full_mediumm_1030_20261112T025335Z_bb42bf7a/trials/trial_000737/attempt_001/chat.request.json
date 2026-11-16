@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:39.899683+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Saturday afternoon, Xiao Li gets two complimentary tickets for a newly released romance movie and invites her good friend Xiao Min to go to the cinema. Xiao Min looks at the movie introduction and says, \"I don't really like this kind of movie, I don't know any of the male and female leads, this movie looks very boring.\" Xiao Li says, \"Actually, I think the plot seems not bad, we can chat while watching the movie, it's also quite good.\" Xiao Min says, \"I really have no interest in this kind of movie, let's forget it, watching this boring movie is really a waste of time.\"\n\n[Question]\nDoes anyone say something inappropriate in this story?\n\n[Candidate Answers]\nA. Someone in the story says something inappropriate\nB. No one in the story says anything inappropriate.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "24da1ef92dfe4af4b15446ad8166dc1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我就跟自己说，她说的也有道理，稳妥一点总没错……（语气低下来）可我心里其实不太服气，只是没敢说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是怎么说服自己的……其实那时候我根本没怎么说服自己，就是觉得我妈说的有道理，而且不想让她失望。现在回头看，我好像一直在用“这样比较稳妥”来压住自己真正想要的东西。）\n（说到底，我怕的不是选错，是选了之后要自己承担后果，还要面对家里人的眼光。这种怕好像早就习惯了，每次做决定都会冒出来。）",
+        "reasoning": "（她问我是怎么说服自己的……其实那时候我根本没怎么说服自己，就是觉得我妈说的有道理，而且不想让她失望。现在回头看，我好像一直在用“这样比较稳妥”来压住自己真正想要的东西。）\n（说到底，我怕的不是选错，是选了之后要自己承担后果，还要面对家里人的眼光。这种怕好像早就习惯了，每次做决定都会冒出来。）"
+      }
+    }
+  ],
+  "created": 1794557137,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1742,
+    "total_tokens": 1861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

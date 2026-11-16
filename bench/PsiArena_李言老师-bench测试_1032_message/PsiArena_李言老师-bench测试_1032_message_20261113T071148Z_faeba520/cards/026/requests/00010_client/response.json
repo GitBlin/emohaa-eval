@@ -1,0 +1,41 @@
+{
+  "id": "41d1880f52dd418b940044f456aab94d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "想听他们说一句“你已经很好了”吧……说到这儿我鼻子有点酸。奇怪，都这么大岁数了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想听到父母说什么……这个问题一下子戳到我了。我从来没跟别人说过这些，连我丈夫都没提过。那时候我多希望他们说一句“你已经很棒了”，可他们从来没说过。现在我对女儿，是不是也只会盯着她做错的地方？这个念头让我心里一沉，有点难受。）\n（我发现自己好像一直在重复父母的方式，明明知道那种委屈，却还是把同样的压力给了女儿。想到这里，我有点说不上来的愧疚，也害怕自己真的变成了他们的样子。）",
+        "reasoning": "（她问我最想听到父母说什么……这个问题一下子戳到我了。我从来没跟别人说过这些，连我丈夫都没提过。那时候我多希望他们说一句“你已经很棒了”，可他们从来没说过。现在我对女儿，是不是也只会盯着她做错的地方？这个念头让我心里一沉，有点难受。）\n（我发现自己好像一直在重复父母的方式，明明知道那种委屈，却还是把同样的压力给了女儿。想到这里，我有点说不上来的愧疚，也害怕自己真的变成了他们的样子。）"
+      }
+    }
+  ],
+  "created": 1794555052,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1738,
+    "total_tokens": 1873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

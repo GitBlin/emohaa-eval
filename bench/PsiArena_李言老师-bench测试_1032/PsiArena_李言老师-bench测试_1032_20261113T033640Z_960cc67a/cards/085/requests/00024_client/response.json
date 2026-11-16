@@ -1,0 +1,41 @@
+{
+  "id": "a2aba4e63e3441eda5f7e7fb15d7e1ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我还真不太清楚。好像只是听人提过一句，也没看到正式的通知。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清新项目的具体时间点，这让我觉得可以试着把问题想得更实际一些。不过我心里还是有点没底，不太确定自己到底掌握了多少信息。）\n（我想了想，好像确实没看到正式的通知，只是听同事随口提过一句。这种感觉挺熟悉的，就是别人都知道得比我多，而我还得去问。但既然已经走到这一步了，也许可以再往下想想，如果真去问了，我该怎么开口。）",
+        "reasoning": "（咨询师在帮我理清新项目的具体时间点，这让我觉得可以试着把问题想得更实际一些。不过我心里还是有点没底，不太确定自己到底掌握了多少信息。）\n（我想了想，好像确实没看到正式的通知，只是听同事随口提过一句。这种感觉挺熟悉的，就是别人都知道得比我多，而我还得去问。但既然已经走到这一步了，也许可以再往下想想，如果真去问了，我该怎么开口。）"
+      }
+    }
+  ],
+  "created": 1794545682,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3102,
+    "total_tokens": 3222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

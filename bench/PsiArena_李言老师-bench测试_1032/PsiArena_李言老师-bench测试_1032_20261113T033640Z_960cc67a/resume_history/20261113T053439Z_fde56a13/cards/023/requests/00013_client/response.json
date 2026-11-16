@@ -1,0 +1,41 @@
+{
+  "id": "fbdfa0a3ebc94d4da19ab21aaeca24da",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我当时想说“不是我弄的，你先听我讲完”。可话到嘴边就变成“好的，我改”。说完自己都恶心，觉得怎么又这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我当时最想回的那句话，这让我一下子有点堵。他好像没有要评判我，但我还是不太习惯把那种憋着的话直接说出口。）\n（我其实心里早就想顶回去了，可每次话到嘴边就变成道歉。现在说出来，感觉像在承认自己真的那么没用，又好像有点想让他知道我不是没脾气。）",
+        "reasoning": "（咨询师在问我当时最想回的那句话，这让我一下子有点堵。他好像没有要评判我，但我还是不太习惯把那种憋着的话直接说出口。）\n（我其实心里早就想顶回去了，可每次话到嘴边就变成道歉。现在说出来，感觉像在承认自己真的那么没用，又好像有点想让他知道我不是没脾气。）"
+      }
+    }
+  ],
+  "created": 1794542228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2186,
+    "total_tokens": 2301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8a0c6017b7764daaa0e4279749880964",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）有一次加班，一个同事给我带了杯热饮，也没多说什么。我当时愣了一下，其实……有点想哭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有哪次被主动关心时心里是暖的……这让我突然想起上个月那个同事。其实我平时不太愿意承认这种事，总觉得记着别人的好显得自己很依赖。但那次确实……她只是递了杯热茶，什么都没多问，我反而没那么紧张。）\n（可这种温暖的感觉一冒出来，马上又觉得不该太当回事。人家可能就是顺手，我要是真往心里去，下次是不是又会期待更多？然后又开始自责，觉得自己太贪心。这种矛盾让我有点不知道怎么往下说。）",
+        "reasoning": "（她问我有没有哪次被主动关心时心里是暖的……这让我突然想起上个月那个同事。其实我平时不太愿意承认这种事，总觉得记着别人的好显得自己很依赖。但那次确实……她只是递了杯热茶，什么都没多问，我反而没那么紧张。）\n（可这种温暖的感觉一冒出来，马上又觉得不该太当回事。人家可能就是顺手，我要是真往心里去，下次是不是又会期待更多？然后又开始自责，觉得自己太贪心。这种矛盾让我有点不知道怎么往下说。）"
+      }
+    }
+  ],
+  "created": 1794546064,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2632,
+    "total_tokens": 2775,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

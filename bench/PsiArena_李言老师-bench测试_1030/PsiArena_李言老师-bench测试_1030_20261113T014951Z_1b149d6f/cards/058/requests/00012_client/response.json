@@ -1,0 +1,41 @@
+{
+  "id": "01bf7581be234118b7f5fb65471df133",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）有点想哭……我想跟她说，不是你的错，家里安静不是因为你。可是……我又觉得她那时候也没别的办法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对小时候的自己说话……这有点难，我从来没这样想过。心里突然有点酸，好像那个小孩一直没人管，就站在那儿。）\n（我想说别怪自己，可话到嘴边又觉得太简单了。她那时候那么小，家里一安静就害怕，能怎么办呢。我其实有点心疼她，又有点气她太懂事。）",
+        "reasoning": "（她让我对小时候的自己说话……这有点难，我从来没这样想过。心里突然有点酸，好像那个小孩一直没人管，就站在那儿。）\n（我想说别怪自己，可话到嘴边又觉得太简单了。她那时候那么小，家里一安静就害怕，能怎么办呢。我其实有点心疼她，又有点气她太懂事。）"
+      }
+    }
+  ],
+  "created": 1794537431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2240,
+    "total_tokens": 2351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

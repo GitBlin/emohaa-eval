@@ -1,0 +1,41 @@
+{
+  "id": "0bb603ccfd4c46e5a29873c81ed66ed5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是。每次有分歧，我都先让步，觉得这样关系才不会坏。可让完又觉得，好像没人在乎我想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是不是常常先退让……确实是这样。每次和朋友有分歧，我都会下意识地让步，怕争执会让关系变糟。可退让之后心里又闷闷的，觉得自己的感受被忽略了。）\n（我想到那次聚会，她和新朋友聊得那么开心，我站在旁边像个局外人。其实当时很想说点什么，但又怕扫兴，最后什么都没说。这种感觉好熟悉，好像从小就是这样，习惯了把话咽回去。）",
+        "reasoning": "（她问我是不是常常先退让……确实是这样。每次和朋友有分歧，我都会下意识地让步，怕争执会让关系变糟。可退让之后心里又闷闷的，觉得自己的感受被忽略了。）\n（我想到那次聚会，她和新朋友聊得那么开心，我站在旁边像个局外人。其实当时很想说点什么，但又怕扫兴，最后什么都没说。这种感觉好熟悉，好像从小就是这样，习惯了把话咽回去。）"
+      }
+    }
+  ],
+  "created": 1794553959,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2098,
+    "total_tokens": 2224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

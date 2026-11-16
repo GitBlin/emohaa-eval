@@ -1,0 +1,41 @@
+{
+  "id": "55db958d1f934b95b121a29f8ccd41d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好吧，那就算了。晚上吧，我晚上更容易静下来，虽然静下来也不太舒服就是了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他直接拒绝了私下联系的请求，态度很明确但不算生硬。这让我稍微放心了一点，至少界限是清楚的。不过被拒绝还是有点尴尬，我得把话题拉回来，不能显得太在意这件事。）\n（晚上确实是我最难受的时候，但白天工作又抽不开身。这个问题我得如实回答，但又不想说得太细，毕竟还没完全信任他。）",
+        "reasoning": "（他直接拒绝了私下联系的请求，态度很明确但不算生硬。这让我稍微放心了一点，至少界限是清楚的。不过被拒绝还是有点尴尬，我得把话题拉回来，不能显得太在意这件事。）\n（晚上确实是我最难受的时候，但白天工作又抽不开身。这个问题我得如实回答，但又不想说得太细，毕竟还没完全信任他。）"
+      }
+    }
+  ],
+  "created": 1794545581,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1334,
+    "total_tokens": 1438,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

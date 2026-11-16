@@ -1,0 +1,41 @@
+{
+  "id": "bd49ff1bfad44386b1f2d3a3f7950ef6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低声）我想问他疼不疼……可我们家从来不这样说话。关心也像是多余的。说出来，好像有点……怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出当时最想对父亲说的话，这让我有些难受。但既然已经聊到这里，或许可以试着说出来。）\n（我一直觉得关心和害怕是不该表现出来的，家里也从不允许这样。可那个画面里，我其实很想问问他疼不疼。说出来之后，好像有点松动，又有点不安。）",
+        "reasoning": "（咨询师在引导我说出当时最想对父亲说的话，这让我有些难受。但既然已经聊到这里，或许可以试着说出来。）\n（我一直觉得关心和害怕是不该表现出来的，家里也从不允许这样。可那个画面里，我其实很想问问他疼不疼。说出来之后，好像有点松动，又有点不安。）"
+      }
+    }
+  ],
+  "created": 1794543545,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1981,
+    "total_tokens": 2081,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

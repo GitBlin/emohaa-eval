@@ -1,0 +1,41 @@
+{
+  "id": "516c4ac100ee4ae38428564f969b54fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想晚上发消息吧，白天她可能忙，我也容易胡思乱想。先随便聊聊，看她回得怎么样，再决定要不要说我的感受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把问话的方式具体化，让我想时机。这让我觉得没那么慌，好像真的可以试着做点什么。但我又怕自己一冲动发出去，结果对方冷淡，所以得先想个稳妥的办法。）\n（我想起平时我们聊得比较自然的时候，就是晚上。那时候她一般没那么忙，我也比较容易开口。先这样定下来，我心里踏实一点，至少不是空想。）",
+        "reasoning": "（咨询师在帮我把问话的方式具体化，让我想时机。这让我觉得没那么慌，好像真的可以试着做点什么。但我又怕自己一冲动发出去，结果对方冷淡，所以得先想个稳妥的办法。）\n（我想起平时我们聊得比较自然的时候，就是晚上。那时候她一般没那么忙，我也比较容易开口。先这样定下来，我心里踏实一点，至少不是空想。）"
+      }
+    }
+  ],
+  "created": 1794541118,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2592,
+    "total_tokens": 2715,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

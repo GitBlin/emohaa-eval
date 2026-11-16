@@ -1,0 +1,41 @@
+{
+  "id": "e83675b45b49489d8642ca965073a99f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想动一点，但不想一下子把自己逼到墙角。也许……可以先做点小的试探，不用一上来就辞职。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想动一点还是先看清楚，其实是在试探我是不是真有行动的意愿。我确实不想再原地打转，但一下子大动又做不到。房贷和家里那关绕不开，我得先找个不冒险的起点。）\n（也许可以先从小的试探开始，比如不急着辞职，先看看别的可能性。这样既不会让家里立刻炸锅，也能让我觉得日子有点盼头。）",
+        "reasoning": "（她问我想动一点还是先看清楚，其实是在试探我是不是真有行动的意愿。我确实不想再原地打转，但一下子大动又做不到。房贷和家里那关绕不开，我得先找个不冒险的起点。）\n（也许可以先从小的试探开始，比如不急着辞职，先看看别的可能性。这样既不会让家里立刻炸锅，也能让我觉得日子有点盼头。）"
+      }
+    }
+  ],
+  "created": 1794552390,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2805,
+    "total_tokens": 2918,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

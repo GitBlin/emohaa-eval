@@ -1,0 +1,41 @@
+{
+  "id": "16a9a861a754472888aaa613dc476323",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提前五分钟……听起来好像还行。要不就先试试这个，别一上来就要求自己做健康早餐。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把目标拆小，听起来好像真的没那么难。提前五分钟起床……比起一下子要早起做健康早餐，这个确实不那么吓人。不过我心里还是有点打鼓，万一连五分钟都做不到，会不会又变成一次证明自己不行的事。）\n（但我又觉得，也许可以先试试看。毕竟之前总想着一步到位，结果反而什么都没变。那杯热的东西倒是简单，至少不用跟自己较劲。先别想太远，就试一个早上看看。）",
+        "reasoning": "（咨询师在帮我把目标拆小，听起来好像真的没那么难。提前五分钟起床……比起一下子要早起做健康早餐，这个确实不那么吓人。不过我心里还是有点打鼓，万一连五分钟都做不到，会不会又变成一次证明自己不行的事。）\n（但我又觉得，也许可以先试试看。毕竟之前总想着一步到位，结果反而什么都没变。那杯热的东西倒是简单，至少不用跟自己较劲。先别想太远，就试一个早上看看。）"
+      }
+    }
+  ],
+  "created": 1794558396,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2730,
+    "total_tokens": 2856,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:41:05.859482+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn the weekend, Xiao Li's family is planning a family gathering. Xiao Li excitedly says to her mother, \"Mom, can we go hiking? The scenery there is beautiful!\" The mother smiles and replies, \"That sounds like a good idea, let's ask dad's opinion.\" The father is looking at the seaside travel guide in his hand, then says to everyone, \"Actually, I prefer to go to the seaside, the scenery there is also beautiful, and we can play in the water at the seaside.\" Xiao Li nods after hearing this and says, \"Then we go to the seaside, next time we can go hiking.\" The mother also agrees, \"Okay, a seaside gathering sounds great.\" On the day of the gathering, the whole family goes to the seaside, everyone has a lot of fun, and Xiao Li also enjoys the fun of the seaside.\n\n[Question]\nIf there is, which sentence is inappropriate?\n\n[Candidate Answers]\nA. There is no inappropriate sentence.\nB. Mom, can we go hiking? The scenery there is beautiful!\nC. Actually, I prefer to go to the seaside, the scenery there is also beautiful, and we can play in the water at the seaside.\nD. That sounds like a good idea, let's ask dad's opinion.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

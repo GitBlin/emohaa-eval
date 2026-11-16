@@ -1,0 +1,41 @@
+{
+  "id": "abd68bf9819a45878ccb99342c27b4a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像都有。有时候是想到考试、想到同学，有时候也没什么事，就是一起来就觉得沉。可能我憋太久了，自己也分不清了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种沉重感是具体还是模糊的，好像是想帮我把情绪拆开来看。但我自己也说不清楚，有时候是想到考试和同学，有时候就是没来由地沉。可能……我真的习惯把所有事都憋着，连自己都分不清了。）\n（想到同学，那种难受又冒出来了。他们说说笑笑的，我站在旁边像个外人。其实我挺想有人来问问我的，可又怕人家觉得我烦。这种矛盾让我更不想开口了。）",
+        "reasoning": "（咨询师在问我这种沉重感是具体还是模糊的，好像是想帮我把情绪拆开来看。但我自己也说不清楚，有时候是想到考试和同学，有时候就是没来由地沉。可能……我真的习惯把所有事都憋着，连自己都分不清了。）\n（想到同学，那种难受又冒出来了。他们说说笑笑的，我站在旁边像个外人。其实我挺想有人来问问我的，可又怕人家觉得我烦。这种矛盾让我更不想开口了。）"
+      }
+    }
+  ],
+  "created": 1794546389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2130,
+    "total_tokens": 2271,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

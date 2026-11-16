@@ -1,0 +1,41 @@
+{
+  "id": "81d4f9d296bc4d7c93cc3cdd2012b0bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是“完了，她肯定觉得我变了”。现在想想，我好像把“帮别人”和“我是好人”绑在一起了，一拒绝，整个人都不对劲了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是拒绝之后最先冒出来的念头。我得想想……那次拒绝之后，心里马上就觉得完了，好像自己做了很坏的事。）\n（那种感觉太熟悉了，就像小时候没帮上家里人的忙，会觉得自己不够好。其实我好像一直把“帮别人”和“我这个人还行”绑在一起，拒绝了，那根线就断了。）",
+        "reasoning": "（她问的是拒绝之后最先冒出来的念头。我得想想……那次拒绝之后，心里马上就觉得完了，好像自己做了很坏的事。）\n（那种感觉太熟悉了，就像小时候没帮上家里人的忙，会觉得自己不够好。其实我好像一直把“帮别人”和“我这个人还行”绑在一起，拒绝了，那根线就断了。）"
+      }
+    }
+  ],
+  "created": 1794535049,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2346,
+    "total_tokens": 2463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2f38f951a87e48f3b8abea98902932bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最想确认……他是不是也愿意跟我说话吧。这样问是不是有点自作多情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想确认的是什么，这让我突然意识到，我其实一直想确认的是他会不会也愿意和我说话。这个想法让我有点不好意思，但又觉得说出来好像轻松了一点。）\n（不过我还是担心自己太主动会显得奇怪，所以想先问问咨询师，这样想是不是正常的。毕竟我平时很少主动，也不太确定别人会怎么看我。）",
+        "reasoning": "（咨询师问我最想确认的是什么，这让我突然意识到，我其实一直想确认的是他会不会也愿意和我说话。这个想法让我有点不好意思，但又觉得说出来好像轻松了一点。）\n（不过我还是担心自己太主动会显得奇怪，所以想先问问咨询师，这样想是不是正常的。毕竟我平时很少主动，也不太确定别人会怎么看我。）"
+      }
+    }
+  ],
+  "created": 1794551626,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2211,
+    "total_tokens": 2309,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

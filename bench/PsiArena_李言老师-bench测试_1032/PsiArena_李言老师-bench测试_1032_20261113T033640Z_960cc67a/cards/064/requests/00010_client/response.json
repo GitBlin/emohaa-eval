@@ -1,0 +1,41 @@
+{
+  "id": "9fac0574456041f98c7a74be0c406a79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "想联系……可能是我以前最亲近的那个室友吧。但我不敢，怕一开口发现我们早就没话说了。我家里人也总说，关系是要主动维系的，可我越听越觉得累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想先联系谁……其实我脑子里闪过好几个名字，但真的要我选一个去开口，我就又退缩了。我害怕联系了之后，发现对方已经不像从前那样在意我了。）\n（而且我家里人总说要主动维系关系，可越是这样说，我越觉得主动联系变成了一种负担，好像不联系就是我的错。这种感觉让我更不知道该怎么迈出那一步了。）",
+        "reasoning": "（她问我想先联系谁……其实我脑子里闪过好几个名字，但真的要我选一个去开口，我就又退缩了。我害怕联系了之后，发现对方已经不像从前那样在意我了。）\n（而且我家里人总说要主动维系关系，可越是这样说，我越觉得主动联系变成了一种负担，好像不联系就是我的错。这种感觉让我更不知道该怎么迈出那一步了。）"
+      }
+    }
+  ],
+  "created": 1794544427,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1715,
+    "total_tokens": 1846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3d78dbf37d85424fad0875284c71ff81",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能就问一句“你还好吗”。但我又怕太刻意，别人听见会不会觉得奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有想到具体的话，这让我有点紧张但又觉得可以试试。我其实在心里反复想过很多次，但一直没敢说出口。）\n（如果只是简单问一句“你还好吗”应该不会太奇怪吧？这样既不会显得太刻意，也能表达关心。虽然还是有点担心被其他同学看到，但至少比什么都不做强。）",
+        "reasoning": "（咨询师问我有没有想到具体的话，这让我有点紧张但又觉得可以试试。我其实在心里反复想过很多次，但一直没敢说出口。）\n（如果只是简单问一句“你还好吗”应该不会太奇怪吧？这样既不会显得太刻意，也能表达关心。虽然还是有点担心被其他同学看到，但至少比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1794550108,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2357,
+    "total_tokens": 2457,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

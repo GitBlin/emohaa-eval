@@ -1,0 +1,41 @@
+{
+  "id": "ef59eedd290946fd87812bfe28ff88f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这么一说好像轻松点，不算“任务”，就是……想翻就翻。行，我先试试这个，不行再改。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把标准放低，让我不用那么紧绷。我确实怕定了做不到反而更难受，可他说“想翻就翻”好像真的没那么大压力。不过心里还是有点打鼓，这样会不会太松了，松到又变成什么都不做。）\n（但转念一想，以前那些严格的计划都没坚持下来，也许问题就出在太严了。先试试看吧，反正不行再调整。至少现在这个说法让我没那么害怕了。）",
+        "reasoning": "（咨询师在帮我把标准放低，让我不用那么紧绷。我确实怕定了做不到反而更难受，可他说“想翻就翻”好像真的没那么大压力。不过心里还是有点打鼓，这样会不会太松了，松到又变成什么都不做。）\n（但转念一想，以前那些严格的计划都没坚持下来，也许问题就出在太严了。先试试看吧，反正不行再调整。至少现在这个说法让我没那么害怕了。）"
+      }
+    }
+  ],
+  "created": 1794539119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3120,
+    "total_tokens": 3249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

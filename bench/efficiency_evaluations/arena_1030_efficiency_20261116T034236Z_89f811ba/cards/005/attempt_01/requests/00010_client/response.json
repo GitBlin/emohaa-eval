@@ -1,0 +1,47 @@
+{
+  "id": "d2f88c29cc734249bbfa434a8ee0c918",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）……那我好像就不知道自己算什么了。说出来有点丢人，我好像得靠着别人的回复，才觉得自己是正常的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这个分数没人给的时候，我心里突然一紧。这个问题戳到了我平时最不敢想的地方，好像真的没人能告诉我我到底够不够好。）\n（我想到小时候，家里总是说要多交朋友、多跟人联系，好像只有别人愿意搭理我，我才算个正常的人。这种感觉让我有点委屈，又有点说不清楚。）",
+        "reasoning": "（咨询师问到这个分数没人给的时候，我心里突然一紧。这个问题戳到了我平时最不敢想的地方，好像真的没人能告诉我我到底够不够好。）\n（我想到小时候，家里总是说要多交朋友、多跟人联系，好像只有别人愿意搭理我，我才算个正常的人。这种感觉让我有点委屈，又有点说不清楚。）"
+      }
+    }
+  ],
+  "created": 1794800726,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1875,
+    "total_tokens": 1981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

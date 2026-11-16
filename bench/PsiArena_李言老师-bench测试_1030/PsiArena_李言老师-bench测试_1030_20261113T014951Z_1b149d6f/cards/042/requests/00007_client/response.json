@@ -1,0 +1,41 @@
+{
+  "id": "0713aeabdfde448fa075a8a4a9752bc4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……说实话，挺频繁的。几乎每天晚上都得喝点才能睡着。我也知道这样不好，医生说我这血糖……唉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师问得挺直接的，我本来不想这么快说喝酒的事，但话都到这儿了，瞒着也没意思。不过承认自己天天喝，心里还是有点难堪，得让他知道这不是什么好事，我自己也清楚。）\n（他刚才说喝酒反而会加重难受，这话我其实明白，可就是停不下来。说出来有点丢人，但也许我得让他看到我并不是完全不在乎自己的身体。）",
+        "reasoning": "（这个咨询师问得挺直接的，我本来不想这么快说喝酒的事，但话都到这儿了，瞒着也没意思。不过承认自己天天喝，心里还是有点难堪，得让他知道这不是什么好事，我自己也清楚。）\n（他刚才说喝酒反而会加重难受，这话我其实明白，可就是停不下来。说出来有点丢人，但也许我得让他看到我并不是完全不在乎自己的身体。）"
+      }
+    }
+  ],
+  "created": 1794536589,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1645,
+    "total_tokens": 1761,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

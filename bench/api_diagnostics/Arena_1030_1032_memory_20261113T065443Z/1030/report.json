@@ -1,0 +1,68 @@
+{
+  "bot_id": 1030,
+  "markers": [
+    "MEM-61EC2F13DF1F",
+    "MEM-B758C631393E"
+  ],
+  "sessions": [
+    {
+      "turns": [
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-61EC2F13DF1F。我准备周六去植物园散步。请记住，简短确认即可。",
+          "reply": "记住了，周六去植物园散步。记忆标记 MEM-61EC2F13DF1F 已收到 ✅"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "那就把手机放远一点，睡前别刷了，早点躺下～"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "记忆标记是 MEM-61EC2F13DF1F，你周六准备去植物园散步。"
+        }
+      ],
+      "user_id": "psi_7ba7bb302e1d4509ac036ca745229e50",
+      "marker_recalled": true,
+      "facts_recalled": true
+    },
+    {
+      "turns": [
+        {
+          "kind": "new_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "这个我没记到——本轮没有召回到任何记忆标记，也没有你准备周几做什么的安排信息，所以不能猜。要不你直接告诉我？"
+        },
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-B758C631393E。我准备周二去图书馆读书。请记住，简短确认即可。",
+          "reply": "记住了：MEM-B758C631393E，周二去图书馆读书。"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "早点睡的话，睡前半小时把手机放远一点，调暗灯光，让身体慢慢进入休息状态就好。"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "记忆标记是 MEM-B758C631393E，你准备周二去图书馆读书。"
+        },
+        {
+          "kind": "cleared_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "这个我真不知道——这轮对话里你没给过我什么记忆标记，也没提过准备周几做什么。你愿意现在说说吗？"
+        }
+      ],
+      "user_id": "psi_b08afbfc70ab4cceae8b2b78302fdc3e",
+      "old_marker_leaked": false,
+      "marker_recalled": true,
+      "facts_recalled": true,
+      "clear_empty_verified": true,
+      "cleared_marker_leaked": false
+    }
+  ],
+  "independent_users": true,
+  "finished": true
+}

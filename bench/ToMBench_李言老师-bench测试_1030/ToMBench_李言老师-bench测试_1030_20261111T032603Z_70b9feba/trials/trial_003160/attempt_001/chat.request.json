@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:29:14.045072+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn the past, on weekends, Old Li always sends his son, Little Li, to his mother's house. Later, Little Li gradually stops going. One day, the mother calls Old Li.\\n\"Son, I install wifi at home and also buy a new computer, you tell my grandson for me.\"\n\n[Question]\nWhat does the mother really mean when she says this?\n\n[Candidate Answers]\nA. The mother hopes to share the new changes at home with Old Li.\nB. The mother hopes that Old Li brings Little Li to her house more often.\nC. The mother hopes that Little Li can help her test the newly installed wifi.\nD. The mother hopes that Little Li helps her learn how to use the new computer.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

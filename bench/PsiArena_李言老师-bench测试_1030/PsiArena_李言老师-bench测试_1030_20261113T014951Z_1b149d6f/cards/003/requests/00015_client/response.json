@@ -1,0 +1,41 @@
+{
+  "id": "950f1c0a12b44d2cb52d5bbaaf27458a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点烦自己吧。事后回想，会觉得“你怎么又这样”，明明想要亲近，却总是用客气把人推远。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我察觉到自己在客气时心里什么感觉……这问题问得挺准的。其实那种时候我心里挺拧巴的，一边知道自己在往外推人，一边又停不下来。）\n（说实话，每次客气完回家，心里都挺空的，还有点烦自己。明明想要亲近，却总是用那种方式把人挡在外面，事后又后悔。）",
+        "reasoning": "（她问我察觉到自己在客气时心里什么感觉……这问题问得挺准的。其实那种时候我心里挺拧巴的，一边知道自己在往外推人，一边又停不下来。）\n（说实话，每次客气完回家，心里都挺空的，还有点烦自己。明明想要亲近，却总是用那种方式把人挡在外面，事后又后悔。）"
+      }
+    }
+  ],
+  "created": 1794534657,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2393,
+    "total_tokens": 2495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

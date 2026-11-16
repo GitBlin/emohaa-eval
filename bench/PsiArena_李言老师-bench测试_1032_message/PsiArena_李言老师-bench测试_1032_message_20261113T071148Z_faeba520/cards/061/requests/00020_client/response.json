@@ -1,0 +1,41 @@
+{
+  "id": "08374c62197645b2b127e0de8a9ec3e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "只写一句……听起来好像没那么吓人。（想了想）那我可以试试，就写当时脑子里冒出来的那句话，不管好不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说允许自己写得乱一点、只写一句……这好像在告诉我不用那么完美。嗯，我确实每次一写就想着要写完整、写好，结果反而写不下去。只写一句的话，好像没那么大压力。不过这真的有用吗？我有点怀疑，但也许可以试试，反正也不会更糟。）\n（晚上那个声音最响的时候，如果随手记一句，说不定能让我稍微抽离一点。她说的这个方向，感觉是让我别把标准定那么高，先动起来。我可以试试看，但得给自己定个不那么吓人的目标。）",
+        "reasoning": "（她说允许自己写得乱一点、只写一句……这好像在告诉我不用那么完美。嗯，我确实每次一写就想着要写完整、写好，结果反而写不下去。只写一句的话，好像没那么大压力。不过这真的有用吗？我有点怀疑，但也许可以试试，反正也不会更糟。）\n（晚上那个声音最响的时候，如果随手记一句，说不定能让我稍微抽离一点。她说的这个方向，感觉是让我别把标准定那么高，先动起来。我可以试试看，但得给自己定个不那么吓人的目标。）"
+      }
+    }
+  ],
+  "created": 1794556765,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2800,
+    "total_tokens": 2951,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7abb224d2aca4cecaa9aac3c345c83e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "洗碗吧，反正本来也要洗，手上有事做，脑子就不容易乱转。今天聊到这儿，我心里好像清楚了一点点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我哪个更容易先做到，是在帮我把计划落到具体的小事上。我想了想，洗碗是我本来就要做的事，不用额外费劲，比看剧更容易坚持。看剧反而容易走神，又想起他。）\n（今天聊到这儿，我其实有点意外自己能把心里那些憋着的话说出来，还理出了几句能用的。虽然不知道回去真做起来会怎样，但至少没那么慌了，心里好像有个小方向。）",
+        "reasoning": "（咨询师问我哪个更容易先做到，是在帮我把计划落到具体的小事上。我想了想，洗碗是我本来就要做的事，不用额外费劲，比看剧更容易坚持。看剧反而容易走神，又想起他。）\n（今天聊到这儿，我其实有点意外自己能把心里那些憋着的话说出来，还理出了几句能用的。虽然不知道回去真做起来会怎样，但至少没那么慌了，心里好像有个小方向。）"
+      }
+    }
+  ],
+  "created": 1794552755,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3448,
+    "total_tokens": 3577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

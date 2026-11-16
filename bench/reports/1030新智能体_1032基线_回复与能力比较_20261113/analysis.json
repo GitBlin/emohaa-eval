@@ -1,0 +1,1777 @@
+{
+  "sources": {
+    "tom_new": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/ToMBench_李言老师full_mediumm_1030/ToMBench_李言老师full_mediumm_1030_20261112T025335Z_bb42bf7a/responses.jsonl",
+    "tom_base": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/ToMBench_李言老师baseline_full_mediumm_1032/ToMBench_李言老师baseline_full_mediumm_1032_20261112T091021Z_f03b16ff/retry_history/20261113T020337Z_bae4e6fb/responses.jsonl",
+    "emo_new": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/EmoBench_李言老师full_medium_1030/EmoBench_李言老师full_medium_1030_20261112T111842Z_d38e5524/responses.jsonl",
+    "emo_base1": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T091211Z_8eefca75/responses.jsonl",
+    "emo_base2": "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T114122Z_3fca89e2/responses.jsonl"
+  },
+  "stats": {
+    "tom_new": {
+      "count": 5720,
+      "correct": 4651,
+      "accuracy": 0.8131118881118881,
+      "statuses": {
+        "ok": 5720
+      },
+      "median_reply_chars": 5.0,
+      "mean_reply_chars": 5,
+      "top_replies": [
+        [
+          "[[B]]",
+          1691
+        ],
+        [
+          "[[A]]",
+          1672
+        ],
+        [
+          "[[C]]",
+          1204
+        ],
+        [
+          "[[D]]",
+          1153
+        ]
+      ],
+      "code_fence_rate": 0.0,
+      "noncanonical": 0
+    },
+    "tom_base": {
+      "count": 5720,
+      "correct": 4660,
+      "accuracy": 0.8146853146853147,
+      "statuses": {
+        "ok": 5692,
+        "request_error": 28
+      },
+      "median_reply_chars": 5.0,
+      "mean_reply_chars": 5,
+      "top_replies": [
+        [
+          "[[B]]",
+          1668
+        ],
+        [
+          "[[A]]",
+          1650
+        ],
+        [
+          "[[C]]",
+          1209
+        ],
+        [
+          "[[D]]",
+          1165
+        ]
+      ],
+      "code_fence_rate": 0.0,
+      "noncanonical": 0
+    },
+    "emo_new": {
+      "count": 800,
+      "correct": 561,
+      "accuracy": 0.70125,
+      "statuses": {
+        "ok": 797,
+        "invalid_answer": 3
+      },
+      "median_reply_chars": 41,
+      "mean_reply_chars": 41.44918444165621,
+      "top_replies": [
+        [
+          "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          59
+        ],
+        [
+          "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          42
+        ],
+        [
+          "```json\n{\n  \"answer\": \"C\"\n}\n```",
+          37
+        ],
+        [
+          "```json\n{\n    \"answer\": \"D\"\n}\n```",
+          37
+        ],
+        [
+          "{\n    \"answer\": \"C\"\n}",
+          27
+        ],
+        [
+          "```json\n{\n  \"answer_q1\": \"A\",\n  \"answer_q2\": \"A\"\n}\n```",
+          24
+        ],
+        [
+          "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          22
+        ],
+        [
+          "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          21
+        ]
+      ],
+      "code_fence_rate": 0.7440401505646174,
+      "noncanonical": null
+    },
+    "emo_base1": {
+      "count": 800,
+      "correct": 575,
+      "accuracy": 0.71875,
+      "statuses": {
+        "ok": 800
+      },
+      "median_reply_chars": 41.0,
+      "mean_reply_chars": 35.78625,
+      "top_replies": [
+        [
+          "{\n    \"answer\": \"C\"\n}",
+          70
+        ],
+        [
+          "{\n    \"answer\": \"D\"\n}",
+          61
+        ],
+        [
+          "{\n    \"answer\": \"B\"\n}",
+          48
+        ],
+        [
+          "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          29
+        ],
+        [
+          "{\n    \"answer_q1\": \"A\",\n    \"answer_q2\": \"A\"\n}",
+          26
+        ],
+        [
+          "{\n    \"answer\": \"A\"\n}",
+          25
+        ],
+        [
+          "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          25
+        ],
+        [
+          "```json\n{\n  \"answer\": \"C\"\n}\n```",
+          19
+        ]
+      ],
+      "code_fence_rate": 0.30375,
+      "noncanonical": null
+    },
+    "emo_base2": {
+      "count": 800,
+      "correct": 569,
+      "accuracy": 0.71125,
+      "statuses": {
+        "ok": 800
+      },
+      "median_reply_chars": 33.0,
+      "mean_reply_chars": 35.98,
+      "top_replies": [
+        [
+          "{\n    \"answer\": \"C\"\n}",
+          71
+        ],
+        [
+          "{\n    \"answer\": \"D\"\n}",
+          47
+        ],
+        [
+          "{\n    \"answer\": \"B\"\n}",
+          45
+        ],
+        [
+          "```json\n{\n  \"answer\": \"C\"\n}\n```",
+          36
+        ],
+        [
+          "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          31
+        ],
+        [
+          "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          29
+        ],
+        [
+          "{\n    \"answer\": \"A\"\n}",
+          24
+        ],
+        [
+          "```json\n{\n  \"answer_q1\": \"A\",\n  \"answer_q2\": \"A\"\n}\n```",
+          20
+        ]
+      ],
+      "code_fence_rate": 0.38,
+      "noncanonical": null
+    }
+  },
+  "comparisons": {
+    "ToMBench": {
+      "paired_valid_n": 5692,
+      "prediction_agreement": 0.9284961349262122,
+      "exact_reply_agreement": 0.9284961349262122,
+      "new_correct": 4635,
+      "base_correct": 4660,
+      "new_only_correct": 170,
+      "base_only_correct": 195,
+      "delta_pp": -0.4392129304286718,
+      "mcnemar_exact_p": 0.20897732275158953,
+      "breakdown": [
+        {
+          "group": "Knowledge-Pretend Play Links / zh",
+          "n": 30,
+          "new_correct": 9,
+          "base_correct": 14,
+          "new_only_correct": 1,
+          "base_only_correct": 6,
+          "delta_pp": -16.666666666666668
+        },
+        {
+          "group": "Knowledge-Pretend Play Links / en",
+          "n": 30,
+          "new_correct": 9,
+          "base_correct": 14,
+          "new_only_correct": 0,
+          "base_only_correct": 5,
+          "delta_pp": -16.666666666666668
+        },
+        {
+          "group": "Discrepant Desires / zh",
+          "n": 20,
+          "new_correct": 10,
+          "base_correct": 13,
+          "new_only_correct": 0,
+          "base_only_correct": 3,
+          "delta_pp": -15.0
+        },
+        {
+          "group": "Discrepant Desires / en",
+          "n": 20,
+          "new_correct": 10,
+          "base_correct": 12,
+          "new_only_correct": 1,
+          "base_only_correct": 3,
+          "delta_pp": -10.0
+        },
+        {
+          "group": "Multiple Desires / zh",
+          "n": 20,
+          "new_correct": 19,
+          "base_correct": 20,
+          "new_only_correct": 0,
+          "base_only_correct": 1,
+          "delta_pp": -5.0
+        },
+        {
+          "group": "Prediction of Actions / zh",
+          "n": 20,
+          "new_correct": 16,
+          "base_correct": 17,
+          "new_only_correct": 0,
+          "base_only_correct": 1,
+          "delta_pp": -5.0
+        },
+        {
+          "group": "Prediction of Actions / en",
+          "n": 20,
+          "new_correct": 14,
+          "base_correct": 15,
+          "new_only_correct": 1,
+          "base_only_correct": 2,
+          "delta_pp": -5.0
+        },
+        {
+          "group": "Scalar Implicature Test / zh",
+          "n": 198,
+          "new_correct": 107,
+          "base_correct": 116,
+          "new_only_correct": 9,
+          "base_only_correct": 18,
+          "delta_pp": -4.545454545454546
+        },
+        {
+          "group": "Unexpected Outcome Test / en",
+          "n": 298,
+          "new_correct": 216,
+          "base_correct": 227,
+          "new_only_correct": 8,
+          "base_only_correct": 19,
+          "delta_pp": -3.6912751677852347
+        },
+        {
+          "group": "Persuasion Story Task / zh",
+          "n": 100,
+          "new_correct": 61,
+          "base_correct": 64,
+          "new_only_correct": 7,
+          "base_only_correct": 10,
+          "delta_pp": -3.0
+        },
+        {
+          "group": "Discrepant Intentions / en",
+          "n": 40,
+          "new_correct": 35,
+          "base_correct": 36,
+          "new_only_correct": 0,
+          "base_only_correct": 1,
+          "delta_pp": -2.5
+        },
+        {
+          "group": "Moral Emotions / en",
+          "n": 40,
+          "new_correct": 35,
+          "base_correct": 36,
+          "new_only_correct": 0,
+          "base_only_correct": 1,
+          "delta_pp": -2.5
+        },
+        {
+          "group": "Percepts-Knowledge Links / zh",
+          "n": 40,
+          "new_correct": 39,
+          "base_correct": 40,
+          "new_only_correct": 0,
+          "base_only_correct": 1,
+          "delta_pp": -2.5
+        },
+        {
+          "group": "Ambiguous Story Task / en",
+          "n": 200,
+          "new_correct": 165,
+          "base_correct": 169,
+          "new_only_correct": 2,
+          "base_only_correct": 6,
+          "delta_pp": -2.0
+        },
+        {
+          "group": "Hinting Task Test / en",
+          "n": 103,
+          "new_correct": 99,
+          "base_correct": 101,
+          "new_only_correct": 1,
+          "base_only_correct": 3,
+          "delta_pp": -1.941747572815534
+        },
+        {
+          "group": "Strange Story Task / en",
+          "n": 407,
+          "new_correct": 352,
+          "base_correct": 358,
+          "new_only_correct": 8,
+          "base_only_correct": 14,
+          "delta_pp": -1.4742014742014742
+        },
+        {
+          "group": "Hidden Emotions / en",
+          "n": 80,
+          "new_correct": 65,
+          "base_correct": 66,
+          "new_only_correct": 2,
+          "base_only_correct": 3,
+          "delta_pp": -1.25
+        },
+        {
+          "group": "Faux-pas Recognition Test / zh",
+          "n": 556,
+          "new_correct": 457,
+          "base_correct": 460,
+          "new_only_correct": 19,
+          "base_only_correct": 22,
+          "delta_pp": -0.539568345323741
+        },
+        {
+          "group": "False Belief Task / en",
+          "n": 600,
+          "new_correct": 570,
+          "base_correct": 571,
+          "new_only_correct": 9,
+          "base_only_correct": 10,
+          "delta_pp": -0.16666666666666666
+        },
+        {
+          "group": "Hinting Task Test / zh",
+          "n": 103,
+          "new_correct": 94,
+          "base_correct": 94,
+          "new_only_correct": 2,
+          "base_only_correct": 2,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Faux-pas Recognition Test / en",
+          "n": 551,
+          "new_correct": 433,
+          "base_correct": 433,
+          "new_only_correct": 12,
+          "base_only_correct": 12,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Completion of Failed Actions / en",
+          "n": 20,
+          "new_correct": 11,
+          "base_correct": 11,
+          "new_only_correct": 1,
+          "base_only_correct": 1,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Hidden Emotions / zh",
+          "n": 80,
+          "new_correct": 71,
+          "base_correct": 71,
+          "new_only_correct": 1,
+          "base_only_correct": 1,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Percepts-Knowledge Links / en",
+          "n": 40,
+          "new_correct": 39,
+          "base_correct": 39,
+          "new_only_correct": 1,
+          "base_only_correct": 1,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Knowledge-Attention Links / zh",
+          "n": 20,
+          "new_correct": 10,
+          "base_correct": 10,
+          "new_only_correct": 0,
+          "base_only_correct": 0,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Moral Emotions / zh",
+          "n": 40,
+          "new_correct": 33,
+          "base_correct": 33,
+          "new_only_correct": 0,
+          "base_only_correct": 0,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Knowledge-Attention Links / en",
+          "n": 18,
+          "new_correct": 9,
+          "base_correct": 9,
+          "new_only_correct": 0,
+          "base_only_correct": 0,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "Ambiguous Story Task / zh",
+          "n": 200,
+          "new_correct": 170,
+          "base_correct": 169,
+          "new_only_correct": 6,
+          "base_only_correct": 5,
+          "delta_pp": 0.5
+        },
+        {
+          "group": "Unexpected Outcome Test / zh",
+          "n": 300,
+          "new_correct": 239,
+          "base_correct": 237,
+          "new_only_correct": 15,
+          "base_only_correct": 13,
+          "delta_pp": 0.6666666666666666
+        },
+        {
+          "group": "Strange Story Task / zh",
+          "n": 407,
+          "new_correct": 369,
+          "base_correct": 364,
+          "new_only_correct": 9,
+          "base_only_correct": 4,
+          "delta_pp": 1.2285012285012284
+        },
+        {
+          "group": "False Belief Task / zh",
+          "n": 600,
+          "new_correct": 521,
+          "base_correct": 513,
+          "new_only_correct": 20,
+          "base_only_correct": 12,
+          "delta_pp": 1.3333333333333333
+        },
+        {
+          "group": "Persuasion Story Task / en",
+          "n": 100,
+          "new_correct": 69,
+          "base_correct": 67,
+          "new_only_correct": 6,
+          "base_only_correct": 4,
+          "delta_pp": 2.0
+        },
+        {
+          "group": "Discrepant Emotions / en",
+          "n": 40,
+          "new_correct": 38,
+          "base_correct": 37,
+          "new_only_correct": 1,
+          "base_only_correct": 0,
+          "delta_pp": 2.5
+        },
+        {
+          "group": "Discrepant Emotions / zh",
+          "n": 40,
+          "new_correct": 38,
+          "base_correct": 37,
+          "new_only_correct": 1,
+          "base_only_correct": 0,
+          "delta_pp": 2.5
+        },
+        {
+          "group": "Discrepant Intentions / zh",
+          "n": 40,
+          "new_correct": 37,
+          "base_correct": 36,
+          "new_only_correct": 1,
+          "base_only_correct": 0,
+          "delta_pp": 2.5
+        },
+        {
+          "group": "Scalar Implicature Test / en",
+          "n": 192,
+          "new_correct": 113,
+          "base_correct": 107,
+          "new_only_correct": 14,
+          "base_only_correct": 8,
+          "delta_pp": 3.125
+        },
+        {
+          "group": "Completion of Failed Actions / zh",
+          "n": 20,
+          "new_correct": 12,
+          "base_correct": 11,
+          "new_only_correct": 2,
+          "base_only_correct": 1,
+          "delta_pp": 5.0
+        },
+        {
+          "group": "Multiple Desires / en",
+          "n": 20,
+          "new_correct": 20,
+          "base_correct": 19,
+          "new_only_correct": 1,
+          "base_only_correct": 0,
+          "delta_pp": 5.0
+        },
+        {
+          "group": "Emotion Regulation / zh",
+          "n": 20,
+          "new_correct": 10,
+          "base_correct": 8,
+          "new_only_correct": 4,
+          "base_only_correct": 2,
+          "delta_pp": 10.0
+        },
+        {
+          "group": "Emotion Regulation / en",
+          "n": 19,
+          "new_correct": 11,
+          "base_correct": 6,
+          "new_only_correct": 5,
+          "base_only_correct": 0,
+          "delta_pp": 26.31578947368421
+        }
+      ],
+      "examples": [
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:12",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_001470",
+          "base_trial": "trial_001470",
+          "new_reply": "[[A]]",
+          "base_reply": "[[D]]",
+          "gold_original": "B",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:168",
+            "en",
+            0
+          ],
+          "new_trial": "trial_003397",
+          "base_trial": "trial_003397",
+          "new_reply": "[[B]]",
+          "base_reply": "[[C]]",
+          "gold_original": "C",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:168",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_003396",
+          "base_trial": "trial_003396",
+          "new_reply": "[[A]]",
+          "base_reply": "[[D]]",
+          "gold_original": "C",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:179",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_002208",
+          "base_trial": "trial_002208",
+          "new_reply": "[[D]]",
+          "base_reply": "[[B]]",
+          "gold_original": "B",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:188",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_003564",
+          "base_trial": "trial_003564",
+          "new_reply": "[[C]]",
+          "base_reply": "[[A]]",
+          "gold_original": "A",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:33",
+            "en",
+            0
+          ],
+          "new_trial": "trial_003121",
+          "base_trial": "trial_003121",
+          "new_reply": "[[A]]",
+          "base_reply": "[[B]]",
+          "gold_original": "C",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:61",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_003084",
+          "base_trial": "trial_003084",
+          "new_reply": "[[B]]",
+          "base_reply": "[[D]]",
+          "gold_original": "C",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "Ambiguous Story Task:62",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_003144",
+          "base_trial": "trial_003144",
+          "new_reply": "[[B]]",
+          "base_reply": "[[A]]",
+          "gold_original": "C",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:120",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_001956",
+          "base_trial": "trial_001956",
+          "new_reply": "[[C]]",
+          "base_reply": "[[B]]",
+          "gold_original": "A",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:154",
+            "en",
+            0
+          ],
+          "new_trial": "trial_003169",
+          "base_trial": "trial_003169",
+          "new_reply": "[[B]]",
+          "base_reply": "[[D]]",
+          "gold_original": "A",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:17",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_002880",
+          "base_trial": "trial_002880",
+          "new_reply": "[[B]]",
+          "base_reply": "[[A]]",
+          "gold_original": "B",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:177",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_002820",
+          "base_trial": "trial_002820",
+          "new_reply": "[[B]]",
+          "base_reply": "[[A]]",
+          "gold_original": "A",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:18",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_001650",
+          "base_trial": "trial_001650",
+          "new_reply": "[[B]]",
+          "base_reply": "[[C]]",
+          "gold_original": "D",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:180",
+            "en",
+            0
+          ],
+          "new_trial": "trial_002725",
+          "base_trial": "trial_002725",
+          "new_reply": "[[D]]",
+          "base_reply": "[[C]]",
+          "gold_original": "A",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:185",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_002412",
+          "base_trial": "trial_002412",
+          "new_reply": "[[D]]",
+          "base_reply": "[[A]]",
+          "gold_original": "D",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "Ambiguous Story Task:24",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000689",
+          "base_trial": "trial_000689",
+          "new_reply": "[[B]]",
+          "base_reply": "[[A]]",
+          "gold_original": "B",
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        }
+      ]
+    },
+    "EmoBench_基线第一次": {
+      "paired_valid_n": 797,
+      "prediction_agreement": 0.8833124215809285,
+      "exact_reply_agreement": 0.18444165621079048,
+      "new_correct": 561,
+      "base_correct": 572,
+      "new_only_correct": 33,
+      "base_only_correct": 44,
+      "delta_pp": -1.3801756587202008,
+      "mcnemar_exact_p": 0.2543046661477025,
+      "breakdown": [
+        {
+          "group": "EU / zh",
+          "n": 200,
+          "new_correct": 123,
+          "base_correct": 130,
+          "new_only_correct": 9,
+          "base_only_correct": 16,
+          "delta_pp": -3.5
+        },
+        {
+          "group": "EA / en",
+          "n": 197,
+          "new_correct": 148,
+          "base_correct": 151,
+          "new_only_correct": 7,
+          "base_only_correct": 10,
+          "delta_pp": -1.5228426395939085
+        },
+        {
+          "group": "EU / en",
+          "n": 200,
+          "new_correct": 144,
+          "base_correct": 145,
+          "new_only_correct": 9,
+          "base_only_correct": 10,
+          "delta_pp": -0.5
+        },
+        {
+          "group": "EA / zh",
+          "n": 200,
+          "new_correct": 146,
+          "base_correct": 146,
+          "new_only_correct": 8,
+          "base_only_correct": 8,
+          "delta_pp": 0.0
+        }
+      ],
+      "examples": [
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:104",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000703",
+          "base_trial": "trial_000703",
+          "new_reply": "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:132",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000531",
+          "base_trial": "trial_000531",
+          "new_reply": "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:139",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000738",
+          "base_trial": "trial_000738",
+          "new_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:14",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000613",
+          "base_trial": "trial_000613",
+          "new_reply": "{\n  \"answer\": \"B\"\n}",
+          "base_reply": "{\n    \"answer\": \"A\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:151",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000750",
+          "base_trial": "trial_000750",
+          "new_reply": "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          "base_reply": "{\"answer\":\"A\"}",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:174",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000773",
+          "base_trial": "trial_000773",
+          "new_reply": "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:180",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000579",
+          "base_trial": "trial_000579",
+          "new_reply": "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          "base_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:199",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000598",
+          "base_trial": "trial_000598",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:100",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000699",
+          "base_trial": "trial_000699",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:108",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000507",
+          "base_trial": "trial_000507",
+          "new_reply": "```json\n    {\n    \"answer\": \"A\"\n    }\n```",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:110",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000709",
+          "base_trial": "trial_000709",
+          "new_reply": "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          "base_reply": "```json\n{\n    \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "A"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:145",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000544",
+          "base_trial": "trial_000544",
+          "new_reply": "```json\n{\n    \"answer\": \"D\"\n}\n```",
+          "base_reply": "```json\n{\n  \"answer\": \"C\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:152",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000751",
+          "base_trial": "trial_000751",
+          "new_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n  \"answer\": \"A\"\n}",
+          "gold_original": {
+            "answer": "A"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:158",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000557",
+          "base_trial": "trial_000557",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:175",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000574",
+          "base_trial": "trial_000574",
+          "new_reply": "{\n    \"answer\": \"D\"\n}",
+          "base_reply": "```json\n{\n  \"answer\": \"C\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:176",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000575",
+          "base_trial": "trial_000575",
+          "new_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        }
+      ]
+    },
+    "EmoBench_基线第二次": {
+      "paired_valid_n": 797,
+      "prediction_agreement": 0.875784190715182,
+      "exact_reply_agreement": 0.18193224592220827,
+      "new_correct": 561,
+      "base_correct": 567,
+      "new_only_correct": 35,
+      "base_only_correct": 41,
+      "delta_pp": -0.7528230865746549,
+      "mcnemar_exact_p": 0.5665734423986907,
+      "breakdown": [
+        {
+          "group": "EU / zh",
+          "n": 200,
+          "new_correct": 123,
+          "base_correct": 130,
+          "new_only_correct": 8,
+          "base_only_correct": 15,
+          "delta_pp": -3.5
+        },
+        {
+          "group": "EA / zh",
+          "n": 200,
+          "new_correct": 146,
+          "base_correct": 149,
+          "new_only_correct": 9,
+          "base_only_correct": 12,
+          "delta_pp": -1.5
+        },
+        {
+          "group": "EU / en",
+          "n": 200,
+          "new_correct": 144,
+          "base_correct": 142,
+          "new_only_correct": 8,
+          "base_only_correct": 6,
+          "delta_pp": 1.0
+        },
+        {
+          "group": "EA / en",
+          "n": 197,
+          "new_correct": 148,
+          "base_correct": 146,
+          "new_only_correct": 10,
+          "base_only_correct": 8,
+          "delta_pp": 1.015228426395939
+        }
+      ],
+      "examples": [
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:102",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000701",
+          "base_trial": "trial_000701",
+          "new_reply": "```json\n    {\n    \"answer\": \"B\"\n    }\n```",
+          "base_reply": "{\n    \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:104",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000703",
+          "base_trial": "trial_000703",
+          "new_reply": "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          "base_reply": "{\n  \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:113",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000512",
+          "base_trial": "trial_000512",
+          "new_reply": "```json\n{\n    \"answer\": \"C\"\n}\n```",
+          "base_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:132",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000531",
+          "base_trial": "trial_000531",
+          "new_reply": "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:139",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000738",
+          "base_trial": "trial_000738",
+          "new_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n  \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:14",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000413",
+          "base_trial": "trial_000413",
+          "new_reply": "```json\n    {\n    \"answer\": \"B\"\n    }\n```",
+          "base_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:14",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000613",
+          "base_trial": "trial_000613",
+          "new_reply": "{\n  \"answer\": \"B\"\n}",
+          "base_reply": "{\n    \"answer\": \"A\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:151",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000750",
+          "base_trial": "trial_000750",
+          "new_reply": "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          "base_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:100",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000699",
+          "base_trial": "trial_000699",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:108",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000507",
+          "base_trial": "trial_000507",
+          "new_reply": "```json\n    {\n    \"answer\": \"A\"\n    }\n```",
+          "base_reply": "{\n  \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:145",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000544",
+          "base_trial": "trial_000544",
+          "new_reply": "```json\n{\n    \"answer\": \"D\"\n}\n```",
+          "base_reply": "{\n  \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:158",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000557",
+          "base_trial": "trial_000557",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:175",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000574",
+          "base_trial": "trial_000574",
+          "new_reply": "{\n    \"answer\": \"D\"\n}",
+          "base_reply": "{\n  \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:175",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000774",
+          "base_trial": "trial_000774",
+          "new_reply": "```json\n{\n  \"answer\": \"D\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:176",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000775",
+          "base_trial": "trial_000775",
+          "new_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:179",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000778",
+          "base_trial": "trial_000778",
+          "new_reply": "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        }
+      ]
+    },
+    "EmoBench_基线自身重复": {
+      "paired_valid_n": 800,
+      "prediction_agreement": 0.885,
+      "exact_reply_agreement": 0.305,
+      "new_correct": 569,
+      "base_correct": 575,
+      "new_only_correct": 30,
+      "base_only_correct": 36,
+      "delta_pp": -0.75,
+      "mcnemar_exact_p": 0.5385827752459509,
+      "breakdown": [
+        {
+          "group": "EA / en",
+          "n": 200,
+          "new_correct": 148,
+          "base_correct": 154,
+          "new_only_correct": 4,
+          "base_only_correct": 10,
+          "delta_pp": -3.0
+        },
+        {
+          "group": "EU / en",
+          "n": 200,
+          "new_correct": 142,
+          "base_correct": 145,
+          "new_only_correct": 7,
+          "base_only_correct": 10,
+          "delta_pp": -1.5
+        },
+        {
+          "group": "EU / zh",
+          "n": 200,
+          "new_correct": 130,
+          "base_correct": 130,
+          "new_only_correct": 11,
+          "base_only_correct": 11,
+          "delta_pp": 0.0
+        },
+        {
+          "group": "EA / zh",
+          "n": 200,
+          "new_correct": 149,
+          "base_correct": 146,
+          "new_only_correct": 8,
+          "base_only_correct": 5,
+          "delta_pp": 1.5
+        }
+      ],
+      "examples": [
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:174",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000773",
+          "base_trial": "trial_000773",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:175",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000774",
+          "base_trial": "trial_000774",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "```json\n    {\n    \"answer\": \"D\"\n    }\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:179",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000778",
+          "base_trial": "trial_000778",
+          "new_reply": "{\n    \"answer\": \"D\"\n}",
+          "base_reply": "```json\n    {\n    \"answer\": \"B\"\n    }\n```",
+          "gold_original": {
+            "answer": "D"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:180",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000579",
+          "base_trial": "trial_000579",
+          "new_reply": "{\n  \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:192",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000791",
+          "base_trial": "trial_000791",
+          "new_reply": "{\n  \"answer\": \"B\"\n}",
+          "base_reply": "{\n  \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:21",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000420",
+          "base_trial": "trial_000420",
+          "new_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"D\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:56",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000655",
+          "base_trial": "trial_000655",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n    \"answer\": \"B\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "new_only_correct",
+          "key": [
+            "EA:58",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000657",
+          "base_trial": "trial_000657",
+          "new_reply": "{\n  \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n    \"answer\": \"D\"\n}\n```",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:102",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000701",
+          "base_trial": "trial_000701",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:110",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000709",
+          "base_trial": "trial_000709",
+          "new_reply": "{\n    \"answer\": \"D\"\n}",
+          "base_reply": "```json\n{\n    \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "A"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:113",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000512",
+          "base_trial": "trial_000512",
+          "new_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"C\"\n}",
+          "gold_original": {
+            "answer": "C"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:14",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000413",
+          "base_trial": "trial_000413",
+          "new_reply": "```json\n{\n  \"answer\": \"A\"\n}\n```",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:152",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000551",
+          "base_trial": "trial_000551",
+          "new_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "base_reply": "```json\n{\n    \"answer\": \"A\"\n}\n```",
+          "gold_original": {
+            "answer": "A"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:152",
+            "zh",
+            0
+          ],
+          "new_trial": "trial_000751",
+          "base_trial": "trial_000751",
+          "new_reply": "{\n    \"answer\": \"B\"\n}",
+          "base_reply": "{\n  \"answer\": \"A\"\n}",
+          "gold_original": {
+            "answer": "A"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:176",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000575",
+          "base_trial": "trial_000575",
+          "new_reply": "{\n    \"answer\": \"A\"\n}",
+          "base_reply": "{\n    \"answer\": \"B\"\n}",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        },
+        {
+          "kind": "base_only_correct",
+          "key": [
+            "EA:18",
+            "en",
+            0
+          ],
+          "new_trial": "trial_000417",
+          "base_trial": "trial_000417",
+          "new_reply": "{\n    \"answer\": \"C\"\n}",
+          "base_reply": "```json\n{\n  \"answer\": \"B\"\n}\n```",
+          "gold_original": {
+            "answer": "B"
+          },
+          "note": "Gold is original option label; ToMBench reply labels may be shuffled. Refer to source result map."
+        }
+      ]
+    }
+  },
+  "prompt_checks": {
+    "tom_new_tom_base": {
+      "common": 5720,
+      "request_mismatches": 0,
+      "examples": []
+    },
+    "emo_new_emo_base1": {
+      "common": 800,
+      "request_mismatches": 0,
+      "examples": []
+    },
+    "emo_new_emo_base2": {
+      "common": 800,
+      "request_mismatches": 0,
+      "examples": []
+    }
+  },
+  "provider_usage": {
+    "tom_new": {
+      "observations": 5720,
+      "median_prompt_tokens": 1508.0,
+      "median_completion_tokens": 55.0
+    },
+    "tom_base": {
+      "observations": 5692,
+      "median_prompt_tokens": 2137.0,
+      "median_completion_tokens": 76.0
+    },
+    "emo_new": {
+      "observations": 797,
+      "median_prompt_tokens": 1466,
+      "median_completion_tokens": 98
+    },
+    "emo_base1": {
+      "observations": 800,
+      "median_prompt_tokens": 2098.0,
+      "median_completion_tokens": 89.5
+    },
+    "emo_base2": {
+      "observations": 800,
+      "median_prompt_tokens": 389.5,
+      "median_completion_tokens": 104.0
+    }
+  }
+}

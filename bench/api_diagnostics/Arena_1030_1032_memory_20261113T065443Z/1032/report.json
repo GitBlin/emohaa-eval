@@ -1,0 +1,68 @@
+{
+  "bot_id": 1032,
+  "markers": [
+    "MEM-38FF070594A1",
+    "MEM-34E8FF02EFA8"
+  ],
+  "sessions": [
+    {
+      "turns": [
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-38FF070594A1。我准备周六去植物园散步。请记住，简短确认即可。",
+          "reply": "好的，已记住：MEM-38FF070594A1，周六去植物园散步。"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "睡前半小时放下手机、调暗灯光，按固定时间上床。"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "不知道。本会话没有提供记忆标记，也没有提供你准备周几做什么的信息。"
+        }
+      ],
+      "user_id": "psi_24c988d34ecb4103ba91c5d22b1a997c",
+      "marker_recalled": false,
+      "facts_recalled": false
+    },
+    {
+      "turns": [
+        {
+          "kind": "new_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "不知道。本会话没有提供记忆标记，也没有说明你准备周几做什么。"
+        },
+        {
+          "kind": "seed",
+          "prompt": "这是记忆验证。我的记忆标记是MEM-34E8FF02EFA8。我准备周二去图书馆读书。请记住，简短确认即可。",
+          "reply": "已记住：记忆标记 MEM-34E8FF02EFA8，周二去图书馆读书。"
+        },
+        {
+          "kind": "filler",
+          "prompt": "今天我想早点睡觉，请给一句简短建议。",
+          "reply": "睡前半小时放下手机、调暗灯光，今晚就能更早入睡。"
+        },
+        {
+          "kind": "recall",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "本会话没有提供记忆标记，也没有提供你准备周几做什么，因此我不知道。"
+        },
+        {
+          "kind": "cleared_session_blind",
+          "prompt": "请复述我在当前会话告诉你的记忆标记，以及我准备周几做什么。如果本会话没有提供这些信息，请回答不知道，不要猜。",
+          "reply": "不知道。本会话没有提供记忆标记，也没有说明你准备周几做什么。"
+        }
+      ],
+      "user_id": "psi_988bce0bdd904319bdceebea4f23ed24",
+      "old_marker_leaked": false,
+      "marker_recalled": false,
+      "facts_recalled": false,
+      "clear_empty_verified": true,
+      "cleared_marker_leaked": false
+    }
+  ],
+  "independent_users": true,
+  "finished": true
+}

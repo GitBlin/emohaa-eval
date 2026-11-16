@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:21.760414+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n近期，艾米一直在与她的心理健康问题斗争，自己无法应对，并希望尝试心理治疗，但她自己负担不起。她想向她的朋友们借钱，但又担心会被他们评判。\n\n## 问题\n在这个场景中，艾米最有效的Action是什么？\n\n## 选项\nA) 尝试自己解决自己的问题\nB) 试着向自己的父母坦诚自己面临的问题\nC) 开始寻找公益的心理治疗师\nD) 公开地和家人朋友讨论她接受心理治疗的决定\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

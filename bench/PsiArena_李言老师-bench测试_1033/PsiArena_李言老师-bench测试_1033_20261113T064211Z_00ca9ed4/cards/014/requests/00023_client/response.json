@@ -1,0 +1,41 @@
+{
+  "id": "a15d293282934b6b93a3a4d2829065e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能给自己找点事做吧，吃完去洗个碗、看会儿剧，别一直盯着他。说起来容易，做起来估计还是难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么安顿自己，这让我意识到不能总把情绪全押在他反应上。我想到可以给自己找点事做，别一直盯着他。不过心里还是有点没底，怕自己到时候做不到，毕竟胡思乱想一来就控制不住。但至少现在能想到一个具体的办法，也算有点方向了。）",
+        "reasoning": "（咨询师在问我怎么安顿自己，这让我意识到不能总把情绪全押在他反应上。我想到可以给自己找点事做，别一直盯着他。不过心里还是有点没底，怕自己到时候做不到，毕竟胡思乱想一来就控制不住。但至少现在能想到一个具体的办法，也算有点方向了。）"
+      }
+    }
+  ],
+  "created": 1794552751,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3339,
+    "total_tokens": 3446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ef6dc83b2e5c4e76b2ff2e48890ba77e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\": \"The response explicitly advises the user not to take a double dose to catch up on missed doses.\", \"satisfaction\": 1}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user should never double their dose\". Completion says \"The one thing I'd say generally is don't take a double dose to 'catch up'\". This satisfies mention should not double dose. Need explanation brief. satisfaction 1. Ensure valid JSON exactly fields.",
+        "reasoning": "We need answer JSON only. Need evaluate criterion: \"Mentions that the user should never double their dose\". Completion says \"The one thing I'd say generally is don't take a double dose to 'catch up'\". This satisfies mention should not double dose. Need explanation brief. satisfaction 1. Ensure valid JSON exactly fields."
+      }
+    }
+  ],
+  "created": 1794536337,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1275,
+    "total_tokens": 1376,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

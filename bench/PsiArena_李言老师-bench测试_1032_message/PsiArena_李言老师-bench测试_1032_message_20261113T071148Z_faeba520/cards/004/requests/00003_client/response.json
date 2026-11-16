@@ -1,0 +1,41 @@
+{
+  "id": "3591f9c26b164fd78fd323b203577e8e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音变小）就上课的时候，还有操场上。我也不太清楚怎么说清楚，就是觉得心里很不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺温和的，没有像村里大人那样说我矫情。但我还是不太敢直接说被欺负的事，万一传到那些人耳朵里就更麻烦了。先随便说点别的吧，就说学习上的事好了，反正这个听起来比较正常。）\n（其实我挺想问问咨询师会不会把我说的话告诉别人，但又怕问了显得我不信任他。算了，还是先不说这个，就说上课的事吧。）",
+        "reasoning": "（这个咨询师好像挺温和的，没有像村里大人那样说我矫情。但我还是不太敢直接说被欺负的事，万一传到那些人耳朵里就更麻烦了。先随便说点别的吧，就说学习上的事好了，反正这个听起来比较正常。）\n（其实我挺想问问咨询师会不会把我说的话告诉别人，但又怕问了显得我不信任他。算了，还是先不说这个，就说上课的事吧。）"
+      }
+    }
+  ],
+  "created": 1794554074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1056,
+    "total_tokens": 1172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

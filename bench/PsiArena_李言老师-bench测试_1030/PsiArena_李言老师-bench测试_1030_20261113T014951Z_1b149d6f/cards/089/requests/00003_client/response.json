@@ -1,0 +1,41 @@
+{
+  "id": "f00abc060a704bedaac7daa6332bd5ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）就……她老爱说我穿衣服、生活习惯什么的，说我被男性审美影响了。我听着特别别扭，但又说不上来怎么反驳。嗯……你会不会也觉得我太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的不舒服瞬间，但我其实还没准备好深入。这种试探性的提问让我有点紧张，我得先确认一下咨询的边界。）\n（毕竟我是第一次来，对咨询师还不够信任。而且我平时就敏感，容易担心别人怎么看我。直接说室友的事可能会暴露太多，不如先问问咨询师会不会评判我。）",
+        "reasoning": "（咨询师在问我具体的不舒服瞬间，但我其实还没准备好深入。这种试探性的提问让我有点紧张，我得先确认一下咨询的边界。）\n（毕竟我是第一次来，对咨询师还不够信任。而且我平时就敏感，容易担心别人怎么看我。直接说室友的事可能会暴露太多，不如先问问咨询师会不会评判我。）"
+      }
+    }
+  ],
+  "created": 1794539529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1133,
+    "total_tokens": 1252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

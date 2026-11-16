@@ -1,0 +1,41 @@
+{
+  "id": "a179e69522ea4396b073b0a0314192ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……乱七八糟的。好像想起了小时候的一些事，但具体是什么，我也说不清。（低下头）反正就是不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我发呆时脑子里在想什么，这让我有点不安。我其实不想说太多，因为那些念头太乱了，说出来可能显得矫情。但刚才已经说了发呆的事，如果现在完全回避，好像又不太礼貌。）\n（我想到小时候那些事，但不确定该不该提。也许可以只说一半，模糊一点，这样既回答了问题，又不会暴露太多。毕竟我现在还没那么信任她，不想一下子全说出来。）",
+        "reasoning": "（咨询师问我发呆时脑子里在想什么，这让我有点不安。我其实不想说太多，因为那些念头太乱了，说出来可能显得矫情。但刚才已经说了发呆的事，如果现在完全回避，好像又不太礼貌。）\n（我想到小时候那些事，但不确定该不该提。也许可以只说一半，模糊一点，这样既回答了问题，又不会暴露太多。毕竟我现在还没那么信任她，不想一下子全说出来。）"
+      }
+    }
+  ],
+  "created": 1794556602,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1291,
+    "total_tokens": 1411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

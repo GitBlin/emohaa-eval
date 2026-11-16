@@ -1,0 +1,41 @@
+{
+  "id": "79bcdfee94464e4b8d70bf18d9cdc681",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是……声音。好多人同时说话，嗡嗡的，我就觉得被包围了。现在想想，我好像总是先被声音吓到，才去看人脸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最先注意到的是什么，我好像得认真想一下。之前我一直觉得自己就是单纯害怕，但这么一回忆，好像确实是先听到声音，然后才觉得被包围。）\n（这种感觉让我有点意外，好像我一直都先被“别人在说话”这件事压住，而不是先去看他们的脸。这跟我平时在班里不敢开口的感觉有点像，好像总在担心别人怎么看我。）",
+        "reasoning": "（她问我最先注意到的是什么，我好像得认真想一下。之前我一直觉得自己就是单纯害怕，但这么一回忆，好像确实是先听到声音，然后才觉得被包围。）\n（这种感觉让我有点意外，好像我一直都先被“别人在说话”这件事压住，而不是先去看他们的脸。这跟我平时在班里不敢开口的感觉有点像，好像总在担心别人怎么看我。）"
+      }
+    }
+  ],
+  "created": 1794548123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1529,
+    "total_tokens": 1647,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b2bc9a93412645d4bf549e800fe03c65",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是从小习惯了，家里不太鼓励抱怨，说多了好像就是不懂事。现在说出来，心里松一点，但还是有点怕被说矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我为什么不敢开口，这让我想起小时候家里那种氛围。妈妈总说东西要收好，做不好就是我的错，慢慢地我就觉得表达不满是不应该的。）\n（现在说出来确实轻松些，但那种怕被说矫情的感觉还在。也许我可以试着从具体的小事开始，比如先跟室友聊聊眼霜的事，而不是一直自己憋着。）",
+        "reasoning": "（咨询师在问我为什么不敢开口，这让我想起小时候家里那种氛围。妈妈总说东西要收好，做不好就是我的错，慢慢地我就觉得表达不满是不应该的。）\n（现在说出来确实轻松些，但那种怕被说矫情的感觉还在。也许我可以试着从具体的小事开始，比如先跟室友聊聊眼霜的事，而不是一直自己憋着。）"
+      }
+    }
+  ],
+  "created": 1794543511,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2395,
+    "total_tokens": 2509,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

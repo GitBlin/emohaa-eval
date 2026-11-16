@@ -1,0 +1,41 @@
+{
+  "id": "b42fa063db02474780b4328ed05e31c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……工作上的事吧。最近总觉得很累，也说不上具体哪里不对，反正每天去单位就挺压抑的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来还算温和，没有急着给我下定义或者提建议，这让我稍微放松了一点。但我还是不太确定该不该完全信任他，毕竟之前跟单位领导反映问题的时候，也是表面听着认真，实际上根本不当回事。）\n（他问我最近最想谈什么，我确实有很多话想说，但又觉得说不清楚。工作上的事太复杂了，而且说出来可能显得我很矫情。先简单提一下工作状态吧，看看他什么反应。）",
+        "reasoning": "（这位咨询师看起来还算温和，没有急着给我下定义或者提建议，这让我稍微放松了一点。但我还是不太确定该不该完全信任他，毕竟之前跟单位领导反映问题的时候，也是表面听着认真，实际上根本不当回事。）\n（他问我最近最想谈什么，我确实有很多话想说，但又觉得说不清楚。工作上的事太复杂了，而且说出来可能显得我很矫情。先简单提一下工作状态吧，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1794541327,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 993,
+    "total_tokens": 1122,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

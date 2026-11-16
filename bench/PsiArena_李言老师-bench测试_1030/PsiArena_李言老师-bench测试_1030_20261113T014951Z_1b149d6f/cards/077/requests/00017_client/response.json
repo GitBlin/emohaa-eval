@@ -1,0 +1,41 @@
+{
+  "id": "e22a2a059d2441d28775db91ffaff126",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打电话啊……我想想，有个以前关系还行的同事，但这么晚了，怕打扰人家。你觉得我该打吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在担心我一个人待着，想让我找个人说说话。可我真的不想麻烦别人，尤其是现在这种状态，跟谁说都说不清楚。不过她这么问，让我觉得她是真的在意我今晚安不安全。）\n（我想到有个关系不错的同事，但这么晚打电话过去，人家会不会觉得我奇怪。可要是不打，我可能又会一个人胡思乱想。也许我可以试着问问她，这样算不算一个办法，至少先给自己留个退路。）",
+        "reasoning": "（咨询师在担心我一个人待着，想让我找个人说说话。可我真的不想麻烦别人，尤其是现在这种状态，跟谁说都说不清楚。不过她这么问，让我觉得她是真的在意我今晚安不安全。）\n（我想到有个关系不错的同事，但这么晚打电话过去，人家会不会觉得我奇怪。可要是不打，我可能又会一个人胡思乱想。也许我可以试着问问她，这样算不算一个办法，至少先给自己留个退路。）"
+      }
+    }
+  ],
+  "created": 1794538841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2667,
+    "total_tokens": 2797,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

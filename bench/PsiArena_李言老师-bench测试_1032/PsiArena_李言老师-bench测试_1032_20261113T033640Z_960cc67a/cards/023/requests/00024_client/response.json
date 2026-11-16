@@ -1,0 +1,41 @@
+{
+  "id": "8dd47c0eb8de49be8ac00c7ef65e74a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是从我很小的时候就开始了，看着我妈也是这样，说什么都没用。我不想变成她那样，可有时候又觉得自己正在走她的老路。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种感觉是从哪次经历开始变得特别明显的……这个问题让我一下子回到了很多年前。其实仔细想想，不是某一次，是很多次慢慢堆起来的。）\n（小时候看着我妈也是这样，说什么都没用，只能忍着。那时候我就想，我以后不要变成她那样。可现在呢，我好像也在重复她的样子，一开口就吵，吵完又后悔。这种感觉，比单纯害怕更让人难受。）",
+        "reasoning": "（她问我这种感觉是从哪次经历开始变得特别明显的……这个问题让我一下子回到了很多年前。其实仔细想想，不是某一次，是很多次慢慢堆起来的。）\n（小时候看着我妈也是这样，说什么都没用，只能忍着。那时候我就想，我以后不要变成她那样。可现在呢，我好像也在重复她的样子，一开口就吵，吵完又后悔。这种感觉，比单纯害怕更让人难受。）"
+      }
+    }
+  ],
+  "created": 1794549003,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3191,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

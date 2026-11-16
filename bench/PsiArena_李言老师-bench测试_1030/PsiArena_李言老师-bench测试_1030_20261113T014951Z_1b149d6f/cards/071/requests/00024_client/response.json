@@ -1,0 +1,41 @@
+{
+  "id": "4ff75f12edc64baaa2ad9ee17b4cef4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "三秒……感觉好难，不过好像也不是不能试。那我试试，选完不改，哪怕选得不是最完美的，也先认了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试试只停三秒、选完不许改，这听起来像是个能打破我反复纠结的小办法。可我心里还是有点发怵，怕自己做不到，又怕做完之后更失望。）\n（不过，之前聊了这么久，我好像慢慢能分清哪些声音是我自己的，哪些是替别人说的了。也许这次可以不一样，至少先试试看，不急着要求自己一次就做对。）",
+        "reasoning": "（咨询师让我试试只停三秒、选完不许改，这听起来像是个能打破我反复纠结的小办法。可我心里还是有点发怵，怕自己做不到，又怕做完之后更失望。）\n（不过，之前聊了这么久，我好像慢慢能分清哪些声音是我自己的，哪些是替别人说的了。也许这次可以不一样，至少先试试看，不急着要求自己一次就做对。）"
+      }
+    }
+  ],
+  "created": 1794538608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3695,
+    "total_tokens": 3819,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

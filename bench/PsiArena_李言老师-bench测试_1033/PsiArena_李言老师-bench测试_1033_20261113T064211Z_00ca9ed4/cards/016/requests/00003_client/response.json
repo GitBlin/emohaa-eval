@@ -1,0 +1,41 @@
+{
+  "id": "431aa25c99424a3f9db64f0ef73ef9b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……好像回到家的时候更明显吧。特别是看到我妈，我就会莫名地紧张。嗯……可能也不只是回家，反正就是心里乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我难受的感觉什么时候最明显，这让我有点犹豫。我其实不太想这么快就说到家里的事，但刚才已经提到上课走神了，再不说点什么好像也不太好。我是不是该稍微透露一点，但又不能说得太深？）\n（家里的事……我确实一回到家就更容易乱想，尤其是看到我妈的时候。可我不知道该不该跟咨询师说这些，毕竟才刚开始。也许我可以只说“家里的事”，先看看她怎么反应。）",
+        "reasoning": "（咨询师在问我难受的感觉什么时候最明显，这让我有点犹豫。我其实不太想这么快就说到家里的事，但刚才已经提到上课走神了，再不说点什么好像也不太好。我是不是该稍微透露一点，但又不能说得太深？）\n（家里的事……我确实一回到家就更容易乱想，尤其是看到我妈的时候。可我不知道该不该跟咨询师说这些，毕竟才刚开始。也许我可以只说“家里的事”，先看看她怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794552740,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1115,
+    "total_tokens": 1248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

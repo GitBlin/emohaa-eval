@@ -1,0 +1,41 @@
+{
+  "id": "54a61dd853014bb7a2dcb58c67ede478",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "五分钟……比如把书桌收拾一下吧。不过说出来有点不好意思，我是不是连这个都做不好啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我定一个五分钟的小事，可我连这个都觉得有压力。我是不是该说点什么，让他觉得我其实没那么差？或者……也许我可以试着表现得积极一点，这样他会不会更愿意帮我？）\n（但转念一想，我这样是不是有点在讨好他，想让他多关注我？我其实不太确定自己能不能做到，又怕他对我失望。还是先随便说个简单的吧，至少听起来像在努力。）",
+        "reasoning": "（咨询师想让我定一个五分钟的小事，可我连这个都觉得有压力。我是不是该说点什么，让他觉得我其实没那么差？或者……也许我可以试着表现得积极一点，这样他会不会更愿意帮我？）\n（但转念一想，我这样是不是有点在讨好他，想让他多关注我？我其实不太确定自己能不能做到，又怕他对我失望。还是先随便说个简单的吧，至少听起来像在努力。）"
+      }
+    }
+  ],
+  "created": 1794546312,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1364,
+    "total_tokens": 1485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

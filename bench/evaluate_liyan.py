@@ -29,7 +29,7 @@ from uuid import uuid4
 import requests
 
 HERE = Path(__file__).resolve().parent
-VERSION = "1.3.0"
+VERSION = "1.3.3"
 BOT_ID = 242
 
 
@@ -202,7 +202,11 @@ class Client:
 
 def prepare(args):
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ") + "_" + uuid4().hex[:8]
-    run = args.output_dir.resolve() / run_id
+    archive_name = args.archive_name if args.archive_name is not None else args.bot_name
+    bot_slug = re.sub(r"[^\w.-]+", "_", archive_name).strip("._-")[:64] or "bot"
+    prefix = f"ToMBench_{bot_slug}_{args.bot_id}"
+    output_root = (args.output_dir or HERE / prefix).resolve()
+    run = output_root / f"{prefix}_{run_id}"
     run.mkdir(parents=True)
     data_dir = run / "snapshot/data"
     data_dir.mkdir(parents=True)
@@ -293,6 +297,7 @@ def prepare(args):
     hashes["data_audit.json"] = digest(run / "data_audit.json")
     manifest = {
         "created_at": now(), "script_version": VERSION, "bot_id": args.bot_id, "bot_name": args.bot_name,
+        "archive_name": archive_name, "archive_slug": bot_slug,
         "base_url": args.base_url.rstrip("/"),
         "user_id": args.user_id or f"liyan_eval_{run_id}",
         "model_version": args.model_version, "harness_version": args.harness_version,
@@ -523,9 +528,11 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--bot-id", type=int, default=BOT_ID, help="目标智能体ID；新凭证测试智能体为1030")
     parser.add_argument("--bot-name", default="李言老师", help="记录目标智能体名称")
+    parser.add_argument("--archive-name", default=None,
+                        help="仅设置留档目录中间名称；默认沿用bot-name，不影响智能体或请求")
     parser.add_argument("--limit", type=int, default=0, help="抽样题数，0=全部2860题")
     parser.add_argument("--repeats", type=int, default=3)
-    parser.add_argument("--workers", type=int, default=32, help="并发试次数；每试次独立用户，默认32")
+    parser.add_argument("--workers", type=int, default=2, help="并发试次数；每试次独立用户，默认2（1032稳定性校准配置）")
     parser.add_argument("--credentials-module", type=Path, default=HERE.parent / "bot_chat_client.py", help="凭证默认值来源，环境变量优先")
     parser.add_argument("--languages", nargs="+", choices=["zh", "en"], default=["zh", "en"])
     parser.add_argument("--cot", action="store_true", help="使用原仓库CoT提示词；默认直接答题")
@@ -540,7 +547,7 @@ def main(argv=None):
     parser.add_argument("--resume", type=Path, help="恢复已有运行，使用manifest中的参数；已完成的失败也不重复发送")
     parser.add_argument("--report-only", type=Path, help="从已有结果重建报告，不联网")
     parser.add_argument("--data-dir", type=Path, default=HERE / "Tombench/data")
-    parser.add_argument("--output-dir", type=Path, default=HERE / "liyan_evaluations")
+    parser.add_argument("--output-dir", type=Path, default=None, help="输出根目录；默认按ToMBench、智能体名称和ID命名")
     parser.add_argument("--base-url", default=os.getenv("LINGX_BASE_URL", "https://www.ai-role.cn"))
     parser.add_argument("--user-id", help="默认每次运行新建专用测试用户；不要与其他程序共用")
     parser.add_argument("--model-version", default="unreported")

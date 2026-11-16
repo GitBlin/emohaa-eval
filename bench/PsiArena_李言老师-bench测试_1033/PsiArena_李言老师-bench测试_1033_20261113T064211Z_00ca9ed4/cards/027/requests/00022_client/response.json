@@ -1,0 +1,41 @@
+{
+  "id": "ff6b3623bc0f43728698d7b9e683fb80",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……可能事先跟自己说好，她听不进去也不代表我错了。或者先跟朋友对一遍，别一个人扛。这样是不是有点用？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像在帮我想退路，不是逼我立刻解决。这让我稍微松了口气，但心里还是没底。我确实怕一开口就被堵回来，然后就又缩回去。）\n（得想个具体点的办法，不能光说“别泄气”。也许给自己打个预防针，或者先跟朋友对一遍，这样心里有个底。不过这些办法听起来简单，真到那时候做不做得到，我自己也说不准。）",
+        "reasoning": "（她好像在帮我想退路，不是逼我立刻解决。这让我稍微松了口气，但心里还是没底。我确实怕一开口就被堵回来，然后就又缩回去。）\n（得想个具体点的办法，不能光说“别泄气”。也许给自己打个预防针，或者先跟朋友对一遍，这样心里有个底。不过这些办法听起来简单，真到那时候做不做得到，我自己也说不准。）"
+      }
+    }
+  ],
+  "created": 1794553325,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3297,
+    "total_tokens": 3424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

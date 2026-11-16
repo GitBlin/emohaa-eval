@@ -1,0 +1,41 @@
+{
+  "id": "e2db0ab41dfb43bab2bb7bf143caeeb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他啊……我猜他可能会说“你想多了”。其实我也不确定该不该把这些当回事，是不是我自己太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我他听到这些念头会有什么反应……这让我有点不安，好像要把我藏起来的东西摊开来看。我其实不确定他会怎么想，甚至有点怕他真的觉得我太敏感。）\n（而且说实话，我现在连自己该不该把这些念头当回事都还没搞清楚，更别说去猜他的反应了。也许我该先问问咨询师，这种事情到底该怎么处理，会不会显得我太依赖别人给答案……）",
+        "reasoning": "（咨询师在问我他听到这些念头会有什么反应……这让我有点不安，好像要把我藏起来的东西摊开来看。我其实不确定他会怎么想，甚至有点怕他真的觉得我太敏感。）\n（而且说实话，我现在连自己该不该把这些念头当回事都还没搞清楚，更别说去猜他的反应了。也许我该先问问咨询师，这种事情到底该怎么处理，会不会显得我太依赖别人给答案……）"
+      }
+    }
+  ],
+  "created": 1794553443,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1262,
+    "total_tokens": 1383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:11.760572+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n加文的好朋友告诉他，他感觉加文花太多时间在新女友身上，忽视了他们的友谊。\n\n## 问题\n在这个场景中，加文最有效的Response是什么？\n\n## 选项\nA) \"你只是嫉妒，因为你单身\"\nB) \"我们的友谊应该足够坚固，能够度过这个阶段\"\nC) \"如果你有这种感觉，我很抱歉，我们会解决这个问题的\"\nD) \"也许你应该试着更好地和我的女友相处\"\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

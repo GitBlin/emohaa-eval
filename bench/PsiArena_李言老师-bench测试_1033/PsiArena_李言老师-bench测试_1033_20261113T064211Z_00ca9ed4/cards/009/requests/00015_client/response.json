@@ -1,0 +1,41 @@
+{
+  "id": "b1ea99f14ee6470b87b01796ffea6cfd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……酸里带一点平静。以前不敢想这些，现在说出来，反倒没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我心里是更酸还是更平静……我得想想。刚才说“几乎没有过”的时候，好像没有以前那种揪着疼的感觉了，反而像是终于把一件藏了很久的事摊开来看。虽然还是有点心酸，但没那么慌了。）\n（可能因为说出来之后，发现这件事被看见了，而不是我一个人闷着。这种稍微能喘口气的感觉，是不是意味着我其实已经在慢慢接受自己也有需要这件事了？）",
+        "reasoning": "（她问我心里是更酸还是更平静……我得想想。刚才说“几乎没有过”的时候，好像没有以前那种揪着疼的感觉了，反而像是终于把一件藏了很久的事摊开来看。虽然还是有点心酸，但没那么慌了。）\n（可能因为说出来之后，发现这件事被看见了，而不是我一个人闷着。这种稍微能喘口气的感觉，是不是意味着我其实已经在慢慢接受自己也有需要这件事了？）"
+      }
+    }
+  ],
+  "created": 1794552512,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2518,
+    "total_tokens": 2631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

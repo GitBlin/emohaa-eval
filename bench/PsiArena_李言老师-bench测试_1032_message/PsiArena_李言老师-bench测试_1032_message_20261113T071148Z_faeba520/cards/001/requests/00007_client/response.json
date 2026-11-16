@@ -1,0 +1,41 @@
+{
+  "id": "de415e5e7b794aacbcd382a4d16ca657",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "课间的时候吧，大家凑一起聊天，我就坐在座位上，也不知道怎么插进去。想走过去吧，又……又觉得算了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在问我学校里闷着的情形……这个问题让我有点不舒服，但好像也没那么难回答。就是课间的时候，大家都凑在一起聊天，我却不知道该说什么，也不知道怎么插进去。）\n（其实我也想走过去，但脚就是迈不动。怕说了什么奇怪的话被笑话，或者干脆没人理我。这种感觉挺难受的，可说出来了又觉得自己是不是太矫情了。）",
+        "reasoning": "（她在问我学校里闷着的情形……这个问题让我有点不舒服，但好像也没那么难回答。就是课间的时候，大家都凑在一起聊天，我却不知道该说什么，也不知道怎么插进去。）\n（其实我也想走过去，但脚就是迈不动。怕说了什么奇怪的话被笑话，或者干脆没人理我。这种感觉挺难受的，可说出来了又觉得自己是不是太矫情了。）"
+      }
+    }
+  ],
+  "created": 1794553935,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1454,
+    "total_tokens": 1564,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

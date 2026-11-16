@@ -1,0 +1,41 @@
+{
+  "id": "a5db20ad270241cdbd93757bb1634dda",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "纸笔吧，放桌上看得见。手机我怕一拿起来又去看别的了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（最后这个问题是在帮我把行动具体化，问记录方式。我确实需要选一个简单可行的，不能太麻烦。纸笔可能更直观，放在手边也方便，不会像手机那样容易分心。而且写下来这个动作本身，也许能让我稍微停一停，别急着开口。）\n（不过我也得承认，心里还是有点没底。怕自己记着记着就忘了，或者记完看到次数太多反而更焦虑。但既然已经聊到这儿了，先试试看吧，至少比什么都不做强。）",
+        "reasoning": "（最后这个问题是在帮我把行动具体化，问记录方式。我确实需要选一个简单可行的，不能太麻烦。纸笔可能更直观，放在手边也方便，不会像手机那样容易分心。而且写下来这个动作本身，也许能让我稍微停一停，别急着开口。）\n（不过我也得承认，心里还是有点没底。怕自己记着记着就忘了，或者记完看到次数太多反而更焦虑。但既然已经聊到这儿了，先试试看吧，至少比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1794543834,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 3361,
+    "total_tokens": 3496,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

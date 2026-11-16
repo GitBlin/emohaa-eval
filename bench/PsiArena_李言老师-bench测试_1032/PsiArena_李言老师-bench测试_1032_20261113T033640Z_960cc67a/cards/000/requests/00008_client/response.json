@@ -1,0 +1,41 @@
+{
+  "id": "56e0b07b491e494681588358530084a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是和同事吃饭的时候吧。她们聊得很自然，我却一直在想该接什么话、笑得合不合适。回家以后整个人像泄了气一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近哪一刻觉得自己“太用力”了……这种问题让我有点不知道该怎么回答。其实我平时不太会去细想这些，但被她这么一问，好像确实有些画面浮上来。）\n（我想起上次和同事吃饭的时候，她们聊得那么自然，我却一直在旁边想着该说什么、该不该笑。那种感觉真的很累，好像我永远在演一个“正常”的人。也许这就是她说的“太用力”吧。）",
+        "reasoning": "（她问我最近哪一刻觉得自己“太用力”了……这种问题让我有点不知道该怎么回答。其实我平时不太会去细想这些，但被她这么一问，好像确实有些画面浮上来。）\n（我想起上次和同事吃饭的时候，她们聊得那么自然，我却一直在旁边想着该说什么、该不该笑。那种感觉真的很累，好像我永远在演一个“正常”的人。也许这就是她说的“太用力”吧。）"
+      }
+    }
+  ],
+  "created": 1794541080,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1596,
+    "total_tokens": 1726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

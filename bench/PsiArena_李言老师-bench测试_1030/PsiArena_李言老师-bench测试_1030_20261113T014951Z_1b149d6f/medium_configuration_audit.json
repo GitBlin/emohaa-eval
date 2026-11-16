@@ -1,0 +1,57 @@
+{
+  "run": "PsiArena_李言老师-bench测试_1030_20261113T014951Z_1b149d6f",
+  "cards": 100,
+  "roles": {
+    "counselor": {
+      "model": "ai-role-bot-1030",
+      "base_url": "",
+      "thinking": null,
+      "reasoning_effort": null
+    },
+    "client": {
+      "model": "deepseek-v4.1-flash-1017",
+      "base_url": "https://axonhub.ai-role.cn/v1",
+      "thinking": "enabled",
+      "reasoning_effort": "medium"
+    },
+    "judge": {
+      "model": "deepseek-v4.1-flash-1017",
+      "base_url": "https://axonhub.ai-role.cn/v1",
+      "thinking": "enabled",
+      "reasoning_effort": "medium"
+    }
+  },
+  "request_counts": [
+    {
+      "role": "client",
+      "model": "deepseek-v4.1-flash-1017",
+      "effort": "medium",
+      "thinking": "enabled",
+      "count": 2500
+    },
+    {
+      "role": "judge",
+      "model": "deepseek-v4.1-flash-1017",
+      "effort": "medium",
+      "thinking": "enabled",
+      "count": 307
+    }
+  ],
+  "responses": {
+    "total": 2805,
+    "with_reasoning": 2805
+  },
+  "non_medium_requests": 0,
+  "examples": [],
+  "scored": 100,
+  "complete": true,
+  "archived_requests": [
+    {
+      "effort": "medium",
+      "thinking": "enabled",
+      "count": 20
+    }
+  ],
+  "archived_non_medium": [],
+  "scope_note": "Counselor internal reasoning settings are not exposed by ai-role API"
+}

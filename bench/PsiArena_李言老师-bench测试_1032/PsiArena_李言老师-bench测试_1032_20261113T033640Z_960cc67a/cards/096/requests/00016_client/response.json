@@ -1,0 +1,41 @@
+{
+  "id": "eefb596dd5284e4ea33626c6702d95f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕我爸妈发现，然后问我怎么了，我又解释不清。也怕老师同学觉得我是不是出什么事了……其实有时候，我又觉得被说几句也无所谓了，就是太累了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果不去会担心什么……其实我每天都在想这个问题。最怕的就是爸妈发现我赖床，然后那种失望的眼神。还有老师，同学，他们会觉得我是不是出什么事了，或者干脆觉得我这个人很没用。）\n（但说实话，有时候我真的太累了，累到觉得就算被说也认了。只是这种话平时根本说不出口，说出来好像就承认自己真的不行了。）",
+        "reasoning": "（她问我如果不去会担心什么……其实我每天都在想这个问题。最怕的就是爸妈发现我赖床，然后那种失望的眼神。还有老师，同学，他们会觉得我是不是出什么事了，或者干脆觉得我这个人很没用。）\n（但说实话，有时候我真的太累了，累到觉得就算被说也认了。只是这种话平时根本说不出口，说出来好像就承认自己真的不行了。）"
+      }
+    }
+  ],
+  "created": 1794546398,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2336,
+    "total_tokens": 2464,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

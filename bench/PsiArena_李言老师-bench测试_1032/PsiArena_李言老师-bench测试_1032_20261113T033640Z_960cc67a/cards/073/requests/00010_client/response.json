@@ -1,0 +1,41 @@
+{
+  "id": "5aaa56c879fe40769db229a0602b44cf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前几天班里有个孩子磕了一下，其实不是我的责任，但我还是想了一整晚，觉得是不是我没看好。……说出来挺可笑的，我不该这么在意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次怪自己的情况……这让我想起前几天在幼儿园发生的事。其实我很不想提这个，但既然已经聊到这里了，也许可以试着说一点。我总觉得那次是我没处理好，才会让孩子摔倒。虽然理智上知道不是我的责任，可心里就是过不去这个坎。）\n（说到孩子摔倒的时候，我好像又回到了那个场景，心里特别难受。这种自责的感觉太熟悉了，就像小时候发生那件事之后一样。但我不想让咨询师觉得我太脆弱，所以后面又补了一句“我不该这么在意”。）",
+        "reasoning": "（咨询师问我最近一次怪自己的情况……这让我想起前几天在幼儿园发生的事。其实我很不想提这个，但既然已经聊到这里了，也许可以试着说一点。我总觉得那次是我没处理好，才会让孩子摔倒。虽然理智上知道不是我的责任，可心里就是过不去这个坎。）\n（说到孩子摔倒的时候，我好像又回到了那个场景，心里特别难受。这种自责的感觉太熟悉了，就像小时候发生那件事之后一样。但我不想让咨询师觉得我太脆弱，所以后面又补了一句“我不该这么在意”。）"
+      }
+    }
+  ],
+  "created": 1794544949,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 1804,
+    "total_tokens": 1960,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

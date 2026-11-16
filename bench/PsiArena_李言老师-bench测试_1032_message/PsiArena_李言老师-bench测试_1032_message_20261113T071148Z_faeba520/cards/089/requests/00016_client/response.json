@@ -1,0 +1,41 @@
+{
+  "id": "bc7c733be30c47bd97b1b450f0d24c2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……下次她再说我裙子的时候，我可以试着说一句“我听着不舒服”。不用吵架，就是让她知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我感觉到咨询师在鼓励我，而且她说的“不逼自己”让我放松了一些。之前我总是要么全忍要么爆发，现在她提醒我可以从小处开始，这让我觉得可行。）\n（想到室友说裙子的事，那个场景我印象最深，也最让我难受。如果下次再听到类似的话，我可能可以试着说出自己的感受，不用太激烈，就说“我听着不舒服”就够了。这样既表达了，又不会变成争吵。）",
+        "reasoning": "（我感觉到咨询师在鼓励我，而且她说的“不逼自己”让我放松了一些。之前我总是要么全忍要么爆发，现在她提醒我可以从小处开始，这让我觉得可行。）\n（想到室友说裙子的事，那个场景我印象最深，也最让我难受。如果下次再听到类似的话，我可能可以试着说出自己的感受，不用太激烈，就说“我听着不舒服”就够了。这样既表达了，又不会变成争吵。）"
+      }
+    }
+  ],
+  "created": 1794558109,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2364,
+    "total_tokens": 2487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

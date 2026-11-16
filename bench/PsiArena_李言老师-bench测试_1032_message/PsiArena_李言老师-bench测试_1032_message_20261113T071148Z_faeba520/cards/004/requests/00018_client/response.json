@@ -1,0 +1,41 @@
+{
+  "id": "6097571f8b974898ace2a13b5fe7fa1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）图书馆吧，那儿安静，也没人会在那儿闹。（又有点犹豫）可是总一个人待着，是不是也不太好？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（老师没有直接否定我躲着的想法，还问学校里有没有让我踏实的地方，这让我稍微松了口气。我想了想，图书馆确实是我能想到的地方，那里安静，也没人会在那儿欺负我。）\n（不过我也担心，总是一个人待着，会不会显得我太不合群了。大家都在操场玩，就我一个人去图书馆，好像也不太对劲。可我又真的不敢去操场。）",
+        "reasoning": "（老师没有直接否定我躲着的想法，还问学校里有没有让我踏实的地方，这让我稍微松了口气。我想了想，图书馆确实是我能想到的地方，那里安静，也没人会在那儿欺负我。）\n（不过我也担心，总是一个人待着，会不会显得我太不合群了。大家都在操场玩，就我一个人去图书馆，好像也不太对劲。可我又真的不敢去操场。）"
+      }
+    }
+  ],
+  "created": 1794554137,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2401,
+    "total_tokens": 2515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

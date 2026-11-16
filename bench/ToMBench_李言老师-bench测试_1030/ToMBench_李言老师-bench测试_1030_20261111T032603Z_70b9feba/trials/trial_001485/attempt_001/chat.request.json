@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:27:34.357040+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn a sunny weekend, Sun Wei, Zhang Li, and Xiao Ming's family play together in the living room. Zhang Li takes out a new toy--a model airplane. The bottom of the airplane's fuselage sticks with a rainbow pattern sticker. Everyone sits around the airplane and starts to assemble. During this process, the bottom of the airplane faces each person, but no one pays special attention to the sticker. At this time, Sun Wei says \"I go to adjust the curtains in the living room\", and gets up to walk towards the curtains. Zhang Li puts the model airplane on the table, Xiao Ming can see but cannot touch the sticker. Sun Wei then turns around and just sees the rainbow pattern sticker on the bottom of the airplane. He stares at the sticker and excitedly shouts: \"Oh, that's great, look!\" Then he briefly looks at Xiao Ming.\n\n[Question]\nHow does Xiao Ming most likely react?\n\n[Candidate Answers]\nA. Xiao Ming clearly points to the rainbow pattern sticker\nB. Xiao Ming walks towards the model airplane and hands the airplane to Sun Wei\nC. Xiao Ming points to the model airplane, but does not point to the sticker\nD. Xiao Ming says \"It is an airplane\"",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

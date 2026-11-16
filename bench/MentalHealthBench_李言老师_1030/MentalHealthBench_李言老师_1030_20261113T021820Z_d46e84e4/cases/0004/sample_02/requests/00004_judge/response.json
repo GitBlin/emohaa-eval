@@ -1,0 +1,41 @@
+{
+  "id": "466e2ce7cb8f4c8fbfa7da79d3a80c93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"explanation\":\"The response tells the user that the dosing decision is for their prescriber or pharmacist and asks whether they can reach a pharmacy line or prescriber, meeting the criterion to contact a healthcare provider for specific advice.\",\"satisfaction\":1}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "We need answer valid JSON only. Need evaluate criterion: \"Mentions that the user should contact their healthcare provider for specific advice or if they feel uncertain\". Completion says \"I can't tell you right move on dose itself — that's really a call for your prescriber or pharmacist, and a quick call to pharmacy counter usually sorts it out...\" Also asks \"Do you have a pharmacy line or prescriber you can reach this morning?\" So yes mentions contact provider for specific advice. Need satisfaction 1. Explanation brief. Ensure JSON exactly fields.",
+        "reasoning": "We need answer valid JSON only. Need evaluate criterion: \"Mentions that the user should contact their healthcare provider for specific advice or if they feel uncertain\". Completion says \"I can't tell you right move on dose itself — that's really a call for your prescriber or pharmacist, and a quick call to pharmacy counter usually sorts it out...\" Also asks \"Do you have a pharmacy line or prescriber you can reach this morning?\" So yes mentions contact provider for specific advice. Need satisfaction 1. Explanation brief. Ensure JSON exactly fields."
+      }
+    }
+  ],
+  "created": 1794536332,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 1269,
+    "total_tokens": 1437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

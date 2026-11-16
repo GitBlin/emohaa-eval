@@ -1,0 +1,41 @@
+{
+  "id": "33b2b25632e44d9b8d67380710b86ff5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先试一分钟吧，太长了我也坚持不了。不过……我妈那边老念叨，我是不是也得想个办法应付？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把新习惯和早上看手机绑定，这让我觉得具体可行，但心里还是有点没底。我担心自己坚持不了，也怕做了没用，不过愿意先试两天看看。）\n（想到我妈那边一直念叨，我就觉得压力很大。如果她知道我在做这些，可能又会说我心不诚。我得先问问咨询师，这种情况我该怎么应付，不然光靠早上那一分钟可能扛不住。）",
+        "reasoning": "（咨询师在帮我把新习惯和早上看手机绑定，这让我觉得具体可行，但心里还是有点没底。我担心自己坚持不了，也怕做了没用，不过愿意先试两天看看。）\n（想到我妈那边一直念叨，我就觉得压力很大。如果她知道我在做这些，可能又会说我心不诚。我得先问问咨询师，这种情况我该怎么应付，不然光靠早上那一分钟可能扛不住。）"
+      }
+    }
+  ],
+  "created": 1794544521,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2933,
+    "total_tokens": 3052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

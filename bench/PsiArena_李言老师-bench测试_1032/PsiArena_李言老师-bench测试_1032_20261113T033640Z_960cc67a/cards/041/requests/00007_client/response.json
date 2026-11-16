@@ -1,0 +1,41 @@
+{
+  "id": "65f9131c213b4d0980c3bf7067f4c692",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也分不清……可能都有吧。语气让我难受，可他一直盯着这些细节，也让我觉得怪怪的。好像我整个人就剩下这些了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得更具体了，想让我分辨在意的是语气还是细节。我有点被问住了，因为这两样其实都让我难受，但一下子说不上来哪个更重。也许我该承认这让我心里很乱，但还不想马上把全部感受都摊开。先这样模糊地回应，看看他接下来会不会继续温和地引导。）",
+        "reasoning": "（咨询师问得更具体了，想让我分辨在意的是语气还是细节。我有点被问住了，因为这两样其实都让我难受，但一下子说不上来哪个更重。也许我该承认这让我心里很乱，但还不想马上把全部感受都摊开。先这样模糊地回应，看看他接下来会不会继续温和地引导。）"
+      }
+    }
+  ],
+  "created": 1794543073,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1505,
+    "total_tokens": 1615,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

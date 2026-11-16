@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:38:46.073266+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nOn Saturday noon, the gathering takes place in the private room of Sea Moon. The company department has a meal together here today. Manager Li goes home to visit his family because something happens at home, so he does not attend this meal. During the meal, Miss Zhao sees Manager Li's seat is empty, so she asks Mr. Zhang sitting next to her: \"Mr. Zhang, do you know why Manager Li does not attend the meal?\" Mr. Zhang puts down his chopsticks, thinks for a while and says: \"I remember Manager Li says he goes home to visit his family this weekend, so he probably does not come because of this reason.\" Miss Zhao nods: \"I see.\"\n\n[Question]\nWhere does the company hold the gathering?\n\n[Candidate Answers]\nA. Sky Star private room\nB. Mountain Cloud private room\nC. Mirror Flower private room\nD. Sea Moon private room",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

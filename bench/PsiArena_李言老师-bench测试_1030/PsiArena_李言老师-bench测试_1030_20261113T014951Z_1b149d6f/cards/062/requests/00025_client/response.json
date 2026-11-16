@@ -1,0 +1,41 @@
+{
+  "id": "6cf560c2612d414eb2f60b51b35903ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下去）是……我怕他们觉得我没用。可我又想，真到撑不住那天，他们说什么也晚了。（抬头）今天这么聊下来，我想先跟我媳妇开口试试，先不跟爸妈讲，你觉得行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说到“撑不住的人”这几个字，我心里一下子被戳中了。我确实怕，怕在爸妈眼里变成那个没出息、扛不住的儿子。可又觉得这么怕下去，身体真要先垮了。）\n（这次聊下来，我好像有点明白了，光自己憋着不是办法。得先跟媳妇开口，至少她不是那种一上来就否定我的人。这一步，可能比我想的要小一点。）",
+        "reasoning": "（她说到“撑不住的人”这几个字，我心里一下子被戳中了。我确实怕，怕在爸妈眼里变成那个没出息、扛不住的儿子。可又觉得这么怕下去，身体真要先垮了。）\n（这次聊下来，我好像有点明白了，光自己憋着不是办法。得先跟媳妇开口，至少她不是那种一上来就否定我的人。这一步，可能比我想的要小一点。）"
+      }
+    }
+  ],
+  "created": 1794537745,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3648,
+    "total_tokens": 3792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

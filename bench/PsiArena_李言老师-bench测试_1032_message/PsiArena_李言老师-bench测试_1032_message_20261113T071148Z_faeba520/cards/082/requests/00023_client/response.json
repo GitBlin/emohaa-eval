@@ -1,0 +1,41 @@
+{
+  "id": "52c4503bf1da4e85af3262e7dae542e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀吧，一紧我就知道要来了。以前没留意，现在想想开会时肩膀老是耸着。抓住这个，也许能抢在那几秒前头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找身体信号，这比空谈道理实在。肩膀确实会先紧，以前可能没留意，现在想想开会时就是那样。能抓住这个信号，也许就能在顶话之前停一下。）\n（不过光知道还不够，得练。真到那时候，能不能及时反应过来还是没底。先把这个信号记下来，回去试试看。）",
+        "reasoning": "（咨询师在帮我找身体信号，这比空谈道理实在。肩膀确实会先紧，以前可能没留意，现在想想开会时就是那样。能抓住这个信号，也许就能在顶话之前停一下。）\n（不过光知道还不够，得练。真到那时候，能不能及时反应过来还是没底。先把这个信号记下来，回去试试看。）"
+      }
+    }
+  ],
+  "created": 1794557871,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3108,
+    "total_tokens": 3223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

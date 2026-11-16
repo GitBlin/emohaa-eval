@@ -1,0 +1,41 @@
+{
+  "id": "a08205b783914320a335609a9fba0d01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）我挺喜欢那些孩子的，可有时候看着他们，心里会突然一紧……说不上来为什么。好像总怕他们会出什么事，是我没看住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我面对孩子时的状态……这让我一下子想到那些新闻，还有小时候的事。其实我每天看着这些孩子，心里总有个声音在说，你得保护好他们，不能再出事。）\n（可这个念头一冒出来，我自己就先被压得喘不过气。我总觉得如果连孩子都护不住，那我还算什么老师。这种自责平时根本不敢跟人说，怕人家觉得我小题大做。）",
+        "reasoning": "（他问我面对孩子时的状态……这让我一下子想到那些新闻，还有小时候的事。其实我每天看着这些孩子，心里总有个声音在说，你得保护好他们，不能再出事。）\n（可这个念头一冒出来，我自己就先被压得喘不过气。我总觉得如果连孩子都护不住，那我还算什么老师。这种自责平时根本不敢跟人说，怕人家觉得我小题大做。）"
+      }
+    }
+  ],
+  "created": 1794557344,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1808,
+    "total_tokens": 1935,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

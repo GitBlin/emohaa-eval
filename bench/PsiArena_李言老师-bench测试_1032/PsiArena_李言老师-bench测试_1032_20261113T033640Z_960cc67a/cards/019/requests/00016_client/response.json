@@ -1,0 +1,41 @@
+{
+  "id": "8638154d3d1447b497986bf74f1bbb5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……怕自己一放松就说错话、显得很随意吧。平时我其实挺随性的，可一到相亲就绷着，好像松一点就会搞砸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更担心对方失望还是自己失控……这让我有点意外，我确实没认真想过这个问题。以前总觉得只要表现好就行，现在想想，我可能更怕自己一旦放松下来，会说出什么不合适的话，或者显得太随意，把场面搞砸。）\n（其实我平时不是那种很拘谨的人，但一到相亲那种场合，就觉得自己必须端着。这种紧绷感让我很累，也让我怀疑自己是不是真的能自然地和人相处。也许我该承认，我确实怕自己一放松就收不住。）",
+        "reasoning": "（咨询师在问我更担心对方失望还是自己失控……这让我有点意外，我确实没认真想过这个问题。以前总觉得只要表现好就行，现在想想，我可能更怕自己一旦放松下来，会说出什么不合适的话，或者显得太随意，把场面搞砸。）\n（其实我平时不是那种很拘谨的人，但一到相亲那种场合，就觉得自己必须端着。这种紧绷感让我很累，也让我怀疑自己是不是真的能自然地和人相处。也许我该承认，我确实怕自己一放松就收不住。）"
+      }
+    }
+  ],
+  "created": 1794542187,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2452,
+    "total_tokens": 2605,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

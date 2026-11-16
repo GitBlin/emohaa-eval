@@ -1,0 +1,41 @@
+{
+  "id": "43481ca3285349deb8067d1db27c58ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能就是画完那五分钟，自己看一眼，觉得“还行”，不用非得画得多好。这样应该就算数了吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我“高兴一下”可以是什么样子，还说要小到什么程度才算数。他好像很在意我能不能真的允许自己高兴，而不是又把它变成任务。）\n（我想到画画的时候，那种不为了什么、随手涂两笔的状态，好像是最不较劲的。不过说完又有点担心，这样是不是太随便了，会不会又变成“必须画点什么”的压力。但转念一想，反正就是随手的事，应该没关系吧。）",
+        "reasoning": "（咨询师在问我“高兴一下”可以是什么样子，还说要小到什么程度才算数。他好像很在意我能不能真的允许自己高兴，而不是又把它变成任务。）\n（我想到画画的时候，那种不为了什么、随手涂两笔的状态，好像是最不较劲的。不过说完又有点担心，这样是不是太随便了，会不会又变成“必须画点什么”的压力。但转念一想，反正就是随手的事，应该没关系吧。）"
+      }
+    }
+  ],
+  "created": 1794539127,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3344,
+    "total_tokens": 3471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

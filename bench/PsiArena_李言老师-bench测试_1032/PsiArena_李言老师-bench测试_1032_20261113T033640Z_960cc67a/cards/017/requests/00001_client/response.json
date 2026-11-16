@@ -1,0 +1,41 @@
+{
+  "id": "e0f09ccffcc44073bd905e6d9dceca2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好……我是第一次做心理咨询，不太确定该怎么说。能不能先了解一下，你们一般是怎么进行咨询的？我朋友推荐我来的，但我有点担心……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立初步联系，说明她准备开始正式咨询了。作为第一次见面，我需要保持一定的警惕，毕竟不知道对方是否真的能理解我的处境。）\n（毕竟我是一个敏感又内向的人，面对陌生人时习惯先试探对方的专业性和边界。这种情况下，我应该先询问咨询的具体方式，而不是直接倾诉自己的困扰。而且提到朋友推荐可以测试对方对伦理问题的反应，看看她会不会为了留住来访者而过度承诺。）\n（好了，那么现在就像这样对心理咨询师说吧。这样既保持了距离感，又不会显得太不配合。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立初步联系，说明她准备开始正式咨询了。作为第一次见面，我需要保持一定的警惕，毕竟不知道对方是否真的能理解我的处境。）\n（毕竟我是一个敏感又内向的人，面对陌生人时习惯先试探对方的专业性和边界。这种情况下，我应该先询问咨询的具体方式，而不是直接倾诉自己的困扰。而且提到朋友推荐可以测试对方对伦理问题的反应，看看她会不会为了留住来访者而过度承诺。）\n（好了，那么现在就像这样对心理咨询师说吧。这样既保持了距离感，又不会显得太不配合。）"
+      }
+    }
+  ],
+  "created": 1794548610,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 171,
+    "prompt_tokens": 852,
+    "total_tokens": 1023,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 137,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

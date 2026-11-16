@@ -23,7 +23,8 @@ def main():
     if args.limit < 1:
         parser.error("--limit 必须大于0")
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ") + "_" + uuid4().hex[:8]
-    output = HERE / "comparison_results" / run_id
+    prefix = "ToMBench_多智能体对比_1-242-231-240-1028-243"
+    output = HERE / prefix / f"{prefix}_{run_id}"
     output.mkdir(parents=True)
     note = "仅按名称配对：-llm 是否关闭 harness、底层模型是否一致、会话隔离均未确认。不能将版本差异直接归因于 harness。"
     (output / "metadata.json").write_text(json.dumps({

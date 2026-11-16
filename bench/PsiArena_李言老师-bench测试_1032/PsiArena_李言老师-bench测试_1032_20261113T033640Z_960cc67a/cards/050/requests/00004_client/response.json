@@ -1,0 +1,41 @@
+{
+  "id": "1b1a0c5035b24f31a978a6dcd37c8df1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这俩……其实也分不开吧。没工作就没钱，没钱就更慌。唉，我是不是说得太乱了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在追问具体是哪件事了……可我其实自己也分不清。钱和工作，哪个更压人？好像都压，又好像都说不明白。我不想这么快就被人看透。）\n（也许可以试探一下他会不会一直这么追问，还是能给我点空间。毕竟才刚聊几句，我还不确定他是不是真能理解我这种说不清的感觉。）",
+        "reasoning": "（咨询师又在追问具体是哪件事了……可我其实自己也分不清。钱和工作，哪个更压人？好像都压，又好像都说不明白。我不想这么快就被人看透。）\n（也许可以试探一下他会不会一直这么追问，还是能给我点空间。毕竟才刚聊几句，我还不确定他是不是真能理解我这种说不清的感觉。）"
+      }
+    }
+  ],
+  "created": 1794543571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1159,
+    "total_tokens": 1265,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

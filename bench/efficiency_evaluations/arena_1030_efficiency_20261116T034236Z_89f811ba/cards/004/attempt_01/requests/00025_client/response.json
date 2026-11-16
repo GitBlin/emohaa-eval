@@ -1,0 +1,47 @@
+{
+  "id": "94e0a6f66cc444d7b71391de584ed4b2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该……不会吧。她平时没凶过我。那我就试试明天说，声音抖就抖吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我老师会不会不耐烦……我想起她平时叫我的样子，好像没有嫌过我。但我还是怕，怕一开口声音抖，别人就看出我害怕。）\n（不过她说的也对，老师要是真烦我，也不会单独叫我了。我试着这么想，心里稍微松了一点。明天念那两句的时候，我就当是在跟自己说。）",
+        "reasoning": "（她问我老师会不会不耐烦……我想起她平时叫我的样子，好像没有嫌过我。但我还是怕，怕一开口声音抖，别人就看出我害怕。）\n（不过她说的也对，老师要是真烦我，也不会单独叫我了。我试着这么想，心里稍微松了一点。明天念那两句的时候，我就当是在跟自己说。）"
+      }
+    }
+  ],
+  "created": 1794800798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3346,
+    "total_tokens": 3445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3072,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

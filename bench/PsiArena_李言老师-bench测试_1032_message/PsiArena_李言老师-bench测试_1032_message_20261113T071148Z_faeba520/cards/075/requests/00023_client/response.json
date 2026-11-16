@@ -1,0 +1,41 @@
+{
+  "id": "51a4994e3698490d97c50a9482790fad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）好像……是我自己先说的。也没人真讲过这话。这么一说，我好像一直在自己拦自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，我一下子有点愣住了。好像确实没人真正说过这种话，更多是我自己心里先冒出来的。每次想多做一点，就总觉得别人会觉得没用。）\n（可被她这么一戳，我又有点不好意思承认。毕竟这些年都习惯先把自己压下去，现在说这些是我自己想的，反而更难受。但也有一点松，像被看见了。）",
+        "reasoning": "（她这么问，我一下子有点愣住了。好像确实没人真正说过这种话，更多是我自己心里先冒出来的。每次想多做一点，就总觉得别人会觉得没用。）\n（可被她这么一戳，我又有点不好意思承认。毕竟这些年都习惯先把自己压下去，现在说这些是我自己想的，反而更难受。但也有一点松，像被看见了。）"
+      }
+    }
+  ],
+  "created": 1794557475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3263,
+    "total_tokens": 3368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

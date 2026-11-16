@@ -1,0 +1,41 @@
+{
+  "id": "1f528dd485834f06a0dc3d7a84179e92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被回应过……这个词让我有点难受。我好像从小就是这样，事情做完不算完，得有人点头说“可以了”才行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说那个空落落可能不是真有件事没做完，而是在等一个“今天可以了”的信号。被回应过的感觉……这个词让我有点难受。好像被戳中了什么。）\n（我想到小时候，做完作业还得练琴，妈妈才会点头说可以了。那种要等别人确认才能停下来的习惯，好像一直都在。可我现在都28了，怎么还是这样。）",
+        "reasoning": "（心理咨询师说那个空落落可能不是真有件事没做完，而是在等一个“今天可以了”的信号。被回应过的感觉……这个词让我有点难受。好像被戳中了什么。）\n（我想到小时候，做完作业还得练琴，妈妈才会点头说可以了。那种要等别人确认才能停下来的习惯，好像一直都在。可我现在都28了，怎么还是这样。）"
+      }
+    }
+  ],
+  "created": 1794540183,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1644,
+    "total_tokens": 1757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "16bc835f47454387aecbfd587c89c943",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说说。每次都这样，一吵完我又后悔，觉得自己不该那么敏感，可下次还是控制不住。这到底是怎么回事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师注意到我身体反应，问我想先缓一缓还是继续说。我其实更想弄明白为什么自己会这样，胸口闷手发凉的感觉太熟悉了，每次跟家里通完话都这样。但我也说不清是不是该先停下来。）\n（想到每次发完火又后悔，觉得自己不该那么敏感，可下次还是控制不住。这种循环让我很累，也许该问问咨询师这到底是怎么回事。）",
+        "reasoning": "（咨询师注意到我身体反应，问我想先缓一缓还是继续说。我其实更想弄明白为什么自己会这样，胸口闷手发凉的感觉太熟悉了，每次跟家里通完话都这样。但我也说不清是不是该先停下来。）\n（想到每次发完火又后悔，觉得自己不该那么敏感，可下次还是控制不住。这种循环让我很累，也许该问问咨询师这到底是怎么回事。）"
+      }
+    }
+  ],
+  "created": 1794548928,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2106,
+    "total_tokens": 2227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

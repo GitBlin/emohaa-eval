@@ -1,0 +1,41 @@
+{
+  "id": "2832510d30fe43e99cac505e394d123e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像上了高中以后就越来越重了。成绩一掉，我就觉得是我自己的问题，晚上写作业写着写着就特别累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种感觉压着我多久了……其实我也说不清具体从哪天开始。好像从上了高中，成绩开始往下掉的时候，那种亏欠感就慢慢冒出来了。以前还能勉强维持，现在越来越明显。）\n（每次考完试，看到妈妈不说话的样子，我就觉得是自己不够好。那种感觉就像心里压了块石头，越积越重。现在连晚上写作业都会突然想起来，然后整个人就特别累。）",
+        "reasoning": "（她问我这种感觉压着我多久了……其实我也说不清具体从哪天开始。好像从上了高中，成绩开始往下掉的时候，那种亏欠感就慢慢冒出来了。以前还能勉强维持，现在越来越明显。）\n（每次考完试，看到妈妈不说话的样子，我就觉得是自己不够好。那种感觉就像心里压了块石头，越积越重。现在连晚上写作业都会突然想起来，然后整个人就特别累。）"
+      }
+    }
+  ],
+  "created": 1794537416,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2209,
+    "total_tokens": 2332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

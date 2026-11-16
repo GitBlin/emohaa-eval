@@ -1,0 +1,41 @@
+{
+  "id": "c4481312e47f4221b2c56684ff13f7cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头，声音低下去）是。有时候做完一件事，我自己看自己，就那个眼神。原来我把它带在身上了。（停顿）说得有点多了，我平时不这样的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他说的没错，我确实一直用那种眼神看自己。每次想放松一下，心里就冒出那种失望的感觉，像我爸站在旁边。这让我有点难受，也让我意识到自己对自己太苛刻了。）\n（不过现在光认识到这点还不够，我得想想接下来能做什么。总不能一直这样下去，或许可以试着做点什么改变，哪怕是很小的事。）",
+        "reasoning": "（他说的没错，我确实一直用那种眼神看自己。每次想放松一下，心里就冒出那种失望的感觉，像我爸站在旁边。这让我有点难受，也让我意识到自己对自己太苛刻了。）\n（不过现在光认识到这点还不够，我得想想接下来能做什么。总不能一直这样下去，或许可以试着做点什么改变，哪怕是很小的事。）"
+      }
+    }
+  ],
+  "created": 1794537694,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3351,
+    "total_tokens": 3468,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

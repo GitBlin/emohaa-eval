@@ -1,0 +1,46 @@
+{
+  "trial_id": "trial_003161",
+  "sample_id": "Hinting Task Test:42",
+  "task_file": "Hinting Task Test",
+  "ability": "Intention: Intentions explanations",
+  "language": "en",
+  "repeat": 2,
+  "answer": "A",
+  "map": {
+    "A": "B",
+    "B": "A",
+    "C": "D",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "A",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T03:29:13.827153+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "e720809e15524a269473f6c582cf2221"
+  ],
+  "started_at": "2026-11-11T03:29:13.827153+00:00",
+  "finished_at": "2026-11-11T03:29:15.223173+00:00",
+  "elapsed_seconds": 1.3961245231330395,
+  "user_id": "liyan_92868ae21aabcd6fd9057b9d088bbf6025ea7e25"
+}

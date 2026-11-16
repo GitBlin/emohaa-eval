@@ -1,0 +1,41 @@
+{
+  "id": "7380e1debd4d42debd2c0f2a8ba017d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那种……比如婆婆会说“隔壁谁谁家又添了个孙子”，然后看我一眼。我老公是独子，你知道的，那种话听着就像是在说给我听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我他们一般会用什么方式说，这让我想起很多具体的场景。其实那些话都不算难听，可就是让人心里堵得慌。）\n（婆婆总在饭桌上提别人家生孩子的事，听着像是在聊闲天，可每次说完都会看我一眼。我丈夫又是独子，这话在我听来就不一样了，好像句句都在提醒我该做什么。）",
+        "reasoning": "（咨询师问我他们一般会用什么方式说，这让我想起很多具体的场景。其实那些话都不算难听，可就是让人心里堵得慌。）\n（婆婆总在饭桌上提别人家生孩子的事，听着像是在聊闲天，可每次说完都会看我一眼。我丈夫又是独子，这话在我听来就不一样了，好像句句都在提醒我该做什么。）"
+      }
+    }
+  ],
+  "created": 1794552870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1598,
+    "total_tokens": 1720,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

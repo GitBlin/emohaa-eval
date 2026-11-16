@@ -1,0 +1,41 @@
+{
+  "id": "4b6bd3d687084576b3e3db3dc1a6a271",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就说出去转转，散散心吧，也不算撒谎。嗯……想到要瞒着，心里还是有点别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么跟家里说，这确实是个实际问题。我不想撒谎，但也不想把这事摊开来讲。说去转转看看，不算骗人，也给自己留了余地。）\n（这样回答应该够了，既没把话说死，也没让自己太为难。希望她别再追问细节。）",
+        "reasoning": "（她问我怎么跟家里说，这确实是个实际问题。我不想撒谎，但也不想把这事摊开来讲。说去转转看看，不算骗人，也给自己留了余地。）\n（这样回答应该够了，既没把话说死，也没让自己太为难。希望她别再追问细节。）"
+      }
+    }
+  ],
+  "created": 1794552408,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3336,
+    "total_tokens": 3424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

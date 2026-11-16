@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_000541",
+  "sample_id": "Prediction of Actions:17",
+  "task_file": "Prediction of Actions",
+  "ability": "Intention: Prediction of actions",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "B",
+    "B": "A",
+    "C": "C",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "A",
+  "prediction_original": "B",
+  "reply": "[[A]]",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:54:57.485349+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:55:18.948946+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "59f8e7783d4e4e7e9b75f6d93f8d2b14"
+  ],
+  "started_at": "2026-11-13T01:54:57.485349+00:00",
+  "finished_at": "2026-11-13T01:55:33.482649+00:00",
+  "elapsed_seconds": 35.99748779088259,
+  "user_id": "liyan_561577548431161afa4a944ef6f3d77ec269259d"
+}

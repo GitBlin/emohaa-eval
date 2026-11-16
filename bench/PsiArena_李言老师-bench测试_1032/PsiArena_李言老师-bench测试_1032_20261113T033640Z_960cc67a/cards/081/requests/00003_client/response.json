@@ -1,0 +1,41 @@
+{
+  "id": "6805da638e02446191e9fdfe70e7c3a0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是想让自己变得更好一点吧……（停顿）别人好像都在进步，我却下班回来只想躺着。可躺着的时候心里又不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我买书时最想解决什么……其实我也不是真的想读那些书，只是觉得别人都在进步，我不买好像就落后了。这种感觉说出来会不会显得很虚荣？）\n（不过既然他问了，还是说点表面的吧。下班后真的累得不行，但心里又一直有个声音在催我。这种感觉太矛盾了，不知道他能理解吗。）",
+        "reasoning": "（他问我买书时最想解决什么……其实我也不是真的想读那些书，只是觉得别人都在进步，我不买好像就落后了。这种感觉说出来会不会显得很虚荣？）\n（不过既然他问了，还是说点表面的吧。下班后真的累得不行，但心里又一直有个声音在催我。这种感觉太矛盾了，不知道他能理解吗。）"
+      }
+    }
+  ],
+  "created": 1794545364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1052,
+    "total_tokens": 1162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

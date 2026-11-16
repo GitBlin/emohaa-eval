@@ -1,0 +1,41 @@
+{
+  "id": "2db4c692ba8e42f4b0954cce3381129a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "很久了吧，可能从小就这样。我家里……我爸脾气不稳定，好的时候特别好，可有时候会突然发火。我是不是说得太乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问持续多久了，这让我想起很多事。其实不是最近才这样的，好像从小就有那种不安的感觉。但我该说多少呢？他刚才说不会评判我，也许可以试着说一点点。）\n（说到家里，我有点犹豫。父亲的事一直压在心里，从没跟别人细讲过。可那种恐惧和怀疑，好像就是从那时候开始的。先提一句看看他的反应吧，别一下子全倒出来。）",
+        "reasoning": "（他问持续多久了，这让我想起很多事。其实不是最近才这样的，好像从小就有那种不安的感觉。但我该说多少呢？他刚才说不会评判我，也许可以试着说一点点。）\n（说到家里，我有点犹豫。父亲的事一直压在心里，从没跟别人细讲过。可那种恐惧和怀疑，好像就是从那时候开始的。先提一句看看他的反应吧，别一下子全倒出来。）"
+      }
+    }
+  ],
+  "created": 1794557112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1661,
+    "total_tokens": 1785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

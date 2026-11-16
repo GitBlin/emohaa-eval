@@ -1,0 +1,41 @@
+{
+  "id": "5c88725907774e7cb2c7c407a8bf1f3e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "分开……听着好像有道理，但我心里有点慌。感觉要是真分开了，就像把她推远了。我们家一直不是这样的，她失望了，全家都觉得是我的问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，好像是在让我把“妈妈的失望”和“我是不是错了”拆开来看。可这两个在我心里一直粘得死死的，真要分开，我第一反应不是轻松，反而是害怕。）\n（我有点想承认这分开的念头让我不安，又怕说出来显得自己太软弱。而且家里一直就是那样，她失望了全家都觉得是我的问题，我一个人怎么分得开呢。）",
+        "reasoning": "（她这么问，好像是在让我把“妈妈的失望”和“我是不是错了”拆开来看。可这两个在我心里一直粘得死死的，真要分开，我第一反应不是轻松，反而是害怕。）\n（我有点想承认这分开的念头让我不安，又怕说出来显得自己太软弱。而且家里一直就是那样，她失望了全家都觉得是我的问题，我一个人怎么分得开呢。）"
+      }
+    }
+  ],
+  "created": 1794535899,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2429,
+    "total_tokens": 2553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

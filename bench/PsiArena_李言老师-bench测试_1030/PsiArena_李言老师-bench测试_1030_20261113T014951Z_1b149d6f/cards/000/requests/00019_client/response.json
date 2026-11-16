@@ -1,0 +1,41 @@
+{
+  "id": "4a62faaa4e3244b986a2f4c2ecbbb6f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候能想一整个晚上，越想越觉得自己蠢。这么说出来，好像确实挺耗人的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我那种反复回想的时长，我其实很清楚，一晚上都停不下来。可这么具体地说出来，还是有点难为情，好像显得我太计较了。）\n（不过她没催我，也没说这有什么不对，我或许可以试着承认，还想到给自己定个限制。只是不确定这样真的能管住自己，还是又变成另一条必须做到的标准。）",
+        "reasoning": "（她问的是我那种反复回想的时长，我其实很清楚，一晚上都停不下来。可这么具体地说出来，还是有点难为情，好像显得我太计较了。）\n（不过她没催我，也没说这有什么不对，我或许可以试着承认，还想到给自己定个限制。只是不确定这样真的能管住自己，还是又变成另一条必须做到的标准。）"
+      }
+    }
+  ],
+  "created": 1794534677,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2910,
+    "total_tokens": 3017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

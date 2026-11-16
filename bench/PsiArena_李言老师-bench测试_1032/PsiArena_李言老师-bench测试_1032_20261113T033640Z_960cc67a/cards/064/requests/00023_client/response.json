@@ -1,0 +1,41 @@
+{
+  "id": "94d94dddf4744ebe882446740d924fac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还是那个室友。我想先给她发条消息，但一想到她可能很忙，就又犹豫了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我聚焦到具体的人身上，这让我有点紧张。其实心里第一个冒出来的还是那个室友，但说出来就意味着真的要面对了。我担心自己主动联系会显得太刻意，或者对方已经不在意了。）\n（不过既然已经聊到这里，也许可以试着把这份犹豫说出来。我想先简单承认是她，再表达我的顾虑，这样既不会太退缩，也能让咨询师了解我的真实感受。）",
+        "reasoning": "（咨询师在引导我聚焦到具体的人身上，这让我有点紧张。其实心里第一个冒出来的还是那个室友，但说出来就意味着真的要面对了。我担心自己主动联系会显得太刻意，或者对方已经不在意了。）\n（不过既然已经聊到这里，也许可以试着把这份犹豫说出来。我想先简单承认是她，再表达我的顾虑，这样既不会太退缩，也能让咨询师了解我的真实感受。）"
+      }
+    }
+  ],
+  "created": 1794544488,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 3037,
+    "total_tokens": 3151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

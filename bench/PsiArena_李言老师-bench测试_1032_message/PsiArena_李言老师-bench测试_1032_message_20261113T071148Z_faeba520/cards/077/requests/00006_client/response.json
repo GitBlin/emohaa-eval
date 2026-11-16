@@ -1,0 +1,41 @@
+{
+  "id": "2d34771d633244c8931655d0aa973ba9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没怎么说过……真的。我家里人不太聊这些，他们觉得熬一熬就过去了。我有时候想开口，又觉得……算了，不知道从哪说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像很在意我有没有跟别人说过，这让我有点紧张。我确实没怎么说过，也不知道该怎么说。家里人总说要坚强，我怕说了会被觉得不够好。）\n（不过她刚才说在这里不用证明自己够不够格被听，这句话让我稍微放松了一点。也许可以试着说一点点，但真的不知道从哪开始。）",
+        "reasoning": "（她好像很在意我有没有跟别人说过，这让我有点紧张。我确实没怎么说过，也不知道该怎么说。家里人总说要坚强，我怕说了会被觉得不够好。）\n（不过她刚才说在这里不用证明自己够不够格被听，这句话让我稍微放松了一点。也许可以试着说一点点，但真的不知道从哪开始。）"
+      }
+    }
+  ],
+  "created": 1794559293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1370,
+    "total_tokens": 1479,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

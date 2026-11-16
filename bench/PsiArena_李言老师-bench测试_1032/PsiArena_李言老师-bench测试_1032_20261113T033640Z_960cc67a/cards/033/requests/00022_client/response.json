@@ -1,0 +1,41 @@
+{
+  "id": "900305224e2a4ca4b444a7ec57bb7ad9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那顿饭吧，他明明答应了我，却骗我说加班。那一刻我觉得自己在他心里根本不重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我聚焦到具体事件上，这让我有点紧张。我其实一直不敢细想那次吃饭的事，因为一想起来就觉得特别委屈。但既然要摊开说，可能确实得从最让我难受的那次开始。）\n（我担心自己说着说着会情绪失控，又怕他根本不理解我的感受。不过咨询师说得对，先讲清楚那顿饭的事，至少能让他知道我不是无缘无故闹脾气。）",
+        "reasoning": "（咨询师在帮我聚焦到具体事件上，这让我有点紧张。我其实一直不敢细想那次吃饭的事，因为一想起来就觉得特别委屈。但既然要摊开说，可能确实得从最让我难受的那次开始。）\n（我担心自己说着说着会情绪失控，又怕他根本不理解我的感受。不过咨询师说得对，先讲清楚那顿饭的事，至少能让他知道我不是无缘无故闹脾气。）"
+      }
+    }
+  ],
+  "created": 1794542692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3130,
+    "total_tokens": 3247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

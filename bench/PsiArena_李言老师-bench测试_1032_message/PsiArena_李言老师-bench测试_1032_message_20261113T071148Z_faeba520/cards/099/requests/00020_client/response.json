@@ -1,0 +1,41 @@
+{
+  "id": "9a7613ba515847a697c5eb3b85de69b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就认一下，不跟它吵……这个好像能做到。不过万一我认出来了，还是照样憋回去呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先在心里认出那个声音，这听起来比直接面对情绪要容易些。但我还是有点担心，万一我连这个都做不到，会不会又证明自己连小事都做不好。）\n（不过她说从小一点开始，确实让我没那么大压力。我想试试看，但得先确认这真的可行，不然又变成空话。）",
+        "reasoning": "（咨询师让我先在心里认出那个声音，这听起来比直接面对情绪要容易些。但我还是有点担心，万一我连这个都做不到，会不会又证明自己连小事都做不好。）\n（不过她说从小一点开始，确实让我没那么大压力。我想试试看，但得先确认这真的可行，不然又变成空话。）"
+      }
+    }
+  ],
+  "created": 1794558684,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2812,
+    "total_tokens": 2912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

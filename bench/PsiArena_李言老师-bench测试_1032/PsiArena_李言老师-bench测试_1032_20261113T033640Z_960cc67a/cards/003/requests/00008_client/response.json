@@ -1,0 +1,41 @@
+{
+  "id": "70bb070647c74bda8d2924ee8f272af1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……上周部门聚餐吧。我试着讲了个笑话，结果没人接，就有人笑了一下就过去了。我当时脸都热了。其实我平时在家也这样，爸妈更关心我工作怎么样，很少聊这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我具体场景，看来是想帮我理清问题。我确实该说说那次聚餐的事，但直接讲出来还是有点难堪。）\n（其实我挺想让她知道，我不是不想参与，可每次话到嘴边就咽回去了。可能跟我从小家里不太聊这些有关？爸妈更关心成绩和前途，我好像也没学会怎么自然地跟人亲近。）",
+        "reasoning": "（她刚才问我具体场景，看来是想帮我理清问题。我确实该说说那次聚餐的事，但直接讲出来还是有点难堪。）\n（其实我挺想让她知道，我不是不想参与，可每次话到嘴边就咽回去了。可能跟我从小家里不太聊这些有关？爸妈更关心成绩和前途，我好像也没学会怎么自然地跟人亲近。）"
+      }
+    }
+  ],
+  "created": 1794541079,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1614,
+    "total_tokens": 1742,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

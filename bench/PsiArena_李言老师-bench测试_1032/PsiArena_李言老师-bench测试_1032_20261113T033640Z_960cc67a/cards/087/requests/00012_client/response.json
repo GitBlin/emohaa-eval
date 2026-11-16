@@ -1,0 +1,41 @@
+{
+  "id": "7c43278a97724dd4b276eb30d8d5cd46",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多半是晚上一个人的时候。家里没人说话，手机又在旁边，我就特别容易……嗯，容易陷进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种状态什么时候更容易出现，看来是想帮我找到触发点。我确实能感觉到，越到晚上越容易这样，尤其是那种一个人待着的时候。）\n（家里没人说话，手机又总在边上，那种时候就特别容易陷进去。我其实知道这样不好，但就是控制不住，好像只有那样才能暂时不去想那些烦心事。）",
+        "reasoning": "（咨询师在问我这种状态什么时候更容易出现，看来是想帮我找到触发点。我确实能感觉到，越到晚上越容易这样，尤其是那种一个人待着的时候。）\n（家里没人说话，手机又总在边上，那种时候就特别容易陷进去。我其实知道这样不好，但就是控制不住，好像只有那样才能暂时不去想那些烦心事。）"
+      }
+    }
+  ],
+  "created": 1794545798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2045,
+    "total_tokens": 2149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

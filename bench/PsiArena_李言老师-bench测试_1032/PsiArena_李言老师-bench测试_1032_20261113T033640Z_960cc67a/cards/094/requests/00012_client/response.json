@@ -1,0 +1,41 @@
+{
+  "id": "6ac6f0c37112406d910da6097a99f0aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就继续做事吧，忙起来就不想了。（停顿）可到了晚上又停不下来，明明很累，还是刷手机、拖到很晚才睡。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是怎么熬过去的，这让我想起很多个晚上。其实我好像一直用工作来填满自己，不给自己停下来想的机会，但这样反而更累。）\n（我有点犹豫要不要说这些，毕竟听起来像是在抱怨。不过既然已经聊到这里，也许可以稍微坦白一点，反正咨询师应该不会像家里人那样觉得我不够努力。）",
+        "reasoning": "（咨询师问我是怎么熬过去的，这让我想起很多个晚上。其实我好像一直用工作来填满自己，不给自己停下来想的机会，但这样反而更累。）\n（我有点犹豫要不要说这些，毕竟听起来像是在抱怨。不过既然已经聊到这里，也许可以稍微坦白一点，反正咨询师应该不会像家里人那样觉得我不够努力。）"
+      }
+    }
+  ],
+  "created": 1794546148,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1927,
+    "total_tokens": 2040,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

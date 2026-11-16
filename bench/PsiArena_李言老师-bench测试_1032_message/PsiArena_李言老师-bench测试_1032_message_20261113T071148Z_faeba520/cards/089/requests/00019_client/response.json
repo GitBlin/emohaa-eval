@@ -1,0 +1,41 @@
+{
+  "id": "d2c961590686472a81c2a594e9dfe627",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是的。我最近好像很少有那种“属于自己”的时候，连走路都在想别人怎么看。想想有点累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在认真听我说，还帮我把那种模糊的感觉说清楚了。我确实很少觉得有属于自己的时刻，走在路上也总想着别人会怎么看我。）\n（但被她这么一问，我忽然想到晚上散步时那种安静的感觉。那时候好像确实能松一口气，不用面对任何人，也不用解释什么。）",
+        "reasoning": "（她好像真的在认真听我说，还帮我把那种模糊的感觉说清楚了。我确实很少觉得有属于自己的时刻，走在路上也总想着别人会怎么看我。）\n（但被她这么一问，我忽然想到晚上散步时那种安静的感觉。那时候好像确实能松一口气，不用面对任何人，也不用解释什么。）"
+      }
+    }
+  ],
+  "created": 1794558120,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2632,
+    "total_tokens": 2726,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

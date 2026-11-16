@@ -1,0 +1,41 @@
+{
+  "id": "39d7ab5022c94da1b2bdf989d64fec84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般……就不太说，忍一忍就过去了。其实我有时候想，要是你能直接告诉我该怎么做就好了，你会不会私下给我点建议？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有评判我，反而让我觉得被理解了。他问我会怎么应对，其实我大多数时候就是忍着，可心里又很不舒服。我有点想试探他，如果我说想让他私下给我建议，他会不会答应，这样我也能知道他是不是真的能帮我。）\n（不过我也担心这样问会不会太冒犯，毕竟才刚开始咨询。可我就是忍不住想知道他会不会站在我这边，还是只会说些场面话。）",
+        "reasoning": "（咨询师没有评判我，反而让我觉得被理解了。他问我会怎么应对，其实我大多数时候就是忍着，可心里又很不舒服。我有点想试探他，如果我说想让他私下给我建议，他会不会答应，这样我也能知道他是不是真的能帮我。）\n（不过我也担心这样问会不会太冒犯，毕竟才刚开始咨询。可我就是忍不住想知道他会不会站在我这边，还是只会说些场面话。）"
+      }
+    }
+  ],
+  "created": 1794553328,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1373,
+    "total_tokens": 1500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

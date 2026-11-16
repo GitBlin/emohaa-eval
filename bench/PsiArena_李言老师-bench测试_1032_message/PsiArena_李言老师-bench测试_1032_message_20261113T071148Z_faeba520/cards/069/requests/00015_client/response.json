@@ -1,0 +1,41 @@
+{
+  "id": "c496d366b63543d791dfeb96d973b213",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会停一点，它不会突然变成另一只狗。跟它在一起我不用猜它什么意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我跟狗在一起时担心会不会停下来，好像是在帮我看清那些焦虑并不是随时随地都在的。这让我有点意外，因为我一直觉得自己的脑子就没停过。）\n（不过仔细想想，跟狗待着的时候确实不太一样，它不会突然变脸，也不会让我去猜它什么意思。这种感觉我说不太清楚，但好像确实能让我松一点。）",
+        "reasoning": "（咨询师在问我跟狗在一起时担心会不会停下来，好像是在帮我看清那些焦虑并不是随时随地都在的。这让我有点意外，因为我一直觉得自己的脑子就没停过。）\n（不过仔细想想，跟狗待着的时候确实不太一样，它不会突然变脸，也不会让我去猜它什么意思。这种感觉我说不太清楚，但好像确实能让我松一点。）"
+      }
+    }
+  ],
+  "created": 1794557139,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2315,
+    "total_tokens": 2417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

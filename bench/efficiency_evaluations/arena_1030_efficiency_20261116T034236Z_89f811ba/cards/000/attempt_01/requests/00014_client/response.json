@@ -1,0 +1,47 @@
+{
+  "id": "5fbb995aedb1418298de5fbdea273928",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个问题把我问住了……我好像很少用自己的标准去判断。（停顿）工作上我知道做得好不好，但跟人相处，我就没底了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果不看别人脸色，自己心里怎么判断。我好像从来没想过这个问题，脑子里空了一下。平时都是先看别人反应，再决定自己做得对不对。）\n（可要真说自己的标准，我其实说不清。工作上的事我能判断好坏，但跟人打交道，我就没底了。感觉我好像一直没被允许有自己的标准。）",
+        "reasoning": "（她问我如果不看别人脸色，自己心里怎么判断。我好像从来没想过这个问题，脑子里空了一下。平时都是先看别人反应，再决定自己做得对不对。）\n（可要真说自己的标准，我其实说不清。工作上的事我能判断好坏，但跟人打交道，我就没底了。感觉我好像一直没被允许有自己的标准。）"
+      }
+    }
+  ],
+  "created": 1794800624,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2425,
+    "total_tokens": 2534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5f138c220eec44739af799516651f9a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就下班前吧，反正那会儿也干不了什么正事。理完再走，也算给自己收个尾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把范围缩小到抽屉或文件夹，还问具体时间，这让我觉得这件事好像真的可以做到。不用一下子弄完所有东西，压力确实小了很多。）\n（我想到下班后那段时间，反正也没别的事，做点这种小事应该不会太难。而且做完能让自己心里舒服一点，也算有个盼头。）",
+        "reasoning": "（咨询师把范围缩小到抽屉或文件夹，还问具体时间，这让我觉得这件事好像真的可以做到。不用一下子弄完所有东西，压力确实小了很多。）\n（我想到下班后那段时间，反正也没别的事，做点这种小事应该不会太难。而且做完能让自己心里舒服一点，也算有个盼头。）"
+      }
+    }
+  ],
+  "created": 1794540217,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3132,
+    "total_tokens": 3231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

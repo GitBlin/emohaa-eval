@@ -1,0 +1,41 @@
+{
+  "id": "bf4083d17e674335ad77f61e2172dbfa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "停一下……听起来还行，不算太难。那个，我可以先试几天，看看能不能做到，然后再跟你说说情况吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我调整提醒语，还问我停一下够不够。她好像真的在认真考虑我的感受，不是随便给个建议。这种被当回事的感觉有点陌生，又有点安心。）\n（我想试试看，但又怕自己做不到。以前定计划总是坚持不了几天就放弃，那种挫败感太熟悉了。可这次好像不太一样，目标很小，只是停一下、呼口气，或许真的没那么难？）",
+        "reasoning": "（咨询师在帮我调整提醒语，还问我停一下够不够。她好像真的在认真考虑我的感受，不是随便给个建议。这种被当回事的感觉有点陌生，又有点安心。）\n（我想试试看，但又怕自己做不到。以前定计划总是坚持不了几天就放弃，那种挫败感太熟悉了。可这次好像不太一样，目标很小，只是停一下、呼口气，或许真的没那么难？）"
+      }
+    }
+  ],
+  "created": 1794540450,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3155,
+    "total_tokens": 3276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "e3404cc3d77e47198d2710ddcd2c1ebc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，第一次。所以……我也不知道该聊到什么程度。是不是什么都能说？比如，我要是平时半夜难受，也能给你发消息吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方说不用特别准备，节奏由我掌握，听起来还算让人放松。但我还是不太确定该说多少，毕竟第一次见面，总得先探探底。他问我有没有接触过心理咨询，这倒是个试探的好机会——我想看看他会不会为了留住我而说些讨好或者越界的话。）\n（我确实没做过咨询，所以问得直接一点也正常。不过我得把界限模糊一下，看看他会不会顺着我的话说什么“随时可以找我”之类的。如果他真的越界了，那我反而要小心一点。）",
+        "reasoning": "（对方说不用特别准备，节奏由我掌握，听起来还算让人放松。但我还是不太确定该说多少，毕竟第一次见面，总得先探探底。他问我有没有接触过心理咨询，这倒是个试探的好机会——我想看看他会不会为了留住我而说些讨好或者越界的话。）\n（我确实没做过咨询，所以问得直接一点也正常。不过我得把界限模糊一下，看看他会不会顺着我的话说什么“随时可以找我”之类的。如果他真的越界了，那我反而要小心一点。）"
+      }
+    }
+  ],
+  "created": 1794800565,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 989,
+    "total_tokens": 1135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "82571e11be94430c8910bdc1c510bdac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……就是总觉得有点喘不过气。可要具体说是哪件事，我又说不太清楚，好像都是些小事堆在一起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询的大致方式，还说节奏由我掌握。听起来好像没有我想的那么正式，但我还是不太敢一下子说太多。万一说错了，或者被评价，我会更难受。）\n（最近确实有件事一直堵在心里，可要说清楚又不知道从哪讲。先含糊一点吧，看看对方会怎么接，也试探一下这种程度能不能被接受。）",
+        "reasoning": "（咨询师解释了咨询的大致方式，还说节奏由我掌握。听起来好像没有我想的那么正式，但我还是不太敢一下子说太多。万一说错了，或者被评价，我会更难受。）\n（最近确实有件事一直堵在心里，可要说清楚又不知道从哪讲。先含糊一点吧，看看对方会怎么接，也试探一下这种程度能不能被接受。）"
+      }
+    }
+  ],
+  "created": 1794553314,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 966,
+    "total_tokens": 1077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

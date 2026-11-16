@@ -1,0 +1,41 @@
+{
+  "id": "f8b5df0cd22647378778b1fdb7df8841",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……小时候有一次考了第二名，挺高兴地拿回家，结果我爸就说了句“怎么不是第一”。后来我好像就不太敢高兴了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起最早的事……我其实不太愿意回想那些。但既然已经说到这份上了，也许该说点真的。）\n（小时候考了第二名，我本来还挺高兴，结果我爸看完成绩单就只说了句“怎么不是第一”。那种感觉……好像我永远差一口气。家里没人夸我，好像做什么都是应该的。）",
+        "reasoning": "（她问起最早的事……我其实不太愿意回想那些。但既然已经说到这份上了，也许该说点真的。）\n（小时候考了第二名，我本来还挺高兴，结果我爸看完成绩单就只说了句“怎么不是第一”。那种感觉……好像我永远差一口气。家里没人夸我，好像做什么都是应该的。）"
+      }
+    }
+  ],
+  "created": 1794536059,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1824,
+    "total_tokens": 1933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

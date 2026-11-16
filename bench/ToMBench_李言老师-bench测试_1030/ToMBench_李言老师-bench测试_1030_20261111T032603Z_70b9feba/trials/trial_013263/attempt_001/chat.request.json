@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:40:33.091243+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nAunt proudly displays her new variety of vegetables at the market, but these vegetables are actually not fresh. Xiao Li sees the actual situation of the vegetables, but seeing Aunt's hard work and enthusiasm, he praises, \"These vegetables look really good, I definitely buy when I come next time.\n\n[Question]\nWhy does Xiao Li say this?\n\n[Candidate Answers]\nA. Xiao Li praises Aunt's vegetables out of politeness, even though he does not actually plan to buy.\nB. Xiao Li says this because he hopes to get Aunt's discount price through praise.\nC. Xiao Li thinks the vegetables are fresh and also wants to maintain a good relationship with Aunt, so he chooses to praise Aunt's vegetables.\nD. Xiao Li thinks Aunt's vegetables are indeed fresh, his praise is based on the real evaluation of the vegetable quality.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:13:44.416211+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nJames shows his painting at the school art exhibition. One day, he forgets to take the painting home. Nick, while cleaning the exhibition room, mistakes the painting for an abandoned one and puts it in the discard box. At the same time, Ella knows this is James's work. Ella's own painting also shows at the art exhibition, and she does not want James's painting to be more popular than hers, so she decides not to tell Nick. When James finds the painting is missing, he feels very upset and starts asking classmates. Later, Nick realizes he may have mishandled James's painting.\n\n[Question]\nWhat is the possible intention behind Ella's behavior?\n\n[Candidate Answers]\nA. Ella possibly does not have time to tell Nick that James's painting is mishandled due to her busy work.\nB. Ella thinks Nick realizes his mistake and corrects it on his own, so she chooses not to tell him.\nC. Ella possibly looks down on James's painting, thinking it should not be displayed in the art exhibition.\nD. Ella possibly chooses to remain silent out of jealousy of James's talent, hoping to see him in trouble.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3e1b67e43fd54359b6b505c93a755603",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是一些聊天记录，还有转账……很零碎。我也不敢细看，怕真是我想的那样。可我又忍不住一直琢磨，心里特别堵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接评判我翻手机的事，反而问具体看到了什么……看来她更想了解我的感受。但我现在心里很乱，不知道该从哪说起。）\n（那些聊天记录和转账让我觉得事情没那么简单，可又怕说出来显得自己小题大做。毕竟在我家，这种事总是被说成“别多想”。）",
+        "reasoning": "（咨询师没有直接评判我翻手机的事，反而问具体看到了什么……看来她更想了解我的感受。但我现在心里很乱，不知道该从哪说起。）\n（那些聊天记录和转账让我觉得事情没那么简单，可又怕说出来显得自己小题大做。毕竟在我家，这种事总是被说成“别多想”。）"
+      }
+    }
+  ],
+  "created": 1794541869,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1709,
+    "total_tokens": 1815,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

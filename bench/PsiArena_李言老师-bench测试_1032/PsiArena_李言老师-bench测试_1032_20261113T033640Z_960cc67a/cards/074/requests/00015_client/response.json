@@ -1,0 +1,41 @@
+{
+  "id": "b94e83ef2ca944849b0b9dbd0bbad97f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是那天加班到九点多，把自己那份东西总算弄完了。可当时也没觉得多值得说，反而在想是不是本来能更快。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次觉得“已经很尽力”是什么时候，这让我有点意外。我好像很少会去肯定自己的努力，总是习惯性地觉得做得还不够好。但仔细想想，那天晚上确实很拼，一个人加班到那么晚，把该做的都做完了。）\n（可即便这样，心里还是有个声音在说“本来可以更快”。这种矛盾让我有点困惑，是不是我对自己太苛刻了？也许咨询师是想让我看到自己付出的一面，而不是总盯着不足的地方。）",
+        "reasoning": "（咨询师问我最近一次觉得“已经很尽力”是什么时候，这让我有点意外。我好像很少会去肯定自己的努力，总是习惯性地觉得做得还不够好。但仔细想想，那天晚上确实很拼，一个人加班到那么晚，把该做的都做完了。）\n（可即便这样，心里还是有个声音在说“本来可以更快”。这种矛盾让我有点困惑，是不是我对自己太苛刻了？也许咨询师是想让我看到自己付出的一面，而不是总盯着不足的地方。）"
+      }
+    }
+  ],
+  "created": 1794545042,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2249,
+    "total_tokens": 2384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

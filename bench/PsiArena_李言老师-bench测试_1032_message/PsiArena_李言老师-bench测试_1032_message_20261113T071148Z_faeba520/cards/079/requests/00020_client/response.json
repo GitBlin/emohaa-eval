@@ -1,0 +1,41 @@
+{
+  "id": "0416c0d0b45b4f22b258c2e071962076",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢地说）可能就是……“我现在的工作让我很空，我想试着做点别的。”（松了点气）这样说，好像不像在怪他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想让他先听到哪一句，这让我有点慌，因为我自己好像也没认真想过到底要怎么说。可如果不说清楚，周末又可能变成抱怨。）\n（我想到我最想说的其实不是换工作的决定，而是我现在的状态，那种说不上来的空和累。这样说他也许不会觉得我在指责他。）",
+        "reasoning": "（咨询师问我想让他先听到哪一句，这让我有点慌，因为我自己好像也没认真想过到底要怎么说。可如果不说清楚，周末又可能变成抱怨。）\n（我想到我最想说的其实不是换工作的决定，而是我现在的状态，那种说不上来的空和累。这样说他也许不会觉得我在指责他。）"
+      }
+    }
+  ],
+  "created": 1794557716,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2831,
+    "total_tokens": 2935,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

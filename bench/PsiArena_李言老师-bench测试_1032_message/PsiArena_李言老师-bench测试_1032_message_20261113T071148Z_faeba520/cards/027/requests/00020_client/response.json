@@ -1,0 +1,41 @@
+{
+  "id": "8eb20ba6819b42ac9add02f12bb6bcd5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就赶紧找别的话头岔开，或者干脆不说了。其实挺憋屈的，好像每次都是我退。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我沉默里会怎么接话，这让我想起每次那种尴尬的场面。我其实很怕那种冷，所以总是自己先低头，好像这样就能把气氛暖回来。）\n（但这次聊下来，我有点不想再总是这样了。也许我可以试着不那么急着补话，看看会发生什么，虽然心里还是没底。）",
+        "reasoning": "（咨询师在问我沉默里会怎么接话，这让我想起每次那种尴尬的场面。我其实很怕那种冷，所以总是自己先低头，好像这样就能把气氛暖回来。）\n（但这次聊下来，我有点不想再总是这样了。也许我可以试着不那么急着补话，看看会发生什么，虽然心里还是没底。）"
+      }
+    }
+  ],
+  "created": 1794555115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2754,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

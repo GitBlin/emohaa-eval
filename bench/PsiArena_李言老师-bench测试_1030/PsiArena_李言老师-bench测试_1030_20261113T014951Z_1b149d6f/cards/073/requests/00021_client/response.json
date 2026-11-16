@@ -1,0 +1,41 @@
+{
+  "id": "d48e02fa06f5437687ad38215fe02359",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，晚上洗澡的时候吧，水声大，一个人在里头念也没人听见。就是不知道这样一个人偷偷练，算不算真的有用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算在哪儿练。这种具体的小事，我以前很少去计划，总觉得做了也没用。可刚才说“总比什么都不做强”，好像真的想试试。晚上洗澡的时候没人打扰，水声也能盖住声音，不用怕被听见。只是不知道这样一个人偷偷练，算不算真的在改变什么。）\n（心里还是有点打鼓，怕自己坚持不了几天就泄气。但既然已经答应了，至少先试一次看看。也许可以问问她，这样练到底有没有用，还是我又在给自己找安慰。）",
+        "reasoning": "（她问我打算在哪儿练。这种具体的小事，我以前很少去计划，总觉得做了也没用。可刚才说“总比什么都不做强”，好像真的想试试。晚上洗澡的时候没人打扰，水声也能盖住声音，不用怕被听见。只是不知道这样一个人偷偷练，算不算真的在改变什么。）\n（心里还是有点打鼓，怕自己坚持不了几天就泄气。但既然已经答应了，至少先试一次看看。也许可以问问她，这样练到底有没有用，还是我又在给自己找安慰。）"
+      }
+    }
+  ],
+  "created": 1794538604,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 3142,
+    "total_tokens": 3288,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

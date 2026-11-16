@@ -1,0 +1,41 @@
+{
+  "id": "64be465d61584ad6a4dd15521f08bd1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀好像没那么紧了。不过一想到要跟爸妈开口，又缩回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像挺在意我身体的感觉，但我刚才说到爸妈那边就卡住了。其实我更想弄清楚的是，为什么这么多年我说不出自己想要什么。）\n（不过她问得这么细，也许是想让我注意到放松的迹象。肩膀确实没那么紧了，可一想到爸妈，那点轻松又没了。我得把这种感觉说出来，不然她可能以为我已经想通了。）",
+        "reasoning": "（她好像挺在意我身体的感觉，但我刚才说到爸妈那边就卡住了。其实我更想弄清楚的是，为什么这么多年我说不出自己想要什么。）\n（不过她问得这么细，也许是想让我注意到放松的迹象。肩膀确实没那么紧了，可一想到爸妈，那点轻松又没了。我得把这种感觉说出来，不然她可能以为我已经想通了。）"
+      }
+    }
+  ],
+  "created": 1794558263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1966,
+    "total_tokens": 2059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

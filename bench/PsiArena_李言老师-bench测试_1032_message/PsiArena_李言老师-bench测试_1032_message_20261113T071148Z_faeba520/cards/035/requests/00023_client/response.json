@@ -1,0 +1,41 @@
+{
+  "id": "defdd26f8d154debb73ab4199ba157f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "看剧吧，找朋友有时候不好意思开口。看剧不用麻烦别人，自己就能开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪种在晚上最容易做起来，看来是想帮我把计划落到具体的地方。看剧确实比找人说话省力，晚上一个人也容易开始。）\n（不过我得承认，以前我可能连看剧都会心不在焉。但现在好像能真的投入一点了，这让我自己也有点意外。）",
+        "reasoning": "（她问我哪种在晚上最容易做起来，看来是想帮我把计划落到具体的地方。看剧确实比找人说话省力，晚上一个人也容易开始。）\n（不过我得承认，以前我可能连看剧都会心不在焉。但现在好像能真的投入一点了，这让我自己也有点意外。）"
+      }
+    }
+  ],
+  "created": 1794555469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3037,
+    "total_tokens": 3124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

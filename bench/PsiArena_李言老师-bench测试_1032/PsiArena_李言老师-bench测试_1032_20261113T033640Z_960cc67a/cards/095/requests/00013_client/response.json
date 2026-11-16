@@ -1,0 +1,41 @@
+{
+  "id": "b5ed36e8459b4258b70e1a68ff4c7426",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）我希望他问一句“你过得开心吗”。好像从来没人这么问过我。可要是真问了，我可能也答不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望父亲说什么，这让我有点措手不及。我其实没认真想过这个问题，平时光是应付他的沉默和别人的比较就已经够累了。现在突然要具体说出想要什么回应，反而让我有点不知道该怎么组织语言。）\n（不过既然被问到了，我脑子里第一个冒出来的就是“你过得开心吗”。这句话好像很普通，但对我来说特别陌生，因为从来没人这么问过我。我爸只关心我够不够好，从不关心我开不开心。想到这儿，我心里有点发酸，也有点困惑，因为我自己好像也答不上来这个问题。）",
+        "reasoning": "（咨询师在问我希望父亲说什么，这让我有点措手不及。我其实没认真想过这个问题，平时光是应付他的沉默和别人的比较就已经够累了。现在突然要具体说出想要什么回应，反而让我有点不知道该怎么组织语言。）\n（不过既然被问到了，我脑子里第一个冒出来的就是“你过得开心吗”。这句话好像很普通，但对我来说特别陌生，因为从来没人这么问过我。我爸只关心我够不够好，从不关心我开不开心。想到这儿，我心里有点发酸，也有点困惑，因为我自己好像也答不上来这个问题。）"
+      }
+    }
+  ],
+  "created": 1794550808,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 2127,
+    "total_tokens": 2285,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

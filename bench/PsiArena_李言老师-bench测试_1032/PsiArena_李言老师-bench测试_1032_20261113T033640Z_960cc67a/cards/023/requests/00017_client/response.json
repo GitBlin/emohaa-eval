@@ -1,0 +1,41 @@
+{
+  "id": "ab9127b9ba79461e9bafdfd2160c9569",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸三次……我试试吧。不过说实话，我怕自己到时候根本想不起来。或者我先用发消息的方式跟她说，会不会好一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我试试暂停信号，比如深呼吸三次。这让我觉得有点道理，但又怕自己做不到。毕竟每次一开口就控制不住，深呼吸真的能管用吗？）\n（不过既然聊到这儿了，也许可以试试别的方式。我平时写东西比说话顺，先发消息能让我想清楚再说，这样可能更实际一点。至少不会一上来就吵起来。）",
+        "reasoning": "（咨询师建议我试试暂停信号，比如深呼吸三次。这让我觉得有点道理，但又怕自己做不到。毕竟每次一开口就控制不住，深呼吸真的能管用吗？）\n（不过既然聊到这儿了，也许可以试试别的方式。我平时写东西比说话顺，先发消息能让我想清楚再说，这样可能更实际一点。至少不会一上来就吵起来。）"
+      }
+    }
+  ],
+  "created": 1794548965,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2506,
+    "total_tokens": 2623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

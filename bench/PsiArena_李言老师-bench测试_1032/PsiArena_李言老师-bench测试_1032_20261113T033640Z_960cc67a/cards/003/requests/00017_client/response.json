@@ -1,0 +1,41 @@
+{
+  "id": "8d83272477b245d1a26ed18702cf2c66",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是……一对一吧。人多的时候我特别容易慌。像茶水间碰到同事，随便聊两句天气或者午饭，好像没那么大压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪种场景最不紧张……看来是想让我先从小事开始试试。确实，硬要我去热闹聚会里说话太难了，但一对一聊点日常好像没那么大压力。）\n（我想到茶水间那种地方，人不多，聊两句天气或者午饭，说完就走，不用一直撑着。这样就算冷场也不至于太尴尬，我还能应付得来。）",
+        "reasoning": "（她问我哪种场景最不紧张……看来是想让我先从小事开始试试。确实，硬要我去热闹聚会里说话太难了，但一对一聊点日常好像没那么大压力。）\n（我想到茶水间那种地方，人不多，聊两句天气或者午饭，说完就走，不用一直撑着。这样就算冷场也不至于太尴尬，我还能应付得来。）"
+      }
+    }
+  ],
+  "created": 1794541124,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2604,
+    "total_tokens": 2714,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

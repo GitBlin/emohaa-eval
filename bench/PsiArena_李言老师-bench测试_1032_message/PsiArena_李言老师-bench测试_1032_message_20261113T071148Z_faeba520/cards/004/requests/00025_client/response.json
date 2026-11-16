@@ -1,0 +1,41 @@
+{
+  "id": "837c549092d34533adda26eb8b031d58",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我就在心里过一遍，小声跟自己说“问他看什么漫画”，多说几次，明天就不那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算怎么在心里练那几句话，这让我想到明天放学路上要开口的事。刚才说“心里没那么堵了”，好像真的有一点点变化，不再全是害怕。）\n（我可以先自己在心里过一遍，把想说的话小声念出来，像在跟自己打气。这样明天真开口的时候，可能不会那么慌。）",
+        "reasoning": "（咨询师问我打算怎么在心里练那几句话，这让我想到明天放学路上要开口的事。刚才说“心里没那么堵了”，好像真的有一点点变化，不再全是害怕。）\n（我可以先自己在心里过一遍，把想说的话小声念出来，像在跟自己打气。这样明天真开口的时候，可能不会那么慌。）"
+      }
+    }
+  ],
+  "created": 1794554169,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2993,
+    "total_tokens": 3092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

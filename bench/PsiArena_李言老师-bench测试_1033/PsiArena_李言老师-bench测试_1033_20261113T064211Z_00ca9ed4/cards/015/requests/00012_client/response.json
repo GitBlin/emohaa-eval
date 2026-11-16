@@ -1,0 +1,41 @@
+{
+  "id": "24e18cb8ad334b4a847f2467b69762bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "吵完就是后悔，还有点怕。觉得自己怎么又搞砸了……然后他更冷淡，我就更慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在处于中期阶段，已经逐渐信任咨询师，开始深入表达内心。刚才咨询师问吵完之后的感受，我需要表达出那种复杂的情绪——后悔、自责，可能还有对关系恶化的无力感。同时可以稍微带出一点对丈夫态度的困惑，但不要一下子说太多，保持简短和真实感。",
+        "reasoning": "用户现在处于中期阶段，已经逐渐信任咨询师，开始深入表达内心。刚才咨询师问吵完之后的感受，我需要表达出那种复杂的情绪——后悔、自责，可能还有对关系恶化的无力感。同时可以稍微带出一点对丈夫态度的困惑，但不要一下子说太多，保持简短和真实感。"
+      }
+    }
+  ],
+  "created": 1794552756,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1989,
+    "total_tokens": 2085,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

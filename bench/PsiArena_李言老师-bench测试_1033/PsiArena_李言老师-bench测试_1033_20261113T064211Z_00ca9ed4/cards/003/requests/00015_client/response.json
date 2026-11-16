@@ -1,0 +1,41 @@
+{
+  "id": "24787060373f4a18a488311531f9ac32",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次吧，我硬着头皮约同事周末吃饭，结果人家说有事。我就……嗯，当时笑笑说没事，回家难受了好久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有哪次明明想退缩还是把话说出去了，这让我想起上次主动约同事的事。虽然结果不好，但至少我试过了。不过现在回想起来，那种被拒绝的感觉又冒出来了，心里有点堵。）\n（我有点犹豫要不要说这个例子，因为结果不太好，说出来好像显得我更失败。但咨询师问得挺具体的，可能想让我看到自己也有主动的时候。其实我也想知道，为什么我主动了还是不行。）",
+        "reasoning": "（咨询师问我有没有哪次明明想退缩还是把话说出去了，这让我想起上次主动约同事的事。虽然结果不好，但至少我试过了。不过现在回想起来，那种被拒绝的感觉又冒出来了，心里有点堵。）\n（我有点犹豫要不要说这个例子，因为结果不太好，说出来好像显得我更失败。但咨询师问得挺具体的，可能想让我看到自己也有主动的时候。其实我也想知道，为什么我主动了还是不行。）"
+      }
+    }
+  ],
+  "created": 1794552195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2293,
+    "total_tokens": 2423,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

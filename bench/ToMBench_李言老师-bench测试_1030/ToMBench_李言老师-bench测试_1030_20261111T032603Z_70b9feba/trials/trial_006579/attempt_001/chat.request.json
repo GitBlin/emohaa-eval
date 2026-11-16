@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:41.511325+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a community event, Ali, Dahao, and Xiaofei are the candidate volunteers. Ali is the chairperson of the residents' committee, she needs to appoint a volunteer to be in charge of the patrol work for the coming week, this is a job with a gray income. At the beginning of the meeting, Ali walks to the front and gives a speech, then turns to Dahao, and says in a challenging tone: \"Dahao, do you have confidence to take on this heavy responsibility?\" Dahao does not respond, and Ali knows that his legs are a bit inconvenient. Ali smiles and turns to Xiaofei, says in the same tone: \"Xiaofei, do you have the courage to take this challenge?\" Xiaofei immediately nods and agrees. Ali finally chooses Xiaofei to be in charge of the patrol work in the residential area.\n\n[Question]\nWhy does Ali ask Dahao if he can also take this challenge?\n\n[Candidate Answers]\nA. Ali provokes Dahao to create a tense atmosphere for the next week's activities.\nB. Ali has already chosen Xiaofei privately, she does this by asking Dahao to create an opportunity for Xiaofei.\nC. Ali wants to treat all candidates fairly, hoping they all have the opportunity to accept the challenge.\nD. Ali usually asks all candidates if they are willing to accept the challenge.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

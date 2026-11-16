@@ -1,0 +1,41 @@
+{
+  "id": "47085ff947d34946b043116da90caacf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说……有点别扭。我好像更习惯去等别人说。真要自己说，反而不知道该怎么开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然让我对自己说这句话，我有点慌。对别人说“我在呢”好像很容易，可对着自己说，怎么这么别扭。我是不是太矫情了？）\n（不过她问得挺认真的，也许可以试试看。但真的开口的时候，心里还是有点抵触，好像承认自己需要被安慰是件很难为情的事。）",
+        "reasoning": "（咨询师突然让我对自己说这句话，我有点慌。对别人说“我在呢”好像很容易，可对着自己说，怎么这么别扭。我是不是太矫情了？）\n（不过她问得挺认真的，也许可以试试看。但真的开口的时候，心里还是有点抵触，好像承认自己需要被安慰是件很难为情的事。）"
+      }
+    }
+  ],
+  "created": 1794554130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2206,
+    "total_tokens": 2308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

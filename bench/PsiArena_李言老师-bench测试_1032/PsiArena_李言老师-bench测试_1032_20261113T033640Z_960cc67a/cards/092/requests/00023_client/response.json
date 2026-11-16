@@ -1,0 +1,41 @@
+{
+  "id": "73608fbf24f14b60847c0510665e0d2c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "平时不太点名，主要是作业和考试。我也没太搞清楚，可能下次得问问老师。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我课程的具体形式，是想帮我评估发言的难度吧。我有点犹豫，因为其实我自己也没完全搞清楚那门课的规矩，只是觉得姐不太说话，应该会安全些。）\n（但既然要试着改变，就得先弄明白这些。我决定先老实说不太确定，然后提出下次去问老师。这样也算是一个小行动了。）",
+        "reasoning": "（咨询师在问我课程的具体形式，是想帮我评估发言的难度吧。我有点犹豫，因为其实我自己也没完全搞清楚那门课的规矩，只是觉得姐不太说话，应该会安全些。）\n（但既然要试着改变，就得先弄明白这些。我决定先老实说不太确定，然后提出下次去问老师。这样也算是一个小行动了。）"
+      }
+    }
+  ],
+  "created": 1794546119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2874,
+    "total_tokens": 2974,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

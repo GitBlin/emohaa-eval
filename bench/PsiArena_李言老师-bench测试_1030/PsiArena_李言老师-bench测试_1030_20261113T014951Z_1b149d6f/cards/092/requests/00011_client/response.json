@@ -1,0 +1,41 @@
+{
+  "id": "ef0f7d9795a041438cb4bdee9b486d6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "很少冒出来……一般是我特别累的时候，或者一个人待着，才会冒出一点点。但很快就会被我压下去，觉得想这些没用，还不如去做点正事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音什么时候冒出来……其实平时很少，大多数时候都是那个比较的声音压着。只有特别累的时候，或者一个人待着，才会冒出来一下，但很快又觉得自己矫情，赶紧压回去。好像我连对自己好一点都觉得不习惯。）",
+        "reasoning": "（她问我那个声音什么时候冒出来……其实平时很少，大多数时候都是那个比较的声音压着。只有特别累的时候，或者一个人待着，才会冒出来一下，但很快又觉得自己矫情，赶紧压回去。好像我连对自己好一点都觉得不习惯。）"
+      }
+    }
+  ],
+  "created": 1794539915,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2121,
+    "total_tokens": 2217,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

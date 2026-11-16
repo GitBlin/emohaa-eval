@@ -1,0 +1,41 @@
+{
+  "id": "0e5d21355cff44eeb7ab876f93530912",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……从小就是这样。我爸妈总说“我们是为你好”，然后什么事都替我安排好。上学选什么科目，报什么兴趣班，都是他们定的。我好像……习惯了听他们的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是不是更早也有类似的感觉，这让我一下子想到小时候的事。好像每次面对爸妈，那种无力感都很熟悉，不是突然才有的。）\n（我想说说小时候的事，但又觉得有点乱。爸妈总说为我好，可那种“好”让我很累。也许该提一提，但又不知道从哪里讲起，先简单说一点吧。）",
+        "reasoning": "（咨询师问我是不是更早也有类似的感觉，这让我一下子想到小时候的事。好像每次面对爸妈，那种无力感都很熟悉，不是突然才有的。）\n（我想说说小时候的事，但又觉得有点乱。爸妈总说为我好，可那种“好”让我很累。也许该提一提，但又不知道从哪里讲起，先简单说一点吧。）"
+      }
+    }
+  ],
+  "created": 1794558972,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1704,
+    "total_tokens": 1824,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

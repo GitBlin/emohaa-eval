@@ -1,0 +1,47 @@
+{
+  "id": "ad5bbc62ffd041c0b5692262d747d3b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真想了一下）我希望自己别马上补一句“算了没事”。说完就……先待着，哪怕他“哦”一声也好。别一说完就低头走开。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望自己说完后是什么反应，才不至于缩回去。他好像是在帮我把这一步想得更完整，让我提前在心里有个准备。我确实怕说完之后对方没反应，或者自己马上就后悔、想收回那句话。）\n（我想了想，最希望的就是别急着补一句“算了没事”，也别一说完就低头走开。哪怕对方只是“哦”一声，我也得让自己站在原地待一会儿。这样至少说明我把话真的说出去了，不是又自己咽回来。）",
+        "reasoning": "（咨询师问我希望自己说完后是什么反应，才不至于缩回去。他好像是在帮我把这一步想得更完整，让我提前在心里有个准备。我确实怕说完之后对方没反应，或者自己马上就后悔、想收回那句话。）\n（我想了想，最希望的就是别急着补一句“算了没事”，也别一说完就低头走开。哪怕对方只是“哦”一声，我也得让自己站在原地待一会儿。这样至少说明我把话真的说出去了，不是又自己咽回来。）"
+      }
+    }
+  ],
+  "created": 1794800803,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3775,
+    "total_tokens": 3919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 3584,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

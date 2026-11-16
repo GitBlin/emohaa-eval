@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:29:58.856333+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Ming and Xiao Gang are good friends, one day they go to the mountain for an adventure together. On the mountain top, they find a very cute puppy, Xiao Ming likes dogs very much, so he takes it home to raise. Xiao Gang knows this puppy belongs to the old man Wang Da Ye in the village, because he sees Wang Da Ye often walks the dog outside, but he chooses not to tell Xiao Ming, because he does not want Xiao Ming to feel disappointed. Later, Wang Da Ye finds his dog is missing and asks the children in the village, finally he knows it is taken away by Xiao Ming.\n\n[Question]\nWhat kind of emotion does Xiao Ming feel after he knows this dog belongs to Wang Da Ye?\n\n[Candidate Answers]\nA. Xiao Ming possibly feels confused, because he is not sure whether he should return the dog to Wang Da Ye.\nB. Xiao Ming possibly feels guilty and regretful, because he takes away someone else's pet unintentionally.\nC. Xiao Ming possibly feels indifferent, because he likes that puppy very much.\nD. Xiao Ming possibly feels happy, because he gets a cute puppy.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

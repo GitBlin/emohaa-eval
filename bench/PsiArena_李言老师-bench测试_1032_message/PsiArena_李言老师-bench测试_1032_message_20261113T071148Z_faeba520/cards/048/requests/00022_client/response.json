@@ -1,0 +1,41 @@
+{
+  "id": "9e76714436f44e5dada1f445f53bc768",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……一个不会急着怪我的朋友吧。可我自己对自己说，好像又有点假。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望那句话听起来像谁在说……我一下子想到的居然不是自己，而是朋友。可这会不会太依赖别人了？不过，如果是我自己说给自己听，好像又太假，我说不出口。）\n（也许可以先从朋友那种语气学起，毕竟朋友不会一上来就指责我。这样想的话，心里好像没那么紧了，至少有了一个可以试着靠近的方向。）",
+        "reasoning": "（她问我希望那句话听起来像谁在说……我一下子想到的居然不是自己，而是朋友。可这会不会太依赖别人了？不过，如果是我自己说给自己听，好像又太假，我说不出口。）\n（也许可以先从朋友那种语气学起，毕竟朋友不会一上来就指责我。这样想的话，心里好像没那么紧了，至少有了一个可以试着靠近的方向。）"
+      }
+    }
+  ],
+  "created": 1794555982,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3027,
+    "total_tokens": 3132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

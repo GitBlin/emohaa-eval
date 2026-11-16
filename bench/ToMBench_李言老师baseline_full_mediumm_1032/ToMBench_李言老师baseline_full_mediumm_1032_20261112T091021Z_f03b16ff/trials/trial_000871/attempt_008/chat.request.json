@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-13T02:04:00.726398+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nIn a amusement park, children play on various amusement facilities. The amusement park staff, Xiao Zhang, says to the visitor Xiao Li, \"We have 20 amusement projects, most of which are roller coasters, some are carousels, but there are almost no bumper cars.\" Xiao Li observes and finds that there are only 5 carousels.\n\n[Question]\nHow many roller coaster projects does Xiao Li estimate before observing?\n\n[Candidate Answers]\nA. Before observing, Xiao Li estimates there are 19 roller coaster projects.\nB. Before observing, Xiao Li estimates there are 20 roller coaster projects.\nC. Before observing, Xiao Li estimates there are 18 roller coaster projects.\nD. Before observing, Xiao Li estimates there are 10 roller coaster projects.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

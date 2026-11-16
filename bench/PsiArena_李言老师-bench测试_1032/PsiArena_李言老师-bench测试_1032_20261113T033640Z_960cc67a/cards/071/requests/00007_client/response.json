@@ -1,0 +1,41 @@
+{
+  "id": "e8583986fc1946a5806288f3b6871b3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前几天同事让我定个方案，我反复改了好几遍，她脸色就不太好了……我当时就想，是不是我又太磨叽了。其实我也知道没必要那么纠结。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近哪件小事让我有“难搞”的感觉，这让我想起前几天和同事讨论方案的时候。我其实只是想把几个选项都看清楚，但对方好像有点不耐烦了。）\n（也许我可以提一下这件事，但不用说得太细。毕竟现在还没完全信任咨询师，简单描述一下当时的感受就好，不用把同事的反应和我的家庭背景联系起来。）",
+        "reasoning": "（咨询师问我最近哪件小事让我有“难搞”的感觉，这让我想起前几天和同事讨论方案的时候。我其实只是想把几个选项都看清楚，但对方好像有点不耐烦了。）\n（也许我可以提一下这件事，但不用说得太细。毕竟现在还没完全信任咨询师，简单描述一下当时的感受就好，不用把同事的反应和我的家庭背景联系起来。）"
+      }
+    }
+  ],
+  "created": 1794544886,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1528,
+    "total_tokens": 1645,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

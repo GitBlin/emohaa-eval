@@ -1,0 +1,41 @@
+{
+  "id": "d75d67800e6b4d5d9850ba5eb1c27ed1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……和同事聊天的时候吧，我随口说了句什么，后来一直在想是不是不太合适。其实具体说了什么我现在也记不清了，就是那种感觉一直留着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在尝试让我具体描述场景，但直接说细节还是让我有点不自在。不过她刚才说这不是矫情，让我稍微放松了一点。也许可以先从最表面的部分开始，不用一下子把心里那些乱七八糟的想法都倒出来。）\n（我想到和同事说话那次，但更让我在意的是和妈妈的关系。先提这个可能比较安全，毕竟咨询师应该不会像妈妈那样评判我。而且用“好像”这种模糊的说法，万一她追问细节我还能退一步。）",
+        "reasoning": "（咨询师在尝试让我具体描述场景，但直接说细节还是让我有点不自在。不过她刚才说这不是矫情，让我稍微放松了一点。也许可以先从最表面的部分开始，不用一下子把心里那些乱七八糟的想法都倒出来。）\n（我想到和同事说话那次，但更让我在意的是和妈妈的关系。先提这个可能比较安全，毕竟咨询师应该不会像妈妈那样评判我。而且用“好像”这种模糊的说法，万一她追问细节我还能退一步。）"
+      }
+    }
+  ],
+  "created": 1794542101,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1220,
+    "total_tokens": 1364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

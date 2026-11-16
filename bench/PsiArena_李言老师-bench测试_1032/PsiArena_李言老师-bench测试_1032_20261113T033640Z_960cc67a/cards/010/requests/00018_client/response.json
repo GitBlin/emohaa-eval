@@ -1,0 +1,41 @@
+{
+  "id": "ef96fa5e354a444dac842237de8b6dc5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是胸口先紧一下，然后脑子就开始转，停不下来。我其实知道想这些没用，但就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近一次耗着的感觉出现时最先注意到什么，看来是想帮我找到情绪刚开始时的信号。我确实能感觉到那种紧绷感是从身体先开始的，然后脑子里就控制不住地想。）\n（也许我可以试着把那个过程说出来，但不用讲得太细，先提一下胸口和脑子里的反应。后面再补一句自己其实想停但停不下来，这样应该能让他明白我的困扰。）",
+        "reasoning": "（咨询师在问我最近一次耗着的感觉出现时最先注意到什么，看来是想帮我找到情绪刚开始时的信号。我确实能感觉到那种紧绷感是从身体先开始的，然后脑子里就控制不住地想。）\n（也许我可以试着把那个过程说出来，但不用讲得太细，先提一下胸口和脑子里的反应。后面再补一句自己其实想停但停不下来，这样应该能让他明白我的困扰。）"
+      }
+    }
+  ],
+  "created": 1794548349,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2545,
+    "total_tokens": 2661,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

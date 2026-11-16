@@ -1,0 +1,41 @@
+{
+  "id": "5116679cb17d499fa9727957a5b7d085",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就理一个抽屉或者一个文件夹吧，理完就停，不管还剩多少。……说真的，我有点担心自己又会忍不住多干。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把这个计划定得更具体一点，免得我又像以前那样给自己加码。我得说清楚完成的标准，不然又会变成压力。）\n（而且刚才说到“理完就走”，其实我心里有个担心，就是怕自己忍不住加班，又回到那种用忙来换安心的老路上。把这个说出来，也算给自己提个醒。）",
+        "reasoning": "（咨询师在帮我把这个计划定得更具体一点，免得我又像以前那样给自己加码。我得说清楚完成的标准，不然又会变成压力。）\n（而且刚才说到“理完就走”，其实我心里有个担心，就是怕自己忍不住加班，又回到那种用忙来换安心的老路上。把这个说出来，也算给自己提个醒。）"
+      }
+    }
+  ],
+  "created": 1794540222,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3239,
+    "total_tokens": 3346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b00fa9582bed4c19b00ffd69a5be990f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是今天早上吧……我出门前换了三次衣服，还是觉得哪里不对。说出来都觉得挺可笑的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次这种感觉是什么时候……我其实不太想具体说，因为一说就想到早上那种烦躁。但既然她问了，我稍微提一下应该没关系吧？毕竟只是表面上的事，不是那些更深的东西。）\n（而且我确实有点担心，如果我说了这些，她会不会觉得我问题很多？或者觉得我小题大做？不过她刚才说不会觉得我含糊，那我先试探着说一点点好了。）",
+        "reasoning": "（她问我最近一次这种感觉是什么时候……我其实不太想具体说，因为一说就想到早上那种烦躁。但既然她问了，我稍微提一下应该没关系吧？毕竟只是表面上的事，不是那些更深的东西。）\n（而且我确实有点担心，如果我说了这些，她会不会觉得我问题很多？或者觉得我小题大做？不过她刚才说不会觉得我含糊，那我先试探着说一点点好了。）"
+      }
+    }
+  ],
+  "created": 1794544713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1330,
+    "total_tokens": 1446,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

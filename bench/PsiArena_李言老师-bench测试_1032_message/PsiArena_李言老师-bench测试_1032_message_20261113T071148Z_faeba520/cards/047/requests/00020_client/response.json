@@ -1,0 +1,41 @@
+{
+  "id": "4b908cc102cd4ed9b5522d9048d43b0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上课时吧，感觉所有人都在看着我。课间还好一点，能自己待会儿。也许……我可以先从课间练着，先试着深呼吸一下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我白天在学校哪个时刻最容易绷不住，这让我想到上课时那种被所有人看着、不能出错的压力。课间虽然也会紧张，但至少能稍微躲一下。不过现在好像可以试着说清楚一点了。）\n（也许我可以从课间先练着，毕竟人少一点，压力没那么大。深呼吸这个办法听起来简单，应该能试试看。）",
+        "reasoning": "（咨询师问我白天在学校哪个时刻最容易绷不住，这让我想到上课时那种被所有人看着、不能出错的压力。课间虽然也会紧张，但至少能稍微躲一下。不过现在好像可以试着说清楚一点了。）\n（也许我可以从课间先练着，毕竟人少一点，压力没那么大。深呼吸这个办法听起来简单，应该能试试看。）"
+      }
+    }
+  ],
+  "created": 1794555990,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2759,
+    "total_tokens": 2874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d7f5128b60e14a0a8ae5909045cf392d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕的是……说出来之后，别人心里会觉得我这个人有问题。你会不会觉得，嗯，来访者说的那些事，你心里其实也在评判？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在怕什么，我其实怕的是被评判，怕说出来之后对方心里觉得我这个人有问题。但我也在试探她，看她会不会真的站在我这边，还是只是说些场面话。）\n（这种时候我不想说得太深，先含糊一点，看看她怎么接。如果她真的不急着下结论，也许我能稍微放松一点。）",
+        "reasoning": "（她问我在怕什么，我其实怕的是被评判，怕说出来之后对方心里觉得我这个人有问题。但我也在试探她，看她会不会真的站在我这边，还是只是说些场面话。）\n（这种时候我不想说得太深，先含糊一点，看看她怎么接。如果她真的不急着下结论，也许我能稍微放松一点。）"
+      }
+    }
+  ],
+  "created": 1794541716,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1243,
+    "total_tokens": 1352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

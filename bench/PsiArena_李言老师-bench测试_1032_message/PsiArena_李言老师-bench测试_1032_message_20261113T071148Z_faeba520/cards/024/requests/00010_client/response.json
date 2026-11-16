@@ -1,0 +1,41 @@
+{
+  "id": "e2b8f8bca7cb4092bf6bd2a1c20d9f86",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……小时候有次考试没考好，我特别想哭，结果我爸说“哭有什么用”。我就记住了，哭也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起小时候的事了……我心里有点乱。其实不太想翻那些旧事，但刚才都说了家里习惯把不高兴的事憋着，现在好像也绕不过去。）\n（那件事我一直记得，可说出来又觉得矫情。那时候多希望有人能问一句我怎么了，结果连哭都成了错。可能就是从那时候起，我学会了什么都自己忍着吧。）",
+        "reasoning": "（她问起小时候的事了……我心里有点乱。其实不太想翻那些旧事，但刚才都说了家里习惯把不高兴的事憋着，现在好像也绕不过去。）\n（那件事我一直记得，可说出来又觉得矫情。那时候多希望有人能问一句我怎么了，结果连哭都成了错。可能就是从那时候起，我学会了什么都自己忍着吧。）"
+      }
+    }
+  ],
+  "created": 1794555008,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1746,
+    "total_tokens": 1858,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

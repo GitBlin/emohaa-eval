@@ -1,0 +1,41 @@
+{
+  "id": "59a82b8ba1f143ecbd2d85d7e09618ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上起来我一般先去拿手机看时间，这个肯定忘不了。是不是可以绑在这后面试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我早上最容易记住的日常动作，这是在帮我把练习绑定到固定习惯上。他好像没有觉得我没救，反而在想办法让事情变得可行一点。我稍微松了口气，但脑子里还是有点乱。）\n（我想到自己每天早上都会去拿手机看时间，这个动作几乎不用想就会做。也许可以试试把那个练习放在拿手机之后。不过我又有点担心，万一连这个都做不好，会不会又证明我没用。）",
+        "reasoning": "（心理咨询师在问我早上最容易记住的日常动作，这是在帮我把练习绑定到固定习惯上。他好像没有觉得我没救，反而在想办法让事情变得可行一点。我稍微松了口气，但脑子里还是有点乱。）\n（我想到自己每天早上都会去拿手机看时间，这个动作几乎不用想就会做。也许可以试试把那个练习放在拿手机之后。不过我又有点担心，万一连这个都做不好，会不会又证明我没用。）"
+      }
+    }
+  ],
+  "created": 1794544517,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2830,
+    "total_tokens": 2951,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

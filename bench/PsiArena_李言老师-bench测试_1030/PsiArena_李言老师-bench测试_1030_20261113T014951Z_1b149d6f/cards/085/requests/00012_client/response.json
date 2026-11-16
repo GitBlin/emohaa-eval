@@ -1,0 +1,41 @@
+{
+  "id": "7128e67ae2c8494ca1d412c84d74e662",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）好像是……我妈吧。她总说我“想太多”。后来我自己也这么觉得了，觉得别人都没事，就我事多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个“敏感”是从谁那儿听来的，让我一下子想到小时候。爸妈总说我“想太多”，后来我自己也这么认为了，好像这样就能解释为什么我总是不如别人。）\n（可仔细想想，他们这么说的时候，我其实只是想要一点安慰。现在连我都用这个词来说自己，好像就变成我自己的问题了，心里有点堵。）",
+        "reasoning": "（咨询师问这个“敏感”是从谁那儿听来的，让我一下子想到小时候。爸妈总说我“想太多”，后来我自己也这么认为了，好像这样就能解释为什么我总是不如别人。）\n（可仔细想想，他们这么说的时候，我其实只是想要一点安慰。现在连我都用这个词来说自己，好像就变成我自己的问题了，心里有点堵。）"
+      }
+    }
+  ],
+  "created": 1794539294,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2209,
+    "total_tokens": 2322,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

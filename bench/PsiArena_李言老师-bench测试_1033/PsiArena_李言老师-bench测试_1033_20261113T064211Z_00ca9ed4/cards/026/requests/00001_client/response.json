@@ -1,0 +1,41 @@
+{
+  "id": "6ba9b4228e99459187f855bafa74ac18",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好……我想先问一下，这个咨询大概是怎么进行的？我不是很了解这些，就是有点不知道该从哪儿说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系，说明她准备进入正式咨询流程。作为来访者，我对心理咨询还不太了解，心里有些防备，需要先弄清楚这个咨询到底是怎么进行的。）\n（毕竟我是第一次接触心理咨询，而且平时习惯了严格要求自己，对陌生人的信任建立比较慢。在这种情况下，我应该先询问咨询的基本内容和方法，而不是直接暴露自己的困扰。这样既能保持适当的距离，又能试探对方的专业性。）\n（好了，那么现在就像这样对心理咨询师说吧。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系，说明她准备进入正式咨询流程。作为来访者，我对心理咨询还不太了解，心里有些防备，需要先弄清楚这个咨询到底是怎么进行的。）\n（毕竟我是第一次接触心理咨询，而且平时习惯了严格要求自己，对陌生人的信任建立比较慢。在这种情况下，我应该先询问咨询的基本内容和方法，而不是直接暴露自己的困扰。这样既能保持适当的距离，又能试探对方的专业性。）\n（好了，那么现在就像这样对心理咨询师说吧。）"
+      }
+    }
+  ],
+  "created": 1794553229,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 865,
+    "total_tokens": 1010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

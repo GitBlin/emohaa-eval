@@ -1,0 +1,41 @@
+{
+  "id": "fd13bf7603cb45f8afd264fc00111d33",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，按次序来，别加码。……说真的，今天聊完，心里好像没那么堵了，至少知道晚上先干点啥。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“次序”这个词，倒让我心里稍微定了定。是啊，以前晚上就是一团乱，现在至少知道先干什么。不过我还是有点担心，怕自己一忙起来就忘了，或者又找借口。）\n（想到之前说要把纸条放枕边，这个法子对我来说还算实在。我这个人记性不好，写下来能提醒自己。今晚要是能按这个次序来，哪怕只做到一半，也算没白聊。）",
+        "reasoning": "（咨询师提到“次序”这个词，倒让我心里稍微定了定。是啊，以前晚上就是一团乱，现在至少知道先干什么。不过我还是有点担心，怕自己一忙起来就忘了，或者又找借口。）\n（想到之前说要把纸条放枕边，这个法子对我来说还算实在。我这个人记性不好，写下来能提醒自己。今晚要是能按这个次序来，哪怕只做到一半，也算没白聊。）"
+      }
+    }
+  ],
+  "created": 1794536662,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3584,
+    "total_tokens": 3712,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

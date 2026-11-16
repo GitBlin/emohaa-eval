@@ -1,0 +1,41 @@
+{
+  "id": "c80134cffcb4436f9f5c8c5d4d51479e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这么一问……好像我自己的活更急，同事那个说是明天也行。可当时我根本没敢分，感觉谁开口我就得马上应下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问哪个更急……其实我心里清楚，自己的活是今天必须交的，同事那个表说是明天要。可当时就是没敢分清楚，好像谁开口我就得马上应下来。）\n（也许我可以试着跟她说说这个想法，但直接说“我分得清”又显得太干脆了，毕竟我平时根本做不到。还是犹豫一点，把那种混乱的感觉带出来比较好。）",
+        "reasoning": "（她问哪个更急……其实我心里清楚，自己的活是今天必须交的，同事那个表说是明天要。可当时就是没敢分清楚，好像谁开口我就得马上应下来。）\n（也许我可以试着跟她说说这个想法，但直接说“我分得清”又显得太干脆了，毕竟我平时根本做不到。还是犹豫一点，把那种混乱的感觉带出来比较好。）"
+      }
+    }
+  ],
+  "created": 1794545064,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2739,
+    "total_tokens": 2859,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fb7d0ee19299434985d0915f94598de2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "讲给她听……可能吧，但我得先想好怎么开口。总不能一上来就说这些，太突然了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我去面对和老婆沟通这件事。我其实一直怕她也不理解我，可她说得对，也许老婆只是担心我太累。但要我真把心里这些怕讲出来，又觉得很难开口，好像一开口就会暴露自己的软弱。）\n（不过想想，一直这样猜下去也不是办法。也许可以试着找个不那么紧绷的时候，先说说工作上的累，看看她的反应。至少比现在这样闷着、回家还发火要强一点。）",
+        "reasoning": "（咨询师在引导我去面对和老婆沟通这件事。我其实一直怕她也不理解我，可她说得对，也许老婆只是担心我太累。但要我真把心里这些怕讲出来，又觉得很难开口，好像一开口就会暴露自己的软弱。）\n（不过想想，一直这样猜下去也不是办法。也许可以试着找个不那么紧绷的时候，先说说工作上的累，看看她的反应。至少比现在这样闷着、回家还发火要强一点。）"
+      }
+    }
+  ],
+  "created": 1794554127,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2532,
+    "total_tokens": 2659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "806a578bc93e4060897cd0e1577a3063",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你保证不会说出去就好。大概是上课的时候吧，有时候看着看着就走神了，然后心里就很难受。我也说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说不会告诉别人，这让我稍微放心了一点。但那种难受的感觉，其实大多是在上课的时候冒出来的……我不想说得太具体，毕竟还不熟。）\n（不过她问得挺仔细的，好像真的在认真听。我犹豫要不要说更多，可又怕说多了显得自己很奇怪。就简单提一下上课的时候吧，别的先不说。）",
+        "reasoning": "（她刚才说不会告诉别人，这让我稍微放心了一点。但那种难受的感觉，其实大多是在上课的时候冒出来的……我不想说得太具体，毕竟还不熟。）\n（不过她问得挺仔细的，好像真的在认真听。我犹豫要不要说更多，可又怕说多了显得自己很奇怪。就简单提一下上课的时候吧，别的先不说。）"
+      }
+    }
+  ],
+  "created": 1794542880,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1071,
+    "total_tokens": 1182,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

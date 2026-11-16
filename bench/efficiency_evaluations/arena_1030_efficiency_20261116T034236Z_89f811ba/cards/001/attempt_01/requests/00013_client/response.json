@@ -1,0 +1,47 @@
+{
+  "id": "549eb45231a8430bb6335292a619f779",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（回忆着，语气有点不确定）好像……有次同桌问我作业多不多，我随口应了句，他还接了句“是啊，真烦”。当时也没多想，就是……嗯，好像没那么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有哪次说完话有人接了一句。我脑子里第一个冒出来的就是同桌那次，说作业多，他应了一声。当时我其实挺意外的，没想到他会接。可我又马上想到，那可能只是随口一说，人家未必真在意。我是不是又在一遍遍掂量了？）\n（不过那次确实没被晾着。就那么一句“是啊”，我当时心里好像松了一下。我想把这种感觉说出来，但又怕显得自己太当回事。算了，先说说看吧，反正这里说这些应该没关系。）",
+        "reasoning": "（咨询师问我有没有哪次说完话有人接了一句。我脑子里第一个冒出来的就是同桌那次，说作业多，他应了一声。当时我其实挺意外的，没想到他会接。可我又马上想到，那可能只是随口一说，人家未必真在意。我是不是又在一遍遍掂量了？）\n（不过那次确实没被晾着。就那么一句“是啊”，我当时心里好像松了一下。我想把这种感觉说出来，但又怕显得自己太当回事。算了，先说说看吧，反正这里说这些应该没关系。）"
+      }
+    }
+  ],
+  "created": 1794800620,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 2364,
+    "total_tokens": 2525,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2048,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

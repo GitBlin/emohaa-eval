@@ -1,0 +1,41 @@
+{
+  "id": "60ecad634dc245cfa00f762958ee1409",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）问一句……听起来不难，就怕到时候脑子一片空白，想不起来。不过，可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他说让我在心里问一句“这是事实，还是我又在挑自己”。这个办法听起来不难，可我真的能在那种时候想起来吗？每次一紧张，脑子里全是乱的，根本顾不上问自己这种话。）\n（不过他说得也对，这个习惯跟了我这么多年，不可能一下就改掉。也许我不该要求自己每次都做到，能偶尔想起来一次，也算是有进步了吧。）",
+        "reasoning": "（他说让我在心里问一句“这是事实，还是我又在挑自己”。这个办法听起来不难，可我真的能在那种时候想起来吗？每次一紧张，脑子里全是乱的，根本顾不上问自己这种话。）\n（不过他说得也对，这个习惯跟了我这么多年，不可能一下就改掉。也许我不该要求自己每次都做到，能偶尔想起来一次，也算是有进步了吧。）"
+      }
+    }
+  ],
+  "created": 1794553006,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3159,
+    "total_tokens": 3263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

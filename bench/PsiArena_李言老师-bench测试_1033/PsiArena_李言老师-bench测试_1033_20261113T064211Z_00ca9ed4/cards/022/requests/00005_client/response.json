@@ -1,0 +1,41 @@
+{
+  "id": "f8ce13a024ca45288ee007fcdadb542d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也没什么特别的，就是她问我最近工作怎么样，我说有点累，她就开始说谁谁家的孩子怎么努力……后来我就顺着她的话，说自己确实不够用心。她就……嗯，好像还挺满意的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，我有点不知道该不该说那么多。那通电话其实没什么特别的，就是我妈又问我工作怎么样，我随口说了句最近有点累，她就说年轻人哪有不累的。然后我就开始数落自己哪里做得不好，她反而话多了起来。这种事说出来好像也没什么大不了的，我是不是太小题大做了。）\n（不过她问得这么直接，我反而有点想回避。而且我有点好奇，如果我说了，她会不会像我妈那样，觉得我是在矫情。算了，先简单说说吧，反正也不是什么大事。）",
+        "reasoning": "（她问得挺细的，我有点不知道该不该说那么多。那通电话其实没什么特别的，就是我妈又问我工作怎么样，我随口说了句最近有点累，她就说年轻人哪有不累的。然后我就开始数落自己哪里做得不好，她反而话多了起来。这种事说出来好像也没什么大不了的，我是不是太小题大做了。）\n（不过她问得这么直接，我反而有点想回避。而且我有点好奇，如果我说了，她会不会像我妈那样，觉得我是在矫情。算了，先简单说说吧，反正也不是什么大事。）"
+      }
+    }
+  ],
+  "created": 1794553066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 167,
+    "prompt_tokens": 1352,
+    "total_tokens": 1519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

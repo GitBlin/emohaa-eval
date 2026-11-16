@@ -1,0 +1,41 @@
+{
+  "id": "ba80b2e8bb4f4345a54ea59559f1a577",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不好，就是……反正就是不舒服。对了，你们做咨询的，会不会把我说的话告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像总想往深里挖，但我现在还不想说得太细。他问是对人还是对会议走向不安，其实我心里有数，就是不想直接承认。说“说不好”应该能糊弄过去，顺便试探一下他会不会追问。）\n（而且我确实有点担心，万一我说得太实在，他会不会拿这些去评判我？不如先问问清楚，看看他到底靠不靠谱。）",
+        "reasoning": "（这个咨询师好像总想往深里挖，但我现在还不想说得太细。他问是对人还是对会议走向不安，其实我心里有数，就是不想直接承认。说“说不好”应该能糊弄过去，顺便试探一下他会不会追问。）\n（而且我确实有点担心，万一我说得太实在，他会不会拿这些去评判我？不如先问问清楚，看看他到底靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1794545413,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1141,
+    "total_tokens": 1255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

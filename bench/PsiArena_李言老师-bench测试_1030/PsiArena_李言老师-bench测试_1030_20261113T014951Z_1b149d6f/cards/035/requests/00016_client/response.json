@@ -1,0 +1,41 @@
+{
+  "id": "44ac2827d59d4f8f800484cf36071905",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我第一反应还是自己扛。不过……也许可以先跟那个朋友试试？就是不知道真到那时候，我开得了口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问下次堵的时候愿意先跟谁说一句……我第一反应还是想缩回自己扛。可刚说完没那么堵，好像又有点不甘心。）\n（要不就试试那个朋友吧，她以前确实问过我。但一想到真要开口，又怕自己讲不好、显得矫情，话到嘴边就变了味。）",
+        "reasoning": "（他问下次堵的时候愿意先跟谁说一句……我第一反应还是想缩回自己扛。可刚说完没那么堵，好像又有点不甘心。）\n（要不就试试那个朋友吧，她以前确实问过我。但一想到真要开口，又怕自己讲不好、显得矫情，话到嘴边就变了味。）"
+      }
+    }
+  ],
+  "created": 1794536264,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2595,
+    "total_tokens": 2696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

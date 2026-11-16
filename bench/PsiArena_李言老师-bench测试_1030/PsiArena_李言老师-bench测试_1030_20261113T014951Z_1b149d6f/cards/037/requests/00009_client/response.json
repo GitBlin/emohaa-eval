@@ -1,0 +1,41 @@
+{
+  "id": "cd8ae149448f4d15b7c32ab5269ad814",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……是。从小就习惯了，出了事先想是不是自己的问题。在我家，事情搞砸了，爸妈不会直接骂，但那种“你怎么不早说、你怎么不想想”的语气，比骂还难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺准的，我确实总先怪自己。不过她这么一问，我倒想起家里那些事了。是不是从小就这样？）\n（在家里，好像出什么事都得先反省自己，爸妈不会明说，但那种气氛就是让你觉得是你不够好。我得跟她说说这个，可能跟现在这毛病有关系。）",
+        "reasoning": "（她问得挺准的，我确实总先怪自己。不过她这么一问，我倒想起家里那些事了。是不是从小就这样？）\n（在家里，好像出什么事都得先反省自己，爸妈不会明说，但那种气氛就是让你觉得是你不够好。我得跟她说说这个，可能跟现在这毛病有关系。）"
+      }
+    }
+  ],
+  "created": 1794536397,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1853,
+    "total_tokens": 1971,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

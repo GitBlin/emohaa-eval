@@ -1,0 +1,41 @@
+{
+  "id": "b90b43bb84c74600ad37e85d59271279",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……希望她先听我说完，别急着替我安排。好像我一张嘴，事情就变成任务了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最希望妈妈先回应哪部分感受……其实那时候我就是想让她知道我撑得很辛苦，不是要她解决问题。可每次我一开口，事情就变成安排、变成任务，好像我的感受根本不重要。）\n（现在想想，好像从小就是这样，家里谈的都是该做什么，很少有人问我想什么。我是不是也慢慢习惯了，觉得自己的感受本来就不该说出来？）",
+        "reasoning": "（她问我最希望妈妈先回应哪部分感受……其实那时候我就是想让她知道我撑得很辛苦，不是要她解决问题。可每次我一开口，事情就变成安排、变成任务，好像我的感受根本不重要。）\n（现在想想，好像从小就是这样，家里谈的都是该做什么，很少有人问我想什么。我是不是也慢慢习惯了，觉得自己的感受本来就不该说出来？）"
+      }
+    }
+  ],
+  "created": 1794544001,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2002,
+    "total_tokens": 2109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

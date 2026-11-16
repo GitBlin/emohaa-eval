@@ -1,0 +1,41 @@
+{
+  "id": "d5d8114f592b4d70bfe692106b47ca5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……最近总是睡不好，心里堵得慌。我也不太清楚自己为什么会这么难受，说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说可以从最近的感觉聊起，不用提前准备。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢直接说婚姻的事。先说说睡不好吧，这个比较安全，也确实是最近最明显的感受。）\n（不过说完之后又有点后悔，怕对方追问细节。还是先停在这里，看看咨询师会怎么接话，再决定要不要多说一点。）",
+        "reasoning": "（心理咨询师说可以从最近的感觉聊起，不用提前准备。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢直接说婚姻的事。先说说睡不好吧，这个比较安全，也确实是最近最明显的感受。）\n（不过说完之后又有点后悔，怕对方追问细节。还是先停在这里，看看咨询师会怎么接话，再决定要不要多说一点。）"
+      }
+    }
+  ],
+  "created": 1794552549,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 962,
+    "total_tokens": 1070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

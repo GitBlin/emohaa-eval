@@ -1,0 +1,41 @@
+{
+  "id": "109ce1a6fdc44f6f8d6f8cc64defd356",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）应该是那句——那个打分的声音不是我的。以前总觉得是我自己不行，现在知道它只是住进来的，好像能喘口气了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想带走哪一句，我脑子里第一个冒出来的就是那句“那个打分的声音不是我的”。以前我总以为那些苛责是我自己，现在知道它像是从外面住进来的，压得没那么死了。可要真说带走，光知道还不够，我更想带走的是那个能动手的小办法——先做小到不用打分的事。这两句其实连着，说出来心里有点踏实。）",
+        "reasoning": "（咨询师问我想带走哪一句，我脑子里第一个冒出来的就是那句“那个打分的声音不是我的”。以前我总以为那些苛责是我自己，现在知道它像是从外面住进来的，压得没那么死了。可要真说带走，光知道还不够，我更想带走的是那个能动手的小办法——先做小到不用打分的事。这两句其实连着，说出来心里有点踏实。）"
+      }
+    }
+  ],
+  "created": 1794537238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3553,
+    "total_tokens": 3671,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

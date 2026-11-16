@@ -1,0 +1,47 @@
+{
+  "id": "84b90007b57d439bbfa76b2b7796f0ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她先别急着问，安静听我说完。她一追问，我可能就慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个老师问得挺细的，还问我希望她先听还是先问。我其实没想过这个，但要是她一直问，我可能就慌了。安静听着可能好一点吧，至少我不会一下子被逼着说太多。）\n（不过她要是真安静等着，我可能也会不知道接下来该说什么。算了，先这么想吧，反正到时候再说。）",
+        "reasoning": "（这个老师问得挺细的，还问我希望她先听还是先问。我其实没想过这个，但要是她一直问，我可能就慌了。安静听着可能好一点吧，至少我不会一下子被逼着说太多。）\n（不过她要是真安静等着，我可能也会不知道接下来该说什么。算了，先这么想吧，反正到时候再说。）"
+      }
+    }
+  ],
+  "created": 1794800790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3155,
+    "total_tokens": 3256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

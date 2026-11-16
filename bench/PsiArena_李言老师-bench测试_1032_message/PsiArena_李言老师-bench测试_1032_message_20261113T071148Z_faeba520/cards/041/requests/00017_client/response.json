@@ -1,0 +1,41 @@
+{
+  "id": "2e96a9587ba54dd7a77f99944243d465",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "估计又会先笑一下，把话咽回去。但我不想再那样了……也许我可以先停一下，告诉他那句话让我不舒服，而不是马上怪自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我如果被评价会怎么反应……我其实有点怕自己又像以前那样，笑着把话咽回去。那感觉太熟悉了，好像一开口就变成了在讨好。）\n（可这次我不想再那样了。也许我可以先停一下，不急着接话，告诉他那句话让我不舒服。虽然说出来可能有点生硬，但总比又怪自己好。）",
+        "reasoning": "（他问我如果被评价会怎么反应……我其实有点怕自己又像以前那样，笑着把话咽回去。那感觉太熟悉了，好像一开口就变成了在讨好。）\n（可这次我不想再那样了。也许我可以先停一下，不急着接话，告诉他那句话让我不舒服。虽然说出来可能有点生硬，但总比又怪自己好。）"
+      }
+    }
+  ],
+  "created": 1794555643,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2722,
+    "total_tokens": 2836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1d452af773c647fb913958242e1e74a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……晚上躺下脑子就停不下来，白天又没劲。说这些是不是有点乱？我也不太会表达。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我难受是心里发闷还是身体上的，他好像没有逼我马上说出什么原因，这让我稍微放松一点。但我还是不太想直接说太深，先随便说点表面的吧。）\n（我确实睡不好，晚上躺下脑子停不下来，白天又没精神，这些说出来应该没关系。不过说完又觉得有点尴尬，好像显得我很没用似的。）",
+        "reasoning": "（咨询师问我难受是心里发闷还是身体上的，他好像没有逼我马上说出什么原因，这让我稍微放松一点。但我还是不太想直接说太深，先随便说点表面的吧。）\n（我确实睡不好，晚上躺下脑子停不下来，白天又没精神，这些说出来应该没关系。不过说完又觉得有点尴尬，好像显得我很没用似的。）"
+      }
+    }
+  ],
+  "created": 1794558598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1124,
+    "total_tokens": 1234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

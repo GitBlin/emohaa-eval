@@ -1,0 +1,41 @@
+{
+  "id": "26b5254851174ab98f483d7a24e7195f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）直接说“你抱我一下”？我怕他问为什么，我又讲不清楚……（想了想）不过，也许可以说“我最近有点累”，先开个头？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他建议我直接跟老公说想要抱抱……这个我其实一直有点怕。万一他问为什么，我该怎么答？说我累了？那听起来像抱怨。）\n（可要是说“你不用问，抱我一下就行”，好像也没那么难开口。也许可以先从“我最近有点累”开始，不用一下子把心里那些委屈都倒出来。）",
+        "reasoning": "（他建议我直接跟老公说想要抱抱……这个我其实一直有点怕。万一他问为什么，我该怎么答？说我累了？那听起来像抱怨。）\n（可要是说“你不用问，抱我一下就行”，好像也没那么难开口。也许可以先从“我最近有点累”开始，不用一下子把心里那些委屈都倒出来。）"
+      }
+    }
+  ],
+  "created": 1794552599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2653,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

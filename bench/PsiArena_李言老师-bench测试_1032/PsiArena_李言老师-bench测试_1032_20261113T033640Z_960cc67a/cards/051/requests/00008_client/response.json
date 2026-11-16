@@ -1,0 +1,41 @@
+{
+  "id": "d7d01ffd6f3d40cb9dec08755ac65962",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可能会舒服点。其实我家里人关心我的方式……就是一直问、一直催，反而让我更烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎理解了我不想被追问的需求，还提出了一个具体的陪伴方式。这让我感觉被接纳，可以稍微放松一点。我确实觉得那种不追问的陪伴更舒服，但想到家里人的关心方式，又觉得有点无奈。）\n（也许可以借着这个话题，说说父母那种让我有压力的关心。他们总是用比较和期待来关心我，反而让我更累。这跟咨询师说的安静陪伴正好相反。）",
+        "reasoning": "（咨询师似乎理解了我不想被追问的需求，还提出了一个具体的陪伴方式。这让我感觉被接纳，可以稍微放松一点。我确实觉得那种不追问的陪伴更舒服，但想到家里人的关心方式，又觉得有点无奈。）\n（也许可以借着这个话题，说说父母那种让我有压力的关心。他们总是用比较和期待来关心我，反而让我更累。这跟咨询师说的安静陪伴正好相反。）"
+      }
+    }
+  ],
+  "created": 1794543700,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1542,
+    "total_tokens": 1659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

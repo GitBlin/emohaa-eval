@@ -1,0 +1,47 @@
+{
+  "id": "53c1d6c6a5a94f5fa7e385f8330d595e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "……家里吧。我妈老说“别给人添麻烦”“话别说太满”。听多了，我自己就变成那个总在提醒我的人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这套话最早从谁那儿听来的……我第一反应就是家里。爸妈从来不会直接说烦，但那种“别给人添麻烦”“话别说太满”的调子，从小听到大。我好像一直活在这种提醒里，久了就变成自己跟自己说了。）\n（说出来有点难受，但确实是这么回事。我一边觉得他们是为我好，一边又觉得那些话像根刺，扎得我不敢多说话、不敢多要什么。现在想想，我连跟同事约饭都怕“添麻烦”，这毛病根子太深了。）",
+        "reasoning": "（她问这套话最早从谁那儿听来的……我第一反应就是家里。爸妈从来不会直接说烦，但那种“别给人添麻烦”“话别说太满”的调子，从小听到大。我好像一直活在这种提醒里，久了就变成自己跟自己说了。）\n（说出来有点难受，但确实是这么回事。我一边觉得他们是为我好，一边又觉得那些话像根刺，扎得我不敢多说话、不敢多要什么。现在想想，我连跟同事约饭都怕“添麻烦”，这毛病根子太深了。）"
+      }
+    }
+  ],
+  "created": 1794800651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 3033,
+    "total_tokens": 3187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

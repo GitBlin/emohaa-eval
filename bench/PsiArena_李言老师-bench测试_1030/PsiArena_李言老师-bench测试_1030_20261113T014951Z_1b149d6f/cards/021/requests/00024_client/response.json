@@ -1,0 +1,41 @@
+{
+  "id": "33a79473af8d4726bec8793eeb9f969a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想，可能就在心里跟自己说一句：我现在什么都不用做，听她说就行。要是又冒出来“我该做点什么”，就提醒自己那是习惯，不是任务。嗯……说出来了好像清楚一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算怎么跟自己说，才能坐得住。这个问题很实际，不是空谈道理。我刚刚才说想试试，现在得具体到能做的事上。我想到，如果心里一冒“我该做点什么”的念头，就提醒自己一句，把注意力拉回到她身边。这样不算多高明，但至少是我能做到的。）\n（还有那种空空的、使不上劲的感觉，一直压着我。既然要试，也许可以给自己定个小点的目标，不用一坐一下午，先从半小时开始。这样说出来，好像心里稍微有点底了。）",
+        "reasoning": "（她问我打算怎么跟自己说，才能坐得住。这个问题很实际，不是空谈道理。我刚刚才说想试试，现在得具体到能做的事上。我想到，如果心里一冒“我该做点什么”的念头，就提醒自己一句，把注意力拉回到她身边。这样不算多高明，但至少是我能做到的。）\n（还有那种空空的、使不上劲的感觉，一直压着我。既然要试，也许可以给自己定个小点的目标，不用一坐一下午，先从半小时开始。这样说出来，好像心里稍微有点底了。）"
+      }
+    }
+  ],
+  "created": 1794535743,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 3399,
+    "total_tokens": 3568,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

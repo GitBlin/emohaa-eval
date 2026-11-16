@@ -1,0 +1,41 @@
+{
+  "id": "c511dee88814434989dfd806a641584d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我不知道……可能会很安静吧。也许他会说“那又怎样”，可我不敢赌，万一他脸上有那么一点失望，我受不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我，如果那句话真被丈夫听到会怎样。我其实从没想过他会怎么回应，一直只顾着害怕。现在被这么一问，才发现自己好像从没给过他机会。）\n（我总觉得他会失望，会觉得我不够好，可想想他平时的样子，好像又不是那样的人。这种矛盾让我有点说不清，心里乱乱的。）",
+        "reasoning": "（咨询师在问我，如果那句话真被丈夫听到会怎样。我其实从没想过他会怎么回应，一直只顾着害怕。现在被这么一问，才发现自己好像从没给过他机会。）\n（我总觉得他会失望，会觉得我不够好，可想想他平时的样子，好像又不是那样的人。这种矛盾让我有点说不清，心里乱乱的。）"
+      }
+    }
+  ],
+  "created": 1794554683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2059,
+    "total_tokens": 2166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

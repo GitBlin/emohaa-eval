@@ -1,0 +1,41 @@
+{
+  "id": "d07b52dd76854821aa5167610516465f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "借一点……我有个朋友，他做事从来不问值不值得，就图个乐。我有时候挺羡慕他的。不过一想到要像他那样，那个打分的声音又冒出来了，说我幼稚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说那句“没关系，明天再来”的时候，我其实有点被触到了。以前总觉得这种话是软弱的人才信的，但现在听她这么说，好像也没那么别扭。她问我能不能从别处借一点温柔过来，我第一反应是想到我朋友，他做东西就是图个乐，从不会先问值不值。）\n（可那个声音还是紧跟着冒出来，说这样太天真。我有点烦，又有点羡慕他。也许我真的可以学学他的样子，先别急着给自己打分，哪怕只是试着做一小步也好。）",
+        "reasoning": "（她刚才说那句“没关系，明天再来”的时候，我其实有点被触到了。以前总觉得这种话是软弱的人才信的，但现在听她这么说，好像也没那么别扭。她问我能不能从别处借一点温柔过来，我第一反应是想到我朋友，他做东西就是图个乐，从不会先问值不值。）\n（可那个声音还是紧跟着冒出来，说这样太天真。我有点烦，又有点羡慕他。也许我真的可以学学他的样子，先别急着给自己打分，哪怕只是试着做一小步也好。）"
+      }
+    }
+  ],
+  "created": 1794537200,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 2727,
+    "total_tokens": 2890,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

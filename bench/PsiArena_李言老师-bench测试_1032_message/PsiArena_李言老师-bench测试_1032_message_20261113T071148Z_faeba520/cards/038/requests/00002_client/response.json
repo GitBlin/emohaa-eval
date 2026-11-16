@@ -1,0 +1,41 @@
+{
+  "id": "788e36dd9eb94ee89d3f5b12875573ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我也不知道该从哪儿说。就是最近总觉得很累，心里堵得慌。（停顿）不过……你们咨询是不是什么都会保密？会不会记录我说的话？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用紧张，让我按自己的节奏说。但我还是不太确定该怎么开口，毕竟第一次见面，总得先确认一下对方靠不靠谱。他说会认真听，可谁知道是不是客套话呢。）\n（我其实更想知道咨询有没有什么规矩，比如会不会保密，会不会随便评价我。这些问题不问清楚，我很难真的放松下来。但直接问又怕显得不信任他，所以得稍微委婉一点。）",
+        "reasoning": "（咨询师说不用紧张，让我按自己的节奏说。但我还是不太确定该怎么开口，毕竟第一次见面，总得先确认一下对方靠不靠谱。他说会认真听，可谁知道是不是客套话呢。）\n（我其实更想知道咨询有没有什么规矩，比如会不会保密，会不会随便评价我。这些问题不问清楚，我很难真的放松下来。但直接问又怕显得不信任他，所以得稍微委婉一点。）"
+      }
+    }
+  ],
+  "created": 1794555544,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 983,
+    "total_tokens": 1112,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

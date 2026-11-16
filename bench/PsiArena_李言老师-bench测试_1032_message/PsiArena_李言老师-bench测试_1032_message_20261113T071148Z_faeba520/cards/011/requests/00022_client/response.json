@@ -1,0 +1,41 @@
+{
+  "id": "0731e8a57a79478f92f2dfd4fa7b5bd6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要不……我写在手机上，或者贴个便签在床头？我平时老看手机，应该能想起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么把这句话留住。我其实不太擅长记东西，手机倒是整天拿在手里。写下来贴在看得见的地方，可能比光靠脑子记要靠谱一点吧。不过说真的，现在光是想到要去做这件事，就觉得有点麻烦，又有点不好意思。）\n（但也许可以试试。贴在冰箱上或者床头，喂奶、哄睡的时候一抬眼就能看到。不用搞得太郑重，简单几个字就行。）",
+        "reasoning": "（她问我怎么把这句话留住。我其实不太擅长记东西，手机倒是整天拿在手里。写下来贴在看得见的地方，可能比光靠脑子记要靠谱一点吧。不过说真的，现在光是想到要去做这件事，就觉得有点麻烦，又有点不好意思。）\n（但也许可以试试。贴在冰箱上或者床头，喂奶、哄睡的时候一抬眼就能看到。不用搞得太郑重，简单几个字就行。）"
+      }
+    }
+  ],
+  "created": 1794554366,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2804,
+    "total_tokens": 2922,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

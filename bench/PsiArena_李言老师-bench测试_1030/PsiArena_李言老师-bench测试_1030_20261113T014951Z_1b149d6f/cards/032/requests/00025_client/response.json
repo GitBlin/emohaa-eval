@@ -1,0 +1,41 @@
+{
+  "id": "9d2c18194e8049d7b62a259988196aa1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说：你今天已经够努力了，不用再逼自己懂事。……说出来有点想哭，不过好像也松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我今晚想对自己说什么……这句话让我有点愣住了。以前我从来没想过要对自己说什么，总觉得那太矫情了。但今天聊下来，好像真的可以试着对自己好一点。）\n（那就说“你今天已经够努力了”吧，不用再逼自己懂事。这样说出来的时候，心里好像松了一点点，像是终于有人允许我不用那么紧绷着。虽然还是有点不习惯，但至少今晚可以试试看。）",
+        "reasoning": "（她问我今晚想对自己说什么……这句话让我有点愣住了。以前我从来没想过要对自己说什么，总觉得那太矫情了。但今天聊下来，好像真的可以试着对自己好一点。）\n（那就说“你今天已经够努力了”吧，不用再逼自己懂事。这样说出来的时候，心里好像松了一点点，像是终于有人允许我不用那么紧绷着。虽然还是有点不习惯，但至少今晚可以试试看。）"
+      }
+    }
+  ],
+  "created": 1794536251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3547,
+    "total_tokens": 3668,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d6db4643926d4ae4ad559c7725f2b7ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……我爸吧。他从来不夸我考得好的，只盯着错的地方。我现在是不是也这样对我女儿？唉，我明明最讨厌那样的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问那个声音像谁在说话……我一下子就想到了我爸。小时候考完试，他从来不看我考了多少分，只问哪里错了，好像我这个人就只剩下那些错题。现在面对女儿，我心里那个声音还是他的，一点都没变。可我又觉得，明明是我自己在跟自己较劲，怎么又怪到父母头上了。）\n（也许我不该这么想，毕竟他们也是为我好。但那种感觉太真实了，每次女儿出一点错，我就觉得是自己没教好，好像又回到了小时候被检查作业的时候。这让我有点难受，又有点说不清。）",
+        "reasoning": "（她问那个声音像谁在说话……我一下子就想到了我爸。小时候考完试，他从来不看我考了多少分，只问哪里错了，好像我这个人就只剩下那些错题。现在面对女儿，我心里那个声音还是他的，一点都没变。可我又觉得，明明是我自己在跟自己较劲，怎么又怪到父母头上了。）\n（也许我不该这么想，毕竟他们也是为我好。但那种感觉太真实了，每次女儿出一点错，我就觉得是自己没教好，好像又回到了小时候被检查作业的时候。这让我有点难受，又有点说不清。）"
+      }
+    }
+  ],
+  "created": 1794553282,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1709,
+    "total_tokens": 1871,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 128,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

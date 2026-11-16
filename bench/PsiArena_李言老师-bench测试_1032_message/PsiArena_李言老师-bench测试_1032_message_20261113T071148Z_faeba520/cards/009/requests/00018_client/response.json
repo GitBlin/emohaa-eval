@@ -1,0 +1,41 @@
+{
+  "id": "35c57039e2c44a15b66b718cd78c0d41",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像对朋友那样啊……我可能会说“没关系，你已经很努力了”。不过这话对自己说，总觉得有点别扭，好像太纵容自己了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我对自己说一句像对朋友那样的话……这让我有点为难。我平时对别人都能很宽容，可轮到自己就总觉得不该那么轻易放过。不过她说的有道理，回头看不是审判。）\n（我想了想，如果是朋友遇到这种事，我大概会说“没关系，你已经很努力了”。可这话对自己说，总觉得有点别扭，好像太纵容自己了。但也许……我确实需要学着对自己松一点。）",
+        "reasoning": "（她让我对自己说一句像对朋友那样的话……这让我有点为难。我平时对别人都能很宽容，可轮到自己就总觉得不该那么轻易放过。不过她说的有道理，回头看不是审判。）\n（我想了想，如果是朋友遇到这种事，我大概会说“没关系，你已经很努力了”。可这话对自己说，总觉得有点别扭，好像太纵容自己了。但也许……我确实需要学着对自己松一点。）"
+      }
+    }
+  ],
+  "created": 1794554353,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2763,
+    "total_tokens": 2891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

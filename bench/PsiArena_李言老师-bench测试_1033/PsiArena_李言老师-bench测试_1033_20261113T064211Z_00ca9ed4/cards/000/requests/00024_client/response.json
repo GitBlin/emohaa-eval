@@ -1,0 +1,41 @@
+{
+  "id": "a47068097faf4d598a143bce7aaba0aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我会的。以前总觉得这些事说出来丢人，今天说完，好像也没那么可怕。那我先这样，下周再跟你聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“回来跟我说说就行”，这句话让我觉得被接纳了。以前总觉得只有做得完美才值得被肯定，现在好像不用那么紧绷了。）\n（不过我心里还是有点没底，怕自己又回到老样子。那个同事的话可能还会让我不舒服，但至少现在能换个角度想想了。）",
+        "reasoning": "（咨询师说“回来跟我说说就行”，这句话让我觉得被接纳了。以前总觉得只有做得完美才值得被肯定，现在好像不用那么紧绷了。）\n（不过我心里还是有点没底，怕自己又回到老样子。那个同事的话可能还会让我不舒服，但至少现在能换个角度想想了。）"
+      }
+    }
+  ],
+  "created": 1794552231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3394,
+    "total_tokens": 3492,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

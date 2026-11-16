@@ -1,0 +1,41 @@
+{
+  "id": "53bdbcc41c184b0ab04e2413cd1ec92a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能说“我又在着急了，这很正常”，而不是“别急”。听起来没那么像命令，好像能喘口气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才提醒我别把放松又变成新标准，这让我有点意外，也有点被理解的感觉。我确实习惯把每件事都变成任务，连停下来都怕没做好。）\n（说到对自己说什么话，我脑子里第一个冒出来的是“你又来了”，但这话太像指责了。我想试试换个说法，先承认自己又在着急，而不是命令自己不许急。这样听起来没那么压人。）",
+        "reasoning": "（她刚才提醒我别把放松又变成新标准，这让我有点意外，也有点被理解的感觉。我确实习惯把每件事都变成任务，连停下来都怕没做好。）\n（说到对自己说什么话，我脑子里第一个冒出来的是“你又来了”，但这话太像指责了。我想试试换个说法，先承认自己又在着急，而不是命令自己不许急。这样听起来没那么压人。）"
+      }
+    }
+  ],
+  "created": 1794538535,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3012,
+    "total_tokens": 3127,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

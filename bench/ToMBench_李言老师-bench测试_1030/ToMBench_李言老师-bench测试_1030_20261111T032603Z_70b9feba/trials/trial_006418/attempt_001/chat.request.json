@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:32:31.643210+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaohua and Xiaowang are roommates. Xiaohua often stays up late to play games, while Xiaowang goes to bed on time every day. Xiaowang hopes to persuade Xiaohua to cherish his body and play less games.\n\n[Question]\nHow does Xiaowang persuade Xiaohua?\n\n[Candidate Answers]\nA. Xiaowang can directly express his concern and suggest Xiaohua not to stay up late.\nB. Invite Xiaohua to do some relaxing activities, such as yoga or meditation.\nC. Xiaowang can suggest Xiaohua to try to rest and keep a regular schedule.\nD. Xiaowang can stick to a healthy schedule and become a role model for Xiaohua.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

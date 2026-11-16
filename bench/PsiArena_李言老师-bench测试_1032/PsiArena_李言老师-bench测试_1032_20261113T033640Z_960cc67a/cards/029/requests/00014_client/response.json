@@ -1,0 +1,41 @@
+{
+  "id": "9de03b97afdd44a3837c10245438a825",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）好像……是我自己那个声音。就算没人说，我自己也一直在心里嘀咕“又没忍住”。挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺准的，让我有点意外。我本来以为她会继续问妈妈的事，结果她问的是我自己的声音。这让我心里动了一下，好像确实不是妈妈那一眼本身，是我自己心里那个“又没忍住”一直在响。）\n（我有点犹豫要不要承认，因为承认了就好像我一直在跟自己较劲。但想想确实是这么回事，每次买完东西，还没等别人说什么，我自己心里就先开始骂自己了。这种感觉挺累的，说出来可能也没什么用，但至少现在好像能说一点。）",
+        "reasoning": "（咨询师问得挺准的，让我有点意外。我本来以为她会继续问妈妈的事，结果她问的是我自己的声音。这让我心里动了一下，好像确实不是妈妈那一眼本身，是我自己心里那个“又没忍住”一直在响。）\n（我有点犹豫要不要承认，因为承认了就好像我一直在跟自己较劲。但想想确实是这么回事，每次买完东西，还没等别人说什么，我自己心里就先开始骂自己了。这种感觉挺累的，说出来可能也没什么用，但至少现在好像能说一点。）"
+      }
+    }
+  ],
+  "created": 1794549678,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2188,
+    "total_tokens": 2333,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

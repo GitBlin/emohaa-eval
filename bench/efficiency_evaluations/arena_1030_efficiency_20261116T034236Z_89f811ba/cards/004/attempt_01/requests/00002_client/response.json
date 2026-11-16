@@ -1,0 +1,47 @@
+{
+  "id": "f3a695654e6d42e891b631b0ed7ca081",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我也不知道从哪说。就是，最近在学校有点不太舒服吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说不用紧张，让我随便说，还问我进来之前在想什么。他看起来挺温和的，但我还是不太确定能不能相信他。毕竟我连老师都不敢告诉，更别说陌生人了。）\n（不过他说没有“必须说”的内容，这让我稍微放松了一点。我确实不知道该从哪开始说，那些事太乱了。也许可以先说点表面的，不用一下子全说出来。我有点想说学校的事，但又怕说太多。）\n（好了，那我就说在学校不太舒服吧，看看他会怎么反应。这样既回答了问题，又没暴露太多。）",
+        "reasoning": "（刚才咨询师说不用紧张，让我随便说，还问我进来之前在想什么。他看起来挺温和的，但我还是不太确定能不能相信他。毕竟我连老师都不敢告诉，更别说陌生人了。）\n（不过他说没有“必须说”的内容，这让我稍微放松了一点。我确实不知道该从哪开始说，那些事太乱了。也许可以先说点表面的，不用一下子全说出来。我有点想说学校的事，但又怕说太多。）\n（好了，那我就说在学校不太舒服吧，看看他会怎么反应。这样既回答了问题，又没暴露太多。）"
+      }
+    }
+  ],
+  "created": 1794800690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 979,
+    "total_tokens": 1118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

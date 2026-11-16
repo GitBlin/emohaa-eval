@@ -1,0 +1,47 @@
+{
+  "id": "cccbc630e48547f1bd8bb535fe62cf42",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那就好。我主要是怕我爸妈知道，他们会觉得我是不是出什么问题了。其实……我也不太清楚自己为什么会这么难受，就是最近总觉得很累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他刚才说保密有例外，提到伤害自己或他人的风险……这让我有点紧张，不过他说会先跟我说清楚，感觉还算坦诚。我担心的是爸妈知道我心理有问题会失望，他们一直只关心我成绩。）\n（其实我也不知道自己到底想说什么，就是最近总觉得难受，但又说不清楚。先随便提一下室友的事吧，看看他会怎么反应。）",
+        "reasoning": "（他刚才说保密有例外，提到伤害自己或他人的风险……这让我有点紧张，不过他说会先跟我说清楚，感觉还算坦诚。我担心的是爸妈知道我心理有问题会失望，他们一直只关心我成绩。）\n（其实我也不知道自己到底想说什么，就是最近总觉得难受，但又说不清楚。先随便提一下室友的事吧，看看他会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794800694,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1083,
+    "total_tokens": 1199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

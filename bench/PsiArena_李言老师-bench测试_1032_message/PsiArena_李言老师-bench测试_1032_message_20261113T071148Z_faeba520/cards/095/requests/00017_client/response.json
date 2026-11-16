@@ -1,0 +1,41 @@
+{
+  "id": "5ee23e9d802544c2adab3bc1f0164d9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕人家觉得我没出息吧，只能干杂活。不过……仔细想想，同事可能压根没在意，是我自己想多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问如果我去做那些小事，担心别人怎么看。这其实戳到我心里那个怕被看不起的点，尤其是我爸那种标准。我第一反应就是怕同事觉得我没出息，好像我只能干杂活。）\n（但转念一想，同事可能真没空管我做什么，是我自己一直在拿别人的眼光压自己。这种自我怀疑的惯性太强了，说出来反而有点轻松。）",
+        "reasoning": "（咨询师在问如果我去做那些小事，担心别人怎么看。这其实戳到我心里那个怕被看不起的点，尤其是我爸那种标准。我第一反应就是怕同事觉得我没出息，好像我只能干杂活。）\n（但转念一想，同事可能真没空管我做什么，是我自己一直在拿别人的眼光压自己。这种自我怀疑的惯性太强了，说出来反而有点轻松。）"
+      }
+    }
+  ],
+  "created": 1794558400,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2378,
+    "total_tokens": 2493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "016462e77ab049bdaa1723327e8537f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多半是晚上，一个人躺着的时候。（声音低下去）尤其是跟他闹过不愉快之后。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是那些自我批评的声音什么时候出现得最多。我一下子想到晚上一个人躺着的时候，白天忙起来还能压住，一安静下来那些话就全冒出来了。）\n（而且往往是在和丈夫闹过不愉快之后，那种“是不是我不够好”的念头特别重。说这些的时候心里有点发酸，又觉得说出来好像轻松一点。）",
+        "reasoning": "（咨询师问的是那些自我批评的声音什么时候出现得最多。我一下子想到晚上一个人躺着的时候，白天忙起来还能压住，一安静下来那些话就全冒出来了。）\n（而且往往是在和丈夫闹过不愉快之后，那种“是不是我不够好”的念头特别重。说这些的时候心里有点发酸，又觉得说出来好像轻松一点。）"
+      }
+    }
+  ],
+  "created": 1794554561,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2706,
+    "total_tokens": 2806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

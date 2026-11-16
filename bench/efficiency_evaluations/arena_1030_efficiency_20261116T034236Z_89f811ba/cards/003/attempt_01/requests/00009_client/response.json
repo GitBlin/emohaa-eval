@@ -1,0 +1,47 @@
+{
+  "id": "fa4cb7107189498282f7b02faaf5657e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里吧。我爸妈……他们其实挺爱我的，就是很少夸人。考得好，他们就说“别骄傲，下次继续”。我好像从小就知道，做得好是应该的，没什么好说的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这个逻辑是从哪儿学来的，一下子让我想到家里。小时候考得好，爸妈也就点个头，从不多说什么。他们好像默认成绩好是应该的，关心的是下一步该怎么走。）\n（我其实有点犹豫要不要说这些，毕竟说出来像是在怪爸妈。但那种“做好了也没人夸”的感觉确实很早就有了。他们不是不爱我，只是不太表达，我也就习惯了用别人的反应来确认自己做得对不对。）",
+        "reasoning": "（咨询师问我这个逻辑是从哪儿学来的，一下子让我想到家里。小时候考得好，爸妈也就点个头，从不多说什么。他们好像默认成绩好是应该的，关心的是下一步该怎么走。）\n（我其实有点犹豫要不要说这些，毕竟说出来像是在怪爸妈。但那种“做好了也没人夸”的感觉确实很早就有了。他们不是不爱我，只是不太表达，我也就习惯了用别人的反应来确认自己做得对不对。）"
+      }
+    }
+  ],
+  "created": 1794800598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1785,
+    "total_tokens": 1925,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 1536,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

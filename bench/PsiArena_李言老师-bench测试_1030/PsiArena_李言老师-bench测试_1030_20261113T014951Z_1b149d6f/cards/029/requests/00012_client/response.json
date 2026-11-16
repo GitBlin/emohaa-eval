@@ -1,0 +1,41 @@
+{
+  "id": "ec1acfe6b40d494590373b127849d2c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在家哪敢说啊。说了就是不懂事、不知道节俭。我爸妈那辈人，能省就省，觉得想要点什么是很丢人的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在认真听，没有像我妈那样马上就说“你不懂事”。可这口气……在家里确实说不出口，说了就是顶嘴，就是不知道节俭。）\n（我有点想说，又有点怕说出来显得自己在怪父母。他们也不容易，省吃俭用供我读书。可我就是憋得慌，好像连想要点什么都得偷偷摸摸的。）",
+        "reasoning": "（她好像真的在认真听，没有像我妈那样马上就说“你不懂事”。可这口气……在家里确实说不出口，说了就是顶嘴，就是不知道节俭。）\n（我有点想说，又有点怕说出来显得自己在怪父母。他们也不容易，省吃俭用供我读书。可我就是憋得慌，好像连想要点什么都得偷偷摸摸的。）"
+      }
+    }
+  ],
+  "created": 1794536050,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2043,
+    "total_tokens": 2157,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

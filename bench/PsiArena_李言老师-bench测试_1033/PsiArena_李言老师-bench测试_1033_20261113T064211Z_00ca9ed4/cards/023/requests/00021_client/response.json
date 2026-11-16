@@ -1,0 +1,41 @@
+{
+  "id": "61f6e957d44e42bf9829ff3dd699f1ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想就重复那一句吧，多说反而容易乱。要是实在撑不住，我就说“这事改天再说”，先把电话挂了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把周末电话的情景想得更细，连“为你好”这种话都提前想到了。我本来觉得练几遍就够了，可听她这么问，心里又有点没底，怕到时候一被顶回来自己就乱了。）\n（我想还是得给自己留个退路，不能硬撑。重复那句可能撑不住，不如把“改天再说”当成一个缓冲，这样至少不会当场吵起来。这样安排，我心里踏实一点。）",
+        "reasoning": "（咨询师在帮我把周末电话的情景想得更细，连“为你好”这种话都提前想到了。我本来觉得练几遍就够了，可听她这么问，心里又有点没底，怕到时候一被顶回来自己就乱了。）\n（我想还是得给自己留个退路，不能硬撑。重复那句可能撑不住，不如把“改天再说”当成一个缓冲，这样至少不会当场吵起来。这样安排，我心里踏实一点。）"
+      }
+    }
+  ],
+  "created": 1794553153,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3085,
+    "total_tokens": 3215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "642433c436a944b088bad6cf45e57810",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点想哭，但又觉得都过去了，还提它干嘛。可奇怪的是，现在我自己吃饭，脑子里还是会有那个声音。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到现在的感受……其实我很少允许自己去回想那些事，因为一想起来就特别难受。那时候饿着不敢吃，还要装作没事，现在想起来还是觉得委屈，但又觉得说这些好像显得我很矫情。）\n（不过她问得挺温和的，没有催我。我可能可以稍微说一点，就一点点。家里那些规矩，好像到现在还在我脑子里，让我吃饭的时候都放松不下来。）",
+        "reasoning": "（她问到现在的感受……其实我很少允许自己去回想那些事，因为一想起来就特别难受。那时候饿着不敢吃，还要装作没事，现在想起来还是觉得委屈，但又觉得说这些好像显得我很矫情。）\n（不过她问得挺温和的，没有催我。我可能可以稍微说一点，就一点点。家里那些规矩，好像到现在还在我脑子里，让我吃饭的时候都放松不下来。）"
+      }
+    }
+  ],
+  "created": 1794558030,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1693,
+    "total_tokens": 1811,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

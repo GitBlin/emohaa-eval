@@ -1,0 +1,41 @@
+{
+  "id": "15fc36149c3c471ca582dba93390b1aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我希望他……别打岔，认真听我说完。哪怕他说还没准备好，也让我知道他是认真想过的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最希望他听完后给什么样的回应……这个问题其实我平时不敢细想，怕想多了更难受。但既然被问到了，好像心里确实有一个模糊的答案。）\n（我希望他能认真对待我说的话，不要敷衍地来一句“你想多了”就把我打发了。哪怕他最后说还没准备好，只要他是认真回应我的，我可能都能接受一点。这样我至少不用再猜来猜去了。）",
+        "reasoning": "（咨询师问我最希望他听完后给什么样的回应……这个问题其实我平时不敢细想，怕想多了更难受。但既然被问到了，好像心里确实有一个模糊的答案。）\n（我希望他能认真对待我说的话，不要敷衍地来一句“你想多了”就把我打发了。哪怕他最后说还没准备好，只要他是认真回应我的，我可能都能接受一点。这样我至少不用再猜来猜去了。）"
+      }
+    }
+  ],
+  "created": 1794550327,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2974,
+    "total_tokens": 3096,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

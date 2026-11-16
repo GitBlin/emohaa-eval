@@ -1,0 +1,41 @@
+{
+  "id": "d37d97b813084653985ed6bd174a4422",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）现在的自己……你已经尽力了。嗯……说的时候心里有点别扭，好像有个声音在反驳，说“你哪里尽力了”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我把这句话说给现在的自己听……这有点难。平时我总觉得自己不够好，哪能这么轻易就原谅自己。不过她刚才说我“不允许自己这么说”，好像确实是这样。我是不是对自己太苛刻了？）\n（可是现在说“尽力了”……我真的尽力了吗？我总觉得还能做得更好。但也许，也许试着说出来，哪怕只是很小声地，会有点不一样？）",
+        "reasoning": "（她让我把这句话说给现在的自己听……这有点难。平时我总觉得自己不够好，哪能这么轻易就原谅自己。不过她刚才说我“不允许自己这么说”，好像确实是这样。我是不是对自己太苛刻了？）\n（可是现在说“尽力了”……我真的尽力了吗？我总觉得还能做得更好。但也许，也许试着说出来，哪怕只是很小声地，会有点不一样？）"
+      }
+    }
+  ],
+  "created": 1794556632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2238,
+    "total_tokens": 2361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

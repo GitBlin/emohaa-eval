@@ -1,0 +1,41 @@
+{
+  "id": "03e2293ca3c04419afe44bb6ae6c7b95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他先别急着评价我，哪怕只说一句“我知道你累了”。这样我可能就不会那么快缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考希望对方如何回应，这让我意识到自己其实一直渴望被认真对待。我害怕被敷衍，但又觉得直接提要求可能显得太苛刻。）\n（也许我可以试着表达一个简单具体的期待，这样既不会给对方太大压力，也能让我感到被听见。说“先别急着评价”可能比较自然，毕竟我真的需要一点空间。）",
+        "reasoning": "（咨询师在引导我思考希望对方如何回应，这让我意识到自己其实一直渴望被认真对待。我害怕被敷衍，但又觉得直接提要求可能显得太苛刻。）\n（也许我可以试着表达一个简单具体的期待，这样既不会给对方太大压力，也能让我感到被听见。说“先别急着评价”可能比较自然，毕竟我真的需要一点空间。）"
+      }
+    }
+  ],
+  "created": 1794548504,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3426,
+    "total_tokens": 3531,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

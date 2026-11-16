@@ -1,0 +1,41 @@
+{
+  "id": "eba57b4b78ea457a994563a6919ef080",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "以前……好像靠的是别人怎么看吧。爸妈怎么看，朋友怎么看，我心里都有个谱。可这件事，谁都没法问，只能我自己拿主意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我以前的“准”靠什么撑着。这问题让我一下子想到很多——以前做事好像总有个参照，爸妈的看法、朋友会怎么想，这些都在我脑子里过一遍。可这次不一样，这事太私密，谁都不能问。也许我该承认，我一直挺依赖外界的反应来确认自己做得对不对。现在这个准头没了，反而逼我自己拿主意，这感觉陌生又有点慌。）",
+        "reasoning": "（她问的是我以前的“准”靠什么撑着。这问题让我一下子想到很多——以前做事好像总有个参照，爸妈的看法、朋友会怎么想，这些都在我脑子里过一遍。可这次不一样，这事太私密，谁都不能问。也许我该承认，我一直挺依赖外界的反应来确认自己做得对不对。现在这个准头没了，反而逼我自己拿主意，这感觉陌生又有点慌。）"
+      }
+    }
+  ],
+  "created": 1794552908,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2461,
+    "total_tokens": 2587,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

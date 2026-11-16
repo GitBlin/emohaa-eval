@@ -1,0 +1,47 @@
+{
+  "id": "bd18822187cf4a789f2468d71d77acd1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没、没有，这是第一次。嗯……我想问一下，就是我说的这些，你会告诉别人吗？比如学校或者我爸妈……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说可以随便聊，不会评判我……听起来好像挺轻松的，但真的能随便说吗？毕竟第一次见面，谁知道会不会转头就把我的事说出去。而且他说节奏由我来定……可我现在连从哪开始都不知道。）\n（作为内向又敏感的人，我确实很难一下子信任陌生人。虽然他说不会评判，但万一我说错什么，他会不会觉得我太矫情？还是先问问保密的事吧，至少得确认自己的话不会传出去。不过这么直接问会不会显得我不信任他……算了，还是得问清楚。）",
+        "reasoning": "（刚才咨询师说可以随便聊，不会评判我……听起来好像挺轻松的，但真的能随便说吗？毕竟第一次见面，谁知道会不会转头就把我的事说出去。而且他说节奏由我来定……可我现在连从哪开始都不知道。）\n（作为内向又敏感的人，我确实很难一下子信任陌生人。虽然他说不会评判，但万一我说错什么，他会不会觉得我太矫情？还是先问问保密的事吧，至少得确认自己的话不会传出去。不过这么直接问会不会显得我不信任他……算了，还是得问清楚。）"
+      }
+    }
+  ],
+  "created": 1794800690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 977,
+    "total_tokens": 1126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d69a95634db94b1c90a6dd14691f4f0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……晚上吧，躺床上睡不着的时候，脑子里乱糟糟的。也说不清具体在想什么。对了，您平时也会跟来访者聊您自己的事吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最近有没有情绪不对劲的时刻……其实我脑子里全是父母安排的那场相亲，但我不想一开始就说得太细。而且，我有点想试探一下他会不会对我有别的看法，比如我要是说想多跟他聊聊私人的事，他会怎么反应？）\n（我既想让他知道我有困扰，又不想显得太主动或者太奇怪。说“说不上来”应该比较安全，然后稍微带一句关于他个人的话，看看他的界限在哪里。）",
+        "reasoning": "（他问我最近有没有情绪不对劲的时刻……其实我脑子里全是父母安排的那场相亲，但我不想一开始就说得太细。而且，我有点想试探一下他会不会对我有别的看法，比如我要是说想多跟他聊聊私人的事，他会怎么反应？）\n（我既想让他知道我有困扰，又不想显得太主动或者太奇怪。说“说不上来”应该比较安全，然后稍微带一句关于他个人的话，看看他的界限在哪里。）"
+      }
+    }
+  ],
+  "created": 1794539896,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1065,
+    "total_tokens": 1204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

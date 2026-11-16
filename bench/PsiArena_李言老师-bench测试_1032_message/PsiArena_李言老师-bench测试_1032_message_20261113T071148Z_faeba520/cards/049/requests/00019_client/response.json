@@ -1,0 +1,41 @@
+{
+  "id": "1da7e8e578b44054af4a86ceae869888",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就……不勉强自己，写不出来就不写，第二天再说。别又变成一件必须完成的任务。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我写不下去时怎么对自己说，这是在帮我提前想好应对的办法。我确实担心自己坚持不了几天就放弃，然后又开始自责。不过她这么一问，我反而觉得可以对自己宽容一点，不用逼得太紧。也许我可以把标准放低，哪怕只写一个字也算数，这样就不会因为做不到而更难受了。）",
+        "reasoning": "（咨询师在问我写不下去时怎么对自己说，这是在帮我提前想好应对的办法。我确实担心自己坚持不了几天就放弃，然后又开始自责。不过她这么一问，我反而觉得可以对自己宽容一点，不用逼得太紧。也许我可以把标准放低，哪怕只写一个字也算数，这样就不会因为做不到而更难受了。）"
+      }
+    }
+  ],
+  "created": 1794556054,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2597,
+    "total_tokens": 2696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

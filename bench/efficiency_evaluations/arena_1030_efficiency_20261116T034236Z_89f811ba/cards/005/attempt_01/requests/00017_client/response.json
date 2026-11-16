@@ -1,0 +1,47 @@
+{
+  "id": "5fa2cc9ed3d84a23856fd93367d00d74",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "事后回想吧，当场我肯定顾不上。我可以睡前用手机记一下，反正手机本来就在手边。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪种方式更现实，其实是在帮我把目标拆小，让我别一下子压力太大。当场瞄一眼我肯定顾不上，陷进去的时候脑子乱得很，事后回想反而容易些。）\n（而且用手机记下来挺顺手的，我本来手机就不离手。这样等于把那个让我焦虑的东西反过来用，好像也没那么难。）",
+        "reasoning": "（她问我哪种方式更现实，其实是在帮我把目标拆小，让我别一下子压力太大。当场瞄一眼我肯定顾不上，陷进去的时候脑子乱得很，事后回想反而容易些。）\n（而且用手机记下来挺顺手的，我本来手机就不离手。这样等于把那个让我焦虑的东西反过来用，好像也没那么难。）"
+      }
+    }
+  ],
+  "created": 1794800761,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2719,
+    "total_tokens": 2818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2560,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

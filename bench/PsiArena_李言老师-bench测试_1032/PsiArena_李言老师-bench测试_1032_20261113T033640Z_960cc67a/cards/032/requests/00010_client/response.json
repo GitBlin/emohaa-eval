@@ -1,0 +1,41 @@
+{
+  "id": "93f852b2e1b34b038fbc54d0a1967d8f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像两个都躲不开……我妈让我习惯懂事，我爸一沉默我就慌。现在他沉默的时候，我就像又回到那种感觉里，先怪自己是不是哪里没做好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想先说哪一个……其实这两个都缠在一起，分不太开。妈妈那边是得一直懂事，爸爸那边是一沉默我就慌，好像我从小就在这两种感觉里来回转。）\n（现在跟他这样，可能也是这个模式。他一不说话，我就自动开始猜、开始检讨自己，是不是又哪里没做好。说出来有点难堪，但好像确实是这样。）",
+        "reasoning": "（她问我想先说哪一个……其实这两个都缠在一起，分不太开。妈妈那边是得一直懂事，爸爸那边是一沉默我就慌，好像我从小就在这两种感觉里来回转。）\n（现在跟他这样，可能也是这个模式。他一不说话，我就自动开始猜、开始检讨自己，是不是又哪里没做好。说出来有点难堪，但好像确实是这样。）"
+      }
+    }
+  ],
+  "created": 1794549931,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1817,
+    "total_tokens": 1937,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

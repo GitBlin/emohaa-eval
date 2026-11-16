@@ -1,0 +1,41 @@
+{
+  "id": "3bd5e2700b584399a42f407f6d3d2fa4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概会被说不懂事、太自私吧。他们肯定会说“我们这是为你好”。所以我就……习惯了不说，憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我担心说出来会发生什么……这让我想到以前的事。每次我稍微表达一点自己的想法，家里就说我不懂事，说他们是为我好。那种感觉就是，我的感受好像不重要，重要的是别让家里不高兴。）\n（所以我就习惯了不说，把话咽回去。现在想想，可能就是因为这样，我才越来越不知道自己要什么，也越来越怕被人审视。说出来怕被否定，不说又憋得难受。）",
+        "reasoning": "（咨询师问我担心说出来会发生什么……这让我想到以前的事。每次我稍微表达一点自己的想法，家里就说我不懂事，说他们是为我好。那种感觉就是，我的感受好像不重要，重要的是别让家里不高兴。）\n（所以我就习惯了不说，把话咽回去。现在想想，可能就是因为这样，我才越来越不知道自己要什么，也越来越怕被人审视。说出来怕被否定，不说又憋得难受。）"
+      }
+    }
+  ],
+  "created": 1794554727,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1850,
+    "total_tokens": 1966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

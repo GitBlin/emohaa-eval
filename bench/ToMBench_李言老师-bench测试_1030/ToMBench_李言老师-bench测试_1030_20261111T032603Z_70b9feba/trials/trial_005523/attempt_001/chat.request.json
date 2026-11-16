@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:31:36.948815+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nGraduate student Zhang Lei and her classmate Zhao Ming are good friends. Zhao Ming firmly believes that only quantitative methods are effective in academic research, while Zhang Lei thinks that qualitative research is equally important.\n\n[Question]\nHow does Zhang Lei convince Zhao Ming?\n\n[Candidate Answers]\nA. She shows some successful cases of qualitative research, explaining how these studies bring profound insights into specific fields.\nB. She provides a literature review about the impact of qualitative research.\nC. She explains that qualitative and quantitative research complement each other, and their combination provides a more comprehensive perspective.\nD. She raises some key questions, letting Zhao Ming think about how to solve these problems only through quantitative methods.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

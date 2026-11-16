@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:52:13.584295+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe Wang family has 3 sons and 2 daughters. The eldest son, Xiao Ming, after careful consideration and consultation with his parents, decides to pause his career, return home to take care of his father who suffers from a long-term illness, and start a business in his hometown. But his brothers and sisters are very selfish. Mr. Wang knows this is a big sacrifice for Xiao Ming's career development.\n\n[Question]\nMr. Wang should be moved by Xiao Ming's decision, but in fact, he appears angry, why?\n\n[Candidate Answers]\nA. Mr. Wang is angry that Xiao Ming's brothers and sisters do not make the same effort and sacrifice for the family.\nB. Mr. Wang is angry at the medical system, because he thinks they do not provide him with enough support.\nC. Mr. Wang is angry that Xiao Ming makes this important decision without consulting him in advance.\nD. Mr. Wang is angry at Xiao Ming's decision to give up his career, thinking he should focus on his future.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

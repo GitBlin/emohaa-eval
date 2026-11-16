@@ -1,0 +1,41 @@
+{
+  "id": "008ce79acd694fb896da7c078082c427",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）也许……戴上耳机听点东西，或者心里跟自己说，这只是散步，十分钟而已。害怕了就慢慢走回来，不用硬撑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是第一次散步时怎么陪自己度过那点怕。她好像在帮我把那个模糊的恐惧拆成可以应对的小步骤。我其实没仔细想过这个问题，但想到可以听点东西、提醒自己只是散步，心里稍微踏实了一点。不过还是有点怀疑，怕自己到时候又慌起来。）\n（也许可以试试深呼吸，或者提前跟自己说好，害怕了就慢慢走回来，不用硬撑。这样想好像没那么大压力了。咨询师一直在帮我找具体的办法，不是空泛地安慰，这让我愿意再多说一点。）",
+        "reasoning": "（咨询师问的是第一次散步时怎么陪自己度过那点怕。她好像在帮我把那个模糊的恐惧拆成可以应对的小步骤。我其实没仔细想过这个问题，但想到可以听点东西、提醒自己只是散步，心里稍微踏实了一点。不过还是有点怀疑，怕自己到时候又慌起来。）\n（也许可以试试深呼吸，或者提前跟自己说好，害怕了就慢慢走回来，不用硬撑。这样想好像没那么大压力了。咨询师一直在帮我找具体的办法，不是空泛地安慰，这让我愿意再多说一点。）"
+      }
+    }
+  ],
+  "created": 1794557089,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 3071,
+    "total_tokens": 3223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

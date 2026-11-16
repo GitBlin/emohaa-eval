@@ -1,0 +1,41 @@
+{
+  "id": "5ea43415087c49e9b34535febd203f04",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸吧，他对我期望挺高的，总说要做就做到最好。我妈也差不多，反正……在家里，做得不够好是不太会被夸的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我小时候是谁最常这样要求我。这个问题让我一下子想到家里那种氛围，好像做什么都要被评价。我爸妈其实都这样，但说出来又觉得是不是在怪他们，有点犹豫。）\n（我想说又不太敢说，怕显得自己在抱怨父母。而且讲这些过去的事，好像也没什么用吧，都过去那么久了。但心里又确实堵着点什么，说不清楚。）",
+        "reasoning": "（咨询师在问我小时候是谁最常这样要求我。这个问题让我一下子想到家里那种氛围，好像做什么都要被评价。我爸妈其实都这样，但说出来又觉得是不是在怪他们，有点犹豫。）\n（我想说又不太敢说，怕显得自己在抱怨父母。而且讲这些过去的事，好像也没什么用吧，都过去那么久了。但心里又确实堵着点什么，说不清楚。）"
+      }
+    }
+  ],
+  "created": 1794557930,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1731,
+    "total_tokens": 1852,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

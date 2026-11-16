@@ -1,0 +1,41 @@
+{
+  "id": "a74e82dc41634120add8b8692a5140be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心跳会快，手心有点汗，就坐不住，非得马上确认一下。挺夸张的吧，明明不是什么大事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我翻记录时的身体和情绪感受，这让我想起那种坐立不安的状态。她好像很关注我当下的体验，而不是急着给建议，这让我稍微放松了一点。）\n（但说到“必须马上确认”，我有点担心她会觉得我太夸张。不过既然已经聊到这儿了，还是试着描述清楚吧，那种紧张感确实很折磨人。）",
+        "reasoning": "（咨询师在问我翻记录时的身体和情绪感受，这让我想起那种坐立不安的状态。她好像很关注我当下的体验，而不是急着给建议，这让我稍微放松了一点。）\n（但说到“必须马上确认”，我有点担心她会觉得我太夸张。不过既然已经聊到这儿了，还是试着描述清楚吧，那种紧张感确实很折磨人。）"
+      }
+    }
+  ],
+  "created": 1794554112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1769,
+    "total_tokens": 1876,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

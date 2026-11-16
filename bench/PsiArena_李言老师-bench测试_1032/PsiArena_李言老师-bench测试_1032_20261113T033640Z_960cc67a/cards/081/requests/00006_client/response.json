@@ -1,0 +1,41 @@
+{
+  "id": "ba87d2cf170a445b870aadb6bfa3f76e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里、公司都试过，好像哪儿都不对。（顿了顿，试探地）那个……如果我平时也有问题想问你，是不是只能等到下次咨询？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有觉得我矫情，反而说硬撑更累，这让我稍微放松了一点。但他问起看书的环境，我其实不太想细说，因为说起来就觉得自己连个像样的读书角落都弄不好，有点丢人。）\n（不过既然他问了，我还是简单提一下家里和公司都试过吧，但效果都不好。然后我想试探一下——如果咨询之外我也找他聊这些，他会不会觉得我太依赖？毕竟我连自己都搞不定，可能确实需要多一个人在旁边看着。）",
+        "reasoning": "（咨询师没有觉得我矫情，反而说硬撑更累，这让我稍微放松了一点。但他问起看书的环境，我其实不太想细说，因为说起来就觉得自己连个像样的读书角落都弄不好，有点丢人。）\n（不过既然他问了，我还是简单提一下家里和公司都试过吧，但效果都不好。然后我想试探一下——如果咨询之外我也找他聊这些，他会不会觉得我太依赖？毕竟我连自己都搞不定，可能确实需要多一个人在旁边看着。）"
+      }
+    }
+  ],
+  "created": 1794545377,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1352,
+    "total_tokens": 1498,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

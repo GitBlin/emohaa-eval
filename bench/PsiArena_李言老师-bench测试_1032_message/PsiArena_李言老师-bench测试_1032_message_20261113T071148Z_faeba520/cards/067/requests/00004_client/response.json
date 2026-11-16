@@ -1,0 +1,41 @@
+{
+  "id": "65e3fd2735c14b12aa263e4323e4a639",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……处理邮件啊，开会啊这些。有时候家里有点事，我脑子里就乱乱的。不过这些……应该大家都有的吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我走神前在做什么，这让我有点紧张。他好像想往深处问，但我还没准备好说太多家里的事。毕竟现在才刚开始，我不知道他会不会像别人一样评判我。）\n（不过他说不奇怪，还夸我注意到它，这让我稍微放松一点。也许可以试探着说一点点，但不用说得太清楚。就提一下家里的事情吧，看看他会怎么反应。）",
+        "reasoning": "（咨询师问我走神前在做什么，这让我有点紧张。他好像想往深处问，但我还没准备好说太多家里的事。毕竟现在才刚开始，我不知道他会不会像别人一样评判我。）\n（不过他说不奇怪，还夸我注意到它，这让我稍微放松一点。也许可以试探着说一点点，但不用说得太清楚。就提一下家里的事情吧，看看他会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1794556944,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1159,
+    "total_tokens": 1277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

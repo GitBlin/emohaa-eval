@@ -1,0 +1,41 @@
+{
+  "id": "ad4f291e809148b984da9cffb5f748fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想要……按自己的方式来，不要每次做决定都先想她会不会不高兴。可我又怕，真那样了，家里会闹得很难看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我真正想要什么……这个问题让我心里有点发紧。我好像很少这样直接去想自己，平时都是先想我妈会怎么反应。现在被这么一问，反而觉得有点空，好像自己的那部分被压得太久了，得慢慢找回来。）\n（而且我确实怕，怕真按自己的来，家里就不得安宁。可我又不想一直这样下去。这种矛盾卡在中间，让我不知道该怎么回答才准确。）",
+        "reasoning": "（她问我真正想要什么……这个问题让我心里有点发紧。我好像很少这样直接去想自己，平时都是先想我妈会怎么反应。现在被这么一问，反而觉得有点空，好像自己的那部分被压得太久了，得慢慢找回来。）\n（而且我确实怕，怕真按自己的来，家里就不得安宁。可我又不想一直这样下去。这种矛盾卡在中间，让我不知道该怎么回答才准确。）"
+      }
+    }
+  ],
+  "created": 1794542566,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2114,
+    "total_tokens": 2240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

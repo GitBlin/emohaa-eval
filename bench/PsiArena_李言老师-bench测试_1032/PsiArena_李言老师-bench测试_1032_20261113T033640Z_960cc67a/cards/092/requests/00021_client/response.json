@@ -1,0 +1,41 @@
+{
+  "id": "b11f69bf979b49faaae3d1d31d7dc6c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试试课堂发言吧，哪怕就说一句。以前总怕说不好，现在想慢慢来，不用一下子就很厉害。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算从哪件事开始自己扛，这让我有点紧张。我不想显得太刻意，但确实有些小事一直想自己试试。比如课堂发言，每次看到姐姐被点名，我就更不敢开口了。）\n（也许可以从这种小事开始，不用太着急。先试试每周自己主动说一次，哪怕只是简单的一句话。这样应该不会太有压力，也能慢慢找到自己的节奏。）",
+        "reasoning": "（她问我打算从哪件事开始自己扛，这让我有点紧张。我不想显得太刻意，但确实有些小事一直想自己试试。比如课堂发言，每次看到姐姐被点名，我就更不敢开口了。）\n（也许可以从这种小事开始，不用太着急。先试试每周自己主动说一次，哪怕只是简单的一句话。这样应该不会太有压力，也能慢慢找到自己的节奏。）"
+      }
+    }
+  ],
+  "created": 1794546107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2700,
+    "total_tokens": 2812,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

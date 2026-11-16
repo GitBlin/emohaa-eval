@@ -1,0 +1,41 @@
+{
+  "id": "66fe6bad8859451a9e59eeef1bf54b39",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上个月有个培训名额，我本来想报……后来我妈说“别分心，先把手头做好”，我就没报了。现在想想，还是有点堵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问起最近一次因为父母看法改掉的决定……这让我想起上个月的事。其实我本来不想提的，但既然已经说到这儿了，好像也藏不住。）\n（我该怎么说呢？直接说“我推掉了一个培训”会不会显得太软弱？但确实就是那样。当时我妈说“别分心”，我就没再坚持。现在想想，心里还是有点堵。）",
+        "reasoning": "（她刚才问起最近一次因为父母看法改掉的决定……这让我想起上个月的事。其实我本来不想提的，但既然已经说到这儿了，好像也藏不住。）\n（我该怎么说呢？直接说“我推掉了一个培训”会不会显得太软弱？但确实就是那样。当时我妈说“别分心”，我就没再坚持。现在想想，心里还是有点堵。）"
+      }
+    }
+  ],
+  "created": 1794544770,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1986,
+    "total_tokens": 2109,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

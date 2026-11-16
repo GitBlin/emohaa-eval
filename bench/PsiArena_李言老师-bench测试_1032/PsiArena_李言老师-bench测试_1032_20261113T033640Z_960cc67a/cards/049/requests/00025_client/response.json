@@ -1,0 +1,41 @@
+{
+  "id": "1ed34baae0ec45aeba413ceca2a442b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是肩膀先绷起来，呼吸也跟着变浅。这个我最近留意到了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是身体上最先注意到的变化，这让我得往下沉一点去感受。以前我总想绕开，但这次既然说了想分清，就试着老实说。）\n（肩膀和呼吸，这两个地方最明显。说出来的时候有点别扭，好像承认自己一直在绷着，可这也是我最近慢慢能看清的事。）",
+        "reasoning": "（咨询师问的是身体上最先注意到的变化，这让我得往下沉一点去感受。以前我总想绕开，但这次既然说了想分清，就试着老实说。）\n（肩膀和呼吸，这两个地方最明显。说出来的时候有点别扭，好像承认自己一直在绷着，可这也是我最近慢慢能看清的事。）"
+      }
+    }
+  ],
+  "created": 1794543614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3071,
+    "total_tokens": 3161,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

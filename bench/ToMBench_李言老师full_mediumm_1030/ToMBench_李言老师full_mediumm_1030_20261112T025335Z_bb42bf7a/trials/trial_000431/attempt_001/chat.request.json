@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:12.314015+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiao Hong and Xiao Fang watch other children play on the playground. They chat about some interesting things happening on the playground and plan to go to the park together after school. Suddenly, Xiao Hong gives Xiao Fang a look and looks at Xiao Mei on the swing. Then, Xiao Hong smiles at Xiao Fang. Xiao Fang nods, and the two walk towards Xiao Mei. Xiao Mei sees these two girls she is not familiar with coming towards her. She notices their previous eye contact and smiles. Although the three are in the same class, Xiao Mei does not talk to them before.\n\n[Question]\nWhat does Xiao Mei do next?\n\n[Candidate Answers]\nA. She ignores Xiao Hong and Xiao Fang and goes to talk to her best friend about her feelings.\nB. She imagines that Xiao Hong and Xiao Fang just want to make new friends and mean no harm.\nC. She goes directly to Xiao Hong and Xiao Fang, greets them, and asks if they need help or want to play together.\nD. She ignores the behavior of Xiao Hong and Xiao Fang and focuses on playing on the swing.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

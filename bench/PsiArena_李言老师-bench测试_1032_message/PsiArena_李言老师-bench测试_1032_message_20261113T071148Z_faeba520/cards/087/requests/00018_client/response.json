@@ -1,0 +1,41 @@
+{
+  "id": "a3c6d2dcf8e64b1c97f575ed8c5395eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……比如那天我明明想刷手机，但忍住了，早点躺下了。虽然还是没睡好，但至少没刷。以前我只会觉得“看吧，早睡也没用”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我找件小事重新看。说实话我第一反应还是想挑个自己做得差的事，但她说“还没放弃”，那我试着想想……嗯，那天没刷手机，虽然早睡了但还是没睡好。以前我会觉得这算失败，可至少我试了。）\n（这么说出来好像没那么难堪。她没催我，我反而能慢慢想。也许可以先从这种小地方开始，不一下子要求自己彻底改掉。）",
+        "reasoning": "（她让我找件小事重新看。说实话我第一反应还是想挑个自己做得差的事，但她说“还没放弃”，那我试着想想……嗯，那天没刷手机，虽然早睡了但还是没睡好。以前我会觉得这算失败，可至少我试了。）\n（这么说出来好像没那么难堪。她没催我，我反而能慢慢想。也许可以先从这种小地方开始，不一下子要求自己彻底改掉。）"
+      }
+    }
+  ],
+  "created": 1794558085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2618,
+    "total_tokens": 2757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

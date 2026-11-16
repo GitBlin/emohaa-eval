@@ -1,0 +1,41 @@
+{
+  "id": "a9145d263f734fa3b0a5aa3f58d320d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……好吧。其实我也不太确定该从哪儿说。就是最近总觉得人很累，晚上也睡不好，白天上班又集中不了精神。嗯，你们这里说的话，都是保密的吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以从最想说的开始，节奏由我掌握。但我还是不太确定该说到什么程度，毕竟第一次见面，谁知道他会不会把我的事说出去。先试探一下保密的事情吧，这样心里能踏实点。不过也不能显得太防备，简单问一下就好。）",
+        "reasoning": "（咨询师说可以从最想说的开始，节奏由我掌握。但我还是不太确定该说到什么程度，毕竟第一次见面，谁知道他会不会把我的事说出去。先试探一下保密的事情吧，这样心里能踏实点。不过也不能显得太防备，简单问一下就好。）"
+      }
+    }
+  ],
+  "created": 1794545755,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1015,
+    "total_tokens": 1120,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

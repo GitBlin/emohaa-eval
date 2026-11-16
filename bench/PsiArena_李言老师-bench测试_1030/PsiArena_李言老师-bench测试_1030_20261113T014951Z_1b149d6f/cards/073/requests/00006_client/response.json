@@ -1,0 +1,41 @@
+{
+  "id": "291be88fa20844338a894e067b1c22e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近一次……好像是我妈打电话来，问我工作怎么样。我其实特别累，但最后只说“挺好的”。说了她也不会懂，反而要问东问西。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次话到嘴边没说的是什么……这让我有点不知道从哪说起。其实这种事太多了，每天都在发生，真的要说反而觉得都是小事。）\n（我不想说得太细，那些事说出来好像显得我很矫情。而且她会不会觉得我太敏感了，一点小事都放心上。还是先含糊带过去吧，看看她怎么接。）",
+        "reasoning": "（她问我最近一次话到嘴边没说的是什么……这让我有点不知道从哪说起。其实这种事太多了，每天都在发生，真的要说反而觉得都是小事。）\n（我不想说得太细，那些事说出来好像显得我很矫情。而且她会不会觉得我太敏感了，一点小事都放心上。还是先含糊带过去吧，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1794538515,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1470,
+    "total_tokens": 1584,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

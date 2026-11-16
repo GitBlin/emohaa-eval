@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:19:08.593928+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nFatemeh, an Iranian student studying in the US, invited her classmate Janice over for lunch. As per Iranian tradition, Fatemeh immediately offered Janice slippers to wear inside the house, which Janice politely declined, saying she prefers her own shoes.\n\n## Question 1\nWhat emotion(s) would Janice ultimately feel in this situation?\n\n## Choices for Question 1\nA) Annoyance & Relief\nB) Annoyance & Oblivious\nC) Relief & Oblivious\nD) Guilt & Gratitude\nE) Gratitude & Oblivious\nF) Disapproval & Gratitude\n\n## Question 2\nWhy would Janice feel these emotions in this situation?\n\n## Choices for Question 2\nA) Fatemeh offered her a comforting meal & Fatemeh didn't like her shoes\nB) She was relieved that Fatemeh didn't insist on her wearing slippers inside the house & Fatemeh didn't like her shoes\nC) She is not aware of the Iranian tradition of not wearing shoes in the house & Fatemeh offered her slippers to wear in the house\nD) She is not aware of the Iranian tradition of not wearing shoes in the house & Fatemeh didn't like her shoes\nE) She is not aware of the Iranian tradition of not wearing shoes in the house & She rejected the offered slippers because she doesn't like slippers\nF) She was relieved that Fatemeh didn't insist on her wearing slippers inside the house & Fatemeh offered her slippers to wear in the house\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "109ce063a73d42b3adcee1dd68e59eb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一阵子了吧……具体哪天也记不清了。就是想到上班，心里就发紧。嗯……我这么说，你会不会觉得我太矫情了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我心慌和睡不好的起始时间，看来是想帮我理清症状的脉络。但我现在还没完全信任她，直接说太多细节会不会不安全？毕竟这些事我连家里人都没细说过。）\n（不过她语气挺温和的，也没急着下结论。或许可以先模糊地提一下工作相关的感受，试探她会不会像别人那样劝我“想开点”。要是她表现出理解，我再多说一点。）",
+        "reasoning": "（咨询师在问我心慌和睡不好的起始时间，看来是想帮我理清症状的脉络。但我现在还没完全信任她，直接说太多细节会不会不安全？毕竟这些事我连家里人都没细说过。）\n（不过她语气挺温和的，也没急着下结论。或许可以先模糊地提一下工作相关的感受，试探她会不会像别人那样劝我“想开点”。要是她表现出理解，我再多说一点。）"
+      }
+    }
+  ],
+  "created": 1794538948,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1090,
+    "total_tokens": 1219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

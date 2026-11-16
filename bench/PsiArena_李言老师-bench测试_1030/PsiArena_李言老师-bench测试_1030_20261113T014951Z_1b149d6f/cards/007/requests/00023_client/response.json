@@ -1,0 +1,41 @@
+{
+  "id": "735d9840542f47ef8e637b42ef35873a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一个人……他话不多，偶尔还会问我要不要一起去吃饭。（犹豫）要不，我先问他一句作业的事？这个我稍微有点底。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到先从最不吓人的那个人开始搭话，我心里其实有点动，但又觉得没那么容易。宿舍里那个室友确实没那么吵，可我还是怕自己一开口就冷场。）\n（不过想了想，总比一直隔着玻璃强。我可以先试试问他个简单的事，哪怕就一句，做不做得到再说。这样定下来，好像也没那么吓人。）",
+        "reasoning": "（咨询师提到先从最不吓人的那个人开始搭话，我心里其实有点动，但又觉得没那么容易。宿舍里那个室友确实没那么吵，可我还是怕自己一开口就冷场。）\n（不过想了想，总比一直隔着玻璃强。我可以先试试问他个简单的事，哪怕就一句，做不做得到再说。这样定下来，好像也没那么吓人。）"
+      }
+    }
+  ],
+  "created": 1794534897,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3290,
+    "total_tokens": 3406,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

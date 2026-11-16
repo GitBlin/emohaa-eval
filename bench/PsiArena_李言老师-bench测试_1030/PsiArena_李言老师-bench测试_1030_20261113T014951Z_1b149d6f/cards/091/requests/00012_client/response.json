@@ -1,0 +1,41 @@
+{
+  "id": "f0f75ad5989449cd935105cec0037ebd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）可能……是我妈的语气吧。她不会骂我，就是那种淡淡的失望，比骂还难受。我是不是把她说的话，变成自己跟自己说了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“家里的方式”和“谁的声音”，我心里一下子被戳到了。那种自责的语气，确实太像我妈了，可我以前从没这么直接地想过。说出来有点难堪，好像承认了我就真的一直在替她管着自己。）\n（但我也在想，是不是我太敏感了，把小时候的事放大了。毕竟爸妈也是为我好，我这样怪他们，会不会显得我很不知好歹？可那种声音确实一直在，压得我喘不过气。）",
+        "reasoning": "（咨询师提到“家里的方式”和“谁的声音”，我心里一下子被戳到了。那种自责的语气，确实太像我妈了，可我以前从没这么直接地想过。说出来有点难堪，好像承认了我就真的一直在替她管着自己。）\n（但我也在想，是不是我太敏感了，把小时候的事放大了。毕竟爸妈也是为我好，我这样怪他们，会不会显得我很不知好歹？可那种声音确实一直在，压得我喘不过气。）"
+      }
+    }
+  ],
+  "created": 1794539900,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2163,
+    "total_tokens": 2306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ef9468d07ca4c19b0ce772d05c4d270",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）没说过，好像也不好意思说这种话。不过……也许我可以给她打个电话，就随便聊聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她突然提到外婆，我一下子有点想哭。外婆是那种不会问我考多少分的人，可我却很少主动找她，总觉得没什么好说的，怕她担心。）\n（现在想想，其实是我自己把话都憋着，连想她都不敢说。咨询师问得挺轻的，我却觉得心里被戳了一下。也许我可以试着给外婆打个电话，不用说什么大事，就听听她声音也好。）",
+        "reasoning": "（她突然提到外婆，我一下子有点想哭。外婆是那种不会问我考多少分的人，可我却很少主动找她，总觉得没什么好说的，怕她担心。）\n（现在想想，其实是我自己把话都憋着，连想她都不敢说。咨询师问得挺轻的，我却觉得心里被戳了一下。也许我可以试着给外婆打个电话，不用说什么大事，就听听她声音也好。）"
+      }
+    }
+  ],
+  "created": 1794555778,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2902,
+    "total_tokens": 3019,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

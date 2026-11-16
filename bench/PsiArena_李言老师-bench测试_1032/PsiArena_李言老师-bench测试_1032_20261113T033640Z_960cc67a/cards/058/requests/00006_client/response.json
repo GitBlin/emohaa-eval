@@ -1,0 +1,41 @@
+{
+  "id": "826c0d8147a44a109fb00962a91204e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是开会的时候吧，同事说了句“这个方案还可以再想想”，语气好像也没什么。可我一整晚都在想，是不是我做得不够好……你说，如果我跟朋友讲，他们会不会觉得我太较真了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在问具体情境了……说实话我不太想立刻说，怕说出来显得自己太计较。不过刚才他说的“取决于亲近程度”让我有点在意，朋友到底会怎么看我这种反复琢磨的人呢。也许可以先说一点，但别说得太细，看看他会不会像别人那样觉得我小题大做。）\n（而且我确实有点担心，如果连朋友都觉得我太敏感，那我是不是真的有问题。这种担心比那句话本身还让我难受。不如先问问他的看法，试探一下他会不会也那样想。）",
+        "reasoning": "（咨询师又在问具体情境了……说实话我不太想立刻说，怕说出来显得自己太计较。不过刚才他说的“取决于亲近程度”让我有点在意，朋友到底会怎么看我这种反复琢磨的人呢。也许可以先说一点，但别说得太细，看看他会不会像别人那样觉得我小题大做。）\n（而且我确实有点担心，如果连朋友都觉得我太敏感，那我是不是真的有问题。这种担心比那句话本身还让我难受。不如先问问他的看法，试探一下他会不会也那样想。）"
+      }
+    }
+  ],
+  "created": 1794544016,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 1389,
+    "total_tokens": 1552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

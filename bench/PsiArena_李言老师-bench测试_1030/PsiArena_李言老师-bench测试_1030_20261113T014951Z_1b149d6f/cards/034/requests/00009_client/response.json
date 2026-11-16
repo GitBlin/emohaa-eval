@@ -1,0 +1,41 @@
+{
+  "id": "ecd4526f20ba4f6e84188ba4b9938e45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……我妈吧。她从来没明说过，但那种眼神、那种态度，我好像一直都知道她在想什么。奇怪的是，有时候我都分不清那到底是她的声音，还是我自己的了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音像谁在说话……这让我一下子想到我妈。小时候她从来不跟我谈这些，但那种“女孩子要矜持”的态度到处都是，都不用明说。我是不是一直把她的话当成自己的了？）\n（可我又觉得，那也不全是我妈。好像周围所有人都是这么看的，同学、亲戚，连电视里都是。我分不清到底是谁的声音了，反正就是有个东西一直在压着我，让我觉得自己想那些就是错的。）",
+        "reasoning": "（她问我那个声音像谁在说话……这让我一下子想到我妈。小时候她从来不跟我谈这些，但那种“女孩子要矜持”的态度到处都是，都不用明说。我是不是一直把她的话当成自己的了？）\n（可我又觉得，那也不全是我妈。好像周围所有人都是这么看的，同学、亲戚，连电视里都是。我分不清到底是谁的声音了，反正就是有个东西一直在压着我，让我觉得自己想那些就是错的。）"
+      }
+    }
+  ],
+  "created": 1794536230,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1786,
+    "total_tokens": 1928,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f61acf3516c046be81fbd012fadb49c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是挺累的……有时候在学校忍了一天，回到家就绷不住了。我总觉得自己好像有两副面孔，也不知道哪个才是真的我。是不是别人都能分得清，就我不行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了家里和工作之间的切换，这让我想起很多事。他说得对，这种来回切换确实很消耗，但好像不只是消耗那么简单。）\n（我从小家里就鼓励表达，可学校里那种环境又不一样。我有时候会想，是不是我太把家里的习惯带进工作里了？别人好像都能分得很清楚，就我做不到。这种想法让我有点自责，又有点委屈。）",
+        "reasoning": "（咨询师提到了家里和工作之间的切换，这让我想起很多事。他说得对，这种来回切换确实很消耗，但好像不只是消耗那么简单。）\n（我从小家里就鼓励表达，可学校里那种环境又不一样。我有时候会想，是不是我太把家里的习惯带进工作里了？别人好像都能分得很清楚，就我做不到。这种想法让我有点自责，又有点委屈。）"
+      }
+    }
+  ],
+  "created": 1794555876,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1664,
+    "total_tokens": 1791,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

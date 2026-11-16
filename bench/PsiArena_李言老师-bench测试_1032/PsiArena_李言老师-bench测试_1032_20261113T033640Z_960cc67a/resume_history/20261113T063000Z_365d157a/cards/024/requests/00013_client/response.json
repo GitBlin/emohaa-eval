@@ -1,0 +1,41 @@
+{
+  "id": "d06acdf434fc4b308f7a020dff7f0f98",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能想先跟她说一句：我不是故意跟您对着干。说完这句，我大概就不知道往下怎么说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想说的第一句话是什么……这让我有点紧张。我其实从来没想过能直接对婆婆说什么，总觉得开口就会变成顶嘴。）\n（可如果真要说，我可能还是想先让她知道，我不是故意跟她对着干。毕竟这么多年了，我都是忍着，现在突然要开口，心里很没底。）",
+        "reasoning": "（咨询师问我最想说的第一句话是什么……这让我有点紧张。我其实从来没想过能直接对婆婆说什么，总觉得开口就会变成顶嘴。）\n（可如果真要说，我可能还是想先让她知道，我不是故意跟她对着干。毕竟这么多年了，我都是忍着，现在突然要开口，心里很没底。）"
+      }
+    }
+  ],
+  "created": 1794549274,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2019,
+    "total_tokens": 2118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e0328c1d52c9446188126e41f880a934",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最早啊……应该是我妈吧。她总说“女孩子要管住嘴”，我爸虽然不怎么说，但那种眼神我也记得。可我又觉得，他们也是为我好……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这个声音最早来自谁，让我有点被戳到的感觉。其实我心里清楚，这声音就是爸妈的，只是平时不太愿意承认。）\n（可我又有点犹豫，不想把责任全推给他们，毕竟他们也是为我好。但那个“为你好”确实一直压着我，让我到现在都放不下。）",
+        "reasoning": "（咨询师在问我这个声音最早来自谁，让我有点被戳到的感觉。其实我心里清楚，这声音就是爸妈的，只是平时不太愿意承认。）\n（可我又有点犹豫，不想把责任全推给他们，毕竟他们也是为我好。但那个“为你好”确实一直压着我，让我到现在都放不下。）"
+      }
+    }
+  ],
+  "created": 1794545646,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2140,
+    "total_tokens": 2250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

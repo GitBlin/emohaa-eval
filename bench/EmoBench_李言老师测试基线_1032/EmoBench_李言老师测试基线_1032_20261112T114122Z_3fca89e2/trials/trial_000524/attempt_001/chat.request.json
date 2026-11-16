@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T11:43:57.299392+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer\": \"<Respond with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nAfter a very tough breakup, Nathan is struggling to overcome feelings of sadness and loneliness, while facing serious financial issues. He finds it hard to focus on anything else.\n\n## Question \nIn this scenario, what is the most effective Action for Nathan?\n\n## Choices\nA) Start exercising daily to get his mind off of the breakup\nB) Start going out more and make new friends\nC) Find a therapist to help cope with his feelings\nD) Start taking medication to help with his sadness and loneliness\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7dc06745c2f448c88f374b5fad88e3bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是我爸妈吧……他们都是老师，家里规矩挺多的。做得好是应该的，做不好就……反正很少听他们说“没关系”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我“别太黏人”这句话最早是从谁那里听来的，这让我一下子回到了小时候。父母都是教师，家里规矩多，他们总说“自己的事情自己做”，虽然语气温和，但那种期待让我不敢松懈。我好像从小就学会了把情绪藏起来，怕给他们添麻烦。）\n（现在想想，我可能一直在用“独立”来要求自己，连难过的时候都觉得不该表现出来。这种习惯让我很难承认自己需要别人，更别说去依赖了。可心里那份空落落的感觉，又好像一直在提醒我，有些东西被压得太久了。）",
+        "reasoning": "（咨询师问我“别太黏人”这句话最早是从谁那里听来的，这让我一下子回到了小时候。父母都是教师，家里规矩多，他们总说“自己的事情自己做”，虽然语气温和，但那种期待让我不敢松懈。我好像从小就学会了把情绪藏起来，怕给他们添麻烦。）\n（现在想想，我可能一直在用“独立”来要求自己，连难过的时候都觉得不该表现出来。这种习惯让我很难承认自己需要别人，更别说去依赖了。可心里那份空落落的感觉，又好像一直在提醒我，有些东西被压得太久了。）"
+      }
+    }
+  ],
+  "created": 1794536774,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 1875,
+    "total_tokens": 2030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

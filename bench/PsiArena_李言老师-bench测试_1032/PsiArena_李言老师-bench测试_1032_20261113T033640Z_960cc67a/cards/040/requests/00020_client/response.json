@@ -1,0 +1,41 @@
+{
+  "id": "4eb1b96daa1749d790249f7deebb606a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "基本都是一个人扛着。也不是没人可说，就是……翻着通讯录，不知道能跟谁讲，讲了也怕被看轻。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是快绷不住时是有人陪着还是一个人扛。这让我想到那些晚上，一个人对着电脑发呆，想找人说又不知道找谁。）\n（我其实挺想找个能说话的人，可翻遍手机又觉得谁都不合适。说出来怕被看轻，尤其不想让她知道我这么在意。这种憋着的感觉，真的很难受。）",
+        "reasoning": "（咨询师问的是快绷不住时是有人陪着还是一个人扛。这让我想到那些晚上，一个人对着电脑发呆，想找人说又不知道找谁。）\n（我其实挺想找个能说话的人，可翻遍手机又觉得谁都不合适。说出来怕被看轻，尤其不想让她知道我这么在意。这种憋着的感觉，真的很难受。）"
+      }
+    }
+  ],
+  "created": 1794543123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2836,
+    "total_tokens": 2944,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

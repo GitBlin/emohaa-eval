@@ -1,0 +1,41 @@
+{
+  "id": "40dfab048e42482ea80f65535a964460",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她别急着评价，哪怕只说一句“听起来你挺难受的”。这样我可能就敢多讲一点了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望听到什么样的回应……这个问题让我有点愣住。我好像从来没认真想过别人该怎么回应我，只知道自己害怕听到什么。现在要我说出想要的，反而有点不习惯。）\n（也许我真正想要的就是被认真对待吧。不是被评价、被分析，就是有人听我说完，不急着下结论。这样想的话，好像也没那么难开口了。）",
+        "reasoning": "（她问我希望听到什么样的回应……这个问题让我有点愣住。我好像从来没认真想过别人该怎么回应我，只知道自己害怕听到什么。现在要我说出想要的，反而有点不习惯。）\n（也许我真正想要的就是被认真对待吧。不是被评价、被分析，就是有人听我说完，不急着下结论。这样想的话，好像也没那么难开口了。）"
+      }
+    }
+  ],
+  "created": 1794545683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2767,
+    "total_tokens": 2876,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

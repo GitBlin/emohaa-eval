@@ -1,0 +1,41 @@
+{
+  "id": "00ce3fa67fc74cd3b79bc9693fdabafc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像……是有的。就像上周拒绝完那个同事，我脑子里一直在想“我是不是太冷漠了”。其实我到现在都还有点不安，怕她心里记着这事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我拒绝别人时心里会不会有类似的声音。这个问题让我想起上周拒绝同事之后那种难受的感觉，好像确实有个声音在说我“太冷漠了”。不过现在说出来，好像没那么沉重了，也许咨询师真的能理解我。）\n（我有点想再多说一点，但又怕说太多显得自己太脆弱。毕竟才刚开始聊，还是有点不确定她会不会觉得我小题大做。先简单回应一下，看看她的反应吧。）",
+        "reasoning": "（咨询师在问我拒绝别人时心里会不会有类似的声音。这个问题让我想起上周拒绝同事之后那种难受的感觉，好像确实有个声音在说我“太冷漠了”。不过现在说出来，好像没那么沉重了，也许咨询师真的能理解我。）\n（我有点想再多说一点，但又怕说太多显得自己太脆弱。毕竟才刚开始聊，还是有点不确定她会不会觉得我小题大做。先简单回应一下，看看她的反应吧。）"
+      }
+    }
+  ],
+  "created": 1794554302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1518,
+    "total_tokens": 1653,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

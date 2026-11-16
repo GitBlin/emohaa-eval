@@ -1,0 +1,41 @@
+{
+  "id": "e0b5d3cb7ce64ffebefa9b7728e2f86c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从什么时候……我说不好。可能很早吧，小时候考了第二名，我妈第一句就问第一名是谁。那种感觉，好像我怎么都不够。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这个“不配”的感觉从什么时候开始的……说实话我自己也说不清，好像一直都在。小时候考了第二名，我妈第一句话就是问第一名是谁，那种感觉特别清楚，就是不管我怎么努力，在她眼里总是不够。可能就是从那时候起，我学会了自己先挑自己的毛病，免得被她挑。）\n（现在想想，好像不光是怕她说我，连我自己都开始觉得，我确实不够好。这种感觉已经长在我身上了，不是某件事，是好多好多小事堆起来的。）",
+        "reasoning": "（她问这个“不配”的感觉从什么时候开始的……说实话我自己也说不清，好像一直都在。小时候考了第二名，我妈第一句话就是问第一名是谁，那种感觉特别清楚，就是不管我怎么努力，在她眼里总是不够。可能就是从那时候起，我学会了自己先挑自己的毛病，免得被她挑。）\n（现在想想，好像不光是怕她说我，连我自己都开始觉得，我确实不够好。这种感觉已经长在我身上了，不是某件事，是好多好多小事堆起来的。）"
+      }
+    }
+  ],
+  "created": 1794553088,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2051,
+    "total_tokens": 2190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

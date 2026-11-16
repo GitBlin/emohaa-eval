@@ -1,0 +1,41 @@
+{
+  "id": "17011b79dbe342a49d03a7dbea979fa0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次他说“我都没怎么学，随便考的”，旁边人还笑，说他太谦虚了。（抿嘴）我听到这种就特别别扭，好像我认真学反而显得很笨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是那个同学具体说了什么让我最在意，可我一想到那些话就有点烦。其实不只是那句话本身，还有他说完之后别人看他的眼神，好像他特别厉害似的。）\n（我可能更在意的是那种被比较的感觉吧，明明我也在努力，可他一说“我都没怎么学”，我就觉得自己好像特别笨。这种话听多了，真的会让我开始怀疑自己。）",
+        "reasoning": "（他问的是那个同学具体说了什么让我最在意，可我一想到那些话就有点烦。其实不只是那句话本身，还有他说完之后别人看他的眼神，好像他特别厉害似的。）\n（我可能更在意的是那种被比较的感觉吧，明明我也在努力，可他一说“我都没怎么学”，我就觉得自己好像特别笨。这种话听多了，真的会让我开始怀疑自己。）"
+      }
+    }
+  ],
+  "created": 1794541674,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2125,
+    "total_tokens": 2252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

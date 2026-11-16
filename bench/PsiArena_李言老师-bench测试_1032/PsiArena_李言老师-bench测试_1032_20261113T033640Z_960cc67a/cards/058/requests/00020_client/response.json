@@ -1,0 +1,41 @@
+{
+  "id": "8d900d2bcd66409f82ceac26f46dd2c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，就我一个人住。有时候会想给我妈发消息，可又觉得大半夜的，她明天还要上课。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我半夜醒来是不是一个人待着……这问题让我心里有点发酸。其实每次醒来都是一个人，房间里安静得能听见自己的呼吸。我不想显得太可怜，但确实是这样。）\n（我想到可以提一句我妈，但马上又觉得没必要说得太细。她可能只是想知道我有没有人能说说话。我其实不太想承认自己连半夜都没人可以找，但这就是事实。）",
+        "reasoning": "（她问我半夜醒来是不是一个人待着……这问题让我心里有点发酸。其实每次醒来都是一个人，房间里安静得能听见自己的呼吸。我不想显得太可怜，但确实是这样。）\n（我想到可以提一句我妈，但马上又觉得没必要说得太细。她可能只是想知道我有没有人能说说话。我其实不太想承认自己连半夜都没人可以找，但这就是事实。）"
+      }
+    }
+  ],
+  "created": 1794544080,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2923,
+    "total_tokens": 3035,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

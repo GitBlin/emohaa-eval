@@ -1,0 +1,41 @@
+{
+  "id": "8f93591d54624a41af70dedad237d973",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺久了……可能从父亲生病那会儿就开始了。我也说不太准，好像它就是慢慢变成这样的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种紧绷感持续了多久，好像是想帮我理清时间线。我确实很少留意身体，只是模模糊糊觉得很久了，可能从父亲生病那会儿就开始了。）\n（但我不想一下子把话说死，毕竟这些感觉太模糊了，说出来也怕显得矫情。先承认“挺久了”，再带一点不确定，应该比较自然。）",
+        "reasoning": "（咨询师在问我这种紧绷感持续了多久，好像是想帮我理清时间线。我确实很少留意身体，只是模模糊糊觉得很久了，可能从父亲生病那会儿就开始了。）\n（但我不想一下子把话说死，毕竟这些感觉太模糊了，说出来也怕显得矫情。先承认“挺久了”，再带一点不确定，应该比较自然。）"
+      }
+    }
+  ],
+  "created": 1794543579,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2635,
+    "total_tokens": 2740,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

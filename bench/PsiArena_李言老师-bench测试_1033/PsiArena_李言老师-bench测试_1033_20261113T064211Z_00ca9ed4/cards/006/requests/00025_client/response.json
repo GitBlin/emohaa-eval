@@ -1,0 +1,41 @@
+{
+  "id": "1e29999178454a5ca45e98636d7d9003",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周六下午吧，那天一般没什么事。就先去看看，别的……走一步看一步。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方在引导我具体化行动，这让我觉得有点被推着走，但又不完全是压力。心里确实松了一些，好像真的可以试试看。可一想到要定日子，那种熟悉的犹豫又冒出来了——万一那天单位有事呢？万一去了反而更失望呢？）\n（不过，刚才聊下来，好像也没那么可怕。先定个周六下午吧，时间宽裕些，就算只是去看看也不亏。至于以后，现在想太多也没用，走一步看一步吧。）",
+        "reasoning": "（对方在引导我具体化行动，这让我觉得有点被推着走，但又不完全是压力。心里确实松了一些，好像真的可以试试看。可一想到要定日子，那种熟悉的犹豫又冒出来了——万一那天单位有事呢？万一去了反而更失望呢？）\n（不过，刚才聊下来，好像也没那么可怕。先定个周六下午吧，时间宽裕些，就算只是去看看也不亏。至于以后，现在想太多也没用，走一步看一步吧。）"
+      }
+    }
+  ],
+  "created": 1794552414,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3532,
+    "total_tokens": 3659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

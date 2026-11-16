@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_000149",
+  "sample_id": "Knowledge-Pretend Play Links:2",
+  "task_file": "Knowledge-Pretend Play Links",
+  "ability": "Knowledge: Knowledge-pretend play links",
+  "language": "en",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "C",
+    "B": "A",
+    "C": "B",
+    "D": "D"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "A",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:54:50.620522+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:55:12.207665+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "e64f39857d884820b810ac00b9afa90f"
+  ],
+  "started_at": "2026-11-13T01:54:50.620522+00:00",
+  "finished_at": "2026-11-13T01:55:21.832869+00:00",
+  "elapsed_seconds": 31.212537076324224,
+  "user_id": "liyan_4cc5bdf6db0784bee9072fd2fe5279939c51ca6a"
+}

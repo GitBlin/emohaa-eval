@@ -1,0 +1,41 @@
+{
+  "id": "c86d667f94174a92b6c3733ce88bf10f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多半是有事才去。不过……我想以后交作业的时候，稍微多待一会儿。这样也不算太奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像注意到了我提到办公室时语气不太一样。其实我确实觉得那儿稍微安全点，但主动过去又怕别人觉得奇怪。她问我是主动去还是有事才去，我得说实话，但又不想显得太刻意。）\n（我可能先试试交作业的时候多待一会儿吧。这样至少有个理由，不会太显眼。虽然还是有点担心别人会怎么看，但总比在操场被围着强。）",
+        "reasoning": "（她好像注意到了我提到办公室时语气不太一样。其实我确实觉得那儿稍微安全点，但主动过去又怕别人觉得奇怪。她问我是主动去还是有事才去，我得说实话，但又不想显得太刻意。）\n（我可能先试试交作业的时候多待一会儿吧。这样至少有个理由，不会太显眼。虽然还是有点担心别人会怎么看，但总比在操场被围着强。）"
+      }
+    }
+  ],
+  "created": 1794541187,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2951,
+    "total_tokens": 3066,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

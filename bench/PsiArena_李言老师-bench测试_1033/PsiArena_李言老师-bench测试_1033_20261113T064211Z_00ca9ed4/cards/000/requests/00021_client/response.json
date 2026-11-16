@@ -1,0 +1,41 @@
+{
+  "id": "049030b9f52e4893b993c0bedebd0293",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是发消息给同事的时候吧，措辞改来改去，最后还是怕人家挑毛病。那种时候最容易犯嘀咕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这周最可能撞上什么小错，看来是想帮我把计划落到具体的地方。我想到工作里那些反复检查还怕出错的地方，尤其是给同事发消息的时候，那种怕被挑毛病的紧张感最明显。）\n（这其实也跟我一直以来的习惯有关，总怕自己做得不够好，别人会失望。但既然约定了不先骂自己，或许可以从这个最常出现的小场景开始练习。）",
+        "reasoning": "（咨询师在问我这周最可能撞上什么小错，看来是想帮我把计划落到具体的地方。我想到工作里那些反复检查还怕出错的地方，尤其是给同事发消息的时候，那种怕被挑毛病的紧张感最明显。）\n（这其实也跟我一直以来的习惯有关，总怕自己做得不够好，别人会失望。但既然约定了不先骂自己，或许可以从这个最常出现的小场景开始练习。）"
+      }
+    }
+  ],
+  "created": 1794552220,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3072,
+    "total_tokens": 3196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f3a92929c62f453d8c2889875bae33cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有一次我生病，她们轮流给我送饭，晚上还陪着我聊天。那种被惦记着的感觉，后来好像再也没有过了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我最怀念的时刻，这让我心里一下子涌上很多画面。大学时那些日子确实很温暖，但想到现在，又觉得特别遥远。）\n（也许我该说出一个具体的场景，这样她能更明白我为什么这么失落。不过说着说着，可能又会觉得有点难为情，毕竟都是过去的事了。）",
+        "reasoning": "（她问起我最怀念的时刻，这让我心里一下子涌上很多画面。大学时那些日子确实很温暖，但想到现在，又觉得特别遥远。）\n（也许我该说出一个具体的场景，这样她能更明白我为什么这么失落。不过说着说着，可能又会觉得有点难为情，毕竟都是过去的事了。）"
+      }
+    }
+  ],
+  "created": 1794544420,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1619,
+    "total_tokens": 1719,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

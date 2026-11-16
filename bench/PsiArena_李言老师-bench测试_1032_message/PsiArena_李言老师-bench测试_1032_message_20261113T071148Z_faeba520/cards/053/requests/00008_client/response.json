@@ -1,0 +1,41 @@
+{
+  "id": "3cc8a60842bf43b5b11d381a6c477e9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是昨天晚上，孩子写作业磨蹭，我催了几次他还在玩橡皮，我一下子就火了，冲他喊了几句。他当时眼圈都红了，我心里咯噔一下，特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师抓住了我提到的循环，还肯定了我的觉察。她问最近一次对孩子着急的情况，看来是想让我具体说说。我确实想到昨晚的事，心里就有点堵。）\n（我从小被要求严格，现在对自己孩子也这样，越想越觉得难受。说出来可能显得我很失败，但也许她能帮我理清。就说说昨晚的事吧，我确实挺内疚的。）",
+        "reasoning": "（这位咨询师抓住了我提到的循环，还肯定了我的觉察。她问最近一次对孩子着急的情况，看来是想让我具体说说。我确实想到昨晚的事，心里就有点堵。）\n（我从小被要求严格，现在对自己孩子也这样，越想越觉得难受。说出来可能显得我很失败，但也许她能帮我理清。就说说昨晚的事吧，我确实挺内疚的。）"
+      }
+    }
+  ],
+  "created": 1794556226,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1660,
+    "total_tokens": 1786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

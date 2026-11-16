@@ -1,0 +1,41 @@
+{
+  "id": "1b4b4d31f6fd47429d3e2e6845eea6f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "更像提醒吧，就是那种“你得会处关系，不然以后吃亏”。家里说话都挺温和的，但你能感觉到，他们很在意别人怎么看我们家。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我爸妈说这话时的语气，这让我一下想到很多小时候的场景。他们确实不是凶我，但那种“为你好”的提醒，总让我觉得不努力就会被落下。）\n（家里那种氛围，好像做什么都要考虑别人的看法，连交朋友都变得像在完成任务。我其实一直挺累的，但又说不清到底哪里不对。）",
+        "reasoning": "（咨询师在问我爸妈说这话时的语气，这让我一下想到很多小时候的场景。他们确实不是凶我，但那种“为你好”的提醒，总让我觉得不努力就会被落下。）\n（家里那种氛围，好像做什么都要考虑别人的看法，连交朋友都变得像在完成任务。我其实一直挺累的，但又说不清到底哪里不对。）"
+      }
+    }
+  ],
+  "created": 1794534839,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2122,
+    "total_tokens": 2235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

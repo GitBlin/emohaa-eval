@@ -1,0 +1,41 @@
+{
+  "id": "4a1a0491889848c5841c54e0f7fa01ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "追剧这块我还行，平时也看。要不就从最近在看的剧开始？说这个我至少不会卡住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我想想有什么话题方向，这让我有点紧张但也觉得实际。我平时确实会追剧，也爱吃，这些应该不难开口。不过马上又想到，万一说了没人接怎么办，那场面多尴尬。）\n（但既然都聊到这儿了，总得试试吧。先挑自己最熟的剧来说，至少不会卡壳。而且只是问一句，又不是要讲得多好。）",
+        "reasoning": "（咨询师让我想想有什么话题方向，这让我有点紧张但也觉得实际。我平时确实会追剧，也爱吃，这些应该不难开口。不过马上又想到，万一说了没人接怎么办，那场面多尴尬。）\n（但既然都聊到这儿了，总得试试吧。先挑自己最熟的剧来说，至少不会卡壳。而且只是问一句，又不是要讲得多好。）"
+      }
+    }
+  ],
+  "created": 1794534670,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2739,
+    "total_tokens": 2853,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "eaaa3f7329a644b18d9342003e1abc6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没什么地方放。学校不能说，家里更不能说。有时候晚上刷手机，看别人晒成绩、晒计划，越看越睡不着，然后第二天更没劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我难受有没有地方放，这让我有点不知道怎么说。家里不能放，学校更不行，好像我这个人就是得自己消化所有情绪。手机里那些东西越看越烦，可又停不下来，像在给自己找罪受。）\n（我其实挺累的，但说出来又觉得矫情。别人都那么拼，我这点难受算什么。不过咨询师这么问，好像真的在关心我有没有出口，而不是在评判我。）",
+        "reasoning": "（咨询师问我难受有没有地方放，这让我有点不知道怎么说。家里不能放，学校更不行，好像我这个人就是得自己消化所有情绪。手机里那些东西越看越烦，可又停不下来，像在给自己找罪受。）\n（我其实挺累的，但说出来又觉得矫情。别人都那么拼，我这点难受算什么。不过咨询师这么问，好像真的在关心我有没有出口，而不是在评判我。）"
+      }
+    }
+  ],
+  "created": 1794535065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2020,
+    "total_tokens": 2154,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

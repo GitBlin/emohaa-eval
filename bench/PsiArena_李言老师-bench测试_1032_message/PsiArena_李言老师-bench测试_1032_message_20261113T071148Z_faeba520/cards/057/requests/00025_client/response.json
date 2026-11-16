@@ -1,0 +1,41 @@
+{
+  "id": "b60b37c82f9845f18efa2d1fabd11939",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "借笔记吧，这个好像最自然。我明天试试，要是她没带或者不愿意，就算了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪句话最容易说出口，这让我有点紧张。我其实不太敢主动找同桌说话，怕她觉得我突然套近乎。但借笔记这个事好像比较自然，平时大家也会互相借。）\n（想想看，如果只是问一道题，万一她讲得很快我跟不上，反而更尴尬。借笔记就不一样，她递过来就行，不用马上聊太多。这样我至少能开个头，也不至于太刻意。）",
+        "reasoning": "（她问我哪句话最容易说出口，这让我有点紧张。我其实不太敢主动找同桌说话，怕她觉得我突然套近乎。但借笔记这个事好像比较自然，平时大家也会互相借。）\n（想想看，如果只是问一道题，万一她讲得很快我跟不上，反而更尴尬。借笔记就不一样，她递过来就行，不用马上聊太多。这样我至少能开个头，也不至于太刻意。）"
+      }
+    }
+  ],
+  "created": 1794556573,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3258,
+    "total_tokens": 3375,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

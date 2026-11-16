@@ -1,0 +1,41 @@
+{
+  "id": "ba563f8a0349456697b2a2700bb87bcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先不急着接他的话，可能就笑一下，或者直接说“我跟你不太一样，我还是得复习”。（停顿）这样会不会太冲？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我下次希望怎么回应，这个方向让我觉得可以试着想具体一点。之前总困在那种憋着不说的状态里，现在好像可以想想别的办法。）\n（我不想再让自己跟着他的节奏走，也不想把关系弄僵。也许可以试着不评价他，只说说我自己的感受，这样既不会显得太计较，也能让自己心里好受些。）",
+        "reasoning": "（咨询师问我下次希望怎么回应，这个方向让我觉得可以试着想具体一点。之前总困在那种憋着不说的状态里，现在好像可以想想别的办法。）\n（我不想再让自己跟着他的节奏走，也不想把关系弄僵。也许可以试着不评价他，只说说我自己的感受，这样既不会显得太计较，也能让自己心里好受些。）"
+      }
+    }
+  ],
+  "created": 1794541693,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2411,
+    "total_tokens": 2526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

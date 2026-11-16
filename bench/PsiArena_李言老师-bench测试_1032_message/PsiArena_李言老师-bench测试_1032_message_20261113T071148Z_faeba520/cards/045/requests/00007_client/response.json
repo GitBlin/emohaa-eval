@@ -1,0 +1,41 @@
+{
+  "id": "c63bf40acd7e42c9a0e1b9add8d81f54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能……从小就这样吧。我爸妈都是老师，家里什么都讲道理，情绪什么的，好像不太能随便说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这份担心是从哪里来的……她好像没有觉得我矫情，还说我这样很正常。这让我稍微放松了一点，但也让我想到一些更早的事情。）\n（我从小好像就被要求要懂事、要坚强，不能随便流露情绪。可我又确实很需要有人能理解我、陪着我。这种矛盾让我一直很纠结，不知道该怎么表达自己。）",
+        "reasoning": "（咨询师问我这份担心是从哪里来的……她好像没有觉得我矫情，还说我这样很正常。这让我稍微放松了一点，但也让我想到一些更早的事情。）\n（我从小好像就被要求要懂事、要坚强，不能随便流露情绪。可我又确实很需要有人能理解我、陪着我。这种矛盾让我一直很纠结，不知道该怎么表达自己。）"
+      }
+    }
+  ],
+  "created": 1794555754,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1466,
+    "total_tokens": 1576,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

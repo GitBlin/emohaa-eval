@@ -1,0 +1,41 @@
+{
+  "id": "07bdeb10e25f44dea85384d9aa7c33f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会，至少不会因为漏了一天就觉得全完了。我好像总是这样，一件事没做到位，就干脆整个放弃。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他这样把“忘了”也当成规则的一部分，反而让我觉得没那么大压力了。以前我总是一旦没做到就全盘否定自己，好像一次失误就证明我不行。）\n（现在想想，也许我确实可以把标准放低一点，不用每一步都完美。关灯前写两行，忘了就补一句，这听起来是我能做到的。）",
+        "reasoning": "（他这样把“忘了”也当成规则的一部分，反而让我觉得没那么大压力了。以前我总是一旦没做到就全盘否定自己，好像一次失误就证明我不行。）\n（现在想想，也许我确实可以把标准放低一点，不用每一步都完美。关灯前写两行，忘了就补一句，这听起来是我能做到的。）"
+      }
+    }
+  ],
+  "created": 1794540176,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2996,
+    "total_tokens": 3101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

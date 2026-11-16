@@ -1,0 +1,41 @@
+{
+  "id": "6b335d76c66d478bb71cdc7e739123f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声试了试）“我有点难受，这是真的。”这句好像顺一点，没那么像在跟谁对着干。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那句“他不代表我错了”落地成更顺口的说法，没有逼我马上全信。我其实有点怕说得太满，像在给自己打气。可如果换成“我有点难受，这是真的”，好像没那么虚，也更像我自己会说的话。）\n（我想先挑一句能说出口的，不用太强硬，也别太委屈自己。也许就从承认自己的感受开始，先不急着争对错。）",
+        "reasoning": "（咨询师在帮我把那句“他不代表我错了”落地成更顺口的说法，没有逼我马上全信。我其实有点怕说得太满，像在给自己打气。可如果换成“我有点难受，这是真的”，好像没那么虚，也更像我自己会说的话。）\n（我想先挑一句能说出口的，不用太强硬，也别太委屈自己。也许就从承认自己的感受开始，先不急着争对错。）"
+      }
+    }
+  ],
+  "created": 1794535717,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3155,
+    "total_tokens": 3278,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

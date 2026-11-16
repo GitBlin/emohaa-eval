@@ -1,0 +1,64 @@
+{
+  "at": "2026-11-13T03:14:59.159170+00:00",
+  "reason": "explicit user request: named runs and incomplete trials; preserve 1032 run with full historical backups",
+  "deleted": [
+    {
+      "path": "bench/ToMBench_李言老师full_1030",
+      "files_deleted": 85841,
+      "runs": [
+        {
+          "bot_id": 1030,
+          "run": "ToMBench_李言老师full_1030_20261112T024330Z_2cb83b18",
+          "completed": 5720,
+          "planned": 5720
+        }
+      ]
+    },
+    {
+      "path": "bench/ToMBench_李言老师baseline_full_mediumm_1030",
+      "files_deleted": 86157,
+      "runs": [
+        {
+          "bot_id": 1030,
+          "run": "ToMBench_李言老师baseline_full_mediumm_1030_20261112T072806Z_99b9a4ab",
+          "completed": 5720,
+          "planned": 5720
+        }
+      ]
+    },
+    {
+      "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/ToMBench_李言老师baseline_full_mediumm_1032_20261112T074820Z_59e064ef",
+      "files_deleted": 2866,
+      "runs": [
+        {
+          "bot_id": 1032,
+          "run": "ToMBench_李言老师baseline_full_mediumm_1032_20261112T074820Z_59e064ef",
+          "completed": 164,
+          "planned": 5720
+        }
+      ]
+    },
+    {
+      "path": "bench/EmoBench_李言老师测试基线_1032/EmoBench_李言老师测试基线_1032_20261112T114102Z_5c5ddb70",
+      "files_deleted": 521,
+      "runs": [
+        {
+          "bot_id": 1032,
+          "run": "EmoBench_李言老师测试基线_1032_20261112T114102Z_5c5ddb70",
+          "completed": 29,
+          "planned": 800
+        }
+      ]
+    },
+    {
+      "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/并发校准_20261112T075717Z",
+      "files_deleted": 1143,
+      "reason": "small concurrency calibration, not full benchmark"
+    },
+    {
+      "path": "bench/ToMBench_李言老师baseline_full_mediumm_1032/并发校准_20261112T075948Z",
+      "files_deleted": 599,
+      "reason": "small concurrency calibration, not full benchmark"
+    }
+  ]
+}

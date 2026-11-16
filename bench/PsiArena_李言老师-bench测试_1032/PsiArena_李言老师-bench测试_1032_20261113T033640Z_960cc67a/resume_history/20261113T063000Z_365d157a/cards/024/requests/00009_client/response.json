@@ -1,0 +1,41 @@
+{
+  "id": "1a94fc04133e45a483c72ab4f2fab6ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她说我不会教孩子，还当着孩子的面说。我当时脑子一下就热了，回了她几句……可说完又后悔，觉得自己怎么这么冲动。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是具体哪句话让我忍不住，我一下子想到婆婆当着孩子面说我不会教，那种感觉特别刺人。可说完又觉得后悔，好像自己太冲动了，这种矛盾让我有点不知道该怎么往下说。）\n（我从小就被教育要忍让，可那天实在压不住，现在回想起来又觉得自己没处理好。也许可以提一下事后那种懊悔，让她明白我不是单纯在抱怨，而是真的在反思自己。）",
+        "reasoning": "（她问的是具体哪句话让我忍不住，我一下子想到婆婆当着孩子面说我不会教，那种感觉特别刺人。可说完又觉得后悔，好像自己太冲动了，这种矛盾让我有点不知道该怎么往下说。）\n（我从小就被教育要忍让，可那天实在压不住，现在回想起来又觉得自己没处理好。也许可以提一下事后那种懊悔，让她明白我不是单纯在抱怨，而是真的在反思自己。）"
+      }
+    }
+  ],
+  "created": 1794549238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1591,
+    "total_tokens": 1717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "65515a035c2242599a6a72fb9e76bcbf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）我其实……希望他能帮我说句话吧，哪怕就一句“他在努力了”也行。但他没有，就坐那儿。我有时候想，是不是我真的让他失望了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问起我爸的反应，这让我一下子回到过年那个场景。我其实最希望他能替我说句话，哪怕只是点个头，让我知道他没觉得我丢人。可这么多年他从来没那样做过，我好像也习惯了不指望。）\n（但习惯归习惯，心里还是堵得慌。说出来反而有点难堪，好像我到现在还在等一个不会来的认可。）",
+        "reasoning": "（他问起我爸的反应，这让我一下子回到过年那个场景。我其实最希望他能替我说句话，哪怕只是点个头，让我知道他没觉得我丢人。可这么多年他从来没那样做过，我好像也习惯了不指望。）\n（但习惯归习惯，心里还是堵得慌。说出来反而有点难堪，好像我到现在还在等一个不会来的认可。）"
+      }
+    }
+  ],
+  "created": 1794550790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1801,
+    "total_tokens": 1923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

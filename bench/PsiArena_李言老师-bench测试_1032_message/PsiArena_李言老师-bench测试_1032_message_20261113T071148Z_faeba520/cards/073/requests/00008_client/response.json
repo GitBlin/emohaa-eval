@@ -1,0 +1,41 @@
+{
+  "id": "90e1b6c1f4664797b6a452ebbfb9e29c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）就是……觉得自己好像不重要吧。家里也总说，事情要自己扛，别老想着靠别人，说出来显得矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我回想起来是什么感受，她好像真的在认真听。刚才提到小时候的事，我心里有点发紧，但这次我不想再像以前那样躲开了。那种没人当回事的感觉，其实一直压在心里，让我觉得自己说的话都不重要。）\n（也许可以试着再往下说一点，说说家里那种氛围。在我们家，好像什么事都得自己扛着，说出来反而显得不懂事。父母总说要控制自己，要有责任感，我好像从小就学会了把话咽回去。）",
+        "reasoning": "（咨询师在问我回想起来是什么感受，她好像真的在认真听。刚才提到小时候的事，我心里有点发紧，但这次我不想再像以前那样躲开了。那种没人当回事的感觉，其实一直压在心里，让我觉得自己说的话都不重要。）\n（也许可以试着再往下说一点，说说家里那种氛围。在我们家，好像什么事都得自己扛着，说出来反而显得不懂事。父母总说要控制自己，要有责任感，我好像从小就学会了把话咽回去。）"
+      }
+    }
+  ],
+  "created": 1794557332,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1593,
+    "total_tokens": 1728,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "96460b5f7b974c90ab943f99b69f5f83",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他能多问一句，比如“忙，但你怎么了”。可我又觉得，他工作忙的话，我是不是不该要求这么多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最希望他回什么……我其实想要的不只是一句话，而是他主动关心我的那种感觉。但直接说出来好像显得我要求很多，而且他工作忙也是事实。我是不是应该先承认自己确实有期待，但又不想让自己看起来太依赖？）\n（现在慢慢能看清一点了，我总在“想要他回应”和“觉得自己不该要”之间拉扯。这跟我从小习惯懂事、怕给人添麻烦有关系吧。也许我可以试着说出这个矛盾，但不用说得太完整。）",
+        "reasoning": "（咨询师问我最希望他回什么……我其实想要的不只是一句话，而是他主动关心我的那种感觉。但直接说出来好像显得我要求很多，而且他工作忙也是事实。我是不是应该先承认自己确实有期待，但又不想让自己看起来太依赖？）\n（现在慢慢能看清一点了，我总在“想要他回应”和“觉得自己不该要”之间拉扯。这跟我从小习惯懂事、怕给人添麻烦有关系吧。也许我可以试着说出这个矛盾，但不用说得太完整。）"
+      }
+    }
+  ],
+  "created": 1794549943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2132,
+    "total_tokens": 2273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

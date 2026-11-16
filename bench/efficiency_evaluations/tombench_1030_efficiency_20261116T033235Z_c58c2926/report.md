@@ -1,0 +1,90 @@
+# 效率小样本评测
+
+智能体：1030；bench：tombench；并发：1。无自动重试。
+
+仅代表本次样本，P95不能作为稳定生产结论。传输成功与答题正确分开。
+
+```json
+{
+  "overall": {
+    "selected_cases": 4,
+    "chat_attempts": 4,
+    "setup_failures": 0,
+    "successful_chats": 4,
+    "failed_chats": 0,
+    "success_rate": 1.0,
+    "first_text": {
+      "n": 4,
+      "p50_seconds": 1.394223403000069,
+      "p95_seconds": 1.895540841348884
+    },
+    "complete": {
+      "n": 4,
+      "p50_seconds": 1.4176638054996147,
+      "p95_seconds": 1.9433897705986962
+    },
+    "successful_and_first_text_within": {
+      "1": 0.25,
+      "2": 1.0,
+      "3": 1.0,
+      "5": 1.0
+    },
+    "answer_format_valid": 4,
+    "correct_answers": 4
+  },
+  "by_group": {
+    "zh": {
+      "selected_cases": 2,
+      "chat_attempts": 2,
+      "setup_failures": 0,
+      "successful_chats": 2,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 2,
+        "p50_seconds": 1.2802683989993966,
+        "p95_seconds": 1.5701145374981933
+      },
+      "complete": {
+        "n": 2,
+        "p50_seconds": 1.3031439174992556,
+        "p95_seconds": 1.5933379307491122
+      },
+      "successful_and_first_text_within": {
+        "1": 0.5,
+        "2": 1.0,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "answer_format_valid": 2,
+      "correct_answers": 2
+    },
+    "en": {
+      "selected_cases": 2,
+      "chat_attempts": 2,
+      "setup_failures": 0,
+      "successful_chats": 2,
+      "failed_chats": 0,
+      "success_rate": 1.0,
+      "first_text": {
+        "n": 2,
+        "p50_seconds": 1.566706448500554,
+        "p95_seconds": 1.9092278243491818
+      },
+      "complete": {
+        "n": 2,
+        "p50_seconds": 1.6046097234993795,
+        "p95_seconds": 1.9599871637487012
+      },
+      "successful_and_first_text_within": {
+        "1": 0.0,
+        "2": 1.0,
+        "3": 1.0,
+        "5": 1.0
+      },
+      "answer_format_valid": 2,
+      "correct_answers": 2
+    }
+  }
+}
+```

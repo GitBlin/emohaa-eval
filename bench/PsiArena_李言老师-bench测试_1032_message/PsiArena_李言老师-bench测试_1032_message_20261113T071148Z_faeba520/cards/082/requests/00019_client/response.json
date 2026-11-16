@@ -1,0 +1,41 @@
+{
+  "id": "f495657abb6c47a08f50e0ce928eb1c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以在手机备忘录里写一句，聊之前瞄一眼。写什么呢……“先听人说完，别急着顶”。有点土，但可能管用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我想具体怎么提醒自己，这倒是个实在的问题。我平时一忙起来就顾不上这些，光靠脑子记肯定不行。手机提醒最直接，但就设个提醒好像有点傻，得给自己留句话。）\n（写什么好呢？“别较劲”？太硬了，跟自己较劲似的。“先听人说完”？这个还行，至少能让我缓一下。不过真到那时候，我能不能看见手机都难说。）",
+        "reasoning": "（他让我想具体怎么提醒自己，这倒是个实在的问题。我平时一忙起来就顾不上这些，光靠脑子记肯定不行。手机提醒最直接，但就设个提醒好像有点傻，得给自己留句话。）\n（写什么好呢？“别较劲”？太硬了，跟自己较劲似的。“先听人说完”？这个还行，至少能让我缓一下。不过真到那时候，我能不能看见手机都难说。）"
+      }
+    }
+  ],
+  "created": 1794557853,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2698,
+    "total_tokens": 2830,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

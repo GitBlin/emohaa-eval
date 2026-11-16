@@ -1,0 +1,41 @@
+{
+  "id": "cf2395ed8391491ba43720600f3d08b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）加一句“今天到这”……听着有点傻，但好像真能提醒我收住。我今晚试试吧，至少别再跟自己较劲到半夜。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说的“给脑子一个交代”我懂，可加一句“今天到这”还是让我有点别扭。好像真的允许自己收手了，可我又怕一收手就变成放任。不过今晚也许可以试试，至少比一直转下去强。）\n（回头想想，今天从最开始问她怎么进行，到现在能说出这些，好像确实松了一点。我本来以为没什么可说的，结果还是说了不少。也许我该承认，这次来不是白来，但别一下子说太多。）",
+        "reasoning": "（她说的“给脑子一个交代”我懂，可加一句“今天到这”还是让我有点别扭。好像真的允许自己收手了，可我又怕一收手就变成放任。不过今晚也许可以试试，至少比一直转下去强。）\n（回头想想，今天从最开始问她怎么进行，到现在能说出这些，好像确实松了一点。我本来以为没什么可说的，结果还是说了不少。也许我该承认，这次来不是白来，但别一下子说太多。）"
+      }
+    }
+  ],
+  "created": 1794537256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 3783,
+    "total_tokens": 3926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

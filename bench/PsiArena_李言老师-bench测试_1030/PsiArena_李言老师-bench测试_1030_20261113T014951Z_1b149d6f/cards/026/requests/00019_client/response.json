@@ -1,0 +1,41 @@
+{
+  "id": "8001714351ff4fb5ac651d516c6cebf7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试试看书吧，发呆我怕自己越坐越乱。对了，我是不是也可以问问女儿，她希望我少说哪句话？我想听听她怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想先试看书还是发呆，这个选择让我有点犹豫。我其实两样都想要，但又怕做不到。不过她给的那个写纸条的办法听起来确实能让我心里踏实些，不至于一坐下就慌。）\n（想到女儿，我心里又软了一下。与其自己一个人偷偷试，不如把她也拉进来，让她看到妈妈也在学着放松，这样她会不会觉得我们是一起在变好？而且我还能顺便问问她想要我怎么做，听听她的想法。）",
+        "reasoning": "（她问我想先试看书还是发呆，这个选择让我有点犹豫。我其实两样都想要，但又怕做不到。不过她给的那个写纸条的办法听起来确实能让我心里踏实些，不至于一坐下就慌。）\n（想到女儿，我心里又软了一下。与其自己一个人偷偷试，不如把她也拉进来，让她看到妈妈也在学着放松，这样她会不会觉得我们是一起在变好？而且我还能顺便问问她想要我怎么做，听听她的想法。）"
+      }
+    }
+  ],
+  "created": 1794535914,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3037,
+    "total_tokens": 3175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

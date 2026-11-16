@@ -1,0 +1,41 @@
+{
+  "id": "fd4db3c42bf845618f6ef6697ec56ad3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）有一个吧，大学时的朋友，以前挺能聊的。不过好久没联系了，突然找她，会不会太唐突……（迟疑）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有哪一个朋友是能说上几句的，这让我心里有点乱。我确实想起了一个人，大学时关系挺好的，但这么久没联系了，突然找她会不会太唐突。）\n（我有点犹豫，不知道这样开口会不会给她添麻烦，也怕自己显得太脆弱。不过，能想到一个人，心里又好像没那么空了。）",
+        "reasoning": "（咨询师问我有没有哪一个朋友是能说上几句的，这让我心里有点乱。我确实想起了一个人，大学时关系挺好的，但这么久没联系了，突然找她会不会太唐突。）\n（我有点犹豫，不知道这样开口会不会给她添麻烦，也怕自己显得太脆弱。不过，能想到一个人，心里又好像没那么空了。）"
+      }
+    }
+  ],
+  "created": 1794554886,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3285,
+    "total_tokens": 3398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

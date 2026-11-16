@@ -1,0 +1,41 @@
+{
+  "id": "798c54a28c3e4c489ee921b7196e1a55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话我也说不清楚。就是……有时候好好的，突然就特别难受，但具体为什么，我又讲不上来。（犹豫）大概就是这种感觉吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最想弄清楚哪件事，可我其实连自己怎么了都说不清。这种问题让我有点慌，好像必须马上给出一个像样的答案。）\n（我确实想搞清楚自己为什么这么难受，但说出来的话又觉得太轻了，好像只是在抱怨。也许先随便说点表面的感受比较安全，别让他觉得我太麻烦。）",
+        "reasoning": "（他问我最想弄清楚哪件事，可我其实连自己怎么了都说不清。这种问题让我有点慌，好像必须马上给出一个像样的答案。）\n（我确实想搞清楚自己为什么这么难受，但说出来的话又觉得太轻了，好像只是在抱怨。也许先随便说点表面的感受比较安全，别让他觉得我太麻烦。）"
+      }
+    }
+  ],
+  "created": 1794537993,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1145,
+    "total_tokens": 1252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

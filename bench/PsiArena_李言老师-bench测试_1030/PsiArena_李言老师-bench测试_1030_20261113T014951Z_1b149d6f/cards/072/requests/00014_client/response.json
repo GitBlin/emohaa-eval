@@ -1,0 +1,41 @@
+{
+  "id": "b3fe839199964185a7c3a6e0deff3673",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上回家的时候吧。一开门看见那堆东西，那个声音就上来了，说你怎么这么没用，连个屋子都收拾不好。然后我就……干脆不想看了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在什么时刻最容易听见那个声音。我脑子里第一个冒出来的就是晚上回家，推开门看到那堆东西的时候。那个声音就来了，说你怎么这么没用，连个屋子都收拾不好。然后我就想逃，想拿手机躲开。）\n（可逃完了更难受，因为什么都没变，东西还在那儿，那个声音还在那儿。我好像一直在跟自己较劲，越较劲越没力气。她这么问，是不是想让我看清这个循环？我该把这些说出来，虽然有点难堪。）",
+        "reasoning": "（她问我在什么时刻最容易听见那个声音。我脑子里第一个冒出来的就是晚上回家，推开门看到那堆东西的时候。那个声音就来了，说你怎么这么没用，连个屋子都收拾不好。然后我就想逃，想拿手机躲开。）\n（可逃完了更难受，因为什么都没变，东西还在那儿，那个声音还在那儿。我好像一直在跟自己较劲，越较劲越没力气。她这么问，是不是想让我看清这个循环？我该把这些说出来，虽然有点难堪。）"
+      }
+    }
+  ],
+  "created": 1794538559,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2420,
+    "total_tokens": 2570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

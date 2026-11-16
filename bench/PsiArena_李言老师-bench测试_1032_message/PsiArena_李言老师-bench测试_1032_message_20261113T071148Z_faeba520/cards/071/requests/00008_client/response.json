@@ -1,0 +1,41 @@
+{
+  "id": "312f94a8a8434759abe22b99faaa4207",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸妈吧……尤其是我妈。（停顿）其实他们也没逼我，可我就是会先想他们会怎么看，好像选错了就对不起谁似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问到了家里人的意见，我确实一下子想到爸妈。那种感觉太熟悉了，每次做选择前都会不自觉地在脑子里先过一遍他们会怎么说。）\n（不是他们逼我，可那种“要选对”的压力一直都在。我好像从小就在猜他们的期待，怕让他们失望，也怕自己选错。）",
+        "reasoning": "（他问到了家里人的意见，我确实一下子想到爸妈。那种感觉太熟悉了，每次做选择前都会不自觉地在脑子里先过一遍他们会怎么说。）\n（不是他们逼我，可那种“要选对”的压力一直都在。我好像从小就在猜他们的期待，怕让他们失望，也怕自己选错。）"
+      }
+    }
+  ],
+  "created": 1794557130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1558,
+    "total_tokens": 1660,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

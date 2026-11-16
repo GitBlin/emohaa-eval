@@ -1,0 +1,41 @@
+{
+  "id": "05e738d2f8ce4356b5601c587c8253ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能……从小听多了吧。我爸妈总说，现在竞争这么激烈，别人都在往前跑。嗯……有时候我觉得，他们看我的成绩，比看我这个人还多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这个“错”的念头从哪来……其实我心里清楚，就是家里那些话听多了。爸妈总说现在竞争多激烈，别人都在拼命，我要是分心就完了。）\n（可说出来好像有点怪，毕竟他们也是为我好。不过那种感觉确实一直都在，不光是学习，好像做什么都得先想想他们怎么看。我是不是太在意他们的看法了？）",
+        "reasoning": "（她问我这个“错”的念头从哪来……其实我心里清楚，就是家里那些话听多了。爸妈总说现在竞争多激烈，别人都在拼命，我要是分心就完了。）\n（可说出来好像有点怪，毕竟他们也是为我好。不过那种感觉确实一直都在，不光是学习，好像做什么都得先想想他们怎么看。我是不是太在意他们的看法了？）"
+      }
+    }
+  ],
+  "created": 1794553951,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1826,
+    "total_tokens": 1949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

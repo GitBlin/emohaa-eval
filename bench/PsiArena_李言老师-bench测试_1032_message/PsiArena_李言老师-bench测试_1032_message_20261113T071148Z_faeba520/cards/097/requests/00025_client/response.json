@@ -1,0 +1,41 @@
+{
+  "id": "3f78c94974254bd78b48b97903234cf2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）好像是……后面那句没那么紧了，像松了口气。虽然还有点别扭，但没那么凶了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师注意到我语气的变化了……她好像真的在认真听我说话，而不是敷衍地点头。这种被关注的感觉让我有点不习惯，但又不讨厌。）\n（回想刚才那两句话，确实不太一样。第一句像是条件反射，带着那种熟悉的紧绷感；第二句说出来的时候，肩膀好像松了一点，虽然还是有点别扭。也许这就是改变的开始吧，哪怕只是一点点。）",
+        "reasoning": "（咨询师注意到我语气的变化了……她好像真的在认真听我说话，而不是敷衍地点头。这种被关注的感觉让我有点不习惯，但又不讨厌。）\n（回想刚才那两句话，确实不太一样。第一句像是条件反射，带着那种熟悉的紧绷感；第二句说出来的时候，肩膀好像松了一点，虽然还是有点别扭。也许这就是改变的开始吧，哪怕只是一点点。）"
+      }
+    }
+  ],
+  "created": 1794558510,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3040,
+    "total_tokens": 3148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

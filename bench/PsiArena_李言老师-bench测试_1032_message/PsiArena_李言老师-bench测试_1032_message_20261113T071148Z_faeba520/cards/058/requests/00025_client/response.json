@@ -1,0 +1,41 @@
+{
+  "id": "83acd88a2acc4b5dac41bac437a06b66",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点踏实吧，好像终于有件能自己做的事了。虽然知道还会反复，但没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我现在的感受，这让我意识到自己确实有了些变化。之前总觉得问题大得没法碰，现在有了具体的小动作，心里好像没那么慌了。）\n（不过我也清楚，光靠这几个动作不一定能马上改变什么，还是会担心自己做不到。但至少不像刚开始那样完全不知道怎么办了，这种有点着落的感觉挺新鲜的。）",
+        "reasoning": "（咨询师在问我现在的感受，这让我意识到自己确实有了些变化。之前总觉得问题大得没法碰，现在有了具体的小动作，心里好像没那么慌了。）\n（不过我也清楚，光靠这几个动作不一定能马上改变什么，还是会担心自己做不到。但至少不像刚开始那样完全不知道怎么办了，这种有点着落的感觉挺新鲜的。）"
+      }
+    }
+  ],
+  "created": 1794556601,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3369,
+    "total_tokens": 3467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

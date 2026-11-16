@@ -1,0 +1,41 @@
+{
+  "id": "3616e06f7fc7498e852fa60a5eead3b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸。小时候他急了会说“没出息”“窝囊”。我以为早忘了，你这么一问，那词儿自己就冒出来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到“窝囊”这个词是不是别人说过的……确实，我爸以前就这么说过我。那时候我大概十几岁吧，做什么都不对，他一句“窝囊”就砸过来。我以为自己早忘了，结果一被问，那个词就冒出来了。）\n（现在想想，我对自己说话的方式，好像跟我爸差不多。明明最讨厌被那么说，自己却一遍遍在心里重复。这个发现让我有点不是滋味，但也好像明白了点什么。）",
+        "reasoning": "（她问到“窝囊”这个词是不是别人说过的……确实，我爸以前就这么说过我。那时候我大概十几岁吧，做什么都不对，他一句“窝囊”就砸过来。我以为自己早忘了，结果一被问，那个词就冒出来了。）\n（现在想想，我对自己说话的方式，好像跟我爸差不多。明明最讨厌被那么说，自己却一遍遍在心里重复。这个发现让我有点不是滋味，但也好像明白了点什么。）"
+      }
+    }
+  ],
+  "created": 1794557835,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2294,
+    "total_tokens": 2422,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

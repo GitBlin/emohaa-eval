@@ -1,0 +1,41 @@
+{
+  "id": "c75d345f06634872b8f338592d623cd3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……家里的一些事吧。我也说不太清楚，反正就是最近总觉得很累，心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的方式，说不需要准备什么，听起来还算温和。但我还是不太确定该说多少，毕竟第一次见面，总得先看看对方靠不靠谱。她问我为什么来咨询，我其实有很多话想说，但又不知道从哪说起。）\n（作为来访者，我性格比较内向敏感，对陌生人会有防御心理。现在虽然焦虑，但还不能完全信任咨询师，所以不能一下子全盘托出。我得先模糊地表达一下困扰，看看她的反应。说“家里的事”比较笼统，既不会暴露太多隐私，又能试探她会不会追问细节。）",
+        "reasoning": "（刚才咨询师解释了咨询的方式，说不需要准备什么，听起来还算温和。但我还是不太确定该说多少，毕竟第一次见面，总得先看看对方靠不靠谱。她问我为什么来咨询，我其实有很多话想说，但又不知道从哪说起。）\n（作为来访者，我性格比较内向敏感，对陌生人会有防御心理。现在虽然焦虑，但还不能完全信任咨询师，所以不能一下子全盘托出。我得先模糊地表达一下困扰，看看她的反应。说“家里的事”比较笼统，既不会暴露太多隐私，又能试探她会不会追问细节。）"
+      }
+    }
+  ],
+  "created": 1794554804,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1020,
+    "total_tokens": 1172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 127,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

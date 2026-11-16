@@ -1,0 +1,41 @@
+{
+  "id": "0e3c352cd3fa4989a1683513344c9e8b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）我爸年纪也大了，帮不上太多。亲戚……各家有各家的事，我不想麻烦别人。其实我习惯了，自己的事自己扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问有没有人搭把手……其实这个问题让我有点难受。我爸年纪也大了，我不想让他太操心，亲戚们各有各的日子，我也不太想麻烦别人。可能我习惯了什么都自己扛吧。）\n（不过她这么问，倒是让我觉得她好像真的在听我说话，不是在敷衍。但我还是不太想深说，毕竟才刚聊，谁知道后面会怎样。）",
+        "reasoning": "（她问有没有人搭把手……其实这个问题让我有点难受。我爸年纪也大了，我不想让他太操心，亲戚们各有各的日子，我也不太想麻烦别人。可能我习惯了什么都自己扛吧。）\n（不过她这么问，倒是让我觉得她好像真的在听我说话，不是在敷衍。但我还是不太想深说，毕竟才刚聊，谁知道后面会怎样。）"
+      }
+    }
+  ],
+  "created": 1794553058,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1310,
+    "total_tokens": 1427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

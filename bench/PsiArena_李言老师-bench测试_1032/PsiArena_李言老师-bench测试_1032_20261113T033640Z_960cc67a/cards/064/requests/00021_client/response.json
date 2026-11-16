@@ -1,0 +1,41 @@
+{
+  "id": "db83e90a8b1c45ecb9d240412a8df69a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "真正放松……好像很久没有了。上次和大学朋友视频聊天，笑了好一会儿，但挂了之后又有点空。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次真正放松是什么时候……我好像很久没有那种感觉了。上次和大学朋友视频，虽然开心，但心里一直绷着，怕说错话，怕她们觉得我过得不好。现在想想，那种放松也是带着负担的。）\n（我是不是应该告诉她，我其实连放松都带着顾虑？这样说出来会不会显得我很奇怪。但既然她问了，我就试着说一点吧，至少比一直憋着好。）",
+        "reasoning": "（她问我最近一次真正放松是什么时候……我好像很久没有那种感觉了。上次和大学朋友视频，虽然开心，但心里一直绷着，怕说错话，怕她们觉得我过得不好。现在想想，那种放松也是带着负担的。）\n（我是不是应该告诉她，我其实连放松都带着顾虑？这样说出来会不会显得我很奇怪。但既然她问了，我就试着说一点吧，至少比一直憋着好。）"
+      }
+    }
+  ],
+  "created": 1794544479,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2860,
+    "total_tokens": 2981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

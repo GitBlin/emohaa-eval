@@ -1,0 +1,41 @@
+{
+  "id": "58c22d0e2d41490d9426a2e4e9ab5064",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能先问“附近有什么好吃的”，顺便夸一句。这样比较像闲聊，不像非拉着人吃饭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像是在帮我细化具体怎么开口，这样确实能减少我临场卡住的可能。我有点担心问得太直接会显得目的性太强，反而让人不自在。）\n（还是先夸一句再问，听起来更像闲聊，就算对方不接话也不至于太尴尬。这样我明天也更容易说出口。）",
+        "reasoning": "（她好像是在帮我细化具体怎么开口，这样确实能减少我临场卡住的可能。我有点担心问得太直接会显得目的性太强，反而让人不自在。）\n（还是先夸一句再问，听起来更像闲聊，就算对方不接话也不至于太尴尬。这样我明天也更容易说出口。）"
+      }
+    }
+  ],
+  "created": 1794541139,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2880,
+    "total_tokens": 2974,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

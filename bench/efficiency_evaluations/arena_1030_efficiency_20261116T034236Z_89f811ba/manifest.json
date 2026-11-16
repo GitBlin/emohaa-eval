@@ -1,0 +1,77 @@
+{
+  "at": "2026-11-16T03:42:36.043279+00:00",
+  "bot_id": 1030,
+  "cards": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "turns": 25,
+  "workers": 4,
+  "history": "full",
+  "mode": "psycho",
+  "judge_enabled": false,
+  "session_attempts": 2,
+  "roles": {
+    "counselor": {
+      "model": "ai-role-bot-1030",
+      "thinking": null,
+      "reasoning_effort": null
+    },
+    "client": {
+      "model": "deepseek-v4.1-flash-1017",
+      "thinking": "enabled",
+      "reasoning_effort": "medium"
+    },
+    "judge": {
+      "model": "deepseek-v4.1-flash-1017",
+      "thinking": "enabled",
+      "reasoning_effort": "medium"
+    }
+  },
+  "temperature": 0.7,
+  "client_max_tokens": "8192",
+  "timeout": 180.0,
+  "sha256": {
+    "evaluate_arena_efficiency.py": "e4076ace38878cc93f7dedd5b367f615edcdc327e85af60d725d23394888236c",
+    "evaluate_efficiency.py": "7d18be8d010a91cf8ba69ec0f11610660059b12f9e0b33560e052f8265d4aad1",
+    "emobench_api.py": "c6a88da255a70c2a06025011f2c9b97fb48bf22f9e539f28a530254386e50e1e",
+    "PsiArena/psiarena/__init__.py": "be0ff03b2ff0924218bfc7e9cf16df1c4c1f49ec4370ff08190d5aeb225b8356",
+    "PsiArena/psiarena/config.py": "c200498cb624649396468094065facb0da022d67889393c6c1bc954e61715ed9",
+    "PsiArena/psiarena/data.py": "91006b94d2be8f9f900c3bb618beb6e07aa27e73a1902f2d65f496ba72e7c89e",
+    "PsiArena/psiarena/evaluate.py": "48b4ae487e1ccb50c733af30a246e4b41f60589fbeb2129504c08902522deca3",
+    "PsiArena/psiarena/pipeline.py": "18c6c514f1712187c5e917a84c491f2d830728192877fa94285b84eb8c1dad5a",
+    "PsiArena/psiarena/scoring.py": "731036fab8622b1a83597750d9efa557825d40157f208bbd3e31a16acebee1ab",
+    "PsiArena/psiarena/ai_role_transport.py": "dc9b1645750352358010ee2dbd12aaff8a4bac6435fadc8fd091743221186695",
+    "PsiArena/psiarena/runtime.py": "b9d5474ae14090c72cda9d7e8ea4f097e42f017f579c6efdf0bc2bd4ca7d8de3",
+    "PsiArena/psiarena/ai_role.py": "b8f4dbc5ad57d5d69c465c30724d950921100c058685011e047ab8cb239f34f8",
+    "PsiArena/data/knowledge.txt": "9b8df7dbeb9b74ca3438ce07c26cd35d18462b3a70911944df42a2bd6df18581",
+    "PsiArena/data/role_cards.json": "515f450442bad5fd70dfd92c659573167549cf7ee305b611d991cfa13f655d58",
+    "PsiArena/data/prompts/client_dialogue_prefix.txt": "5d9b150d053b863704311acae71f649098e321e388f4c075c89332e5a46d35ff",
+    "PsiArena/data/prompts/client_dialogue_suffix.txt": "cd4e119ab034a72e5c28ea463618f596ba2731eb4510f44e639b318a94a6f0e3",
+    "PsiArena/data/prompts/client_eval_prefix.txt": "f54ae34c5f05acd7a63e8ddf4bbdbb3150e6e26dc81c5b793d491871830b8121",
+    "PsiArena/data/prompts/counselor_psycho.txt": "2d2416dbc80aec5f424f47e0d12f6732b7315efee8a1154327751c087221073b",
+    "PsiArena/data/prompts/counselor_rewrite.txt": "05b53a03587ccb3f3a6b167da9ac1889101d81fa76a0938619647a39f46a3102",
+    "PsiArena/data/prompts/eval_client.txt": "51618a842ecd650bdc81ee9813ded1a212c741fc226d942a86a68723a9f81555",
+    "PsiArena/data/prompts/eval_counselor.txt": "cd074061676309116ef978c752d45ff2604373887d7958dbb673551889f3528f",
+    "PsiArena/data/prompts/eval_counselor_system.txt": "67818916545d1c5026c61513fad6a35be16d0a21b95c5ad8e116f8f72b02ecc2",
+    "PsiArena/data/prompts/eval_supervisor.txt": "36e9df7e191efefb7422716da3238458d03938d21b3b8153703ece57500fe459",
+    "PsiArena/data/prompts/feedback_client.txt": "3b8247c9eda0eb68fb581bb1f2a5b39c02f7cf5c473869033d6e3b1a6c8194fb",
+    "PsiArena/data/prompts/feedback_counselor.txt": "0fb25465910f2e4e145869a71ad32f6c3339934ad6d180b4b4b77f6566b51aad",
+    "PsiArena/data/prompts/feedback_supervisor.txt": "612a0fa1d30331e4131e58a0e2761f49f2dfb16b0d31f078f53fdb874d299166",
+    "PsiArena/data/prompts/rewrite_finalize.txt": "ab91037fdcb133a80a8486b3dfa42dc1a8606daa8a249c57bde35efe8c11ca46",
+    "PsiArena/data/prompts/rewrite_improve_system.txt": "2decb70d10d023e6ceb2cea1574f55e86984bac814ef14b09b35f4f5a6991b3e",
+    "PsiArena/data/prompts/rewrite_improve_user.txt": "2c2b7e4fec20637ebe28598beb18e3d1a02018e227a25ea220fb0b1b01bef7ff",
+    "PsiArena/data/prompts/rewrite_reflect.txt": "3485265030e377ac2f819761d7e0b1225dcabe77c777a99d9671a4e59a76b94c",
+    "PsiArena/data/prompts/supervisor_system.txt": "7164a18dde58804a03d77a45356eb9961ffdc6a5cbbe6c8989343f2d434b2c5b"
+  },
+  "measurement": "same measure() as single-turn; excludes audits, authentication and simulated client calls",
+  "counselor_configuration": "platform-controlled, no inference that counselor uses client temperature or thinking"
+}

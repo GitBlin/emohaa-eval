@@ -1,0 +1,41 @@
+{
+  "id": "343638fae94a494da984349dfc7b8f15",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以先把明天要交的作业写一写，虽然不一定写得进去。或者去操场走两圈，总比一直坐着想强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我打算做什么来转移注意力，她好像很在意我能不能照顾好自己。我确实需要想点实际的事，不能总等着她的消息。）\n（我想到了写作业，虽然效率不高，但至少能占住脑子。去操场走走也不错，换个环境可能会好一点。这些应该是我能做的比较具体的事。）",
+        "reasoning": "（咨询师在问我打算做什么来转移注意力，她好像很在意我能不能照顾好自己。我确实需要想点实际的事，不能总等着她的消息。）\n（我想到了写作业，虽然效率不高，但至少能占住脑子。去操场走走也不错，换个环境可能会好一点。这些应该是我能做的比较具体的事。）"
+      }
+    }
+  ],
+  "created": 1794541158,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3277,
+    "total_tokens": 3380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

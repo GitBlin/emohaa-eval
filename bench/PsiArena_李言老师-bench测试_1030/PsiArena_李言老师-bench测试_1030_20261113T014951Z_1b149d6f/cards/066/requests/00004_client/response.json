@@ -1,0 +1,41 @@
+{
+  "id": "5f6111f5b60546bb9a345f9b9d325e8d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是会反复想一些事……不过说出来好像显得我挺计较的。嗯，我能先问一下吗，如果咨询里我有些话不想说，是不是也可以不说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我晚上的感觉更像什么，这让我有点不知道该怎么描述。她好像没有觉得我说的是小事，这让我稍微放松了一点，但我不想太快把心里那些具体的委屈都说出来。）\n（我想到的确实是和未婚夫之间的事，可又觉得说出来显得自己太计较。也许先含糊地提一下，看看她会不会追问，或者会不会像其他人那样劝我别多想。）",
+        "reasoning": "（咨询师在问我晚上的感觉更像什么，这让我有点不知道该怎么描述。她好像没有觉得我说的是小事，这让我稍微放松了一点，但我不想太快把心里那些具体的委屈都说出来。）\n（我想到的确实是和未婚夫之间的事，可又觉得说出来显得自己太计较。也许先含糊地提一下，看看她会不会追问，或者会不会像其他人那样劝我别多想。）"
+      }
+    }
+  ],
+  "created": 1794537886,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1227,
+    "total_tokens": 1350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

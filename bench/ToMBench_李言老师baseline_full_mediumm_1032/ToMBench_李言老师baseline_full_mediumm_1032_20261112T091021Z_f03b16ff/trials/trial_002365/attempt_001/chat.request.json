@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T09:46:32.319414+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1032,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nTian Yi comes to a luxury store, hesitates whether to buy a watch he has long admired. Witnessing this, the clerk Xiao Chen comes over, looks at the watch, and then says to Tian Yi: \"This watch is the last one in our store.\"\n\n[Question]\nWhat does Xiao Chen really mean when he says these words?\n\n[Candidate Answers]\nA. Xiao Chen hints that Tian Yi should buy it as soon as possible to avoid missing the opportunity.\nB. Xiao Chen notifies Tian Yi that the store's inventory is running low.\nC. Xiao Chen shares his liking for this watch with Tian Yi.\nD. Xiao Chen expresses regret about the sales status of this watch.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

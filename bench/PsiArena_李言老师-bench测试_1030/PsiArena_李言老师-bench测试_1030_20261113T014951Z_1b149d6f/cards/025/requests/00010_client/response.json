@@ -1,0 +1,41 @@
+{
+  "id": "d9d92b45302643f4a024ecac3f4205ab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他们倒不凶，就是……总说“你一向懂事，不用我们操心”。听着像夸我，可我从小就不敢不懂事。现在当妈，好像也一样，不敢让自己“不行”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我小时候了……其实我爸妈很少直接说“你必须做好”，但他们那种期待的眼神，还有亲戚面前夸我懂事的样子，让我从小就觉得不能出错。）\n（现在想想，我好像一直在追一个“好女儿”的影子，现在又追“好妈妈”。这种累，可能从那时候就开始了，只是现在被二宝的哭闹一下子全逼出来了。）",
+        "reasoning": "（她问到我小时候了……其实我爸妈很少直接说“你必须做好”，但他们那种期待的眼神，还有亲戚面前夸我懂事的样子，让我从小就觉得不能出错。）\n（现在想想，我好像一直在追一个“好女儿”的影子，现在又追“好妈妈”。这种累，可能从那时候就开始了，只是现在被二宝的哭闹一下子全逼出来了。）"
+      }
+    }
+  ],
+  "created": 1794535860,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1990,
+    "total_tokens": 2114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

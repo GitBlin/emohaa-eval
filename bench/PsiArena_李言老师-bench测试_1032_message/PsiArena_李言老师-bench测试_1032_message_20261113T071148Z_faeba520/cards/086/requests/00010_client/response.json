@@ -1,0 +1,41 @@
+{
+  "id": "c1cf4f158a644c0bacf61151b1e6e4f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说“你吃太多了”“你这样会胖的”。有时候我明明只吃了一点点，它还是这么说。然后我就……要么忍着不吃，要么干脆一口气吃很多，好像破罐子破摔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我那个声音具体说什么……我其实一直都能听到，只是从来没跟人讲过。说出来会不会显得我很奇怪？但既然她都问了，也许可以试着说说看。）\n（那个声音就像我自己的，又像我妈的。每次我拿起吃的，它就开始数落我，说我吃太多，说我会变胖。可我明明饿啊，有时候就是忍不住吃多了，然后它就更凶了。我是不是真的管不住自己？）",
+        "reasoning": "（她问我那个声音具体说什么……我其实一直都能听到，只是从来没跟人讲过。说出来会不会显得我很奇怪？但既然她都问了，也许可以试着说说看。）\n（那个声音就像我自己的，又像我妈的。每次我拿起吃的，它就开始数落我，说我吃太多，说我会变胖。可我明明饿啊，有时候就是忍不住吃多了，然后它就更凶了。我是不是真的管不住自己？）"
+      }
+    }
+  ],
+  "created": 1794558034,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1780,
+    "total_tokens": 1919,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

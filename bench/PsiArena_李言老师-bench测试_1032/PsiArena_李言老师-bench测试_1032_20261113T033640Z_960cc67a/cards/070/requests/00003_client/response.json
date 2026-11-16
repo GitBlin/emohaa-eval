@@ -1,0 +1,41 @@
+{
+  "id": "a46324fb2ce54d5f84a03f7117eb6160",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "紧张吧……有时候也说不上来，可能跟工作有关，但又好像不只是工作。对了，如果咨询里我有些话不想说，你会追问吗？或者……我能私下加你联系方式吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近最常出现的感受，这算是在试探我的情绪状态吧。我确实经常感到紧张，但具体为什么紧张又说不清楚，可能和工作有关，也可能不只是工作。我不想这么快就暴露太多，毕竟还不确定这个咨询师是否值得信任。）\n（而且我注意到她刚才说会按我的节奏调整，这让我有点想试探一下她的界限。如果我提出想私下联系她，不知道她会怎么回应。这样既能看看她的专业边界，也能让我稍微安心一点。）",
+        "reasoning": "（咨询师在问我最近最常出现的感受，这算是在试探我的情绪状态吧。我确实经常感到紧张，但具体为什么紧张又说不清楚，可能和工作有关，也可能不只是工作。我不想这么快就暴露太多，毕竟还不确定这个咨询师是否值得信任。）\n（而且我注意到她刚才说会按我的节奏调整，这让我有点想试探一下她的界限。如果我提出想私下联系她，不知道她会怎么回应。这样既能看看她的专业边界，也能让我稍微安心一点。）"
+      }
+    }
+  ],
+  "created": 1794544728,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1085,
+    "total_tokens": 1234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "79f1ba5f1521469ab0ba04a0e947ddcb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）上周汇报的时候，我手一直在抖，点鼠标都点不准。（垂下眼）旁边同事还问我是不是不舒服……我当时就想找个地方躲起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是最近哪一刻让我特别强烈地感到会被那样看。我脑子里马上想到上周汇报的时候，手抖得厉害，连鼠标都点不准，同事还问了一句。那种被注意到的感觉太难受了，好像真的会被人觉得我不行。）\n（可我又不想把话说得太细，怕显得自己太在意。也许可以提一句汇报的事，再带出“怕被看见”这个感觉，不用讲太多。）",
+        "reasoning": "（他问的是最近哪一刻让我特别强烈地感到会被那样看。我脑子里马上想到上周汇报的时候，手抖得厉害，连鼠标都点不准，同事还问了一句。那种被注意到的感觉太难受了，好像真的会被人觉得我不行。）\n（可我又不想把话说得太细，怕显得自己太在意。也许可以提一句汇报的事，再带出“怕被看见”这个感觉，不用讲太多。）"
+      }
+    }
+  ],
+  "created": 1794544715,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2642,
+    "total_tokens": 2773,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

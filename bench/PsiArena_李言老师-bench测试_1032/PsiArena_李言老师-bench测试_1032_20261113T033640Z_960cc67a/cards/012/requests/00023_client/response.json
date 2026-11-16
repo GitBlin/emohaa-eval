@@ -1,0 +1,41 @@
+{
+  "id": "25b3892260a449e5bbc9fcffb6542bd4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想这周末先给她发个消息，问她在不在，别当面说，我可能会紧张得说不出来。不过我也怕到时候又拖……您说我该怎么提醒自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体什么时候、用什么方式跟朋友说。这让我有点紧张，因为我知道自己容易拖，也怕说出口以后又后悔。可刚才我已经想好怎么开口了，现在得给自己定个不太难做到的时间。）\n（我想到周末发消息比较合适，不用面对面，压力小一点。但我也得承认，我可能还是会犹豫，所以想先跟咨询师说好，让她帮我盯着这个计划。）",
+        "reasoning": "（咨询师在问我具体什么时候、用什么方式跟朋友说。这让我有点紧张，因为我知道自己容易拖，也怕说出口以后又后悔。可刚才我已经想好怎么开口了，现在得给自己定个不太难做到的时间。）\n（我想到周末发消息比较合适，不用面对面，压力小一点。但我也得承认，我可能还是会犹豫，所以想先跟咨询师说好，让她帮我盯着这个计划。）"
+      }
+    }
+  ],
+  "created": 1794541782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3130,
+    "total_tokens": 3262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

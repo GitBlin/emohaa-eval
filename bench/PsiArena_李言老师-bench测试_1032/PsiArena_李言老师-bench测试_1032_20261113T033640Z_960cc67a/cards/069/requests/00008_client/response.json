@@ -1,0 +1,41 @@
+{
+  "id": "29e458cee1794a5487e7a3e92c4b2d5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候……也没什么特别的场景。就是突然想到一些画面，或者听到有人吵架，我整个人就不对了。好像有什么脏东西沾上来了，洗也洗不掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师终于问到关键的地方了……我其实一直都知道这跟家里有关，但从来没跟别人说过。他问得这么直接，我反而有点不知道从哪说起。）\n（小时候那些事，我都是躲在自己房间里听的。现在每次想靠近男朋友，那些声音就会冒出来，好像我身上真的沾了什么脏东西一样。说出来好难堪，但也许他能理解？）",
+        "reasoning": "（咨询师终于问到关键的地方了……我其实一直都知道这跟家里有关，但从来没跟别人说过。他问得这么直接，我反而有点不知道从哪说起。）\n（小时候那些事，我都是躲在自己房间里听的。现在每次想靠近男朋友，那些声音就会冒出来，好像我身上真的沾了什么脏东西一样。说出来好难堪，但也许他能理解？）"
+      }
+    }
+  ],
+  "created": 1794544728,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1631,
+    "total_tokens": 1751,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

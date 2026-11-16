@@ -1,0 +1,41 @@
+{
+  "id": "a77c5c26b7fc4789ad7c1f063508d6e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一般过一会儿能缓过来，尤其是转移注意力的时候。但晚上想得多，就会拖得久一点，有时候非得困到不行才睡着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这些身体反应持续多久、能不能自己缓解，听起来是想确认我的状况是不是需要更专业的处理。这让我有点紧张，好像问题被放大了，但也能感觉到她是认真在关心我。）\n（我其实不太想把它说得很严重，因为大部分时候确实过一会儿就好了。但晚上想事情多的时候，那种冷和难受会拖得更久，甚至影响到睡觉。我是不是该把这些也说出来，让她知道我不是在夸大，只是有时候真的很难自己停下来。）",
+        "reasoning": "（咨询师在问我这些身体反应持续多久、能不能自己缓解，听起来是想确认我的状况是不是需要更专业的处理。这让我有点紧张，好像问题被放大了，但也能感觉到她是认真在关心我。）\n（我其实不太想把它说得很严重，因为大部分时候确实过一会儿就好了。但晚上想事情多的时候，那种冷和难受会拖得更久，甚至影响到睡觉。我是不是该把这些也说出来，让她知道我不是在夸大，只是有时候真的很难自己停下来。）"
+      }
+    }
+  ],
+  "created": 1794545906,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3302,
+    "total_tokens": 3439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

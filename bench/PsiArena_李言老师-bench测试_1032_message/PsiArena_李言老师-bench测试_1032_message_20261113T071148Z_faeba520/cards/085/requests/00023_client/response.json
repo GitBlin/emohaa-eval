@@ -1,0 +1,41 @@
+{
+  "id": "ba6b92e3e4004e2cbf6f0e37a8f2d8ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记下来吗？我不太会做这种事……不过也许可以在手机里写一句，就写“慢慢来也可以”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望怎么记住今天这个感觉……他好像很在意我能不能把这种轻松留住。可我平时真的不太会记这些，脑子里总装着没做完的事。）\n（也许可以试试写下来？但写下来有用吗，会不会过两天又忘了。不过这次确实和以前不太一样，心里没那么堵，或许值得留个记号。）",
+        "reasoning": "（咨询师问我希望怎么记住今天这个感觉……他好像很在意我能不能把这种轻松留住。可我平时真的不太会记这些，脑子里总装着没做完的事。）\n（也许可以试试写下来？但写下来有用吗，会不会过两天又忘了。不过这次确实和以前不太一样，心里没那么堵，或许值得留个记号。）"
+      }
+    }
+  ],
+  "created": 1794557971,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2938,
+    "total_tokens": 3039,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

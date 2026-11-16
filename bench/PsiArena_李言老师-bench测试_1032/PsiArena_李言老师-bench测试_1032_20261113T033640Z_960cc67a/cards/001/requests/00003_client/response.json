@@ -1,0 +1,41 @@
+{
+  "id": "ef86c1238c344c3a8fd56ddfa7e462ab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是……在学校的时候吧。尤其是一进教室，或者走廊上人多的时候。不过也可能是我自己想多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种感觉最常出现的时间，看来是想帮我找到一些具体的线索。但我现在还没准备好完全信任他，不想这么快就暴露太多细节。也许可以稍微说一点，但又不能说得太清楚，保持一点距离感。）\n（想到在学校的时候，尤其是人多的地方，那种难受的感觉特别明显。但我不确定该不该直接说出来，还是先含糊一点，看看咨询师会怎么回应。毕竟我还不太了解他到底会怎么处理这些信息。）",
+        "reasoning": "（咨询师在问我这种感觉最常出现的时间，看来是想帮我找到一些具体的线索。但我现在还没准备好完全信任他，不想这么快就暴露太多细节。也许可以稍微说一点，但又不能说得太清楚，保持一点距离感。）\n（想到在学校的时候，尤其是人多的地方，那种难受的感觉特别明显。但我不确定该不该直接说出来，还是先含糊一点，看看咨询师会怎么回应。毕竟我还不太了解他到底会怎么处理这些信息。）"
+      }
+    }
+  ],
+  "created": 1794548095,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1075,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9ac2ee5f6f0b4034a8923fdfcebc5fa0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……都有点吧。反正就是不想在那儿待着。我……我不太想细说，说了也没啥用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师又问到课间的事了……我其实不太想细说，怕说多了会被追问。但刚才聊下来，感觉他好像不会急着逼我讲，只是问得有点直接。要不先含糊带过去，看看他会不会继续追问。）\n（课间确实是我最难受的时候，但我不想现在就说操场上的事。万一说了，他告诉老师怎么办？那些同学肯定会更狠地整我。还是先绕开点，就说不想待在教室好了。）",
+        "reasoning": "（这个咨询师又问到课间的事了……我其实不太想细说，怕说多了会被追问。但刚才聊下来，感觉他好像不会急着逼我讲，只是问得有点直接。要不先含糊带过去，看看他会不会继续追问。）\n（课间确实是我最难受的时候，但我不想现在就说操场上的事。万一说了，他告诉老师怎么办？那些同学肯定会更狠地整我。还是先绕开点，就说不想待在教室好了。）"
+      }
+    }
+  ],
+  "created": 1794541093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1164,
+    "total_tokens": 1293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

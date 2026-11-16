@@ -1,0 +1,41 @@
+{
+  "id": "68de3152994a447ab3c93d25640178a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "很难。就算周末在家，我也总觉得有事情没做完，休息一会儿就有种……说不清的愧疚感，好像不该闲着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我能不能真正放松...这让我想起周末在家的时候，明明想休息却总觉得有事情没做完。可能跟我从小被要求“不能闲着”有关吧，总觉得放松是种罪过。）\n（其实我爸妈到现在还会问我周末有没有加班，好像不工作就是在偷懒。这种压力让我连休息都带着负罪感，更别说真正放松了。）",
+        "reasoning": "（咨询师在问我能不能真正放松...这让我想起周末在家的时候，明明想休息却总觉得有事情没做完。可能跟我从小被要求“不能闲着”有关吧，总觉得放松是种罪过。）\n（其实我爸妈到现在还会问我周末有没有加班，好像不工作就是在偷懒。这种压力让我连休息都带着负罪感，更别说真正放松了。）"
+      }
+    }
+  ],
+  "created": 1794555801,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1740,
+    "total_tokens": 1849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

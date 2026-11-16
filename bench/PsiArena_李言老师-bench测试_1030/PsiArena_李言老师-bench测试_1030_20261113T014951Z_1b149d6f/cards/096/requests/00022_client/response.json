@@ -1,0 +1,41 @@
+{
+  "id": "f763c28b02094bd489867c17e8dd5ffa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就清右边那一小块吧，把卷子先挪开，放个本子和笔。其他的……先不管了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我先清哪一块，好像真的在帮我把这件事变小一点。我本来以为又要被要求整理好整个桌面，那样我可能又不想动了。只清一小块的话，我还能做到。）\n（书桌右边堆着卷子和草稿纸，平时看着就烦，但只清那一角好像没那么难。先挪开那些纸，把笔和本子放好，应该就够了。）",
+        "reasoning": "（她问我先清哪一块，好像真的在帮我把这件事变小一点。我本来以为又要被要求整理好整个桌面，那样我可能又不想动了。只清一小块的话，我还能做到。）\n（书桌右边堆着卷子和草稿纸，平时看着就烦，但只清那一角好像没那么难。先挪开那些纸，把笔和本子放好，应该就够了。）"
+      }
+    }
+  ],
+  "created": 1794540217,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3188,
+    "total_tokens": 3304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

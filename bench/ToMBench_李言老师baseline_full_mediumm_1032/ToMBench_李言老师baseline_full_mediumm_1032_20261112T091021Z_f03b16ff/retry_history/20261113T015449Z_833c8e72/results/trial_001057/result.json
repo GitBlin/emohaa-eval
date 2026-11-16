@@ -1,0 +1,49 @@
+{
+  "trial_id": "trial_001057",
+  "sample_id": "False Belief Task:9",
+  "task_file": "False Belief Task",
+  "ability": "Belief: Location false beliefs",
+  "language": "en",
+  "repeat": 0,
+  "answer": "A",
+  "map": {
+    "A": "D",
+    "B": "C",
+    "C": "A",
+    "D": "B"
+  },
+  "status": "request_error",
+  "correct": false,
+  "strict_format": false,
+  "prediction": null,
+  "prediction_original": null,
+  "reply": "",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:23:19.606230+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:23:41.133344+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 3,
+      "started_at": "2026-11-12T09:24:04.670639+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    }
+  ],
+  "error": "APIError: 内容生成状态失败，请稍后重试",
+  "started_at": "2026-11-12T09:23:19.606230+00:00",
+  "finished_at": "2026-11-12T09:24:24.118595+00:00",
+  "elapsed_seconds": 64.5124672204256,
+  "user_id": "liyan_166d07654e491ecf77f1e018860d4c76032987ff"
+}

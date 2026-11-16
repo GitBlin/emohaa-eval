@@ -1,0 +1,41 @@
+{
+  "id": "ce88a5aaac1144a1af20aedcdad9b3e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "和同事的多一些吧……嗯，其实我有点不知道该怎么说。对了，你们做咨询的，会不会把来访者说的事情告诉别人啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我关于同事互动和工作事情哪个更让我反复琢磨。这让我想到同事那句话，心里有点烦，不太想这么快就讲出来。而且我其实还在试探这个咨询师，不知道她是不是真的能理解我，还是只会说些套话。）\n（也许可以稍微回避一下，先不直接回答，而是把话题引到咨询本身，看看她怎么应对。这样既能保持距离，也能试探她的反应。）",
+        "reasoning": "（咨询师在问我关于同事互动和工作事情哪个更让我反复琢磨。这让我想到同事那句话，心里有点烦，不太想这么快就讲出来。而且我其实还在试探这个咨询师，不知道她是不是真的能理解我，还是只会说些套话。）\n（也许可以稍微回避一下，先不直接回答，而是把话题引到咨询本身，看看她怎么应对。这样既能保持距离，也能试探她的反应。）"
+      }
+    }
+  ],
+  "created": 1794553928,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1287,
+    "total_tokens": 1412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

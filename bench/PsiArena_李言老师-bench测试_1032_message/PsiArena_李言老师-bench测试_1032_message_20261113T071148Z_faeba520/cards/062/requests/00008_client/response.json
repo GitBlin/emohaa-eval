@@ -1,0 +1,41 @@
+{
+  "id": "039f3fc3ec2f40af96157f613fe28888",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了很久）可能……从小就有吧。我爸妈那会儿总说，做事要稳，不能出错。考不好就是不够努力，家里条件不好，我得懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有评判我，反而说这不是丢人...这让我稍微放松了一点。他问这个念头从什么时候开始的，让我想起小时候的事。）\n（那时候父母总说不能出错，考不好就是不够努力。现在想想，可能从那时候起，我就习惯了害怕做不好。这种害怕好像一直跟着我，只是工作以后更重了。）",
+        "reasoning": "（咨询师没有评判我，反而说这不是丢人...这让我稍微放松了一点。他问这个念头从什么时候开始的，让我想起小时候的事。）\n（那时候父母总说不能出错，考不好就是不够努力。现在想想，可能从那时候起，我就习惯了害怕做不好。这种害怕好像一直跟着我，只是工作以后更重了。）"
+      }
+    }
+  ],
+  "created": 1794556763,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1593,
+    "total_tokens": 1706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

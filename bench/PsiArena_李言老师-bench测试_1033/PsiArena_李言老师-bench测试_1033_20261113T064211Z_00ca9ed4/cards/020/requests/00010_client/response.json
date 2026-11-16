@@ -1,0 +1,41 @@
+{
+  "id": "9205972d58ae4c03904ca2dae766dab7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没怎么说过。我们家从小就这样，家里的事不往外讲，讲了就是“家丑”。有时候想跟我妈说两句，可话到嘴边又咽回去了，她只会劝我忍。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我有没有跟谁说过这种孤立无援的感觉。说实话，真的没有。我从小被教的就是家里的事不能往外说，说了就是丢人。可我心里其实憋得慌，有时候真想找个人倒一倒，又怕人家觉得我矫情。）\n（而且就算说了又能怎样呢？我爸妈肯定只会劝我忍，说谁家不是这么过来的。这种话听多了，我反而更不想开口了。）",
+        "reasoning": "（他问我有没有跟谁说过这种孤立无援的感觉。说实话，真的没有。我从小被教的就是家里的事不能往外说，说了就是丢人。可我心里其实憋得慌，有时候真想找个人倒一倒，又怕人家觉得我矫情。）\n（而且就算说了又能怎样呢？我爸妈肯定只会劝我忍，说谁家不是这么过来的。这种话听多了，我反而更不想开口了。）"
+      }
+    }
+  ],
+  "created": 1794552967,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1908,
+    "total_tokens": 2043,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "246fa0570dac44edb580ef2484ca1728",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……我爸。他从来不大声说，就是那种很平静的语气。唉，说出来有点怪他似的，其实他已经很好了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个声音像谁在说话……我一下子就想到我爸了。他从来不骂我，但那种失望的语气比骂还让人难受。）\n（可我又不太确定，真的是他吗？还是我自己把他的话变成了心里的一根刺？说出来会不会显得我在怪父母……他们确实没做错什么啊。）",
+        "reasoning": "（咨询师问这个声音像谁在说话……我一下子就想到我爸了。他从来不骂我，但那种失望的语气比骂还让人难受。）\n（可我又不太确定，真的是他吗？还是我自己把他的话变成了心里的一根刺？说出来会不会显得我在怪父母……他们确实没做错什么啊。）"
+      }
+    }
+  ],
+  "created": 1794557760,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2142,
+    "total_tokens": 2240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8af426d4bc0d46a2a56fb1829a724580",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）可能是吧。我从小就不太会开口要东西，家里……我爸妈都是老师，什么都要讲道理，讲对错。（停顿）说出来好像就是我不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到这个，我心里有点堵。其实我从小就是这样的，不太敢直接说想要什么。因为说了好像也没用，爸妈总有他们的道理。）\n（但仔细想想，也不只是怕要求别人。我好像连自己到底想要什么都说不清楚，工作也是，生活也是。这种感觉更让人难受。）",
+        "reasoning": "（她问到这个，我心里有点堵。其实我从小就是这样的，不太敢直接说想要什么。因为说了好像也没用，爸妈总有他们的道理。）\n（但仔细想想，也不只是怕要求别人。我好像连自己到底想要什么都说不清楚，工作也是，生活也是。这种感觉更让人难受。）"
+      }
+    }
+  ],
+  "created": 1794557664,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1718,
+    "total_tokens": 1824,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

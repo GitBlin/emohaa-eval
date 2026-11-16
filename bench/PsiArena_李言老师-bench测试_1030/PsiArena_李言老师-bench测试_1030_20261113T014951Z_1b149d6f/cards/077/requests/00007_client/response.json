@@ -1,0 +1,41 @@
+{
+  "id": "95e90a5de24e45cbbc411047c729f696",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小吧……我爸妈总说做人要懂事、要有责任心，别给人添麻烦。慢慢地，好像难受也得自己憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起这种习惯是从什么时候开始的……我其实心里很清楚，是从小就被这样要求的。爸妈总说做人要懂事，不能给别人添麻烦，尤其是我妈，自己再累也不吭声。我好像不知不觉就学成了这样。）\n（可是现在说出来，会不会显得我在怪父母？他们也不容易。但确实……这么多年，我好像从来没被允许喊过累。算了，说就说吧，反正她问都问了。）",
+        "reasoning": "（她问起这种习惯是从什么时候开始的……我其实心里很清楚，是从小就被这样要求的。爸妈总说做人要懂事，不能给别人添麻烦，尤其是我妈，自己再累也不吭声。我好像不知不觉就学成了这样。）\n（可是现在说出来，会不会显得我在怪父母？他们也不容易。但确实……这么多年，我好像从来没被允许喊过累。算了，说就说吧，反正她问都问了。）"
+      }
+    }
+  ],
+  "created": 1794538773,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1532,
+    "total_tokens": 1655,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

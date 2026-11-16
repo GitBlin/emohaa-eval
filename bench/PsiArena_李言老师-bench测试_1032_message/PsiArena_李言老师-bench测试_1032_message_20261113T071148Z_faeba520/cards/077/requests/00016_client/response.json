@@ -1,0 +1,41 @@
+{
+  "id": "6e357ad24f0f409c863c1d9ee1bedd3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试吧……可说实话，说的时候心里有点发虚，好像不太配对自己这么好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我多对自己说那句话，可我心里有点打鼓。她好像觉得这很简单，但我真的能做到吗？我连对自己好一点都觉得别扭。）\n（不过她说那个可怜我的部分更懂我，这话让我有点动摇了。也许我确实该试试，可一想到要对自己说这种话，就觉得怪怪的，好像不配似的。）",
+        "reasoning": "（咨询师让我多对自己说那句话，可我心里有点打鼓。她好像觉得这很简单，但我真的能做到吗？我连对自己好一点都觉得别扭。）\n（不过她说那个可怜我的部分更懂我，这话让我有点动摇了。也许我确实该试试，可一想到要对自己说这种话，就觉得怪怪的，好像不配似的。）"
+      }
+    }
+  ],
+  "created": 1794559403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2442,
+    "total_tokens": 2538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

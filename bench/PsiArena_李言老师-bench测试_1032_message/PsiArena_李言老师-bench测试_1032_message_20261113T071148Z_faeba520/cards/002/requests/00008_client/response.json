@@ -1,0 +1,41 @@
+{
+  "id": "ab9e1a92cdea44b5ba86de75d3f965ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……不知道。但在我家好像就是这样，一有情绪就被说“别计较”。可我心里明明很难受，又觉得不该难受，挺矛盾的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我“大度”是不是就不能有失落和生气……这个问题让我想起小时候家里总说“别计较”，好像一有情绪就是我不对。可我心里确实很难受，这难道也是错吗？）\n（我有点想不明白，为什么我明明很在意朋友，却要装作无所谓。这种感觉让我觉得自己的感受好像不重要，可我又不敢直接说“我觉得不公平”，那样会不会显得我很自私。）",
+        "reasoning": "（她问我“大度”是不是就不能有失落和生气……这个问题让我想起小时候家里总说“别计较”，好像一有情绪就是我不对。可我心里确实很难受，这难道也是错吗？）\n（我有点想不明白，为什么我明明很在意朋友，却要装作无所谓。这种感觉让我觉得自己的感受好像不重要，可我又不敢直接说“我觉得不公平”，那样会不会显得我很自私。）"
+      }
+    }
+  ],
+  "created": 1794553937,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1538,
+    "total_tokens": 1660,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

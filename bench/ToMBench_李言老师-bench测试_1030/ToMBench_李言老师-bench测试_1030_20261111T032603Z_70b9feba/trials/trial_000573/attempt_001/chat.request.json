@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:26:40.544960+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nHuang Li and Chen Jie sit in the company's rest area, they are whispering and discussing something. The office door slowly opens, Wang Qiang walks in, he seems to be looking for something. The conversation between Chen Jie and Huang Li suddenly stops, they quickly switch topics, start discussing recent weather changes. As Wang Qiang walks by, Huang Li gives him a subtle nod and an almost invisible smile. Chen Jie, while Wang Qiang is not paying attention, quietly gives Huang Li a confirming look. Wang Qiang sits back in his own position, Huang Li and Chen Jie also return to their work, but their eyes still communicate from time to time.\n\n[Question]\nWhat does Wang Qiang do next?\n\n[Candidate Answers]\nA. He focuses on his own work, distracts his attention from Huang Li and Chen Jie.\nB. He thinks that the conversation between Huang Li and Chen Jie is a slander against him, he rushes to their workstation and starts yelling.\nC. He seeks support by telling his colleagues that he feels uneasy about the conversation between Huang Li and Chen Jie.\nD. He walks directly to Huang Li and Chen Jie, asks them if there is anything they need help with, or if they are discussing work-related issues.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

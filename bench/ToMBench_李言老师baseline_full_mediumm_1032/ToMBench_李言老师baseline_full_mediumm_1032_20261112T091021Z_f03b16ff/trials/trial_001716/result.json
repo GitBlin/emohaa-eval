@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001716",
+  "sample_id": "Hidden Emotions:6",
+  "task_file": "Hidden Emotions",
+  "ability": "Emotion: Hidden emotions",
+  "language": "zh",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "C",
+    "C": "B",
+    "D": "A"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "B",
+  "prediction_original": "C",
+  "reply": "[[B]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T09:33:49.343285+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T09:34:10.764051+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "52ecd08866314a22baea31d7339867e6"
+  ],
+  "started_at": "2026-11-12T09:33:49.343285+00:00",
+  "finished_at": "2026-11-12T09:34:29.369402+00:00",
+  "elapsed_seconds": 40.02621892467141,
+  "user_id": "liyan_2f9400babb68f8064b3dddcc861e84f2ddd36e04"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f72375cd202443e4a726dfa16b53a67d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实想说，能不能先问问我。可又怕说了显得难搞，就咽回去了。现在想想，好像每次都这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问我在说“都行”那一刻最想表达什么，看来是想帮我看清自己当时压下去的真实感受。我确实一直习惯先顺着别人，怕说了显得难搞。）\n（回想起来，其实我很想说我不太想去那个地方，也想有人问问我。可话到嘴边就变成都行了。现在说出来，心里有点酸，也有点轻松，至少我知道自己真正想要什么了。）",
+        "reasoning": "（对方问我在说“都行”那一刻最想表达什么，看来是想帮我看清自己当时压下去的真实感受。我确实一直习惯先顺着别人，怕说了显得难搞。）\n（回想起来，其实我很想说我不太想去那个地方，也想有人问问我。可话到嘴边就变成都行了。现在说出来，心里有点酸，也有点轻松，至少我知道自己真正想要什么了。）"
+      }
+    }
+  ],
+  "created": 1794541169,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3336,
+    "total_tokens": 3453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

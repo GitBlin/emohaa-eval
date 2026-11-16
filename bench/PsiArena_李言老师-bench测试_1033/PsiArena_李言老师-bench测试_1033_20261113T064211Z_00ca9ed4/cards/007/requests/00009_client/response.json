@@ -1,0 +1,41 @@
+{
+  "id": "e988302da8ca42f6b090fa10ffe9ee31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……小时候家里来客人，我就躲在房间不出来，爸妈也不勉强我，还夸我懂事。现在想想，可能那时候就该学着跟人打交道的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起家里有没有类似的时刻，这让我想到小时候的一些事。其实我不太常回忆这些，但确实，那种不知道该怎么融入的感觉，好像很早就有过。）\n（那时候爸妈更在意成绩，饭桌上能聊的也就这些。我说这些的时候有点别扭，好像承认自己从小就不会跟人相处，挺丢人的。但说出来之后，又觉得这确实是我一直以来的样子。）",
+        "reasoning": "（咨询师问起家里有没有类似的时刻，这让我想到小时候的一些事。其实我不太常回忆这些，但确实，那种不知道该怎么融入的感觉，好像很早就有过。）\n（那时候爸妈更在意成绩，饭桌上能聊的也就这些。我说这些的时候有点别扭，好像承认自己从小就不会跟人相处，挺丢人的。但说出来之后，又觉得这确实是我一直以来的样子。）"
+      }
+    }
+  ],
+  "created": 1794552370,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1693,
+    "total_tokens": 1815,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

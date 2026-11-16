@@ -1,0 +1,41 @@
+{
+  "id": "b542f0ebb76a49f1a72c71c207f84742",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想试试那个偶尔会问我作业的室友，先从一句很普通的“你去吃饭吗”开始。至少不用一上来就聊游戏，我可能没那么慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想不想主动跟谁打招呼，这让我有点紧张。我其实很想试试，但又怕自己太刻意，反而显得奇怪。不过最近确实觉得，一直缩着也不是办法。）\n（我想到了那个偶尔会问我作业的室友，他看起来没那么难接近。也许从一句很普通的话开始，比如问他去不去吃饭，应该不会太尴尬。先试试这种不用聊太久的方式吧。）",
+        "reasoning": "（咨询师问我想不想主动跟谁打招呼，这让我有点紧张。我其实很想试试，但又怕自己太刻意，反而显得奇怪。不过最近确实觉得，一直缩着也不是办法。）\n（我想到了那个偶尔会问我作业的室友，他看起来没那么难接近。也许从一句很普通的话开始，比如问他去不去吃饭，应该不会太尴尬。先试试这种不用聊太久的方式吧。）"
+      }
+    }
+  ],
+  "created": 1794548288,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3386,
+    "total_tokens": 3511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

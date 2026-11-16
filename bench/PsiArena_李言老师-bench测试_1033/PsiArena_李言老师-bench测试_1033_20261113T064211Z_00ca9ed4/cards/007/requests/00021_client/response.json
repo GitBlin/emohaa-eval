@@ -1,0 +1,41 @@
+{
+  "id": "71aa91ef08904b748984ff34a5b6b034",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "耳塞没有，我可以去买一副。听你这么说，好像不用非得自己一个人硬扛着，心里松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到耳塞、白噪音这些具体的办法，还问我现在有没有，这让我觉得他是真的在帮我想办法，而不是随便敷衍。我确实没有耳塞，之前也没想到可以这样先应付着。）\n（听到他说找宿管不算小题大做，心里松了一口气，好像一直压着的那块石头轻了一点。原来我不用一直硬扛着，可以先给自己找条退路。）",
+        "reasoning": "（咨询师提到耳塞、白噪音这些具体的办法，还问我现在有没有，这让我觉得他是真的在帮我想办法，而不是随便敷衍。我确实没有耳塞，之前也没想到可以这样先应付着。）\n（听到他说找宿管不算小题大做，心里松了一口气，好像一直压着的那块石头轻了一点。原来我不用一直硬扛着，可以先给自己找条退路。）"
+      }
+    }
+  ],
+  "created": 1794552414,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3017,
+    "total_tokens": 3130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

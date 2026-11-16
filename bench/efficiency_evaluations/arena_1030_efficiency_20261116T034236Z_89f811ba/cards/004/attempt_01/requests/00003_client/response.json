@@ -1,0 +1,47 @@
+{
+  "id": "7b6d1b73fb5b460abc4d8d3fa890d265",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……心里堵得慌吧。有时候在操场上，突然就不想待了。那个，我问一下，我要是说了什么，你会告诉别人吗？比如老师，或者我爸妈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我“不太舒服”是身体还是心里堵，还让我挑一个瞬间说。我其实不太想说得太细，怕说多了会被追问，也怕他像别人那样觉得是我自己的问题。操场那种时候最难受，但我不想直接讲出来，先含糊一点，看看他会不会一直问下去。）\n（而且我也有点想试探他，如果我说了难受，他会不会转头告诉老师或者我爸妈。爸妈本来就不在身边，知道了也只会担心，或者骂我没用。我得先问问清楚，他会不会把我说的话说出去。）",
+        "reasoning": "（他问我“不太舒服”是身体还是心里堵，还让我挑一个瞬间说。我其实不太想说得太细，怕说多了会被追问，也怕他像别人那样觉得是我自己的问题。操场那种时候最难受，但我不想直接讲出来，先含糊一点，看看他会不会一直问下去。）\n（而且我也有点想试探他，如果我说了难受，他会不会转头告诉老师或者我爸妈。爸妈本来就不在身边，知道了也只会担心，或者骂我没用。我得先问问清楚，他会不会把我说的话说出去。）"
+      }
+    }
+  ],
+  "created": 1794800694,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 1065,
+    "total_tokens": 1227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 768,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

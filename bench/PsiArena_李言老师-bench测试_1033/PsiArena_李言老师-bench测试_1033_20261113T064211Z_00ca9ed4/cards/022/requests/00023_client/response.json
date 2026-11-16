@@ -1,0 +1,41 @@
+{
+  "id": "961cfd330dc6469fa66c3bb8520e5407",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这周吧，我正好约了一个朋友吃饭。到时候试试看……不过要是没做到，我估计又该怪自己了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算什么时候试，我一下子有点答不上来。其实心里知道该找个机会，可又怕真到了那一刻，自己还是忍不住把话咽回去。）\n（想到这周确实约了朋友，也许可以拿这件事练练手。不过说完又觉得，万一没做到，是不是又要怪自己。）",
+        "reasoning": "（她问我打算什么时候试，我一下子有点答不上来。其实心里知道该找个机会，可又怕真到了那一刻，自己还是忍不住把话咽回去。）\n（想到这周确实约了朋友，也许可以拿这件事练练手。不过说完又觉得，万一没做到，是不是又要怪自己。）"
+      }
+    }
+  ],
+  "created": 1794553129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3348,
+    "total_tokens": 3445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

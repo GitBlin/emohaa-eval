@@ -1,0 +1,41 @@
+{
+  "id": "c053f86c27464d5caae09903b9d0b185",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来好像挺轻松的……不过我想问一下，我跟你说的事情，你会保密吗？会不会跟别人讲？我就是有点担心这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用紧张，让我随便说。可我还是有点不放心，毕竟第一次见面，谁知道对方靠不靠谱呢。他说没有固定流程，听起来倒是挺轻松的，但我得先确认一下他会不会把我的事说出去。要是连这点都保证不了，我哪敢往下说啊。不过问这个会不会显得我太多疑了？算了，还是问清楚比较好。）",
+        "reasoning": "（咨询师说不用紧张，让我随便说。可我还是有点不放心，毕竟第一次见面，谁知道对方靠不靠谱呢。他说没有固定流程，听起来倒是挺轻松的，但我得先确认一下他会不会把我的事说出去。要是连这点都保证不了，我哪敢往下说啊。不过问这个会不会显得我太多疑了？算了，还是问清楚比较好。）"
+      }
+    }
+  ],
+  "created": 1794555226,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1015,
+    "total_tokens": 1126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

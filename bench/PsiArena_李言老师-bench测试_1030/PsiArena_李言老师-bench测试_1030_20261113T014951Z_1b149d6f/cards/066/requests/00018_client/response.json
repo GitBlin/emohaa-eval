@@ -1,0 +1,41 @@
+{
+  "id": "2943cb71967e4713838fce00b18e3ffd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说……“我昨天哭的时候你睡着了，我挺难受的，我其实想让你陪我说说话。”这样说，会不会又像是在怪他？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我现在就试着说，这让我有点紧张。我平时都是把话咽回去的，突然要开口，怕说不好又变成指责他。）\n（可我也知道，憋着只会更难受。也许可以先从一句不那么重的话开始，比如告诉他我当时需要什么，而不是让他猜。这样说出来，我自己会不会也能松一点。）",
+        "reasoning": "（他让我现在就试着说，这让我有点紧张。我平时都是把话咽回去的，突然要开口，怕说不好又变成指责他。）\n（可我也知道，憋着只会更难受。也许可以先从一句不那么重的话开始，比如告诉他我当时需要什么，而不是让他猜。这样说出来，我自己会不会也能松一点。）"
+      }
+    }
+  ],
+  "created": 1794537944,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2788,
+    "total_tokens": 2895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a0471a215c4b40ed89c38a466432f45d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先核对原文吧，看看是不是我把有些话说重了。不过说实话，自己一个人看，我又怕越看越焦虑，钻牛角尖。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清下一步该先做什么，而不是急着下结论。我确实被那个分数吓到了，但一直盯着分数好像也没用，反而更慌。）\n（也许我可以先看看那些题目到底在问什么，是不是我理解偏了。不过光靠自己琢磨，我怕又陷入那种反复检查的循环里。）",
+        "reasoning": "（咨询师在帮我理清下一步该先做什么，而不是急着下结论。我确实被那个分数吓到了，但一直盯着分数好像也没用，反而更慌。）\n（也许我可以先看看那些题目到底在问什么，是不是我理解偏了。不过光靠自己琢磨，我怕又陷入那种反复检查的循环里。）"
+      }
+    }
+  ],
+  "created": 1794544294,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2746,
+    "total_tokens": 2851,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

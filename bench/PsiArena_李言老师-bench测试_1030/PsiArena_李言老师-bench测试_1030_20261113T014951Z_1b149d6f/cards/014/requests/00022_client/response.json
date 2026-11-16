@@ -1,0 +1,41 @@
+{
+  "id": "f71a2a689db74e40bb132f75076541ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……也许可以在心里说一句“我又在憋了”，就当提醒自己。要不就干脆去倒杯水，边倒边想怎么开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我找一个具体的信号，这让我想到平时那些说不出口的委屈。其实我经常在某个瞬间特别想开口，但又咽回去。也许可以给自己一个简单的提醒，不用太复杂，太复杂我可能又做不到了。）\n（我想到“我又在憋了”这句话比较自然，就像心里突然亮一下。而且倒杯水是我刚才提过的动作，结合起来好像更容易记住。不过我也担心自己到时候会忘，或者又习惯性地先低头。）",
+        "reasoning": "（咨询师在引导我找一个具体的信号，这让我想到平时那些说不出口的委屈。其实我经常在某个瞬间特别想开口，但又咽回去。也许可以给自己一个简单的提醒，不用太复杂，太复杂我可能又做不到了。）\n（我想到“我又在憋了”这句话比较自然，就像心里突然亮一下。而且倒杯水是我刚才提过的动作，结合起来好像更容易记住。不过我也担心自己到时候会忘，或者又习惯性地先低头。）"
+      }
+    }
+  ],
+  "created": 1794535361,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3292,
+    "total_tokens": 3429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

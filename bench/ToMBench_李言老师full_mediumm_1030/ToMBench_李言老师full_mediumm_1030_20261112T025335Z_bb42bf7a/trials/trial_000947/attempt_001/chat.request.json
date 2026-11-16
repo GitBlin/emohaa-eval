@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:54:57.851374+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXiaoxia, Xiaobai, and Xiaonan are classmates, they are preparing a group report. Xiaoxia, as the team leader, is responsible for assigning tasks to the three of them today. But Xiaoxia and Xiaobai have already discussed, they hope to let Xiaonan do more parts. During the discussion, Xiaoxia gives examples to explain the skills needed for the task, and looks at Xiaobai, saying: \"Xiaobai, this part of the task is very important and a bit difficult, can you complete it?\" Xiaobai immediately replies: \"I already take on the work of other parts and start doing it.\" At this time, Xiaonan notices that they are looking at him together, but they do not speak.\n\n[Question]\nWhy do Xiaoxia and Xiaobai look at Xiaonan together after discussing?\n\n[Candidate Answers]\nA. Because Xiaoxia and Xiaobai want to use this method to make Xiaonan take on this part of the task on his own.\nB. Xiaoxia and Xiaobai think Xiaonan likes to do this part of the task and want to give this part of the task to Xiaonan.\nC. Xiaoxia and Xiaobai hope that Xiaonan does not sit silently, but also participates more in the meeting.\nD. Because they think Xiaonan is good at this task and can complete it very well.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

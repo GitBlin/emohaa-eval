@@ -1,0 +1,41 @@
+{
+  "id": "02db3cccac6c4af3a1f5959690e18f60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话有点难受……但好像又确实是这么回事。我分享个好消息，她就泼冷水，我都不知道还能跟谁说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这句话是不是真实感受……其实说出来的时候我自己都吓了一跳。但仔细想想，那种感觉一直都在，只是以前不敢承认。）\n（我妈确实每次都泼冷水，我明明想跟她分享的，结果总是变成这样。这让我有点难过，又有点生气，好像连高兴都得偷偷摸摸的。）",
+        "reasoning": "（她问我这句话是不是真实感受……其实说出来的时候我自己都吓了一跳。但仔细想想，那种感觉一直都在，只是以前不敢承认。）\n（我妈确实每次都泼冷水，我明明想跟她分享的，结果总是变成这样。这让我有点难过，又有点生气，好像连高兴都得偷偷摸摸的。）"
+      }
+    }
+  ],
+  "created": 1794555075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1694,
+    "total_tokens": 1786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

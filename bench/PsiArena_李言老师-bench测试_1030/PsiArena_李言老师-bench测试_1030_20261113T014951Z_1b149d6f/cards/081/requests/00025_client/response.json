@@ -1,0 +1,41 @@
+{
+  "id": "4151d51f24d144668cc482eb050ec5f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会吧，手可能有点痒，想挑点什么。不过今天聊下来，我觉得可以先试试看，不行再说。至少现在没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我停在那儿会不会空或者手痒，这让我想到自己平时确实很难忍住不挑剔。刚才聊到那把尺子，好像真的有点松动了，但心里还是没底。）\n（也许可以承认那种不习惯的感觉，毕竟这么多年都是自动挑毛病，突然要停住肯定别扭。不过今天聊下来，至少知道可以先从五分钟画画开始试，这比硬逼自己看书要轻松些。）",
+        "reasoning": "（咨询师问我停在那儿会不会空或者手痒，这让我想到自己平时确实很难忍住不挑剔。刚才聊到那把尺子，好像真的有点松动了，但心里还是没底。）\n（也许可以承认那种不习惯的感觉，毕竟这么多年都是自动挑毛病，突然要停住肯定别扭。不过今天聊下来，至少知道可以先从五分钟画画开始试，这比硬逼自己看书要轻松些。）"
+      }
+    }
+  ],
+  "created": 1794539138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3584,
+    "total_tokens": 3705,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

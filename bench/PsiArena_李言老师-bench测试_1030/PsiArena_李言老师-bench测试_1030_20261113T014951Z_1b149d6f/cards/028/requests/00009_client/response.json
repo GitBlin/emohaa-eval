@@ -1,0 +1,41 @@
+{
+  "id": "117f4fda4be942448bb2abc9fa7271c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会说……我好像一直在为别人活，很少问过我自己想要什么。在我家，做什么决定都很难，因为总得先想我爸妈会不会同意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想哭的那部分会说什么……这让我有点慌，好像真要去碰那个一直压着的地方了。但她说得对，那股劲儿确实卡太久了。）\n（我想说我不愿意，可一开口就想到我妈的脸。在我们家，我说什么好像都不算数，得先过他们那关。这种累不是一天两天了，是从小就这样，做什么都得先想他们会不会不满意。）",
+        "reasoning": "（她问我想哭的那部分会说什么……这让我有点慌，好像真要去碰那个一直压着的地方了。但她说得对，那股劲儿确实卡太久了。）\n（我想说我不愿意，可一开口就想到我妈的脸。在我们家，我说什么好像都不算数，得先过他们那关。这种累不是一天两天了，是从小就这样，做什么都得先想他们会不会不满意。）"
+      }
+    }
+  ],
+  "created": 1794536032,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1750,
+    "total_tokens": 1875,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

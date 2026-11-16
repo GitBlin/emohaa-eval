@@ -1,0 +1,41 @@
+{
+  "id": "ae8e90764e654faeac2c1a2675f17370",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……大概是晚上一个人的时候吧。白天忙起来还好。（犹豫）那个……我能不能问一下，你平时会给人加微信吗？就是咨询之外也能聊聊那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来还算可靠，至少明确说了会保密。但我还是不太确定该不该完全相信他。他问我什么时候堵得慌，我其实不太想直接回答这个问题，因为我自己也说不清楚。也许可以稍微试探一下，看看他会不会像朋友那样给我一些私人建议，这样就能知道他到底专不专业了。）\n（不过这样问会不会太直接了？毕竟我们才刚认识。但反正我也没打算这么快就敞开心扉，先看看他的反应再说吧。）",
+        "reasoning": "（这位咨询师看起来还算可靠，至少明确说了会保密。但我还是不太确定该不该完全相信他。他问我什么时候堵得慌，我其实不太想直接回答这个问题，因为我自己也说不清楚。也许可以稍微试探一下，看看他会不会像朋友那样给我一些私人建议，这样就能知道他到底专不专业了。）\n（不过这样问会不会太直接了？毕竟我们才刚认识。但反正我也没打算这么快就敞开心扉，先看看他的反应再说吧。）"
+      }
+    }
+  ],
+  "created": 1794555547,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1089,
+    "total_tokens": 1232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

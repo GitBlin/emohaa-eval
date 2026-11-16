@@ -1,0 +1,41 @@
+{
+  "id": "36771b3c40984c43bf140ebd76565fcf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能还是家里那套吧，做得好是应该的，做得不够就会被反复说。现在他们不在身边了，那个声音好像还在。我想试着别每次都等“可以了”才交。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问这个标准的来源，可能想让我看到它和家庭期待的关系。我确实从小就被要求做到最好，考好了是应该的，出一点错就会被反复说。这种标准好像早就成了我自己的声音。）\n（不过现在意识到这一点，反而有点松了口气。也许我可以试着把那个尺子稍微放松一点，先做起来再说。毕竟一直等完美感觉，只会让自己更卡住。）",
+        "reasoning": "（咨询师在问这个标准的来源，可能想让我看到它和家庭期待的关系。我确实从小就被要求做到最好，考好了是应该的，出一点错就会被反复说。这种标准好像早就成了我自己的声音。）\n（不过现在意识到这一点，反而有点松了口气。也许我可以试着把那个尺子稍微放松一点，先做起来再说。毕竟一直等完美感觉，只会让自己更卡住。）"
+      }
+    }
+  ],
+  "created": 1794544965,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3358,
+    "total_tokens": 3489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

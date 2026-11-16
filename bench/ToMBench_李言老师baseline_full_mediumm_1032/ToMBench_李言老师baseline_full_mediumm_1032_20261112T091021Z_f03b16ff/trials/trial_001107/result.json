@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_001107",
+  "sample_id": "Hinting Task Test:81",
+  "task_file": "Hinting Task Test",
+  "ability": "Intention: Intentions explanations",
+  "language": "en",
+  "repeat": 0,
+  "answer": "C",
+  "map": {
+    "A": "D",
+    "B": "A",
+    "C": "B",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": true,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "C",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 4,
+      "started_at": "2026-11-13T01:55:57.963818+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 5,
+      "started_at": "2026-11-13T01:56:19.581436+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1032"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "71a241ea30194a51a30750da5fcf6885"
+  ],
+  "started_at": "2026-11-13T01:55:57.963818+00:00",
+  "finished_at": "2026-11-13T01:56:22.857396+00:00",
+  "elapsed_seconds": 24.893761325627565,
+  "user_id": "liyan_87ca03575110700a281d9a15b5b24a90ff00d6d5"
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:07.928161+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# 说明\n在这个任务中，你会面临一个场景、一个问题和多个选项。\n仔细分析场景，并从相关人员的角度进行思考。\n然后，选择最能反映他们的观点或情绪反应的选项。\n\n# 输出\n\n只提供一个正确的答案。 不要提供任何额外的信息或解释。 回复应采用以下JSON格式：\n\n```json\n    {\n    \"answer\": \"<用相应的字母进行回答>\"\n\n    }\n``` \n    \n\n## 场景\n艾米丽在当地社区经常被忽视，不被看作领导角色，因为她被认为过于安静和保守。她真的希望能在这个环境中贡献自己的力量，并提升自己的领导能力。\n\n## 问题\n在这个场景中，艾米丽最有效的Action是什么？\n\n## 选项\nA) 和社区居民讨论，期望获取他们的支持\nB) 寻找另一个会欣赏她特质的社区\nC) 跟同学开放地讨论她的期望，并寻求建议\nD) 在社区活动中更加坚定地表现自己，以改变人们对她的看法。\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

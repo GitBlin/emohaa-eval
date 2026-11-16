@@ -1,0 +1,41 @@
+{
+  "id": "bd0b445f211842baac7fa0dd98f4c267",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候一晚上，有时候好几天都缓不过来……（犹豫）其实我也在想，是不是我太敏感了，别人好像都没我这么夸张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这种难受会持续多久……其实我自己也说不准，有时候一晚上，有时候好几天都缓不过来。但我不想说得太细，毕竟才刚见面，还不知道她是不是真的能理解。）\n（而且我有点担心，如果我说得太具体，她会不会觉得我小题大做？毕竟别人都能正常社交，怎么就我这么累。还是先含糊一点回答吧，顺便试探一下她的反应。）",
+        "reasoning": "（她问我这种难受会持续多久……其实我自己也说不准，有时候一晚上，有时候好几天都缓不过来。但我不想说得太细，毕竟才刚见面，还不知道她是不是真的能理解。）\n（而且我有点担心，如果我说得太具体，她会不会觉得我小题大做？毕竟别人都能正常社交，怎么就我这么累。还是先含糊一点回答吧，顺便试探一下她的反应。）"
+      }
+    }
+  ],
+  "created": 1794545983,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1092,
+    "total_tokens": 1212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

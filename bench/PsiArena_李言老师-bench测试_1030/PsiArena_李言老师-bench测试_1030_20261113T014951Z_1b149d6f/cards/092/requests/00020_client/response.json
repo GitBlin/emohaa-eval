@@ -1,0 +1,41 @@
+{
+  "id": "3d6a6acb0add47daa760132bcec23fde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试着别马上怪自己，就承认有点失落，然后做点别的事，不一直钻在里面。以前我肯定就是憋着，越憋越难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我要怎么对待那份失落……以前我肯定就是憋着，然后越憋越难受。现在想想，也许我可以不急着怪自己，先承认它就是有点难受，但不代表我整个人都不好。）\n（可说起来容易，真到那时候能不能做到，我心里也没底。不过至少现在知道，失落来了不一定要马上躲开。）",
+        "reasoning": "（她问我要怎么对待那份失落……以前我肯定就是憋着，然后越憋越难受。现在想想，也许我可以不急着怪自己，先承认它就是有点难受，但不代表我整个人都不好。）\n（可说起来容易，真到那时候能不能做到，我心里也没底。不过至少现在知道，失落来了不一定要马上躲开。）"
+      }
+    }
+  ],
+  "created": 1794539967,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3200,
+    "total_tokens": 3310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

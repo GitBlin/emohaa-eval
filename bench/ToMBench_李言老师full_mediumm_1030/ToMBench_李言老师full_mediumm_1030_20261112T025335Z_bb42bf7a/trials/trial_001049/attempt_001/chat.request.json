@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T02:55:06.440248+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nZhang Qiang and Liu Mei are a couple. Zhang Qiang often does not reply to Liu Mei's messages, and only later says that his phone is out of power. Last night, Zhang Qiang does not answer the phone and comes home late, Liu Mei thinks he is unfaithful. However, Zhang Qiang is always working overtime at the company and does not notice that his phone really is out of power.\n\n[Question]\nHow does Zhang Qiang convince Liu Mei to believe him?\n\n[Candidate Answers]\nA. Zhang Qiang can seek legal advice from a lawyer to understand how to provide reliable and effective evidence.\nB. Zhang Qiang reminds Liu Mei of their love and trust, indicating that he does not betray their marriage.\nC. Zhang Qiang shows the message from his boss asking him to work overtime, explaining why he does not inform in advance.\nD. Zhang Qiang can show Liu Mei his phone, proving that the phone really is out of power.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

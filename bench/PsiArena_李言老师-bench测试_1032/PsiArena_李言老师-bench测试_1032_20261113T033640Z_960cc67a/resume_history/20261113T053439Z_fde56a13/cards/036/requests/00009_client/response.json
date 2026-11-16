@@ -1,0 +1,41 @@
+{
+  "id": "d3d08b181c5e4018a5085b484a1e29c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想走过去跟他说句话吧，或者就坐他旁边也行。可是每次脚就像钉住了一样，动不了。我爸妈从小就说女孩子要稳当点，别出头……可能我也习惯了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我希望自己当时做点什么……我其实每天都在想这个。有时候想走过去跟他说句话，有时候想干脆坐他旁边，可是每次脚就像被钉住了一样。）\n（我从小就被教要懂事，别惹事，别出头。爸妈总说女孩子要稳当，别让人说闲话。所以现在我就卡在这儿了，想动又不敢动，心里特别拧巴。）",
+        "reasoning": "（他问我希望自己当时做点什么……我其实每天都在想这个。有时候想走过去跟他说句话，有时候想干脆坐他旁边，可是每次脚就像被钉住了一样。）\n（我从小就被教要懂事，别惹事，别出头。爸妈总说女孩子要稳当，别让人说闲话。所以现在我就卡在这儿了，想动又不敢动，心里特别拧巴。）"
+      }
+    }
+  ],
+  "created": 1794542943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1610,
+    "total_tokens": 1739,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

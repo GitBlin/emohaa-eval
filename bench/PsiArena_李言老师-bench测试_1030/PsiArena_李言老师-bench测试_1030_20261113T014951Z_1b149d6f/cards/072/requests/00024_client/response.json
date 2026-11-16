@@ -1,0 +1,41 @@
+{
+  "id": "8e9dc571534b4170a368deac3429baba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "用手机闹钟吧，设十分钟，响了就停，不管弄没弄完。这样心里有个准头，不至于又拖下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，连计时方式都关心。我本来有点怕自己又拖，但她这么一问，反而让我觉得这事真的可以落地。用手机闹钟吧，省得我老看表分心。）\n（不过想到今晚要试，心里还是有点紧。十分钟说短也不短，那个声音肯定会在旁边嘀咕。但既然都说到这儿了，总得给自己一个交代。）",
+        "reasoning": "（她问得挺细的，连计时方式都关心。我本来有点怕自己又拖，但她这么一问，反而让我觉得这事真的可以落地。用手机闹钟吧，省得我老看表分心。）\n（不过想到今晚要试，心里还是有点紧。十分钟说短也不短，那个声音肯定会在旁边嘀咕。但既然都说到这儿了，总得给自己一个交代。）"
+      }
+    }
+  ],
+  "created": 1794538618,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3586,
+    "total_tokens": 3705,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dc5bcb7386de49b082854974de736c99",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……好像真没有。室友嘛，点头之交，我也不太敢跟她们说这些。想想还挺吓人的，我好像把所有的都压在她一个人身上了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我除了她之外还有没有别人能说心里话……说实话我第一反应是“没有”，好像真的只有她一个。但仔细想想，室友偶尔也会关心我，只是我从来没有真正跟她们说过什么。）\n（我是不是太把所有重心都压在她一个人身上了？这个念头让我有点不安，好像我一直以来都默认自己只有这一个出口。可如果真是这样，那她一走开，我整个人就空了。）",
+        "reasoning": "（她问我除了她之外还有没有别人能说心里话……说实话我第一反应是“没有”，好像真的只有她一个。但仔细想想，室友偶尔也会关心我，只是我从来没有真正跟她们说过什么。）\n（我是不是太把所有重心都压在她一个人身上了？这个念头让我有点不安，好像我一直以来都默认自己只有这一个出口。可如果真是这样，那她一走开，我整个人就空了。）"
+      }
+    }
+  ],
+  "created": 1794534672,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2530,
+    "total_tokens": 2659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6dd022c570c845409366a31f7f59bfec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，好像大家都觉得那样挺正常的。……不过现在坐在这儿跟你说这些，感觉好像有点不一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有人替我说过话……我想了半天，真的想不出来。那时候好像所有人都觉得比较是正常的，连我自己都觉得是我不够努力。说出来有点难堪，但确实没有。）\n（不过她这么一问，我忽然想到，现在坐在这里跟她讲这些，好像跟以前不太一样了。以前没人听，现在至少有人在听。虽然我也不知道这算不算“替我说过话”，但感觉上……好像有点接近。）",
+        "reasoning": "（她问我有没有人替我说过话……我想了半天，真的想不出来。那时候好像所有人都觉得比较是正常的，连我自己都觉得是我不够努力。说出来有点难堪，但确实没有。）\n（不过她这么一问，我忽然想到，现在坐在这里跟她讲这些，好像跟以前不太一样了。以前没人听，现在至少有人在听。虽然我也不知道这算不算“替我说过话”，但感觉上……好像有点接近。）"
+      }
+    }
+  ],
+  "created": 1794536787,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2494,
+    "total_tokens": 2611,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

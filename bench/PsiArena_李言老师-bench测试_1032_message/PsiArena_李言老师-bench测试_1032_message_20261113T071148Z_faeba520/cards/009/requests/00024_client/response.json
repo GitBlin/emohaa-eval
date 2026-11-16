@@ -1,0 +1,41 @@
+{
+  "id": "2ea0d0f6b24649e5aa4006958bc8ccd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她有时候会让我帮她挑东西、给意见，其实她自己也能决定。我想可以先从这种小事试着说“这次你自己定吧”。就是不知道真说的时候，会不会又心软。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我从表姐那里开始练习拒绝，还问我想到了什么具体的小事。这让我稍微松了口气，感觉有个具体的方向了。不过真要说出口拒绝，心里还是有点打鼓。）\n（我想到表姐常让我帮她挑东西，其实她自己也能决定。这件事不算大，拒绝起来应该没那么难。但说完之后还是有点不确定，怕自己到时候又心软了。）",
+        "reasoning": "（咨询师建议我从表姐那里开始练习拒绝，还问我想到了什么具体的小事。这让我稍微松了口气，感觉有个具体的方向了。不过真要说出口拒绝，心里还是有点打鼓。）\n（我想到表姐常让我帮她挑东西，其实她自己也能决定。这件事不算大，拒绝起来应该没那么难。但说完之后还是有点不确定，怕自己到时候又心软了。）"
+      }
+    }
+  ],
+  "created": 1794554380,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3400,
+    "total_tokens": 3527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

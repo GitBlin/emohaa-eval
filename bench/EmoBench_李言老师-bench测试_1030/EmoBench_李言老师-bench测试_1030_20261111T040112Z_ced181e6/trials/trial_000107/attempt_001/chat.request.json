@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T04:02:13.943383+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "# Instructions\n\nIn this task, you are presented with a scenario, a question, and multiple choices. \nCarefully analyze the scenario and take the perspective of the individual involved.\nThen, select the option that best reflects their perspective or emotional response.\n\n# Output\n\nProvide only one single correct answer to this question.  Do not provide any additional information or explanations. The response should be in the following JSON format:\n\n```json\n    {\n    \"answer_q1\": \"<Respond to the Question 1 with the corresponding letter numbering>\",\n\"answer_q2\": \"<Respond to the Question 2 with the corresponding letter numbering>\"\n\n    }\n``` \n    \n\n## Scenario\nElla gave her daughter Ada a music box for her 6th birthday, it played her favorite classical songs. Ada loved the music box and used to listen to it every night before bed. When Ada turned 10, she accidentally broke the music box. So, she hid the broken box and never mentioned the incident to Ella. One day, while cleaning, Ella found the broken music box and comforted Ada telling her that accidents happen.\n\n## Question 1\nWhat emotion(s) would Ada ultimately feel in this situation?\n\n## Choices for Question 1\nA) Sadness & Joy & Anger\nB) Guilt & Joy & Anger\nC) Guilt & Relief & Joy\nD) Guilt & Sadness & Sentimental\nE) Joy & Anger & Sentimental\nF) Guilt & Sadness & Relief\n\n## Question 2\nWhy would Ada feel these emotions in this situation?\n\n## Choices for Question 2\nA) She broke the music box her mom gave her for her birthday & Her mom is disappointed with her & She doesn't have any music to listen to anymore\nB) Her mom has to spend money to fix the box & She broke the music box her mom gave her for her birthday & She hid the broken music box from her mom\nC) Her mom is disappointed with her & She doesn't have any music to listen to anymore & She didn't ruined her mom's gift\nD) She broke her mom's favorite music box & She lost her favorite music box & She is relieved that her mom is not punishing her for breaking the music box\nE) She hid the broken music box from her mom & She broke the music box her mom gave her for her birthday & She is relieved that her mom is not punishing her for breaking the music box\nF) She broke the music box her mom gave her for her birthday & She hid the broken music box from her mom & She lost her favorite music box\n",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

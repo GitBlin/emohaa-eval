@@ -1,0 +1,41 @@
+{
+  "id": "cd7f64bf2c9a46f9b6984ba7090222e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我自己……说实话，我好像很少这样想过。好像一直都是在想“应该怎样”，很少问自己到底想怎样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问抛开父母的看法我会怎么看……这让我有点乱。我一直觉得自己不够好，好像做什么都要先想想别人会怎么评价。可如果真没人评判，我反而不知道该怎么面对那些事了。）\n（也许我其实一直没机会问自己到底想要什么。每次都是“应该做”“必须做”，很少停下来想“我想不想做”。这问题让我有点不知道从哪儿回答，但又好像碰到了什么。）",
+        "reasoning": "（她问抛开父母的看法我会怎么看……这让我有点乱。我一直觉得自己不够好，好像做什么都要先想想别人会怎么评价。可如果真没人评判，我反而不知道该怎么面对那些事了。）\n（也许我其实一直没机会问自己到底想要什么。每次都是“应该做”“必须做”，很少停下来想“我想不想做”。这问题让我有点不知道从哪儿回答，但又好像碰到了什么。）"
+      }
+    }
+  ],
+  "created": 1794558457,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1930,
+    "total_tokens": 2047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

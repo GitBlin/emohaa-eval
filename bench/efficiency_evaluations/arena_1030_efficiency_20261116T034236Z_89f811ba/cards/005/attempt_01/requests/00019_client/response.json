@@ -1,0 +1,47 @@
+{
+  "id": "146d737eabbf41a6a03eb8366cce5f95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "三天记一次，这个我能做到，听着没那么吓人。那记下来之后呢，我拿这些记录干嘛？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把目标定得更小了，还点出我又在提前怪自己。这让我有点不好意思，但也松一口气，好像不用那么紧绷了。三天记一次，这个我确实能做到。）\n（不过光记念头，好像还是绕不开等消息这件事本身。我想知道下一步能做什么，不只是看着自己陷进去。也许可以问问咨询师，除了记录，我还能试着做点什么不一样的事。）",
+        "reasoning": "（咨询师把目标定得更小了，还点出我又在提前怪自己。这让我有点不好意思，但也松一口气，好像不用那么紧绷了。三天记一次，这个我确实能做到。）\n（不过光记念头，好像还是绕不开等消息这件事本身。我想知道下一步能做什么，不只是看着自己陷进去。也许可以问问咨询师，除了记录，我还能试着做点什么不一样的事。）"
+      }
+    }
+  ],
+  "created": 1794800771,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2941,
+    "total_tokens": 3054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2816,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

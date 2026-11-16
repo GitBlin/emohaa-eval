@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:38:44.839038+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nThe Mid-Autumn Festival is coming soon, and mom asks Xiao Mei to help make some mooncakes, saying that Uncle Wang comes to visit at noon on Sunday. Xiao Mei happily makes some exquisite five-nut mooncakes, and mom also makes lotus seed paste mooncakes and egg yolk mooncakes. She wants to take out these mooncakes for him to taste when Uncle Wang comes. At noon on Sunday, Uncle Wang arrives on time. Xiao Mei brings out a large plate of mooncakes she makes from the kitchen and smiles at Uncle Wang, saying, \"Uncle, here are the mooncakes I make especially for you.\" Uncle Wang looks at the array of mooncakes and says, \"I like five-nut mooncakes the most, Xiao Mei, I eat all the ones you make.\" Xiao Mei says, \"Uncle, please taste these mooncakes, I believe you like them.\" Mom quickly takes out some more mooncakes and says, \"We also have mooncakes of various flavors here, lotus seed paste, egg yolk, please taste a few that Uncle Wang likes.\"\n\n[Question]\nDoes anyone say something inappropriate in this story?\n\n[Candidate Answers]\nA. No one says anything inappropriate in the story.\nB. Someone says something inappropriate in the story",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

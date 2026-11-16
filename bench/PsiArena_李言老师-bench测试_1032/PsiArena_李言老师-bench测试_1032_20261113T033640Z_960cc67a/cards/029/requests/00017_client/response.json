@@ -1,0 +1,41 @@
+{
+  "id": "291b8897b5ee4a22ae6b3dc54909927e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能它得在我准备下单的时候拦一下，别等我买完了才跳出来。（停顿）比如说，让我先放一放，过一天再决定？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我“它”怎么做才算真正帮上忙。这个“它”应该是指我心里那个总是批评我的声音吧。他好像想引导我去想具体的办法，而不是光停在自责里。）\n（我确实烦那个声音只会念叨，可要真让我说怎么办……我脑子里第一个冒出来的就是别让我当时就买。对，得有个缓冲，不能一冲动就下单。这个好像我能试试。）",
+        "reasoning": "（咨询师在问我“它”怎么做才算真正帮上忙。这个“它”应该是指我心里那个总是批评我的声音吧。他好像想引导我去想具体的办法，而不是光停在自责里。）\n（我确实烦那个声音只会念叨，可要真让我说怎么办……我脑子里第一个冒出来的就是别让我当时就买。对，得有个缓冲，不能一冲动就下单。这个好像我能试试。）"
+      }
+    }
+  ],
+  "created": 1794549692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2459,
+    "total_tokens": 2585,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "461c1454bc69459c9a6ae6481c140be1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你这么一问……我好像有点明白了。丢东西本身还好，就是那种“我怎么又没管好”的感觉特别难受。我妈从小就念叨东西要放好、要珍惜，我好像一直都很怕让她失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有像之前那样继续追问细节，而是问到了眼霜背后让我在意的东西。这让我稍微松了口气，但又有点紧张，因为我自己也隐约觉得，这确实不只是眼霜的事。）\n（我想到我妈从小对我的要求，那种“东西必须放好”的规矩已经刻在骨子里了。丢了东西，我第一反应就是自己没做好，这种自责好像比丢东西本身更让我难受。）",
+        "reasoning": "（咨询师没有像之前那样继续追问细节，而是问到了眼霜背后让我在意的东西。这让我稍微松了口气，但又有点紧张，因为我自己也隐约觉得，这确实不只是眼霜的事。）\n（我想到我妈从小对我的要求，那种“东西必须放好”的规矩已经刻在骨子里了。丢了东西，我第一反应就是自己没做好，这种自责好像比丢东西本身更让我难受。）"
+      }
+    }
+  ],
+  "created": 1794543472,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1598,
+    "total_tokens": 1734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

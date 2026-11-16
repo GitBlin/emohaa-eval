@@ -1,0 +1,53 @@
+{
+  "trial_id": "trial_005607",
+  "sample_id": "Faux-pas Recognition Test:262",
+  "task_file": "Faux-pas Recognition Test",
+  "ability": "Non-Literal Communication: Faux pas",
+  "language": "en",
+  "repeat": 0,
+  "answer": "D",
+  "map": {
+    "A": "B",
+    "B": "D",
+    "C": "A",
+    "D": "C"
+  },
+  "status": "ok",
+  "correct": false,
+  "strict_format": true,
+  "prediction": "D",
+  "prediction_original": "C",
+  "reply": "[[D]]",
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-12T03:01:40.366882+00:00",
+      "stage": "chat",
+      "status": "error",
+      "error": "APIError: 内容生成状态失败，请稍后重试"
+    },
+    {
+      "number": 2,
+      "started_at": "2026-11-12T03:02:01.768892+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "server_chat_ids": [
+    "eb79e7b466ec4890820cdada67d417b4"
+  ],
+  "started_at": "2026-11-12T03:01:40.366882+00:00",
+  "finished_at": "2026-11-12T03:02:04.765259+00:00",
+  "elapsed_seconds": 24.39848703145981,
+  "user_id": "liyan_811f6aa780a9ce2eb5a6a99d9d576ed8a8c3e2c2"
+}

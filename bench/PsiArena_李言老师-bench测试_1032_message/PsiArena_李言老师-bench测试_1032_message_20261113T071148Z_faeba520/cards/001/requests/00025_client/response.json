@@ -1,0 +1,41 @@
+{
+  "id": "1e7ead4dc8a54bbbb53c872daf01fa9b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点累，但……心里好像松了一点点。以前这些事我从来没跟人说过，说出来，好像没那么堵了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我现在的感觉，好像是在确认我有没有轻松一点。刚才聊完确实没那么堵了，但要说完全明白也谈不上。不过至少知道了那股紧张是从哪来的，也知道可以试着跟同桌多说一句。）\n（有点累，又有点说不上来的松快。这些话以前从没跟谁讲过，现在讲出来，反倒觉得没那么沉了。也许下次还能再聊聊。）",
+        "reasoning": "（她问我现在的感觉，好像是在确认我有没有轻松一点。刚才聊完确实没那么堵了，但要说完全明白也谈不上。不过至少知道了那股紧张是从哪来的，也知道可以试着跟同桌多说一句。）\n（有点累，又有点说不上来的松快。这些话以前从没跟谁讲过，现在讲出来，反倒觉得没那么沉了。也许下次还能再聊聊。）"
+      }
+    }
+  ],
+  "created": 1794554000,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3075,
+    "total_tokens": 3186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

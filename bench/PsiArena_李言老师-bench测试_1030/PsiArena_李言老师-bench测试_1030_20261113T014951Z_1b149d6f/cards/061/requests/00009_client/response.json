@@ -1,0 +1,41 @@
+{
+  "id": "a1131015b3e54cdfaa49f6f4206f5bb6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说了也没用吧……更难受。我从小就这样，考好了他们高兴，考砸了就是我不够努力。好像我这个人怎么样不重要，重要的是我做到了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是没人接住还是说了也没用，这让我想起很多事。其实说了也没用更让我难受，因为那意味着连尝试都是多余的。我爸妈从小就这样，他们只关心成绩和表现，情绪什么的根本不重要。）\n（说到这个我就有点控制不住，好像一下子回到了那种被忽视的感觉里。我得让他知道，在我家，表达感受根本不被当回事，好像只有做出成绩才算数。）",
+        "reasoning": "（他问的是没人接住还是说了也没用，这让我想起很多事。其实说了也没用更让我难受，因为那意味着连尝试都是多余的。我爸妈从小就这样，他们只关心成绩和表现，情绪什么的根本不重要。）\n（说到这个我就有点控制不住，好像一下子回到了那种被忽视的感觉里。我得让他知道，在我家，表达感受根本不被当回事，好像只有做出成绩才算数。）"
+      }
+    }
+  ],
+  "created": 1794537609,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1753,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

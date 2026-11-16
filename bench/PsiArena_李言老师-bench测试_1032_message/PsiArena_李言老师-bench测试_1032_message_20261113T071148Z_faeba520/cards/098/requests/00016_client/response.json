@@ -1,0 +1,41 @@
+{
+  "id": "16b1a31c32fb4b81b3459a1def1681a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有个同桌还行，他脾气好。要不我先问他？不过我怕一紧张就结巴，那就更丢人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找开口问的具体办法，这让我觉得没那么难了。可一想到真要跟同学说话，心里还是有点打鼓，得问问万一紧张了该怎么办，不然我可能又缩回去了。）\n（其实我挺想试试的，就是需要有人告诉我第一步怎么迈。要是知道紧张时能怎么办，我可能就敢去问了。）",
+        "reasoning": "（咨询师在帮我找开口问的具体办法，这让我觉得没那么难了。可一想到真要跟同学说话，心里还是有点打鼓，得问问万一紧张了该怎么办，不然我可能又缩回去了。）\n（其实我挺想试试的，就是需要有人告诉我第一步怎么迈。要是知道紧张时能怎么办，我可能就敢去问了。）"
+      }
+    }
+  ],
+  "created": 1794558663,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2402,
+    "total_tokens": 2506,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

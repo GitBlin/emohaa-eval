@@ -1,0 +1,41 @@
+{
+  "id": "ec4976e158d34b3fb5476746b068b7c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像……什么也不会发生。（轻轻笑了一下）就是我自己不习惯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么一问，我一下子有点答不上来。好像从来没想过只写三行就停，会不会真的天塌下来。可仔细想想，大概什么也不会发生吧，只是我自己不习惯。）\n（不过这个念头反而让我有点松动了。也许我可以试着不那么较劲，先答应下次只写三行看看。心里还是有点没底，但好像没那么可怕了。）",
+        "reasoning": "（她这么一问，我一下子有点答不上来。好像从来没想过只写三行就停，会不会真的天塌下来。可仔细想想，大概什么也不会发生吧，只是我自己不习惯。）\n（不过这个念头反而让我有点松动了。也许我可以试着不那么较劲，先答应下次只写三行看看。心里还是有点没底，但好像没那么可怕了。）"
+      }
+    }
+  ],
+  "created": 1794536823,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2879,
+    "total_tokens": 2980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

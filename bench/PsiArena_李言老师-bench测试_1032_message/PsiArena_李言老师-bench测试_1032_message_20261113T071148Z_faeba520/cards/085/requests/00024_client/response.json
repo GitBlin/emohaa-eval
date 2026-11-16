@@ -1,0 +1,41 @@
+{
+  "id": "aff99f4cd66b4e66b3fe5c555e043382",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就留着吧，写太多我怕又变成任务了。嗯……周末约妹妹的事，我倒是可以也加一句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我写完那句话之后想再补点什么，还是就这样留着。她好像很尊重我的节奏，没有催我多做。我其实有点想再写点具体的，比如周末约妹妹的事，这样到时候看到能提醒自己。）\n（不过我又怕写多了变成任务，反而给自己压力。以前就是这样，什么事都想做到周全，结果反而动不了。所以还是简单点好，就这一句，加上周末这个小小的约定就够了。）",
+        "reasoning": "（咨询师在问我写完那句话之后想再补点什么，还是就这样留着。她好像很尊重我的节奏，没有催我多做。我其实有点想再写点具体的，比如周末约妹妹的事，这样到时候看到能提醒自己。）\n（不过我又怕写多了变成任务，反而给自己压力。以前就是这样，什么事都想做到周全，结果反而动不了。所以还是简单点好，就这一句，加上周末这个小小的约定就够了。）"
+      }
+    }
+  ],
+  "created": 1794557974,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3027,
+    "total_tokens": 3149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

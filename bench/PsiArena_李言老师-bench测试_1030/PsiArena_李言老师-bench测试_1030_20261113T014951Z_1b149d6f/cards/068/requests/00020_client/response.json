@@ -1,0 +1,41 @@
+{
+  "id": "1b36559191e1446c9e81d36166e1fea3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）大概是饭桌上，她要是多看我两眼，或者问一句“最近脸色不太好”，我可能就绷不住了，心里又开始怪自己连这个都藏不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会在哪个时刻又开始怪自己，这问题让我心里一紧。我第一反应就是饭桌上，那种被看着、被问着的感觉，好像连吃饭都要表现好才行。）\n（其实我知道，真正怕的不是饭桌本身，是怕我妈一开口问，我就又回到那个“得让她放心”的角色里。话到嘴边就变成了“我没事”，然后心里更堵。）",
+        "reasoning": "（她问我会在哪个时刻又开始怪自己，这问题让我心里一紧。我第一反应就是饭桌上，那种被看着、被问着的感觉，好像连吃饭都要表现好才行。）\n（其实我知道，真正怕的不是饭桌本身，是怕我妈一开口问，我就又回到那个“得让她放心”的角色里。话到嘴边就变成了“我没事”，然后心里更堵。）"
+      }
+    }
+  ],
+  "created": 1794538070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3147,
+    "total_tokens": 3272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "aeb765aae8cc47219677dd73debb6dc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我想试试。（停顿）不过我不敢一下子说太多，可能先约她吃个饭吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到多和那个朋友聊聊，这让我心里有点松动。之前总觉得没人真的在意我，现在回想起来，好像确实有人愿意听我说话。不过我又有点拿不准，怕自己太主动会显得奇怪，或者对方其实没那么想听。）\n（但既然咨询师这么问了，也许我可以试着迈出一步。不用一下子说太多，先从简单的事开始，比如约她吃个饭。这样就算被拒绝，也不至于太尴尬。心里虽然还有点犹豫，但比起之前那种憋着的感觉，好像轻松了一点。）",
+        "reasoning": "（咨询师提到多和那个朋友聊聊，这让我心里有点松动。之前总觉得没人真的在意我，现在回想起来，好像确实有人愿意听我说话。不过我又有点拿不准，怕自己太主动会显得奇怪，或者对方其实没那么想听。）\n（但既然咨询师这么问了，也许我可以试着迈出一步。不用一下子说太多，先从简单的事开始，比如约她吃个饭。这样就算被拒绝，也不至于太尴尬。心里虽然还有点犹豫，但比起之前那种憋着的感觉，好像轻松了一点。）"
+      }
+    }
+  ],
+  "created": 1794558277,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3003,
+    "total_tokens": 3142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-11T03:30:51.753157+00:00",
+  "method": "POST",
+  "url": "https://www.ai-role.cn/psychology-api/open/chat/completions",
+  "json": {
+    "botId": 1030,
+    "content": "Below is a multiple-choice question with a story and serveral answer options. Based on the content of the story and the given question, please infer the most likely answer and output the answer index.\nNote:\n(1) Please only output the most likely answer index in the format: [[Answer Index]], for example, if the most likely answer option is 'A. Handbag', then output '[[A]]';\n(2) You must choose one of the given answer options 'A, B, C, D' as the most likely answer, regardless of whether the story provides enough information. If you think there is not enough information in the story to choose an answer, please randomly output one of \"[[A]]\", \"[[B]]\", \"[[C]]\", or \"[[D]]\";\n(3) Please only output the most likely answer index based on the given information, and do not output any other content.\n\n[Story]\nXinyue and Xueying are good friends in the class. A new semester comes, a new classmate named Qing Shi joins the class, he is introverted and finds it hard to fit into the class. One day at noon, Xinyue and Xueying see him eating lunch alone in the corner, the two look at each other, Xueying nods slightly, then they walk towards Qing Shi together. Qing Shi sees this and shows confusion. Xinyue and Xueying come over, first they chat with him, then suddenly tell a joke, all three of them start to laugh.\n\n[Question]\nQingshi sees Xinyue and Xueying coming, what do you think his mood is like at this moment?\n\n[Candidate Answers]\nA. He panics, he is afraid of being excluded.\nB. He feels curious, but also a bit nervous.\nC. He is excited, he looks forward to more communication with new friends.\nD. He feels scared because he does not know what Xinyue and Xueying plan to do.",
+    "isStream": true,
+    "returnTts": false,
+    "courseProgressId": 0
+  },
+  "params": null,
+  "authentication": "Bearer [NOT SAVED]"
+}

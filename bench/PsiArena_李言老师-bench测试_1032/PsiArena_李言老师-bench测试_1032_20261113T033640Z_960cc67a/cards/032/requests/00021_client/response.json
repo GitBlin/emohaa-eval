@@ -1,0 +1,41 @@
+{
+  "id": "04601187bce949439becdd7b967a20f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想去楼下走两圈吧，或者把桌上堆着的东西收一下。反正别让自己一直守着手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我打算用哪件小事来占住这段时间，是在帮我把刚才说的“不一直盯着手机”变成具体能做的事。我确实需要有个东西把我从等消息的焦虑里拉出来，不然光说“不盯着”根本做不到。）\n（想想平时能让我稍微放松点的事，散步好像最合适。不用跟人说话，也不用花什么钱，走一走至少能让脑子没那么乱。而且时间不长，回来之后也不会觉得太累或者太刻意。）",
+        "reasoning": "（她问我打算用哪件小事来占住这段时间，是在帮我把刚才说的“不一直盯着手机”变成具体能做的事。我确实需要有个东西把我从等消息的焦虑里拉出来，不然光说“不盯着”根本做不到。）\n（想想平时能让我稍微放松点的事，散步好像最合适。不用跟人说话，也不用花什么钱，走一走至少能让脑子没那么乱。而且时间不长，回来之后也不会觉得太累或者太刻意。）"
+      }
+    }
+  ],
+  "created": 1794549983,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2966,
+    "total_tokens": 3093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

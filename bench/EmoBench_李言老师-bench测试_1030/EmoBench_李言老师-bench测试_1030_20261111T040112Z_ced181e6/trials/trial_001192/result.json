@@ -1,0 +1,67 @@
+{
+  "trial_id": "trial_001192",
+  "sample_id": "EU:198",
+  "task": "EU",
+  "language": "zh",
+  "repeat": 1,
+  "category": "perspective_taking",
+  "fine_category": "false_belief",
+  "question_type": null,
+  "labels": {
+    "answer_q1": "A",
+    "answer_q2": "B"
+  },
+  "maps": {
+    "answer_q1": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E",
+      "F": "F"
+    },
+    "answer_q2": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    }
+  },
+  "user_id": "emo_600ee0fc2dc2bb86c372fb3e1f3833abd54fffb5",
+  "status": "invalid_answer",
+  "correct": false,
+  "strict_format": false,
+  "reply": "{\n    \"answer_q1\": \"B) 失望\",\n    \"answer_q2\": \"D) 她发现丹尼尔会邀请丽莎\"\n}",
+  "prediction_original": {
+    "answer_q1": null,
+    "answer_q2": null
+  },
+  "component_correct": {
+    "answer_q1": false,
+    "answer_q2": false
+  },
+  "attempts": [
+    {
+      "number": 1,
+      "started_at": "2026-11-11T04:01:15.876861+00:00",
+      "stage": "chat",
+      "status": "received"
+    }
+  ],
+  "response_metadata": {
+    "models": [
+      "1030"
+    ],
+    "conversation_ids": [],
+    "finish_seen": true
+  },
+  "prediction_shown": {
+    "answer_q1": null,
+    "answer_q2": null
+  },
+  "response_sources": [
+    "agent:llm"
+  ],
+  "elapsed_seconds": 2.1718314737081528,
+  "finished_at": "2026-11-11T04:01:18.048651+00:00"
+}

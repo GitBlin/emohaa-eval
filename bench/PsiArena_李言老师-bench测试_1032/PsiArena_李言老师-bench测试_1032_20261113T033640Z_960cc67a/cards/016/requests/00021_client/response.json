@@ -1,0 +1,41 @@
+{
+  "id": "4778891fb4104341b17f00585e6c29f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是有一次我问她爸最近怎么样，她停了一下才说“挺好的”。那个停顿让我心里一直过不去，但我也怕是我自己太敏感。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近哪件小事让我开始怀疑妈妈，这让我心里一紧。其实我一直在回避这个念头，因为怀疑妈妈比怀疑爸爸更让我难受。但既然已经聊到这里，也许可以试着说一点。）\n（我想到那天她说话吞吞吐吐的样子，那种欲言又止的感觉让我特别不安。可我又怕说出来会显得我在指责妈妈，毕竟她可能只是不想让我担心。这种矛盾让我很纠结，不知道该不该继续深究。）",
+        "reasoning": "（咨询师问我最近哪件小事让我开始怀疑妈妈，这让我心里一紧。其实我一直在回避这个念头，因为怀疑妈妈比怀疑爸爸更让我难受。但既然已经聊到这里，也许可以试着说一点。）\n（我想到那天她说话吞吞吐吐的样子，那种欲言又止的感觉让我特别不安。可我又怕说出来会显得我在指责妈妈，毕竟她可能只是不想让我担心。这种矛盾让我很纠结，不知道该不该继续深究。）"
+      }
+    }
+  ],
+  "created": 1794548583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2918,
+    "total_tokens": 3051,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

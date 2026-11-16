@@ -1,0 +1,41 @@
+{
+  "id": "6a14f2c9b2454ddaa5c5bc70e99a7072",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“我怕”这两个字吧……说出口就好像承认自己不行。但今天聊下来，好像说出来也没塌下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最难说出口的是哪几个字，我得想想。其实“我怕”这两个字最难，因为说出来就像承认自己软弱。我从小就不习惯示弱，总觉得得扛着。）\n（但今天聊到这儿，好像没那么怕了。说出口的时候可能会有点丢脸，可也许说出来反而轻松点。）",
+        "reasoning": "（咨询师问我最难说出口的是哪几个字，我得想想。其实“我怕”这两个字最难，因为说出来就像承认自己软弱。我从小就不习惯示弱，总觉得得扛着。）\n（但今天聊到这儿，好像没那么怕了。说出口的时候可能会有点丢脸，可也许说出来反而轻松点。）"
+      }
+    }
+  ],
+  "created": 1794552965,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3400,
+    "total_tokens": 3497,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

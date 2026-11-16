@@ -1,0 +1,41 @@
+{
+  "id": "1af7595c18d547f5b3394fb8a1300a6b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能有吧。以前跟人说过一些事，最后都被说成是“你想太多了”。那你们咨询里，我说的话你会怎么处理？会不会记下来告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我以前有没有类似经历...其实我确实遇到过，但不太想这么快就掏心窝子。她刚才说节奏由我定，这点让我稍微放松了点，可我还是得先搞清楚她到底会怎么处理我说的话。万一我说多了，她转头就给我贴个标签呢？先试探一下她的做法比较保险。）",
+        "reasoning": "（她问我以前有没有类似经历...其实我确实遇到过，但不太想这么快就掏心窝子。她刚才说节奏由我定，这点让我稍微放松了点，可我还是得先搞清楚她到底会怎么处理我说的话。万一我说多了，她转头就给我贴个标签呢？先试探一下她的做法比较保险。）"
+      }
+    }
+  ],
+  "created": 1794553093,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1002,
+    "total_tokens": 1113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

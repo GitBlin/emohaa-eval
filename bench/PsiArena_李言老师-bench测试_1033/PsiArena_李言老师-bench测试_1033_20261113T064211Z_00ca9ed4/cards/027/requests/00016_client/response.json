@@ -1,0 +1,41 @@
+{
+  "id": "b3100e744ce742298cfa63b3726d08fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有过一两次吧，跟一个朋友聊过，说完确实轻松些。但也有说完更糟的，被人当矫情。所以后来我就学会看人下菜了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在问我以前有没有说出口反而变轻的经历。我脑子里第一个冒出来的就是跟朋友吐槽那次，那感觉确实轻松些。但马上又想到，不是每次都能这么幸运，有时候说完反而更糟，被当成矫情。）\n（我得把这两面都说出来，不能只挑好的讲。现在想想，关键可能在于说给谁听。朋友那次是安全的，所以轻了；有些场合说了反而更堵。这让我开始琢磨，也许我该更留意选择跟谁说。）",
+        "reasoning": "（她在问我以前有没有说出口反而变轻的经历。我脑子里第一个冒出来的就是跟朋友吐槽那次，那感觉确实轻松些。但马上又想到，不是每次都能这么幸运，有时候说完反而更糟，被当成矫情。）\n（我得把这两面都说出来，不能只挑好的讲。现在想想，关键可能在于说给谁听。朋友那次是安全的，所以轻了；有些场合说了反而更堵。这让我开始琢磨，也许我该更留意选择跟谁说。）"
+      }
+    }
+  ],
+  "created": 1794553304,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2630,
+    "total_tokens": 2775,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

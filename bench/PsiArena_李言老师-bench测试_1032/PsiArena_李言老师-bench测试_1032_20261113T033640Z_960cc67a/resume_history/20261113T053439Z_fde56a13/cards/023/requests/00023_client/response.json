@@ -1,0 +1,41 @@
+{
+  "id": "75928fafcc354d0490aeb720b1fb27bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，先呼一口长气，不求立刻冷静，只求别马上接话。我想给自己定个小目标：下次开会先试一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我停下来做一次慢呼气，这听起来是个具体能操作的办法。我有点怀疑自己能不能做到，毕竟以前总是被情绪带着走，但也许可以试试，至少比什么都不做强。）\n（想到要给自己定个目标，我有点犹豫，怕又变成那种“必须做到”的压力。不过只是先试一次，不要求完美，应该还行吧。我得把话说得实际点，也给自己留点余地。）",
+        "reasoning": "（咨询师建议我停下来做一次慢呼气，这听起来是个具体能操作的办法。我有点怀疑自己能不能做到，毕竟以前总是被情绪带着走，但也许可以试试，至少比什么都不做强。）\n（想到要给自己定个目标，我有点犹豫，怕又变成那种“必须做到”的压力。不过只是先试一次，不要求完美，应该还行吧。我得把话说得实际点，也给自己留点余地。）"
+      }
+    }
+  ],
+  "created": 1794542276,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3258,
+    "total_tokens": 3385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

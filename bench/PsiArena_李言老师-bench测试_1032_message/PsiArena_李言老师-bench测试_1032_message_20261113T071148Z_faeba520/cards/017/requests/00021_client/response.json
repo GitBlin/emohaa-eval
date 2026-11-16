@@ -1,0 +1,41 @@
+{
+  "id": "becd03efa77c49248723b677f9ac3f13",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要不……就提醒自己深呼吸一下，那句“我也怕”是我自己的话，不是别人逼我说的。这样行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我给自己什么小提醒，这让我想到那些晚上反复纠结的时刻。其实我心里一直有个声音在说“再等等”，但现在我想试试换个说法。）\n（也许我可以把那个深呼吸的动作当成一个信号，告诉自己已经准备好了。这样说出来，好像真的能让我在卡住的时候有个抓手。）",
+        "reasoning": "（他问我给自己什么小提醒，这让我想到那些晚上反复纠结的时刻。其实我心里一直有个声音在说“再等等”，但现在我想试试换个说法。）\n（也许我可以把那个深呼吸的动作当成一个信号，告诉自己已经准备好了。这样说出来，好像真的能让我在卡住的时候有个抓手。）"
+      }
+    }
+  ],
+  "created": 1794554707,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2711,
+    "total_tokens": 2802,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}
