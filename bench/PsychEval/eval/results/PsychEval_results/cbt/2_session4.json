@@ -1,0 +1,11 @@
+{
+  "case_name": "2",
+  "case_number": "",
+  "case_path": "eval/data_sample/PsychEval/cbt/2.json",
+  "session_number": 4,
+  "session_file": "session_4",
+  "error": "Unknown scheme for proxy URL URL('')",
+  "full_error": "Error evaluating session 4: Unknown scheme for proxy URL URL('')\nTraceback: Traceback (most recent call last):\n  File \"/mnt/shared-storage-user/cl4mind/panqianjun/make_data/github/eval/manager/evaluation_multi.py\", line 373, in process_single_file_thread\n    results = loop.run_until_complete(self.evaluate_single(test_case))\n  File \"/root/miniconda3/envs/make_data/lib/python3.10/asyncio/base_events.py\", line 649, in run_until_complete\n    return future.result()\n  File \"/mnt/shared-storage-user/cl4mind/panqianjun/make_data/github/eval/manager/evaluation_multi.py\", line 661, in evaluate_single\n    evaluations = await asyncio.gather(*tasks)\n  File \"/mnt/shared-storage-user/cl4mind/panqianjun/make_data/github/eval/manager/evaluation_multi.py\", line 654, in run_evaluation\n    gpt_api = GPT5ChatClient(api_key=self.api_key, base_url=self.base_url, model=self.model_name, rps=16)\n  File \"/mnt/shared-storage-user/cl4mind/panqianjun/make_data/github/eval/utils/gpt5_chat_client.py\", line 74, in __init__\n    http_client = httpx.AsyncClient(proxy=proxies, timeout=600)  # 如需公司 CA，可以加 verify=\"/path/to/cacert.pem\"\n  File \"/root/miniconda3/envs/make_data/lib/python3.10/site-packages/httpx/_client.py\", line 1400, in __init__\n    proxy_map = self._get_proxy_map(proxy, allow_env_proxies)\n  File \"/root/miniconda3/envs/make_data/lib/python3.10/site-packages/httpx/_client.py\", line 250, in _get_proxy_map\n    proxy = Proxy(url=proxy) if isinstance(proxy, (str, URL)) else proxy\n  File \"/root/miniconda3/envs/make_data/lib/python3.10/site-packages/httpx/_config.py\", line 214, in __init__\n    raise ValueError(f\"Unknown scheme for proxy URL {url!r}\")\nValueError: Unknown scheme for proxy URL URL('')\n",
+  "evaluation_results": {},
+  "thread_id": "ThreadPoolExecutor-0_1"
+}

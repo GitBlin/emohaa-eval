@@ -1,0 +1,156 @@
+# PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor
+
+[**PsychEval**](https://arxiv.org/html/2601.01802v1) is a comprehensive benchmark designed to evaluate Large Language Models (LLMs) in the context of psychological counseling. Unlike existing benchmarks that focus on single-turn interactions or single-session assessments, PsychEval emphasizes **longitudinal, multi-session counseling** processes and **multi-therapy** capabilities.
+
+
+## 🌟 Key Features
+
+* **Multi-Session Continuity:** Contains full counseling cycles spanning **6-10 sessions** per case, divided into three distinct stages:
+    1.  **Case Conceptualization:** Information gathering and relationship building.
+    2.  **Core Intervention:** Intervention and working through problems.
+    3.  **Consolidation:** Consolidation and termination.
+![Unified Workflow](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/unified_counseling_flow.png)
+<!-- *Figure 1: Overview of the unified counseling workflow.* -->
+* **Multi-Therapy Coverage:** Supports evaluation across different therapeutic approaches (e.g., CBT, SFBT) along with a integrated therapy, requiring the AI to adapt its strategies.
+* **High Realism & Granularity:**
+    * Annotated with extensive professional skills.
+    * Includes **677 meta-skills** and **4577 atomic skills**.
+    * Focuses on memory continuity, dynamic goal tracking, and longitudinal planning.
+* **Reliable Evaluation:** Introduces a multi-agent evaluation framework involving a **Client Simulator** (for realistic role-play) and a **Supervisor Agent** (for professional scoring).
+
+## 📂 Dataset Construction
+
+The dataset simulates a complete counseling lifecycle. Each case is structured to reflect the progression of real-world therapy.
+
+![Case Extraction](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/case_extraction.png)
+<!-- *Figure 2: Overview of the Case Extraction.* -->
+
+![Dialogue Construction](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/dialogue_construction.png)
+<!-- *Figure 3: Overview of the dialogue construction pipeline.* -->
+
+
+## 📊 Data Distribution
+![Statistical Information](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/statistical_information.png)
+<!-- *Table 1: Statistical Information of **PsychEval**.* -->
+
+![Key Feaure Comparison](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/feature_compare.png)
+<!-- *Table 2: Comparison with existing benchmarks on key characteristics.* -->
+
+![Statistical Information Comparison](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/statistical_information_compare.png)
+<!-- *Table 3: Comparison with existing benchmarks in terms of statistical information.* -->
+
+
+
+## Repository Overview
+```
+PsychEval/
+├── data        # Dataset
+│   ├── bt
+│   ├── cbt
+│   ├── het
+│   ├── integrative
+│   ├── pdt
+│   └── pmt
+├── eval        # Evaluation framework & pipelines
+│   ├── data_sample     # Sample data for all benchmark
+│   ├── manager         # Orchestration logic for evaluation tasks
+│   ├── methods         # Implementation of specific metrics
+│   ├── prompts_cn      # Instruction prompts (Chinese)
+│   ├── results         # Directory for saving evaluation outputs
+│   └── utils           # Helper functions
+├── figures
+│   ├── case_extraction.png
+│   ├── dialogue_construction.png
+│   ├── feature_compare.png
+│   ├── quality.png
+│   ├── statistical_information_compare.png
+│   ├── statistical_information.png
+│   └── unified_counseling_flow.png
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
+
+## Evaluation Framework
+
+We establish a holistic assessment system utilizing 18 therapy-specific and shared metrics (e.g., WAI for alliance, CTRS for CBT competency, and SCL-90 for symptom reduction). Our results show that PsychEval achieves unprecedented clinical fidelity, nearly doubling the scores of prior models in technical adherence (e.g., CTRS: 9.19).
+
+![Quality](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/quality.png)
+<!-- *Table 3: Data quality of our benchmark in terms of counselor-level and client-level metrics.* -->
+
+## Step 0: Convert data format
+To evaluate your own benchmark, you must convert your data into the required sessions format.
+
+*  Format Example: Please refer to the eval/manager/Simpsydial/prepared directory to see examples of the expected data structure.
+* Conversion Script: You can use eval/manager/Simpsydial/convert_simpsydial.py as a reference for writing your own conversion code.
+
+
+## Step 1: Configure API Key
+The evaluation script relies on LLMs (e.g., Deepseek-v3.1 ) as judges. You need to configure your API keys.
+**Option A: Environment Variables (Recommended)**
+```bash
+export CHAT_API_KEY="your-api-key"
+export CHAT_API_BASE="your-api-base-url"
+export CHAT_MODEL_NAME="deepseek-v3.1-terminus"
+```
+
+##  Step 2: Running the Evaluation
+1. Main Evaluation Script
+
+To execute the multi-dimensional evaluation, use the following command:
+```python
+python3 -m eval.manager.evaluation_mutil 
+```
+
+2. Configuring Evaluation Metrics
+
+You can customize the active evaluation metrics by modifying the registration list in the main execution script. To enable or disable specific psychological scales (e.g., SCL-90, BDI-II), simply add or remove the corresponding classes from the `method_cls` loop.
+
+**Configuration Example:**
+
+```python
+# In the main function:
+# Modify this list to select which metrics to run
+target_metrics = [
+    HTAIS, 
+    RRO, 
+    WAI, 
+    Custom_Dim, 
+    CTRS, 
+    PANAS, 
+    SCL_90, 
+    SRS, 
+    BDI_II
+]
+
+for method_cls in target_metrics:
+    method_instance = method_cls()
+    eval_manager.register(method_instance)
+    print(f"  Registered: {method_instance.get_name()}")
+```
+
+
+
+
+
+
+## 📝 Citation
+
+If you use PsychEval in your research, please cite our paper:
+
+```bibtex
+@inproceedings{pan2026psycheval,
+      title={PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor}, 
+      author={Qianjun Pan and Junyi Wang and Jie Zhou and Yutao Yang and Junsong Li and Kaiyin Xu and Yougen Zhou and Yihan Li and Jingyuan Zhao and Qin Chen and Ningning Zhou and Kai Chen and Liang He},
+      year={2026},
+      eprint={2601.01802},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.01802}, 
+}
+
+```
+
+
+  
