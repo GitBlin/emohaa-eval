@@ -1,0 +1,41 @@
+{
+  "id": "3921db1888024f268465c3109dcd36b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试过几次吧，但每次一开口，他就紧张，我也跟着慌，最后就不了了之。我是不是太较真了？还是说，我根本就不该抱什么期待。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了沟通的事，这让我想起每次想和他谈未来时的那种无力感。他总是一副逃避的样子，好像我们之间的问题永远不能摊开来说。）\n（我其实很害怕，怕说多了他会觉得我太较真，怕这段关系就这么没了。可憋在心里又难受得要命，这种矛盾快把我撕成两半了。）",
+        "reasoning": "（咨询师提到了沟通的事，这让我想起每次想和他谈未来时的那种无力感。他总是一副逃避的样子，好像我们之间的问题永远不能摊开来说。）\n（我其实很害怕，怕说多了他会觉得我太较真，怕这段关系就这么没了。可憋在心里又难受得要命，这种矛盾快把我撕成两半了。）"
+      }
+    }
+  ],
+  "created": 1795154906,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1854,
+    "total_tokens": 1973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

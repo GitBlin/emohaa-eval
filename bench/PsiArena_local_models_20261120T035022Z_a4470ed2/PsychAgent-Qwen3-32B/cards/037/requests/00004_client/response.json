@@ -1,0 +1,41 @@
+{
+  "id": "7c2ae75bd8a2477e86c8a6fe2c3be22e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还行吧……就是有点紧张。其实我也不太清楚该从哪儿说起，最近就是总觉得心里堵得慌，晚上也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，还问我感觉怎么样。他看起来挺温和的，但我还是不太确定该说多少。毕竟我们才刚见面，我需要试探一下他是不是真的能理解我的处境。）\n（我有点紧张，不知道该从哪儿说起。也许先说说最近睡不好觉的事比较安全，这听起来没那么严重，也不会暴露太多。但我确实需要有人帮我理清这些乱七八糟的感受。）",
+        "reasoning": "（咨询师解释了流程，还问我感觉怎么样。他看起来挺温和的，但我还是不太确定该说多少。毕竟我们才刚见面，我需要试探一下他是不是真的能理解我的处境。）\n（我有点紧张，不知道该从哪儿说起。也许先说说最近睡不好觉的事比较安全，这听起来没那么严重，也不会暴露太多。但我确实需要有人帮我理清这些乱七八糟的感受。）"
+      }
+    }
+  ],
+  "created": 1795147997,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 979,
+    "total_tokens": 1093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

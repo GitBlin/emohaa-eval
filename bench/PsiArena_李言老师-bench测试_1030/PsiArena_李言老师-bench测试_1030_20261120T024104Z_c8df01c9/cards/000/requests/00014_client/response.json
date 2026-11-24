@@ -1,0 +1,41 @@
+{
+  "id": "e803d8f4127d4b299614512800a731b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他至少说一句“我听到了”吧。不是夸我，就是让我知道他在。可能我一直都在猜别人，猜得太累了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我希望我爸说什么……这个问题让我有点意外，好像从来没想过可以要求我爸说什么。但确实，如果他哪怕说一句“我在听”或者“我知道了”，我可能不会那么拼命去猜他的反应。现在想想，我好像把家里那种沉默带到了同事身上，总觉得别人不回应就是我不对。）\n（不过这种感觉说出来有点丢人，好像承认了自己一直在讨好别人。但既然他问了，也许可以试着说说看，反正只是假设。）",
+        "reasoning": "（他问我希望我爸说什么……这个问题让我有点意外，好像从来没想过可以要求我爸说什么。但确实，如果他哪怕说一句“我在听”或者“我知道了”，我可能不会那么拼命去猜他的反应。现在想想，我好像把家里那种沉默带到了同事身上，总觉得别人不回应就是我不对。）\n（不过这种感觉说出来有点丢人，好像承认了自己一直在讨好别人。但既然他问了，也许可以试着说说看，反正只是假设。）"
+      }
+    }
+  ],
+  "created": 1795142585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2165,
+    "total_tokens": 2294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

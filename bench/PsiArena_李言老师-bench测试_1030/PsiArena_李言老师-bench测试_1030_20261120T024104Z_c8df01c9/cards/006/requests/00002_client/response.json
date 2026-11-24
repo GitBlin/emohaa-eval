@@ -1,0 +1,41 @@
+{
+  "id": "744545441fc94430a700494a4bf80788",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……会涉及我工作上的事吗？我不太想让人知道我在单位的情况，你们这边会怎么处理这些？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师在询问我最想弄明白的事，但我还没完全信任他。我得先试探一下他的专业性和界限，看看他是否真的能理解我的处境。毕竟在单位里，我见过太多表面一套背后一套的人。）\n（也许可以问问咨询中会不会涉及我的隐私，比如工作上的具体事情。这样既能测试他的保密原则，又能保持一定的距离感，不用马上暴露自己真正的困扰。）",
+        "reasoning": "（这位咨询师在询问我最想弄明白的事，但我还没完全信任他。我得先试探一下他的专业性和界限，看看他是否真的能理解我的处境。毕竟在单位里，我见过太多表面一套背后一套的人。）\n（也许可以问问咨询中会不会涉及我的隐私，比如工作上的具体事情。这样既能测试他的保密原则，又能保持一定的距离感，不用马上暴露自己真正的困扰。）"
+      }
+    }
+  ],
+  "created": 1795142482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 991,
+    "total_tokens": 1106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

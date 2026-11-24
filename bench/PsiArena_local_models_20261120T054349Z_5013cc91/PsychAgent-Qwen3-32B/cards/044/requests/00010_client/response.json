@@ -1,0 +1,41 @@
+{
+  "id": "f3f27e45c12d4fa1a3c9086e8d8c4e24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你这么说我稍微放心一点。最明显的念头就是……觉得自己好像没什么用，别人都比我过得好。（声音变小）身体的话，就是胸口闷闷的，想哭但又哭不出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会不会一直记得她说的话，好像有点担心被忘记，又有点试探我能不能给她特别的关注。我得把界限说清楚，但又不能让她觉得被推开。先回答她的问题，再把话题引回她的感受上，让她知道我在认真听。）",
+        "reasoning": "（她问我会不会一直记得她说的话，好像有点担心被忘记，又有点试探我能不能给她特别的关注。我得把界限说清楚，但又不能让她觉得被推开。先回答她的问题，再把话题引回她的感受上，让她知道我在认真听。）"
+      }
+    }
+  ],
+  "created": 1795155021,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1345,
+    "total_tokens": 1447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

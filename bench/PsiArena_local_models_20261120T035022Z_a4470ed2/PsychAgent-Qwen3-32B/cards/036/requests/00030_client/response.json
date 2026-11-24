@@ -1,0 +1,41 @@
+{
+  "id": "cd056eb07b1c493f93b96588174dfa5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……差不多每天都有，放学一个人走的时候最明显。强度算中等吧，闷闷地压着，但一直甩不掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "让我想想……好像每天都会冒出来，特别是放学一个人走的时候。强度……中等吧，就是那种闷闷的压着，不至于喘不过气，但一直跟着我。",
+        "reasoning": "让我想想……好像每天都会冒出来，特别是放学一个人走的时候。强度……中等吧，就是那种闷闷的压着，不至于喘不过气，但一直跟着我。"
+      }
+    }
+  ],
+  "created": 1795147947,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 2319,
+    "total_tokens": 2388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

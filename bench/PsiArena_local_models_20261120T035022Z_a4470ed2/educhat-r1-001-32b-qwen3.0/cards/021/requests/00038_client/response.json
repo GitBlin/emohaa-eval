@@ -1,0 +1,41 @@
+{
+  "id": "770b26e193c84c50a6ccc6faf2685d03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "支持小组……跟陌生人说这些，我可能开不了口。不过先问问护士有没有这种地方吧，去看看也行，不一定非得说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我参加支持小组，和其他有类似经历的人交流。这让我想起母亲住院时那些同样焦虑的家属们，他们看起来都比我镇定。其实我有点害怕在陌生人面前暴露自己的脆弱，但也许听听别人的经历能让我不那么孤独。先问问护士具体情况吧，至少迈出第一步。）\n（不过我不确定自己真的能开口说话，可能去了也只是坐在角落里听。但总比一个人胡思乱想强，至少知道别人是怎么熬过来的。这周先打电话给妹妹，再问问医院的事，一步一步来吧。）",
+        "reasoning": "（咨询师建议我参加支持小组，和其他有类似经历的人交流。这让我想起母亲住院时那些同样焦虑的家属们，他们看起来都比我镇定。其实我有点害怕在陌生人面前暴露自己的脆弱，但也许听听别人的经历能让我不那么孤独。先问问护士具体情况吧，至少迈出第一步。）\n（不过我不确定自己真的能开口说话，可能去了也只是坐在角落里听。但总比一个人胡思乱想强，至少知道别人是怎么熬过来的。这周先打电话给妹妹，再问问医院的事，一步一步来吧。）"
+      }
+    }
+  ],
+  "created": 1795148339,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2510,
+    "total_tokens": 2657,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

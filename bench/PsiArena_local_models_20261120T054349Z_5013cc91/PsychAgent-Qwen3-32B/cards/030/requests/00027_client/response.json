@@ -1,0 +1,41 @@
+{
+  "id": "b889b55a74104211a1bb5347987fed8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会担心吧。然后我可能就不提了，或者随便找个“都行”的方案，结果自己心里又不太舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（感觉咨询师在引导我回到自己身上，但那个“太作”的词让我有点不舒服，好像我真的很麻烦似的。我可能还是会先考虑他的反应，但这样确实很累。）",
+        "reasoning": "（感觉咨询师在引导我回到自己身上，但那个“太作”的词让我有点不舒服，好像我真的很麻烦似的。我可能还是会先考虑他的反应，但这样确实很累。）"
+      }
+    }
+  ],
+  "created": 1795154546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 2143,
+    "total_tokens": 2214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

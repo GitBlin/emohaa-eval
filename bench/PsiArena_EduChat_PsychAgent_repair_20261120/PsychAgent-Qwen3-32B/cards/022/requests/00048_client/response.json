@@ -1,0 +1,41 @@
+{
+  "id": "05d78ecebb2345709ac6beec50da9968",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以……我试试。不过我有点担心，到时候我会不会又只顾着检讨自己，把练习给忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我下次愿不愿意带具体片段来，这种具体的约定让我觉得踏实，但又有点担心自己做不到。毕竟我常常在事情发生的时候根本想不起来用新方法。不过他说“看看怎么发挥作用”，不是要求我做得多好，这让我稍微放松了一点。）",
+        "reasoning": "（咨询师在问我下次愿不愿意带具体片段来，这种具体的约定让我觉得踏实，但又有点担心自己做不到。毕竟我常常在事情发生的时候根本想不起来用新方法。不过他说“看看怎么发挥作用”，不是要求我做得多好，这让我稍微放松了一点。）"
+      }
+    }
+  ],
+  "created": 1795154250,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3424,
+    "total_tokens": 3508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

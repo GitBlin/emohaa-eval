@@ -1,0 +1,41 @@
+{
+  "id": "d083544d125c453b92d8c176a0ba9747",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……安慰型吧，我先别急着问太多。就一句“听着挺累的，先歇会儿”，可能对我来说更容易做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这是在帮我把“接不住话”的担心拆成具体可练的步骤，还给了两个方向让我选。我确实更怕一开口就变成追问，让她觉得烦，所以选安慰型会让我心里踏实一点。）\n（不过光说“累了就歇会儿”好像太短了，我自己也觉得单薄，万一说完又冷场怎么办。或许可以再补一句让她知道我注意到她累了，这样既没压力，也不至于太敷衍。）",
+        "reasoning": "（咨询师这是在帮我把“接不住话”的担心拆成具体可练的步骤，还给了两个方向让我选。我确实更怕一开口就变成追问，让她觉得烦，所以选安慰型会让我心里踏实一点。）\n（不过光说“累了就歇会儿”好像太短了，我自己也觉得单薄，万一说完又冷场怎么办。或许可以再补一句让她知道我注意到她累了，这样既没压力，也不至于太敷衍。）"
+      }
+    }
+  ],
+  "created": 1795143402,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3189,
+    "total_tokens": 3320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

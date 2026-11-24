@@ -1,0 +1,41 @@
+{
+  "id": "3edfbabfa0c74f90aa8c2fe4d58043b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……自责多一点吧，但也有点慌。就好像我这个人连这点小事都管不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我觉得是自责多一点，但也有点慌。像是我这个人就是管不好东西，连这点小事都做不好。",
+        "reasoning": "嗯……我觉得是自责多一点，但也有点慌。像是我这个人就是管不好东西，连这点小事都做不好。"
+      }
+    }
+  ],
+  "created": 1795155216,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 1794,
+    "total_tokens": 1842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

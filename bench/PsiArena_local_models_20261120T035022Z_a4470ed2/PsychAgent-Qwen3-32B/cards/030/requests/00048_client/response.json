@@ -1,0 +1,41 @@
+{
+  "id": "222b55b1e66a40739cd45c0669d07e96",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，我会试着记的。就是简单写下当时发生什么、我脑子里在想什么，对吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在收尾时给了具体方向，还肯定了我的练习。虽然心里还有点没底，但至少知道下次可以带记录来，不是空着手面对。我想确认一下记录的具体做法，免得自己又乱想。）",
+        "reasoning": "（咨询师在收尾时给了具体方向，还肯定了我的练习。虽然心里还有点没底，但至少知道下次可以带记录来，不是空着手面对。我想确认一下记录的具体做法，免得自己又乱想。）"
+      }
+    }
+  ],
+  "created": 1795147712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 4260,
+    "total_tokens": 4332,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 4096
+    }
+  }
+}

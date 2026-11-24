@@ -1,0 +1,41 @@
+{
+  "id": "2350bd48ab4b4861ad6b6bf406b8a682",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我明白那种“两边都对不起”的拉扯。我们先把“走或留”这个决定放一放，试着往小处看：如果下周你只做一件能让自己好受一点的事，你愿意做哪一件？<第16轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）可能……就是我想走，又怕走了对不起家里。可留下来，我又对不起自己。",
+        "reasoning": "（停顿）可能……就是我想走，又怕走了对不起家里。可留下来，我又对不起自己。"
+      }
+    }
+  ],
+  "created": 1795153639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2520,
+    "total_tokens": 2623,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

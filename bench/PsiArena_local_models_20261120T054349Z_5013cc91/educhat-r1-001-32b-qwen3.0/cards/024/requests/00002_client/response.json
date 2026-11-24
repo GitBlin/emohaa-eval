@@ -1,0 +1,41 @@
+{
+  "id": "d4a83cbe43d04ca9ab2a03004b9793c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "您好...我是第一次来做心理咨询，不太清楚这里具体是怎么进行的。能先告诉我咨询大概是什么样子的吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立基本的咨询关系，说明她准备开始今天的咨询流程。作为初次见面的来访者，我需要表现出一定的防御性和试探，毕竟我对心理咨询还不太了解，也不知道该不该完全信任对方。）\n（毕竟我是一名中学教师，平时习惯保持一定的距离感，而且成长在传统家庭里，对陌生人倾诉私事会感到不自在。在这样的情境下，我应该先询问咨询的具体内容和方式，而不是直接谈论自己的困扰。这样既能保持适当的界限，也能测试咨询师的专业性。）\n（好了，那么现在就像这样对心理咨询师说吧。她要求我表现出防御性，我这样试探性地询问咨询流程应该是符合要求的。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说：“你好，我是你今天的心理咨询师！”意思可能是想先建立基本的咨询关系，说明她准备开始今天的咨询流程。作为初次见面的来访者，我需要表现出一定的防御性和试探，毕竟我对心理咨询还不太了解，也不知道该不该完全信任对方。）\n（毕竟我是一名中学教师，平时习惯保持一定的距离感，而且成长在传统家庭里，对陌生人倾诉私事会感到不自在。在这样的情境下，我应该先询问咨询的具体内容和方式，而不是直接谈论自己的困扰。这样既能保持适当的界限，也能测试咨询师的专业性。）\n（好了，那么现在就像这样对心理咨询师说吧。她要求我表现出防御性，我这样试探性地询问咨询流程应该是符合要求的。）"
+      }
+    }
+  ],
+  "created": 1795154354,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 182,
+    "prompt_tokens": 864,
+    "total_tokens": 1046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 157,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

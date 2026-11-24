@@ -1,0 +1,41 @@
+{
+  "id": "58ffedd7215645169ab5ad0944e9b4b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……我男朋友吧。他最近总是不怎么回我消息，我也不知道是不是自己太敏感了。有时候发一堆话过去，他就回个“嗯”，让我特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我描述具体事件，但我现在还没完全信任她。她提到“勇气”让我稍微放松了点，但我不想这么快就暴露太多细节。也许可以提一下男朋友的冷漠，但只说表面现象，不深入谈感受。这样既回应了她，又保持了一定距离。）",
+        "reasoning": "（咨询师在引导我描述具体事件，但我现在还没完全信任她。她提到“勇气”让我稍微放松了点，但我不想这么快就暴露太多细节。也许可以提一下男朋友的冷漠，但只说表面现象，不深入谈感受。这样既回应了她，又保持了一定距离。）"
+      }
+    }
+  ],
+  "created": 1795149199,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1098,
+    "total_tokens": 1201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "24dd2c9d05c14787b1abbabec40f54a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想这周找个晚上吧，别一直拖着。可能先聊十分钟，不一次聊透，免得我又慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算什么时候给妻子明确回应，这让我有点紧张。我其实还没完全想清楚，但确实不能再拖了。也许可以定个具体时间，比如周末，这样既不会太仓促，也能给自己一点压力去面对。）\n（不过我又担心到时候谈不清楚，或者她追问太多细节我会慌。或许我得提前准备一下，把想说的要点写下来，至少能保证不跑偏。这样心里会踏实一点。）",
+        "reasoning": "（咨询师问我打算什么时候给妻子明确回应，这让我有点紧张。我其实还没完全想清楚，但确实不能再拖了。也许可以定个具体时间，比如周末，这样既不会太仓促，也能给自己一点压力去面对。）\n（不过我又担心到时候谈不清楚，或者她追问太多细节我会慌。或许我得提前准备一下，把想说的要点写下来，至少能保证不跑偏。这样心里会踏实一点。）"
+      }
+    }
+  ],
+  "created": 1795142962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2627,
+    "total_tokens": 2749,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

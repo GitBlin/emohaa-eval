@@ -1,0 +1,29 @@
+- Member's mother volunteered him for family work (lettering wedding invitations) before asking him, and he agreed but cannot start.
+- Member has tried smaller steps and lists; the obstacle is not planning but opening the note to the cousin's name.
+- Member says the problem is not the name but that his mother already told the family, so everyone expects the work before he has started.
+- Member faces a fixed wedding deadline, so taking his time is not possible.
+- Member rejected scheduling a planning session, saying he has six months of planning already.
+- Member asked whether the counsellor uses metaphors with real clients and requested direct language.
+- Member does not want to talk to his mother about the promise she made for him; he refuses that conversation.
+- Member is specifically tasked with lettering the invitations (drawing names), not planning the wedding or writing notes.
+- Member still has not sent the message requesting the names from his aunt; he knows the four-word message but that is not what he is stuck on.
+- Member fears receiving the names will make it a real job with a deadline and nothing to show.
+- Member has not painted since October and fears that drawing one name wrong would mean he is neither working nor an artist.
+- Member said no three or four times to attempts to get him to try sketching, and said the counsellor was waiting him out rather than listening.
+- Member rejected the idea of a "not-yet" timeline, saying not yet is the whole six months he is trying to escape.
+- Member ended the session saying he wanted one thing to do tomorrow morning and was handed a candle instead.
+- Member has received a direct message from the cousin's fiancée and has not answered it.
+- Member opened and read the fiancée's message once, then put the phone face down without replying.
+- Member rejected the candle suggestion again, saying it was not what he asked for and that the counsellor repeated it.
+- Member rejected the painting-metaphor suggestion of one erasable sketch name, and rejected the "not-yet" framing again after previously saying no to it.
+- Member said he has no smallest yes to give toward the invitation work right now.
+- Member left the session after the counsellor offered to hold the pause.
+- Member told Marisol he was still gathering names, a deliberate lie to stop her asking.
+- Marisol is home sick and raised the fiancée question as her first topic this morning.
+- Member experiences Marisol's reminders about the invitations as pressure, not support.
+- Member rejected the counsellor's suggested scripted phrases for talking to Marisol, saying none are things he would say out loud.
+- Member rejected the folded-note signal to Marisol as implausible, noting she has a fever.
+- Member rejected the candle a third time and named the "not-yet" ritual as the same candle with a different object.
+- Member rejected the cradling-hands and pen-in-hand gestures as props no one would do.
+- Member named the true statement he needs to say: he has done nothing in six months and has been lying to Marisol about it.
+- Member said he is not doing the work tonight and ended the session after the counsellor failed to reach that admission.

@@ -1,0 +1,41 @@
+{
+  "id": "100fafaa04a84f0093a344a7403e00e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以……那我说“我看到那些消息会很难受，我希望我们能聊一聊，让我知道你是怎么想的”。这样是不是好一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我调整措辞，这让我觉得他是真的想帮我找到可行的沟通方式，而不是评判我。但我还是有点担心，怕自己说出来的话又变成指责。也许我可以试着把“需要你让我安心”改成更具体的请求，这样听起来不那么像要求他改变。不过，我内心还是有点不确定，这样真的有用吗？）",
+        "reasoning": "（咨询师在引导我调整措辞，这让我觉得他是真的想帮我找到可行的沟通方式，而不是评判我。但我还是有点担心，怕自己说出来的话又变成指责。也许我可以试着把“需要你让我安心”改成更具体的请求，这样听起来不那么像要求他改变。不过，我内心还是有点不确定，这样真的有用吗？）"
+      }
+    }
+  ],
+  "created": 1795154720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2896,
+    "total_tokens": 3003,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

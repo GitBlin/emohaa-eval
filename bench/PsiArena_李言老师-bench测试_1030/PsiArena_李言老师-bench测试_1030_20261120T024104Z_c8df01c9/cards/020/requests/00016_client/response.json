@@ -1,0 +1,41 @@
+{
+  "id": "a8b81fc4da7042749c57b2196c5149f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想让他先听到“我不是想吵架，我真的很累”。……可这话说出来，会不会显得我在指责他？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怕的是说完后他还是沉默，这确实戳中我了。如果先不急着全说，我最想让他听到的是“我不是想吵架，我真的很累”。这句话能让他知道我不是在指责，也许他就不会那么快沉默。不过我也担心，他会不会觉得我在小题大做。）\n（但至少可以先试试这样说，不用一下子把所有委屈都倒出来。我想先跟他说清楚，我需要他先听我说完，而不是马上躲开。这样也许比直接抱怨婆婆更容易让他接住。）",
+        "reasoning": "（咨询师问我怕的是说完后他还是沉默，这确实戳中我了。如果先不急着全说，我最想让他听到的是“我不是想吵架，我真的很累”。这句话能让他知道我不是在指责，也许他就不会那么快沉默。不过我也担心，他会不会觉得我在小题大做。）\n（但至少可以先试试这样说，不用一下子把所有委屈都倒出来。我想先跟他说清楚，我需要他先听我说完，而不是马上躲开。这样也许比直接抱怨婆婆更容易让他接住。）"
+      }
+    }
+  ],
+  "created": 1795142956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2502,
+    "total_tokens": 2637,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

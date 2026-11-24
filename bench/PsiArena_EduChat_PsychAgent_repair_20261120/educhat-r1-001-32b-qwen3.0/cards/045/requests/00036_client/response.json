@@ -1,0 +1,41 @@
+{
+  "id": "66b5f3026e3549d6834ff9032dc6dd95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点困惑地看了咨询师一眼）我……刚才说过了，心跳快，手心出汗。还有……（声音更小）有时候会觉得胃不舒服，像有什么东西堵着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又问了一遍身体反应，可能是想确认我有没有注意到更多细节。刚才已经说过心跳加快和手心出汗了，现在再重复这些好像有点奇怪。不过也许可以换个角度说说别的身体感受，比如那种空落落的感觉。）\n（作为敏感又容易纠结的人，我确实经常注意到身体的变化。但被反复问同一个问题会让我有点不安，是不是我表达得不够清楚？不过这次可以试着说说更具体的感受，比如胸口发紧或者胃不舒服之类的。）",
+        "reasoning": "（咨询师又问了一遍身体反应，可能是想确认我有没有注意到更多细节。刚才已经说过心跳加快和手心出汗了，现在再重复这些好像有点奇怪。不过也许可以换个角度说说别的身体感受，比如那种空落落的感觉。）\n（作为敏感又容易纠结的人，我确实经常注意到身体的变化。但被反复问同一个问题会让我有点不安，是不是我表达得不够清楚？不过这次可以试着说说更具体的感受，比如胸口发紧或者胃不舒服之类的。）"
+      }
+    }
+  ],
+  "created": 1795155228,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2371,
+    "total_tokens": 2515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

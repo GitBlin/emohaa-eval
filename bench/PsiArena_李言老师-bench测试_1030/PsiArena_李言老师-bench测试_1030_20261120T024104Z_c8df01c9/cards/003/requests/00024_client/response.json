@@ -1,0 +1,41 @@
+{
+  "id": "908c585ef83a4081964623d6186af87a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想从点菜开始，就说“我想吃这个辣的”。说完我得提醒自己，别马上又补一句“随便随便”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想从哪一句最小、最安全的话开始试。这让我想到平时在公司里，明明有想法却总咽回去的时刻。其实我想要的不是什么大改变，就是能自然地表达一次自己的偏好，哪怕只是点菜这种小事。）\n（可话到嘴边又开始犹豫，怕说出来显得太刻意，或者对方觉得我奇怪。但转念一想，咨询师说得对，能不能开口是我自己的事。那就从最简单的开始吧，说完立刻告诉自己“这没什么大不了的”，也许就没那么难了。）",
+        "reasoning": "（她问我想从哪一句最小、最安全的话开始试。这让我想到平时在公司里，明明有想法却总咽回去的时刻。其实我想要的不是什么大改变，就是能自然地表达一次自己的偏好，哪怕只是点菜这种小事。）\n（可话到嘴边又开始犹豫，怕说出来显得太刻意，或者对方觉得我奇怪。但转念一想，咨询师说得对，能不能开口是我自己的事。那就从最简单的开始吧，说完立刻告诉自己“这没什么大不了的”，也许就没那么难了。）"
+      }
+    }
+  ],
+  "created": 1795142681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3271,
+    "total_tokens": 3410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

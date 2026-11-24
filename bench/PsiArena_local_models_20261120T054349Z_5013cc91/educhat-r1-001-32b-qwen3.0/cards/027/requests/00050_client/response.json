@@ -1,0 +1,41 @@
+{
+  "id": "8cf861d2a21641f99be0edfd7b3300cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）她表达方式有误……这样想的话，好像没那么扎心了。嗯，我回去试试看吧，今天聊完感觉心里稍微松了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我换个角度看问题，把妈妈的冷嘲热讽理解成表达方式有误。这确实比直接觉得被否定要容易接受一些，但心里还是有点堵得慌。）\n（不过她说的这个思路，和我之前想的“共同成长”有点像，都不是非黑即白的。可能我真的太习惯把妈妈的话当成攻击了，换个角度想，至少能让自己没那么难受。今天聊下来，感觉心里稍微松动了点，虽然知道回去面对的时候肯定还是会紧张。）",
+        "reasoning": "（咨询师在帮我换个角度看问题，把妈妈的冷嘲热讽理解成表达方式有误。这确实比直接觉得被否定要容易接受一些，但心里还是有点堵得慌。）\n（不过她说的这个思路，和我之前想的“共同成长”有点像，都不是非黑即白的。可能我真的太习惯把妈妈的话当成攻击了，换个角度想，至少能让自己没那么难受。今天聊下来，感觉心里稍微松动了点，虽然知道回去面对的时候肯定还是会紧张。）"
+      }
+    }
+  ],
+  "created": 1795154588,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 3017,
+    "total_tokens": 3160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

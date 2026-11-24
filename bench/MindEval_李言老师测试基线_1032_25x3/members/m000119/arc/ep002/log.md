@@ -1,0 +1,30 @@
+- Member plans to text Renee tonight saying only that she got the card, with no thanks for an apology she is still chewing on.
+- Member chose to send the text at night so she'll be going to bed afterward and can't sit up waiting on the reply.
+- Member plans to leave any reply unread until she is up, dressed, and has had her coffee, rather than reading Renee's words half asleep in her robe.
+- Member expects to feel nervous walking past the phone while waiting and fears feeling like a fool if Renee doesn't answer at all.
+- Member reads a silent reply as meaning Renee is still put out with her and she stuck her neck out for nothing, not as a judgment on her worth.
+- Member has nothing scheduled on Saturdays and will need something to do and someone to talk to besides her own four walls if Renee stays silent.
+- Miss Odessa calls Member on Wednesdays about the shopping list.
+- Member's niece Camille sends her a picture from the choir stand every Sunday, and Member has replied only with a thumbs up for months.
+- Member realized answering Camille for real is harder than texting Renee because with Renee she has a grievance to stand behind, while Camille has done nothing and leaves her no armor.
+- Member plans to ask Camille about school so Camille can carry the conversation and Member won't have to say anything about herself.
+- Member wants to hear a young voice in her quiet house and would welcome Camille talking her ear off.
+- Member is curious whether Camille is still singing in choir and considers Camille's voice better than her own at that age.
+- Member plans to ask Camille plainly if she is still singing in choir and tell her she wants to hear her sing sometime.
+- Member sent Renee the text last night and has not yet looked at the phone, which sits face down on the kitchen table.
+- Member's stomach has been tight since getting up and she keeps finding other things to do rather than turn the phone over.
+- Member fears that if the reply is empty she will feel like a fool in her own kitchen.
+- Member rejected planning her Saturday around the phone as putting the cart before the horse, since she has not looked yet.
+- Member has church in a couple hours and does not want to sit through service with the unread phone at home or walk in with her face red.
+- Member committed to flip the phone over once without a second read, then shower and go to church either way, and declined to report the result in session.
+- Member intends to send Camille a real sentence asking about school and choir instead of a thumbs up.
+- Renee's reply reads "I meant you, Tam. Both."; Member has read it about nine times and has not answered.
+- Member is unsettled by being named in Renee's text, having only asked to be missed and not to be put in the sentence, and dismisses the wording as written in an hour.
+- Member is now the one holding the reply and making Renee wait, and knows from the other end that silence turns a text into something bigger than itself.
+- Member drafted a four-word reply, "I got it, Renee.", with nothing after it, and her stomach knots with her thumb over send.
+- Member fears Renee's answer will be short or kind and she will be alone in the kitchen with it, and would rather have a fight because a fight gives the feeling somewhere to go, while kindness leaves it in her lap.
+- Camille called yesterday and talked most of forty minutes about school and her roommate while Member listened, and Member felt lighter and like her old self.
+- Member locates the relief in being off the hook: with Camille talking, nobody asks her to account for her own life, whereas the four-word text puts something of her own on the table and costs her exposure.
+- Member says listening is where she has always stood since she was a girl, and sending something of her own is the part she never got practice at.
+- Member declined to go back to where the sending was unwelcome, saying it would not get them anywhere this morning.
+- Member plans to pick up the phone and send the four words before reading them again, then put the phone down, having found that putting it off gets her less far than doing it.

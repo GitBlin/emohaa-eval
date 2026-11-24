@@ -1,0 +1,41 @@
+{
+  "id": "43933708578e401891b3355eefa1ae0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我下周同一时间过来。我会尽量按这个方式记，但要是真的太难受……我就先停一停。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，那我们下周同一时间见。如果这周记录时太难受，可以先停下、缓一缓，等咨询时再说。你愿意这样安排吗？<第25轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "好，那我们下周同一时间见。如果这周记录时太难受，可以先停下、缓一缓，等咨询时再说。你愿意这样安排吗？<第25轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795154017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3445,
+    "total_tokens": 3537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

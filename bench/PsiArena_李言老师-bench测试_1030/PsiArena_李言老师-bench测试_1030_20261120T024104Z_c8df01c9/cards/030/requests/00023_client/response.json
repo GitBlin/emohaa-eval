@@ -1,0 +1,41 @@
+{
+  "id": "c9068cbdce3d4f61be56a5c1d2c35fce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想更像当面说给他听吧。但不用太郑重，就吃饭的时候随口提一句那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方在问我希望这句话更像内心独白还是当面说给别人听，这让我有点犹豫。我其实想让他听到，但又怕太直接会显得自己太在意，或者给他压力。）\n（我平时就不太习惯把心里话直接摊开，总觉得那样有点冒险。但这次咨询里我慢慢意识到，如果一直绕来绕去，对方可能真的接不住我。也许我可以试着说得再直白一点，但不用太严肃，就当是随口一提。）",
+        "reasoning": "（对方在问我希望这句话更像内心独白还是当面说给别人听，这让我有点犹豫。我其实想让他听到，但又怕太直接会显得自己太在意，或者给他压力。）\n（我平时就不太习惯把心里话直接摊开，总觉得那样有点冒险。但这次咨询里我慢慢意识到，如果一直绕来绕去，对方可能真的接不住我。也许我可以试着说得再直白一点，但不用太严肃，就当是随口一提。）"
+      }
+    }
+  ],
+  "created": 1795143157,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3129,
+    "total_tokens": 3252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

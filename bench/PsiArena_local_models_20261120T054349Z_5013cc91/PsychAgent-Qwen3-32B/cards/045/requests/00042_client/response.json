@@ -1,0 +1,41 @@
+{
+  "id": "c8790137e4c845bc8ef0cef01d933717",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周三下午，问李老师一个课件问题，这个计划很清晰。做完之后，你愿意简单记下对方反应和你身体的感受吗？<第22轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。></think>愿意的。就记一两句，不用写很多。嗯……想到要记下来，好像会认真一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微想了想）办公室吧……就问坐我旁边的李老师一个课件上的问题。她平时挺温和的，我打算周三下午问。",
+        "reasoning": "（稍微想了想）办公室吧……就问坐我旁边的李老师一个课件上的问题。她平时挺温和的，我打算周三下午问。"
+      }
+    }
+  ],
+  "created": 1795155129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3010,
+    "total_tokens": 3127,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

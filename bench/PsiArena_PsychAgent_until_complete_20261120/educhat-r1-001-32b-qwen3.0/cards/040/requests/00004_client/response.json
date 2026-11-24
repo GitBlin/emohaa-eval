@@ -1,0 +1,41 @@
+{
+  "id": "b1635735db2742e081ae804fb2f48a27",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "搭积木……听起来挺有道理，但我也不知道自己到底需要什么。最近就是……心里堵得慌，说不上来为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的大致流程，说会从感受和需求出发一起探讨。听起来挺有条理的，但我心里还是有点没底——毕竟第一次见面，谁知道会怎么样呢。搭积木这个比喻倒是挺形象的，可我现在连自己需要什么都说不清楚。）\n（作为来访者，我确实需要先试探一下咨询师的专业性，但又不能表现得太咄咄逼人。毕竟我性格内向，不习惯直接质疑别人。也许可以稍微表达一下不确定感，既不会显得太抗拒，也能看看咨询师会怎么回应。）",
+        "reasoning": "（刚才咨询师解释了咨询的大致流程，说会从感受和需求出发一起探讨。听起来挺有条理的，但我心里还是有点没底——毕竟第一次见面，谁知道会怎么样呢。搭积木这个比喻倒是挺形象的，可我现在连自己需要什么都说不清楚。）\n（作为来访者，我确实需要先试探一下咨询师的专业性，但又不能表现得太咄咄逼人。毕竟我性格内向，不习惯直接质疑别人。也许可以稍微表达一下不确定感，既不会显得太抗拒，也能看看咨询师会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795155006,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 998,
+    "total_tokens": 1146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

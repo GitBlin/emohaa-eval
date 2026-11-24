@@ -1,0 +1,41 @@
+{
+  "id": "4c38e0bd36ab4bd3a2a3c1bf749d1fda",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "事实……就是眼霜不见了，别的没发生。可我心里那句话，好像比事实响得多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第15轮，中期阶段，咨询师在帮我把“事实”和“担心”分开。这句话让我有点不舒服，好像被逼着承认自己夸大了。可仔细想想，事实确实只是眼霜不见了，我没法证明自己连日子都过不好。心里有点别扭，但也松了口气。）",
+        "reasoning": "（第15轮，中期阶段，咨询师在帮我把“事实”和“担心”分开。这句话让我有点不舒服，好像被逼着承认自己夸大了。可仔细想想，事实确实只是眼霜不见了，我没法证明自己连日子都过不好。心里有点别扭，但也松了口气。）"
+      }
+    }
+  ],
+  "created": 1795148865,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2304,
+    "total_tokens": 2391,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

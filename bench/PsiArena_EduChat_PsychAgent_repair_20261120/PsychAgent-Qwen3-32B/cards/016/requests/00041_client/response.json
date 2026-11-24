@@ -1,0 +1,41 @@
+{
+  "id": "956fb2b2c6154e61aaea755934100c49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以很简单：时间、当时发生了什么、你身体的感觉、脑子里冒出的第一句话。不用写得多完整。你愿意这样记吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点）听起来好像可以试试。我平时总想马上弄清楚，现在先记下来，反而没那么逼自己了。那……我记的时候要写些什么？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "（稍微放松了一点）听起来好像可以试试。我平时总想马上弄清楚，现在先记下来，反而没那么逼自己了。那……我记的时候要写些什么？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795154006,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3049,
+    "total_tokens": 3147,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

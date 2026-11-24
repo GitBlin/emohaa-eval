@@ -1,0 +1,41 @@
+{
+  "id": "6dd1df1fd73d4bf1951e987e9284a5e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我也说不太清楚……就是有点不确定吧。那个，我想问一下，我们聊的东西你会保密吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问我现在是紧张还是期待，还说了咨询大概怎么进行……我其实有点不确定该说多少。毕竟第一次见面，直接说心里话有点难，但也不想显得太冷淡。就稍微透露一点吧，说自己不太确定，然后试探性地问问界限，看看对方会怎么回应。）",
+        "reasoning": "（刚才咨询师问我现在是紧张还是期待，还说了咨询大概怎么进行……我其实有点不确定该说多少。毕竟第一次见面，直接说心里话有点难，但也不想显得太冷淡。就稍微透露一点吧，说自己不太确定，然后试探性地问问界限，看看对方会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795146698,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 980,
+    "total_tokens": 1072,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

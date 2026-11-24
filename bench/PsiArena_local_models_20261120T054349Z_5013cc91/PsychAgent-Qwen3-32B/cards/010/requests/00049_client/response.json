@@ -1,0 +1,41 @@
+{
+  "id": "82c35f3686d2447781a184ddbec099f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以先从一次课间开始，不要求马上做到，紧张也算正常。我们下次可以一起看看，哪一次“停一下”稍微容易一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺具体的，但我不想一下子答应得太满。先试试看吧，至少有个能做的事，心里没那么空。）我……可以试试吧。不过可能一开始还是会紧张，不一定马上做到。",
+        "reasoning": "（他问得挺具体的，但我不想一下子答应得太满。先试试看吧，至少有个能做的事，心里没那么空。）我……可以试试吧。不过可能一开始还是会紧张，不一定马上做到。"
+      }
+    }
+  ],
+  "created": 1795153833,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3571,
+    "total_tokens": 3649,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

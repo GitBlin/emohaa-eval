@@ -1,0 +1,41 @@
+{
+  "id": "29b28fa86ef24915819ab5b852169463",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "睡眠不太好，晚上容易想很多，白天就有点没精神。吃饭还行，就是有时候没胃口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "后期阶段要探索解决方案和行动计划，但第16轮只针对一个方面。咨询师问作息，我应简短回答睡眠食欲精力，保持情绪趋稳。",
+        "reasoning": "后期阶段要探索解决方案和行动计划，但第16轮只针对一个方面。咨询师问作息，我应简短回答睡眠食欲精力，保持情绪趋稳。"
+      }
+    }
+  ],
+  "created": 1795155116,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2519,
+    "total_tokens": 2578,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

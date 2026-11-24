@@ -1,0 +1,41 @@
+{
+  "id": "88830f2a872d4155bf728ecfde1b211e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那就好。其实我也没什么特别大的事，就是最近在学校总觉得心里堵得慌，不太舒服。但具体为什么，我也说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会保密，除非涉及安全……这让我稍微放心了一点。但她问我想从哪里开始，我其实还没想好。也许可以先说个大概？就说在学校不太舒服，但具体的不想讲太细。）",
+        "reasoning": "（咨询师说会保密，除非涉及安全……这让我稍微放心了一点。但她问我想从哪里开始，我其实还没想好。也许可以先说个大概？就说在学校不太舒服，但具体的不想讲太细。）"
+      }
+    }
+  ],
+  "created": 1795154749,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 1157,
+    "total_tokens": 1240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

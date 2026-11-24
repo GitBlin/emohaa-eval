@@ -1,0 +1,41 @@
+{
+  "id": "e896069dacee4affb2f932c214a6afd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说：“老师，我放学走那条巷子有点害怕，能不能帮我看看。”……这样说，应该能开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我明天打算从哪句话开始跟老师说，看来是希望我能具体想好开口的方式。我得选一句自己说得出口、又不会显得太麻烦老师的话。）\n（我想到可以说“老师，我放学走那条巷子有点害怕，能不能帮我看看”，这样既说了自己的感受，也没有直接告状。先跟老师提一下这个，应该比一下子说很多要容易。）",
+        "reasoning": "（她问我明天打算从哪句话开始跟老师说，看来是希望我能具体想好开口的方式。我得选一句自己说得出口、又不会显得太麻烦老师的话。）\n（我想到可以说“老师，我放学走那条巷子有点害怕，能不能帮我看看”，这样既说了自己的感受，也没有直接告状。先跟老师提一下这个，应该比一下子说很多要容易。）"
+      }
+    }
+  ],
+  "created": 1795142678,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3129,
+    "total_tokens": 3239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

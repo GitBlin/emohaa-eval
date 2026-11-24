@@ -1,0 +1,41 @@
+{
+  "id": "659734a157a44ea08316e07156cebf73",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（吸了口气）我直说吧，这个问号让我很难受。我不想在咨询里还要猜你的意思，如果连这里都要猜，我明天在办公室就更没勇气开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（又是问号。我已经说了这么多，他还是只回一个符号。这让我觉得他根本没在听，或者我说的话根本不重要。有点想发火，又觉得发火也没用。）\n（也许我该把话说明白，这个问号让我很难受。如果连咨询里我都得猜对方的意思，那我明天在办公室还怎么试着跟人开口。）",
+        "reasoning": "（又是问号。我已经说了这么多，他还是只回一个符号。这让我觉得他根本没在听，或者我说的话根本不重要。有点想发火，又觉得发火也没用。）\n（也许我该把话说明白，这个问号让我很难受。如果连咨询里我都得猜对方的意思，那我明天在办公室还怎么试着跟人开口。）"
+      }
+    }
+  ],
+  "created": 1795153482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2505,
+    "total_tokens": 2625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

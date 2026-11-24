@@ -1,0 +1,41 @@
+{
+  "id": "1c47c7d878154df697f92e46b58a06ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像都有吧……有时候会猜他是不是不在意了，有时候又会想是不是我太敏感。你会不会觉得我这样想太多？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我乱想的内容，我其实不太想马上说太深。现在刚接触，还是先模糊一点，试探她会不会追问太多。也许可以问一句她会不会觉得我太敏感，看看她的反应。）",
+        "reasoning": "（咨询师问我乱想的内容，我其实不太想马上说太深。现在刚接触，还是先模糊一点，试探她会不会追问太多。也许可以问一句她会不会觉得我太敏感，看看她的反应。）"
+      }
+    }
+  ],
+  "created": 1795147603,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 1289,
+    "total_tokens": 1366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "93b21e0140e248c0a856a2cf246b1cb0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来，回到家里你像自动切换成“听话的女儿”模式。这个模式让你在父母面前很小心。你愿意说说，它对你在工作中的状态有什么影响吗？<第15轮:当前是中期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……应该是怕他们失望吧。工作上也有一点，但家里最明显，回家我就自动变成那个听话的样子。",
+        "reasoning": "嗯……应该是怕他们失望吧。工作上也有一点，但家里最明显，回家我就自动变成那个听话的样子。"
+      }
+    }
+  ],
+  "created": 1795147587,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2146,
+    "total_tokens": 2239,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

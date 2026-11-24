@@ -1,0 +1,41 @@
+{
+  "id": "e0ea341d533848a1abc60c1124e92a32",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）休息那头……也许可以放个“每天十分钟不碰手机”之类的。工作那头，是不是能放个“别把所有事都当成考核”？不过说归说，做起来估计挺难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化平衡的方法，而不是空谈。我想到的“小石头”其实是很实际的行动，但说出来会不会显得很幼稚？毕竟我是成年人，却连休息都要像完成任务一样列计划。）\n（不过既然咨询师问得这么具体，也许可以试着说说看。但得强调这只是“试试”，不能保证有用，否则万一做不到就更焦虑了。）",
+        "reasoning": "（咨询师在引导我具体化平衡的方法，而不是空谈。我想到的“小石头”其实是很实际的行动，但说出来会不会显得很幼稚？毕竟我是成年人，却连休息都要像完成任务一样列计划。）\n（不过既然咨询师问得这么具体，也许可以试着说说看。但得强调这只是“试试”，不能保证有用，否则万一做不到就更焦虑了。）"
+      }
+    }
+  ],
+  "created": 1795155278,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2429,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

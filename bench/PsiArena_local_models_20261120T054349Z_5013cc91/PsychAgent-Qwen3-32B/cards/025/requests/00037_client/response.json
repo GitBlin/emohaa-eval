@@ -1,0 +1,41 @@
+{
+  "id": "4b403702c0b94c078e5309aa1a3e61dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意试，但我怕他哭得更厉害，我一听就撑不住。那个“1到2分钟再回来”，我要怎么掐时间？会不会反而更糟？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户正在咨询后期，目标是探索解决方案并明确行动计划。需要具体化，每次回复2-3句。可以回应咨询师提出的“短暂界限”小脚本，表达愿意尝试，并询问具体操作或表达担忧。保持简短自然。",
+        "reasoning": "用户正在咨询后期，目标是探索解决方案并明确行动计划。需要具体化，每次回复2-3句。可以回应咨询师提出的“短暂界限”小脚本，表达愿意尝试，并询问具体操作或表达担忧。保持简短自然。"
+      }
+    }
+  ],
+  "created": 1795154331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 2867,
+    "total_tokens": 2955,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

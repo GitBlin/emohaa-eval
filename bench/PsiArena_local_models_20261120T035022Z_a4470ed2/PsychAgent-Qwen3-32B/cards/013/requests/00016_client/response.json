@@ -1,0 +1,41 @@
+{
+  "id": "05c674fa0af84981ac54b700d4e28708",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）其实……两个声音都在，但最近“安稳”那个更大声。我爸妈总说，找个条件稳定的，日子才过得下去。可我一想到这个，心里又有点不甘心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问哪个声音更大……其实我自己也说不清。但最近确实，一想到结婚，那个“安稳”的声音就冒出来，压得我喘不过气。我好像总是被这个声音牵着走。）",
+        "reasoning": "（咨询师问哪个声音更大……其实我自己也说不清。但最近确实，一想到结婚，那个“安稳”的声音就冒出来，压得我喘不过气。我好像总是被这个声音牵着走。）"
+      }
+    }
+  ],
+  "created": 1795147035,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1704,
+    "total_tokens": 1797,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

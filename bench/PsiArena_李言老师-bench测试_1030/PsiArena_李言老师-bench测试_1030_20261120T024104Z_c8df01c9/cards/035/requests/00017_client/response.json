@@ -1,0 +1,41 @@
+{
+  "id": "9caad647470e462f87d3ce782ee65cdb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先别马上质问他，先停一下……可我不确定真到那时候能不能忍住。也许可以先做点别的事，别一直盯着手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我下次不安时想怎么做，这让我想到自己总是被情绪推着走。我得先承认自己现在确实很难一下子冷静，不然好像显得太假。）\n（也许可以先从最具体的动作开始，比如先不急着发信息，或者找别的事做。这样说出来应该比较实际，也不会让自己觉得压力太大。）",
+        "reasoning": "（她问我下次不安时想怎么做，这让我想到自己总是被情绪推着走。我得先承认自己现在确实很难一下子冷静，不然好像显得太假。）\n（也许可以先从最具体的动作开始，比如先不急着发信息，或者找别的事做。这样说出来应该比较实际，也不会让自己觉得压力太大。）"
+      }
+    }
+  ],
+  "created": 1795143339,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2523,
+    "total_tokens": 2627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

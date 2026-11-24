@@ -1,0 +1,22 @@
+- Member's father died in March, prompting them to seek counselling.
+- Member's apartment has become messy since the death, with dishes and laundry piling up.
+- Member paid the electric bill late last month, the first time that has happened.
+- Member handles the paperwork themselves and has kept up with it.
+- Member is not leaning on loved ones for practical support.
+- Member agreed to look into local volunteer groups for home maintenance help but feels uneasy about having people in their home.
+- Member chose dishes as the smallest acceptable first task for a volunteer group.
+- Member declined to schedule the cleaning service now, preferring to know the option exists until things calm down.
+- Member's mother left a voicemail over the weekend about going through the garage, and Member has not called back.
+- Member does not know what to say to their mother about clearing out their father's tools and mostly says they are fine to end calls.
+- Member agreed to try a short text to their mother rather than a spoken conversation.
+- Member settled on a short text saying they got their mother's message, are not ready to go through the garage, ask her to hold off, and thank her.
+- Member sent the text to their mother about the garage; mother replied that she has not touched the garage and will wait until Member is ready.
+- Counsellor shared contact details for the cleaning group; Member can message anytime to schedule help.
+- Member opened the library volunteer sign-up page and closed it without signing up.
+- Member agreed to look at a few more local home maintenance or small-task volunteer groups but said it was too late to take in a list tonight.
+- Member's mother replied to the garage text and Member left it unopened until this session, fearing the reply would say the garage had been cleared anyway.
+- Member read the mother's reply and sent a short response thanking her for holding off and saying they will let her know when ready; Member's hands were shaking when sending it.
+- Member has an unfinished bookcase intended for their father's fishing manuals, which sits half sanded and has nowhere for the manuals to go.
+- Member does not know what to repurpose the bookcase into.
+- Member stood in a grocery store tonight and left without buying anything, citing dishes, laundry, the shelf, and the text as too much at once.
+- Member did the dishes before bed, emptying the sink for the first time in a while.

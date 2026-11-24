@@ -1,0 +1,41 @@
+{
+  "id": "2ae4096015ff4f4ba78ecdc74793d0be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "流程我大概明白了……不过我想问一下，如果咨询中间我觉得没什么效果，或者有些话不想说，你会怎么处理？我怕自己说了一半又后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的基本流程，还问我想先了解流程还是先说困扰。他看起来挺专业的，语气也温和，但我还是有点防备...毕竟第一次见面，谁知道他会不会像其他人一样只是走个过场。）\n（作为个内向又敏感的人，我习惯先观察再行动。现在直接说困扰感觉太暴露了，不如先试探下他的专业性和边界。毕竟我爸妈总说\"花钱就要见效\"，我得确认这个咨询师是不是真的靠谱，会不会像那些只会说\"加油\"的人一样敷衍我。）\n（好了，先问问他怎么看待来访者提出额外要求这种事吧，看看他的反应。这样既不会太深入，又能测试下他的专业态度。）",
+        "reasoning": "（刚才咨询师解释了咨询的基本流程，还问我想先了解流程还是先说困扰。他看起来挺专业的，语气也温和，但我还是有点防备...毕竟第一次见面，谁知道他会不会像其他人一样只是走个过场。）\n（作为个内向又敏感的人，我习惯先观察再行动。现在直接说困扰感觉太暴露了，不如先试探下他的专业性和边界。毕竟我爸妈总说\"花钱就要见效\"，我得确认这个咨询师是不是真的靠谱，会不会像那些只会说\"加油\"的人一样敷衍我。）\n（好了，先问问他怎么看待来访者提出额外要求这种事吧，看看他的反应。这样既不会太深入，又能测试下他的专业态度。）"
+      }
+    }
+  ],
+  "created": 1795143449,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 183,
+    "prompt_tokens": 957,
+    "total_tokens": 1140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 148,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

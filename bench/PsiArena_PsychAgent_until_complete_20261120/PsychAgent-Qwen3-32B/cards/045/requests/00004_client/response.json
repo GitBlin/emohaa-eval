@@ -1,0 +1,41 @@
+{
+  "id": "4c55c9d213e946baa591a6f5168439fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实也不太清楚该从哪儿说。就是最近总是很难受，心里空空的，但又说不上到底为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说让我从最近最困扰的事情说起，还问我想处理什么。可我还没完全信任他，不知道该怎么开口。直接说“对咨询师有感情”太奇怪了，我也说不清楚。先含糊一点吧，探探他的反应，看看他会不会评判我。）",
+        "reasoning": "（咨询师说让我从最近最困扰的事情说起，还问我想处理什么。可我还没完全信任他，不知道该怎么开口。直接说“对咨询师有感情”太奇怪了，我也说不清楚。先含糊一点吧，探探他的反应，看看他会不会评判我。）"
+      }
+    }
+  ],
+  "created": 1795155077,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 959,
+    "total_tokens": 1048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

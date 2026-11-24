@@ -1,0 +1,41 @@
+{
+  "id": "87bb430445bf4becaaef375401cefb8e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她别急着教育我，先听我说完。唉，其实我妈一看到我买东西就翻我快递，我就特别火，又有点心虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说我这样想是家里学会的生存方式，不是丢人，这话让我心里松了一下，但又有点酸。我其实很少跟人讲我家里那些事，可她好像没在评判我。我想到我妈翻我快递的时候，那种又气又心虚的感觉一下子涌上来，可能我真的需要有人听我说说这些，而不是总被说成乱花钱。）\n（不过我也不想把自己说得太可怜，好像全是家里的错。我就是希望她别急着给我出主意，先听我把这些乱糟糟的事倒出来。毕竟我连自己都还没理清楚，别人一插手我就更烦了。）",
+        "reasoning": "（她刚才说我这样想是家里学会的生存方式，不是丢人，这话让我心里松了一下，但又有点酸。我其实很少跟人讲我家里那些事，可她好像没在评判我。我想到我妈翻我快递的时候，那种又气又心虚的感觉一下子涌上来，可能我真的需要有人听我说说这些，而不是总被说成乱花钱。）\n（不过我也不想把自己说得太可怜，好像全是家里的错。我就是希望她别急着给我出主意，先听我把这些乱糟糟的事倒出来。毕竟我连自己都还没理清楚，别人一插手我就更烦了。）"
+      }
+    }
+  ],
+  "created": 1795143092,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 1984,
+    "total_tokens": 2150,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 132,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

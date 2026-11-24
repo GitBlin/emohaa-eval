@@ -1,0 +1,41 @@
+{
+  "id": "e6b3d8e9db294d3a98824481eb00f6c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我不知道。听父母的好像更稳妥，可我心里又有个声音在说，这是我自己的日子。你说，我是不是太没主见了，连这个都要纠结半天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更想听谁的意见，这让我一下子有点慌。从小到大，我好像习惯了把父母的看法放在第一位，现在突然要我自己决定，反而不知道该怎么办了。我是不是太没主见了？）\n（可是……如果完全听父母的，我心里又有点不甘心。这种矛盾让我觉得很累，好像怎么做都不对。我是不是应该试着为自己做一次决定，哪怕会让他们失望？）",
+        "reasoning": "（咨询师问我更想听谁的意见，这让我一下子有点慌。从小到大，我好像习惯了把父母的看法放在第一位，现在突然要我自己决定，反而不知道该怎么办了。我是不是太没主见了？）\n（可是……如果完全听父母的，我心里又有点不甘心。这种矛盾让我觉得很累，好像怎么做都不对。我是不是应该试着为自己做一次决定，哪怕会让他们失望？）"
+      }
+    }
+  ],
+  "created": 1795147529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2126,
+    "total_tokens": 2251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "81f694ca38f14d5a96d01a4161c5cc70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提前说一声吧……哪怕就一句“晚点回”。（低头）我也不知道为什么，明明知道别人可能在忙，还是会一直刷手机，工作时也静不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我更希望哪种回应方式，好像是在认真考虑我的感受。这让我稍微放松了一点，至少他没有觉得我太麻烦。不过我还是不太想马上说太多，毕竟才刚开始。）\n（我想到自己确实有时候会因为等消息而分心，但具体为什么这么在意，我也说不清。也许可以稍微提一下工作时的状态，但不用讲得太深。）",
+        "reasoning": "（他问我更希望哪种回应方式，好像是在认真考虑我的感受。这让我稍微放松了一点，至少他没有觉得我太麻烦。不过我还是不太想马上说太多，毕竟才刚开始。）\n（我想到自己确实有时候会因为等消息而分心，但具体为什么这么在意，我也说不清。也许可以稍微提一下工作时的状态，但不用讲得太深。）"
+      }
+    }
+  ],
+  "created": 1795142508,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1301,
+    "total_tokens": 1417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

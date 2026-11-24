@@ -1,0 +1,41 @@
+{
+  "id": "d9ef62e843e740d3a901b98dbae3ea70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，这句话很具体，也能保护你不被情绪推着走。我们把它和前面的练习放在一起：三次呼吸—表达感受和需要—必要时说“先停一下”。你觉得这套顺序里，哪一步最难？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微想了想，声音有点低）那我说“我现在有点乱，我们先停一下”可以吗？至少这样不用一直吵下去。",
+        "reasoning": "（稍微想了想，声音有点低）那我说“我现在有点乱，我们先停一下”可以吗？至少这样不用一直吵下去。"
+      }
+    }
+  ],
+  "created": 1795154729,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3242,
+    "total_tokens": 3320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

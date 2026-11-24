@@ -1,0 +1,41 @@
+{
+  "id": "301b8dd42c1246e19215ff9b59044e09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这……听起来有点难为情，不过也许可以试试。那我平时是不是也该多找点话题，免得总是没话说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我应对冷场的具体方法，这让我稍微安心了一点。不过想到要主动开口承认自己可能说错话，还是有点难为情。我平时太习惯掩饰自己的不安了，突然要这么坦诚，感觉有点别扭。）\n（也许可以先从一些更轻松的话题开始练习？毕竟直接面对冷场还是有点吓人。而且我确实需要找到一些自然的话题，这样至少能减少冷场的概率。）",
+        "reasoning": "（咨询师在教我应对冷场的具体方法，这让我稍微安心了一点。不过想到要主动开口承认自己可能说错话，还是有点难为情。我平时太习惯掩饰自己的不安了，突然要这么坦诚，感觉有点别扭。）\n（也许可以先从一些更轻松的话题开始练习？毕竟直接面对冷场还是有点吓人。而且我确实需要找到一些自然的话题，这样至少能减少冷场的概率。）"
+      }
+    }
+  ],
+  "created": 1795153477,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2295,
+    "total_tokens": 2415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

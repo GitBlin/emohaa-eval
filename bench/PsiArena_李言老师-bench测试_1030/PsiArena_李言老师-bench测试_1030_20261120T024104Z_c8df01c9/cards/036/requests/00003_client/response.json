@@ -1,0 +1,41 @@
+{
+  "id": "a0de0db4a46240059e68905515167324",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要不……你先听我说吧。其实我也说不太清楚，就是最近心里老堵得慌，有时候上学都不想进教室。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更希望她安静听还是陪我理一理，这让我有点犹豫。其实我连自己到底在担心什么都说不清楚，更不知道该怎么选。不过她好像没有逼我讲细节，这让我稍微放松了一点。）\n（我想先随便说点表面的东西试试看，比如最近心里堵得慌。但又怕说着说着就停不下来，或者被追问太多。还是先含糊地提一下难受的感觉吧，看看她会怎么接。）",
+        "reasoning": "（她问我更希望她安静听还是陪我理一理，这让我有点犹豫。其实我连自己到底在担心什么都说不清楚，更不知道该怎么选。不过她好像没有逼我讲细节，这让我稍微放松了一点。）\n（我想先随便说点表面的东西试试看，比如最近心里堵得慌。但又怕说着说着就停不下来，或者被追问太多。还是先含糊地提一下难受的感觉吧，看看她会怎么接。）"
+      }
+    }
+  ],
+  "created": 1795143243,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1095,
+    "total_tokens": 1220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

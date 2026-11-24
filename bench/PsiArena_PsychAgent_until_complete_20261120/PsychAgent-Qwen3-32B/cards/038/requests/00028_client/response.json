@@ -1,0 +1,41 @@
+{
+  "id": "90dae4c2a35d4d81a8d55c79fd62b939",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（苦笑）挺多的。我爸总说男人别婆婆妈妈的，有事自己憋着。我现在这样……是不是也有点像他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍作停顿）嗯……挺多的。我爸从小就说什么男人别婆婆妈妈的，有事自己憋着。所以我现在这样……可能也有点像他吧。",
+        "reasoning": "（稍作停顿）嗯……挺多的。我爸从小就说什么男人别婆婆妈妈的，有事自己憋着。所以我现在这样……可能也有点像他吧。"
+      }
+    }
+  ],
+  "created": 1795154854,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2304,
+    "total_tokens": 2368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

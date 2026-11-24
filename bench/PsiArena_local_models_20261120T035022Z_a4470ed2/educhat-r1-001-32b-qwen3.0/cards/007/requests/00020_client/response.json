@@ -1,0 +1,41 @@
+{
+  "id": "0f9161b8f6bb43fcbbeca70075b74fa9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写日记……我试试吧。不过说实话，在家里写这个好像有点……浪费时间？我爸妈要是知道，估计会说我不务正业。（苦笑）你看，我到现在还想着他们会怎么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写日记……这让我想起以前的事。在家里爸妈总说学习最重要，写日记这种“浪费时间”的事他们肯定不赞成。不过现在没人管我了，也许可以试试？但马上又觉得，就算写了又怎样，根本不会有人在意我的感受。）\n（室友们打游戏那么开心，我要是突然说“你们吵到我了”，他们会不会觉得我矫情？爸妈总说“懂事”就是别给人添麻烦，可我现在连表达不舒服都觉得是在添麻烦。这种矛盾的感觉堵在胸口，很闷。）",
+        "reasoning": "（咨询师建议我写日记……这让我想起以前的事。在家里爸妈总说学习最重要，写日记这种“浪费时间”的事他们肯定不赞成。不过现在没人管我了，也许可以试试？但马上又觉得，就算写了又怎样，根本不会有人在意我的感受。）\n（室友们打游戏那么开心，我要是突然说“你们吵到我了”，他们会不会觉得我矫情？爸妈总说“懂事”就是别给人添麻烦，可我现在连表达不舒服都觉得是在添麻烦。这种矛盾的感觉堵在胸口，很闷。）"
+      }
+    }
+  ],
+  "created": 1795147005,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 161,
+    "prompt_tokens": 1709,
+    "total_tokens": 1870,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

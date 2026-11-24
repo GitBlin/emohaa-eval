@@ -1,0 +1,41 @@
+{
+  "id": "4aa3000552d54195a95572de1cc9f764",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "帮到我的时候……大概是能让我逼着自己学，不至于太松。但累的时候也很多，好像一停下来就觉得自己要掉下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了这种模式的好处和代价，这让我有点意外。之前一直觉得全是坏处，但仔细想想，确实有时候成绩好会让我觉得踏实。可这种踏实又像在走钢丝，稍微一放松就觉得自己要掉下去。我有点犹豫要不要承认它也有用，怕显得我还在依赖这种压力。）",
+        "reasoning": "（咨询师问到了这种模式的好处和代价，这让我有点意外。之前一直觉得全是坏处，但仔细想想，确实有时候成绩好会让我觉得踏实。可这种踏实又像在走钢丝，稍微一放松就觉得自己要掉下去。我有点犹豫要不要承认它也有用，怕显得我还在依赖这种压力。）"
+      }
+    }
+  ],
+  "created": 1795153802,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2507,
+    "total_tokens": 2611,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

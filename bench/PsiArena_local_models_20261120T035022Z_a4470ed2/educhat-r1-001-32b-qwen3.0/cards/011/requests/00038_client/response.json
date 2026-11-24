@@ -1,0 +1,41 @@
+{
+  "id": "eb7b5ceebe9d4498b0d92026cc128a7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "铃声……（有点意外，然后笑了）没想过这个。轻一点的吧，别太吵，不然听着像闹钟，又该紧张了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“充电时间”具体化，让我想象一个铃声。这让我觉得这件事好像真的可以做到，不是空想。但马上又想到孩子，怕自己真放松了会出问题。）\n（选曲子的话，我其实喜欢那种轻轻的、不吵的音乐。不过不能太复杂，不然听起来像在享受，心里会有愧疚感。得提醒自己，这只是喘口气，不是偷懒。）",
+        "reasoning": "（咨询师在帮我把“充电时间”具体化，让我想象一个铃声。这让我觉得这件事好像真的可以做到，不是空想。但马上又想到孩子，怕自己真放松了会出问题。）\n（选曲子的话，我其实喜欢那种轻轻的、不吵的音乐。不过不能太复杂，不然听起来像在享受，心里会有愧疚感。得提醒自己，这只是喘口气，不是偷懒。）"
+      }
+    }
+  ],
+  "created": 1795147347,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2509,
+    "total_tokens": 2632,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

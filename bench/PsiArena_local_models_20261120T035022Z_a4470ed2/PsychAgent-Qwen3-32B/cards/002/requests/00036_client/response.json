@@ -1,0 +1,41 @@
+{
+  "id": "bf5fbed141684c308c3db1c5fefebe47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕她们就回一句“哦，那算了”，然后就再也没下文了。不过……说出来以后又觉得，如果真是这样，好像也能看出这段关系到底是什么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "有点担心她们会冷淡地说“哦，那算了”，然后就不理我了。但我又觉得，如果真是这样，可能这个关系本来也没那么牢。",
+        "reasoning": "有点担心她们会冷淡地说“哦，那算了”，然后就不理我了。但我又觉得，如果真是这样，可能这个关系本来也没那么牢。"
+      }
+    }
+  ],
+  "created": 1795146784,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2404,
+    "total_tokens": 2476,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

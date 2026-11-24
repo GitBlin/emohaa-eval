@@ -1,0 +1,39 @@
+{
+  "id": "dcb86711cc2d42748f9949b50fb51545",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先停两秒，拇指和食指轻轻碰一下，心里说“等一下”，然后告诉对方我先想想，晚点再回。这样至少不急着吵起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1795154263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 3502,
+    "total_tokens": 3541,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "221b3a67988f480e92f6742dff10e4e3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候会找人说说话吧……发发消息什么的。但说完又后悔，觉得自己挺没出息的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我难受时会怎么做……其实我经常忍不住给丈夫发消息，可我不想这么快就说出来。先含糊一点吧，也许可以说我会找人说说话，但不说具体是谁。这样既回答了，又不用暴露太多。）",
+        "reasoning": "（咨询师问我难受时会怎么做……其实我经常忍不住给丈夫发消息，可我不想这么快就说出来。先含糊一点吧，也许可以说我会找人说说话，但不说具体是谁。这样既回答了，又不用暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795153802,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 1410,
+    "total_tokens": 1484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

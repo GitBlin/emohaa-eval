@@ -1,0 +1,41 @@
+{
+  "id": "8a9783257ff54738adecd763d101a305",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我回去试试。今天说出来以后，心里好像松了一点。嗯……谢谢你。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第25轮了，咨询接近尾声。）可以，我回去试试。今天说出来以后，心里好像松了一点。嗯……谢谢你。",
+        "reasoning": "（第25轮了，咨询接近尾声。）可以，我回去试试。今天说出来以后，心里好像松了一点。嗯……谢谢你。"
+      }
+    }
+  ],
+  "created": 1795147561,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3376,
+    "total_tokens": 3426,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

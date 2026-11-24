@@ -1,0 +1,41 @@
+{
+  "id": "6cf9c3f5cb5340ca902fd8c3933a7702",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你担心说了也没用，这种担心很正常。我们可以先想一个“如果老师没反应，我下一步怎么办”的小方案，这样你不会又一个人扛。你愿意先找谁商量，或者用什么方式再跟进？<第18轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（低头想了一会儿）私下提醒……可能好一点吧。可要是老师不当回事呢？我是不是又白说了。",
+        "reasoning": "（低头想了一会儿）私下提醒……可能好一点吧。可要是老师不当回事呢？我是不是又白说了。"
+      }
+    }
+  ],
+  "created": 1795153617,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2846,
+    "total_tokens": 2950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

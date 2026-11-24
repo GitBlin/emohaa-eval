@@ -1,0 +1,41 @@
+{
+  "id": "fa8f123b93a844d7ac19e61d8833d0a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我就放心一点了。其实我也不是想告谁，就是心里憋得慌。工作环境里有些事……算了，说起来挺乱的，我自己都理不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密原则，这让我稍微放心了一点。不过还是有点不确定，毕竟单位里的事情太敏感了。我其实更想说的是那种……说不出来的累，但又怕被当成小题大做。也许可以试着模糊地提一下工作环境，看看咨询师怎么反应。）",
+        "reasoning": "（咨询师解释了保密原则，这让我稍微放心了一点。不过还是有点不确定，毕竟单位里的事情太敏感了。我其实更想说的是那种……说不出来的累，但又怕被当成小题大做。也许可以试着模糊地提一下工作环境，看看咨询师怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795153612,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1457,
+    "total_tokens": 1557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

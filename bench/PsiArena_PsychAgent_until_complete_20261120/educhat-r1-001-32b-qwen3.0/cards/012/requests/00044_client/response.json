@@ -1,0 +1,41 @@
+{
+  "id": "b94234ffc0ae403b843c7ef9cf4aeb9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先把那个热线号码存下来，哪怕暂时不拨，也算是个准备。您说，我这样一步一步来，是不是太慢了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我是否还有其他问题，这让我想到自己总是犹豫不决的毛病。我确实需要先保护自己，但更担心自己又会像以前一样退缩。也许该把具体计划说出来，这样能让自己更坚定些。）\n（虽然咨询师一直很耐心，但我还是有点不习惯这么直接地表达需求。不过既然已经聊到这一步了，不如试着把想法说出来，至少先定个小目标。）",
+        "reasoning": "（咨询师在问我是否还有其他问题，这让我想到自己总是犹豫不决的毛病。我确实需要先保护自己，但更担心自己又会像以前一样退缩。也许该把具体计划说出来，这样能让自己更坚定些。）\n（虽然咨询师一直很耐心，但我还是有点不习惯这么直接地表达需求。不过既然已经聊到这一步了，不如试着把想法说出来，至少先定个小目标。）"
+      }
+    }
+  ],
+  "created": 1795153931,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2801,
+    "total_tokens": 2923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5d5403d89dc3488da3fa8f8009b5a491",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）好像有个模式：一遇到不确定，我就先怀疑自己，然后要求更完美。小时候是怕爸妈失望，现在是怕领导失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户正在思考并总结，需要简短，2-3句，后期阶段，探索解决方案并明确未来行动计划，情绪趋于稳定，可以具体化思考。）",
+        "reasoning": "（用户正在思考并总结，需要简短，2-3句，后期阶段，探索解决方案并明确未来行动计划，情绪趋于稳定，可以具体化思考。）"
+      }
+    }
+  ],
+  "created": 1795155172,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3029,
+    "total_tokens": 3098,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

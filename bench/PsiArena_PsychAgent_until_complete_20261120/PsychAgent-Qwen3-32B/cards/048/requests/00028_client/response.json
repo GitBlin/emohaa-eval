@@ -1,0 +1,41 @@
+{
+  "id": "dfb29ff80a434e2b899e5ae7f16ec95f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……鼻子有点酸。说出来之后，好像没那么堵了，但也挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者稍微停顿）嗯……好像有点酸酸的，鼻子那里。说出来之后，反而没那么堵了，但也挺累的。",
+        "reasoning": "（来访者稍微停顿）嗯……好像有点酸酸的，鼻子那里。说出来之后，反而没那么堵了，但也挺累的。"
+      }
+    }
+  ],
+  "created": 1795155225,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 2201,
+    "total_tokens": 2251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

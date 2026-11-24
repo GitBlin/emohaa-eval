@@ -1,0 +1,41 @@
+{
+  "id": "fa3f4900ed504084adeee83cacaa3750",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写日记……（思考）好像可以试试。不过要是被我爸看到，会不会又说我不好好学习？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写日记，这让我想起初中时偷偷写日记被爸爸发现后说我不务正业的场景。虽然现在知道他是为我好，但那种被否定的感觉还是让我有点抵触。）\n（不过写日记确实比直接说出来安全，至少不会被立刻批评。咨询师这个建议让我觉得可以试试，但又担心自己坚持不下来。也许可以先从记录每天的小事开始？）",
+        "reasoning": "（咨询师建议我写日记，这让我想起初中时偷偷写日记被爸爸发现后说我不务正业的场景。虽然现在知道他是为我好，但那种被否定的感觉还是让我有点抵触。）\n（不过写日记确实比直接说出来安全，至少不会被立刻批评。咨询师这个建议让我觉得可以试试，但又担心自己坚持不下来。也许可以先从记录每天的小事开始？）"
+      }
+    }
+  ],
+  "created": 1795153482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2302,
+    "total_tokens": 2412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

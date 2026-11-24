@@ -1,0 +1,41 @@
+{
+  "id": "b66bbd4e1d3b4fbf8f6fa1164472cfda",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次她加班回来，我给她点了吃的，我们没怎么聊，但气氛还行。现在好像一开口就容易变成我在追问，她也更躲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，我脑子里最先冒出来的不是最近，反而是刚在一起的时候。那时候还能一起吃饭、随便聊聊，现在好像一开口就变成我在追问。也许我该把这种对比说出来，让她知道我不是一直这么紧绷，只是现在越来越找不到那种顺畅的感觉了。）",
+        "reasoning": "（她这么问，我脑子里最先冒出来的不是最近，反而是刚在一起的时候。那时候还能一起吃饭、随便聊聊，现在好像一开口就变成我在追问。也许我该把这种对比说出来，让她知道我不是一直这么紧绷，只是现在越来越找不到那种顺畅的感觉了。）"
+      }
+    }
+  ],
+  "created": 1795154819,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1716,
+    "total_tokens": 1809,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

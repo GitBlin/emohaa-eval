@@ -1,0 +1,41 @@
+{
+  "id": "c02b7475d90244019f6532a36bd71d53",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打分……我不太确定有没有用。嗯，我想问一下，如果我说了些很乱的事，你会不会觉得我太矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我用打分的方式记录情绪，这听起来有点机械……但也许确实能帮我理清头绪。不过现在心里乱糟糟的，连自己都搞不明白，更别说打分了。）\n（他好像很专业的样子，但真的能理解我的处境吗？我有点想试探一下，看看他会不会像其他人一样随便评判我。毕竟有些事说出来可能会被觉得小题大做……）",
+        "reasoning": "（咨询师建议我用打分的方式记录情绪，这听起来有点机械……但也许确实能帮我理清头绪。不过现在心里乱糟糟的，连自己都搞不明白，更别说打分了。）\n（他好像很专业的样子，但真的能理解我的处境吗？我有点想试探一下，看看他会不会像其他人一样随便评判我。毕竟有些事说出来可能会被觉得小题大做……）"
+      }
+    }
+  ],
+  "created": 1795149270,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1105,
+    "total_tokens": 1223,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

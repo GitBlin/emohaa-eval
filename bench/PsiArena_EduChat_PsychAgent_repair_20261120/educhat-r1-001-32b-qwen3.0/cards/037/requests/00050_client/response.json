@@ -1,0 +1,41 @@
+{
+  "id": "1fbfff20325a4128915275525e889ffe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……谢谢您。今天聊完，我想回去先把那些想说的话写下来，不管发不发，先写出来再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会一直在这里支持我，这让我感到安心，但同时也意识到不能总是依赖别人。毕竟最终还是要靠自己去面对和解决问题。）\n（我想到今天聊的这些确实让我有了些方向，但具体怎么坚持还是有点模糊。或许应该先试着把那些想法写下来，这样至少不会忘记。）",
+        "reasoning": "（咨询师说会一直在这里支持我，这让我感到安心，但同时也意识到不能总是依赖别人。毕竟最终还是要靠自己去面对和解决问题。）\n（我想到今天聊的这些确实让我有了些方向，但具体怎么坚持还是有点模糊。或许应该先试着把那些想法写下来，这样至少不会忘记。）"
+      }
+    }
+  ],
+  "created": 1795154936,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2981,
+    "total_tokens": 3077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

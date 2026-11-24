@@ -1,0 +1,41 @@
+{
+  "id": "6d0de167c7dd4ed8887060fd41680679",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……那我试试。其实我还想到，是不是该先跟他好好谈谈，而不是一直等着。工作那边也拖了不少，得先把睡眠调整好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我记录小尝试，还用了学走路的比喻。这让我觉得被理解了，但心里还是有点不确定，怕自己坚持不下去。）\n（想到工作，因为吵架和失眠已经耽误了不少事情。也许可以从最实际的行动开始，比如先调整好睡眠，这样至少能稳住工作，不会让情况更糟。）",
+        "reasoning": "（咨询师在鼓励我记录小尝试，还用了学走路的比喻。这让我觉得被理解了，但心里还是有点不确定，怕自己坚持不下去。）\n（想到工作，因为吵架和失眠已经耽误了不少事情。也许可以从最实际的行动开始，比如先调整好睡眠，这样至少能稳住工作，不会让情况更糟。）"
+      }
+    }
+  ],
+  "created": 1795149488,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2676,
+    "total_tokens": 2782,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

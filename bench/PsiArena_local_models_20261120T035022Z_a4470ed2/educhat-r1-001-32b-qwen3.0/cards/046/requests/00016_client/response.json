@@ -1,0 +1,41 @@
+{
+  "id": "dd9175e35d774f8397fe874f7757f3e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "给它起名字……（苦笑）听起来有点傻，不过那个声音确实挺像我爸的。从小到大，他总说“再努力一点”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到给那个声音起名字，还叫它“完美小怪兽”……这个说法有点幼稚，但确实让我想到小时候。那时候爸妈总说“再努力一点”，现在那个声音简直和他们一模一样。）\n（我好像第一次意识到，这个声音不是我自己凭空冒出来的。它带着我爸妈的语气，带着那种永远不够好的感觉。也许这就是为什么我总在跟自己较劲。）",
+        "reasoning": "（咨询师提到给那个声音起名字，还叫它“完美小怪兽”……这个说法有点幼稚，但确实让我想到小时候。那时候爸妈总说“再努力一点”，现在那个声音简直和他们一模一样。）\n（我好像第一次意识到，这个声音不是我自己凭空冒出来的。它带着我爸妈的语气，带着那种永远不够好的感觉。也许这就是为什么我总在跟自己较劲。）"
+      }
+    }
+  ],
+  "created": 1795150189,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1509,
+    "total_tokens": 1624,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c0f8e46e8311473481a040976e000dbe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕的是她其实已经不想跟我说了，只是没讲出来。那样我会觉得自己很没用……但一直追问又怕把她推远。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那种矛盾拆开来看……我确实说不清到底更怕哪一边。她沉默的时候，我最怕的是自己在她那里变得不重要了，但直接去问又怕把她推得更远。也许可以先承认这种担心，不用急着选边。）",
+        "reasoning": "（咨询师在帮我把那种矛盾拆开来看……我确实说不清到底更怕哪一边。她沉默的时候，我最怕的是自己在她那里变得不重要了，但直接去问又怕把她推得更远。也许可以先承认这种担心，不用急着选边。）"
+      }
+    }
+  ],
+  "created": 1795148048,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2239,
+    "total_tokens": 2329,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

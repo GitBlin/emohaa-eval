@@ -1,0 +1,41 @@
+{
+  "id": "1e95da421f6447e8afa3ce0f09276c9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对……大概是这样。不过我也不知道是不是我太敏感了，他们可能觉得没什么。我有时候会想，是不是我不太会跟人相处。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在确认我的感受...但我其实还有点不确定能不能信任他。他看起来挺认真的，可我不知道该不该把更深的感受说出来。也许先承认一部分，但别全盘托出比较安全。）\n（他问我理解得对不对...确实是这样，但我不想显得太脆弱。稍微带点试探吧，看看他会不会像室友那样敷衍我。）",
+        "reasoning": "（咨询师在确认我的感受...但我其实还有点不确定能不能信任他。他看起来挺认真的，可我不知道该不该把更深的感受说出来。也许先承认一部分，但别全盘托出比较安全。）\n（他问我理解得对不对...确实是这样，但我不想显得太脆弱。稍微带点试探吧，看看他会不会像室友那样敷衍我。）"
+      }
+    }
+  ],
+  "created": 1795153613,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1204,
+    "total_tokens": 1313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

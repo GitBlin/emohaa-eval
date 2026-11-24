@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-b9d498c5ed8a47ee85ed4c0a88370f48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n很好，我们就用“等我一下”作为你的自我照顾提示语。接下来，我们做个小结：今天你识别了“小警报”、注意到身体信号，也选了两句自我对话（“我注意到你了”“等我一下”）。对你来说，今天最有用的一点是什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153494,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3084,
+    "total_tokens": 3155,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

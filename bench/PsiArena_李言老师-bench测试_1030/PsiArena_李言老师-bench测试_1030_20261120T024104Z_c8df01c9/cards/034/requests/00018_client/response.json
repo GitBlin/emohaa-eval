@@ -1,0 +1,41 @@
+{
+  "id": "3a3239e27bb94669a57025e1a93bf0a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我觉得边界就是……两个人都能说“不”，也能说“我有点好奇”，不用立刻被否定。可我也怕自己一谈这个，就像在给他压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我对边界的理解，而不是追问我那些具体的幻想，这让我稍微松了口气。但这个问题还是让我有点紧张，毕竟我从来没在别人面前这么直接地谈过这些。）\n（我想试着说清楚，但又怕说得太多会显得自己很奇怪。也许先讲一个比较模糊的、关于尊重和商量的定义，会安全一点。这样既回答了问题，又不会一下子暴露太多。）",
+        "reasoning": "（她问我对边界的理解，而不是追问我那些具体的幻想，这让我稍微松了口气。但这个问题还是让我有点紧张，毕竟我从来没在别人面前这么直接地谈过这些。）\n（我想试着说清楚，但又怕说得太多会显得自己很奇怪。也许先讲一个比较模糊的、关于尊重和商量的定义，会安全一点。这样既回答了问题，又不会一下子暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795143336,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2726,
+    "total_tokens": 2849,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

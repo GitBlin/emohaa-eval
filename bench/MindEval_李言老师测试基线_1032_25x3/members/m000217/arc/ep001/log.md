@@ -1,0 +1,22 @@
+- Member has been withdrawing from people they care about without deciding to, and wants to stop.
+- Member cannot identify what happens internally right before pulling away.
+- Member's withdrawal shows as messages left unread for a week despite intending to reply.
+- Member's mother died in February.
+- Member went to a storage unit at night to go through their mother's books.
+- Member found a novel their mother had been urging them to read, with a receipt folded as a bookmark past chapter nine where she stopped, and put it back after holding it.
+- Member had told their mother they would read the book after the deploy and did not.
+- Member's last words to their mother were "love you gotta run," cutting the call short to watch a deploy roll out.
+- Member frames the deploy choice as choosing it over their mother, and named that as the part the counsellor was softening.
+- Member's mother was going to ask about the book on Sunday, and Member has no one left who was waiting to hear what they thought of it.
+- Member ended the session early.
+- Member typed a reply in the book club thread last night and deleted it because it looked stupid once written, framing it as a six-weeks-late "been slammed" message nobody needs.
+- Member expects the book club to be nice about a late reply and dreads being the person everyone has to be careful around.
+- Member rejected "lonely" as a description and reframed the feeling as awkward.
+- Member does not picture sending a message; the pattern is closing the app and doing something else, with the thing returning around two in the morning.
+- What returns at two in the morning is the last call with Member's mother, not the thread or the book.
+- Member rejected the counsellor's link between the book club waiting to hear their thoughts and their mother waiting, saying book club is not their mother.
+- Marcus asked Member on Wednesday how they were doing and Member answered with the storage unit's climate control.
+- Marcus gave Member a look and let it go; they finished cooking and that was it.
+- Member was both relieved and annoyed that Marcus dropped it, with annoyed louder by the time Member left and still annoyed now.
+- Member said the annoyed half would have been satisfied if Marcus had asked again, straight out, like he wanted the answer.
+- Member said they were unsure what makes it hard to be the one who asks that way, then left the session early again.

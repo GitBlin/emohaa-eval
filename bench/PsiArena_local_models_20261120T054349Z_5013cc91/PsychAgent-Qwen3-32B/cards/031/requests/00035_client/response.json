@@ -1,0 +1,41 @@
+{
+  "id": "034563793e3e4fce8baa1f94aba32e94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试，但我可能会卡住。就是那种，话到嘴边又咽回去的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提议演练开场白，这让我有点紧张，但好像也不是不能试试。我平时确实不知道该怎么开口，有几句顺口的话可能会好一点。不过我还是担心自己到时候会卡住，说不出来。）",
+        "reasoning": "（咨询师提议演练开场白，这让我有点紧张，但好像也不是不能试试。我平时确实不知道该怎么开口，有几句顺口的话可能会好一点。不过我还是担心自己到时候会卡住，说不出来。）"
+      }
+    }
+  ],
+  "created": 1795154582,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2484,
+    "total_tokens": 2554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

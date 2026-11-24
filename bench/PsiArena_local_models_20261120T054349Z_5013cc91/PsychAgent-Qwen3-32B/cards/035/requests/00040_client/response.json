@@ -1,0 +1,41 @@
+{
+  "id": "f312d67415ba44b69f920c5fb53dccff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "延迟五分钟……听起来好难，但也许可以试试。我是不是得把手机放远一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了我一个很具体的建议，把看手机的次数延迟五分钟，还要记录感受和念头。说实话，听到这个提议我第一反应是有点抵触，感觉五分钟都很难熬，像要硬生生忍住不去看。但转念一想，这至少是个能试着做的小事，不是让我一下子改变什么。我有点犹豫，怕自己做不到，又觉得可以试一下。）",
+        "reasoning": "（咨询师给了我一个很具体的建议，把看手机的次数延迟五分钟，还要记录感受和念头。说实话，听到这个提议我第一反应是有点抵触，感觉五分钟都很难熬，像要硬生生忍住不去看。但转念一想，这至少是个能试着做的小事，不是让我一下子改变什么。我有点犹豫，怕自己做不到，又觉得可以试一下。）"
+      }
+    }
+  ],
+  "created": 1795154751,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2821,
+    "total_tokens": 2926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

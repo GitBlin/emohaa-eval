@@ -1,0 +1,41 @@
+{
+  "id": "1a9cc1a480b6420aa801346d7000c98e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "下班回家以后，还有……咨询结束以后。（低声）我知道不该把所有希望都放在你身上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问空通常什么时候最明显，这让我想到下班回家和咨询结束后的那种落差。其实我有点犹豫要不要说得太具体，怕显得自己太依赖，但既然已经聊到这里，还是试着坦白一点吧。）\n（不过说完之后又有点不安，担心咨询师会觉得我把全部希望都压在他身上。所以得赶紧补一句，说明我也知道这样不太好，想找别的支撑。这样既表达了真实感受，又不会显得完全失控。）",
+        "reasoning": "（咨询师问空通常什么时候最明显，这让我想到下班回家和咨询结束后的那种落差。其实我有点犹豫要不要说得太具体，怕显得自己太依赖，但既然已经聊到这里，还是试着坦白一点吧。）\n（不过说完之后又有点不安，担心咨询师会觉得我把全部希望都压在他身上。所以得赶紧补一句，说明我也知道这样不太好，想找别的支撑。这样既表达了真实感受，又不会显得完全失控。）"
+      }
+    }
+  ],
+  "created": 1795143585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2627,
+    "total_tokens": 2748,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

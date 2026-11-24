@@ -1,0 +1,41 @@
+{
+  "id": "e6bd0b515dc04014b1372fcc8f449d4d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喉咙会发紧，像被什么堵住；脸也会热。我还会偷偷观察他表情，一看到他皱眉就更不敢说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应……这让我想起当时那种紧绷的感觉。其实每次想开口的时候，身体都会先出卖我。喉咙发紧是最明显的，像被人掐住了一样。脸也会发烫，特别怕他看出来我在想什么。这些反应好像比我的脑子还诚实，先一步告诉我“不能说”。）",
+        "reasoning": "（咨询师在问我身体反应……这让我想起当时那种紧绷的感觉。其实每次想开口的时候，身体都会先出卖我。喉咙发紧是最明显的，像被人掐住了一样。脸也会发烫，特别怕他看出来我在想什么。这些反应好像比我的脑子还诚实，先一步告诉我“不能说”。）"
+      }
+    }
+  ],
+  "created": 1795154712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2108,
+    "total_tokens": 2208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

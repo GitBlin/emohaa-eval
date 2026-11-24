@@ -1,0 +1,41 @@
+{
+  "id": "6814899626584986ab1615ba1b9f8446",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能更希望她在我低落的时候来问一句。不过想想，我好像也没怎么让她知道我不开心。是不是我总等着别人猜？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更希望朋友主动分享日常还是在我情绪低落时先关心我，这让我想到自己其实一直很被动。我可能太习惯等别人来靠近，连想要什么都不敢直接说。）\n（也许我可以试着从小事上改变，比如不再总是等对方先发消息。但一想到要主动，又觉得有点别扭，怕自己显得太刻意或者太急切。）",
+        "reasoning": "（她问我更希望朋友主动分享日常还是在我情绪低落时先关心我，这让我想到自己其实一直很被动。我可能太习惯等别人来靠近，连想要什么都不敢直接说。）\n（也许我可以试着从小事上改变，比如不再总是等对方先发消息。但一想到要主动，又觉得有点别扭，怕自己显得太刻意或者太急切。）"
+      }
+    }
+  ],
+  "created": 1795142640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2849,
+    "total_tokens": 2962,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

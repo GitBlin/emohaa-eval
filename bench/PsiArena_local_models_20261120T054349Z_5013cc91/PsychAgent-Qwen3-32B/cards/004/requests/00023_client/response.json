@@ -1,0 +1,41 @@
+{
+  "id": "9c1803a0ca8648ee85b46fdf721472be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下，慢慢说）好像……是我爸的声音吧。他一打电话就说这些。我听了就不敢吭声，也不知道还能怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（愣了一下，慢慢说）好像……是我爸的声音吧。他一打电话就说这些。我听了就不敢吭声，也不知道还能怎么办。",
+        "reasoning": "（愣了一下，慢慢说）好像……是我爸的声音吧。他一打电话就说这些。我听了就不敢吭声，也不知道还能怎么办。"
+      }
+    }
+  ],
+  "created": 1795153601,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2120,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

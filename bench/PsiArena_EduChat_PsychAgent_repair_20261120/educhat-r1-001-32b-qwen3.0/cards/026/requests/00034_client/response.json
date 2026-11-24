@@ -1,0 +1,41 @@
+{
+  "id": "f02bee0c97b64359a84d554989ea5914",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，我回去先在心里练习几遍。（停顿）其实我有点期待，又有点怕搞砸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我练习表达，但我还是担心女儿的反应。作为教师，我太习惯用教育者的语气说话了，现在要换成平等的沟通方式，总觉得别扭。不过咨询师说得对，也许该先在心里练习几遍。）\n（想到女儿可能会觉得我奇怪，心里就有点打鼓。但既然都来咨询了，总得试试看吧。至少先迈出第一步，总比一直僵着强。希望这次能真的改善我们的关系。）",
+        "reasoning": "（咨询师在引导我练习表达，但我还是担心女儿的反应。作为教师，我太习惯用教育者的语气说话了，现在要换成平等的沟通方式，总觉得别扭。不过咨询师说得对，也许该先在心里练习几遍。）\n（想到女儿可能会觉得我奇怪，心里就有点打鼓。但既然都来咨询了，总得试试看吧。至少先迈出第一步，总比一直僵着强。希望这次能真的改善我们的关系。）"
+      }
+    }
+  ],
+  "created": 1795154438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2210,
+    "total_tokens": 2334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

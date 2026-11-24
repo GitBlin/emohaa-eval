@@ -1,0 +1,41 @@
+{
+  "id": "1632f4f8c192444fb26e4fe585e7ef8f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）可能……就是告诉他，你已经做得够好了，不用什么都自己扛。唉，说起来容易，做到真难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师让我给那个皱眉的人一个拥抱，还问TA需要什么安慰。说实话，这个问题让我心里有点发紧，好像真看到了那个站在人群外的自己。我平时很少去想怎么安慰自己，总觉得那是软弱的表现。）\n（但仔细想想，也许那个人最需要的不是大道理，就是有人告诉他别硬撑了。我总觉得自己必须完美，必须扛住一切，可这样真的太累了。说出这句话的时候，我甚至有点想哭，但忍住了。）",
+        "reasoning": "（这个咨询师让我给那个皱眉的人一个拥抱，还问TA需要什么安慰。说实话，这个问题让我心里有点发紧，好像真看到了那个站在人群外的自己。我平时很少去想怎么安慰自己，总觉得那是软弱的表现。）\n（但仔细想想，也许那个人最需要的不是大道理，就是有人告诉他别硬撑了。我总觉得自己必须完美，必须扛住一切，可这样真的太累了。说出这句话的时候，我甚至有点想哭，但忍住了。）"
+      }
+    }
+  ],
+  "created": 1795147080,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3047,
+    "total_tokens": 3179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

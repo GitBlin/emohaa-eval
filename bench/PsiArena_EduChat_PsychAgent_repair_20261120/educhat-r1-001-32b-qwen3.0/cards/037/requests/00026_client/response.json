@@ -1,0 +1,41 @@
+{
+  "id": "124d2baf8ede4a829f4e5734273e878f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "问音乐……这个我倒是没想过。我平时太容易往坏处想了，可能跟我这性格也有关系，什么事都憋在心里。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议从小事开始，比如问音乐，这让我觉得有点道理，但心里还是打鼓。我想到自己平时连这种简单的话都犹豫半天，是不是太被动了。）\n（也许我该承认自己的性格问题，但说出口又觉得有点难为情。我不太想显得太脆弱，可又确实需要有人帮我理清这个结。）",
+        "reasoning": "（咨询师建议从小事开始，比如问音乐，这让我觉得有点道理，但心里还是打鼓。我想到自己平时连这种简单的话都犹豫半天，是不是太被动了。）\n（也许我该承认自己的性格问题，但说出口又觉得有点难为情。我不太想显得太脆弱，可又确实需要有人帮我理清这个结。）"
+      }
+    }
+  ],
+  "created": 1795154906,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1937,
+    "total_tokens": 2047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

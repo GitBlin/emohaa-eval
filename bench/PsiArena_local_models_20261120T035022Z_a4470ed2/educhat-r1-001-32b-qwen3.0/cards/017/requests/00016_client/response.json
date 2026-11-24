@@ -1,0 +1,41 @@
+{
+  "id": "c34df3c90c2b4de6bce09b33e3e275b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是跟家里打完电话之后吧。就是那种，明明没说什么重话，但挂了电话就觉得特别累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这种感觉在什么情境下出现，看来是想帮我找到压力的来源。其实最近每次和家里通完电话，那种烦躁和累的感觉就特别明显。但直接说“因为家里催生”好像太直白了，我还没准备好把这么私密的事摊开来说。）\n（而且提到家里的事，我总会想起检查结果，心里更乱了。也许可以先模糊地提一下“家里的事”，看看咨询师怎么回应，再决定要不要继续说下去。）",
+        "reasoning": "（咨询师问我这种感觉在什么情境下出现，看来是想帮我找到压力的来源。其实最近每次和家里通完电话，那种烦躁和累的感觉就特别明显。但直接说“因为家里催生”好像太直白了，我还没准备好把这么私密的事摊开来说。）\n（而且提到家里的事，我总会想起检查结果，心里更乱了。也许可以先模糊地提一下“家里的事”，看看咨询师怎么回应，再决定要不要继续说下去。）"
+      }
+    }
+  ],
+  "created": 1795147805,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1413,
+    "total_tokens": 1541,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

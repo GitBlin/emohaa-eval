@@ -1,0 +1,12 @@
+- Member's son Trung drove off before midnight on the first night of Tet, so they did not wake together on the first morning of the new year for the first time in a long time.
+- Member and Trung argued at Tet about the recording; arguments at Tet are normal to Member, who says the disagreement is over and lives by the rule that arguments at Tet happen.
+- Member's dinners with Trung are short now and phone calls cover only the car and the weather.
+- Member's grandson asked at Sunday dinner whether Member still makes the recording and whether he could hear about the boat, and Member froze and said nothing because Trung stood in the hallway with the keys and would hear anything said to the boy.
+- Member wants to ask Trung whether he meant what he said at Tet but also fears that raising it would make things worse, and swings between the two.
+- At Sunday dinner Trung looked at Member before telling the boy to go, without the anger of Tet and without telling the boy to stop asking, and Member cannot read what the look was.
+- Member has been standing at the window every night this week going over Trung's look and finds not knowing where he stands uncomfortable after the clarity of Tet.
+- Member's main hope is that Trung is not done with him, and a sign would be Trung calling himself or coming by the garden, neither of which he has done in three months.
+- Member counts Trung's Sunday visits and shop talk as something but says a man can sit at a table about a transmission job and not be there at all.
+- Member would count Trung as "being there" if Trung said something true about Tet, and Member would answer with his part.
+- Member declined to rehearse what he would say to Trung, saying it would come out wrong to a screen and needs to be said to the person.
+- Member keeps returning to the fact that the grandson asked about the recording himself, with nobody having put him up to it.

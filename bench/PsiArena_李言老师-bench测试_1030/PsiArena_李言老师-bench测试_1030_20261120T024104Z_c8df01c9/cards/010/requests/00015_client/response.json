@@ -1,0 +1,41 @@
+{
+  "id": "a1acbba012d3438896213b0580c780b2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我都不太想提……但一直安静着更难受。可能我更希望他们别老盯着成绩吧，可这话我又不敢说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我是希望爸妈先开口还是我自己先提成绩，这让我有点为难。我其实不想提，每次提成绩都像在等待审判，可他们不说话的时候，那种安静更让人难受。）\n（我可能更希望他们别把成绩看得那么重，但这话我从来没跟他们说过。现在说出来，感觉有点没底气，毕竟我一直都知道他们很在意。）",
+        "reasoning": "（心理咨询师问我是希望爸妈先开口还是我自己先提成绩，这让我有点为难。我其实不想提，每次提成绩都像在等待审判，可他们不说话的时候，那种安静更让人难受。）\n（我可能更希望他们别把成绩看得那么重，但这话我从来没跟他们说过。现在说出来，感觉有点没底气，毕竟我一直都知道他们很在意。）"
+      }
+    }
+  ],
+  "created": 1795142545,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2261,
+    "total_tokens": 2372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

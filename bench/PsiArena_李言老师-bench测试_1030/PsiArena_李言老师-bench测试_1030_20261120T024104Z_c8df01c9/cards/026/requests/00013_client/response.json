@@ -1,0 +1,41 @@
+{
+  "id": "9c14b96510cf4b61a6734c999982927b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有，上周我检查她作业，她突然把本子合上说“你别看了”，就回房间关门。我站在门口，心里一下子空了……不知道从什么时候开始，她这么防着我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近有没有具体时刻感觉女儿在退开……这让我一下子想起上周的事。其实我一直不太敢细想那个画面，怕越想越觉得自己失败。但既然她问了，我可能得说点什么。）\n（作为母亲，我确实很在意和女儿的关系。那个关门的动作让我特别难受，好像把我隔绝在外了。我平时总觉得自己很了解孩子，可现在连她为什么关门都不知道。这让我有点怀疑自己是不是真的像我以为的那样会教育孩子。）",
+        "reasoning": "（她问我最近有没有具体时刻感觉女儿在退开……这让我一下子想起上周的事。其实我一直不太敢细想那个画面，怕越想越觉得自己失败。但既然她问了，我可能得说点什么。）\n（作为母亲，我确实很在意和女儿的关系。那个关门的动作让我特别难受，好像把我隔绝在外了。我平时总觉得自己很了解孩子，可现在连她为什么关门都不知道。这让我有点怀疑自己是不是真的像我以为的那样会教育孩子。）"
+      }
+    }
+  ],
+  "created": 1795143069,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2166,
+    "total_tokens": 2311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

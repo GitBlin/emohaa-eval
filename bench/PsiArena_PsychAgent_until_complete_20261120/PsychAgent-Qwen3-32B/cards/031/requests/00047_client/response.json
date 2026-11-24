@@ -1,0 +1,41 @@
+{
+  "id": "6aa6b84828e948ec808b3ecd5eadc70c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个可以，有个“暂停”的话，我心里会踏实一点。至少知道不用硬撑着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到“暂停词”的时候，我心里反而有点松下来。以前总觉得一紧张就只能硬撑着，现在好像可以允许自己先停一下，不用逼着自己马上说清楚。这个安排听起来不吓人，甚至有点让我安心。）",
+        "reasoning": "（她提到“暂停词”的时候，我心里反而有点松下来。以前总觉得一紧张就只能硬撑着，现在好像可以允许自己先停一下，不用逼着自己马上说清楚。这个安排听起来不吓人，甚至有点让我安心。）"
+      }
+    }
+  ],
+  "created": 1795154596,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 3129,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

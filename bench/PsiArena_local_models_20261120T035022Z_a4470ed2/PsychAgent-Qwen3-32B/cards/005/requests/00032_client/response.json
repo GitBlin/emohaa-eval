@@ -1,0 +1,41 @@
+{
+  "id": "3e8d083ffbe14558936e5ceb5caccbc3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧，我给一个朋友发了消息，她一直没回。我就开始翻聊天记录，想是不是我说错话了……后来才发现她只是忙。那一刻觉得自己挺可笑的，可下次还是会这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期了，要开始探索解决方案。先回应咨询师的问题，讲一个具体片段，然后可以往“想改变”的方向稍微带一点，但别太快给出完整方案。）",
+        "reasoning": "（后期了，要开始探索解决方案。先回应咨询师的问题，讲一个具体片段，然后可以往“想改变”的方向稍微带一点，但别太快给出完整方案。）"
+      }
+    }
+  ],
+  "created": 1795146839,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2569,
+    "total_tokens": 2653,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

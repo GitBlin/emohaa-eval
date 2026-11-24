@@ -1,0 +1,41 @@
+{
+  "id": "a442dc55b57d40c4889091220fea92e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就一次聚会吧……我看到我好朋友和新认识的人聊得特别开心，我在旁边插不上话。嗯……对了，我如果想跟你说些很私人的事，你会告诉别人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我当时发生了什么……其实我不想说得太细，但她好像挺认真在听。我有点想试探她一下，看看她是不是真的会站在我这边。）\n（也许我可以先问一句，如果我说了很私人的事，她会不会告诉我别人。这样能看看她靠不靠谱。）",
+        "reasoning": "（咨询师问我当时发生了什么……其实我不想说得太细，但她好像挺认真在听。我有点想试探她一下，看看她是不是真的会站在我这边。）\n（也许我可以先问一句，如果我说了很私人的事，她会不会告诉我别人。这样能看看她靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1795153440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1158,
+    "total_tokens": 1264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

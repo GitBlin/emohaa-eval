@@ -1,0 +1,41 @@
+{
+  "id": "fa879d96a4f8463ea6f15efc9eeebeb1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "把茶叶罐放桌角吧，顺手就能看到。电脑提示有点太刻意了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在帮我把想法落到具体动作上……把茶叶罐放显眼处，或者设个电脑提示，都挺简单。我可能选茶叶罐吧，不用刻意去看屏幕，顺手就能看到。）",
+        "reasoning": "（这个咨询师在帮我把想法落到具体动作上……把茶叶罐放显眼处，或者设个电脑提示，都挺简单。我可能选茶叶罐吧，不用刻意去看屏幕，顺手就能看到。）"
+      }
+    }
+  ],
+  "created": 1795153660,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3331,
+    "total_tokens": 3399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

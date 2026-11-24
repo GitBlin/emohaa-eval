@@ -1,0 +1,41 @@
+{
+  "id": "efaf7ddefdfd46d99935e5eb23b7752d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以当练习。那我要是真的哭了，接下来能做点什么？我不想又像以前那样，一哭就整个人垮掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把练习的预期反应也记录下来，还强调这不是考验。我稍微松了口气，可还是有点担心自己会搞砸。想再确认一下，如果真哭了，是不是也没关系。）\n（也许可以问问，哭完之后能做点什么，这样心里会更有底。毕竟我总怕情绪一上来就收不住。）",
+        "reasoning": "（咨询师在帮我把练习的预期反应也记录下来，还强调这不是考验。我稍微松了口气，可还是有点担心自己会搞砸。想再确认一下，如果真哭了，是不是也没关系。）\n（也许可以问问，哭完之后能做点什么，这样心里会更有底。毕竟我总怕情绪一上来就收不住。）"
+      }
+    }
+  ],
+  "created": 1795155213,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3328,
+    "total_tokens": 3429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

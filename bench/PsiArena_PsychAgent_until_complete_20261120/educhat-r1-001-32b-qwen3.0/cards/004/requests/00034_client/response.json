@@ -1,0 +1,41 @@
+{
+  "id": "4899e942788944069c8d045747deb9bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "朋友……我好像没有能一起去的朋友。匿名的话，是不是就没人知道是我说的了？这样……会不会安全一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我更倾向哪种方式，这让我有点犹豫。朋友……我好像没有能一起去的朋友，这个选项让我觉得有点孤单。匿名的话，好像安全一点，但会不会没人管？不过至少不会被他们发现是我说的。）\n（我得想清楚怎么说，不能显得太害怕，但也不能假装很勇敢。匿名听起来可行，但心里还是没底，得问问清楚才敢决定。）",
+        "reasoning": "（心理咨询师在问我更倾向哪种方式，这让我有点犹豫。朋友……我好像没有能一起去的朋友，这个选项让我觉得有点孤单。匿名的话，好像安全一点，但会不会没人管？不过至少不会被他们发现是我说的。）\n（我得想清楚怎么说，不能显得太害怕，但也不能假装很勇敢。匿名听起来可行，但心里还是没底，得问问清楚才敢决定。）"
+      }
+    }
+  ],
+  "created": 1795153627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2333,
+    "total_tokens": 2448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-25c7d2c721a542bcb2aaf5c602db36da",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，看到你有困扰的样子，我很愿意倾听。最近发生了什么事情让你感到不安呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到情绪波动，需建立信任关系。\n【行动策略】：使用开放性问题引导表达，保持温暖态度。\n",
+        "reasoning_content": "\n【诊断分析】：识别到情绪波动，需建立信任关系。\n【行动策略】：使用开放性问题引导表达，保持温暖态度。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146939,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 196,
+    "total_tokens": 251,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

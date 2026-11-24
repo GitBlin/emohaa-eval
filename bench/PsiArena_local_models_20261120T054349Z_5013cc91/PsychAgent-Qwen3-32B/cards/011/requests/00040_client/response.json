@@ -1,0 +1,41 @@
+{
+  "id": "cff8ad69d7334def97fe105d13b58f62",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不算失败。你可以先跑过去看一眼，确认安全，再决定要不要用那1分钟喘口气。我们把它当作练习，不是考试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）嗯，我愿意试试。但要是他又哭得很厉害，我可能还是会马上跑过去。这样算失败吗？",
+        "reasoning": "（停顿）嗯，我愿意试试。但要是他又哭得很厉害，我可能还是会马上跑过去。这样算失败吗？"
+      }
+    }
+  ],
+  "created": 1795153823,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3151,
+    "total_tokens": 3210,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

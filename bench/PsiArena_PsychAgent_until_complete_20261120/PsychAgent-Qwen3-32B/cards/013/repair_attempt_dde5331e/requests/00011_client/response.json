@@ -1,0 +1,41 @@
+{
+  "id": "15eb83ef5d7440a5b447c66f787d1ccb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十天挺具体。那我们给这十天定一个“能看见的进展”：你希望到第十天时，自己至少完成哪一件小事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "十天吧，一周太赶，两周又怕自己拖。十天像是……给自己一个交代。",
+        "reasoning": "十天吧，一周太赶，两周又怕自己拖。十天像是……给自己一个交代。"
+      }
+    }
+  ],
+  "created": 1795157425,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 3282,
+    "total_tokens": 3334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

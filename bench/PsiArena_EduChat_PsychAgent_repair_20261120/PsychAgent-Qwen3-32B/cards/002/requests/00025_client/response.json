@@ -1,0 +1,41 @@
+{
+  "id": "22c36db6bfe14f12956272d1882e66fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不怪，反而说明你在靠近真实的自己。想哭的时候，你通常怎么处理？是压下去，还是找地方哭出来？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我模拟对自己说那句话……我试着在心里念了一遍。奇怪，胸口好像没那么紧了，但同时又有点想哭。可能是因为平时从来没人允许我这样承认不舒服吧。）嗯……我试了一下，胸口好像稍微松了一点点，但又有点想哭。是不是很怪？",
+        "reasoning": "（咨询师让我模拟对自己说那句话……我试着在心里念了一遍。奇怪，胸口好像没那么紧了，但同时又有点想哭。可能是因为平时从来没人允许我这样承认不舒服吧。）嗯……我试了一下，胸口好像稍微松了一点点，但又有点想哭。是不是很怪？"
+      }
+    }
+  ],
+  "created": 1795153464,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2094,
+    "total_tokens": 2186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

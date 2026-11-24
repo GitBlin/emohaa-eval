@@ -1,0 +1,41 @@
+{
+  "id": "1fa15634481440fcb97ae25b21389176",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口会有点紧，呼吸也变浅。嗯……好像也不是每次都这样，就是有时候特别明显。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体反应，我有点犹豫要不要说这么细。不过既然来了，说一点应该没关系吧。胸口发紧、呼吸变浅，这些确实常有，但说出来总觉得暴露太多。还是简单带过，别让他觉得我小题大做。）",
+        "reasoning": "（咨询师问我身体反应，我有点犹豫要不要说这么细。不过既然来了，说一点应该没关系吧。胸口发紧、呼吸变浅，这些确实常有，但说出来总觉得暴露太多。还是简单带过，别让他觉得我小题大做。）"
+      }
+    }
+  ],
+  "created": 1795147883,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 1178,
+    "total_tokens": 1258,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

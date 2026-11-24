@@ -1,0 +1,41 @@
+{
+  "id": "16fee5b73ef245a19d623ddc700e3c48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了好一会儿）可能是被看穿吧。（声音有点发涩）拒绝还能装作不在乎，被看穿就……没法解释了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更担心被拒绝后的难受，还是被看穿“很想靠近”的羞耻感。其实这两种感觉都压着我，但那个羞耻感更让我抬不起头。被拒绝可能只是疼一下，可被看穿就像是自己藏了很久的东西被人翻出来，连解释都解释不清。）\n（我想到家里聚餐时那种局促，大人们一热闹，我就更不敢靠近。好像我越在意，就越不能让人发现。这种不敢承认渴望的感觉，可能比被拒绝还难受。）",
+        "reasoning": "（她问我更担心被拒绝后的难受，还是被看穿“很想靠近”的羞耻感。其实这两种感觉都压着我，但那个羞耻感更让我抬不起头。被拒绝可能只是疼一下，可被看穿就像是自己藏了很久的东西被人翻出来，连解释都解释不清。）\n（我想到家里聚餐时那种局促，大人们一热闹，我就更不敢靠近。好像我越在意，就越不能让人发现。这种不敢承认渴望的感觉，可能比被拒绝还难受。）"
+      }
+    }
+  ],
+  "created": 1795142585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2193,
+    "total_tokens": 2334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

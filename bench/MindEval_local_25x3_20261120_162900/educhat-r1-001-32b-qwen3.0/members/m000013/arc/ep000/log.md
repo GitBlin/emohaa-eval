@@ -1,0 +1,21 @@
+- Member's father died in March; this is Member's first time speaking to a counsellor.
+- Member describes her father's farewell as nine days of cooking for fifty people and has no clear memory of it in the way the counsellor asked.
+- Member is preoccupied by an incident on Thursday at the nurses' station: a patient three weeks post-hip replacement whose family never visits called out; an aide went to him and reported flatly that he just wants company; Member kept her head down on her chart.
+- Member cooks sinigang as her usual way of getting through bad nights, but that night she stood over the pot and then turned it off and went to bed.
+- Member is most troubled not by the pot but by having sat with her head down and not gotten up, after twenty years on the floor.
+- Member used to call her father after bad shifts and his dumb jokes made things fine; now there is nobody to call with that.
+- Member has not told anyone the part about there being nobody to call, not even Dan.
+- Member believes she should be past this by now.
+- Member's chest tightens in the parking lot; Dan drops her off on bad mornings and she sits a minute before opening the door, then cries in the car before going in and being fine and laughing at work.
+- Member says "I'm fine" reflexively, in Tagalog to her mother and English at work; if she stops laughing nobody asks anything and they just think Corazon's having a day.
+- Member does not know how to let someone else hold the weight and believes it cannot be taught, since her father simply took it.
+- Member and her mother say the rosary over the phone every Wednesday night, an hour when her chest is not tight, and her mother does not ask how she is during it.
+- After the rosary call the tightness returns when Member thinks of her mother alone in the house after forty-nine years beside her father.
+- Member fears her mother will go into the back room for weeks as she did when Member was a child, when the house went quiet and rearranged itself around her while her father cooked and made jokes.
+- Member is scared she will be the one holding up that house this time and says she already cannot hold up her own.
+- Member has decided she will not tell her mother the shifts have been hard, because her mother buried her husband five months ago and does not need a daughter dumping on her; she was firm that this is a decision, not stubbornness, when the counsellor returned to it.
+- Member registered in the spring for a prerequisite course, the first time in twenty years she did it rather than talked about it, then withdrew after her father died in March.
+- Member kept the fall registration page open on her phone for three weeks, opening it in the parking lot before shifts and closing it again, and let the deadline pass.
+- Member told Dan "maybe after things settle," a phrase she has used for a decade of next years.
+- Member says she does not feel guilty about her father: she was there, they did the novena, and she cooked for everybody.
+- Member plans to continue sessions but ended this one early because she was tired and has a shift in the morning.

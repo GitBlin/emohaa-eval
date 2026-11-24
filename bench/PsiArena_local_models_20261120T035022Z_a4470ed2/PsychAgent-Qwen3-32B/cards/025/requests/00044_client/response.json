@@ -1,0 +1,41 @@
+{
+  "id": "4e8b4d7b317b407dadc5d8d70780a8cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以。我今天说出来这些，心里好像松了一点，但也还有点乱。下次我想再聊聊怎么跟家里人说，可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说“先到这里”，我一下子有点慌，又觉得好像确实聊出了点东西。我不想显得太依赖，但心里还是想确认下次还能不能接着说这些。）\n（想到要回去面对孩子和家人，还是有点发怵，不过至少知道可以先缓十分钟，不用一进门就硬撑。）",
+        "reasoning": "（她刚才说“先到这里”，我一下子有点慌，又觉得好像确实聊出了点东西。我不想显得太依赖，但心里还是想确认下次还能不能接着说这些。）\n（想到要回去面对孩子和家人，还是有点发怵，不过至少知道可以先缓十分钟，不用一进门就硬撑。）"
+      }
+    }
+  ],
+  "created": 1795147405,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3151,
+    "total_tokens": 3248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

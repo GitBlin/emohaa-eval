@@ -1,0 +1,30 @@
+- Member loops on the same math at 2am hoping it will come out differently, and the repetition is what's wearing them down rather than the arithmetic.
+- Member's identity as "the one who fixes it" makes an unfixable problem feel like a personal failure rather than a circumstance.
+- Member said out loud for the first time that they don't know what to do, and felt lighter rather than stupid afterward.
+- Member says the lightness came from not being told they were being dramatic.
+- Member's goal for counselling is to lay out the options so they can stop circling them.
+- Member posted a roommate listing last week and took it down after one respondent asked if they live alone and what hours they're gone; the other six replies went unread.
+- Member finds a stranger in the apartment unmanageable even with screening, so the roommate option is effectively closed.
+- Member's extra shifts are real income but fall well short of the $325 gap.
+- Member has a folder on the counter with school/training information, unopened since before the rent letter arrived, and fears it will confirm the plan is unaffordable.
+- Member's plan is three years to shift lead and then their own store, written in a notebook by their bed since age 30, and it is the only plan they have that isn't just getting through the month.
+- Member's rule that wanting what the math forbids is foolish traces to doing the electric bill at the kitchen table at age ten.
+- Member rejected "both can be true" as useless for deciding what to do on a Tuesday night with the folder on the counter.
+- Member set two conditions for opening the folder: not at 1am, and not alone.
+- Member named Marisol as the person to call because she wouldn't make it weird.
+- Member's opening sentence to Marisol would be "my rent went up and I don't know what I'm doing," and they consider it stupid to type.
+- Member told Marisol "busy, good busy" on Sunday when she asked how they were.
+- Member says typing the message to Marisol is easy; the barrier is bracing for her reaction, specifically a worried "oh" that would make them feel like a problem.
+- Member's realistic worst case for the call is Marisol offering a few hundred dollars, requiring them to decline without it becoming an issue.
+- Member has not yet opened the folder [open].
+- Member has not yet contacted Marisol [open].
+- Marisol is coming to Member's apartment tomorrow, and Member has still not told her anything, with practiced wording all sounding fake.
+- Member's fear is that Marisol's worried reaction will make Member responsible for managing Marisol's feelings and steadying her through the conversation.
+- Member is torn between wanting to be the one who needs something for once and staying the one who is fine, and cannot say which they want more.
+- Member says needing Marisol scares them more than her seeing them not-fine, because accepting money would permanently make them "the cousin who took money."
+- Member left the folder on the counter on purpose, tidying around it, so Marisol will see it and ask first and Member won't have to raise it.
+- Member acknowledges that if Marisol doesn't ask, they will tell her nothing and feel relieved, and that relief bothers them.
+- Member's target for the visit is one plain sentence — that things are tight, without the number or the folder — and then to let Marisol respond, though neither timing early nor late feels right.
+- Member plans to stop dodging Marisol's usual "how have you been" question and answer honestly with "honestly? it's been tight. I'm not sleeping great," then stay quiet and let her respond without shutting down.
+- Member has a fallback line if Marisol offers money — "I don't need you to fix it — I just needed to say it" — to keep the conversation from becoming about the wallet.
+- Member said the two-sentence honest answer feels small enough to actually say and is a relief, and committed to trying to sleep before Marisol arrives [open].

@@ -1,0 +1,41 @@
+{
+  "id": "a685cca7e4814ff48b400c9ab2954214",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "片段啊……就比如财务那边，有些报销的事，明明不太合规，大家却都装没看见。我也许不该说这么细，反正就是让我越来越不想待在那儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我挑一个典型片段讲，可我心里乱得很。财务那边的事不是一句两句能说清的，而且我刚有点信任感，还不想一下子全倒出来。先提个模糊的场景吧，就说报销的事，看看他会不会急着追问细节，还是能接住我的犹豫。这样既不算完全回避，也没把自己全暴露出去。）",
+        "reasoning": "（咨询师让我挑一个典型片段讲，可我心里乱得很。财务那边的事不是一句两句能说清的，而且我刚有点信任感，还不想一下子全倒出来。先提个模糊的场景吧，就说报销的事，看看他会不会急着追问细节，还是能接住我的犹豫。这样既不算完全回避，也没把自己全暴露出去。）"
+      }
+    }
+  ],
+  "created": 1795153615,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1571,
+    "total_tokens": 1686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

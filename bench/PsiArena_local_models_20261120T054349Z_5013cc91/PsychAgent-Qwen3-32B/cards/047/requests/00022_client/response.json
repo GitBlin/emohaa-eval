@@ -1,0 +1,41 @@
+{
+  "id": "969fb925bfab49c98854cd0e9bf3c7ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "短期好像能少点麻烦，别人也不会觉得我事多……但长期我就一直憋着，晚上越想越多，第二天又更没精神。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我看到不表达的代价……这让我想起很多事。短期好像能避免冲突，但长期下来，那些没说出口的话都堵在心里，越来越沉。我确实经常这样，明明很难受还要假装没事，结果反而更累。）",
+        "reasoning": "（咨询师在引导我看到不表达的代价……这让我想起很多事。短期好像能避免冲突，但长期下来，那些没说出口的话都堵在心里，越来越沉。我确实经常这样，明明很难受还要假装没事，结果反而更累。）"
+      }
+    }
+  ],
+  "created": 1795155175,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 1929,
+    "total_tokens": 2016,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

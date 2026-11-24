@@ -1,0 +1,41 @@
+{
+  "id": "1ba7f6c6e6124d7e8d3eec9ff07c8033",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样说会不会显得我太低了，好像总是我先让步？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我可能会说……“我刚才有点急，不是想跟你吵。我想知道你现在是不是不想说话。”这样不知道会不会太软了。",
+        "reasoning": "（停顿）我可能会说……“我刚才有点急，不是想跟你吵。我想知道你现在是不是不想说话。”这样不知道会不会太软了。"
+      }
+    }
+  ],
+  "created": 1795153966,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 2742,
+    "total_tokens": 2787,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

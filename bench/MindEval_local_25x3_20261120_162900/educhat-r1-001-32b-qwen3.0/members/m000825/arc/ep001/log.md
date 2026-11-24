@@ -1,0 +1,23 @@
+- Member's marriage ended last fall and seven months on he feels he is waiting for something to start back up.
+- Member describes the loss as waiting for a normal Tuesday to return, and doubts it is coming back.
+- Member stays at the office later than needed and keeps a list of birds at the window feeder; he would rather be at work than in the chair.
+- Member insists he is not delaying anything — there is a pile of things to sort out and he wants them sorted.
+- Member has cancelled five consecutive Thursdays at Ed's standing model railroad night in Ed's garage.
+- Member has sat in the lot outside Ed's garage, once for twenty minutes, then driven home.
+- Member says the block is not explaining the cancellations or texting Ed — he has texted Ed five times and Ed says the table is clear every week — it is the twenty minutes in the lot beforehand.
+- Member has tried parking closer and breathing exercises in the car; neither moves him out of the car.
+- Member says the lot is not about nerves: he stays in the car because Ed will ask how he is doing and he is not walking in "with this".
+- Member rejects a prepared honest answer to Ed's question because Ed would want to know more and the whole night would become about him.
+- Member says five failed attempts are making him worse, not building courage, and that being told "good job for thinking about it" sounds like the counsellor has decided the actual thing won't happen.
+- Member wants to go into the garage and sit at the table, and rejects each smaller substitute (30 seconds standing in the garage, stepping out of the car, a foot on the pavement) as worse than not going.
+- Member rejects the idea of a neutral outcome — he wants to be at the table, and says something gets a little worse each time he doesn't go.
+- Member, 58, says he cannot get out of his car in a driveway he has known for fifteen years, and does not know what risk he is guarding against — he just knows he doesn't go.
+- Member ended the session saying he would stop there, with no plan agreed for Thursday.
+- Member says he does not have it in him this week.
+- Member reports Ed texted again that the table is clear and no pressure, and fears Ed is tiring of being the one who asks.
+- Member says Ed's fifteen years of keeping the table clear makes him feel he is costing Ed something.
+- Member rejects a ten-minute doorway stay as "not showing up" — he wants to sit down at the table.
+- Member rejects standing five minutes in the driveway as "the car with the door open".
+- Member rejects the counsellor's repeated shrinking of the step to car door, driveway, doorway as evidence the counsellor has already decided he will not reach the table.
+- Member's stated question was whether Ed's table is still something he can ask for.
+- Member says the part he wanted was that the table is his, not the pavement.

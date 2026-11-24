@@ -1,0 +1,41 @@
+{
+  "id": "c912842b3f924141bfcd05e7d982db8e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，喉咙有点堵。说出来反而更明显了，好像我连说“我需要”都不太习惯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（有点紧张）喉咙……有点堵。说出来反而更明显了，好像我连说“我需要”都不太习惯。",
+        "reasoning": "（有点紧张）喉咙……有点堵。说出来反而更明显了，好像我连说“我需要”都不太习惯。"
+      }
+    }
+  ],
+  "created": 1795155112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 2313,
+    "total_tokens": 2364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

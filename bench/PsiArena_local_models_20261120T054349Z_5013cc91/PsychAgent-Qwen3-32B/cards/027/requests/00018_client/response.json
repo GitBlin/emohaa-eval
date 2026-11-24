@@ -1,0 +1,41 @@
+{
+  "id": "cf4753fe488744239a943323ab090bf7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来……可能是又委屈又生气吧。但更多是那种，我是不是不该这么高兴？好像我过得好一点，就是对不起她似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那一刻的情绪……其实我有点乱，说不上来是哪一种。委屈吗？好像有。可又有种说不清的愤怒，但我不敢直接对我妈发火。而且她那样说的时候，我第一反应竟然是怀疑自己，是不是我太招摇了，是不是我不该那么高兴。这种自我怀疑比委屈更让我难受。）",
+        "reasoning": "（咨询师在问我那一刻的情绪……其实我有点乱，说不上来是哪一种。委屈吗？好像有。可又有种说不清的愤怒，但我不敢直接对我妈发火。而且她那样说的时候，我第一反应竟然是怀疑自己，是不是我太招摇了，是不是我不该那么高兴。这种自我怀疑比委屈更让我难受。）"
+      }
+    }
+  ],
+  "created": 1795154370,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1699,
+    "total_tokens": 1808,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

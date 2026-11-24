@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-58aa3afa61d84ed0852af99a58dc4d0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你不妨试着换个方式，比如写下来或者通过其他方式表达。如果他真的在意你，他会理解并尊重你的想法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者存在沟通障碍，害怕被误解，需要增强沟通技巧\n【行动策略】：提供沟通技巧指导，鼓励尝试表达\n",
+        "reasoning_content": "\n【诊断分析】：来访者存在沟通障碍，害怕被误解，需要增强沟通技巧\n【行动策略】：提供沟通技巧指导，鼓励尝试表达\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154739,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1035,
+    "total_tokens": 1101,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

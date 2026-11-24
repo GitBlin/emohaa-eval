@@ -1,0 +1,41 @@
+{
+  "id": "d227ea83bc28465ba737837790b59b97",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱了下眉，语气有点躲闪）就……工作上也烦，家里也烦，说不上哪一次。可能别人一句好心的话，我听着就像在管我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才我们说到最近总想发火，现在咨询师问我具体场景。他好像想让我说清楚一点……但我其实不太想马上讲家里那些事，感觉说了也没用。而且万一他像我爸妈那样觉得是我太敏感呢？先随便说个工作上的事应付过去吧，看看他什么反应。）\n（不过老说不知道也不太像话……稍微提一点家里的影子，但别说得太深。这样他应该不会追问太多吧？）",
+        "reasoning": "（刚才我们说到最近总想发火，现在咨询师问我具体场景。他好像想让我说清楚一点……但我其实不太想马上讲家里那些事，感觉说了也没用。而且万一他像我爸妈那样觉得是我太敏感呢？先随便说个工作上的事应付过去吧，看看他什么反应。）\n（不过老说不知道也不太像话……稍微提一点家里的影子，但别说得太深。这样他应该不会追问太多吧？）"
+      }
+    }
+  ],
+  "created": 1795147256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1214,
+    "total_tokens": 1352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

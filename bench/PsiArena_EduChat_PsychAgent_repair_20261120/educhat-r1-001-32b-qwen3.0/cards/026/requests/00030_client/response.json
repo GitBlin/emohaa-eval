@@ -1,0 +1,41 @@
+{
+  "id": "6e04027613c44370aef0ed1184d2f5f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她大概会愣一下……然后说“妈你今天怎么了”。（苦笑）我们好像很久没这么好好说过话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我猜女儿会怎么反应……这让我想起昨晚她做题时烦躁的样子。我其实很怕说“辛苦了”会让她觉得我在敷衍，或者她根本不理我。但咨询师说得对，我确实该试试看，不能总用批评的方式。）\n（作为老师我知道鼓励很重要，可轮到自己孩子就总控制不住着急。也许女儿会愣一下，毕竟我很少这么说话。她可能会觉得奇怪，但至少不会像现在这样一说话就吵架吧。）",
+        "reasoning": "（咨询师让我猜女儿会怎么反应……这让我想起昨晚她做题时烦躁的样子。我其实很怕说“辛苦了”会让她觉得我在敷衍，或者她根本不理我。但咨询师说得对，我确实该试试看，不能总用批评的方式。）\n（作为老师我知道鼓励很重要，可轮到自己孩子就总控制不住着急。也许女儿会愣一下，毕竟我很少这么说话。她可能会觉得奇怪，但至少不会像现在这样一说话就吵架吧。）"
+      }
+    }
+  ],
+  "created": 1795154433,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2049,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

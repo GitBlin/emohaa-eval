@@ -1,0 +1,41 @@
+{
+  "id": "e2b41137ea4d42539c61337917389a6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，可以。我回去试试，下次跟你说说有没有留意到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，那我们收个尾。你愿意把今天的练习带回去，下次我们从“哪一次留意到了、哪一次没留意到”开始聊吗？<第24轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "好，那我们收个尾。你愿意把今天的练习带回去，下次我们从“哪一次留意到了、哪一次没留意到”开始聊吗？<第24轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795154815,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3446,
+    "total_tokens": 3526,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

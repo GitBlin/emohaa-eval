@@ -1,0 +1,41 @@
+{
+  "id": "416e5973e3004f02b58a0e07bc73603c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，这句话挺清楚，也不指责。我们再定一个“万一”的应对：如果她追问或你心里又开始翻腾，你打算先做哪一个动作让自己稳一下？比如先走开两分钟或做两轮呼吸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，想了一下）我可能会说：“我最近状态不太好，想自己静一静，不是针对你。”这样……行吗？",
+        "reasoning": "（停顿，想了一下）我可能会说：“我最近状态不太好，想自己静一静，不是针对你。”这样……行吗？"
+      }
+    }
+  ],
+  "created": 1795154978,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3130,
+    "total_tokens": 3212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

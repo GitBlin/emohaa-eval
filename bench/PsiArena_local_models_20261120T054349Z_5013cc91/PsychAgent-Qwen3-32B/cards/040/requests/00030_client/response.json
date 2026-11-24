@@ -1,0 +1,41 @@
+{
+  "id": "89689c10c14c4ea9acf34180b015285e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里……我爸我妈都挺忙的，从小他们更关心我成绩和工作。感情那种事，基本没怎么聊过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第15轮，中期阶段。用户刚才说“没关系，乱就先停在委屈这里。你愿意的话，可以只提一句你家里的事——不用讲完整。”我需要回应，只针对一个方面。中期目标是深入理解根源，揭示文化背景和过去经历。保持简短2-3句，犹豫和情绪波动。可以稍微提家庭，但不要展开太多，因为第15轮是中期最后。应该自然一点，带点停顿，表达家里不太谈感情。）",
+        "reasoning": "（第15轮，中期阶段。用户刚才说“没关系，乱就先停在委屈这里。你愿意的话，可以只提一句你家里的事——不用讲完整。”我需要回应，只针对一个方面。中期目标是深入理解根源，揭示文化背景和过去经历。保持简短2-3句，犹豫和情绪波动。可以稍微提家庭，但不要展开太多，因为第15轮是中期最后。应该自然一点，带点停顿，表达家里不太谈感情。）"
+      }
+    }
+  ],
+  "created": 1795154959,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2286,
+    "total_tokens": 2416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

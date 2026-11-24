@@ -1,0 +1,41 @@
+{
+  "id": "927c37b36def4d17b57e5baf084cfc7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主动问候……（深吸一口气）好像也不是不行。要不我先从发条消息开始？就问一句“最近怎么样”之类的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我从主动问候这样的小尝试开始，这让我觉得好像没那么难。不过心里还是有点打鼓，万一她反应冷淡，或者我又紧张得说不出话怎么办。但咨询师说得对，光想不做永远不会有变化。）\n（也许可以先发个简单的消息，不用面对面，这样压力小一点。我得给自己定个具体点的计划，不能只是含糊地说“试试”。）",
+        "reasoning": "（咨询师建议我从主动问候这样的小尝试开始，这让我觉得好像没那么难。不过心里还是有点打鼓，万一她反应冷淡，或者我又紧张得说不出话怎么办。但咨询师说得对，光想不做永远不会有变化。）\n（也许可以先发个简单的消息，不用面对面，这样压力小一点。我得给自己定个具体点的计划，不能只是含糊地说“试试”。）"
+      }
+    }
+  ],
+  "created": 1795149220,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2232,
+    "total_tokens": 2345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

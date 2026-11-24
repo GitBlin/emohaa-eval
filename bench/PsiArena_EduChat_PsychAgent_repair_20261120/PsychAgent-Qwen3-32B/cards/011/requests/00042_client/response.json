@@ -1,0 +1,41 @@
+{
+  "id": "0699bf79138349b6bb06776911853c6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，写清楚一点我心里踏实。30秒也比没有好，对吧？那我明天孩子第一觉的时候试一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "可以。我们把它写成一张“小纸条”：1）先看一眼孩子，确认安全；2）离开1分钟，做3次慢呼吸；3）回来继续。如果孩子哭得厉害，就缩短到30秒。你觉得这样写清楚吗？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "可以。我们把它写成一张“小纸条”：1）先看一眼孩子，确认安全；2）离开1分钟，做3次慢呼吸；3）回来继续。如果孩子哭得厉害，就缩短到30秒。你觉得这样写清楚吗？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795153825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3249,
+    "total_tokens": 3360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

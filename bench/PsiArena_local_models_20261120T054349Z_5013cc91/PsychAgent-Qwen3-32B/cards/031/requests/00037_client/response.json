@@ -1,0 +1,41 @@
+{
+  "id": "83ea177b277a4812a455818e7a9c966f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喉咙吧，像被什么堵住了。以前也有过，但没跟别人讲过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我留意身体的感觉……这有点抽象，我平时不太想这些。不过她问得挺具体的，喉咙、胸口、肩膀。我回想一下，好像确实是喉咙那里，像有什么东西堵着，说不出话。以前也有过这种感觉，但从来没跟人说过。）",
+        "reasoning": "（咨询师让我留意身体的感觉……这有点抽象，我平时不太想这些。不过她问得挺具体的，喉咙、胸口、肩膀。我回想一下，好像确实是喉咙那里，像有什么东西堵着，说不出话。以前也有过这种感觉，但从来没跟人说过。）"
+      }
+    }
+  ],
+  "created": 1795154584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2578,
+    "total_tokens": 2659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

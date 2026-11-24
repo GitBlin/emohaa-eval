@@ -1,0 +1,41 @@
+{
+  "id": "7c4d5564c440450abc1173c0ea2ea51d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上吧，一睁眼就特别难受，有时候……唉，说不清楚。可能跟晚上睡得晚有关系，最近事情太多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问我最近一周哪些时段最明显，看来是想让我具体说身体感受。我其实不太想细说，但既然来了，稍微说点也无妨。）\n（毕竟现在还是初期，我还没那么信任他。说早上最难受是实话，但我不想直接提酒，那太丢人了。我得含糊一点，让他觉得只是累的。）",
+        "reasoning": "（刚才咨询师问我最近一周哪些时段最明显，看来是想让我具体说身体感受。我其实不太想细说，但既然来了，稍微说点也无妨。）\n（毕竟现在还是初期，我还没那么信任他。说早上最难受是实话，但我不想直接提酒，那太丢人了。我得含糊一点，让他觉得只是累的。）"
+      }
+    }
+  ],
+  "created": 1795148449,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1274,
+    "total_tokens": 1381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

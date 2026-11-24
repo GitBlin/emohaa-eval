@@ -1,0 +1,41 @@
+{
+  "id": "6bfe05e16bc041ccab940ea31185daa2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……列三个问题？好像可以试试。就是怕自己写着写着又乱起来。",
+        "reasoning": "嗯……列三个问题？好像可以试试。就是怕自己写着写着又乱起来。"
+      }
+    }
+  ],
+  "created": 1795157265,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 20,
+    "prompt_tokens": 3013,
+    "total_tokens": 3033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

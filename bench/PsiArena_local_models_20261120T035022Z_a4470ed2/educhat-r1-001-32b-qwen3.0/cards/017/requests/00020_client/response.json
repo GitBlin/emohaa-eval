@@ -1,0 +1,41 @@
+{
+  "id": "6ec4c77b44ae44b1a2cbf4fbc05916fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……我妈又问起我身体检查的事，虽然她没直说，但我听得出来她什么意思。挂了电话就觉得胸口闷闷的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体情境，看来是想帮我找到情绪触发点。但我其实不太想直接说家里催生的事，那太私密了……不过既然已经聊到这里，或许可以稍微透露一点，看看咨询师的反应。）\n（提起我妈问身体情况时，那种熟悉的烦躁感又上来了。他们总用这种拐弯抹角的方式暗示，让我觉得自己像个不达标的产品。但说完又有点后悔，怕显得我在抱怨家人。）",
+        "reasoning": "（咨询师在引导我回忆具体情境，看来是想帮我找到情绪触发点。但我其实不太想直接说家里催生的事，那太私密了……不过既然已经聊到这里，或许可以稍微透露一点，看看咨询师的反应。）\n（提起我妈问身体情况时，那种熟悉的烦躁感又上来了。他们总用这种拐弯抹角的方式暗示，让我觉得自己像个不达标的产品。但说完又有点后悔，怕显得我在抱怨家人。）"
+      }
+    }
+  ],
+  "created": 1795147851,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1577,
+    "total_tokens": 1707,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

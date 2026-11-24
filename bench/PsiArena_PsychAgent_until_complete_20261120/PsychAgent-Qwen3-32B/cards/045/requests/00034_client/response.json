@@ -1,0 +1,41 @@
+{
+  "id": "d9c1f8c6592e4731b3d9274109436b3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，合适的。只是我想慢一点，我怕一下子说太多，又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像注意到我最近的状态了……被这样问，心里有点松，又有点不习惯。我想说合适，但又怕答应得太快。先点点头，再补一句需要慢一点，应该不会显得太麻烦她吧。）",
+        "reasoning": "（她好像注意到我最近的状态了……被这样问，心里有点松，又有点不习惯。我想说合适，但又怕答应得太快。先点点头，再补一句需要慢一点，应该不会显得太麻烦她吧。）"
+      }
+    }
+  ],
+  "created": 1795155119,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2614,
+    "total_tokens": 2684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

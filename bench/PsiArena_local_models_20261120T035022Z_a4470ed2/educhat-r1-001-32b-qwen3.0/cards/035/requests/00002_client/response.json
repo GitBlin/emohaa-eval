@@ -1,0 +1,41 @@
+{
+  "id": "25d6e7be06a4404bab8434b037d46231",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想先问一下，你们咨询一般是怎么进行的？是随便聊聊，还是有固定的流程？我不太确定自己能不能说清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答用户。作为来访者第一轮初期：表现防御试探，询问咨询内容方法。简短2-3句，口语化，不要AI。可以带犹豫。需要只针对一个方面：询问咨询内容和方法。回复中文。避免说谢谢。可以：“嗯……我想先问一下，你们咨询一般是怎么进行的？是聊聊天，还是有固定的流程？” 加一点防御：“我不太确定自己能不能说清楚。” 但每轮只一个方面？询问内容方法，可以包含不确定。保持2-3句。不要太多。需要符合角色。最终只输出对话。",
+        "reasoning": "我们需要回答用户。作为来访者第一轮初期：表现防御试探，询问咨询内容方法。简短2-3句，口语化，不要AI。可以带犹豫。需要只针对一个方面：询问咨询内容和方法。回复中文。避免说谢谢。可以：“嗯……我想先问一下，你们咨询一般是怎么进行的？是聊聊天，还是有固定的流程？” 加一点防御：“我不太确定自己能不能说清楚。” 但每轮只一个方面？询问内容方法，可以包含不确定。保持2-3句。不要太多。需要符合角色。最终只输出对话。"
+      }
+    }
+  ],
+  "created": 1795149415,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 895,
+    "total_tokens": 1050,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

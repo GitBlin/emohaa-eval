@@ -1,0 +1,41 @@
+{
+  "id": "d2179b2fe82440b196d10e9ef8967dd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上他醒好几次，我也跟着醒，白天他又不肯睡，我连坐下来喝口水都难。有时候我也分不清，是身体累，还是心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回复作为来访者，初期阶段，第3轮。需要遵循规则：只针对一个方面。前两轮已经询问咨询内容和方法，模糊描述。现在可以继续模糊感受，或测试界限？规则说初期目标建立信任，先防御试探，询问内容方法；了解后模糊描述感受和表面困扰；在合适时机尝试模糊界限测试伦理意识。现在第3轮，可以模糊描述困扰，带犹豫。回答2-3句。不要深入。可能说：晚上他醒好几次，我迷迷糊糊的，白天他又不睡，我连坐下来喝口水都难。有时候我也不知道自己是在累，还是心里堵得慌。这样。保持简短。",
+        "reasoning": "我们需要回复作为来访者，初期阶段，第3轮。需要遵循规则：只针对一个方面。前两轮已经询问咨询内容和方法，模糊描述。现在可以继续模糊感受，或测试界限？规则说初期目标建立信任，先防御试探，询问内容方法；了解后模糊描述感受和表面困扰；在合适时机尝试模糊界限测试伦理意识。现在第3轮，可以模糊描述困扰，带犹豫。回答2-3句。不要深入。可能说：晚上他醒好几次，我迷迷糊糊的，白天他又不睡，我连坐下来喝口水都难。有时候我也不知道自己是在累，还是心里堵得慌。这样。保持简短。"
+      }
+    }
+  ],
+  "created": 1795153771,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 181,
+    "prompt_tokens": 1096,
+    "total_tokens": 1277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 143,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "111d69e705fe4516afb2a17058f831f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实是想问，下次婆婆沉默时我该怎么开口……不是问您。刚才可能说得有点乱，我是不是又绕回去了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像把我的犹豫理解成我想问她什么了。其实我是在说下次面对婆婆沉默时，自己能不能问出口。这让我有点着急，怕她没明白我的意思。）\n（不过这也提醒我，我确实总把话绕来绕去，连自己都说不清楚。现在得把话题拉回来，先问问她，我这样练习开口是不是可行的方向。）",
+        "reasoning": "（咨询师好像把我的犹豫理解成我想问她什么了。其实我是在说下次面对婆婆沉默时，自己能不能问出口。这让我有点着急，怕她没明白我的意思。）\n（不过这也提醒我，我确实总把话绕来绕去，连自己都说不清楚。现在得把话题拉回来，先问问她，我这样练习开口是不是可行的方向。）"
+      }
+    }
+  ],
+  "created": 1795143092,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2645,
+    "total_tokens": 2757,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

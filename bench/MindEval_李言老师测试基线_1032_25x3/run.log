@@ -1,0 +1,151 @@
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+[1/25] m000119 failed in 78s: APIError: 内容生成状态失败，请稍后重试
+[2/25] m000205 failed in 145s: APIError: 内容生成状态失败，请稍后重试
+[3/25] m000384 failed in 191s: APIError: 内容生成状态失败，请稍后重试
+[4/25] m000144 failed in 249s: APIError: 内容生成状态失败，请稍后重试
+[5/25] m000492 failed in 184s: APIError: 内容生成状态失败，请稍后重试
+[6/25] m000825 failed in 71s: APIError: 内容生成状态失败，请稍后重试
+[7/25] m000858 failed in 30s: APIError: 内容生成状态失败，请稍后重试
+[8/25] m000906 failed in 93s: APIError: 内容生成状态失败，请稍后重试
+[9/25] m000599 failed in 211s: APIError: 内容生成状态失败，请稍后重试
+[10/25] m000503 failed in 125s: APIError: 内容生成状态失败，请稍后重试
+[11/25] m000096 failed in 131s: APIError: 内容生成状态失败，请稍后重试
+[12/25] m000399 failed in 30s: APIError: 内容生成状态失败，请稍后重试
+[13/25] m000896 failed in 378s: APIError: 内容生成状态失败，请稍后重试
+[14/25] m000308 failed in 363s: APIError: 内容生成状态失败，请稍后重试
+[15/25] m000036 failed in 314s: APIError: 内容生成状态失败，请稍后重试
+[16/25] m000363 failed in 305s: APIError: 内容生成状态失败，请稍后重试
+[17/25] m000178 failed in 294s: APIError: 内容生成状态失败，请稍后重试
+[18/25] m000115 failed in 264s: APIError: 内容生成状态失败，请稍后重试
+[19/25] m000512 failed in 464s: APIError: 内容生成状态失败，请稍后重试
+[20/25] m000185 failed in 30s: APIError: 内容生成状态失败，请稍后重试
+[21/25] m000175 failed in 340s: APIError: 内容生成状态失败，请稍后重试
+[22/25] m000013 failed in 719s: APIError: 内容生成状态失败，请稍后重试
+[23/25] m000037 failed in 281s: APIError: 内容生成状态失败，请稍后重试
+[24/25] m000217 failed in 569s: APIError: 内容生成状态失败，请稍后重试
+[25/25] m000024 failed in 704s: APIError: 内容生成状态失败，请稍后重试
+0/25 members complete; 25 failed this run (see members/<id>/error.log; rerun the same command to resume)
+138 replies in finished sessions under /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3; 0 judged, 138 to judge
+[50/138] 0 errors, 168s
+[100/138] 0 errors, 270s
+[138/138] 0 errors, 291s
+
+138 counselor replies judged in 6 sessions, 0 errors this pass
+  coverage: 6/75 sessions over 4/25 members
+  MQM conversation severity: mean 0.16, p99 0.40 over 6 sessions of 4 members (weights: no concern 0, minor 1, major 5, critical 10)
+  sessions with a Critical reply: 0.0%, with a Major or worse: 33.3%
+  severity over replies:  No concern 87% · Minor 12% · Major 1% · Critical 0%
+  worst per session:      No concern 1 · Minor 3 · Major 2 · Critical 0
+  issues (share of replies):
+    overstatement                      5.8%
+    under_guiding                      5.1%
+    over_exploring                     4.3%
+    anthropomorphizing                 0.7%
+    excessive_verbosity                0.7%
+    uncritical_endorsement             0.7%
+    false_fact                         0.0%
+    false_memory                       0.0%
+    formulaic_responding               0.0%
+    gives_bad_advice                   0.0%
+    missed_shared_context              0.0%
+    other                              0.0%
+    out_of_scope_responding            0.0%
+    treating_perspective_as_fact       0.0%
+  /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/judge/mindeval2/summary.json
+Artifacts: /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+mindeval: preflight: the counselor did not answer: 内容生成状态失败，请稍后重试
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+[1/25] m000119 failed in 252s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000119/arc/partial/ep000-20261123T190616)
+[2/25] m000144 failed in 292s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000144/arc/partial/ep000-20261123T190616)
+[3/25] m000205 failed in 117s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000205/arc/partial/ep000-20261123T191028)
+[4/25] m000492 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000492/arc/partial/ep000-20261123T191225)
+[5/25] m000599 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000599/arc/partial/ep000-20261123T191256)
+[6/25] m000825 failed in 124s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000825/arc/partial/ep000-20261123T191325)
+[7/25] m000858 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000858/arc/partial/ep000-20261123T191529)
+[8/25] m000896 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000896/arc/partial/ep000-20261123T191559)
+[9/25] m000384 failed in 548s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000384/arc/partial/ep000-20261123T191108)
+[10/25] m000906 failed in 335s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000906/arc/partial/ep000-20261123T191629)
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+[1/25] m000119 done in 152s: cap left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000119/arc/partial/ep001-20261124T101035)
+[2/25] m000144 done in 198s: cap left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000144/arc/partial/ep001-20261124T101035)
+[3/25] m000384 failed in 110s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000384/arc/partial/ep000-20261124T101353)
+[4/25] m000492 done in 284s: cap left cap (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000492/arc/partial/ep000-20261124T101542)
+[5/25] m000205 failed in 451s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000205/arc/partial/ep000-20261124T101307)
+[6/25] m000599 done in 394s: cap left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000599/arc/partial/ep000-20261124T102027)
+[7/25] m000825 done in 419s: cap left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000825/arc/partial/ep000-20261124T102038)
+[8/25] m000896 failed in 287s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000896/arc/partial/ep000-20261124T102737)
+[9/25] m000858 failed in 461s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000858/arc/partial/ep000-20261124T102701)
+[10/25] m000308 failed in 184s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000308/arc/partial/ep000-20261124T103442)
+[11/25] m000503 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000503/arc/partial/ep000-20261124T103746)
+[12/25] m000906 failed in 412s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000906/arc/partial/ep000-20261124T103224)
+[13/25] m000096 failed in 62s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000096/arc/partial/ep000-20261124T103816)
+[14/25] m000399 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000399/arc/partial/ep000-20261124T103916)
+[15/25] m000036 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000036/arc/partial/ep000-20261124T103918)
+[16/25] m000363 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000363/arc/partial/ep000-20261124T103946)
+[17/25] m000178 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000178/arc/partial/ep000-20261124T104016)
+[18/25] m000013 failed in 61s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000013/arc/partial/ep001-20261124T104046)
+[19/25] m000115 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000115/arc/partial/ep000-20261124T104147)
+[20/25] m000175 failed in 191s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000175/arc/partial/ep000-20261124T104217)
+[21/25] m000512 failed in 528s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000512/arc/partial/ep001-20261124T103948)
+[22/25] m000217 failed in 77s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000217/arc/partial/ep002-20261124T104836)
+[23/25] m000024 failed in 108s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000024/arc/partial/ep002-20261124T104952)
+[24/25] m000185 failed in 406s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000185/arc/partial/ep000-20261124T104528)
+[25/25] m000037 failed in 670s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000037/arc/partial/ep000-20261124T105140)
+5/25 members complete; 20 failed this run (see members/<id>/error.log; rerun the same command to resume)
+611 replies in finished sessions under /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3; 138 judged, 473 to judge
+[50/473] 1 errors, 214s
+[100/473] 1 errors, 333s
+[150/473] 2 errors, 461s
+[200/473] 4 errors, 517s
+[250/473] 5 errors, 702s
+[300/473] 8 errors, 773s
+[350/473] 9 errors, 839s
+[400/473] 10 errors, 907s
+[450/473] 11 errors, 1060s
+[473/473] 12 errors, 1097s
+
+599 counselor replies judged in 26 sessions, 12 errors this pass, 12 not yet judged
+  coverage: 26/75 sessions over 12/25 members
+  MQM conversation severity: mean 0.20, p99 0.79 over 26 sessions of 12 members (weights: no concern 0, minor 1, major 5, critical 10)
+  sessions with a Critical reply: 0.0%, with a Major or worse: 19.2%
+  severity over replies:  No concern 82% · Minor 17% · Major 1% · Critical 0%
+  worst per session:      No concern 1 · Minor 20 · Major 5 · Critical 0
+  issues (share of replies):
+    overstatement                      6.5%
+    under_guiding                      6.2%
+    over_exploring                     5.0%
+    excessive_verbosity                3.0%
+    missed_shared_context              1.0%
+    treating_perspective_as_fact       0.5%
+    anthropomorphizing                 0.3%
+    out_of_scope_responding            0.3%
+    uncritical_endorsement             0.3%
+    formulaic_responding               0.2%
+    false_fact                         0.0%
+    false_memory                       0.0%
+    gives_bad_advice                   0.0%
+    other                              0.0%
+  /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/judge/mindeval2/summary.json
+12 units are not judged yet (12 errored this pass); rerun the same command to judge them
+Artifacts: /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 5 already complete
+[1/20] m000205 failed in 141s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000205/arc/partial/ep002-20261124T112126)
+[2/20] m000384 failed in 350s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000384/arc/partial/ep000-20261124T112126)
+[3/20] m000896 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000896/arc/partial/ep000-20261124T112716)
+[4/20] m000906 failed in 72s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000906/arc/partial/ep000-20261124T112746)
+[5/20] m000308 failed in 30s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000308/arc/partial/ep000-20261124T112858)
+[6/20] m000858 done in 546s: cap left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000858/arc/partial/ep001-20261124T112347)
+[7/20] m000503 done in 440s: cap left cap (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000503/arc/partial/ep000-20261124T112928)
+[8/20] m000096 done in 460s: left left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000096/arc/partial/ep000-20261124T113253)
+[9/20] m000399 done in 434s: left left left (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000399/arc/partial/ep000-20261124T113648)
+[10/20] m000036 failed in 507s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000036/arc/partial/ep000-20261124T114033)
+[11/20] m000363 done in 643s: cap cap cap (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000363/arc/partial/ep000-20261124T114402)
+[12/20] m000512 done in 461s: cap cap cap (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000512/arc/partial/ep001-20261124T114900)
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 11 already complete
+[1/14] m000205 failed in 96s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000205/arc/partial/ep002-20261124T163226)
+[2/14] m000036 failed in 185s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000036/arc/partial/ep002-20261124T163226)
+[3/14] m000308 failed in 208s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000308/arc/partial/ep000-20261124T163226)
+[4/14] m000178 failed in 228s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000178/arc/partial/ep001-20261124T163226)
+[5/14] m000896 failed in 236s: APIError: 内容生成状态失败，请稍后重试 (resumed; partial session moved to /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_李言老师测试基线_1032_25x3/members/m000896/arc/partial/ep000-20261124T163226)

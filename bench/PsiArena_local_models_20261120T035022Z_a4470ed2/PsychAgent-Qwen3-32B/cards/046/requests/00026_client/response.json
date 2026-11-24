@@ -1,0 +1,41 @@
+{
+  "id": "e289da586f14409e930aba9d34a0b5e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打分……大概八分吧，挺高的。变弱的时候，好像是我一个人待着，不碰工作的时候，会稍微轻一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这个“警告”的强度，还问什么时候会变弱。这种打分的说法让我有点别扭，但也能试着想一想。它平时确实压得很紧，大概八分吧。至于弱的时候……好像一个人待着、不跟工作有关的时候会松一点，但也说不太准。）",
+        "reasoning": "（咨询师在问我这个“警告”的强度，还问什么时候会变弱。这种打分的说法让我有点别扭，但也能试着想一想。它平时确实压得很紧，大概八分吧。至于弱的时候……好像一个人待着、不跟工作有关的时候会松一点，但也说不太准。）"
+      }
+    }
+  ],
+  "created": 1795148762,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2235,
+    "total_tokens": 2334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

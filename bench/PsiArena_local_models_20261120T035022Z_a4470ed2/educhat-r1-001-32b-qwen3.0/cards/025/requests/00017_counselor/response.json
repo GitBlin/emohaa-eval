@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-bec75cf695cd4c83a15a7346c9f93036",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪失控时我们可以先深呼吸几次，再采取行动。你有没有试过在情绪激动时先离开现场，让自己冷静下来？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到具体情境中的情绪失控，需针对性处理。\n【行动策略】：建议情绪调节技巧，提供即时应对方案。\n",
+        "reasoning_content": "\n【诊断分析】：识别到具体情境中的情绪失控，需针对性处理。\n【行动策略】：建议情绪调节技巧，提供即时应对方案。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148629,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 1077,
+    "total_tokens": 1142,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

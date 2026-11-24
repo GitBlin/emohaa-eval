@@ -1,0 +1,41 @@
+{
+  "id": "79fc264ebfd74df19b45aa8dd6aa2243",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喝咖啡那个听着还行，没那么正式。不过我一紧张可能就只会聊工作了，会不会又显得我很死板？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她给了我具体的开场方式，听起来没有那么难。但我还是担心自己会说得太生硬，反而显得刻意。也许先聊工作是最自然的，毕竟这是我们共同的话题。）\n（不过我得提醒自己，不能又回到那种“必须表现好”的状态。哪怕只是简单问一句，也算是迈出一步了。这样想的话，心里稍微踏实一点。）",
+        "reasoning": "（她给了我具体的开场方式，听起来没有那么难。但我还是担心自己会说得太生硬，反而显得刻意。也许先聊工作是最自然的，毕竟这是我们共同的话题。）\n（不过我得提醒自己，不能又回到那种“必须表现好”的状态。哪怕只是简单问一句，也算是迈出一步了。这样想的话，心里稍微踏实一点。）"
+      }
+    }
+  ],
+  "created": 1795146805,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2699,
+    "total_tokens": 2801,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

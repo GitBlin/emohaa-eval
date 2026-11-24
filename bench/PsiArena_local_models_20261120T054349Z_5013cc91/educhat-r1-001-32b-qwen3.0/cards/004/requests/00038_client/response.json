@@ -1,0 +1,41 @@
+{
+  "id": "ffd2a2fa0cb546a5ad31c5f0eb0c8c50",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "班主任……我有点怕他，他平时挺凶的。不过，匿名举报箱的话，我自己偷偷去放张纸条，应该可以吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先找班主任沟通，但上次跟老师说了之后反而被欺负得更厉害，这让我很害怕。班主任会不会觉得我小题大做？而且万一消息传出去，他们肯定不会放过我。）\n（可是如果继续这样下去，我实在撑不住了。也许可以试试匿名的方式，这样至少能保护自己。但具体该怎么做呢？我完全没头绪，得问问清楚才行。）",
+        "reasoning": "（咨询师建议我先找班主任沟通，但上次跟老师说了之后反而被欺负得更厉害，这让我很害怕。班主任会不会觉得我小题大做？而且万一消息传出去，他们肯定不会放过我。）\n（可是如果继续这样下去，我实在撑不住了。也许可以试试匿名的方式，这样至少能保护自己。但具体该怎么做呢？我完全没头绪，得问问清楚才行。）"
+      }
+    }
+  ],
+  "created": 1795153631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2502,
+    "total_tokens": 2621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

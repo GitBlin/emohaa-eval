@@ -1,0 +1,41 @@
+{
+  "id": "119e226ec7a04c61ab1adf35f2ca3e01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "灰色吧，说不上好坏，就是有点闷。不过……选颜色这个，真的有用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我选什么颜色代表现在的心情……这让我有点意外，我本来以为会继续聊我妈的事。不过选颜色好像比直接说感受容易些。灰色确实挺贴切的，不是完全的黑，也不是白，就是那种卡在中间、说不清楚的感觉。）\n（其实我有点想问她，选颜色有什么用呢？但又觉得她这么问可能有她的道理。先说说看吧，反正只是颜色而已，应该不会太沉重。）",
+        "reasoning": "（咨询师问我选什么颜色代表现在的心情……这让我有点意外，我本来以为会继续聊我妈的事。不过选颜色好像比直接说感受容易些。灰色确实挺贴切的，不是完全的黑，也不是白，就是那种卡在中间、说不清楚的感觉。）\n（其实我有点想问她，选颜色有什么用呢？但又觉得她这么问可能有她的道理。先说说看吧，反正只是颜色而已，应该不会太沉重。）"
+      }
+    }
+  ],
+  "created": 1795143109,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2441,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

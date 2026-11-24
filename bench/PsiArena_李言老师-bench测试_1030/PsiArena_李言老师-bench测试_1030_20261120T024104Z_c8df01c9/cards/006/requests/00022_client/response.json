@@ -1,0 +1,41 @@
+{
+  "id": "ec25ba3315ab409e977668435583dc59",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先跟我妻子说吧，她多少能感觉到我状态不对。但我又怕她跟着焦虑，家里气氛更紧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先对谁说这句“最近很累”，这让我有点犹豫。我确实想过跟妻子说，但又怕她担心，反而把家里的气氛弄得更紧张。父母那边更不敢提，他们只会觉得我不知足。也许先跟妻子试探性地提一句，看她怎么接，比直接说出来更稳妥一些。）\n（不过，我是不是又在拖延了？每次都想着先看看反应，结果话到嘴边又咽回去。但至少这次我有个具体的打算，不算完全逃避吧。先这样试试，总比一直憋着强。）",
+        "reasoning": "（咨询师问我想先对谁说这句“最近很累”，这让我有点犹豫。我确实想过跟妻子说，但又怕她担心，反而把家里的气氛弄得更紧张。父母那边更不敢提，他们只会觉得我不知足。也许先跟妻子试探性地提一句，看她怎么接，比直接说出来更稳妥一些。）\n（不过，我是不是又在拖延了？每次都想着先看看反应，结果话到嘴边又咽回去。但至少这次我有个具体的打算，不算完全逃避吧。先这样试试，总比一直憋着强。）"
+      }
+    }
+  ],
+  "created": 1795142656,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 3086,
+    "total_tokens": 3232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

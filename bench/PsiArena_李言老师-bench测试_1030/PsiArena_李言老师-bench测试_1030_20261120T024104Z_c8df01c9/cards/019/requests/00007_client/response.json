@@ -1,0 +1,41 @@
+{
+  "id": "0764baca71074b1581e27c1da7c5dea0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是准备出门前，照镜子的时候吧……会突然觉得自己怎么弄都不对，像要去面试一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最堵的是哪一刻，这让我想到上次相亲前那种被审视的感觉。虽然我还没完全信任她，但她好像确实在认真听，没有急着下判断。也许我可以稍微具体一点，但不用一下子说太多。）\n（我有点怕说多了显得自己太脆弱，可那种准备出门前照镜子时的自我怀疑真的很折磨人。先提一下“像面试”这个感觉吧，看看她怎么接。）",
+        "reasoning": "（咨询师问我最堵的是哪一刻，这让我想到上次相亲前那种被审视的感觉。虽然我还没完全信任她，但她好像确实在认真听，没有急着下判断。也许我可以稍微具体一点，但不用一下子说太多。）\n（我有点怕说多了显得自己太脆弱，可那种准备出门前照镜子时的自我怀疑真的很折磨人。先提一下“像面试”这个感觉吧，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1795142911,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1498,
+    "total_tokens": 1616,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

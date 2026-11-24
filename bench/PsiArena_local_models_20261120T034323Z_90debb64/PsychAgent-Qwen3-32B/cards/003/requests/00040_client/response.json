@@ -1,0 +1,41 @@
+{
+  "id": "c4e3cc9b9660497abdc43da8ff090f9c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说……“够了就好”？听起来有点傻，但比“必须聊热络”轻松多了。我可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把计划做得更细，还让我给自己准备一句话。我有点不习惯对自己说这种话，感觉怪怪的。但“够了就好”确实比“必须聊得热络”轻松很多。也许我可以试试，不用太用力。）",
+        "reasoning": "（咨询师在帮我把计划做得更细，还让我给自己准备一句话。我有点不习惯对自己说这种话，感觉怪怪的。但“够了就好”确实比“必须聊得热络”轻松很多。也许我可以试试，不用太用力。）"
+      }
+    }
+  ],
+  "created": 1795146313,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2891,
+    "total_tokens": 2973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

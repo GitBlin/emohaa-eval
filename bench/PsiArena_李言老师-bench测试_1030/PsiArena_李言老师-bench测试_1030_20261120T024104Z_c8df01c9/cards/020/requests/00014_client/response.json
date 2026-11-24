@@ -1,0 +1,41 @@
+{
+  "id": "5a2f152246444d75914484b9232e8fc4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……有时候会一遍遍回放她说的话，有时候又担心回去以后怎么办。我好像总在等别人先变。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是夜里想得最多的是过去还是接下来。其实两者都有，但那种反复回放的画面更折磨人。我可能得说清楚，不是单纯回忆，而是那些话像卡住了一样，一直重播。）\n（而且我最近也意识到，我好像一直在等别人先改变，自己却不敢动。这种发现让我更沮丧，但也许该说出来。）",
+        "reasoning": "（咨询师问的是夜里想得最多的是过去还是接下来。其实两者都有，但那种反复回放的画面更折磨人。我可能得说清楚，不是单纯回忆，而是那些话像卡住了一样，一直重播。）\n（而且我最近也意识到，我好像一直在等别人先改变，自己却不敢动。这种发现让我更沮丧，但也许该说出来。）"
+      }
+    }
+  ],
+  "created": 1795142946,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2303,
+    "total_tokens": 2414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

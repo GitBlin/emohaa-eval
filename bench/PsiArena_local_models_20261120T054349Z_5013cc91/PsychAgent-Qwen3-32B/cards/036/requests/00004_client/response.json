@@ -1,0 +1,41 @@
+{
+  "id": "be57cab27a3b4e28918bd55622d846dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那就是聊天那种吗？我其实有点怕说错话。还有，我说的事情，你会不会告诉别人啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，但好像没直接回答我关于“奇怪的话”的担心。我其实还是有点不确定，不知道该说到什么程度。先问问会不会被说出去吧，这个比较重要。不过一下子问太多会不会不太好……算了，还是试探一下。）",
+        "reasoning": "（咨询师解释了流程，但好像没直接回答我关于“奇怪的话”的担心。我其实还是有点不确定，不知道该说到什么程度。先问问会不会被说出去吧，这个比较重要。不过一下子问太多会不会不太好……算了，还是试探一下。）"
+      }
+    }
+  ],
+  "created": 1795154744,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 979,
+    "total_tokens": 1063,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

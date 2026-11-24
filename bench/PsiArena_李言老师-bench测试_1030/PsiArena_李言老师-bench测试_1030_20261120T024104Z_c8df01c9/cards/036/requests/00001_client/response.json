@@ -1,0 +1,41 @@
+{
+  "id": "314cf849cf4540f193648c359e25c07b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯...你好。那个，我想先问一下，就是咨询的话，是不是我说的话你都会保密啊？我有点不太确定这个是怎么弄的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师看起来挺温和的...但我还是有点紧张。第一次见面就说这么多真的没问题吗？她会不会觉得我小题大做...不过既然都来了，先问问她怎么工作总可以吧。至少得知道她会不会把我说的都告诉别人，特别是...要是被班上同学知道我来心理咨询就糟了。）\n（她刚才说“今天”...是只做一次的意思吗？还是说以后还要继续？有点搞不清楚。不过现在问这个好像太急了，先看看她怎么回答关于保密的问题再说。这种问题应该不算冒犯吧...毕竟谁都会担心的。）",
+        "reasoning": "（心理咨询师看起来挺温和的...但我还是有点紧张。第一次见面就说这么多真的没问题吗？她会不会觉得我小题大做...不过既然都来了，先问问她怎么工作总可以吧。至少得知道她会不会把我说的都告诉别人，特别是...要是被班上同学知道我来心理咨询就糟了。）\n（她刚才说“今天”...是只做一次的意思吗？还是说以后还要继续？有点搞不清楚。不过现在问这个好像太急了，先看看她怎么回答关于保密的问题再说。这种问题应该不算冒犯吧...毕竟谁都会担心的。）"
+      }
+    }
+  ],
+  "created": 1795143229,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 872,
+    "total_tokens": 1029,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "de8ca67748a640c1b1f1bc54e9c4df55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……就比如在食堂，看到别人聊得很开心的时候。我也说不太清楚，反正就是会突然觉得，自己好像不太属于那种场合。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问最近一周有没有哪个时刻心里特别堵。其实我脑子里马上想到那天在食堂看到她和别人说笑的样子，但我不太想这么快说这么细，感觉有点暴露自己。先含糊一点吧，就说看到别人很自然相处的时候会这样，别把具体的人扯出来。）\n（这样既回应了问题，又不会一下子把自己摊开。说“不知道怎么说清楚”也符合我现在的状态，确实有点乱。）",
+        "reasoning": "（咨询师问最近一周有没有哪个时刻心里特别堵。其实我脑子里马上想到那天在食堂看到她和别人说笑的样子，但我不太想这么快说这么细，感觉有点暴露自己。先含糊一点吧，就说看到别人很自然相处的时候会这样，别把具体的人扯出来。）\n（这样既回应了问题，又不会一下子把自己摊开。说“不知道怎么说清楚”也符合我现在的状态，确实有点乱。）"
+      }
+    }
+  ],
+  "created": 1795147630,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1111,
+    "total_tokens": 1240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

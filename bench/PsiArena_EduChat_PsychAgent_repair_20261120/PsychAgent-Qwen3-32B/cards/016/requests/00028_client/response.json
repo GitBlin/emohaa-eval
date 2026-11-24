@@ -1,0 +1,41 @@
+{
+  "id": "e7135f97cce842a2b180492702c9a9c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……七分吧。有时候晚上更重，能到八九分。这种紧不是一天两天了，好像以前家里出事的时候就有过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户在第14轮需要回应强度评分，保持简短。需要符合中期阶段，深入理解根源。可以给一个分数，并稍微联系过去的经历。保持2-3句。不能太逻辑化。可以表达犹豫。",
+        "reasoning": "用户在第14轮需要回应强度评分，保持简短。需要符合中期阶段，深入理解根源。可以给一个分数，并稍微联系过去的经历。保持2-3句。不能太逻辑化。可以表达犹豫。"
+      }
+    }
+  ],
+  "created": 1795153986,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2401,
+    "total_tokens": 2481,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

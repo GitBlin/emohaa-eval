@@ -1,0 +1,41 @@
+{
+  "id": "5ba990c4b73048b68a4450b5a998557f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪冲浪……（皱了皱眉）听起来有点难。我连游泳都不太会。具体要怎么做？会不会很复杂？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到情绪冲浪，这个比喻让我觉得有点新奇，但又不完全明白。我担心的是情绪失控，尤其是在别人面前，这和我从小被教育要克制感情有关。他说的“不被卷走”听起来像是一种控制，可我真的能做到吗？也许可以问问具体怎么做，但又怕太复杂自己学不会。）\n（我其实有点矛盾，既想找到方法，又怕方法太难反而增加压力。家里那种理性的氛围让我习惯先评估可行性。如果只是简单的步骤，或许可以试试，但得先确认自己不会搞砸。）",
+        "reasoning": "（咨询师提到情绪冲浪，这个比喻让我觉得有点新奇，但又不完全明白。我担心的是情绪失控，尤其是在别人面前，这和我从小被教育要克制感情有关。他说的“不被卷走”听起来像是一种控制，可我真的能做到吗？也许可以问问具体怎么做，但又怕太复杂自己学不会。）\n（我其实有点矛盾，既想找到方法，又怕方法太难反而增加压力。家里那种理性的氛围让我习惯先评估可行性。如果只是简单的步骤，或许可以试试，但得先确认自己不会搞砸。）"
+      }
+    }
+  ],
+  "created": 1795155379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2609,
+    "total_tokens": 2756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

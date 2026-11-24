@@ -1,0 +1,41 @@
+{
+  "id": "d0acf399924f42a1bacf3094af43fd3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "设提醒我有点犹豫……感觉像在承认自己连这个都控制不好。不过可能确实有用，我先设一个试试吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者听到咨询师建议设提醒，稍微有点犹豫，觉得被提醒会显得自己很笨，但又明白自己确实容易慌。他不想直接拒绝，想表达这个矛盾，同时保持对话的节奏。）",
+        "reasoning": "（来访者听到咨询师建议设提醒，稍微有点犹豫，觉得被提醒会显得自己很笨，但又明白自己确实容易慌。他不想直接拒绝，想表达这个矛盾，同时保持对话的节奏。）"
+      }
+    }
+  ],
+  "created": 1795148089,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3368,
+    "total_tokens": 3444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

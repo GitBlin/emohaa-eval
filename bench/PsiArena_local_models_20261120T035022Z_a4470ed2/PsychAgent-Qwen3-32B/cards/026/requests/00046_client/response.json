@@ -1,0 +1,41 @@
+{
+  "id": "af034a1d92ff4562a2ad8e97be4ee77e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，感觉心里稍微有点底了。那我们下次是不是就说说这10分钟里发生了什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这个提醒对我有用，我就照着这个来。那这周我就记着两件事：先停3秒，还有把比较的话换成问她思路。感觉心里稍微有点底了。",
+        "reasoning": "嗯，这个提醒对我有用，我就照着这个来。那这周我就记着两件事：先停3秒，还有把比较的话换成问她思路。感觉心里稍微有点底了。"
+      }
+    }
+  ],
+  "created": 1795147433,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3356,
+    "total_tokens": 3419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

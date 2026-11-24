@@ -1,0 +1,41 @@
+{
+  "id": "100a281a47e64d7e94c465a31d657142",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概七八分吧，是“紧”的，像有人攥着我。说出来好像反而没那么吓人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我量化这种心虚的感觉，还问质感。我大概估摸一下，七八分吧，那种感觉确实是紧的，像被什么攥着。不过这么一说出来，好像它没那么模糊了，能抓得住。）",
+        "reasoning": "（咨询师在帮我量化这种心虚的感觉，还问质感。我大概估摸一下，七八分吧，那种感觉确实是紧的，像被什么攥着。不过这么一说出来，好像它没那么模糊了，能抓得住。）"
+      }
+    }
+  ],
+  "created": 1795147530,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2489,
+    "total_tokens": 2565,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

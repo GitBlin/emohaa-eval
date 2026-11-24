@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e917ee88bbdc4396a423caab289758b2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你放心，我会引导你。那你有什么具体的问题想要咨询吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者表现出对咨询流程的不熟悉和不安\n【行动策略】：通过提问了解具体问题，给予安心\n",
+        "reasoning_content": "\n【诊断分析】：来访者表现出对咨询流程的不熟悉和不安\n【行动策略】：通过提问了解具体问题，给予安心\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155179,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 289,
+    "total_tokens": 339,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

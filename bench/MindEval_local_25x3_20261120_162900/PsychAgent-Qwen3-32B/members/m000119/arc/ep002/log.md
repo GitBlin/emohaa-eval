@@ -1,0 +1,30 @@
+- Member has cooked the family's Sunday dinner for thirty years and no one else in the family has cooked one, so Renee's card saying she misses "the table" lands as missing what Member does, not Member herself.
+- Member received a handwritten card from Renee this week apologizing and saying she misses the table; Member left it on the counter two days before opening it and keeps coming back to the word "table."
+- Member's sleep is disrupted, waking at 3–4 a.m. most nights, with the sister situation as the stated cause; appetite is fine and Member still cooks, now eating alone.
+- Member rejected the wind-down routine (dimmed lights, no screens, warm drink) and chamomile/deep-breaths/journaling suggestions, saying lying there thinking about her sister is what keeps her up, not screens.
+- Member's dominant feeling about the card is anger, with hurt and sadness mixed in; Member believes someone told Renee to write it because Renee is not the type to write a letter on her own.
+- Member is hurt that no one at the birthday dinner spoke up to say the suggestion was wrong.
+- Member has not discussed the dinner with anyone in the family and will not call them about it; the only regular contact is a niece who texts a picture from the choir stand each Sunday.
+- Member's stated fear about contacting Renee is that one wrong word will put her right back at the dinner table.
+- Member sent Renee the one neutral text asking whether the hosting suggestion was meant to help Member or give her space.
+- Member planned to send the text tonight or tomorrow morning once the house was quiet.
+- Member declined further steps beyond the single text — no planned follow-up message, no grounding routine like standing in the doorway or drinking water — as more than she has in her.
+- Member will not chase Renee for a reply or send a reminder text days later, saying that is not how things work between them.
+- Member sent the text last night; Renee read it at 9:30 p.m. and has not replied, leaving Member with the phone face-up on the table and doubting she should have sent it.
+- Member's dominant feeling about the no-reply is anger — Renee saw it, had all night to say one thing, and couldn't be bothered — and Member reads the read-and-no-reply as confirmation of her worst thought rather than as "nothing."
+- Member wanted a reply to hear it wasn't what she thought it was; what she most wants Renee to say is that she wasn't trying to handle Member and didn't speak at the table because she thinks Member can't manage.
+- Member refused to text niece Camille for support or to ask whether others noticed anything differently at the dinner, saying Camille is her niece and shouldn't be in the middle of her mother and Member.
+- Member rejected a self-set deadline for a reply, saying it does nothing because Renee still read the text.
+- Member reports the card is still on her table face down and that she already read it; it says Renee misses the table and contains nothing about that night.
+- Member rejected sending a follow-up line ("If there's no reply, that's fine — I'll consider it closed"), calling it the same chasing with a bow on it.
+- Member's decision is to send nothing further to Renee and go on with her morning, framing the one sent text as enough from her and the reply as Renee's to give or withhold.
+- Member's car is failing and Member does not know who to ask for help with it.
+- Member's mechanic retired in the spring; Member refuses to call Renee's recommended mechanic because it would mean calling Renee.
+- Member's neighbor jumped the car Saturday and told Member the battery is going — the most Member has talked to anyone since church.
+- Member agreed to call the shop recommended by the neighbor, using the number at the bottom of the church bulletin, which Member had written calculations on.
+- Member rejected counsellor help drafting questions for the shop call, saying asking what a battery costs is not the part she is stuck on.
+- Member keeps moving Renee's card around the kitchen rather than putting it anywhere, and it now sits by the salt shaker.
+- Member rejected a 30-second break and water during the session, saying she is sitting in her kitchen, not running a marathon.
+- Member said the card landing as wanting "the greens and the good china" and not the one who has stood at the stove since she was eleven is exactly right.
+- Member rejected the counsellor's offer to craft a one-line boundary rule for future contact with Renee, saying everything is a rule or a line or a list and she is leaving with homework she didn't ask for.
+- Member says every option ends at the same place — call Renee or sit with a car that won't start — and that she will figure it out herself.

@@ -1,0 +1,41 @@
+{
+  "id": "a55f8c832cce4fe1a0875688c15fdc0b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听你这么说，我稍微放松一点……不过我还是想问，咨询里我说的事情，是不是都会保密？我有点怕自己说多了，之后会后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以按自己的节奏来，不用一次讲很多……这让我稍微松了口气。但第一次见面，我还是不太敢直接说太多，毕竟不知道对方会怎么看待我的事。也许先问清楚保密方面的问题比较安全，这样我才能判断能不能信任她。）\n（而且我确实需要一个能放心说话的地方，但又怕说多了会被评判。所以我想先试探一下，看看她会不会给我一个明确的保证，这样我才能决定接下来要不要讲得更深一点。）",
+        "reasoning": "（咨询师说可以按自己的节奏来，不用一次讲很多……这让我稍微松了口气。但第一次见面，我还是不太敢直接说太多，毕竟不知道对方会怎么看待我的事。也许先问清楚保密方面的问题比较安全，这样我才能判断能不能信任她。）\n（而且我确实需要一个能放心说话的地方，但又怕说多了会被评判。所以我想先试探一下，看看她会不会给我一个明确的保证，这样我才能决定接下来要不要讲得更深一点。）"
+      }
+    }
+  ],
+  "created": 1795143308,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1025,
+    "total_tokens": 1160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

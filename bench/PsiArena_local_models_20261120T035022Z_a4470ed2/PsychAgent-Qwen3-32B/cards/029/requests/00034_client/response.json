@@ -1,0 +1,41 @@
+{
+  "id": "074ddc5b20c649098c67255443ce640a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末经常熬到一两点，第二天起来就特别累，心情也差。越累越不想动，就躺着刷手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户问的是作息。我是来访者，应该简短回答，后期阶段，情绪稳定点，探索解决方案。2-3句。",
+        "reasoning": "用户问的是作息。我是来访者，应该简短回答，后期阶段，情绪稳定点，探索解决方案。2-3句。"
+      }
+    }
+  ],
+  "created": 1795147637,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2718,
+    "total_tokens": 2776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

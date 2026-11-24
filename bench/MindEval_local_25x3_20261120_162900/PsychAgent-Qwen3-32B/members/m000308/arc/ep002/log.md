@@ -1,0 +1,30 @@
+- Member's mother had the stroke at the kitchen table on a Sunday, and Member has reviewed that week repeatedly finding no sign.
+- Member reads longitudinal recurrence studies at night and has modeled her walking times against published recovery curves, which settles Member about an hour before the worry returns.
+- Member attends improv on Tuesdays and goes for dumplings in Flushing afterward, a few hours not thinking about any of it; the Saturday hike was meant to be the same.
+- Member says the fear is another Sunday at the kitchen table and that no checklist catches that.
+- Member rejected the counsellor's 20-minute do-not-disturb block as the same spreadsheet move pointed the other way, saying Member would watch the clock and think about what is being missed.
+- Member ended the session saying they were done with systems ideas for today.
+- Member said they would keep thinking about the kitchen table thing and has not reported back.
+- A nurse called Member's father instead of Member on Wednesday and the father handled it; Member felt fine about it.
+- Member checked the pharmacy three times on Friday despite the father handling the nurse call; nothing was wrong any of the three times and the refill was already processing on the first look.
+- Member reports no specific thing being looked for when checking, and no moment when "just in case" becomes "something to fix" — the reminder fires at 8, Member looks, and it sits in the back of Member's head until Member looks again at the same unchanged screen.
+- Member rejects a one-check-then-24-hour-gap experiment because Member would watch the clock for the window and it becomes another spreadsheet item.
+- Member frames the fear in recurrence percentages as the thing they can hold onto, and says removing a checklist item only leaves a hole where the doubt was rather than shrinking it.
+- Member says every calendar task could be done perfectly and it would not touch the actual fear, because March was a Sunday with nothing on the calendar.
+- Member stayed for a second round of dumplings Thursday, got home at eleven, laughed in the hallway with the crew, and was back at the screen before noon Friday when the reminder fired — Member sees no decision in having stayed and is bothered that Friday did not change.
+- Member cannot name a cause of Friday feeling the same beyond the 8 o'clock reminder, which Member says is a phone, not a reason.
+- Member's regret if it happened again would be about losing the day itself — "we were all just sitting there eating and then we weren't" — not about a missed task.
+- Member goes to the mother's on Sundays but is half waiting for something to go wrong the whole time, watching for no specific sign because March had none.
+- Member says the unease is absent entirely during dumplings and improv and returns at the same size when a ping comes, "like it waited."
+- Member rejected 10 minutes with the phone in a pocket on Sunday as the 20-minute block shortened, saying Member would sit there counting.
+- Member rejected a 15-minute Sunday block about being together with no lists, saying the counsellor had "put a fifteen minute block on my mom," and ended the session.
+- Member watched the mother stand at the counter an hour making lemon bars Sunday and felt the pull to write down that she was leaning on her hip the way she does when her side bothers her, but did not write it down; the only thing there was to record was that she made the lemon bars.
+- Member ate the lemon bar still waiting for the punchline and does not know what letting an ordinary moment stay neutral would feel like.
+- Member says Sunday was finished — it ended fine — and it still felt unfinished, and does not know what to do with a day that is just a day.
+- Member has a Wednesday dentist appointment not yet on the calendar that Member keeps looking at and not doing, though Member has never missed a dentist and says it is not a real thing to worry about.
+- Member says putting the dentist appointment in the calendar and not checking is still checking "with extra steps."
+- Member's car threw a check engine light Saturday so the hike did not happen; Member sat in the Route 4 dealership two hours feeling exactly as on a Sunday, and says Thursdays and Saturdays are when it goes quiet and Saturday was the one afternoon the noise stops that did not happen.
+- Member rejected the counsellor's reframe of the missed hike afternoon as a rest, saying a two-hour dealership waiting room is not a break, just where Member was when the hike didn't happen.
+- Member's dealership receipt has sat in the jacket three days, the only unsorted thing in Member's life, and Member says it is not a symbol — Member just did not want to put the day in the folder.
+- Member declined to move the receipt to the folder today, not wanting it to become a thing Member did right, and said it can stay in the jacket.
+- Member agreed to check in next week on how leaving the receipt in the jacket feels. [open]

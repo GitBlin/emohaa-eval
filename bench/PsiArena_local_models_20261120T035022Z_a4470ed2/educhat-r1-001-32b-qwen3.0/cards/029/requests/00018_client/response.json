@@ -1,0 +1,41 @@
+{
+  "id": "af93f85afb7346989e57027bf3bbc78f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "外套……（叹气）你这么一说，我好像有点明白了。在我家，做什么决定都很难，买什么东西都得先想我爸妈会怎么说。他们总觉得我乱花钱，可我就是想……想让自己看起来好一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到母亲的声音像外套，这个比喻让我一下子想到家里的事。她好像真的理解那种被管束的感觉，但又不会像我妈那样直接批评我。）\n（说到买衣服，其实我每次逛街都会想起妈妈说的话。她总说实用最重要，可我看到同事们穿得那么好看，心里就特别矛盾。这种纠结可能就是从小的习惯吧，做什么决定都要先想爸妈会怎么说。）",
+        "reasoning": "（咨询师提到母亲的声音像外套，这个比喻让我一下子想到家里的事。她好像真的理解那种被管束的感觉，但又不会像我妈那样直接批评我。）\n（说到买衣服，其实我每次逛街都会想起妈妈说的话。她总说实用最重要，可我看到同事们穿得那么好看，心里就特别矛盾。这种纠结可能就是从小的习惯吧，做什么决定都要先想爸妈会怎么说。）"
+      }
+    }
+  ],
+  "created": 1795149030,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1669,
+    "total_tokens": 1804,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

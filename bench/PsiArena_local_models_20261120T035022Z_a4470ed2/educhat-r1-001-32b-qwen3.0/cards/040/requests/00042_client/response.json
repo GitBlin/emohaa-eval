@@ -1,0 +1,41 @@
+{
+  "id": "e3f7fd6b66f54fb08d7c42cd292852d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真点头）好，我想学。不过……（犹豫）这些技巧真的有用吗？我有时候觉得，道理都懂，但情绪上来的时候什么都忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了“情绪急救包”和放松技巧，这让我觉得她真的在帮我找具体的方法。但我其实更想知道，这些技巧真的能管用吗？毕竟每次看到她和别人在一起时，那种难受的感觉根本控制不住。）\n（不过既然都聊到这里了，试试也无妨。只是我有点担心自己太笨，学不会或者坚持不下来。以前也试过深呼吸，但越呼吸越觉得胸口闷。）",
+        "reasoning": "（咨询师提到了“情绪急救包”和放松技巧，这让我觉得她真的在帮我找具体的方法。但我其实更想知道，这些技巧真的能管用吗？毕竟每次看到她和别人在一起时，那种难受的感觉根本控制不住。）\n（不过既然都聊到这里了，试试也无妨。只是我有点担心自己太笨，学不会或者坚持不下来。以前也试过深呼吸，但越呼吸越觉得胸口闷。）"
+      }
+    }
+  ],
+  "created": 1795149871,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2854,
+    "total_tokens": 2983,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

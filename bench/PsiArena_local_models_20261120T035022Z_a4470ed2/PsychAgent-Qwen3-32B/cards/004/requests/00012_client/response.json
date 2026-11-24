@@ -1,0 +1,41 @@
+{
+  "id": "cbbd62d0a4974875b9516346b1d26674",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点不好意思）肚子会疼，有时候还发紧……（犹豫）那个，我能不能问你，你会不会觉得我烦啊？一直说这些没用的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师没有直接回答我关于他家里的问题，有点被挡回来的感觉……不过他说帮助过很多同龄的孩子，听起来好像还行。他问身体反应，我确实会肚子疼，这个可以说说。但我不想说太多，先讲一点点试探一下。）",
+        "reasoning": "（这个咨询师没有直接回答我关于他家里的问题，有点被挡回来的感觉……不过他说帮助过很多同龄的孩子，听起来好像还行。他问身体反应，我确实会肚子疼，这个可以说说。但我不想说太多，先讲一点点试探一下。）"
+      }
+    }
+  ],
+  "created": 1795146764,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1430,
+    "total_tokens": 1524,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,13 @@
+- Member's sister Renee suggested at her August birthday dinner, in front of nieces and nephews, that the cousins take turns hosting "till Member gets back on her feet," which Member experienced as public humiliation and being treated as a problem to be handled.
+- Member has cooked the family's Sunday dinner for thirty years and no one else in the family has cooked one, so Renee's card saying she misses "the table" lands as missing what Member does, not Member herself.
+- Member received a handwritten card from Renee this week apologizing and saying she misses the table; Member left it on the counter two days before opening it and keeps coming back to the word "table."
+- Member's sleep is disrupted, waking at 3–4 a.m. most nights, with the sister situation as the stated cause; appetite is fine and Member still cooks, now eating alone.
+- Member rejected the wind-down routine (dimmed lights, no screens, warm drink) and chamomile/deep-breaths/journaling suggestions, saying lying there thinking about her sister is what keeps her up, not screens.
+- Member's dominant feeling about the card is anger, with hurt and sadness mixed in; Member believes someone told Renee to write it because Renee is not the type to write a letter on her own.
+- Member is hurt that no one at the birthday dinner spoke up to say the suggestion was wrong.
+- Member has not discussed the dinner with anyone in the family and will not call them about it; the only regular contact is a niece who texts a picture from the choir stand each Sunday.
+- Member's stated fear about contacting Renee is that one wrong word will put her right back at the dinner table.
+- Member agreed to send Renee one neutral text asking whether the hosting suggestion was meant to help Member or give her space, framed as *"When you suggested taking turns hosting, were you thinking it would help me, or just give me space?"* [open]
+- Member plans to send the text tonight or tomorrow morning once the house is quiet. [open]
+- Member declined further steps beyond the single text — no planned follow-up message, no grounding routine like standing in the doorway or drinking water — as more than she has in her.
+- Member will not chase Renee for a reply or send a reminder text days later, saying that is not how things work between them.

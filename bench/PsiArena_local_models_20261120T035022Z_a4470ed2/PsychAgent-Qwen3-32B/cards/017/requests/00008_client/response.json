@@ -1,0 +1,41 @@
+{
+  "id": "27322ea9ea3d402798525c447ca30464",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不好哪边更重，就是都压在心里。亲戚那边吧……其实他们也没什么恶意，可每次被问，我就觉得自己好像哪里做错了。至于检查的事，我还没想好怎么面对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先从哪边开始说……其实两边都压得我喘不过气，但我不想这么快就全盘托出。检查结果的事让我很没面子，好像自己哪里做错了似的。亲戚的追问更烦人，每次都要假装没事。先说说这些表面的压力吧，至少不用碰那个最深的伤口。）",
+        "reasoning": "（咨询师问我想先从哪边开始说……其实两边都压得我喘不过气，但我不想这么快就全盘托出。检查结果的事让我很没面子，好像自己哪里做错了似的。亲戚的追问更烦人，每次都要假装没事。先说说这些表面的压力吧，至少不用碰那个最深的伤口。）"
+      }
+    }
+  ],
+  "created": 1795147051,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1191,
+    "total_tokens": 1310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

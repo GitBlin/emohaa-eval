@@ -1,0 +1,41 @@
+{
+  "id": "55c6211ec828470ab3c6dcd4e151950c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试，先在公司里跟人聊两句工作以外的事，比如中午吃饭时随便问一句。哪怕就一句，也比憋着强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我想具体的小行动，听起来挺实际的。我确实不想再陷在那种反复琢磨的状态里了，但一下子做大的改变又怕自己做不到。）\n（先从工作场景里开口试试吧，毕竟那个我相对熟悉，也不会太刻意。不过说实话，心里还是有点打鼓，怕自己问得太生硬。）",
+        "reasoning": "（咨询师在引导我想具体的小行动，听起来挺实际的。我确实不想再陷在那种反复琢磨的状态里了，但一下子做大的改变又怕自己做不到。）\n（先从工作场景里开口试试吧，毕竟那个我相对熟悉，也不会太刻意。不过说实话，心里还是有点打鼓，怕自己问得太生硬。）"
+      }
+    }
+  ],
+  "created": 1795142622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2604,
+    "total_tokens": 2709,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

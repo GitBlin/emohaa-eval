@@ -1,0 +1,41 @@
+{
+  "id": "747888100655486c93b8a4fe52f65160",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（吸了口气，像在回忆）心跳特别快，手也有点抖，就想赶紧走开。有时候明明知道不是针对我，也会这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问身体反应，我可以具体说，但别一次说太多。要自然，带点犹豫和情绪。）",
+        "reasoning": "（她问身体反应，我可以具体说，但别一次说太多。要自然，带点犹豫和情绪。）"
+      }
+    }
+  ],
+  "created": 1795147276,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2009,
+    "total_tokens": 2068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

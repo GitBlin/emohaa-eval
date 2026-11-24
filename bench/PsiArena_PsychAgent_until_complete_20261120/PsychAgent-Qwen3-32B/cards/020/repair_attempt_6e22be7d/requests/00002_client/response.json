@@ -1,0 +1,41 @@
+{
+  "id": "a009fffdc059485888ecece0a127d359",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（轻轻点头）好，我回去试试。下次来，我想跟您说说练习的时候到底发生了什么。",
+        "reasoning": "（轻轻点头）好，我回去试试。下次来，我想跟您说说练习的时候到底发生了什么。"
+      }
+    }
+  ],
+  "created": 1795156812,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 3655,
+    "total_tokens": 3678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "95717f783fab4873ac641a30601bd8ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微坐直）好，麻烦您了。我有点紧张，怕说的时候又变成辩解。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想帮我模拟和妈妈的对话，这让我有点紧张但也很需要。她似乎很理解我害怕被妈妈追问的心情，提出这样的建议很贴心。不过直接说“在学咨询”可能会让妈妈更担心，我得想想怎么表达更自然。）\n（也许可以从“照顾自己”这个角度切入，这样既真实又不会让妈妈觉得我在刻意疏远她。但具体怎么说还需要练习，我担心自己一紧张就说不好。）",
+        "reasoning": "（咨询师想帮我模拟和妈妈的对话，这让我有点紧张但也很需要。她似乎很理解我害怕被妈妈追问的心情，提出这样的建议很贴心。不过直接说“在学咨询”可能会让妈妈更担心，我得想想怎么表达更自然。）\n（也许可以从“照顾自己”这个角度切入，这样既真实又不会让妈妈觉得我在刻意疏远她。但具体怎么说还需要练习，我担心自己一紧张就说不好。）"
+      }
+    }
+  ],
+  "created": 1795154570,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2854,
+    "total_tokens": 2973,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "30daa1c8516d4ad5bede3aee085c8058",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提示词……可能是我看到手机屏幕上她的名字跳出来那一下。心会先沉一下。但我妈一开口说那些老事，我就又乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我找具体的触发点……我其实有点抵触，觉得这些技巧太细了，但也许可以试试。接电话前，我确实会先看到她的名字，然后心里就沉一下。这个感觉挺明显的。）\n（不过我还是有点怀疑，光靠一个提示词能有什么用？我妈一开口说那些往事，我整个人就被卷进去了，哪还顾得上停。但咨询师问得挺具体，我就先说说看吧。）",
+        "reasoning": "（咨询师在引导我找具体的触发点……我其实有点抵触，觉得这些技巧太细了，但也许可以试试。接电话前，我确实会先看到她的名字，然后心里就沉一下。这个感觉挺明显的。）\n（不过我还是有点怀疑，光靠一个提示词能有什么用？我妈一开口说那些往事，我整个人就被卷进去了，哪还顾得上停。但咨询师问得挺具体，我就先说说看吧。）"
+      }
+    }
+  ],
+  "created": 1795154211,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2261,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

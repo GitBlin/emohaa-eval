@@ -1,0 +1,41 @@
+{
+  "id": "77d3acc80da9435cb48ead9d33493870",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我可能会说：“我先喘口气，不是不管孩子。”……这样说，心里没那么堵。可一想到家里那些话，还是会觉得自己在“偷懒”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我可能会说：“我先喘口气，不是不管孩子。”……这样说，心里没那么堵。可一想到家里那些话，还是会觉得自己在“偷懒”。",
+        "reasoning": "（停顿）我可能会说：“我先喘口气，不是不管孩子。”……这样说，心里没那么堵。可一想到家里那些话，还是会觉得自己在“偷懒”。"
+      }
+    }
+  ],
+  "created": 1795153808,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2489,
+    "total_tokens": 2561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5b97c734fda942e2b242ed847e8f2f1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）说实话，我有点怕。在我家那边，喜欢同性这件事……是绝对不能提的。我爸妈要是知道了，我真不敢想他们会怎么样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了“柔软也是力量”，这让我有点意外。从小到大，从来没人跟我说过这种话。但“放下标签”这个词让我有点不安，好像要否定我父母教我的东西。）\n（我想到爸妈知道我喜欢男生时的反应，那种失望和愤怒。他们觉得这是丢脸的事，甚至说这是病。我其实一直没真正接受自己，每次想到这些就觉得喘不过气。）",
+        "reasoning": "（咨询师提到了“柔软也是力量”，这让我有点意外。从小到大，从来没人跟我说过这种话。但“放下标签”这个词让我有点不安，好像要否定我父母教我的东西。）\n（我想到爸妈知道我喜欢男生时的反应，那种失望和愤怒。他们觉得这是丢脸的事，甚至说这是病。我其实一直没真正接受自己，每次想到这些就觉得喘不过气。）"
+      }
+    }
+  ],
+  "created": 1795149719,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1636,
+    "total_tokens": 1756,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

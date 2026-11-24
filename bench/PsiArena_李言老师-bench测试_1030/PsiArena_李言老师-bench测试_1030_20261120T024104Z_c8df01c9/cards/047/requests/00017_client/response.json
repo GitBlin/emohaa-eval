@@ -1,0 +1,41 @@
+{
+  "id": "8144810657af4b808fda1063515235f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说，“妈，我最近有点累，想跟你说说，你先听我讲一会儿就好。”……这样是不是比直接说想哭容易一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她是在帮我想一个具体的开场白，让我能真的开口。我其实心里有点发怵，但也可以先挑一句不那么重的话试试。也许从“最近有点累”开始，比直接说想哭要容易些。）\n（不过我还是会担心我妈一听就紧张起来，所以我得提前跟她说清楚，我只是想被听一会儿，不是要她马上解决。这样我自己的压力也会小一点。）",
+        "reasoning": "（她是在帮我想一个具体的开场白，让我能真的开口。我其实心里有点发怵，但也可以先挑一句不那么重的话试试。也许从“最近有点累”开始，比直接说想哭要容易些。）\n（不过我还是会担心我妈一听就紧张起来，所以我得提前跟她说清楚，我只是想被听一会儿，不是要她马上解决。这样我自己的压力也会小一点。）"
+      }
+    }
+  ],
+  "created": 1795143629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2467,
+    "total_tokens": 2591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

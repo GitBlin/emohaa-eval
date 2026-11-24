@@ -1,0 +1,41 @@
+{
+  "id": "b7c85c74495a4de7888fcc7bc07e97b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（眼睛稍微亮了一点）我希望……至少别一整天都耗在这上面。能踏实坐下来学一会儿，别老想着她是不是讨厌我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户是来访者，18岁女生，正在后期阶段探索解决方案。咨询师问如果尝试顺利，最希望看到什么小变化。我需要回应得简短、口语化，带点犹豫和真实感。可以说希望自己不那么慌，或者能专心一点。保持2-3句，不要过早总结或道谢。）",
+        "reasoning": "（用户是来访者，18岁女生，正在后期阶段探索解决方案。咨询师问如果尝试顺利，最希望看到什么小变化。我需要回应得简短、口语化，带点犹豫和真实感。可以说希望自己不那么慌，或者能专心一点。保持2-3句，不要过早总结或道谢。）"
+      }
+    }
+  ],
+  "created": 1795155011,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2771,
+    "total_tokens": 2873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

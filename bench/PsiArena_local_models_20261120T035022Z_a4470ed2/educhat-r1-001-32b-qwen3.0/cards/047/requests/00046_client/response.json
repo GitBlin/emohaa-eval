@@ -1,0 +1,41 @@
+{
+  "id": "d2986eb1772a432481fc43ae43af1cc3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "谢谢……（停顿）那我们下次还聊这些吗？我想知道，接下来我该往哪个方向努力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会一直支持我，这让我感到一丝安心。但想到要独自面对接下来的改变，还是有点不确定。我得确认一下后续的咨询安排，这样心里更有底。）\n（不过现在说太多感谢的话好像有点早，毕竟问题还没完全解决。还是先问问下次见面的时间吧，这样能让我感觉更有方向感。）",
+        "reasoning": "（咨询师说会一直支持我，这让我感到一丝安心。但想到要独自面对接下来的改变，还是有点不确定。我得确认一下后续的咨询安排，这样心里更有底。）\n（不过现在说太多感谢的话好像有点早，毕竟问题还没完全解决。还是先问问下次见面的时间吧，这样能让我感觉更有方向感。）"
+      }
+    }
+  ],
+  "created": 1795150271,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2721,
+    "total_tokens": 2820,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

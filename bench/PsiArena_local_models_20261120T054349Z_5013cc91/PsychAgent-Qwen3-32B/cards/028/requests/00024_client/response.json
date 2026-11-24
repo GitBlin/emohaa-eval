@@ -1,0 +1,41 @@
+{
+  "id": "905f3e5957ff4a56ac7f08d9d7d09de8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能从小就这样吧。小时候选兴趣班、后来填志愿，基本都是他们定，我最多就是提一句，然后就被说服了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）好像从小就这样。小时候选兴趣班、后来填志愿，基本都是他们定，我最多就是……提一句，然后被说服。",
+        "reasoning": "（想了想）好像从小就这样。小时候选兴趣班、后来填志愿，基本都是他们定，我最多就是……提一句，然后被说服。"
+      }
+    }
+  ],
+  "created": 1795154389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2089,
+    "total_tokens": 2153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

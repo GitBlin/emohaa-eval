@@ -1,0 +1,41 @@
+{
+  "id": "3ea57de178ff489483833f21cd613b0b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。那个，我想先问一下，心理咨询是做什么的啊？是不是我说什么你都会告诉别人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师做了自我介绍，说他是今天的心理咨询师。我有点紧张，不知道这个人能不能信。爸妈总说外面的人不一定靠谱，而且我也不太清楚心理咨询到底是干什么的。他会不会问很多问题？会不会觉得我奇怪？我得先问问清楚，不能随便说太多。）\n（毕竟我是个不太敢跟别人说话的人，在学校也是这样。先试探一下看看他会不会不耐烦，或者会不会像老师那样只是随便问问。我得表现得小心一点，不能让他觉得我很好欺负。）",
+        "reasoning": "（刚才咨询师做了自我介绍，说他是今天的心理咨询师。我有点紧张，不知道这个人能不能信。爸妈总说外面的人不一定靠谱，而且我也不太清楚心理咨询到底是干什么的。他会不会问很多问题？会不会觉得我奇怪？我得先问问清楚，不能随便说太多。）\n（毕竟我是个不太敢跟别人说话的人，在学校也是这样。先试探一下看看他会不会不耐烦，或者会不会像老师那样只是随便问问。我得表现得小心一点，不能让他觉得我很好欺负。）"
+      }
+    }
+  ],
+  "created": 1795146943,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 877,
+    "total_tokens": 1005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

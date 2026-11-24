@@ -1,0 +1,41 @@
+{
+  "id": "98e4b0d75ff048eea32fc72275df8f7e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微放松了些）练习……那下次小组讨论的时候，我试着说一句？（声音里带着不确定）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我练习表达感受，这让我稍微放松了一点。但一想到真的要和别人说这些话，心里又有点发慌。不过他说可以一起练习，或许没那么可怕？）\n（我想到下周班级有小组讨论，这是个机会，但又担心自己会搞砸。也许可以先从简单的表达开始试试看？）",
+        "reasoning": "（咨询师在引导我练习表达感受，这让我稍微放松了一点。但一想到真的要和别人说这些话，心里又有点发慌。不过他说可以一起练习，或许没那么可怕？）\n（我想到下周班级有小组讨论，这是个机会，但又担心自己会搞砸。也许可以先从简单的表达开始试试看？）"
+      }
+    }
+  ],
+  "created": 1795153489,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2546,
+    "total_tokens": 2641,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

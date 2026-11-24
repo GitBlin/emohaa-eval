@@ -1,0 +1,41 @@
+{
+  "id": "d660b21d619f42a6bc17fa21ab08e168",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……很晚，翻来覆去地想事情。有时候想着想着就烦了。（犹豫）其实家里最近有些事，但我不确定该不该在这里说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我睡眠的具体情况，好像是在认真了解我的状态。但我不想这么快就说太多细节，毕竟还不确定他能不能理解我的处境。也许先含糊一点回应，看看他会不会急着下判断或者给建议。）\n（不过刚才他问得挺温和的，没有逼我。我可以稍微提一点，但还是得留点余地。毕竟家里那些事……说出来可能显得我很计较，或者更让人难受。）",
+        "reasoning": "（咨询师问我睡眠的具体情况，好像是在认真了解我的状态。但我不想这么快就说太多细节，毕竟还不确定他能不能理解我的处境。也许先含糊一点回应，看看他会不会急着下判断或者给建议。）\n（不过刚才他问得挺温和的，没有逼我。我可以稍微提一点，但还是得留点余地。毕竟家里那些事……说出来可能显得我很计较，或者更让人难受。）"
+      }
+    }
+  ],
+  "created": 1795154107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1240,
+    "total_tokens": 1365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

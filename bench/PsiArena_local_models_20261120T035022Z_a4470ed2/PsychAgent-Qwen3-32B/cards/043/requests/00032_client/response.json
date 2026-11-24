@@ -1,0 +1,41 @@
+{
+  "id": "a266f64876a74e04ab2deebad01c3427",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会回来，但你已经能和它有点距离了。我们把这种“一点点可控”的感觉当作一个锚点，放在每天固定的时刻，慢慢让它更可用。你愿意试试每天一次吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段，开始探索解决方案和行动计划）嗯，每天一次……可以试试。但说实话，我连每天该干什么都乱得很，不知道从哪儿开始。",
+        "reasoning": "（后期阶段，开始探索解决方案和行动计划）嗯，每天一次……可以试试。但说实话，我连每天该干什么都乱得很，不知道从哪儿开始。"
+      }
+    }
+  ],
+  "created": 1795148560,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2394,
+    "total_tokens": 2471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

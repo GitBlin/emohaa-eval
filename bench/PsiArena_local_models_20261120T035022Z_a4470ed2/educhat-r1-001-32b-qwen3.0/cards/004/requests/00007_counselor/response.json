@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-37a6c889448046e8a1a22682c64e5c95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这种感觉很常见，可以试着回忆一下，最近是不是有某件事情让你特别不想去学校？比如和同学的相处，或者课堂上的事情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到情绪模糊和社交回避倾向，需探索具体触发因素。\n【行动策略】：通过具体情境询问，帮助来访者明确情绪来源。\n",
+        "reasoning_content": "\n【诊断分析】：识别到情绪模糊和社交回避倾向，需探索具体触发因素。\n【行动策略】：通过具体情境询问，帮助来访者明确情绪来源。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146950,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 491,
+    "total_tokens": 565,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

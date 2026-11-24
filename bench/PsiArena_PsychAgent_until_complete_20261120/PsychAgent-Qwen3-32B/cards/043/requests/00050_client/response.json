@@ -1,0 +1,41 @@
+{
+  "id": "2f4ffe08f73e442d9ae1cb612a4e8705",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头，声音虽然不大但比之前稳定）好，那我这周就先记着试。下周……我再跟你说说有没有做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想，语气比开始时稳了一些）最有用的是……先别急着下结论。我好像一直在急着给自己和别人下结论。（停顿）我回去试试看，下周再跟你说情况。",
+        "reasoning": "（想了想，语气比开始时稳了一些）最有用的是……先别急着下结论。我好像一直在急着给自己和别人下结论。（停顿）我回去试试看，下周再跟你说情况。"
+      }
+    }
+  ],
+  "created": 1795155029,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3507,
+    "total_tokens": 3578,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

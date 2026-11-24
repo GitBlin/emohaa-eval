@@ -1,0 +1,41 @@
+{
+  "id": "3ac22c5cab004e89977ccfd9c3a38bd1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“太累了明天再说”……我一累就只想躺着刷手机。要不我把提醒设上，再先把快递盒放门口？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把计划具体化，还问我可能拿什么当借口。这让我想到自己最容易用“太累了”来逃避，尤其晚上回家只想躺着刷手机。）\n（不过既然已经定了周三，我确实需要想个办法应对。也许可以把手机提醒设成很扎眼的那种，或者先把快递盒放门口，看到就没办法假装忘了。）",
+        "reasoning": "（咨询师在帮我把计划具体化，还问我可能拿什么当借口。这让我想到自己最容易用“太累了”来逃避，尤其晚上回家只想躺着刷手机。）\n（不过既然已经定了周三，我确实需要想个办法应对。也许可以把手机提醒设成很扎眼的那种，或者先把快递盒放门口，看到就没办法假装忘了。）"
+      }
+    }
+  ],
+  "created": 1795143127,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2643,
+    "total_tokens": 2752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

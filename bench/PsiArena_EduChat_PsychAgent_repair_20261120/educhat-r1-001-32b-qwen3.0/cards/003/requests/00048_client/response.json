@@ -1,0 +1,41 @@
+{
+  "id": "340742ea8de44abebe59dbba47d12dd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就好。这周我尽量试着约人喝咖啡，不管结果怎么样，下次都跟你讲讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师刚才说会一直在这里陪我，这让我心里踏实了不少。虽然还是有点不安，但至少知道下次遇到困难还能来找她聊聊。）\n（想到要结束这次咨询了，突然有点不知道该说什么好。这周要尝试约同事喝咖啡的事，感觉既期待又有点紧张，但说出来可能会让自己更有动力去做。）",
+        "reasoning": "（心理咨询师刚才说会一直在这里陪我，这让我心里踏实了不少。虽然还是有点不安，但至少知道下次遇到困难还能来找她聊聊。）\n（想到要结束这次咨询了，突然有点不知道该说什么好。这周要尝试约同事喝咖啡的事，感觉既期待又有点紧张，但说出来可能会让自己更有动力去做。）"
+      }
+    }
+  ],
+  "created": 1795153490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2760,
+    "total_tokens": 2855,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

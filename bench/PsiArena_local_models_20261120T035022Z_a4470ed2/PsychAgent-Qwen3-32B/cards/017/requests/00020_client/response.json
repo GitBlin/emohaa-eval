@@ -1,0 +1,41 @@
+{
+  "id": "15fd25276b5242c8aea6ab610707559d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "呼吸会变浅，像不敢大声喘气一样。我丈夫其实说尊重我的选择，可听到这话我反而更难受……他越是体谅，我越觉得自己对不起他，对不起他们家。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我呼吸的变化，这让我想起每次被催生时那种憋着的感觉。我确实总在忍，不敢把真实的情绪表现出来，连呼吸都变得小心翼翼。也许可以顺着这个说说我丈夫的态度，他总说尊重我，可这种尊重反而让我更矛盾。）",
+        "reasoning": "（咨询师问我呼吸的变化，这让我想起每次被催生时那种憋着的感觉。我确实总在忍，不敢把真实的情绪表现出来，连呼吸都变得小心翼翼。也许可以顺着这个说说我丈夫的态度，他总说尊重我，可这种尊重反而让我更矛盾。）"
+      }
+    }
+  ],
+  "created": 1795147074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1935,
+    "total_tokens": 2039,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

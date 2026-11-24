@@ -1,0 +1,41 @@
+{
+  "id": "2ccb9fd64ee548ab928933f32885ba0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "警觉？说得好听。在我们那儿，警觉的人就是碍事的人。我刚去财务那会儿也提过意见，结果被晾在一边，连开会都不叫我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像总能把我的话换个角度重新包装一下……警觉？说得倒是好听。但在我们单位，你越警觉，别人越觉得你碍事。他们才不会管你出发点是什么，只看你会不会挡路。）\n（我想起刚进财务那会儿，还真的试着提过几次意见。结果呢，科长拍着我肩膀说“年轻人有想法是好事”，转头就把我调去整理凭证了。现在想想，那时候就该明白的。算了，跟咨询师说这些有什么用，她又不是体制内的人。）",
+        "reasoning": "（这个咨询师好像总能把我的话换个角度重新包装一下……警觉？说得倒是好听。但在我们单位，你越警觉，别人越觉得你碍事。他们才不会管你出发点是什么，只看你会不会挡路。）\n（我想起刚进财务那会儿，还真的试着提过几次意见。结果呢，科长拍着我肩膀说“年轻人有想法是好事”，转头就把我调去整理凭证了。现在想想，那时候就该明白的。算了，跟咨询师说这些有什么用，她又不是体制内的人。）"
+      }
+    }
+  ],
+  "created": 1795147043,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1940,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

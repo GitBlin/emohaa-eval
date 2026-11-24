@@ -1,0 +1,41 @@
+{
+  "id": "3ddda6de838d491aa96d3d8fd735a193",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……小时候考试考好了，家里也就说一句“别骄傲”，好像永远都不够。久了我就总觉得自己得再努力一点才行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户提到家里从小要求严，我要顺着这个点回忆一个具体例子，但不要一下子讲太多，保持简短和自然。想到小时候考试考了好成绩，父母也只是淡淡地说别骄傲，那种被压着的感觉一直记得。）",
+        "reasoning": "（用户提到家里从小要求严，我要顺着这个点回忆一个具体例子，但不要一下子讲太多，保持简短和自然。想到小时候考试考了好成绩，父母也只是淡淡地说别骄傲，那种被压着的感觉一直记得。）"
+      }
+    }
+  ],
+  "created": 1795154160,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1798,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8963cb6cb9304bc7885e85cd442e178d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试“倒水后限时刷手机”，十分钟吧，比一下子全断掉现实。（点头）这样我可能没那么容易破功。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她给了我两个选择，一个更严格，一个给自己留点空间。我本来想说只做倒水，但又怕太硬撑，反而更容易破功。）\n（想想我这种容易内耗的人，一下子全断掉刷手机可能撑不住，倒不如先限时，给自己一个缓冲。这样感觉能坚持一点，也不会因为失败更焦虑。）",
+        "reasoning": "（她给了我两个选择，一个更严格，一个给自己留点空间。我本来想说只做倒水，但又怕太硬撑，反而更容易破功。）\n（想想我这种容易内耗的人，一下子全断掉刷手机可能撑不住，倒不如先限时，给自己一个缓冲。这样感觉能坚持一点，也不会因为失败更焦虑。）"
+      }
+    }
+  ],
+  "created": 1795142693,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3520,
+    "total_tokens": 3630,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

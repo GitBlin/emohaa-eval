@@ -1,0 +1,41 @@
+{
+  "id": "0614e34d52a547898f8a49b5ac1615d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。那我要是说着说着不想说了，真的可以停吗？还有，我跟你说的事情，你不会告诉别人吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，还说可以随时打断。这让我稍微放松了一点，但还是不太确定该怎么开口。我担心自己说得太乱，或者被评判。也许先问一下会不会被告诉别人，这样我才能决定要不要说真话。）\n（不过直接问这个会不会显得不信任？算了，还是问清楚比较好，不然我心里一直不踏实。）",
+        "reasoning": "（咨询师解释了流程，还说可以随时打断。这让我稍微放松了一点，但还是不太确定该怎么开口。我担心自己说得太乱，或者被评判。也许先问一下会不会被告诉别人，这样我才能决定要不要说真话。）\n（不过直接问这个会不会显得不信任？算了，还是问清楚比较好，不然我心里一直不踏实。）"
+      }
+    }
+  ],
+  "created": 1795154445,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 966,
+    "total_tokens": 1071,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

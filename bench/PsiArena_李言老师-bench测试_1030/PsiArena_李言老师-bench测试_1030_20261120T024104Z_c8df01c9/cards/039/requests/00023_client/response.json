@@ -1,0 +1,41 @@
+{
+  "id": "e08e8521a50243d7a5d6eca5ccfd3cd3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕他沉默，然后说需要想想。那种时候我会觉得，之前那些好都一下不算数了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我最担心对方知道后会发生什么，这让我一下子想到他最可能出现的反应。我其实一直不敢细想，但现在好像必须面对了。）\n（我最害怕的就是他听完之后沉默，然后开始重新衡量我这个人。如果他说接受不了，我可能真的会觉得自己被彻底否定了，连之前那些好的部分都变得不算数。）",
+        "reasoning": "（咨询师问的是我最担心对方知道后会发生什么，这让我一下子想到他最可能出现的反应。我其实一直不敢细想，但现在好像必须面对了。）\n（我最害怕的就是他听完之后沉默，然后开始重新衡量我这个人。如果他说接受不了，我可能真的会觉得自己被彻底否定了，连之前那些好的部分都变得不算数。）"
+      }
+    }
+  ],
+  "created": 1795143480,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3148,
+    "total_tokens": 3250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

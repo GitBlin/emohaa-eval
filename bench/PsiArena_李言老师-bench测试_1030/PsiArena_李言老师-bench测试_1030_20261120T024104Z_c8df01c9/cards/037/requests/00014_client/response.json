@@ -1,0 +1,41 @@
+{
+  "id": "1a87587e5e0a4ad98670ff2f3dc8abbe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是……主动问一句“你今天怎么样”。我一直在等她先开口，但我自己也没先问过她。想到这个有点不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我看到自己身上的矛盾，我一直在等她主动，但自己也没做到。这让我有点不舒服，但好像确实是这样。我可能得承认，我希望她先打破沉默，哪怕只是一句简单的问候。）\n（不过直接说“我希望她先问我”好像有点太直白了，显得我很需要她似的。但咨询师问到这个份上，我可能得试着说出来，虽然有点别扭。）",
+        "reasoning": "（咨询师在引导我看到自己身上的矛盾，我一直在等她主动，但自己也没做到。这让我有点不舒服，但好像确实是这样。我可能得承认，我希望她先打破沉默，哪怕只是一句简单的问候。）\n（不过直接说“我希望她先问我”好像有点太直白了，显得我很需要她似的。但咨询师问到这个份上，我可能得试着说出来，虽然有点别扭。）"
+      }
+    }
+  ],
+  "created": 1795143333,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2234,
+    "total_tokens": 2351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

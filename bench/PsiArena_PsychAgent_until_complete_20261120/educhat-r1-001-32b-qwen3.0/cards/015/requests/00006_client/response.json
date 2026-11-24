@@ -1,0 +1,41 @@
+{
+  "id": "54b28fc28e46493282f964df822874f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "颜色……我也说不好，可能是灰色吧，闷闷的，压着。有时候又像一团乱麻，理不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用颜色和雾气来形容我的感受，这种说法有点奇怪，但又好像能抓住一点什么。我确实觉得心里闷闷的，像被什么东西堵住了，但又说不清楚到底是什么。）\n（也许可以顺着这个比喻说下去，反正我也不想一开始就讲太多细节。而且我有点担心，如果我说得太具体，咨询师会不会觉得我太矫情或者太麻烦？还是先模糊一点比较好。）",
+        "reasoning": "（咨询师用颜色和雾气来形容我的感受，这种说法有点奇怪，但又好像能抓住一点什么。我确实觉得心里闷闷的，像被什么东西堵住了，但又说不清楚到底是什么。）\n（也许可以顺着这个比喻说下去，反正我也不想一开始就讲太多细节。而且我有点担心，如果我说得太具体，咨询师会不会觉得我太矫情或者太麻烦？还是先模糊一点比较好。）"
+      }
+    }
+  ],
+  "created": 1795153949,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1025,
+    "total_tokens": 1142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dbc8e4146201428a926b447169d44526",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她就回了一句“哈哈，最近有点忙”，很短。（抿嘴）我盯着那几个字看了很久，越看越觉得自己是不是太用力了。家里一直说要会沟通、多联系人，我好像就特别怕自己没维持好关系。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次让我觉得“是不是说多了”时对方的回应。我一下子想到那个笔友只回了个“哈哈，最近有点忙”，就这么几个字，我盯着看了很久。其实我有点不想承认，我家里一直很强调要多沟通、多维系关系，好像别人不回得热络，就是我没做好。）\n（这种念头让我更难受，因为我会把一句很普通的回复翻来覆去地拆解，越拆越觉得自己是不是太用力了。可我也不确定，这到底是我太敏感，还是我从小就被教成这样的。）",
+        "reasoning": "（她问的是最近一次让我觉得“是不是说多了”时对方的回应。我一下子想到那个笔友只回了个“哈哈，最近有点忙”，就这么几个字，我盯着看了很久。其实我有点不想承认，我家里一直很强调要多沟通、多维系关系，好像别人不回得热络，就是我没做好。）\n（这种念头让我更难受，因为我会把一句很普通的回复翻来覆去地拆解，越拆越觉得自己是不是太用力了。可我也不确定，这到底是我太敏感，还是我从小就被教成这样的。）"
+      }
+    }
+  ],
+  "created": 1795142567,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 1958,
+    "total_tokens": 2131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

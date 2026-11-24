@@ -1,0 +1,41 @@
+{
+  "id": "a8cf8195db304d0c9a4e928a3c9b0c5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试试……跟同事开口请一次小忙。哪怕只是问个问题，也想看看别人到底是什么反应。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我想先试哪个小需求。我想到自己一直不敢麻烦别人，也许可以先从很小的事开始，比如跟同事说一句“能不能帮我看看这个”。但说出来还是有点紧张，怕对方觉得我烦。我想先试着表达这个犹豫，让他知道我不是不想改，只是需要慢一点。）",
+        "reasoning": "（咨询师在问我想先试哪个小需求。我想到自己一直不敢麻烦别人，也许可以先从很小的事开始，比如跟同事说一句“能不能帮我看看这个”。但说出来还是有点紧张，怕对方觉得我烦。我想先试着表达这个犹豫，让他知道我不是不想改，只是需要慢一点。）"
+      }
+    }
+  ],
+  "created": 1795155121,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2704,
+    "total_tokens": 2798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

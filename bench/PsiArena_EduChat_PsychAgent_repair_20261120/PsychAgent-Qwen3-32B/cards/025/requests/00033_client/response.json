@@ -1,0 +1,41 @@
+{
+  "id": "bc230c391409410084b4585b73d20a48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "下车走几分钟……听起来好像可以试试。我平时都是急匆匆冲回家，没想过给自己留这么一点空。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段，目标是探索解决方案和行动计划。对方提出了一个具体的“过渡缓冲”建议。我需要回应这个方案，表达可行性，同时保持口语化和真实感，不要一下子太积极。）",
+        "reasoning": "（后期阶段，目标是探索解决方案和行动计划。对方提出了一个具体的“过渡缓冲”建议。我需要回应这个方案，表达可行性，同时保持口语化和真实感，不要一下子太积极。）"
+      }
+    }
+  ],
+  "created": 1795154325,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2596,
+    "total_tokens": 2662,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4b3cf2e39421412a812fbd4dd6f738d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）一般过一会儿就缓了，但一天里会反复好几次。（犹豫）老师，那像我这样，接下来能怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才提醒我注意身体，感觉他是真的关心我，不是敷衍。但被这么一问，我又有点不确定自己到底是不是小题大做。不过既然都聊到这儿了，还是老实说吧，免得他以为我在夸大。）\n（我其实也说不准具体多久，就是紧张的时候会紧一阵，过会儿好像又忘了。这种反反复复的感觉挺烦的，好像身体也在提醒我别想太多。或许可以顺着这个话头问问接下来该怎么办，但又怕显得太急。）",
+        "reasoning": "（咨询师刚才提醒我注意身体，感觉他是真的关心我，不是敷衍。但被这么一问，我又有点不确定自己到底是不是小题大做。不过既然都聊到这儿了，还是老实说吧，免得他以为我在夸大。）\n（我其实也说不准具体多久，就是紧张的时候会紧一阵，过会儿好像又忘了。这种反反复复的感觉挺烦的，好像身体也在提醒我别想太多。或许可以顺着这个话头问问接下来该怎么办，但又怕显得太急。）"
+      }
+    }
+  ],
+  "created": 1795142663,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 3067,
+    "total_tokens": 3205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

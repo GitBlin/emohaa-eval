@@ -1,0 +1,30 @@
+- Member delayed filling out the intake form for weeks before a triggering event brought him in.
+- Member mentors a seventh grader at a computer lab on Tuesdays; the room was empty this week because the parent pulled the kid out of the program.
+- Member sat in the empty lab afterward, feeling like the chairs were waiting for him to leave.
+- Member says the lab was the one room where somebody's face changed when he walked in — the kid grinned and yelled "profe" before Member got his bag down.
+- Member wonders whether he did something to cause the kid's departure, though he has people in town and none are mean to him.
+- Member cannot tell if his quietness is his own doing or just how it is at 23 in a town where he didn't grow up.
+- Member describes himself as the guy who fixes things — laptops, rides — and deflects "how are you" with "living the dream," so people get a lot from him and little to work with.
+- Member says what people carry from him is a good coworker who remembers passwords and brings tamales in December, but nobody carries that home.
+- Member feels lonely and like he's standing off to the side of his own life despite being around people all day.
+- Member fears that asking anyone for something would reveal he's not interesting, and that they'd be polite and the texts would get shorter.
+- Member says when things go bad he can never rule out that it was him, because polite ghosting looks the same either way.
+- Member has been running a months-long test of not texting first to see who reaches out; nobody does, and he takes it as confirmation even though he knows it's not an answer.
+- Member plans to text Marco from salsa, saying the lab thing happened and it knocked him sideways, instead of the usual "are we going Thursday."
+- Member expects Marco would respond decently but knows he'll reread his own message looking for where he was too much if there's no reply by morning.
+- Member's plan to step away from phone-checking is cooking something fussy using both hands, or his ignored certification modules; he chose cooking.
+- Member texted Marco about the lab thing before salsa; Marco replied in about four minutes with "damn man thats rough" and then asked if they were still on for Thursday, and Member felt embarrassed for making it bigger than it was.
+- Member wanted Marco to ask him something, anything, and was disappointed when Marco moved straight to logistics.
+- Member named the belief "there's nothing there for him to ask about" as a familiar line that shows up across situations.
+- Member says he has been the one people hand things to his whole life and cannot remember anyone asking what he actually wanted.
+- Member has almost never expressed a need that wasn't a favor; the only version he can think of is telling Marco he doesn't want to hear the tamales story at salsa again.
+- Member says stating a light boundary like that to Marco alone might be okay, but not in front of someone new — too much too soon.
+- Member cooked pasteles as the phone buffer and they came out good, but it was almost two in the morning with a pot he won't eat.
+- Member says handing out food is his introduction, so if he stops asking people about their food there's nothing left to introduce.
+- Member has never asked anyone in town for anything, including help on his half-done certification modules.
+- Member agreed to ask Devin, who sits two desks over and finished his certification in the spring, about the VLAN settings in the networking module before Monday standup while there's still coffee in him. [open]
+- Member is unsure about reaching out again next week: the first text was survivable because it was news, but now Marco is "the guy who knows something's up with me," which raises the bar. [open]
+- Member plans to answer Marco's "how are you" next week with a short true sentence like "I've been a bit off lately, not sure why" instead of "living the dream." [open]
+- Member worries Marco will ask why and he won't have a neat answer; counsellor offered "I don't know exactly, but it's been on my mind a lot lately" as an honest reply.
+- Member realized he has been treating anything true as all-or-nothing — it has to come out as the whole thing or not at all.
+- Member rejected handing out the pasteles as the same move as always with better wrapping, and left it unresolved with the pot in the fridge at two in the morning.

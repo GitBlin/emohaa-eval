@@ -1,0 +1,41 @@
+{
+  "id": "26ba8cbe53154bdaa8881cc7a0692f71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听起来不算太卑微。可我有点担心，我这样说，他可能还是不理我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户可能对“协商”式的开场有些犹豫，担心自己先开口会显得低姿态。需要承认这种感受，同时把重点放在“表达需要”而不是“让步”上。）",
+        "reasoning": "（用户可能对“协商”式的开场有些犹豫，担心自己先开口会显得低姿态。需要承认这种感受，同时把重点放在“表达需要”而不是“让步”上。）"
+      }
+    }
+  ],
+  "created": 1795153969,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2842,
+    "total_tokens": 2904,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

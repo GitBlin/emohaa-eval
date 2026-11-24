@@ -1,0 +1,41 @@
+{
+  "id": "72acb5690dd44a5e86e4124cc884b091",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会手心发凉，坐着也不太自然，总想找借口走开。说出来有点丢人……我明明平时不是这么拘谨的人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户现在处在咨询中期，开始愿意深入表达。刚才提到“被打分”的感觉，咨询师问身体反应，这是引导来访者觉察情绪的身体表现。我需要表现出逐渐信任，但还带着一点犹豫和敏感。可以说身体反应，比如手发凉、坐不住，然后自然带出对这种反应的困惑或自我怀疑，保持口语化，简短，2-3句。",
+        "reasoning": "嗯，用户现在处在咨询中期，开始愿意深入表达。刚才提到“被打分”的感觉，咨询师问身体反应，这是引导来访者觉察情绪的身体表现。我需要表现出逐渐信任，但还带着一点犹豫和敏感。可以说身体反应，比如手发凉、坐不住，然后自然带出对这种反应的困惑或自我怀疑，保持口语化，简短，2-3句。"
+      }
+    }
+  ],
+  "created": 1795147154,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1654,
+    "total_tokens": 1769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

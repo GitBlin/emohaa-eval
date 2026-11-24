@@ -1,0 +1,41 @@
+{
+  "id": "fdf987cb15e449f78959d5ed6bb19087",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写日记？（有点犹豫）我倒是没试过。不过晚上本来就容易想多，写下来会不会更睡不着？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写日记记录情绪变化，这让我想到自己确实很少主动梳理感受。不过写日记会不会让我更沉溺在情绪里？毕竟晚上本来就容易胡思乱想。但换个角度想，也许把情绪写下来反而能理清头绪，总比躺在床上乱想强。）\n（作为小学老师，我平时要处理那么多孩子的情绪问题，却很少认真对待自己的感受。写日记听起来是个温和的方式，至少不用立刻在别人面前改变什么。而且咨询师说得对，了解自己才能更好地调节情绪。）",
+        "reasoning": "（咨询师建议我写日记记录情绪变化，这让我想到自己确实很少主动梳理感受。不过写日记会不会让我更沉溺在情绪里？毕竟晚上本来就容易胡思乱想。但换个角度想，也许把情绪写下来反而能理清头绪，总比躺在床上乱想强。）\n（作为小学老师，我平时要处理那么多孩子的情绪问题，却很少认真对待自己的感受。写日记听起来是个温和的方式，至少不用立刻在别人面前改变什么。而且咨询师说得对，了解自己才能更好地调节情绪。）"
+      }
+    }
+  ],
+  "created": 1795150263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2397,
+    "total_tokens": 2539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

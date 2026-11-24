@@ -1,0 +1,41 @@
+{
+  "id": "8c36e05ef55742e6a16d2bc79fe6bff6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是想被接纳吧……我从小家里就老说别跟人比，省着点花。可朋友聊这些的时候，我又插不上话，就觉得自己特别别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是“被接纳”还是“暂时忘掉处境”，这让我想到小时候爸妈总说“咱家跟别人家不一样”，好像一直在提醒我别乱花钱。其实我挺怕被朋友看出来我手头紧的，每次她们聊新买的化妆品我都只能假装感兴趣。）\n（现在想想，可能两者都有吧。想跟她们一样，又怕真的一样了家里会说我。这种矛盾让我特别难受，但以前从来没跟人这么说过。）",
+        "reasoning": "（咨询师问的是“被接纳”还是“暂时忘掉处境”，这让我想到小时候爸妈总说“咱家跟别人家不一样”，好像一直在提醒我别乱花钱。其实我挺怕被朋友看出来我手头紧的，每次她们聊新买的化妆品我都只能假装感兴趣。）\n（现在想想，可能两者都有吧。想跟她们一样，又怕真的一样了家里会说我。这种矛盾让我特别难受，但以前从来没跟人这么说过。）"
+      }
+    }
+  ],
+  "created": 1795143066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1646,
+    "total_tokens": 1786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "98c803ae0c884f82b5662f9e111a41e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有一次半夜，我忍不住给他发了消息。发完我就盯着手机等，等得特别难受。其实我也不知道自己到底想等什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第7轮是初期最后一个阶段，需要测试咨询师边界，同时保持模糊描述。）可以试着说“有时候半夜会给丈夫发消息”，说到一半又收住，看看咨询师会不会追问或评判。也要体现犹豫和后悔。不能太深入。",
+        "reasoning": "（第7轮是初期最后一个阶段，需要测试咨询师边界，同时保持模糊描述。）可以试着说“有时候半夜会给丈夫发消息”，说到一半又收住，看看咨询师会不会追问或评判。也要体现犹豫和后悔。不能太深入。"
+      }
+    }
+  ],
+  "created": 1795153804,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 1503,
+    "total_tokens": 1591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

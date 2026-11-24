@@ -1,0 +1,41 @@
+{
+  "id": "84de6463139a45f2b509be4a713d171a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "雨声……听着没那么空。嗯，我想试试。还有，我楼下小卖部的奶奶有时候会跟我打招呼，我是不是也能多跟她说两句？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才建议我写作业时放点背景声音，还问我是喜欢雨声还是纯音乐。这让我觉得他真的在帮我想办法，不是随便说说。我确实怕太安静，雨声好像能让我心里踏实一点。）\n（不过光靠声音可能还不够，我想到了楼下那个小卖部的奶奶。她平时对我挺和气的，我放学路过时偶尔会跟她打招呼。也许我可以试着多和她说几句话，这样就不会总是一个人闷着了。）",
+        "reasoning": "（咨询师刚才建议我写作业时放点背景声音，还问我是喜欢雨声还是纯音乐。这让我觉得他真的在帮我想办法，不是随便说说。我确实怕太安静，雨声好像能让我心里踏实一点。）\n（不过光靠声音可能还不够，我想到了楼下那个小卖部的奶奶。她平时对我挺和气的，我放学路过时偶尔会跟她打招呼。也许我可以试着多和她说几句话，这样就不会总是一个人闷着了。）"
+      }
+    }
+  ],
+  "created": 1795142617,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2426,
+    "total_tokens": 2561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

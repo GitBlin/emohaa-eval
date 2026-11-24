@@ -1,0 +1,41 @@
+{
+  "id": "02b4f654536d4224a83c4e8f98d95b2e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试过深呼吸，还有跟他说“妈妈等一下”，但有时候根本等不了。我是不是得想点更具体的办法，不然光知道原因也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们进入后期了，第16轮。需要探索解决方案并具体化。保持简短2-3句，口语化。回应咨询师的问题。可以提到试过深呼吸或躲开一下，但效果不稳定。",
+        "reasoning": "我们进入后期了，第16轮。需要探索解决方案并具体化。保持简短2-3句，口语化。回应咨询师的问题。可以提到试过深呼吸或躲开一下，但效果不稳定。"
+      }
+    }
+  ],
+  "created": 1795154322,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2472,
+    "total_tokens": 2552,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

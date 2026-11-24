@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-abebdf068d644dc69600c96b006f68f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试着说“最近我们之间有些小摩擦，我想和你谈谈”。这样既表达了你的需求，又不会让对方感到被指责。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对沟通方式的不满反映出对沟通技巧的渴望，需要具体化沟通策略。\n【行动策略】：提供具体的沟通示例，鼓励尝试。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对沟通方式的不满反映出对沟通技巧的渴望，需要具体化沟通策略。\n【行动策略】：提供具体的沟通示例，鼓励尝试。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795150032,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2097,
+    "total_tokens": 2170,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

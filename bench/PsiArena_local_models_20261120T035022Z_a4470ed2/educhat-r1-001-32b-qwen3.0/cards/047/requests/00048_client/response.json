@@ -1,0 +1,41 @@
+{
+  "id": "72e302723e014475aa98742ef4f58849",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意。（点头）那下次来之前，我先试试深呼吸和写一句话日记。虽然不知道能不能做好，但至少想试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我愿不愿意继续探索情绪边界和工作中的自我保持，这让我感到被理解和支持。虽然还是有些不安，但想到刚才聊到的深呼吸和写日记的方法，似乎真的可以试试看。）\n（我其实很担心自己做不到，但咨询师的态度让我觉得可以慢慢来。也许先从小目标开始，比如在课堂上遇到情绪波动时练习深呼吸，这样不会给自己太大压力。）",
+        "reasoning": "（咨询师问我愿不愿意继续探索情绪边界和工作中的自我保持，这让我感到被理解和支持。虽然还是有些不安，但想到刚才聊到的深呼吸和写日记的方法，似乎真的可以试试看。）\n（我其实很担心自己做不到，但咨询师的态度让我觉得可以慢慢来。也许先从小目标开始，比如在课堂上遇到情绪波动时练习深呼吸，这样不会给自己太大压力。）"
+      }
+    }
+  ],
+  "created": 1795150273,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2800,
+    "total_tokens": 2913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a013347352f148eabd3bd55d748ad613",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样啊……那，咨询内容会保密吗？我有点担心说太多私人的事情。（停顿）还有，你一般会用什么方法？我不太了解心理咨询到底是怎么工作的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说可以一起探讨解决方法，但我现在还没准备好完全信任他。我需要先确认他是否专业可靠，毕竟我的问题涉及隐私。而且我习惯先了解规则再行动，就像做研究一样需要明确框架。）\n（作为内向敏感的人，直接暴露脆弱让我不安。不如先问清楚咨询的保密性和方法，这样既能保护自己又能试探对方的专业度。毕竟父母从小教育我要谨慎对待陌生人。）",
+        "reasoning": "（心理咨询师说可以一起探讨解决方法，但我现在还没准备好完全信任他。我需要先确认他是否专业可靠，毕竟我的问题涉及隐私。而且我习惯先了解规则再行动，就像做研究一样需要明确框架。）\n（作为内向敏感的人，直接暴露脆弱让我不安。不如先问清楚咨询的保密性和方法，这样既能保护自己又能试探对方的专业度。毕竟父母从小教育我要谨慎对待陌生人。）"
+      }
+    }
+  ],
+  "created": 1795149978,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 981,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "73db9bb389914e1a8a5be357e092c5a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心理老师……我们学校好像没有。就算有，我也不太敢去。我爸妈总说，学习好就行了，别的事别想太多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说可以找学校心理老师，可是……我连班主任都不敢相信，更别说别的老师了。他们会不会觉得我小题大做？而且村里学校哪有专门的心理老师啊……）\n（爸妈总说忍忍就过去了，可我真的忍得好难受。他们是不是觉得只要我成绩好，其他都不重要？但我在学校连个说话的人都没有……）",
+        "reasoning": "（这个咨询师说可以找学校心理老师，可是……我连班主任都不敢相信，更别说别的老师了。他们会不会觉得我小题大做？而且村里学校哪有专门的心理老师啊……）\n（爸妈总说忍忍就过去了，可我真的忍得好难受。他们是不是觉得只要我成绩好，其他都不重要？但我在学校连个说话的人都没有……）"
+      }
+    }
+  ],
+  "created": 1795153605,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1567,
+    "total_tokens": 1680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

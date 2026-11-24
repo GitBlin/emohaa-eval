@@ -1,0 +1,41 @@
+{
+  "id": "120c2f6dfcae46df862e35c9a22bf110",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说……“我最近有点烦，不太想说话，但不是针对你”。说完这句我可能就先停了，不敢一下说太多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意说，这让我有点紧张。不过刚才聊到同桌的事，好像没那么沉重了。我想试着说一句最轻的话，看看她会不会真的听。也许可以从“最近有点烦”开始，不用一下子把心里那些乱糟糟的都倒出来。）\n（而且我确实不想一直这样闷着，如果她能接住这句话，我可能会稍微松一口气。但我也怕自己说多了又后悔，所以先停在这里，看看她的反应再说。）",
+        "reasoning": "（她问我愿不愿意说，这让我有点紧张。不过刚才聊到同桌的事，好像没那么沉重了。我想试着说一句最轻的话，看看她会不会真的听。也许可以从“最近有点烦”开始，不用一下子把心里那些乱糟糟的都倒出来。）\n（而且我确实不想一直这样闷着，如果她能接住这句话，我可能会稍微松一口气。但我也怕自己说多了又后悔，所以先停在这里，看看她的反应再说。）"
+      }
+    }
+  ],
+  "created": 1795143527,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2868,
+    "total_tokens": 3000,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

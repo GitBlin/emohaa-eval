@@ -1,0 +1,41 @@
+{
+  "id": "9359a74191b34597b13a78c612a1f959",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿，声音有点不自然）可能是被认可吧。但说出来又觉得挺没出息的，好像我到现在还在等别人点头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，声音有点不自然）可能是被认可吧。但说出来又觉得挺没出息的，好像我到现在还在等别人点头。",
+        "reasoning": "（停顿，声音有点不自然）可能是被认可吧。但说出来又觉得挺没出息的，好像我到现在还在等别人点头。"
+      }
+    }
+  ],
+  "created": 1795155163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2677,
+    "total_tokens": 2739,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

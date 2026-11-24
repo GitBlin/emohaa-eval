@@ -1,0 +1,41 @@
+{
+  "id": "0a8be1024e794376ad8e77b65b8b7044",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……让我想想。害怕被拒绝那端吧，好像那个声音更大。被看见的需要我都不敢多想，一想就更难受了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……让我想想。害怕被拒绝那端吧，好像那个声音更大。被看见的需要我都不敢多想，一想就更难受了。",
+        "reasoning": "嗯……让我想想。害怕被拒绝那端吧，好像那个声音更大。被看见的需要我都不敢多想，一想就更难受了。"
+      }
+    }
+  ],
+  "created": 1795153469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2302,
+    "total_tokens": 2362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

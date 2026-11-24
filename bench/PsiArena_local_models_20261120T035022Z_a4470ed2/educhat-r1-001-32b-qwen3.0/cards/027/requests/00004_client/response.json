@@ -1,0 +1,41 @@
+{
+  "id": "deac766c01014dec80c1680d4cd3e7fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保密……这个我倒是挺在意的。那，如果我说的东西你觉得自己处理不了，你会怎么办？会不会告诉我家里人？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以像朋友聊天一样，还强调保密和由我掌控节奏……听起来确实让人稍微放心一点。但我还是不太确定该说到什么程度，毕竟有些家里的事说出来可能会很复杂。）\n（也许可以先从最表面的感受开始试探一下，看看咨询师会怎么反应。毕竟第一次见面，我也不想一下子暴露太多，但又确实需要有人听我说说这种说不清的难受。）",
+        "reasoning": "（咨询师说可以像朋友聊天一样，还强调保密和由我掌控节奏……听起来确实让人稍微放心一点。但我还是不太确定该说到什么程度，毕竟有些家里的事说出来可能会很复杂。）\n（也许可以先从最表面的感受开始试探一下，看看咨询师会怎么反应。毕竟第一次见面，我也不想一下子暴露太多，但又确实需要有人听我说说这种说不清的难受。）"
+      }
+    }
+  ],
+  "created": 1795148784,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 984,
+    "total_tokens": 1096,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

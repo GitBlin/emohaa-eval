@@ -1,0 +1,41 @@
+{
+  "id": "869e5ef82775448f86e4f5b1961dd75c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听音乐还行，看书就静不下心。我在想，除了这些，我是不是也该找个机会，跟他好好说一次我的感受，而不是光等他猜？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试运动，还提到其他放松方式。她好像很希望我能找到让自己舒服的方法。但我现在更在意的是，我是不是又想把所有情绪都压下去，就像以前一样。）\n（也许我可以先选一个简单的目标，比如瑜伽班，这样不会太难坚持。同时我也在想，和男友之间的问题，我是不是也该换个方式表达，而不是一直忍着。）",
+        "reasoning": "（咨询师在鼓励我尝试运动，还提到其他放松方式。她好像很希望我能找到让自己舒服的方法。但我现在更在意的是，我是不是又想把所有情绪都压下去，就像以前一样。）\n（也许我可以先选一个简单的目标，比如瑜伽班，这样不会太难坚持。同时我也在想，和男友之间的问题，我是不是也该换个方式表达，而不是一直忍着。）"
+      }
+    }
+  ],
+  "created": 1795154743,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2583,
+    "total_tokens": 2702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

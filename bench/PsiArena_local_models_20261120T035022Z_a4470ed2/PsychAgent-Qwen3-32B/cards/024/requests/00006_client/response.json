@@ -1,0 +1,41 @@
+{
+  "id": "3f09f7c84e6a4fafa8d44731f60b91de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，稍微好一点吧……那我能不能就把您当朋友一样聊？有时候我就是想找个人说说，不想搞得那么正式。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们刚刚说到可以随时停、不会被评判。现在需要只针对一个方面回复，初期阶段，继续试探防御，模糊描述，不深入。可以问咨询方法/界限测试。第3轮：对咨询师的话稍微放心一点，但仍试探界限，比如问“那我能不能把您当朋友一样聊？”这符合模糊界限测试伦理意识。保持2-3句，口语化。",
+        "reasoning": "我们刚刚说到可以随时停、不会被评判。现在需要只针对一个方面回复，初期阶段，继续试探防御，模糊描述，不深入。可以问咨询方法/界限测试。第3轮：对咨询师的话稍微放心一点，但仍试探界限，比如问“那我能不能把您当朋友一样聊？”这符合模糊界限测试伦理意识。保持2-3句，口语化。"
+      }
+    }
+  ],
+  "created": 1795147328,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1054,
+    "total_tokens": 1168,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

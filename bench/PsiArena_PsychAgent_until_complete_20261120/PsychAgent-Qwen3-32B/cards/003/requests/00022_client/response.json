@@ -1,0 +1,41 @@
+{
+  "id": "bd2864e3d8cd4e808485d0b418c1b159",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口会有点闷，脸也有点热……就那种，好像被晾在一边的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺细的……身体反应。我确实没太注意过这个，不过回想起来，好像每次那种时候，胸口会有点闷，脸也会发烫。说不太清楚，但那种感觉很难受。）",
+        "reasoning": "（咨询师问得挺细的……身体反应。我确实没太注意过这个，不过回想起来，好像每次那种时候，胸口会有点闷，脸也会发烫。说不太清楚，但那种感觉很难受。）"
+      }
+    }
+  ],
+  "created": 1795153456,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 1846,
+    "total_tokens": 1917,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

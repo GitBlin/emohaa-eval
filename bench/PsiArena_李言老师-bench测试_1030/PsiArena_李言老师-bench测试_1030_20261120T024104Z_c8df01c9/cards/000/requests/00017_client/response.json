@@ -1,0 +1,41 @@
+{
+  "id": "0a2c4654fd304d9c94c9a79061a69bed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，但我有点担心写着写着又变成自我批评。能不能只记事实，先不评价？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "刚才咨询师重复问了一次，我有点没跟上，但这个问题其实挺具体的。记原话和反应……好像比一直猜来猜去实际。不过我还是担心自己会不会写着写着又变成自我批评。",
+        "reasoning": "刚才咨询师重复问了一次，我有点没跟上，但这个问题其实挺具体的。记原话和反应……好像比一直猜来猜去实际。不过我还是担心自己会不会写着写着又变成自我批评。"
+      }
+    }
+  ],
+  "created": 1795142614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 2541,
+    "total_tokens": 2610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

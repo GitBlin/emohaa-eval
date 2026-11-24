@@ -1,0 +1,41 @@
+{
+  "id": "6cb48a19604a4fd3bbe77b6370f9b95b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“先停一下”这个办法……可能有用，我试试吧。只是我有点担心，真停下来以后，我会不会就不敢再开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要只针对一个方面：规则5初期，建立信任与联系，表现防御试探，模糊描述感受，不深入。上一轮咨询师提出暂停信号，我们回应这个。需要简短2-3句，口语，犹豫。可以表示暂停信号能帮到，但仍模糊。不要深入。注意只针对一个方面。可以问咨询会记录什么吗？但每轮只针对一个方面。选择回应暂停信号并稍微信任。保持简短。",
+        "reasoning": "我们需要只针对一个方面：规则5初期，建立信任与联系，表现防御试探，模糊描述感受，不深入。上一轮咨询师提出暂停信号，我们回应这个。需要简短2-3句，口语，犹豫。可以表示暂停信号能帮到，但仍模糊。不要深入。注意只针对一个方面。可以问咨询会记录什么吗？但每轮只针对一个方面。选择回应暂停信号并稍微信任。保持简短。"
+      }
+    }
+  ],
+  "created": 1795147058,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1507,
+    "total_tokens": 1637,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

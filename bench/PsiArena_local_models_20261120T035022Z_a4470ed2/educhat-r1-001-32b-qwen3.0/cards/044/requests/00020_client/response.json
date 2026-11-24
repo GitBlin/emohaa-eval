@@ -1,0 +1,41 @@
+{
+  "id": "b43b7f5acdab4a8b938752167bb28926",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（眼眶有点红）我觉得……人都是会变的吧。你对她好，她不一定对你好。（停顿）有时候我想，是不是我这个人本身就有问题，所以大家才都不想理我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“被信任的人伤害”，这让我又想起那个女孩的事。她问我怎么看人际关系，其实我最近一直在想这个问题，但越想越乱。）\n（我确实觉得人际关系很不可靠，可又忍不住渴望有人能真正理解我。这种矛盾让我很痛苦，也许可以从家里的事说起，我爸妈就是这样，给钱给东西，但从来不懂我在想什么。）",
+        "reasoning": "（咨询师提到“被信任的人伤害”，这让我又想起那个女孩的事。她问我怎么看人际关系，其实我最近一直在想这个问题，但越想越乱。）\n（我确实觉得人际关系很不可靠，可又忍不住渴望有人能真正理解我。这种矛盾让我很痛苦，也许可以从家里的事说起，我爸妈就是这样，给钱给东西，但从来不懂我在想什么。）"
+      }
+    }
+  ],
+  "created": 1795150076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1847,
+    "total_tokens": 1972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "396770cd37334fadb504204da10ec7bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试，但我怕到时候根本想不起来。说实话，我连自己为什么会这样都没弄明白，就先练这个，是不是有点早？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然让我练呼吸，我有点措手不及。听起来简单，可我知道自己一急起来根本顾不上这些。而且我连自己现在到底怎么回事都没弄明白，就让我去练方法，心里有点烦躁。）",
+        "reasoning": "（咨询师突然让我练呼吸，我有点措手不及。听起来简单，可我知道自己一急起来根本顾不上这些。而且我连自己现在到底怎么回事都没弄明白，就让我去练方法，心里有点烦躁。）"
+      }
+    }
+  ],
+  "created": 1795154204,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2029,
+    "total_tokens": 2110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

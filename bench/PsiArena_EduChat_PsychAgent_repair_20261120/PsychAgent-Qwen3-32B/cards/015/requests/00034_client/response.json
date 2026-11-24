@@ -1,0 +1,41 @@
+{
+  "id": "99c148336dc34e04a9c89cef87c87a09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会……会自动觉得他不在乎我了。其实我也知道这可能不是事实，但那一瞬间就是会那么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户正在回应咨询师关于自动想法的提问，需要识别出对丈夫不回应时的自动解读，并保持后期阶段的探索方向，简短口语化。）",
+        "reasoning": "（用户正在回应咨询师关于自动想法的提问，需要识别出对丈夫不回应时的自动解读，并保持后期阶段的探索方向，简短口语化。）"
+      }
+    }
+  ],
+  "created": 1795153985,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2511,
+    "total_tokens": 2570,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

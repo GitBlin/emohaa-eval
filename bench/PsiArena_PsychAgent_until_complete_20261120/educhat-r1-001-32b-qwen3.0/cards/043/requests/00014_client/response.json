@@ -1,0 +1,41 @@
+{
+  "id": "0210ebe9c36e4445a0bae2e8be769fd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "学习……唉，在我家，学习就是一切。我爸妈总说只有高考才能改变人生，我从小听到大。可是现在……我越努力越觉得自己不行，真的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我关于学习的看法，这让我有点不知道从哪说起。学习对我来说就是必须做的事，但最近真的很难投入进去。）\n（想到爸妈总是说高考才能改变人生，可我现在连作业都写不进去，这种矛盾让我更焦虑了。也许可以稍微提一下家里的压力，但不想说得太深。）",
+        "reasoning": "（咨询师问我关于学习的看法，这让我有点不知道从哪说起。学习对我来说就是必须做的事，但最近真的很难投入进去。）\n（想到爸妈总是说高考才能改变人生，可我现在连作业都写不进去，这种矛盾让我更焦虑了。也许可以稍微提一下家里的压力，但不想说得太深。）"
+      }
+    }
+  ],
+  "created": 1795155161,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1413,
+    "total_tokens": 1522,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

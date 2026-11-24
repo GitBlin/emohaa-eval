@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-2673746a467e4fce9466992e0816686e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心理咨询主要是通过对话了解你的想法和情绪，我们可以从你最关心的问题开始聊起。你愿意先说说最近遇到的困扰吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户对咨询流程缺乏了解，需简明说明以建立安全感。\n【行动策略】：用开放式问题引导用户表达具体困扰，避免过度解释。\n",
+        "reasoning_content": "\n【诊断分析】：用户对咨询流程缺乏了解，需简明说明以建立安全感。\n【行动策略】：用开放式问题引导用户表达具体困扰，避免过度解释。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155229,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 290,
+    "total_tokens": 363,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

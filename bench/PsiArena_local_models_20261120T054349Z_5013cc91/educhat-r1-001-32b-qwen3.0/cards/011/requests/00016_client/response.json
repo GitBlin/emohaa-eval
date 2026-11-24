@@ -1,0 +1,41 @@
+{
+  "id": "6eb8d03189874008ae7fa19738c72775",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天……（停顿）今天孩子又闹了一上午，我连早饭都没吃上。有时候我会想，是不是我太惯着他了，才让他这么难带。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我说说今天的心情，这让我想起今天又是重复的一天。其实从早上开始就特别烦躁，孩子一直哭闹，我连早饭都没好好吃。但说这些好像也没什么意义，毕竟每天都差不多。）\n（不过既然咨询师问了，也许可以稍微说一点。今天特别累，感觉比平时更没力气。可能是因为昨晚孩子又醒了好几次。这些琐碎的事情说出来会不会显得我很没用？但咨询师好像真的在认真听。）",
+        "reasoning": "（咨询师让我说说今天的心情，这让我想起今天又是重复的一天。其实从早上开始就特别烦躁，孩子一直哭闹，我连早饭都没好好吃。但说这些好像也没什么意义，毕竟每天都差不多。）\n（不过既然咨询师问了，也许可以稍微说一点。今天特别累，感觉比平时更没力气。可能是因为昨晚孩子又醒了好几次。这些琐碎的事情说出来会不会显得我很没用？但咨询师好像真的在认真听。）"
+      }
+    }
+  ],
+  "created": 1795153786,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1474,
+    "total_tokens": 1610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3e365534348d49638c1453b4df7794ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想简洁一点吧，太委婉我反而记不住。可能以后被追问时，我先停半秒，再说“我先确认一下，稍后尽快回复您”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那句话说得更自然，还问我想委婉还是简洁。我其实不太想再绕太多，越绕越像在给自己找退路，反而更紧张。可能简洁一点更适合我，至少我能说出口。）\n（不过我也在想，光练一句可能不够，下次真被追问，我还是会慌。也许得给自己定个能记住的小动作，比如先停一下再开口。）",
+        "reasoning": "（咨询师在帮我把那句话说得更自然，还问我想委婉还是简洁。我其实不太想再绕太多，越绕越像在给自己找退路，反而更紧张。可能简洁一点更适合我，至少我能说出口。）\n（不过我也在想，光练一句可能不够，下次真被追问，我还是会慌。也许得给自己定个能记住的小动作，比如先停一下再开口。）"
+      }
+    }
+  ],
+  "created": 1795142592,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3194,
+    "total_tokens": 3319,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

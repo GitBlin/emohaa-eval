@@ -1,0 +1,41 @@
+{
+  "id": "eec5f6919f2f4d1c8f26428e5f21b3d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我好像一急就只会往前冲，停不下来。可要真说动作……我可能会先走开一下，去倒杯水。就是不知道我做不做得到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我好像一急就只会往前冲，停不下来。可要真说动作……我可能会先走开一下，去倒杯水。就是不知道我做不做得到。",
+        "reasoning": "嗯，我好像一急就只会往前冲，停不下来。可要真说动作……我可能会先走开一下，去倒杯水。就是不知道我做不做得到。"
+      }
+    }
+  ],
+  "created": 1795154354,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 2102,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

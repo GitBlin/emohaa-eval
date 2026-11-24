@@ -1,0 +1,41 @@
+{
+  "id": "64c5cf6cb5a546448535836ad2ee2f19",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听起来是慢慢聊的那种。那我是不是什么都可以说？还是说有些事你会保密？我有点担心说多了会不会不太安全。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询方式，但我还是不太确定该说到什么程度。她提到“合作”和“边界”，这让我稍微安心一点，但又怕自己说多了会被看穿。我想先试探一下，看看她会不会真的尊重我的界限，所以只给一点模糊的回应，不直接说具体的事。）",
+        "reasoning": "（咨询师解释了咨询方式，但我还是不太确定该说到什么程度。她提到“合作”和“边界”，这让我稍微安心一点，但又怕自己说多了会被看穿。我想先试探一下，看看她会不会真的尊重我的界限，所以只给一点模糊的回应，不直接说具体的事。）"
+      }
+    }
+  ],
+  "created": 1795148317,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1003,
+    "total_tokens": 1102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

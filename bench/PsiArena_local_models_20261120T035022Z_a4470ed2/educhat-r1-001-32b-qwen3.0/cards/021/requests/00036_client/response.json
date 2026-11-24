@@ -1,0 +1,41 @@
+{
+  "id": "5da8d715fb3f4af4a58f0db08bcd97f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，谢谢您。我想先把打电话这事定下来，这周就找个时间。另外，医院那边……是不是也有家属可以咨询的地方？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我，让我觉得和家人沟通是可行的。之前总觉得开口求助显得自己没用，现在想想，妹妹确实该知道实情。不过具体怎么说还得琢磨，不能一上来就让她觉得我在推卸责任。）\n（医院那边或许也能问问，有没有什么家属能用的资源。虽然不太习惯求人帮忙，但总比一个人硬撑着强。这两件事可以先试试看，感觉心里稍微有点底了。）",
+        "reasoning": "（咨询师在鼓励我，让我觉得和家人沟通是可行的。之前总觉得开口求助显得自己没用，现在想想，妹妹确实该知道实情。不过具体怎么说还得琢磨，不能一上来就让她觉得我在推卸责任。）\n（医院那边或许也能问问，有没有什么家属能用的资源。虽然不太习惯求人帮忙，但总比一个人硬撑着强。这两件事可以先试试看，感觉心里稍微有点底了。）"
+      }
+    }
+  ],
+  "created": 1795148335,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2410,
+    "total_tokens": 2533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

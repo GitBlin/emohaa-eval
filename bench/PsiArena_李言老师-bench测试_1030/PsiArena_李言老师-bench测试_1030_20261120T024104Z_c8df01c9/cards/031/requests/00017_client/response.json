@@ -1,0 +1,41 @@
+{
+  "id": "01e0137437d54851bda37f7d01067be3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能……会试着说“有不懂的可以问我”。听起来没那么难，可当时就是开不了口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想多说哪一句。其实那句话在我脑子里转了很多遍，可真要说出来，又觉得太直接了，怕她拒绝，也怕自己显得太刻意。）\n（不过现在想想，也许不用一下子约她吃饭。换个稍微轻一点的说法，比如问她笔记看不看得懂，好像没那么难开口。这样就算她只是随便回一句，我也不至于太尴尬。）",
+        "reasoning": "（她问我想多说哪一句。其实那句话在我脑子里转了很多遍，可真要说出来，又觉得太直接了，怕她拒绝，也怕自己显得太刻意。）\n（不过现在想想，也许不用一下子约她吃饭。换个稍微轻一点的说法，比如问她笔记看不看得懂，好像没那么难开口。这样就算她只是随便回一句，我也不至于太尴尬。）"
+      }
+    }
+  ],
+  "created": 1795143144,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2504,
+    "total_tokens": 2610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

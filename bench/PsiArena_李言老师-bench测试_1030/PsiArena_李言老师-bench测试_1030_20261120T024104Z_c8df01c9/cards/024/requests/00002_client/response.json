@@ -1,0 +1,41 @@
+{
+  "id": "11e3f90029344abc80921b43661f1808",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……家里的事吧。最近总觉得心里堵得慌，说不上来具体是哪一件。有时候晚上也睡不好，脑子里乱乱的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来挺温和的，没有一上来就追问细节，而是让我随意说。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢完全信任。他问最近最困扰的是什么……其实我心里乱糟糟的，和婆婆吵架的事一直堵着，可又觉得说出来显得自己很计较。先含糊地说说看吧，看看他会不会像家里人那样急着给建议或者评判我。）",
+        "reasoning": "（这位咨询师看起来挺温和的，没有一上来就追问细节，而是让我随意说。这让我稍微放松了一点，但毕竟第一次见面，我还是不太敢完全信任。他问最近最困扰的是什么……其实我心里乱糟糟的，和婆婆吵架的事一直堵着，可又觉得说出来显得自己很计较。先含糊地说说看吧，看看他会不会像家里人那样急着给建议或者评判我。）"
+      }
+    }
+  ],
+  "created": 1795142928,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 962,
+    "total_tokens": 1083,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

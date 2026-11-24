@@ -1,0 +1,41 @@
+{
+  "id": "db4c5fdcd92f476bb263647b20d0f0a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在我家，好像很少说这些。考得好是应该的，考不好就会被说不够努力。所以我现在也总觉得自己还不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在处于中期阶段，需要深入理解困扰根源。刚才提到羞耻和愤怒后马上自我怀疑，这很关键。可以问她小时候家里怎么对待情绪，特别是被评论时的反应。这样能连接文化背景和成长经历。用简短问题引导她具体化，避免抽象。保持自然口语，带点犹豫感。",
+        "reasoning": "用户现在处于中期阶段，需要深入理解困扰根源。刚才提到羞耻和愤怒后马上自我怀疑，这很关键。可以问她小时候家里怎么对待情绪，特别是被评论时的反应。这样能连接文化背景和成长经历。用简短问题引导她具体化，避免抽象。保持自然口语，带点犹豫感。"
+      }
+    }
+  ],
+  "created": 1795148452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2056,
+    "total_tokens": 2157,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

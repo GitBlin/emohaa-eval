@@ -1,0 +1,41 @@
+{
+  "id": "7a1b4c720d3345f0b87873e8a23123f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我可能还是选睡一会儿，别的都要准备，太累了。可孩子一哭我又会醒，十分钟真的有用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我可能还是选睡一会儿，别的都要准备，太累了。可孩子一哭我又会醒，十分钟真的有用吗？",
+        "reasoning": "（停顿）我可能还是选睡一会儿，别的都要准备，太累了。可孩子一哭我又会醒，十分钟真的有用吗？"
+      }
+    }
+  ],
+  "created": 1795153820,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3032,
+    "total_tokens": 3094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9d9c47bda0214817bc0d73c9cb91a27e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以练一下。不过我怕说出来像在审问他，语气上是不是得更软一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我练习具体化的表达，这让我觉得有点用，但又担心太刻意。我得先在心里过一遍，看看这样说会不会显得太生硬，或者让他觉得我在逼他。）\n（不过，比起以前那种憋着不说的状态，这样至少能让我自己不那么慌。我想试试，但可能需要再调整一下语气，让它听起来更自然。）",
+        "reasoning": "（咨询师建议我练习具体化的表达，这让我觉得有点用，但又担心太刻意。我得先在心里过一遍，看看这样说会不会显得太生硬，或者让他觉得我在逼他。）\n（不过，比起以前那种憋着不说的状态，这样至少能让我自己不那么慌。我想试试，但可能需要再调整一下语气，让它听起来更自然。）"
+      }
+    }
+  ],
+  "created": 1795142639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2774,
+    "total_tokens": 2872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

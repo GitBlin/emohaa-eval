@@ -1,0 +1,41 @@
+{
+  "id": "e290fa6951e54886a2cb36eab3ea6cdb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "暂停信号……我可能会先喝口水，或者去走廊站一会儿。听起来挺傻的，但也许比直接顶回去强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到“暂停信号”，这让我想到平时在教室里遇到学生闹腾时，自己会下意识数几秒再开口。这个办法或许也能用在家里。）\n（我有点犹豫要不要说出来，毕竟这听起来太简单了，但眼下确实需要个具体能抓住的东西。而且刚才聊到对妈妈发火的事，心里还堵着，说个实际的办法好像能让自己踏实点。）",
+        "reasoning": "（心理咨询师提到“暂停信号”，这让我想到平时在教室里遇到学生闹腾时，自己会下意识数几秒再开口。这个办法或许也能用在家里。）\n（我有点犹豫要不要说出来，毕竟这听起来太简单了，但眼下确实需要个具体能抓住的东西。而且刚才聊到对妈妈发火的事，心里还堵着，说个实际的办法好像能让自己踏实点。）"
+      }
+    }
+  ],
+  "created": 1795143091,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2870,
+    "total_tokens": 2985,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

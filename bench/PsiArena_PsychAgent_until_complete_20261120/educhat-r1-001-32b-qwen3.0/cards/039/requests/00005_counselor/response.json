@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-6e66187cdaec4b31bc831eb0577065ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好的，我们慢慢来。你提到“心里堵得慌”，能告诉我最近有没有什么特别的事情发生吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到睡眠问题和情绪压抑，需要逐步引导具体事件\n【行动策略】：通过提问了解具体情境，建立信任\n",
+        "reasoning_content": "\n【诊断分析】：识别到睡眠问题和情绪压抑，需要逐步引导具体事件\n【行动策略】：通过提问了解具体情境，建立信任\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155000,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 403,
+    "total_tokens": 464,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

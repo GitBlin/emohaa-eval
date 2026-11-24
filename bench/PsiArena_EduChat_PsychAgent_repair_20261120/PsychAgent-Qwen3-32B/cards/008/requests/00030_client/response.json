@@ -1,0 +1,41 @@
+{
+  "id": "e79b97f47c9944cf8236c95aa8ec9ddd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来是不那么冲……但我还是会担心，别人会不会觉得我太较真了。我好像总是先想别人怎么看我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我设想换一种说法……我有点心动，但又觉得哪有这么容易。组长会不会觉得我在挑战他？可这句话听起来确实没那么冲。也许我可以试试，但我还是担心别人会怎么看我。）",
+        "reasoning": "（她让我设想换一种说法……我有点心动，但又觉得哪有这么容易。组长会不会觉得我在挑战他？可这句话听起来确实没那么冲。也许我可以试试，但我还是担心别人会怎么看我。）"
+      }
+    }
+  ],
+  "created": 1795153675,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2507,
+    "total_tokens": 2580,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "168bd66f3fa04709bd33e0882d1ae3a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "主动说话……好吧，我尽量。不过万一我做不到，写“今天对同学笑了一下”也算吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试记录进步，还给了具体建议。但我心里还是有点发怵，觉得主动说话这件事对我来说太难了。我担心自己做不到，又不想让咨询师失望。）\n（也许可以先从更简单的事情开始，比如微笑或者眼神接触。这样既不会太有压力，也能慢慢练习。我得让咨询师知道我的顾虑，但又不想显得太退缩。）",
+        "reasoning": "（咨询师在鼓励我尝试记录进步，还给了具体建议。但我心里还是有点发怵，觉得主动说话这件事对我来说太难了。我担心自己做不到，又不想让咨询师失望。）\n（也许可以先从更简单的事情开始，比如微笑或者眼神接触。这样既不会太有压力，也能慢慢练习。我得让咨询师知道我的顾虑，但又不想显得太退缩。）"
+      }
+    }
+  ],
+  "created": 1795146795,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2508,
+    "total_tokens": 2617,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

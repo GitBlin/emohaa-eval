@@ -1,0 +1,41 @@
+{
+  "id": "3337947a6af2402da2a721f6f4bd2056",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都……有点吧。我也说不准，可能都有。你问这么细，是想给我下个什么判断吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我用几个词形容心境，还给了选项。我其实不太想被这样框住，但也说不清到底是哪种。好像都有，又好像都不是。我不想显得太配合，也不想把话说死。）\n（而且我有点担心，如果我说得太具体，会不会被追问下去。还是先含糊一点，反问一下，看看她会不会急着给我下结论。）",
+        "reasoning": "（咨询师问我用几个词形容心境，还给了选项。我其实不太想被这样框住，但也说不清到底是哪种。好像都有，又好像都不是。我不想显得太配合，也不想把话说死。）\n（而且我有点担心，如果我说得太具体，会不会被追问下去。还是先含糊一点，反问一下，看看她会不会急着给我下结论。）"
+      }
+    }
+  ],
+  "created": 1795148522,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1221,
+    "total_tokens": 1326,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

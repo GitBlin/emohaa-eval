@@ -1,0 +1,17 @@
+- Member's marriage ended last fall and things have not settled.
+- Member lives in a room over somebody's garage with one chair, a bed, and a bird feeder in the window.
+- Member stays at the office until 7 most nights to avoid being in the room.
+- Member's feet burn at night, diagnosed as neuropathy from diabetes, going on a few years, and nothing tried has done much.
+- Member sees a neurologist for the neuropathy.
+- Member said the neuropathy is what stopped them standing at the workbench.
+- Member has been bailing on Thursday nights at friend Ed's place for five weeks, where Ed has the member's whole train layout in his garage and keeps texting that the table is clear.
+- Member backs out on Thursdays because by then it has been a long day and it is easier not to go.
+- Member would be more likely to go if Ed called instead of texting, since a text is easy to dodge.
+- Member reacted against being asked about blood sugar numbers, saying they did not come to be lectured on numbers.
+- Member is willing to try a small adjustment for the feet if there is something to try, but has been through a few already.
+- Member said a chair that isn't the bed would make the room more bearable and that getting one is not the hard part.
+- Member said the real problem is getting from the parking lot to Ed's door, not staying once inside, since once the soldering iron is in hand they are fine and do not leave early.
+- Member said the phone is the whole problem: they sit with it in hand and twenty minutes later are driving home.
+- Member agreed to leave the phone in the car until inside with the soldering iron in hand.
+- Member rejected a text and said they need to hear Ed's voice and say it out loud or it won't stick.
+- [open] Member planned to call Ed from the car tonight to say they are coming tomorrow.

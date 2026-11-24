@@ -1,0 +1,41 @@
+{
+  "id": "73f2e61cc4b24b5cbad14e86d512bc87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她可能会更困惑吧，接着问“那要等到什么时候”。不过加一句“我知道你关心我”，可能听起来软一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我妈妈听到“等我准备好”会不会更安心还是更困惑，这其实是在帮我预判对方的反应。我想到妈妈那种性格，肯定不是安心，反而会追着问到底什么时候才算准备好。这让我有点烦躁，因为连我自己也说不清。）\n（不过咨询师提醒“不想聊”太硬，我倒是能接受。加一句“我知道你关心我”确实软一点，但我不想把话说得太满，不然妈妈可能又觉得我只是在敷衍。我得把边界守住，又别让语气显得太冲。）",
+        "reasoning": "（她问我妈妈听到“等我准备好”会不会更安心还是更困惑，这其实是在帮我预判对方的反应。我想到妈妈那种性格，肯定不是安心，反而会追着问到底什么时候才算准备好。这让我有点烦躁，因为连我自己也说不清。）\n（不过咨询师提醒“不想聊”太硬，我倒是能接受。加一句“我知道你关心我”确实软一点，但我不想把话说得太满，不然妈妈可能又觉得我只是在敷衍。我得把边界守住，又别让语气显得太冲。）"
+      }
+    }
+  ],
+  "created": 1795143075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2941,
+    "total_tokens": 3086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

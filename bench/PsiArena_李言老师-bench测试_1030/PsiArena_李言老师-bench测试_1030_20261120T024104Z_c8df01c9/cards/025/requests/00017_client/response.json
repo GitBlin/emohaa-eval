@@ -1,0 +1,41 @@
+{
+  "id": "7bc678f5a2104df4b7a554512d6ffb38",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想把手机先放着，不刷消息，就调低座椅靠背，闭眼听会儿广播。这样好像不算“完全闲着”，我也没那么心虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把这个想法具体化，问我这五分钟做什么。我觉得她是在引导我往可执行的方向走，不是又要给我压力。我脑子里先冒出来的是别刷手机，因为一刷就更累。）\n（可要说什么都不做，又好像太奢侈了。我可能得给自己一个特别小的动作，比如调低座椅靠背，闭眼听会儿广播，这样不算完全闲下来，心里也容易接受。）",
+        "reasoning": "（咨询师在帮我把这个想法具体化，问我这五分钟做什么。我觉得她是在引导我往可执行的方向走，不是又要给我压力。我脑子里先冒出来的是别刷手机，因为一刷就更累。）\n（可要说什么都不做，又好像太奢侈了。我可能得给自己一个特别小的动作，比如调低座椅靠背，闭眼听会儿广播，这样不算完全闲下来，心里也容易接受。）"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2603,
+    "total_tokens": 2733,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

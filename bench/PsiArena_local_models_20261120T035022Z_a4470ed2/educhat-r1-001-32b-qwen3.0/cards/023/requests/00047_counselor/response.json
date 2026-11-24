@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-37c782ceed764669a6ac1d39e36825ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我们可以试试“情绪温度计”——当感到情绪升温时，用1-10分评估自己的状态。如果超过6分，就给自己一个暂停信号，比如摸摸手腕。你愿意试试吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者已初步建立自我调节意识，需强化具体行为技术。\n【行动策略】：提供“情绪温度计”可视化工具，增强自我觉察。\n【沟通要点】：肯定现有改变，引导将抽象概念转化为可操作步骤。\n",
+        "reasoning_content": "\n【诊断分析】：来访者已初步建立自我调节意识，需强化具体行为技术。\n【行动策略】：提供“情绪温度计”可视化工具，增强自我觉察。\n【沟通要点】：肯定现有改变，引导将抽象概念转化为可操作步骤。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148604,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2987,
+    "total_tokens": 3093,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

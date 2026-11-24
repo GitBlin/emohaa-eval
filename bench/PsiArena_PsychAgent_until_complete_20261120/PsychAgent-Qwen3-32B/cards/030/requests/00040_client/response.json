@@ -1,0 +1,41 @@
+{
+  "id": "fa4c6fc6fd9d4ce9b4ebcd6ea5c4f762",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……如果他能“嗯”一声，或者笑一下，我可能就会好受一点。但要是完全没反应，我可能又会开始乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户担心讲趣事时对方没反应，需要区分“回应”和“共鸣”的区别，并探索最低可接受的反应。）",
+        "reasoning": "（用户担心讲趣事时对方没反应，需要区分“回应”和“共鸣”的区别，并探索最低可接受的反应。）"
+      }
+    }
+  ],
+  "created": 1795154563,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2876,
+    "total_tokens": 2940,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

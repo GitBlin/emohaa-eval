@@ -1,0 +1,41 @@
+{
+  "id": "b8c4557add634730a9d619595f716bc7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在这个城市……说不上安心吧，但至少是我自己选的。我想试着不再老拿过去的事折磨自己了，可又不知道第一步该怎么走。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段，需要开始探索解决方案和行动计划。但也要先回应咨询师关于城市的问题，然后跳到具体行动计划。保持简短，2-3句，口语化，带一点犹豫。）",
+        "reasoning": "（后期阶段，需要开始探索解决方案和行动计划。但也要先回应咨询师关于城市的问题，然后跳到具体行动计划。保持简短，2-3句，口语化，带一点犹豫。）"
+      }
+    }
+  ],
+  "created": 1795154914,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2550,
+    "total_tokens": 2626,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

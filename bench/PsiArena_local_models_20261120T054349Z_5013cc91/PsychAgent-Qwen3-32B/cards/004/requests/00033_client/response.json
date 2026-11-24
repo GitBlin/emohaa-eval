@@ -1,0 +1,41 @@
+{
+  "id": "b7c9ad9f0cd24d4ea5453a9791b2e40d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了很久，声音有点犹豫）我想让老师先别让他们再堵我……可我又怕老师一说话，他们就知道是我告的状。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者开始具体化探索方案，需要回应一个问题，并保持简短。可以思考希望老师先做什么，以及自己的担心。）",
+        "reasoning": "（来访者开始具体化探索方案，需要回应一个问题，并保持简短。可以思考希望老师先做什么，以及自己的担心。）"
+      }
+    }
+  ],
+  "created": 1795153613,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2697,
+    "total_tokens": 2759,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

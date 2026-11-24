@@ -1,0 +1,41 @@
+{
+  "id": "4d284d163d3b46a097c5b72d2cf34dc6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我试试把它当练习……不过能不能再简单一点？比如先只做一次深呼吸，或者先在心里说一句“我现在有点难受”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在提醒我别把练习当成考试，这让我稍微松了口气。可我确实担心自己会搞砸，尤其是当众情绪上来的时候。也许我可以先问清楚，如果做不到该怎么调整，而不是直接否定自己。）\n（我想把这种不安说出来，但又不想显得太软弱。毕竟咨询师一直在鼓励我，我也该试着配合。先问问有没有更简单的办法，这样至少能让我觉得有退路。）",
+        "reasoning": "（咨询师在提醒我别把练习当成考试，这让我稍微松了口气。可我确实担心自己会搞砸，尤其是当众情绪上来的时候。也许我可以先问清楚，如果做不到该怎么调整，而不是直接否定自己。）\n（我想把这种不安说出来，但又不想显得太软弱。毕竟咨询师一直在鼓励我，我也该试着配合。先问问有没有更简单的办法，这样至少能让我觉得有退路。）"
+      }
+    }
+  ],
+  "created": 1795155207,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3104,
+    "total_tokens": 3224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

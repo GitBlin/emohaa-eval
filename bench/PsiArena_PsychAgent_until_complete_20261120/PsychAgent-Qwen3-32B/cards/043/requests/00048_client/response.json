@@ -1,0 +1,41 @@
+{
+  "id": "ef038c450a0f4b958651336b4dd94517",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯，那就先这样试试。要是哪天又躲了，也别太苛责自己，就记下来，下次再试一次就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（认真回想）课间不躲，先问她作业；本子上写那两句话提醒自己；然后每天记一下乱想是轻、中还是重。（抬眼）我觉得……可以先这样。",
+        "reasoning": "（认真回想）课间不躲，先问她作业；本子上写那两句话提醒自己；然后每天记一下乱想是轻、中还是重。（抬眼）我觉得……可以先这样。"
+      }
+    }
+  ],
+  "created": 1795155026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3407,
+    "total_tokens": 3483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

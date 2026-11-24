@@ -1,0 +1,41 @@
+{
+  "id": "8f50bc1dce6a4e8faf1f1823364f30a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……手机备忘录可以，我老看手机。那绿色的时候，我该说什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）嗯……手机备忘录可以，我老看手机。那绿色的时候……我该说什么？",
+        "reasoning": "（想了想）嗯……手机备忘录可以，我老看手机。那绿色的时候……我该说什么？"
+      }
+    }
+  ],
+  "created": 1795154874,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 3239,
+    "total_tokens": 3282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

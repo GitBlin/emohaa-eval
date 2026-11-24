@@ -1,0 +1,41 @@
+{
+  "id": "144ab8c26b384ac8b7ae09f936cb791b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我听到你在练习时更稳了一点，也仍然担心他的反应。我们可以准备一个“如果被冷脸”后的自我照顾动作，比如离开两分钟、喝口水、给朋友发条消息。你想选哪个？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我现在很难受，但这不是我一个人的错……我这会儿很难受，你愿意看我一眼吗。好像没那么冲了，但我还是怕他冷着脸。",
+        "reasoning": "（停顿）我现在很难受，但这不是我一个人的错……我这会儿很难受，你愿意看我一眼吗。好像没那么冲了，但我还是怕他冷着脸。"
+      }
+    }
+  ],
+  "created": 1795153977,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3174,
+    "total_tokens": 3259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 37,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "055b02180fae4d9f88d7764388675807",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“先问小声的我”……这句我能记住。停一下再决定，好像比直接讨好要容易点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这轮已经重复问了，我需要回应这个提醒句是否可用。）",
+        "reasoning": "（这轮已经重复问了，我需要回应这个提醒句是否可用。）"
+      }
+    }
+  ],
+  "created": 1795147547,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 3028,
+    "total_tokens": 3069,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 16,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

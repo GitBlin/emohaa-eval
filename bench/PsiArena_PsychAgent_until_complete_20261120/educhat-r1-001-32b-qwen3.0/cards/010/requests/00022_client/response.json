@@ -1,0 +1,41 @@
+{
+  "id": "f412f23474b346959e3bed1a6167869d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "朋友……我现在连跟同学说话都觉得累。他们聊学习的时候我插不上嘴，感觉就我一个人在原地踏步。那个同学还老在旁边说泄气话，我更不想开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师又提到找朋友支持……可我现在连同学都不想多说话，更别说交心了。他是不是觉得我很容易就能找到人帮忙？这让我有点烦躁。）\n（不过他说到表达感受，我倒是想起那个同学的事。每次他假惺惺地说自己没复习，我其实特别想戳穿他，但又怕显得自己小心眼。这种憋着的感觉真难受。）",
+        "reasoning": "（心理咨询师又提到找朋友支持……可我现在连同学都不想多说话，更别说交心了。他是不是觉得我很容易就能找到人帮忙？这让我有点烦躁。）\n（不过他说到表达感受，我倒是想起那个同学的事。每次他假惺惺地说自己没复习，我其实特别想戳穿他，但又怕显得自己小心眼。这种憋着的感觉真难受。）"
+      }
+    }
+  ],
+  "created": 1795153778,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1783,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

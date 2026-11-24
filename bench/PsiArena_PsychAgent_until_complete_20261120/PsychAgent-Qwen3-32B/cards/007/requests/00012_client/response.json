@@ -1,0 +1,41 @@
+{
+  "id": "7f7edbab9c9144409effcbe71bde0308",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好的，那算了。我就是随口问问。那……我试着记一下吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师拒绝了我加微信的请求，还说要保持专业边界……我其实有点尴尬，但也理解。毕竟第一次见面，我确实不该这么冒失。不过她好像没有生气，还建议我记录困扰，这让我稍微放松了一点。我可能得先顺着这个台阶下，别让气氛太僵。）",
+        "reasoning": "（刚才咨询师拒绝了我加微信的请求，还说要保持专业边界……我其实有点尴尬，但也理解。毕竟第一次见面，我确实不该这么冒失。不过她好像没有生气，还建议我记录困扰，这让我稍微放松了一点。我可能得先顺着这个台阶下，别让气氛太僵。）"
+      }
+    }
+  ],
+  "created": 1795153619,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1425,
+    "total_tokens": 1514,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

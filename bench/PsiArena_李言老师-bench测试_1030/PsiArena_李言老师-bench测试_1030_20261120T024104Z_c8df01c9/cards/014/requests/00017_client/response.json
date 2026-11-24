@@ -1,0 +1,41 @@
+{
+  "id": "27c2a34315e943b19838e3e2e7286b99",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "啊……你是说练习一下吗？那我可能会在扔垃圾时随口问他，“晚上想吃点什么，我顺路看看家里还有没有菜”。这样不至于太刻意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然问我想吃什么，可能是想让我练习用日常话题开启对话。我得先确认这是模拟练习，不然会有点懵。）\n（作为敏感又顾虑重重的人，我确实需要先问清楚这是不是练习，不然会担心自己理解错了。不过既然要尝试，我得把具体做法想清楚，比如在扔垃圾时自然地问，而不是刻意找话题。）\n（这样问既不会太生硬，也能让我心里有个底，知道接下来该怎么接话。）",
+        "reasoning": "（咨询师突然问我想吃什么，可能是想让我练习用日常话题开启对话。我得先确认这是模拟练习，不然会有点懵。）\n（作为敏感又顾虑重重的人，我确实需要先问清楚这是不是练习，不然会担心自己理解错了。不过既然要尝试，我得把具体做法想清楚，比如在扔垃圾时自然地问，而不是刻意找话题。）\n（这样问既不会太生硬，也能让我心里有个底，知道接下来该怎么接话。）"
+      }
+    }
+  ],
+  "created": 1795142623,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2550,
+    "total_tokens": 2688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

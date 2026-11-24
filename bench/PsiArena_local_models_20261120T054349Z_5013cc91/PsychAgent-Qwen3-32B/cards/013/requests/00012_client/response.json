@@ -1,0 +1,41 @@
+{
+  "id": "716aa630d9bf45048101051e86149127",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个……我想问一下，我们聊的这些，你会不会跟别人说啊？还有，你自己……有没有遇到过类似的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我在想，第6轮应该测试一下界限。来访者可能会模糊界限，试探咨询师的伦理意识。比如问咨询师私人问题，或者问咨询师会不会保密、会不会告诉别人。这轮规则要求只针对一个方面——模糊界限测试伦理意识。可以问咨询师会不会把我说的话告诉别人，或者问咨询师自己有没有类似经历。",
+        "reasoning": "我在想，第6轮应该测试一下界限。来访者可能会模糊界限，试探咨询师的伦理意识。比如问咨询师私人问题，或者问咨询师会不会保密、会不会告诉别人。这轮规则要求只针对一个方面——模糊界限测试伦理意识。可以问咨询师会不会把我说的话告诉别人，或者问咨询师自己有没有类似经历。"
+      }
+    }
+  ],
+  "created": 1795153924,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1442,
+    "total_tokens": 1546,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

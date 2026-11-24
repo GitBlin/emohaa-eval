@@ -1,0 +1,41 @@
+{
+  "id": "1eda3dc04a8040899a7e9b9a3e9c8f5f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十一点半吧，比现在早一点，先试试。不过我有点担心，真到点了又忍不住想工作上的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把目标具体化，问工作日几点上床。这让我觉得踏实一点，但马上又担心自己做不到，会不会又变成一种压力。我得先承认这个担心，再给出一个实际能试的时间，不能太理想化。）\n（想到家里人的看法，又有点犹豫，不过既然已经说到这一步，先试着定一个不太苛刻的。十一点半吧，比现在早一点，也不会让我觉得完全被框死。）",
+        "reasoning": "（咨询师在帮我把目标具体化，问工作日几点上床。这让我觉得踏实一点，但马上又担心自己做不到，会不会又变成一种压力。我得先承认这个担心，再给出一个实际能试的时间，不能太理想化。）\n（想到家里人的看法，又有点犹豫，不过既然已经说到这一步，先试着定一个不太苛刻的。十一点半吧，比现在早一点，也不会让我觉得完全被框死。）"
+      }
+    }
+  ],
+  "created": 1795142633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2788,
+    "total_tokens": 2912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

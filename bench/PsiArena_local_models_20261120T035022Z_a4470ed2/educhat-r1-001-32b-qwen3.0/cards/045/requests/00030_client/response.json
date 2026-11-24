@@ -1,0 +1,41 @@
+{
+  "id": "e59f1d3a755744fe9899e907f8be69b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）像小时候考了98分，爸妈却只问那2分丢在哪里的感觉。（停顿）不对，比那个更难受……是我自己明明知道不该这样，却停不下来，然后就更讨厌自己了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我委屈的感觉像什么……这个问题让我有点不知所措。我从来没仔细想过该怎么形容这种感觉，它就像一团乱麻堵在胸口。）\n（也许可以试着用比喻来描述？就像小时候那种被忽视的感觉，但又不太一样。现在更像是自己给自己套上了枷锁，明明知道不该这样却停不下来。这种自我责备的感觉特别强烈，好像有两个我在打架。）",
+        "reasoning": "（咨询师问我委屈的感觉像什么……这个问题让我有点不知所措。我从来没仔细想过该怎么形容这种感觉，它就像一团乱麻堵在胸口。）\n（也许可以试着用比喻来描述？就像小时候那种被忽视的感觉，但又不太一样。现在更像是自己给自己套上了枷锁，明明知道不该这样却停不下来。这种自我责备的感觉特别强烈，好像有两个我在打架。）"
+      }
+    }
+  ],
+  "created": 1795150174,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2304,
+    "total_tokens": 2433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

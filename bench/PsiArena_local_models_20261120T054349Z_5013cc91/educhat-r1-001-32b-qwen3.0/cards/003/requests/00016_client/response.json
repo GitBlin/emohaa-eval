@@ -1,0 +1,41 @@
+{
+  "id": "eb88c3294d4b40ae9ba95a94dcf2da29",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）我想说……别总是一个人憋着。其实你挺想跟别人玩的，对吧？那时候……唉，算了，说这些也没什么用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到原生家庭的影响，还让我对小时候的自己说话...这让我有点意外，没想到会这么快触及到家庭的部分。不过她问得挺温和的，没有让我觉得被逼问。）\n（我确实很少跟别人说家里的事，但刚才提到爸妈只在意成绩的时候，好像有什么东西被触动了。那个缩在角落不敢说话的小女孩，其实一直在我心里吧。说“辛苦”的时候鼻子有点酸，但说出来反而轻松了一点。）",
+        "reasoning": "（心理咨询师提到原生家庭的影响，还让我对小时候的自己说话...这让我有点意外，没想到会这么快触及到家庭的部分。不过她问得挺温和的，没有让我觉得被逼问。）\n（我确实很少跟别人说家里的事，但刚才提到爸妈只在意成绩的时候，好像有什么东西被触动了。那个缩在角落不敢说话的小女孩，其实一直在我心里吧。说“辛苦”的时候鼻子有点酸，但说出来反而轻松了一点。）"
+      }
+    }
+  ],
+  "created": 1795153454,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1475,
+    "total_tokens": 1610,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

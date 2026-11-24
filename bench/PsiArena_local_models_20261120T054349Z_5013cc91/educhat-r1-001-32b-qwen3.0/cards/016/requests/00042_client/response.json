@@ -1,0 +1,41 @@
+{
+  "id": "5ba4bf345c2b44af9a069947bc80d9ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想可以试试。（停顿）不过我有点担心，坚持不下来。我好像很久没有为自己好好做过一件事了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试散步，这让我有点意外，原来这么小的事也可以算作改变。我确实很久没为自己做点什么了，心里有点松动，但又担心自己坚持不下来。）\n（想到要面对家里那些事，还是觉得沉重，可如果连散步都做不到，我是不是更没用？也许可以先答应着，走一步看一步。）",
+        "reasoning": "（咨询师在鼓励我尝试散步，这让我有点意外，原来这么小的事也可以算作改变。我确实很久没为自己做点什么了，心里有点松动，但又担心自己坚持不下来。）\n（想到要面对家里那些事，还是觉得沉重，可如果连散步都做不到，我是不是更没用？也许可以先答应着，走一步看一步。）"
+      }
+    }
+  ],
+  "created": 1795154084,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2778,
+    "total_tokens": 2881,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-21cc531f529c4784b33a0b33be78e398",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询过程中，我们需要遵守一些规则，比如尊重彼此、保密原则等，你有什么需要咨询的问题吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户对咨询流程存在疑问，需要明确规则以建立信任。\n【行动策略】：简要说明规则并询问具体问题。\n",
+        "reasoning_content": "\n【诊断分析】：用户对咨询流程存在疑问，需要明确规则以建立信任。\n【行动策略】：简要说明规则并询问具体问题。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146693,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 280,
+    "total_tokens": 340,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

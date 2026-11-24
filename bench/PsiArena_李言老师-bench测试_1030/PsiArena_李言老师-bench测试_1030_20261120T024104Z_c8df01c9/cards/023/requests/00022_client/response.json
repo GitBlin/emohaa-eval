@@ -1,0 +1,41 @@
+{
+  "id": "ed5ef1f6843c4a868d9773e632789484",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试接电话前先吸一口气，别急着回嘴。还有……如果我真又吵起来了，我希望能记下来，下次跟你说说，而不是自己一个人闷着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有因为我可能搞砸就否定我，这让我稍微松了口气。她问我想尝试哪一小步，我得想想具体能做到什么。接电话前先吸一口气，这个好像比停三秒容易些，至少不用立刻控制住情绪。不过我还是有点担心，万一连这个都做不到，是不是又证明我真的很没用。但既然她问了，我就先挑这个最轻的试试吧，反正先别给自己太大压力。）\n（另外，我也意识到光靠我自己硬撑可能不够，之前总是一个人憋着，越想越乱。也许下次可以跟咨询师说说，让她帮我看看我是不是又回到老路上了。这样至少不是我一个人面对，虽然开口求助还是有点别扭。）",
+        "reasoning": "（咨询师没有因为我可能搞砸就否定我，这让我稍微松了口气。她问我想尝试哪一小步，我得想想具体能做到什么。接电话前先吸一口气，这个好像比停三秒容易些，至少不用立刻控制住情绪。不过我还是有点担心，万一连这个都做不到，是不是又证明我真的很没用。但既然她问了，我就先挑这个最轻的试试吧，反正先别给自己太大压力。）\n（另外，我也意识到光靠我自己硬撑可能不够，之前总是一个人憋着，越想越乱。也许下次可以跟咨询师说说，让她帮我看看我是不是又回到老路上了。这样至少不是我一个人面对，虽然开口求助还是有点别扭。）"
+      }
+    }
+  ],
+  "created": 1795143122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 188,
+    "prompt_tokens": 3199,
+    "total_tokens": 3387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

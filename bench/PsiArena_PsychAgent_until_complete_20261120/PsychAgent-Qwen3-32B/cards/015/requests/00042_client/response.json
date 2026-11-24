@@ -1,0 +1,41 @@
+{
+  "id": "3bce43f8046c49d18ddab023cddf42f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来……比我冷着脸好一点。但我还是担心，他一拒绝，我又会缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说怕被拒绝，现在咨询师给了更小的版本和“如果他拒绝就照顾自己”的约定。我有点动心，但也担心自己做不到。先表达犹豫，再承认这个办法比之前的冷脸好一点。）",
+        "reasoning": "（她刚才说怕被拒绝，现在咨询师给了更小的版本和“如果他拒绝就照顾自己”的约定。我有点动心，但也担心自己做不到。先表达犹豫，再承认这个办法比之前的冷脸好一点。）"
+      }
+    }
+  ],
+  "created": 1795153995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2945,
+    "total_tokens": 3018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

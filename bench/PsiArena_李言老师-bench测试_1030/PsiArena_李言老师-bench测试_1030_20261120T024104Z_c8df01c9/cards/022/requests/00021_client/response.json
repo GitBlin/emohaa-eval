@@ -1,0 +1,41 @@
+{
+  "id": "8884187df49b424784355c2b4c4ce124",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "数到五吧，给自己一点缓冲。（犹豫）不过我有点担心，数完了我还是不知道该怎么开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体数到几，这是在帮我落实一个可操作的细节。我想了想，三太短，五可能更稳一点，能让我稍微缓过来再说话。）\n（不过我也担心自己到时候根本做不到，这种担心得说出来，不然好像答应了却做不到，反而又变成自我责怪的理由。）",
+        "reasoning": "（咨询师在问我具体数到几，这是在帮我落实一个可操作的细节。我想了想，三太短，五可能更稳一点，能让我稍微缓过来再说话。）\n（不过我也担心自己到时候根本做不到，这种担心得说出来，不然好像答应了却做不到，反而又变成自我责怪的理由。）"
+      }
+    }
+  ],
+  "created": 1795143032,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3002,
+    "total_tokens": 3093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

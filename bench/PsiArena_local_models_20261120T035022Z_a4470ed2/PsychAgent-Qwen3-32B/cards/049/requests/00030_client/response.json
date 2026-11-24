@@ -1,0 +1,41 @@
+{
+  "id": "a9796e6b1eb649aaad88c0d7b25dbb77",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它就让我反复改，明明差不多了也停不下来。我想试试不马上顺着它，但又怕一放松就出错……你觉得我可以从哪儿开始？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把那个“紧”和过去连起来了，我好像第一次看清这个模式。工作里的决定……对，每次都是它先冒出来，让我反复改来改去，怕出错。我是不是可以试着不马上顺着它？但真要说怎么做，我又有点没底。）",
+        "reasoning": "（咨询师把那个“紧”和过去连起来了，我好像第一次看清这个模式。工作里的决定……对，每次都是它先冒出来，让我反复改来改去，怕出错。我是不是可以试着不马上顺着它？但真要说怎么做，我又有点没底。）"
+      }
+    }
+  ],
+  "created": 1795148851,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2382,
+    "total_tokens": 2477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f8c65f78e7df4f17a07f9a8d548d5bad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试了一下……说“我注意到有个‘果然不行’的想法”的时候，好像稍微没那么压了。但很快又觉得，这不还是自欺欺人吗。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户需要我以角色身份回应第15轮，中期阶段。咨询师引导我尝试认知解离练习，用“我注意到有个‘果然不行’的想法”来描述它，并观察感觉是更轻还是仍然沉重。我需要简短回应，表现犹豫、真实情感，可能有点不确定或轻微变化。保持2-3句。",
+        "reasoning": "用户需要我以角色身份回应第15轮，中期阶段。咨询师引导我尝试认知解离练习，用“我注意到有个‘果然不行’的想法”来描述它，并观察感觉是更轻还是仍然沉重。我需要简短回应，表现犹豫、真实情感，可能有点不确定或轻微变化。保持2-3句。"
+      }
+    }
+  ],
+  "created": 1795146778,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2606,
+    "total_tokens": 2715,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

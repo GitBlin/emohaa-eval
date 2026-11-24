@@ -1,0 +1,41 @@
+{
+  "id": "f4fe8c6774234b5399cf3540c9a39d9d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……前阵子家庭聚会吧。哎，对了，老师，你自己跟家里人关系好吗？会不会也有这种烦的时候？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺细的，想让我回忆具体场景。但我现在还没准备好把那些事摊开来说，感觉一碰就会乱。而且……我想试试她到底会怎么应对，如果我把话题往她身上引，她会不会像朋友那样顺着聊下去？）\n（这样问也许有点突兀，但我就想知道她会不会越界。毕竟我平时跟人相处也常常搞不清界限在哪，先看看她怎么反应吧。）",
+        "reasoning": "（咨询师问得挺细的，想让我回忆具体场景。但我现在还没准备好把那些事摊开来说，感觉一碰就会乱。而且……我想试试她到底会怎么应对，如果我把话题往她身上引，她会不会像朋友那样顺着聊下去？）\n（这样问也许有点突兀，但我就想知道她会不会越界。毕竟我平时跟人相处也常常搞不清界限在哪，先看看她怎么反应吧。）"
+      }
+    }
+  ],
+  "created": 1795143026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1180,
+    "total_tokens": 1304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

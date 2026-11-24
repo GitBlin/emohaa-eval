@@ -1,0 +1,41 @@
+{
+  "id": "3dfd6c9baabf46e0b2ce5e6d916e7d54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是“我是不是不够好”吧。……我家里一直说要会跟人打交道，朋友多才有出息，我好像从小就被这么念。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是那条最常出现的念头……其实我心里一直有句话，但说出来有点难为情。可能跟小时候有关吧，家里总说要会来事、多交朋友，不然就是不合群。我好像一直怕自己“不够好”，怕被落下。）",
+        "reasoning": "（她问的是那条最常出现的念头……其实我心里一直有句话，但说出来有点难为情。可能跟小时候有关吧，家里总说要会来事、多交朋友，不然就是不合群。我好像一直怕自己“不够好”，怕被落下。）"
+      }
+    }
+  ],
+  "created": 1795146831,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2351,
+    "total_tokens": 2442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

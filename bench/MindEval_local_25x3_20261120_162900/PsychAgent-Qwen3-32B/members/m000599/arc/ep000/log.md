@@ -1,0 +1,16 @@
+- Member is 50, divorced after 22 years of marriage, with no children; separated a year before the divorce finalized in spring.
+- Member seeks help getting back to a normal life, saying the divorce is still affecting them months after it finalized.
+- Weekends are the hardest time, and Member fills them with overtime and paperwork to avoid unplanned downtime.
+- Member took overtime partly for genuine financial reasons — savings took a hit from the house buyout.
+- Member reports no prior depression or anxiety and has never sought help before; this is the first time they have called anyone.
+- Member mostly feels tired when they finally stop for the day and goes straight to bed.
+- Member lives alone in the house post-divorce and describes the solitude as "the whole problem."
+- Member does some gardening but planted nothing this year, mostly pulling weeds that don't need pulling.
+- Member belongs to a book club they have stopped attending; a woman from it texted that the club picked Member's book and that Member's chair is still there, and Member has not replied.
+- Member cannot answer the book club friend because they don't know what to say back.
+- Member lets their sister's Sunday calls ring and texts her afterward; the sister keeps calling.
+- Good days for Member are full work shifts, where they are competent and solve everyone's problems; energy is lower than before the divorce.
+- Member notices the shift from busy to alone on coming in the door after a full shift, and downplays it as "not a big deal."
+- Member's sleep is disrupted, waking around 4 a.m. regardless of need; appetite is fine.
+- Member declined scheduled weekly calls but agreed to optional calls and messaging at their own pace.
+- [open] Member agreed to message the counsellor as needed rather than commit to scheduled calls; no contact since has been reported.

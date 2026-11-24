@@ -1,0 +1,41 @@
+{
+  "id": "d414bf4b02864adfac8ceeb23e17fce2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "够用，越短越容易在那一刻想起来。我把它和“绕楼下走一圈”连起来：回家前走一圈，进门后看到“先停一下”，先做两次慢呼吸。你觉得这个顺序顺不顺？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户说“先停一下”四个字够用吗，我回应了。这是第21轮，后期阶段，目标是探索解决方案并明确行动计划。我应该简短，2-3句，情绪稳定。可以继续细化或总结。不能太早说谢谢再见。可以问是否愿意把“先停一下”和30秒、走一圈组合起来，形成回家前和回家后的两个小步骤。保持口语化。",
+        "reasoning": "用户说“先停一下”四个字够用吗，我回应了。这是第21轮，后期阶段，目标是探索解决方案并明确行动计划。我应该简短，2-3句，情绪稳定。可以继续细化或总结。不能太早说谢谢再见。可以问是否愿意把“先停一下”和30秒、走一圈组合起来，形成回家前和回家后的两个小步骤。保持口语化。"
+      }
+    }
+  ],
+  "created": 1795154340,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 3213,
+    "total_tokens": 3352,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

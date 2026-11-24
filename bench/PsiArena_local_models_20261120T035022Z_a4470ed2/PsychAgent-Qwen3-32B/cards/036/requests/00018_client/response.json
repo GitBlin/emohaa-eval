@@ -1,0 +1,41 @@
+{
+  "id": "dcf03de44c564ec0850c47d6fc9dc192",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我其实想说的是“我想过去帮他”，但又会马上想“别人会怎么看我”。就，很矛盾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用一句话表达当时的自我对话……我其实有点说不出口，但那个画面一出来，心里就揪着。我可能更在意别人怎么看我，怕自己多管闲事被当成异类，所以每次想上前都缩回去了。）",
+        "reasoning": "（咨询师让我用一句话表达当时的自我对话……我其实有点说不出口，但那个画面一出来，心里就揪着。我可能更在意别人怎么看我，怕自己多管闲事被当成异类，所以每次想上前都缩回去了。）"
+      }
+    }
+  ],
+  "created": 1795147916,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 1680,
+    "total_tokens": 1763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

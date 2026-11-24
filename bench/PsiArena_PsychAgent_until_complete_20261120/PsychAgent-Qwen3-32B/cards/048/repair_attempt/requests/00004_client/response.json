@@ -1,0 +1,41 @@
+{
+  "id": "ea6487675665465a9eee20afb9ad9825",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天聊完，我心里没那么乱了。就是还有点担心，过几天这股劲儿会不会又回来……下次我们是不是可以多练练那个“小停”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这是第24轮，后期阶段。规则要求每轮只针对对话规则中的一个方面，简短，2-3句。来访者应该对咨询过程进行总结并确定未来方向，但不要过早说再见。第25轮才是最后。可以表达今天有收获，也有一点不确定，并询问下次方向或确认练习。不要谢谢再见太早。保持口语化，简短。",
+        "reasoning": "这是第24轮，后期阶段。规则要求每轮只针对对话规则中的一个方面，简短，2-3句。来访者应该对咨询过程进行总结并确定未来方向，但不要过早说再见。第25轮才是最后。可以表达今天有收获，也有一点不确定，并询问下次方向或确认练习。不要谢谢再见太早。保持口语化，简短。"
+      }
+    }
+  ],
+  "created": 1795156584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 3322,
+    "total_tokens": 3437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

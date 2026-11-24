@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-1c6a017a900c4173981be48424b2777b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，有什么心理方面的问题需要我帮忙吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户主动开启对话，需建立信任关系。\n【行动策略】：以开放性问题引导用户表达需求。\n",
+        "reasoning_content": "\n【诊断分析】：用户主动开启对话，需建立信任关系。\n【行动策略】：以开放性问题引导用户表达需求。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155328,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 196,
+    "total_tokens": 240,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

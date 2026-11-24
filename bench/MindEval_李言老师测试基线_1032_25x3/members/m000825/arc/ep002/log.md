@@ -1,0 +1,30 @@
+- Member avoids Ed's door because Ed asks how he's doing and Member doesn't want to be pitied for living over a garage with little to report.
+- Ed texts every week saying the table's clear and has not stopped asking.
+- Member's goal is to walk in Ed's door next Thursday instead of talking himself out of it in the lot.
+- Member loses it at the point of getting out of the car, and the reasons to turn around (bad night, Ed's wife busy) sit on top of the worry about having nothing to say.
+- Member knows there's rarely silence in Ed's garage — they argue about a turnout — so the silence he braces for isn't what happens there.
+- Member plans to text Ed ahead of time: "I'm coming Thursday, don't give my spot away," with no maybe in it, because a promise makes not showing worse than showing.
+- Member expects to spend the week finding reasons not to go, and expects his feet to be the first half-true reason after a bad night.
+- Member sent the text to Ed before Tuesday.
+- Member decided in advance that a bad night does not count as a reason to skip Thursday.
+- Member's plan for Thursday is to park, get out, close the door and walk up — not sit with the engine off for twenty minutes.
+- Member went to Ed's Thursday, spent forty minutes in the garage, and it was fine.
+- Member was up at four in the morning after the Ed visit, burning in both feet since midnight, sorting matchbooks in the dark.
+- Member reports the burning has been worse all week, starting with the drive out to Ed's, and attributes it to sitting in the car with his feet down for half an hour.
+- Member finds walking around the room for a few minutes knocks the burning back some; cold floors make it worse.
+- Member has about three feet of rug by the bed before the floorboards.
+- Member agreed to put his feet on the rug tonight without marching, then report back if the burning is still bad after a few minutes. [open]
+- Member moved his neurology appointment to the fall because it landed on the same day as a release review, and kept the review.
+- Member's neurology care has been the same prescription and a six-month return for three years since an initial nerve study.
+- Member wants the fall appointment to answer why the burning got worse this year and why it is now every night, and plans to write that question on an index card and hand it to the neurologist before he starts typing. [open]
+- A pipe burst over the room Monday night; there is a bucket mid-floor, the ceiling is torn open, the rug is under a tarp, and the landlord says a plumber may come Thursday.
+- Member's release review is Thursday at 2; he told the landlord he'd be home either way and expects the review to be the thing squeezed.
+- Member plans to open the review with "Plumber's got a window this afternoon, I may step out for ten minutes. Nothing you need from me in that stretch" — a logistics note, not an apology — rather than sitting with his phone face up waiting for a call.
+- Member confirmed the line is true: he's read the release notes, the juniors walk it through, and he's there for end-of-review questions, so a drifting plumber window could eat that Q&A.
+- Member has no plumber's number, only a landlord who answers texts same-day but commits to nothing, and will text Thursday morning to ask for the plumber's number or for the plumber to ring 20 minutes out. [open]
+- Member says the review is manageable now; what's unsettled is the rest of Thursday — the room's displacement (feeder on the floor since Monday, rug under a tarp) stays after the plumber patches the ceiling, and an hour of putting things back would mostly settle it.
+- Member's objection to the tarp is being read through it — not a stranger's judgment but the risk of someone he turns out to care about walking in and having the room explain him before he speaks; it's the being caught mid-repair, not the room's appearance.
+- The feeder is pain-limited, not avoided: it hangs outside the wet window and rehanging it means standing at the torn-open wall reaching out, and a minute or two on a cold wet floor is his limit on a bad night.
+- The floor outside the tarp is dry; member has work boots by the door and will put them on, use a broom handle so he isn't leaning over the opening, and rehang the feeder when he has the minute. [open]
+- Member declined routing a feeder request to the plumber through the landlord as too much traffic, and will instead ask the plumber at the door Thursday only if it's easy, otherwise wait.
+- Member's Thursday also holds Ed's table at seven, and he won't skip it over the plumber but doesn't yet know whether he'll be sitting in a wet room waiting on a plumber who may not show. [open]

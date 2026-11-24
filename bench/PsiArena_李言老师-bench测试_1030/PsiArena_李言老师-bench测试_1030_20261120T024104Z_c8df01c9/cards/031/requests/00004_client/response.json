@@ -1,0 +1,41 @@
+{
+  "id": "68d6311211f14d088583588fef62c8e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "场景啊……嗯，就是有一次在教室，有个女生跟我说话，我突然就不知道该怎么接了。对了，我问一下，我在这儿说的话，你不会告诉别人吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很在意具体场景，但我其实不太想细说。不过既然问了，就稍微提一下吧，免得显得不配合。那个女生的事……说一点应该没关系，反正也只是表面上的。）\n（我有点想试探一下，如果我说得含糊，他会不会追问太多。问问他会不会告诉别人，这样也能看看他是不是真的会保密。）",
+        "reasoning": "（咨询师好像很在意具体场景，但我其实不太想细说。不过既然问了，就稍微提一下吧，免得显得不配合。那个女生的事……说一点应该没关系，反正也只是表面上的。）\n（我有点想试探一下，如果我说得含糊，他会不会追问太多。问问他会不会告诉别人，这样也能看看他是不是真的会保密。）"
+      }
+    }
+  ],
+  "created": 1795143070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1182,
+    "total_tokens": 1295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

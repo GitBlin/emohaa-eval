@@ -1,0 +1,41 @@
+{
+  "id": "1e1cf7c845d14a489f61a05b46b9ffb2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回想那个瞬间脑子里的话……我下意识就想说“说了也没用”，可这话一出口，是不是显得我在怪他？）我脑子里就一句，“说了也没用”。好像说了他也不会回应，反而更冷。",
+        "reasoning": "（咨询师让我回想那个瞬间脑子里的话……我下意识就想说“说了也没用”，可这话一出口，是不是显得我在怪他？）我脑子里就一句，“说了也没用”。好像说了他也不会回应，反而更冷。"
+      }
+    }
+  ],
+  "created": 1795147007,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 2094,
+    "total_tokens": 2145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

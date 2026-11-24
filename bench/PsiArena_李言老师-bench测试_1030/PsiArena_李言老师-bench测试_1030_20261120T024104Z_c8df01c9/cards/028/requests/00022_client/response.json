@@ -1,0 +1,41 @@
+{
+  "id": "6127eb21e9aa40c3844a3b2e55565b26",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像更怕她评价我的决定。她一评价，我就容易觉得自己站不住。可我也不想每次都解释半天……是不是可以先简单说“我想自己试试看”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是更怕妈妈评价朋友，还是评价我的决定。我其实心里清楚，朋友被评价我还能忍，可一旦她说我的决定不好，我就会立刻怀疑自己是不是又做错了。这种怕被否定的感觉太深了，好像我做什么都站不住脚。）\n（我想到可以试着用“我想自己试试看”来回应，而不是急着解释或退让。这样既不是顶撞，也能让我稍微站稳一点。只是说出来的时候，可能还是会有点没底气。）",
+        "reasoning": "（她问我是更怕妈妈评价朋友，还是评价我的决定。我其实心里清楚，朋友被评价我还能忍，可一旦她说我的决定不好，我就会立刻怀疑自己是不是又做错了。这种怕被否定的感觉太深了，好像我做什么都站不住脚。）\n（我想到可以试着用“我想自己试试看”来回应，而不是急着解释或退让。这样既不是顶撞，也能让我稍微站稳一点。只是说出来的时候，可能还是会有点没底气。）"
+      }
+    }
+  ],
+  "created": 1795143154,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 3088,
+    "total_tokens": 3230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

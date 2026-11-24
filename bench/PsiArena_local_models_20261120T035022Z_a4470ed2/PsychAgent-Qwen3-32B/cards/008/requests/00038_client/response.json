@@ -1,0 +1,41 @@
+{
+  "id": "70b41c1c45b040189236e15d3f16eaa8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试了一下……好像也没那么可怕，就是心里还是发紧。可是不补一句，那个空着的感觉怪难受的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我刚刚试着停了一下……但心里还是有点发紧。补一句好像是我的习惯，不补就空在那儿，我有点慌。可我又不想每次都急着解释，好像自己真做错了什么。）",
+        "reasoning": "（我刚刚试着停了一下……但心里还是有点发紧。补一句好像是我的习惯，不补就空在那儿，我有点慌。可我又不想每次都急着解释，好像自己真做错了什么。）"
+      }
+    }
+  ],
+  "created": 1795146898,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3069,
+    "total_tokens": 3143,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

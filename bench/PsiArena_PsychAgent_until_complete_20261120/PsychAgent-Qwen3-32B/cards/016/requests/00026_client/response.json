@@ -1,0 +1,41 @@
+{
+  "id": "702476805461454ea1635b210f70b3e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "触发……可能是看到我爸那些不对劲的东西，或者我妈突然叹气。我就胸口紧、发慌，也会生气，可马上又压下去。然后装作没看见，或者找借口走开。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我梳理这个模式……我有点乱，但好像也能说一点。触发的话，就是看到那些迹象，或者我妈突然叹气。然后我就胸口紧、发慌，也会生气，可马上又压下去。应对……通常是装作没看见，或者找借口走开，不敢问。）",
+        "reasoning": "（咨询师在引导我梳理这个模式……我有点乱，但好像也能说一点。触发的话，就是看到那些迹象，或者我妈突然叹气。然后我就胸口紧、发慌，也会生气，可马上又压下去。应对……通常是装作没看见，或者找借口走开，不敢问。）"
+      }
+    }
+  ],
+  "created": 1795153982,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2219,
+    "total_tokens": 2328,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

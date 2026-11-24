@@ -1,0 +1,30 @@
+- Member's marriage ended last fall and he feels things haven't landed since.
+- Member sold the house in March and now lives month to month in a room over a garage.
+- Member stays at the office later than needed because the room is only a place to sleep.
+- Member put a bird feeder outside the room's window to have something to watch from the chair.
+- Member used to do Saturday morning birdwalks but cannot stand for a couple hours now.
+- Member has neuropathy in his feet — burning, worse at night, ongoing about three years.
+- Member's feet keep him up most nights; last night he couldn't find a position where the burning stopped.
+- Member sorts old matchbooks from diners and arcades down the shore by decade to keep his hands busy at night.
+- Member carries three matchbooks in his jacket pocket on days that matter (a review, a call he dreads) and picks them that morning without much thought, calling it superstition.
+- Member has cancelled five weeks straight on a Thursday model-railroad friend, Ed.
+- Member once sat in the car outside Ed's for twenty minutes and drove off without texting him.
+- Member avoids Ed's door because Ed asks how he's doing and Member doesn't want to be pitied for living over a garage with little to report.
+- Ed texts every week saying the table's clear and has not stopped asking.
+- Member's goal is to walk in Ed's door next Thursday instead of talking himself out of it in the lot.
+- Member loses it at the point of getting out of the car, and the reasons to turn around (bad night, Ed's wife busy) sit on top of the worry about having nothing to say.
+- Member knows there's rarely silence in Ed's garage — they argue about a turnout — so the silence he braces for isn't what happens there.
+- Member plans to text Ed ahead of time: "I'm coming Thursday, don't give my spot away," with no maybe in it, because a promise makes not showing worse than showing.
+- Member expects to spend the week finding reasons not to go, and expects his feet to be the first half-true reason after a bad night.
+- Member sent the text to Ed before Tuesday.
+- Member decided in advance that a bad night does not count as a reason to skip Thursday.
+- Member's plan for Thursday is to park, get out, close the door and walk up — not sit with the engine off for twenty minutes.
+- Member went to Ed's Thursday, spent forty minutes in the garage, and it was fine.
+- Member was up at four in the morning after the Ed visit, burning in both feet since midnight, sorting matchbooks in the dark.
+- Member reports the burning has been worse all week, starting with the drive out to Ed's, and attributes it to sitting in the car with his feet down for half an hour.
+- Member finds walking around the room for a few minutes knocks the burning back some; cold floors make it worse.
+- Member has about three feet of rug by the bed before the floorboards.
+- Member agreed to put his feet on the rug tonight without marching, then report back if the burning is still bad after a few minutes. [open]
+- Member moved his neurology appointment to the fall because it landed on the same day as a release review, and kept the review.
+- Member's neurology care has been the same prescription and a six-month return for three years since an initial nerve study.
+- Member wants the fall appointment to answer why the burning got worse this year and why it is now every night, and plans to write that question on an index card and hand it to the neurologist before he starts typing. [open]

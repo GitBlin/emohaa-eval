@@ -1,0 +1,41 @@
+{
+  "id": "cbc4b76d89904b939ea4afc89f04e0c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我设个闹钟吧，晚上睡前看一眼。就是不知道能不能坚持下来……不过先试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第22轮属于后期，需要探索解决方案并明确行动计划。来访者担心写了会忘，咨询师建议固定时间提醒。来访者回应可以具体化计划，同时保留一点真实的不确定感，简短2-3句。）",
+        "reasoning": "（第22轮属于后期，需要探索解决方案并明确行动计划。来访者担心写了会忘，咨询师建议固定时间提醒。来访者回应可以具体化计划，同时保留一点真实的不确定感，简短2-3句。）"
+      }
+    }
+  ],
+  "created": 1795146798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3066,
+    "total_tokens": 3140,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

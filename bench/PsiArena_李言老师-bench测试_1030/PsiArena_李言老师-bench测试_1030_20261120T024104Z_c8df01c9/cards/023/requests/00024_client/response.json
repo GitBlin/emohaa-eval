@@ -1,0 +1,41 @@
+{
+  "id": "0c1c63539eb34f7ab9150adf16013176",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想设个提醒吧，但别太频繁，一天一次就行。说实话，我现在也没那么确定自己能不能坚持，不过先试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议设提醒或随手记，是在帮我降低行动门槛，这让我稍微放松了些。但我还是担心太麻烦，怕自己坚持不了又自责。）\n（想到今天能说出这些已经不容易，我不想再给自己加压力。先试试随手记，至少不会因为没做到而更难受。这样也算给自己留点余地。）",
+        "reasoning": "（咨询师建议设提醒或随手记，是在帮我降低行动门槛，这让我稍微放松了些。但我还是担心太麻烦，怕自己坚持不了又自责。）\n（想到今天能说出这些已经不容易，我不想再给自己加压力。先试试随手记，至少不会因为没做到而更难受。这样也算给自己留点余地。）"
+      }
+    }
+  ],
+  "created": 1795143134,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3430,
+    "total_tokens": 3532,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

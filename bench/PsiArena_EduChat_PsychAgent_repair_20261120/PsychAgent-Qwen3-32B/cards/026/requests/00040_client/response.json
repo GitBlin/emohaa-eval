@@ -1,0 +1,41 @@
+{
+  "id": "9e185207633d4b24b2eeb2c01d681a95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，这样简单点。先停一下，三次呼吸，水杯提醒我。后面说什么……到时候再看吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "「好，就只记一个动作：看到错题先停，三次呼吸。水杯当提醒。做完再决定要不要开口。」",
+        "reasoning": "「好，就只记一个动作：看到错题先停，三次呼吸。水杯当提醒。做完再决定要不要开口。」"
+      }
+    }
+  ],
+  "created": 1795154379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 2979,
+    "total_tokens": 3035,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

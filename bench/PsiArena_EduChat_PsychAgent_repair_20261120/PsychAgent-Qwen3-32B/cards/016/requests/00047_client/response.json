@@ -1,0 +1,41 @@
+{
+  "id": "bc878e96494e46e78c7b96ea1a0227fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我能听出你还有点不踏实，但已经愿意给自己一个更稳的着手点。下次带着记录来，我们一起看，不用一个人硬扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，那就先这样。虽然我还是有点不踏实，但至少知道这周可以做什么，不至于一直乱想。下次我会带着记录来。谢谢。",
+        "reasoning": "好，那就先这样。虽然我还是有点不踏实，但至少知道这周可以做什么，不至于一直乱想。下次我会带着记录来。谢谢。"
+      }
+    }
+  ],
+  "created": 1795154012,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 3350,
+    "total_tokens": 3417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

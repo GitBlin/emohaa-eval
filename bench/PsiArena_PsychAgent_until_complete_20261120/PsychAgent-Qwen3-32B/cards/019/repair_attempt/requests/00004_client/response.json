@@ -1,0 +1,41 @@
+{
+  "id": "e66eb04bae07452d941c3c62333c2970",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试吧。不过我怕自己到时候紧张得根本顾不上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户愿意尝试，但仍有疑虑。需要共情并确认。",
+        "reasoning": "用户愿意尝试，但仍有疑虑。需要共情并确认。"
+      }
+    }
+  ],
+  "created": 1795156134,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 2677,
+    "total_tokens": 2708,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 15,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

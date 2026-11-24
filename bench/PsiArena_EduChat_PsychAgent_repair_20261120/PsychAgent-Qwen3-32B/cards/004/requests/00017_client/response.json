@@ -1,0 +1,41 @@
+{
+  "id": "fbc4c73c7bf846fe95c2b72f6bb1a4f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点发颤）晚上……屋里太静了，我就老想着白天操场上那些人。我爸妈打电话来也就问成绩，我不敢说这些，说了他们也只会说“别惹事”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（进入中期，开始愿意深入表达，同时揭示文化背景和过去经历）晚上……屋里太静了，我就老想着白天操场上那些人。我爸妈打电话来也就问成绩，我不敢说这些，说了他们也只会说“别惹事”。",
+        "reasoning": "（进入中期，开始愿意深入表达，同时揭示文化背景和过去经历）晚上……屋里太静了，我就老想着白天操场上那些人。我爸妈打电话来也就问成绩，我不敢说这些，说了他们也只会说“别惹事”。"
+      }
+    }
+  ],
+  "created": 1795153592,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1706,
+    "total_tokens": 1803,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

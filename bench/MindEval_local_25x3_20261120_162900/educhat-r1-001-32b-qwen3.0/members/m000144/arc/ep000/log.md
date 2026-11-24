@@ -1,0 +1,14 @@
+- Member's father died in March, prompting them to seek counselling.
+- Member's apartment has become messy since the death, with dishes and laundry piling up.
+- Member paid the electric bill late last month, the first time that has happened.
+- Member handles the paperwork themselves and has kept up with it.
+- Member is not leaning on loved ones for practical support.
+- Member agreed to look into local volunteer groups for home maintenance help but feels uneasy about having people in their home.
+- Member chose dishes as the smallest acceptable first task for a volunteer group.
+- Member declined to schedule the cleaning service now, preferring to know the option exists until things calm down.
+- Member's mother left a voicemail over the weekend about going through the garage, and Member has not called back.
+- Member does not know what to say to their mother about clearing out their father's tools and mostly says they are fine to end calls.
+- Member agreed to try a short text to their mother rather than a spoken conversation.
+- Member settled on a short text saying they got their mother's message, are not ready to go through the garage, ask her to hold off, and thank her.
+- [open] Member planned to send the text to their mother that night.
+- Counsellor shared contact details for the cleaning group; Member can message anytime to schedule help.

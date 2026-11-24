@@ -1,0 +1,41 @@
+{
+  "id": "0e9ed220daf845609da7fa16af606814",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意试试，但我有点担心提醒本身又变成我盯手机的新理由。能不能设得简单点，只响一次那种？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户愿意设置提醒，但可能对“固定成习惯”有压力，需要降低期待。可以说愿意试试，但担心提醒反而变成新的盯手机理由。需要把提醒设置得温和一点，比如只响一次，不反复看。",
+        "reasoning": "嗯，用户愿意设置提醒，但可能对“固定成习惯”有压力，需要降低期待。可以说愿意试试，但担心提醒反而变成新的盯手机理由。需要把提醒设置得温和一点，比如只响一次，不反复看。"
+      }
+    }
+  ],
+  "created": 1795153650,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3234,
+    "total_tokens": 3316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d3c093f33c214f18b51bf8e63eacd260",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说出口了，但声音很小。说完没人接，我就又觉得是不是自己不该说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我有没有把意见说出口，这让我想起当时那种喉咙发紧的感觉。她好像很在意我那一刻的身体反应，而不是急着评价我做得对不对。）\n（我确实说了，但声音很小，说完也没人接话。现在回想起来，那种沉默又让我有点不安，可我不想再像以前那样立刻怪自己。也许我该试着把这件事说出来，看看咨询师会怎么回应。）",
+        "reasoning": "（咨询师问到我有没有把意见说出口，这让我想起当时那种喉咙发紧的感觉。她好像很在意我那一刻的身体反应，而不是急着评价我做得对不对。）\n（我确实说了，但声音很小，说完也没人接话。现在回想起来，那种沉默又让我有点不安，可我不想再像以前那样立刻怪自己。也许我该试着把这件事说出来，看看咨询师会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795142679,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3274,
+    "total_tokens": 3384,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

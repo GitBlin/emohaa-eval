@@ -1,0 +1,41 @@
+{
+  "id": "4523927bf8ef4cf48ee54d5a57f7803f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会想说……“我已经尽力了，你能不能先看到这一点。”但这句话一冒出来，我就觉得太矫情了，好像我在跟谁要夸奖似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我如果不自责，会听到什么更真实的声音。我有点慌，因为那个声音平时被我压得很低。但也许可以试着说出来，就说我其实想被认可，不想总被挑毛病。）",
+        "reasoning": "（咨询师问我如果不自责，会听到什么更真实的声音。我有点慌，因为那个声音平时被我压得很低。但也许可以试着说出来，就说我其实想被认可，不想总被挑毛病。）"
+      }
+    }
+  ],
+  "created": 1795154221,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 2282,
+    "total_tokens": 2365,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

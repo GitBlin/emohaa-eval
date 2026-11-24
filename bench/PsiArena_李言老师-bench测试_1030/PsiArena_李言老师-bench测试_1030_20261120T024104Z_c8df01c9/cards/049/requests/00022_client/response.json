@@ -1,0 +1,41 @@
+{
+  "id": "098abaee9eca4a8b91c9e9283620d7f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想选下班后一个人在楼下坐一会儿，那时候没人认识我。只是我可能会忍不住分析自己，怕又变成自我批评。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她似乎想让我先选一个安全的小场景，只观察情绪不评价自己。这让我想到下班后在楼下坐一会儿，那里没人认识我，比较自在。不过我还是有点犹豫，担心自己会不自觉地又开始分析情绪，毕竟我习惯用理性去处理感受。）\n（或许我可以先试试把观察时间缩短，比如只数几次呼吸，这样不容易陷入自我评判。虽然不确定能不能做到，但至少愿意迈出这一步。）",
+        "reasoning": "（她似乎想让我先选一个安全的小场景，只观察情绪不评价自己。这让我想到下班后在楼下坐一会儿，那里没人认识我，比较自在。不过我还是有点犹豫，担心自己会不自觉地又开始分析情绪，毕竟我习惯用理性去处理感受。）\n（或许我可以先试试把观察时间缩短，比如只数几次呼吸，这样不容易陷入自我评判。虽然不确定能不能做到，但至少愿意迈出这一步。）"
+      }
+    }
+  ],
+  "created": 1795143857,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3080,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

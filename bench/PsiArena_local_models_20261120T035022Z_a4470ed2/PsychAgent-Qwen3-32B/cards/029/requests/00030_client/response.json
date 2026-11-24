@@ -1,0 +1,41 @@
+{
+  "id": "dcd8a65127bc42a8bb482fa801146d9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能都有吧。更多是希望别人觉得我过得不错，别老觉得我寒酸。这么一想，好像跟我妈总念叨省钱有关系。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这是第15轮，中期快结束了。她在问衣服背后的感受，是被看见还是自信。我可以说两者都有，但更多是希望别人觉得我过得好，这跟家里说我省钱有关。保持简短，两到三句，有点犹豫。",
+        "reasoning": "这是第15轮，中期快结束了。她在问衣服背后的感受，是被看见还是自信。我可以说两者都有，但更多是希望别人觉得我过得好，这跟家里说我省钱有关。保持简短，两到三句，有点犹豫。"
+      }
+    }
+  ],
+  "created": 1795147629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 2441,
+    "total_tokens": 2530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

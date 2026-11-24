@@ -1,0 +1,41 @@
+{
+  "id": "a970665e0d604fc599052d7ddfbc11fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以提前给自己一个提醒，比如在书桌旁贴个小纸条写“先停3秒”。你愿意选一个最常发生争执的时段，先练这一周吗？<第14轮:当前是中期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，数到3……好像可以，我就怕到时候气上来根本想不起来。我是不是得提前跟自己说好？",
+        "reasoning": "嗯，数到3……好像可以，我就怕到时候气上来根本想不起来。我是不是得提前跟自己说好？"
+      }
+    }
+  ],
+  "created": 1795147393,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2168,
+    "total_tokens": 2264,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

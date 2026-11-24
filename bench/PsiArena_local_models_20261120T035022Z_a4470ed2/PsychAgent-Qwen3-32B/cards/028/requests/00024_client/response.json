@@ -1,0 +1,41 @@
+{
+  "id": "e2e4bac3cfa545b5993c73417c2dc74d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "时间久了，我好像越来越不知道自己想要什么了。别人问我意见，我第一反应是“他们希望我怎么说”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种处理方式长期的影响……她好像一直在引导我看得更深一点。好吧，既然都说到这儿了，我也确实有些感觉想说出来。就是那种，好像越来越不知道自己到底想要什么了，很空。）",
+        "reasoning": "（咨询师在问我这种处理方式长期的影响……她好像一直在引导我看得更深一点。好吧，既然都说到这儿了，我也确实有些感觉想说出来。就是那种，好像越来越不知道自己到底想要什么了，很空。）"
+      }
+    }
+  ],
+  "created": 1795147583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 1943,
+    "total_tokens": 2019,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d93f53e4948c43c989e514979ed543ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那下次就从家里的事说起吧。我有点怕自己到时候又绕开，不过今天说出来，好像没那么难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说下次可以从和父母的互动继续往下看，还说我今天做得很认真。听到这些，我心里稍微松了一点，但还是有点不习惯被这样肯定。我本来想直接说“好”，可又觉得这样结束太干脆了，好像自己没什么感觉似的。其实我有点想确认一下，下次是不是真的能按这个方向来，又怕问多了显得自己太依赖。那就简单回应一下，再带一点小小的不确定吧。）",
+        "reasoning": "（咨询师说下次可以从和父母的互动继续往下看，还说我今天做得很认真。听到这些，我心里稍微松了一点，但还是有点不习惯被这样肯定。我本来想直接说“好”，可又觉得这样结束太干脆了，好像自己没什么感觉似的。其实我有点想确认一下，下次是不是真的能按这个方向来，又怕问多了显得自己太依赖。那就简单回应一下，再带一点小小的不确定吧。）"
+      }
+    }
+  ],
+  "created": 1795146331,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3319,
+    "total_tokens": 3444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

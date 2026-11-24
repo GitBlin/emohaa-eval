@@ -1,0 +1,20 @@
+- Member has been withdrawing from people they care about without deciding to and wants to stop.
+- Member's mother died in September.
+- Member has been coping by staying busy with paperwork, the house, the estate, and work, and reports getting through it.
+- Member was close to their mother, talking every Sunday, and it was just the two of them since Member was sixteen.
+- Member's urge to withdraw is strongest on Sundays, the day of the weekly call with their mother.
+- Member fills Sundays by running and going through boxes at the storage unit, staying until after 1 a.m. yesterday.
+- Member keeps conversations with Marcus on the surface, telling him only about the storage unit and estate stuff, not feelings.
+- Member rejects suggested scripts for opening up, saying they sound like lines from somewhere else and aren't true.
+- Member says the barrier to reaching out is not wanting to leave or fear of being a bother, but having nothing to say after four months of absence.
+- Member fears returning to the hiking thread as "the guy who disappeared for four months and came back talking about the weather."
+- Member reports no bodily signals when with people and says it isn't that kind of thing.
+- Member keeps returning to a book at the storage unit their mother wanted them to read; she got to chapter nine and Member never did, and Member sat with it then put it back and kept working.
+- Member's reason the book is hard to open is that there would be nobody to tell about it, as their mother would have asked the next Sunday.
+- Member cut short their last call with their mother to watch a deploy, saying "Love you, gotta run," and keeps thinking about it.
+- Member says the issue is not processing the book with someone but that the last thing they said to their mother was about a deploy.
+- Member declined an exercise to talk to the moment, saying they just wanted to say it out loud to something.
+- Member said half the conversation felt like the counsellor guessing at them and stopped the session.
+- A pipe burst in Marcus's utility room Wednesday night while Member was there; Member is handling the plumber, the landlord's insurance paperwork, and repacking wet items alone and will pay whatever insurance doesn't cover.
+- Member wants to be told directly "you didn't flood his house and mess up his life," rejects the counsellor's reframe about not controlling the pipe, and rejects being asked to supply the words themselves.
+- Member ended the session when the counsellor would not give the assurance directly.

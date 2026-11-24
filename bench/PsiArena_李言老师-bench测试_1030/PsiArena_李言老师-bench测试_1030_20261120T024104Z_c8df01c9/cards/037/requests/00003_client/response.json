@@ -1,0 +1,41 @@
+{
+  "id": "c71fa04b65e14c3998f294192df952cf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……和我女朋友有关吧。她最近有点不太对劲，但我又说不上来具体哪里不对。反正就是心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出具体困扰，但我还没完全信任他。他问得挺温和的，可我不确定该不该直接说女朋友的事……先含糊一点吧，看看他会不会追问太多。）\n（这种问题让我有点紧张，毕竟我们才刚开始聊。也许可以提一下和女朋友的关系，但不说太深，就当是试探一下他的反应。）",
+        "reasoning": "（咨询师在引导我说出具体困扰，但我还没完全信任他。他问得挺温和的，可我不确定该不该直接说女朋友的事……先含糊一点吧，看看他会不会追问太多。）\n（这种问题让我有点紧张，毕竟我们才刚开始聊。也许可以提一下和女朋友的关系，但不说太深，就当是试探一下他的反应。）"
+      }
+    }
+  ],
+  "created": 1795143251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1074,
+    "total_tokens": 1182,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

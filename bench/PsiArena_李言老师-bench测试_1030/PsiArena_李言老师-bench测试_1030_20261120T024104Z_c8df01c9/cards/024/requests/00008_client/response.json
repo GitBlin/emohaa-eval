@@ -1,0 +1,41 @@
+{
+  "id": "d45853a077bd4bf19ac0a3160cc6a520",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她说“孩子跟你在一起就胆小，你这样带不行”。我听了特别难受……可当时我一句话都没回，就那么忍着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是婆婆哪句话最让我难受，这让我一下子想起她说的那些话。她说孩子跟我在一起就胆小，这话像根刺一样扎在心里。我其实一直很努力，可她一句话就把我的付出全否定了。）\n（在我家从小就是这样，有什么不满都憋着不说，怕说出来会闹得更僵。所以当时我也没回嘴，可心里那股委屈一直压着，越积越深。）",
+        "reasoning": "（咨询师问的是婆婆哪句话最让我难受，这让我一下子想起她说的那些话。她说孩子跟我在一起就胆小，这话像根刺一样扎在心里。我其实一直很努力，可她一句话就把我的付出全否定了。）\n（在我家从小就是这样，有什么不满都憋着不说，怕说出来会闹得更僵。所以当时我也没回嘴，可心里那股委屈一直压着，越积越深。）"
+      }
+    }
+  ],
+  "created": 1795143017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1597,
+    "total_tokens": 1717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

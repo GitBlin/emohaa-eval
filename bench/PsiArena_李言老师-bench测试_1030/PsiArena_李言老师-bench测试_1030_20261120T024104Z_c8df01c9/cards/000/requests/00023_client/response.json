@@ -1,0 +1,41 @@
+{
+  "id": "afcb254d8ed54a3ea589ef037e73288e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先注意到的是喉咙发紧，然后脑子里马上冒出“又要说错了吗”。好像身体比我还先紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户问的是最近一次紧张的开头，开口前最先注意到什么。我想到的可能是身体上的反应，比如心跳或者喉咙发紧，也可能是一种念头，比如“没人会接话”。这样回答比较具体，也能带出一点自我觉察。可以简短说，先注意到喉咙发紧，然后是“又要说错了吗”这个念头冒出来。",
+        "reasoning": "嗯，用户问的是最近一次紧张的开头，开口前最先注意到什么。我想到的可能是身体上的反应，比如心跳或者喉咙发紧，也可能是一种念头，比如“没人会接话”。这样回答比较具体，也能带出一点自我觉察。可以简短说，先注意到喉咙发紧，然后是“又要说错了吗”这个念头冒出来。"
+      }
+    }
+  ],
+  "created": 1795142661,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 3091,
+    "total_tokens": 3194,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

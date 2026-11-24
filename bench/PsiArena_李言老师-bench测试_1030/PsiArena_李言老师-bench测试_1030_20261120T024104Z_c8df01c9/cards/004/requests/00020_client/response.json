@@ -1,0 +1,41 @@
+{
+  "id": "96b54685796141a688850262c8cbacf8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是“奶奶好”这三个字……我怕她没听见，我就不知道该不该再说一遍。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心她漏听哪句话……其实我就是怕我说了“奶奶好”她没反应，那我站在那儿多尴尬。不过她问得挺细的，好像真的在帮我想办法。）\n（我想了想，还是“奶奶好”这三个字最要紧，别的我也说不出来。要是她没听见，我可能就低头走开了。但也许我可以先练练，声音大一点。）",
+        "reasoning": "（她问我最担心她漏听哪句话……其实我就是怕我说了“奶奶好”她没反应，那我站在那儿多尴尬。不过她问得挺细的，好像真的在帮我想办法。）\n（我想了想，还是“奶奶好”这三个字最要紧，别的我也说不出来。要是她没听见，我可能就低头走开了。但也许我可以先练练，声音大一点。）"
+      }
+    }
+  ],
+  "created": 1795142639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2678,
+    "total_tokens": 2787,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

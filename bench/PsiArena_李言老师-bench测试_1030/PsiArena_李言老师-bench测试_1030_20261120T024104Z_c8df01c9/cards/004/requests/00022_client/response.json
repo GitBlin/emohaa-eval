@@ -1,0 +1,41 @@
+{
+  "id": "d1c3954f9eee454591f378ed93319d23",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就练“奶奶好”吧……声音大一点。对了，学校里的事，我是不是也该想个办法，比如先跟老师说一点点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先练一句话，这让我稍微有点方向了。但一提到练习，我就想到在学校里也要这样开口，心里又有点发紧。那个“奶奶好”好像还能练，可学校里的事还是让我害怕。）\n（我想把话题转到更让我担心的地方，就是怎么跟老师说。虽然之前提过班主任，但真要说出来，我还是怕他嫌我事多。不过现在好像没那么慌了，可以试着问一下。）",
+        "reasoning": "（咨询师让我先练一句话，这让我稍微有点方向了。但一提到练习，我就想到在学校里也要这样开口，心里又有点发紧。那个“奶奶好”好像还能练，可学校里的事还是让我害怕。）\n（我想把话题转到更让我担心的地方，就是怎么跟老师说。虽然之前提过班主任，但真要说出来，我还是怕他嫌我事多。不过现在好像没那么慌了，可以试着问一下。）"
+      }
+    }
+  ],
+  "created": 1795142653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2853,
+    "total_tokens": 2980,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

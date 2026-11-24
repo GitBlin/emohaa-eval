@@ -1,0 +1,41 @@
+{
+  "id": "26d5a8c16f1e4325beea2fd4e269b989",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，好。那除了默念，我还想知道，我能不能提前给自己定个小目标，比如这次不追求表现好，只求别太为难自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，那我会试试的。对了，除了这个默念，我还能做点什么准备吗？我不想每次都那么慌。",
+        "reasoning": "好，那我会试试的。对了，除了这个默念，我还能做点什么准备吗？我不想每次都那么慌。"
+      }
+    }
+  ],
+  "created": 1795156141,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2848,
+    "total_tokens": 2910,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

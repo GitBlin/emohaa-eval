@@ -1,0 +1,41 @@
+{
+  "id": "2e4f53e24c8547c3bfed509bdc93440a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "回顾……今天聊完，我好像没那么自责了。虽然明天可能还是会害怕，但至少有个具体能做的事了。谢谢你听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我愿不愿意回顾今天的咨询，看来是想帮我梳理一下收获。我确实感觉比刚来的时候稍微轻松了一点，虽然还是有点紧张，但至少知道明天可以试着做点什么了。）\n（回顾的话，我觉得今天最大的收获就是没那么慌了，而且有了一个具体的小计划。不过我还是有点担心明天会不会搞砸，但咨询师说得对，不管结果怎么样，我至少迈出了一步。）",
+        "reasoning": "（咨询师在问我愿不愿意回顾今天的咨询，看来是想帮我梳理一下收获。我确实感觉比刚来的时候稍微轻松了一点，虽然还是有点紧张，但至少知道明天可以试着做点什么了。）\n（回顾的话，我觉得今天最大的收获就是没那么慌了，而且有了一个具体的小计划。不过我还是有点担心明天会不会搞砸，但咨询师说得对，不管结果怎么样，我至少迈出了一步。）"
+      }
+    }
+  ],
+  "created": 1795149520,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3119,
+    "total_tokens": 3240,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

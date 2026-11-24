@@ -1,0 +1,41 @@
+{
+  "id": "c43b97594d7042d29ffbb3dabe66316b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想想，也许可以先找个家庭医生问问，不用一上来就做一堆检查。还有，我也想试着跟我妈好好聊聊，别老是憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又一次重复了刚才的话，看来他很想让我迈出这一步。我确实怕，但一直拖着也不是办法，心里那根弦绷得太紧了。也许先做点具体的事，哪怕只是问问，能让我稍微踏实一点。）\n（我想到可以先找家庭医生聊聊，不用一下子做很多检查，这样压力小些。另外，我其实一直想跟我妈说说话，可每次话到嘴边又咽回去，怕说不好。这两件事，或许可以一步一步来。）",
+        "reasoning": "（咨询师又一次重复了刚才的话，看来他很想让我迈出这一步。我确实怕，但一直拖着也不是办法，心里那根弦绷得太紧了。也许先做点具体的事，哪怕只是问问，能让我稍微踏实一点。）\n（我想到可以先找家庭医生聊聊，不用一下子做很多检查，这样压力小些。另外，我其实一直想跟我妈说说话，可每次话到嘴边又咽回去，怕说不好。这两件事，或许可以一步一步来。）"
+      }
+    }
+  ],
+  "created": 1795148321,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2220,
+    "total_tokens": 2360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

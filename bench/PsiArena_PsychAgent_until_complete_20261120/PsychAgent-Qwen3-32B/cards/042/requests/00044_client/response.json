@@ -1,0 +1,41 @@
+{
+  "id": "62f0ee6cdd8848d58fca399086c313f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，有决定权这点还行。那评估大概要多久？我平时工作群消息特别多，能不能安排在不影响上班的时间？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户担心被贴标签，需要解释评估不会影响工作，强调知情同意与决定权。接下来可以给出一些具体的选项，让来访者感到有控制感，比如评估的时间、形式，以及先处理饮酒还是先处理情绪。需要简短，一次一个问题，不超过100字。）",
+        "reasoning": "（用户担心被贴标签，需要解释评估不会影响工作，强调知情同意与决定权。接下来可以给出一些具体的选项，让来访者感到有控制感，比如评估的时间、形式，以及先处理饮酒还是先处理情绪。需要简短，一次一个问题，不超过100字。）"
+      }
+    }
+  ],
+  "created": 1795155029,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 4109,
+    "total_tokens": 4201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3840
+    }
+  }
+}

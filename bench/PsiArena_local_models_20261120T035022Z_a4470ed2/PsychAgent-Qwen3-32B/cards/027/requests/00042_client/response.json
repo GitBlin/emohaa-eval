@@ -1,0 +1,41 @@
+{
+  "id": "d003b62752e24c4499fd0087ce19ede5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个“撑不住又去讨好”的担心很关键。我们提前准备一个提醒——当你发现自己又要去讨好时，可以用哪句话把自己拉回来？<第22轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）最坏就是她冷着脸几天吧。我可能先不解释，等大家缓一缓……再找机会说。可我怕自己撑不住又去讨好她。",
+        "reasoning": "（想了想）最坏就是她冷着脸几天吧。我可能先不解释，等大家缓一缓……再找机会说。可我怕自己撑不住又去讨好她。"
+      }
+    }
+  ],
+  "created": 1795147544,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2896,
+    "total_tokens": 3000,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

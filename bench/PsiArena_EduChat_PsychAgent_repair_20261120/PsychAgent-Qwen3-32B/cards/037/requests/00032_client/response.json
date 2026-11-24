@@ -1,0 +1,41 @@
+{
+  "id": "389de93ec9b54858ad2901fc7564ccce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "倒水这个可以，至少手上有事做。我想把手机放远一点，不然五分钟也难熬。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "后期阶段，目标是探索解决方案并明确行动计划。情绪趋于稳定，开始具体化思考。可以回应这个具体化方案，表达一点可行性，同时提出一个具体的行动点。保持简短2-3句。",
+        "reasoning": "后期阶段，目标是探索解决方案并明确行动计划。情绪趋于稳定，开始具体化思考。可以回应这个具体化方案，表达一点可行性，同时提出一个具体的行动点。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795154835,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2302,
+    "total_tokens": 2372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

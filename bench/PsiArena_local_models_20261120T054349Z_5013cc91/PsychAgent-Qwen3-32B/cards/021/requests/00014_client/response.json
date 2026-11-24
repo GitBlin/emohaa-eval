@@ -1,0 +1,41 @@
+{
+  "id": "c9ecffc5fdf7402ea496758e41beb414",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是早上开始的吧，醒来就有点不对劲。家里有些事……唉，算了，一下子也讲不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我具体时间……其实每天都差不多，但今天早上特别明显。看到母亲吃药的时候，那种感觉一下子就上来了。不过现在说这些好像有点早，毕竟才刚开始谈。我是不是该说得模糊一点？毕竟还没完全信任他。）\n（家里的事太复杂了，一下子说不清楚。而且提到母亲就会想到很多……还是先简单带过吧，就说早上开始的，别说太多细节。）",
+        "reasoning": "（他问我具体时间……其实每天都差不多，但今天早上特别明显。看到母亲吃药的时候，那种感觉一下子就上来了。不过现在说这些好像有点早，毕竟才刚开始谈。我是不是该说得模糊一点？毕竟还没完全信任他。）\n（家里的事太复杂了，一下子说不清楚。而且提到母亲就会想到很多……还是先简单带过吧，就说早上开始的，别说太多细节。）"
+      }
+    }
+  ],
+  "created": 1795154189,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1481,
+    "total_tokens": 1592,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

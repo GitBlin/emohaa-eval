@@ -1,0 +1,41 @@
+{
+  "id": "c7e773c8118e4911b737f16b592ade63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你怎么又重复这句话……我都有点不知道说什么了。是不是我哪里没说对？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师怎么又重复这句话……都第三遍了。我明明已经说了我在想自己是不是太依赖他了，他怎么好像没在听我说话一样，就只顾着说自己的。这让我有点烦，感觉被敷衍了。）\n（不过也许他是想让我自己说出来？但我现在真的有点不知道该说什么了。刚才好不容易想到一点头绪，被他这么一重复，我又觉得没劲了。算了，先应付一下吧，看看他到底想干嘛。）",
+        "reasoning": "（咨询师怎么又重复这句话……都第三遍了。我明明已经说了我在想自己是不是太依赖他了，他怎么好像没在听我说话一样，就只顾着说自己的。这让我有点烦，感觉被敷衍了。）\n（不过也许他是想让我自己说出来？但我现在真的有点不知道该说什么了。刚才好不容易想到一点头绪，被他这么一重复，我又觉得没劲了。算了，先应付一下吧，看看他到底想干嘛。）"
+      }
+    }
+  ],
+  "created": 1795154731,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2242,
+    "total_tokens": 2358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

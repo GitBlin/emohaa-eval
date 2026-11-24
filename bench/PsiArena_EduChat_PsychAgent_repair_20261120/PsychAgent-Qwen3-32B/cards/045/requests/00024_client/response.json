@@ -1,0 +1,41 @@
+{
+  "id": "9617af3bc51f497e87864a621e4faa03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "代价就是……我越来越孤单，也越来越不相信别人会真的愿意帮我。可要改，我又不知道从哪儿开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才让我看不敢开口的代价……这让我想起很多事。其实我明白，总这样憋着，只会越来越孤单，可我又怕说出来显得太脆弱。也许我可以试着承认这一点，但不用说得太深，先看看咨询师怎么接。）",
+        "reasoning": "（咨询师刚才让我看不敢开口的代价……这让我想起很多事。其实我明白，总这样憋着，只会越来越孤单，可我又怕说出来显得太脆弱。也许我可以试着承认这一点，但不用说得太深，先看看咨询师怎么接。）"
+      }
+    }
+  ],
+  "created": 1795155108,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2103,
+    "total_tokens": 2187,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

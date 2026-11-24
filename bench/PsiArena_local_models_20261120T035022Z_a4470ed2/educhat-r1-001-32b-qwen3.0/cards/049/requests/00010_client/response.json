@@ -1,0 +1,41 @@
+{
+  "id": "2f0d7e1bd81f47229d87523031c251bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话……我也说不清是什么时候开始的。对了，你平时会跟来访者做朋友吗？我觉得跟一个完全陌生的人说这些，怪别扭的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出情绪开始的时间，但我现在其实还不太想往深处说。我刚试探过保密问题，现在还想再试探一下界限，看看他会不会像朋友那样回应我。）\n（家里从小就不太谈感受，我也习惯了把话收着。直接问私人问题可能有点冒险，但正好可以看看他会不会守住咨询师的边界。）",
+        "reasoning": "（咨询师在引导我说出情绪开始的时间，但我现在其实还不太想往深处说。我刚试探过保密问题，现在还想再试探一下界限，看看他会不会像朋友那样回应我。）\n（家里从小就不太谈感受，我也习惯了把话收着。直接问私人问题可能有点冒险，但正好可以看看他会不会守住咨询师的边界。）"
+      }
+    }
+  ],
+  "created": 1795150326,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1231,
+    "total_tokens": 1344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

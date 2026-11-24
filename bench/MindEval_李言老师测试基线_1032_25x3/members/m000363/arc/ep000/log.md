@@ -1,0 +1,27 @@
+- Member came to counselling after months of mounting trouble at home he could not get ahead of.
+- Member's wife signed up for a Friday-night pottery class starting next week and announced it as decided, not as a question.
+- Member said the class sounded like a good idea at the time and got no word in.
+- Member spent the evening standing in the garage without starting the second coat on the tabletop, until nearly half nine.
+- Member's reaction to the pottery class was that his wife is filling in around him, covering what is not there.
+- Member could not name what she might be covering for and said that if he knew he would have said something in the kitchen.
+- Member reports that what he feels does not come out as words but in other ways, chiefly his temper.
+- Member put his hand through a cabinet door in October during a minor argument about thermostat settings.
+- Member says the thermostat argument was nothing and the real thing had been building for months.
+- Member sought counselling after seeing his wife's face afterwards, which looked like she did not know who he was.
+- Member identifies himself as the man who teaches trade school kids to hang a door plumb and who people can count on, and cannot reconcile that with who he has become.
+- Member yelled at a young crew member in front of everyone over a two-minute fix that was not a real problem, and felt sick afterwards.
+- Member's boss pulled him aside about the yelling, and Member knew at the time the anger was not aimed at the kid.
+- Member believes the anger was pointed at himself over a job he had talked about for years and never sat the exam for; it went to someone else.
+- Member bought the course the week he was told and never got past the first chapter, intending to study each night but going to the garage instead.
+- Member uses the garage as quiet with busy hands, a place to avoid thinking for an hour.
+- Member, at 49, has no answer for what he wants next or what the next ten years should look like.
+- The first thing Member pictured for the next ten years was the guitar; he used to play at get-togethers and stopped picking it up around September without deciding to.
+- Member's exam window closed in September when he never scheduled the exam, around the same time the guitar and other things went quiet.
+- Member initially called the connection stupid, then said he would rather it were stupid than painful, because painful means it mattered and he blew it.
+- Member had told people for years the job was what he wanted, and told his wife it was for the best that someone else got it.
+- Member's wife asked point blank one night if something was wrong; Member said it was handled and went out to the shop.
+- Member says being asked about himself is the one thing he has never had an answer for, so he made sure she could not finish asking.
+- Member fears that if he let his wife finish asking, he would have to say he does not know and she would see nothing there.
+- Member expects his wife would sit and wait for him to keep going, leaving him with nothing to fill the gap while she watches.
+- Member says the cost of saying the wrong thing to his wife is losing her, which is why her waiting is different from the counsellor's.
+- [open] Member to consider letting his wife finish asking and saying "I don't know," and to report back on what happens.

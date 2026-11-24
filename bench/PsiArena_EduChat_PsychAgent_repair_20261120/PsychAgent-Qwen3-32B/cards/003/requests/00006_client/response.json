@@ -1,0 +1,41 @@
+{
+  "id": "b32baedb5fa74683adad7be349dec6d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我25了，在一家公司做市场营销。工作嘛……其实做得还行，就是……唉，算了，说不清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我的基本情况，这倒没什么不能说的。不过她说话挺温和的，没有那种咄咄逼人的感觉……我是不是可以先随便说点表面的东西，看看她接下来会怎么接。毕竟我也还没想好要不要真的把那些事都倒出来。）",
+        "reasoning": "（咨询师问我的基本情况，这倒没什么不能说的。不过她说话挺温和的，没有那种咄咄逼人的感觉……我是不是可以先随便说点表面的东西，看看她接下来会怎么接。毕竟我也还没想好要不要真的把那些事都倒出来。）"
+      }
+    }
+  ],
+  "created": 1795153437,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1079,
+    "total_tokens": 1164,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

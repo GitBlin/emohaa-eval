@@ -1,0 +1,41 @@
+{
+  "id": "d2e833c36c0d41f0903923dc860173c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以别那么正式。比如小声嘀咕一句“我也得喘口气”，或者“等我一下”，都是照顾自己的信号。你觉得哪个更顺口？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停了一下）嗯……“我先照顾一下我”……这句话我说不出口，太别扭了。能不能换个说法？",
+        "reasoning": "（停了一下）嗯……“我先照顾一下我”……这句话我说不出口，太别扭了。能不能换个说法？"
+      }
+    }
+  ],
+  "created": 1795153491,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3149,
+    "total_tokens": 3208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

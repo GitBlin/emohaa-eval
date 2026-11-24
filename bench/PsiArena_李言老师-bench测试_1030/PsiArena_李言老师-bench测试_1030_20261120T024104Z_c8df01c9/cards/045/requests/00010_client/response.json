@@ -1,0 +1,41 @@
+{
+  "id": "115befe787df4acc9f1d750ae5918d1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不好……好像有一点安心，但接着又更慌。因为我发现，让我安稳的不是那句话本身，是……是你说的。（声音很低）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我心里是放松还是着急……我其实自己也说不清。想起那句话的时候，好像有一瞬间被接住了，但马上又觉得不够，怕他只是在完成咨询任务。这种安心和失落混在一起的感觉，让我有点不敢承认。）\n（而且我越来越觉得，能让我这样反复回味的，好像只有咨询里的那几句话。这让我很害怕，是不是我太把这段关系当回事了，是不是我这个人本来就太缺什么。我该不该把这种依赖说出来，他会不会觉得我越界了。）",
+        "reasoning": "（他问我心里是放松还是着急……我其实自己也说不清。想起那句话的时候，好像有一瞬间被接住了，但马上又觉得不够，怕他只是在完成咨询任务。这种安心和失落混在一起的感觉，让我有点不敢承认。）\n（而且我越来越觉得，能让我这样反复回味的，好像只有咨询里的那几句话。这让我很害怕，是不是我太把这段关系当回事了，是不是我这个人本来就太缺什么。我该不该把这种依赖说出来，他会不会觉得我越界了。）"
+      }
+    }
+  ],
+  "created": 1795143510,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1743,
+    "total_tokens": 1886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

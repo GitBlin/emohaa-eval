@@ -1,0 +1,30 @@
+- Member has an unanswered message from a friend and has not replied because she does not know what to say.
+- Member rejected drafting or sending a text line in session and rejected a "thank you for checking in" reply as untrue to send; the thank-you phrasing was the closest of the options offered.
+- Member works every weekend and finds the overtime fine and herself good at it — the difficulty is the time away from work, not the workload.
+- Member rejected a "warm hug playlist" suggestion and a 5-minute video call suggestion as not her thing.
+- Member will not set a phone reminder over the text and will not write a journal note to her sister.
+- Member's sister Dana called on Sunday and Member let it ring out; Member's usual reply is a text along the lines of "Crazy week, love you" every Sunday.
+- Member will not tell Dana she is "doing better" because it isn't true, and will not send a message implying recovery.
+- Member fears that if she told Dana she is not okay, Dana would drive over immediately, and Member does not want to spend her sister's Sunday on herself.
+- Member's actual goal is to sit in her chair at book club again without being visibly a mess the whole time.
+- Member says that when someone asks how she is doing, her face reacts before she can stop it; she describes this as not spiralling.
+- Member objected that the counsellor kept handing her sentences to say instead of listening, and said nobody talks like that and she would never say those lines to a person.
+- Member sits with the settlement papers every Sunday night and re-reads them, going back over the last year looking for where she should have caught the divorce coming — the same list every time.
+- Member says catching things is her job (forty hours a week on the phones) and that after twenty-two years she did not see it, so she cannot claim she lacked the tools.
+- Member said the papers were the truest thing she had said in the session and felt the counsellor moved on from it; she restated it when asked.
+- Member rejected the suggestion to "turn the page" on the papers and ended the session early, apologising.
+- Member was offered a team lead job on Wednesday, said she would think about it, and already knows she does not want it — she lied by omission rather than decline.
+- Member sat in her car in her own driveway for ten minutes after the offer.
+- Member is awake at 3 every morning over the job decision and cycles the same three thoughts, none of them about money.
+- One recurring thought is that regular hours would put her home every weekend with nothing between her and the house; she called this not small.
+- Member deflected a question about what feels heavy about the house, saying it is a house with a roof and a fence, and asked to stick to the job.
+- Member's resistance to the role is mainly managing people: new hires have been sent to her for years and she fears one fumbled call would become the story.
+- Member holds that where she comes from one good year does not carry over — you are only as good as the last thing you did right.
+- Member said her high standard is the thing making her sick and does not want it honored; she objected again to being handed tidy reframes, saying nobody says that out loud.
+- Marisol sent Member a message that is not a hard question, but Member has opened it so many times the words have lost meaning and she cannot make herself type a reply.
+- Member's reason for not replying to Marisol is that any reply leads to Marisol asking how she is doing and her face reacts before she can stop it.
+- Member rejected dancing around her kitchen and said she stopped her dance class in the fall; she does not want it treated as the same thing.
+- Member rejected a grounding exercise and a repeated phrase, said she has enough things she is not doing, and asked to be questioned about the actual situation rather than what to do with her hands.
+- Member again objected to scripted lines ("Just want to acknowledge your message") as something she would never say to Marisol, said the counsellor keeps doing it after being told before, and ended the session after four suggested things to try in a row.
+- Member's supervisor messaged at 3 a.m. asking again about the team lead job; Member has not answered and wants wording for a no that does not read as a no, will not send "yes," "when I'm ready," "doesn't fit with where I'm at," "wishing you all the best," or anything keeping the door open, and will not give a why she cannot say out loud; she ended the session when handed a third rewritten line.
+- Member will not type "I'll keep the door open for future opportunities" to her supervisor; an open door to the role is the exact thing she is refusing.

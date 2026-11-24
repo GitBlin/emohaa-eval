@@ -1,0 +1,41 @@
+{
+  "id": "18446a978fd243bcb4a7a4ecae4ff58e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我觉得是那个“怕被丢下”的说法吧，听起来没那么糟。还有不跟着笑这个小选择，我回去试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，最有帮助的，可能是把“胆小”叫成“怕被丢下”吧，听起来没那么糟。还有那个“不跟着笑”的小选择，我回去试试。",
+        "reasoning": "嗯，最有帮助的，可能是把“胆小”叫成“怕被丢下”吧，听起来没那么糟。还有那个“不跟着笑”的小选择，我回去试试。"
+      }
+    }
+  ],
+  "created": 1795154817,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3520,
+    "total_tokens": 3590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

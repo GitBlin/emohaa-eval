@@ -1,0 +1,41 @@
+{
+  "id": "bfe6fe359d9344948b2b5724bdbb8439",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "回顾……我觉得最大的发现是，原来我一直都在替别人活，连选对象都在想爸妈会怎么看。现在虽然还是纠结，但至少愿意给自己一点时间，也敢想想“我想要什么”了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回顾整个咨询过程，看看有什么新发现。这让我有点紧张，因为要总结自己，但我也确实感觉到了一些变化。）\n（以前我总是把选择权交给别人，现在好像开始愿意为自己做决定了。虽然还不太确定具体该怎么做，但至少不再那么害怕面对这个问题了。）",
+        "reasoning": "（咨询师让我回顾整个咨询过程，看看有什么新发现。这让我有点紧张，因为要总结自己，但我也确实感觉到了一些变化。）\n（以前我总是把选择权交给别人，现在好像开始愿意为自己做决定了。虽然还不太确定具体该怎么做，但至少不再那么害怕面对这个问题了。）"
+      }
+    }
+  ],
+  "created": 1795147571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3313,
+    "total_tokens": 3424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

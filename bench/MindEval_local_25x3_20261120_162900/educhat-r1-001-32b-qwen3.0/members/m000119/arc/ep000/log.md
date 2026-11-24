@@ -1,0 +1,13 @@
+- Member's falling-out with her sister occurred two months ago at the sister's birthday dinner, when the sister announced in front of the family that the cousins would take turns hosting the Sunday dinners Member has hosted for thirty years until Member is "back on her feet."
+- Member experienced the announcement as a public dismissal and responded by telling the table the sister has cooked zero dinners in thirty years, then left before the cake.
+- Member stresses the issue was never about dinners but about being publicly handled in front of the whole family at a table Member helped set up.
+- Member declines to speculate about the sister's intent, saying she cannot answer for what was in her sister's head.
+- Sister sent a card this week; Member left it face down on the table for two days before opening it at the sink.
+- The card says the sister misses the table, not that she misses Member; Member read it twice and that word is what stuck.
+- Member's first thought was that someone told the sister to write the card and it was not her own idea.
+- Member has told no one about the card and no one in the family is calling her.
+- Member fears that if she calls her sister and the sister says one wrong thing she will not be able to hold it, so she keeps not calling.
+- Member preferred a text over a call so she can avoid hearing the sister's voice and put the phone in another room if needed.
+- Member rejected asking the sister if she is okay as the message content; what she would say is that she got the card and has been thinking about it.
+- Member does not know whether she would send the text tonight or let it sit on her phone as the card sat on her counter.
+- [open] Member plans to write the text down at the table and see how it looks in the morning before deciding whether to send it.

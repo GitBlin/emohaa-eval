@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-45cf7785f7374e22b1405de9ecf57d21",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，看到你愿意倾诉，我很欣慰。你提到社交场合的不适感，能具体说说这种感受吗？比如第一次经历是在什么时候？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到来访者存在社交回避倾向，需建立信任基础。\n【行动策略】：通过开放式提问了解具体困扰，避免直接询问隐私细节。\n",
+        "reasoning_content": "\n【诊断分析】：识别到来访者存在社交回避倾向，需建立信任基础。\n【行动策略】：通过开放式提问了解具体困扰，避免直接询问隐私细节。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147227,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 196,
+    "total_tokens": 270,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

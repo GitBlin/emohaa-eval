@@ -1,0 +1,30 @@
+- Member says a walk is manageable but not the problem; the problem is evenings, when Member used to cook and read and now drinks and is in bed before doing either.
+- Member was considering making dinner on Thursday to see if it holds and doubting it would, expecting to report back that it didn't; Member has not reported back on it.
+- Member rejects drinking a glass of water in the morning as addressing the hard part, which is 9pm when the day is done, the bottle is there, and Member has nothing else to do.
+- Member rejects a distraction toolkit such as podcasts, puzzle apps, or a playlist, saying a podcast doesn't turn his head off the way drink does and that he has a dozen ways to not drink for an hour before he is still wound up at ten thirty.
+- Member rejects stretching and journaling as ways to unwind.
+- Member rejects the suggestion of seeing a therapist, saying he has done this before and would just report back that it didn't work either.
+- Member pulled back from drinking for a year on his own at 47, and says this time it is not going that way and he doesn't see what is different now.
+- Member rejects picking an accountability buddy, mindfulness practice, or small habit off the counsellor's list, saying none of those are what's wrong.
+- Member says at 47 he fixed it and the numbers went the way he wanted, and that this time a number is coming back he can't work on; he doesn't know what to do with a number he can't improve.
+- Member says in his job the number is the value and has been for forty years, and he can't switch that off for this one result.
+- Member refuses to bring his team into the situation, saying they work for him and don't need to know what he does at night.
+- Member rejects naming any small step, saying every step he names he has already tried and it didn't hold, leaving him reporting the failure back.
+- Member rejects being told to breathe, saying waking at four in the morning is the deep breath.
+- Member rejects letting his mind wander, saying that is the whole problem — it is what his mind does at four in the morning and he drinks so it stops.
+- Member refuses to describe what is in his body to a screen, saying that is not something he does.
+- Member says he has nothing left to try tonight and lists the suggestions already given — candles, tea, walks, podcasts, water, a bank, a buddy, stretching, breathing — saying none of it lands and it keeps coming.
+- Member says "go find someone who understands" is the answer he has been getting for years and does not think there is an answer in this.
+- Member did the math over the weekend and says the window before Tuesday's retest is closed, so sees nothing left to discuss about it.
+- Member rejects writing to a future self as the notebook again and disputes framing his counting as courage, calling it a man counting.
+- Member expects a worse panel to end the regional director shortlist outright — they move to the next name and everyone in the room knows why — and resents that twenty years of quarters get settled by one page he cannot argue with.
+- Member says a good quarter is gone the next morning and no one mentions the one just hit, citing his father's shop as the same pattern.
+- Member ended the session after saying the shortlist piece, saying that was enough for one morning.
+- Member reports the retest came back worse than the last and sat with the number without a question about it.
+- Member rejects describing what is in his chest or gut about the result, saying it is a number on a page that went the wrong way.
+- Member rejects writing a brief self-message saying he did his best, calling it the notebook with nicer handwriting.
+- Member says he did not do his best, having finished the bottle the night before the test knowing what he was doing.
+- Member rejects asking a trusted person to join in planning next steps because the only person is his brother, who would spend his Sunday calls worrying instead of talking about his kids.
+- Member says he had a system that lasted nine days and will not build a tenth version tonight, since every version ends in reporting back that it didn't hold.
+- Member refuses to name one small shift to disrupt the cycle, saying it will be written down as the next thing and he will return reporting it didn't hold.
+- Member says he has nothing else tonight and ended the session to go to bed.

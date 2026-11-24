@@ -1,0 +1,41 @@
+{
+  "id": "91b7ef7837cb4fab86051798f5a5e31e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以试试。“今天我感到……”（轻声重复）不过我可能得把本子藏好，或者写手机里加个密码。对了，我是不是也该找个时间跟他好好谈一次？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我从“今天我感到”开始写日记，这听起来是个可行的办法。但我担心丈夫会看到，这让我有点犹豫。我得先解决隐私问题，才能安心尝试。）\n（也许我可以把日记存在手机里加个密码，这样就不容易被发现了。不过光写日记可能还不够，我还需要和丈夫谈谈，但又怕自己一开口就控制不住情绪。）",
+        "reasoning": "（咨询师建议我从“今天我感到”开始写日记，这听起来是个可行的办法。但我担心丈夫会看到，这让我有点犹豫。我得先解决隐私问题，才能安心尝试。）\n（也许我可以把日记存在手机里加个密码，这样就不容易被发现了。不过光写日记可能还不够，我还需要和丈夫谈谈，但又怕自己一开口就控制不住情绪。）"
+      }
+    }
+  ],
+  "created": 1795153989,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2434,
+    "total_tokens": 2557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

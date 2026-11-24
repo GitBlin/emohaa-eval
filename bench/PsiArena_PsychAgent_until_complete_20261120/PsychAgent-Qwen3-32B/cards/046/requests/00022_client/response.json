@@ -1,0 +1,41 @@
+{
+  "id": "26fa321de88b45f4949664439571e99b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，所以你的应对方式，是要求自己“更完美”。这个要求听起来很用力。它让你更安心，还是更累？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微皱眉）我会反复想，是不是哪里没做好，是不是他们觉得我不够专业。然后就会告诉自己，下次要做得更完美一点，不能有任何漏洞。",
+        "reasoning": "（稍微皱眉）我会反复想，是不是哪里没做好，是不是他们觉得我不够专业。然后就会告诉自己，下次要做得更完美一点，不能有任何漏洞。"
+      }
+    }
+  ],
+  "created": 1795155148,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1983,
+    "total_tokens": 2049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

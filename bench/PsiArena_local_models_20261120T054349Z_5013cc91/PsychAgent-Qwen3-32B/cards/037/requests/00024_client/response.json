@@ -1,0 +1,41 @@
+{
+  "id": "2b1d2daf4893418fa3d669572cc6e15e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "轻松一点吧，像随口说一句，不是审问她。太温柔我自己都别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "让我想想，我平时说话可能比较平，或者直接。温柔一点我可能做不出来，轻松点反而自然些。嗯，就像随口说一句，不是质问。",
+        "reasoning": "让我想想，我平时说话可能比较平，或者直接。温柔一点我可能做不出来，轻松点反而自然些。嗯，就像随口说一句，不是质问。"
+      }
+    }
+  ],
+  "created": 1795154825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 1919,
+    "total_tokens": 1976,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 37,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

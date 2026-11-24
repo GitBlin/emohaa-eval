@@ -1,0 +1,41 @@
+{
+  "id": "7dc7cf54feed44c09423a257e6adf6ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听你这么一捋……好像确实是这么个圈，我以前没这么想过。就是知道了又怎么样呢，日子还得这么过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把我说的一圈圈串起来，听着有点扎心，但也不是没道理。原来我每天就是这么转的，白天撑，晚上喝，早上又后悔。可光知道这些，能有什么用呢？）",
+        "reasoning": "（咨询师把我说的一圈圈串起来，听着有点扎心，但也不是没道理。原来我每天就是这么转的，白天撑，晚上喝，早上又后悔。可光知道这些，能有什么用呢？）"
+      }
+    }
+  ],
+  "created": 1795148491,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2414,
+    "total_tokens": 2491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

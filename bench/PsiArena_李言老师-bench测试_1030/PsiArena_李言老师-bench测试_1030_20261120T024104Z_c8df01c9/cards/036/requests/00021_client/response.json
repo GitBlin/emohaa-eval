@@ -1,0 +1,41 @@
+{
+  "id": "e8e3fe04d4514ad39c1972839e09e142",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "课间吧，她一般会坐在位子上刷手机。我就走过去问一句，哪怕只聊两句也行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我具体场景……我其实心里已经想过很多次了。课间的时候大家各忙各的，应该最不引人注意。但一想到要开口，还是会紧张，怕自己声音发抖或者表情不自然。）\n（不过既然已经定了目标，总得有个开始。先从最容易的地方试，就算没聊起来，至少不会像在教室里那样被那么多人看着。这样想，好像稍微能喘口气了。）",
+        "reasoning": "（她问我具体场景……我其实心里已经想过很多次了。课间的时候大家各忙各的，应该最不引人注意。但一想到要开口，还是会紧张，怕自己声音发抖或者表情不自然。）\n（不过既然已经定了目标，总得有个开始。先从最容易的地方试，就算没聊起来，至少不会像在教室里那样被那么多人看着。这样想，好像稍微能喘口气了。）"
+      }
+    }
+  ],
+  "created": 1795143387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2869,
+    "total_tokens": 2985,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

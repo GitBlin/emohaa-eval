@@ -1,0 +1,41 @@
+{
+  "id": "386adc34d54c40d4814c2e801214a708",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是前几天跟我妈打电话之后吧。其实也没什么大事，就是聊了几句，我挂了电话心里就一直不舒服。（犹豫）我这样是不是有点太敏感了？你会不会也觉得我小题大做？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体时刻，但我现在还在试探阶段，不太想马上讲太细。而且前面已经说了“闷”，现在可以稍微提一下和妈妈的电话，但不说透。顺便可以模糊地试探一下界限——比如问咨询师会不会也觉得我太敏感，这既是测试也是我习惯性的自我贬低。）",
+        "reasoning": "（咨询师问的是具体时刻，但我现在还在试探阶段，不太想马上讲太细。而且前面已经说了“闷”，现在可以稍微提一下和妈妈的电话，但不说透。顺便可以模糊地试探一下界限——比如问咨询师会不会也觉得我太敏感，这既是测试也是我习惯性的自我贬低。）"
+      }
+    }
+  ],
+  "created": 1795147231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1272,
+    "total_tokens": 1387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

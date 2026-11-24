@@ -1,0 +1,41 @@
+{
+  "id": "4708c700e52e4035a2f00a71cb21486c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记发言开头吧。那是我最容易紧张、也最容易开始怪自己的地方。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把记录动作具体化，还问我想记发言开头还是结论。我有点犹豫，因为怕选错，也怕自己记不住。）\n（想到自己总想把事情做对，反而容易卡住，不如先选最简单的。发言开头是我最紧张的点，记它可能更有用。）",
+        "reasoning": "（咨询师在帮我把记录动作具体化，还问我想记发言开头还是结论。我有点犹豫，因为怕选错，也怕自己记不住。）\n（想到自己总想把事情做对，反而容易卡住，不如先选最简单的。发言开头是我最紧张的点，记它可能更有用。）"
+      }
+    }
+  ],
+  "created": 1795142653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3013,
+    "total_tokens": 3099,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

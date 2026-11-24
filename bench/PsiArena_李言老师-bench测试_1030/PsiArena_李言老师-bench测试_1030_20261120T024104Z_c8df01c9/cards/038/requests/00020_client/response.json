@@ -1,0 +1,41 @@
+{
+  "id": "e2e402d4c1884f7a98a7cacf81218f9f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想确认的是……他到底怎么看我。好感可能有一点，但“以后”太远了。也许我先问个小的，别一下子把话说死。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想确认的是好感还是以后……这问题让我有点紧张。我其实心里知道，光有好感不够，可一下子想到“以后”又觉得太远了，远得让人害怕。）\n（但我不想再糊里糊涂地猜下去了。也许我可以先问一个没那么重的问题，先试探他到底怎么看我。这样至少能知道，我是不是在他心里有一点位置。）",
+        "reasoning": "（咨询师问我想确认的是好感还是以后……这问题让我有点紧张。我其实心里知道，光有好感不够，可一下子想到“以后”又觉得太远了，远得让人害怕。）\n（但我不想再糊里糊涂地猜下去了。也许我可以先问一个没那么重的问题，先试探他到底怎么看我。这样至少能知道，我是不是在他心里有一点位置。）"
+      }
+    }
+  ],
+  "created": 1795143523,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2980,
+    "total_tokens": 3096,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

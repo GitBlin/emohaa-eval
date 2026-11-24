@@ -1,0 +1,41 @@
+{
+  "id": "99a3e1a4fe3d43a1a5713de0ab49e4e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试着别马上翻聊天记录，也别急着给她下结论。可我又怕这样会显得我不在乎她……有点矛盾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我找到改变的一小步。我意识到那种先自责的模式和童年经历有关，但真要改变又觉得有点难。或许可以先从停止反复翻聊天记录开始？不过我还是担心这样做会不会显得太冷淡，万一她觉得我不关心她了怎么办。）",
+        "reasoning": "（咨询师在引导我找到改变的一小步。我意识到那种先自责的模式和童年经历有关，但真要改变又觉得有点难。或许可以先从停止反复翻聊天记录开始？不过我还是担心这样做会不会显得太冷淡，万一她觉得我不关心她了怎么办。）"
+      }
+    }
+  ],
+  "created": 1795148042,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2137,
+    "total_tokens": 2224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9a81a3f982cc44858c522c9509f6d4e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……其实最频繁的是晚上，一个人待着的时候。但白天有时候也会突然冒出来，尤其是我妈打电话来的时候。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这句话什么时候出现得最频繁。刚才我提到领导没说什么，但我自己反复检查，脑子里一直响着“你怎么连这个都做不好”。现在他/她问的是出现的时机……这让我想到，其实不只是工作的时候。）\n（我好像突然意识到，这句话很熟悉，不只是我自己在说。小时候我妈就经常这样讲我。每次我做得不够好，她就会强调，哪怕我拿了奖，她也只会说“别骄傲，还有进步空间”。所以现在……我好像把她的声音变成了自己的声音。）",
+        "reasoning": "（咨询师在问我这句话什么时候出现得最频繁。刚才我提到领导没说什么，但我自己反复检查，脑子里一直响着“你怎么连这个都做不好”。现在他/她问的是出现的时机……这让我想到，其实不只是工作的时候。）\n（我好像突然意识到，这句话很熟悉，不只是我自己在说。小时候我妈就经常这样讲我。每次我做得不够好，她就会强调，哪怕我拿了奖，她也只会说“别骄傲，还有进步空间”。所以现在……我好像把她的声音变成了自己的声音。）"
+      }
+    }
+  ],
+  "created": 1795154203,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1651,
+    "total_tokens": 1796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

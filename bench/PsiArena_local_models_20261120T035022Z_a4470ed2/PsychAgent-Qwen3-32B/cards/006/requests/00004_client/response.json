@@ -1,0 +1,41 @@
+{
+  "id": "19acb262696647be86d053be82818407",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安全、保密……这些我听着是挺好，但说真的，聊聊天能改变什么呢？我这事儿，不是随便说说就能解决的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密和安全的空间，这让我稍微放下一点心。但我还是不太确定，这种谈话到底能起什么作用。毕竟我面对的是实实在在的工作困境，不是随便聊聊就能解决的。）\n（而且我也有点担心，如果我说出单位里那些事，会不会被传出去。虽然他说是保密的，但这种事谁说得准呢。先试探一下他的态度吧，看看他是不是真的会替我考虑。）",
+        "reasoning": "（咨询师解释了保密和安全的空间，这让我稍微放下一点心。但我还是不太确定，这种谈话到底能起什么作用。毕竟我面对的是实实在在的工作困境，不是随便聊聊就能解决的。）\n（而且我也有点担心，如果我说出单位里那些事，会不会被传出去。虽然他说是保密的，但这种事谁说得准呢。先试探一下他的态度吧，看看他是不是真的会替我考虑。）"
+      }
+    }
+  ],
+  "created": 1795146794,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1008,
+    "total_tokens": 1129,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

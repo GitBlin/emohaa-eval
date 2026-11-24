@@ -1,0 +1,41 @@
+{
+  "id": "6140ef8a667f47d2b01109e9618e46c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从小事……可能先跟我丈夫说说吧。但我又怕他觉得我在挑事，或者觉得我对他爸妈有意见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我从小事开始尝试表达自己。这让我有点犹豫，因为从小被教育要忍让，突然要改变确实不容易。不过她说的也有道理，也许可以从一些不那么重要的事情开始练习。）\n（我想到丈夫是个比较温和的人，或许可以先和他沟通？但马上又担心他会不会觉得我在挑事。这种矛盾的感觉真让人难受，既想改变又害怕冲突。）",
+        "reasoning": "（咨询师在引导我从小事开始尝试表达自己。这让我有点犹豫，因为从小被教育要忍让，突然要改变确实不容易。不过她说的也有道理，也许可以从一些不那么重要的事情开始练习。）\n（我想到丈夫是个比较温和的人，或许可以先和他沟通？但马上又担心他会不会觉得我在挑事。这种矛盾的感觉真让人难受，既想改变又害怕冲突。）"
+      }
+    }
+  ],
+  "created": 1795148288,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2063,
+    "total_tokens": 2177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

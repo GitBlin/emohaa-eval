@@ -1,0 +1,41 @@
+{
+  "id": "def8dbc57ef74bb3b6252e58d060619e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身体扫描……听着挺玄乎的。行，你说说看吧。不过我估计我做不到，我这一坐下，脑子里全是事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在教我一个方法，身体扫描……听起来挺玄的。可我现在脑子里全是早上的头疼和昨晚那几杯酒，哪有心思从脚趾头开始放松。不过她这么耐心，我是不是该配合一下？但说实话，我连五分钟都坐不住，这扫描估计也坚持不了。）\n（而且我真正担心的不是静不下来，是身体已经出问题了。糖尿病，医生说的，喝酒喝的。这事儿我一直没敢跟谁细说，现在要不要提一嘴？算了，先应下来吧，别让人家觉得我不领情。）",
+        "reasoning": "（咨询师又在教我一个方法，身体扫描……听起来挺玄的。可我现在脑子里全是早上的头疼和昨晚那几杯酒，哪有心思从脚趾头开始放松。不过她这么耐心，我是不是该配合一下？但说实话，我连五分钟都坐不住，这扫描估计也坚持不了。）\n（而且我真正担心的不是静不下来，是身体已经出问题了。糖尿病，医生说的，喝酒喝的。这事儿我一直没敢跟谁细说，现在要不要提一嘴？算了，先应下来吧，别让人家觉得我不领情。）"
+      }
+    }
+  ],
+  "created": 1795150054,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2197,
+    "total_tokens": 2348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

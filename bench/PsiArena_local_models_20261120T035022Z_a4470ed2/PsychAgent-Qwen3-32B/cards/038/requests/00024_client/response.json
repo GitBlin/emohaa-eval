@@ -1,0 +1,41 @@
+{
+  "id": "8f6992fa2e55402198fe075312d2abf2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺强的吧……就那种空落落的，像被丢下一样。其实这种感觉不陌生，小时候也常这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我评估情绪强度，这个问法挺具体的。我本来以为咨询就是随便聊聊，现在好像要很仔细地看自己。不过“他是不是没那么喜欢我”这个念头确实让我很难受，那种空落落的感觉一下子就上来了。）\n（说到强度，我第一反应就是很强。那种被丢下的感觉太熟悉了，小时候爸妈忙，我常一个人待着。但我不想说得太夸张，好像我很脆弱似的。也许可以说“挺强的”，再稍微提一下那种熟悉感，不用展开太多。）",
+        "reasoning": "（咨询师让我评估情绪强度，这个问法挺具体的。我本来以为咨询就是随便聊聊，现在好像要很仔细地看自己。不过“他是不是没那么喜欢我”这个念头确实让我很难受，那种空落落的感觉一下子就上来了。）\n（说到强度，我第一反应就是很强。那种被丢下的感觉太熟悉了，小时候爸妈忙，我常一个人待着。但我不想说得太夸张，好像我很脆弱似的。也许可以说“挺强的”，再稍微提一下那种熟悉感，不用展开太多。）"
+      }
+    }
+  ],
+  "created": 1795148091,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2055,
+    "total_tokens": 2196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

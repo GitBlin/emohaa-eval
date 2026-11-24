@@ -1,0 +1,41 @@
+{
+  "id": "cd2d77d14528479dabcb0989162de1b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我先写下来，找个不那么紧张的时候说一句。要是说不出口，我就先照着念。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她建议我写下那句话，并在低风险时刻试一次表达。我担心自己到时候会脑子空白，也怕她真的不高兴，但至少可以先准备，不用一次说太多。）可以，我先写下来，找个不那么紧张的时候说一句。要是说不出口，我就先照着念。",
+        "reasoning": "（她建议我写下那句话，并在低风险时刻试一次表达。我担心自己到时候会脑子空白，也怕她真的不高兴，但至少可以先准备，不用一次说太多。）可以，我先写下来，找个不那么紧张的时候说一句。要是说不出口，我就先照着念。"
+      }
+    }
+  ],
+  "created": 1795154132,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3448,
+    "total_tokens": 3533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

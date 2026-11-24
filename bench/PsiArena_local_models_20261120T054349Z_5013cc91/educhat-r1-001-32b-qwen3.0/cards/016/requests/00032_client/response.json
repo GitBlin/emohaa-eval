@@ -1,0 +1,41 @@
+{
+  "id": "58babdfc77414399a0063e887a68ad21",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）可能是……小时候那种感觉又回来了吧。家里表面看着好好的，其实底下早就有了裂缝。我害怕的不是知道真相，是知道了以后，什么都回不去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了我害怕面对真相的原因，这让我一下子想到了小时候的事。那时候家里表面上好好的，其实我早就感觉到不对劲了，那种感觉一直跟着我。现在想想，可能我怕的不是真相本身，而是真相揭开后那种什么都控制不住的感觉。）\n（我其实一直想保护妈妈，可又觉得自己什么都做不了。这种无力感太熟悉了，好像从小到大都没变过。说出来有点难为情，但也许咨询师能理解我这种矛盾的心情。）",
+        "reasoning": "（咨询师问到了我害怕面对真相的原因，这让我一下子想到了小时候的事。那时候家里表面上好好的，其实我早就感觉到不对劲了，那种感觉一直跟着我。现在想想，可能我怕的不是真相本身，而是真相揭开后那种什么都控制不住的感觉。）\n（我其实一直想保护妈妈，可又觉得自己什么都做不了。这种无力感太熟悉了，好像从小到大都没变过。说出来有点难为情，但也许咨询师能理解我这种矛盾的心情。）"
+      }
+    }
+  ],
+  "created": 1795154070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 2323,
+    "total_tokens": 2464,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

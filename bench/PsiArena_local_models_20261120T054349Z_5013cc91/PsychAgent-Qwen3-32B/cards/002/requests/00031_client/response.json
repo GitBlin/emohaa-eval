@@ -1,0 +1,41 @@
+{
+  "id": "367d50d067954c7faf5213bd4925fb9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它好像一直在说“别去，她会嫌你烦”，然后让我缩回去，什么都别说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把这个念头当成一个声音来听……有点奇怪，不过试试吧。那个声音一直在说“别去，她会嫌你烦”，然后让我缩回去，什么也别说。）",
+        "reasoning": "（咨询师让我把这个念头当成一个声音来听……有点奇怪，不过试试吧。那个声音一直在说“别去，她会嫌你烦”，然后让我缩回去，什么也别说。）"
+      }
+    }
+  ],
+  "created": 1795153471,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2419,
+    "total_tokens": 2483,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

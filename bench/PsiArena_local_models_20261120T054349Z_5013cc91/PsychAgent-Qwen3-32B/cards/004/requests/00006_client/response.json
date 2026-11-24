@@ -1,0 +1,41 @@
+{
+  "id": "0aa486a372934e93aebcb1edec699ae1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿，眼睛看着地面）就是……学校的事吧。我不太想去学校，一到早上就……唉，我也不知道怎么说清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说不用讲太多，按我的节奏来……我心里稍微松了一点，可还是不知道从哪儿开口。最近最难受的事，就是学校那些人，但我不想说得太清楚。也许先提一下“不想去学校”就够了，让他知道一点，又不会问得太深。）",
+        "reasoning": "（刚才咨询师说不用讲太多，按我的节奏来……我心里稍微松了一点，可还是不知道从哪儿开口。最近最难受的事，就是学校那些人，但我不想说得太清楚。也许先提一下“不想去学校”就够了，让他知道一点，又不会问得太深。）"
+      }
+    }
+  ],
+  "created": 1795153577,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1091,
+    "total_tokens": 1184,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

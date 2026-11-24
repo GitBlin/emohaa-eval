@@ -1,0 +1,41 @@
+{
+  "id": "5c9c7398737c495cafb4ef8730253342",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我怕被落下……可能也怕自己不够好。我爸妈离婚以后，朋友几乎就是我唯一能说心里话的人，所以一有点疏远我就很慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是怕被落下还是怕自己不够好……其实这两个感觉都缠在一起。小时候爸妈分开后，我就总怕身边没人，那时候朋友就是唯一的依靠。现在好像还是这样，只要朋友稍微疏远一点，我就觉得是不是自己哪里做错了。）\n（但直接承认怕被落下好像太软弱了，显得我特别依赖别人。可如果说是怕自己不够好，又好像把问题都推到自己身上。也许可以试着提一下家里的事，让她明白这种不安不是突然冒出来的。）",
+        "reasoning": "（她问我是怕被落下还是怕自己不够好……其实这两个感觉都缠在一起。小时候爸妈分开后，我就总怕身边没人，那时候朋友就是唯一的依靠。现在好像还是这样，只要朋友稍微疏远一点，我就觉得是不是自己哪里做错了。）\n（但直接承认怕被落下好像太软弱了，显得我特别依赖别人。可如果说是怕自己不够好，又好像把问题都推到自己身上。也许可以试着提一下家里的事，让她明白这种不安不是突然冒出来的。）"
+      }
+    }
+  ],
+  "created": 1795142543,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1714,
+    "total_tokens": 1860,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

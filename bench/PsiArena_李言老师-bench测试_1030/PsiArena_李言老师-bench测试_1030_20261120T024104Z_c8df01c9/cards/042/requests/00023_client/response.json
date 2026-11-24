@@ -1,0 +1,41 @@
+{
+  "id": "1872e159471245b8b37983e5106efe28",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有，老是口渴，夜里也起好几次。体重好像也掉了点，我没敢细想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在关心我的身体症状，这让我有点紧张。口渴、多尿这些确实有，但说出来就像承认自己真的病得不轻。我犹豫要不要全盘托出，怕被说教，又怕自己吓自己。）\n（体重掉了几斤这件事，我一直没敢跟家里提。现在说出来，心里反而更沉重了。也许该让咨询师知道，但我不想被当成病人看待。）",
+        "reasoning": "（咨询师在关心我的身体症状，这让我有点紧张。口渴、多尿这些确实有，但说出来就像承认自己真的病得不轻。我犹豫要不要全盘托出，怕被说教，又怕自己吓自己。）\n（体重掉了几斤这件事，我一直没敢跟家里提。现在说出来，心里反而更沉重了。也许该让咨询师知道，但我不想被当成病人看待。）"
+      }
+    }
+  ],
+  "created": 1795143518,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3197,
+    "total_tokens": 3308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

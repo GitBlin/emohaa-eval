@@ -1,0 +1,41 @@
+{
+  "id": "a985268ddba64103918e41c107449393",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）可以试试……不过我怕到时候又条件反射。嗯，也许先在心里数几下，再开口？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考具体应对方式，这个“停一停”的提议听起来可行，但真做起来可能会很难。我有点担心自己到时候又习惯性地回到老路上。）\n（不过，至少可以先试试看。如果能在心里先问自己一句，也许能稍微拉开一点距离，不至于马上被卷进去。）",
+        "reasoning": "（咨询师在引导我思考具体应对方式，这个“停一停”的提议听起来可行，但真做起来可能会很难。我有点担心自己到时候又习惯性地回到老路上。）\n（不过，至少可以先试试看。如果能在心里先问自己一句，也许能稍微拉开一点距离，不至于马上被卷进去。）"
+      }
+    }
+  ],
+  "created": 1795143026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2917,
+    "total_tokens": 3013,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

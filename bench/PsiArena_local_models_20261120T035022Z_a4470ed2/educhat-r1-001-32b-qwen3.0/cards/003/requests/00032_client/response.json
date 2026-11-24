@@ -1,0 +1,41 @@
+{
+  "id": "f3139a8cd4ce487b90b4543c691d10d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也许吧。我想试着从小事开始，比如约同事的时候，直接说我想一起去，而不是绕来绕去试探。这样至少不用一直猜。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果展示真实的自己会不会有新的体验……这让我有点紧张，但也觉得好像可以试试。之前总担心别人不喜欢真实的我，但也许一直绷着反而更累。）\n（我想从比较小的事情开始，比如约同事的时候直接说自己的想法，不再绕弯子。这样就算结果不好，至少不用再猜来猜去了。）",
+        "reasoning": "（她问我如果展示真实的自己会不会有新的体验……这让我有点紧张，但也觉得好像可以试试。之前总担心别人不喜欢真实的我，但也许一直绷着反而更累。）\n（我想从比较小的事情开始，比如约同事的时候直接说自己的想法，不再绕弯子。这样就算结果不好，至少不用再猜来猜去了。）"
+      }
+    }
+  ],
+  "created": 1795146781,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2213,
+    "total_tokens": 2321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

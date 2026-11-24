@@ -1,0 +1,41 @@
+{
+  "id": "0eb8bfe9b7ef4a00bd1356220b63a7e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想跟他说，孩子的事希望我们两个先商量好，再跟爸妈沟通。这样至少……我们是一条心的。婆婆那边，我可能暂时还没法直接开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我思考具体的表达方式。我确实需要想清楚怎么跟丈夫说，但又不能太直接，怕他误会。也许可以从育儿的事情入手，毕竟那是我们共同的责任。）\n（不过婆婆那边……我真的没把握。她那么强势，我说什么她都觉得不对。先顾好和丈夫的关系吧，至少他还能听我说几句。）",
+        "reasoning": "（咨询师在引导我思考具体的表达方式。我确实需要想清楚怎么跟丈夫说，但又不能太直接，怕他误会。也许可以从育儿的事情入手，毕竟那是我们共同的责任。）\n（不过婆婆那边……我真的没把握。她那么强势，我说什么她都觉得不对。先顾好和丈夫的关系吧，至少他还能听我说几句。）"
+      }
+    }
+  ],
+  "created": 1795148297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2305,
+    "total_tokens": 2419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

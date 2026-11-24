@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-65ee108295344638ac924574538ee3e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通方式可能需要调整，你可以试着换一种方式表达，比如写信或者画画。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对沟通效果感到失望，可能因多次尝试未果而产生挫败感，需调整沟通策略。\n【行动策略】：建议改变沟通方式，从自我表达转向理解对方，避免重复无效模式。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对沟通效果感到失望，可能因多次尝试未果而产生挫败感，需调整沟通策略。\n【行动策略】：建议改变沟通方式，从自我表达转向理解对方，避免重复无效模式。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154874,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 1354,
+    "total_tokens": 1429,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

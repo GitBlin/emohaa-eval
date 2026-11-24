@@ -1,0 +1,41 @@
+{
+  "id": "f52079d2a2c64e49b99480e16e6b2c42",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "战士补充能量……这个比喻倒是能听懂一点。不过我发现，我好像老爱在别人面前说自己不行，说完又后悔，这是不是挺矛盾的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在试图让我理解自我关怀和严格要求可以共存，还用了战士的比喻。但在我家里，这种想法根本行不通。我妈要是看到我放松，只会觉得我在偷懒。）\n（我忽然想到自己好像一直在用贬低自己的方式换取别人的关注，尤其是对我妈。这个发现让我有点难受，也许说出来咨询师能帮我理清一点。）",
+        "reasoning": "（咨询师在试图让我理解自我关怀和严格要求可以共存，还用了战士的比喻。但在我家里，这种想法根本行不通。我妈要是看到我放松，只会觉得我在偷懒。）\n（我忽然想到自己好像一直在用贬低自己的方式换取别人的关注，尤其是对我妈。这个发现让我有点难受，也许说出来咨询师能帮我理清一点。）"
+      }
+    }
+  ],
+  "created": 1795148446,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1924,
+    "total_tokens": 2037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

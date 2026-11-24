@@ -1,0 +1,41 @@
+{
+  "id": "0c1b613f20e24066932f829dc8154b40",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你说的这些我大概听明白了……不过我还是有点担心，我跟你说的事情，你会不会告诉别人？比如我家里人。我丈夫他……算了，我就是想先确认一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，但我还是有点不放心。她说的“安全的空间”听起来不错，可我真的能随便说吗？我得先试探一下，看看她会不会站在我这边，还是只会讲大道理。毕竟以前跟别人说家里的事，最后都是劝我忍。我有点怕她也会那样。）\n（而且……我其实还没准备好把那些事全说出来。先问问她会不会告诉我家里人或者我丈夫吧，这很重要。如果她不能保证保密，那我什么都不敢讲。）",
+        "reasoning": "（咨询师解释了流程，但我还是有点不放心。她说的“安全的空间”听起来不错，可我真的能随便说吗？我得先试探一下，看看她会不会站在我这边，还是只会讲大道理。毕竟以前跟别人说家里的事，最后都是劝我忍。我有点怕她也会那样。）\n（而且……我其实还没准备好把那些事全说出来。先问问她会不会告诉我家里人或者我丈夫吧，这很重要。如果她不能保证保密，那我什么都不敢讲。）"
+      }
+    }
+  ],
+  "created": 1795153791,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 986,
+    "total_tokens": 1130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3355a3e4f8d442b5b194edd704844c38",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "几分钟……听起来不难，但我怕一开口就还是答应。我可能会先找借口说“我看看时间”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才建议我先给自己几分钟再回答……这个提议听起来不算太难，但真要做的时候，我大概还是会紧张。我是不是应该先承认自己可能做不到？可如果连试都不试，好像又对不起刚才说的那些话。）",
+        "reasoning": "（咨询师刚才建议我先给自己几分钟再回答……这个提议听起来不算太难，但真要做的时候，我大概还是会紧张。我是不是应该先承认自己可能做不到？可如果连试都不试，好像又对不起刚才说的那些话。）"
+      }
+    }
+  ],
+  "created": 1795153795,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2304,
+    "total_tokens": 2381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8418f8ca418a41afb9460992c284f7e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通……（犹豫）我怕一开口就变成吵架。在我家，大家都不太直接说感受的，都是忍着。你说我该怎么开口才不会搞砸？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我直接和男友沟通，这让我有点不安。虽然我知道沟通很重要，但从小被教育要克制情绪，现在要直接表达感受反而觉得别扭。而且我担心说出来会显得太敏感，或者引发争吵。）\n（或许可以先试探性地问问咨询师，这种沟通会不会破坏关系。毕竟我习惯了把情绪压在心里，突然要改变方式，需要一点安全感。）",
+        "reasoning": "（咨询师建议我直接和男友沟通，这让我有点不安。虽然我知道沟通很重要，但从小被教育要克制情绪，现在要直接表达感受反而觉得别扭。而且我担心说出来会显得太敏感，或者引发争吵。）\n（或许可以先试探性地问问咨询师，这种沟通会不会破坏关系。毕竟我习惯了把情绪压在心里，突然要改变方式，需要一点安全感。）"
+      }
+    }
+  ],
+  "created": 1795150021,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2019,
+    "total_tokens": 2137,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

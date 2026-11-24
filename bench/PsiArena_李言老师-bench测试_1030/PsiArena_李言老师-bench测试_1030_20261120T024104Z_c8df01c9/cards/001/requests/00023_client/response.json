@@ -1,0 +1,41 @@
+{
+  "id": "486e5cb194b0427888ddcb1a59f980ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头想了下）可能是课间吧……或者老师让分组的时候。（轻声）一到那种时候，我就不知道该往哪站。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我记录触发点，还问最常被什么事触发。我一下子想到课间，大家聚在一起说笑的样子，或者老师让人分组的时候，那种不知道往哪站的感觉。）\n（其实不只是身体发紧，更难受的是那种想靠近又不敢的念头。每次都是这样，明明心里想过去，脚却动不了。说出来的话，会不会显得我太在意这些小事了。）",
+        "reasoning": "（咨询师让我记录触发点，还问最常被什么事触发。我一下子想到课间，大家聚在一起说笑的样子，或者老师让人分组的时候，那种不知道往哪站的感觉。）\n（其实不只是身体发紧，更难受的是那种想靠近又不敢的念头。每次都是这样，明明心里想过去，脚却动不了。说出来的话，会不会显得我太在意这些小事了。）"
+      }
+    }
+  ],
+  "created": 1795142673,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 3166,
+    "total_tokens": 3283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7aa4986757f145c980933b5a9240a81f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "天气预报……我大概是那种一看到乌云就拉响暴雨预警的人吧，挺累的。对了，你平时会把自己这些方法用在家人身上吗？还是说咨询师都会把工作和生活分得很开？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用天气预报的比喻来引导我描述焦虑程度，但我现在更在意的是她怎么看待我的状态。她似乎总在回避直接评价我，这让我有点不安，我得再试探一下她的界限。）\n（作为来访者，我确实需要确认咨询师会不会像其他人一样评判我。问私人问题虽然冒昧，但能测试她是否专业。如果她直接回答私人问题，我反而会觉得不靠谱。）",
+        "reasoning": "（咨询师用天气预报的比喻来引导我描述焦虑程度，但我现在更在意的是她怎么看待我的状态。她似乎总在回避直接评价我，这让我有点不安，我得再试探一下她的界限。）\n（作为来访者，我确实需要确认咨询师会不会像其他人一样评判我。问私人问题虽然冒昧，但能测试她是否专业。如果她直接回答私人问题，我反而会觉得不靠谱。）"
+      }
+    }
+  ],
+  "created": 1795154389,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1463,
+    "total_tokens": 1601,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

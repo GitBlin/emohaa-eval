@@ -1,0 +1,41 @@
+{
+  "id": "91cae592845447c4a1dfe1b77b4edccc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）周末会去一趟，大概周六吧。想到要开口，我现在就有点紧张，不过……总得试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才问的是见面时间，我需要回答这个，同时保持后期阶段规则。简短2-3句。）",
+        "reasoning": "（用户刚才问的是见面时间，我需要回答这个，同时保持后期阶段规则。简短2-3句。）"
+      }
+    }
+  ],
+  "created": 1795154307,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3472,
+    "total_tokens": 3525,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

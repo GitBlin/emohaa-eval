@@ -1,0 +1,41 @@
+{
+  "id": "fbe1250a1ccf471bb4ed27844617fd3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是信用卡……刷的时候没感觉，等到账单来了才心疼。我也知道这样不好，可当时就是顾不上想那么多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户提到支付方式这个细节，可能想探究消费决策的机制。但作为来访者，我其实不太想讨论技术性问题，更想表达那种失控感。不过既然咨询师问了，还是得回应一下。\n\n信用卡确实是个关键点，因为延迟付款会减轻当下的负罪感，但账单来的时候更痛苦。这个矛盾可以带出来，但不用说得太透，保持那种“知道有问题但说不清”的状态。\n\n可以稍微带点自嘲的语气，表现出对自身行为的无奈，但不要过度分析。这样既回答了问题，又保持了来访者的真实感。",
+        "reasoning": "嗯，用户提到支付方式这个细节，可能想探究消费决策的机制。但作为来访者，我其实不太想讨论技术性问题，更想表达那种失控感。不过既然咨询师问了，还是得回应一下。\n\n信用卡确实是个关键点，因为延迟付款会减轻当下的负罪感，但账单来的时候更痛苦。这个矛盾可以带出来，但不用说得太透，保持那种“知道有问题但说不清”的状态。\n\n可以稍微带点自嘲的语气，表现出对自身行为的无奈，但不要过度分析。这样既回答了问题，又保持了来访者的真实感。"
+      }
+    }
+  ],
+  "created": 1795147615,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 1975,
+    "total_tokens": 2128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

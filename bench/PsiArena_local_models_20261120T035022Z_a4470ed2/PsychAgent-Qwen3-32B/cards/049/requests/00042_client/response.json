@@ -1,0 +1,41 @@
+{
+  "id": "daf63c7006d94b9bacf9a07807296a47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点难为情……不过，我可以先写下来，不一定说出来。这样算不算？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到对自己耐心，还让我试着说一句温和的话……这让我有点不自在。我好像从来不会这样对自己说话，总觉得那是矫情。但他说不急着做好，也许可以先试试看，只是说出来还是有点难为情。）",
+        "reasoning": "（咨询师提到对自己耐心，还让我试着说一句温和的话……这让我有点不自在。我好像从来不会这样对自己说话，总觉得那是矫情。但他说不急着做好，也许可以先试试看，只是说出来还是有点难为情。）"
+      }
+    }
+  ],
+  "created": 1795148874,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3049,
+    "total_tokens": 3123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

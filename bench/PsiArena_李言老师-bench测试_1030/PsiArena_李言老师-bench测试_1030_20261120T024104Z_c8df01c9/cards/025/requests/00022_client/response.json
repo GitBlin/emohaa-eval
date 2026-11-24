@@ -1,0 +1,41 @@
+{
+  "id": "888e31319f3a4082ae242ce9df15fe1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕她觉得我不够耐心，不会带孩子。也可能……是怕她拿我跟别人比，觉得我工作忙就顾不上孩子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得真细，我其实不太敢想婆婆具体在怪我什么，但那种被审视的感觉太熟悉了。可能我从小被要求懂事，现在也怕被说不够好。）\n（我是不是又把问题都推到自己身上了？明明婆婆没说什么，可我就是会往坏处想。这种担心说出来有点丢人，但好像也是我一直在意的事。）",
+        "reasoning": "（她问得真细，我其实不太敢想婆婆具体在怪我什么，但那种被审视的感觉太熟悉了。可能我从小被要求懂事，现在也怕被说不够好。）\n（我是不是又把问题都推到自己身上了？明明婆婆没说什么，可我就是会往坏处想。这种担心说出来有点丢人，但好像也是我一直在意的事。）"
+      }
+    }
+  ],
+  "created": 1795143125,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3095,
+    "total_tokens": 3205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

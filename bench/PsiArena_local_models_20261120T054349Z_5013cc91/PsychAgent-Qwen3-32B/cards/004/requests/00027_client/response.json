@@ -1,0 +1,41 @@
+{
+  "id": "91f2c5a899f34aab906df3112efb2a2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（手按在胸口，慢慢说）这儿闷闷的，喘不上气。想到明天还得去学校，就更紧了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想，手按在胸口）这儿吧，闷闷的。有时候还觉得喘不上气，尤其想到明天还要去学校的时候。",
+        "reasoning": "（想了想，手按在胸口）这儿吧，闷闷的。有时候还觉得喘不上气，尤其想到明天还要去学校的时候。"
+      }
+    }
+  ],
+  "created": 1795153606,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2352,
+    "total_tokens": 2411,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

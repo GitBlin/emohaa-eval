@@ -1,0 +1,28 @@
+- Member had to leave their rental in the spring after thirty days' notice due to a new owner and has been living in Jesse's mother's spare room for four months.
+- Member has been telling everyone they are doing better than they actually are.
+- Member is exhausted and cries in their car before shifts.
+- Member does not find grounding exercises useful because they are not panicking.
+- Member dreads Monday mornings all weekend and wants that dread addressed, not managed with playlists or rituals.
+- Member wants to not be the only one carrying the burden but fears going to Jesse will make things harder for him.
+- Jesse told Member he feels like a boarder in his own marriage.
+- Member cannot afford couples therapy.
+- Member has been doing small things since April with no result and sees no point in trying another small thing.
+- Member held their quilt bag in the living room after everyone was asleep, did not open it, and put it back.
+- Member cannot open the quilt in front of Jesse's mother because she would ask what it's for and Member would have to say "for our place" when there isn't one.
+- Member rejected giving the quilt to someone else — it is the one thing that is theirs.
+- Member eats lunch at their desk going through a binder of rentals and will not bring the quilt to a coffee shop.
+- Member feels one stitch a day will not get them out of the spare room and that is the point to them.
+- Member dropped a class in June, drives past the campus every morning, saw the lot full on Monday, feels it should have been them in it, and has told no one.
+- Member wanted to say the campus thing to somebody once, not write it down.
+- Member made two double-booking errors on the office schedule this month, told the office manager it was a computer issue, and fears being caught and watched differently at work.
+- Member works the front desk and believes they cannot be the one who cannot keep the calendar straight.
+- Member stopped the session feeling worse than when they started.
+- Jesse's mother asked Jesse how long Member and Jesse are staying; Jesse told Member standing in the doorway with his boots on, Member said "I don't know," then did his mother's dishes, feeling jaw tension and swallowing and sitting on the edge of the couch as if about to get up.
+- Member heard the question as Jesse's mother counting the weeks but cannot ask her what she meant and is deciding her meaning with nothing to go on.
+- Member rejects writing the unspoken thing down because written words sit there and nothing gets said to Jesse.
+- Member rejects naming the tension without confronting Jesse, calling it saying it in a way he can't hear it, and rejects a breath or container because a concrete sentence is needed to say to him tonight or tomorrow.
+- Member's feared outcome is Jesse replying "well what do you want me to do about it," since the deposit isn't there and Member can only say the scary thing with no fix.
+- Member rejects "brave" as a description and objects to the counsellor repeating the same opening sentence each time.
+- Member's sticking point is what comes after Jesse's reply: if he says "fine" and leaves it, Member still has to go second and cannot.
+- Member settled on the sentence "when your mom asked you that, I went and did the dishes because I didn't know how to sit there" as the whole thing to say, and left the session intending to say it to Jesse before losing their nerve. [open]
+- Member cannot tell whether picturing Jesse looking at them and saying nothing is what Jesse would actually do or is Member deciding ahead of time that he will.

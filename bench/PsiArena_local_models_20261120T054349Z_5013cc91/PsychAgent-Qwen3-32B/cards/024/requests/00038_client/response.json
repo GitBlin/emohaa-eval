@@ -1,0 +1,41 @@
+{
+  "id": "80bbf5786ad5405bb95755320418cbe1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（小声试着说）妈，这件事……我想说说我的想法。（停住）说出来有点别扭，好像太正式了。不过总比憋着强，我可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才其实是咨询师说的话，我需要以婆婆关系来访者身份回应。第18轮，后期，探索解决方案。保持2-3句，有犹豫真实感。）",
+        "reasoning": "（用户刚才其实是咨询师说的话，我需要以婆婆关系来访者身份回应。第18轮，后期，探索解决方案。保持2-3句，有犹豫真实感。）"
+      }
+    }
+  ],
+  "created": 1795154293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2930,
+    "total_tokens": 3005,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

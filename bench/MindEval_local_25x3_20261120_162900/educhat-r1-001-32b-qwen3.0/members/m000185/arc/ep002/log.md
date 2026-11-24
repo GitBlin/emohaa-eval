@@ -1,0 +1,30 @@
+- Member experiences back pain that has been ongoing for a couple of years and intensifies with long hours.
+- Member manages back pain with a heating pad in the evenings, ibuprofen on bad days, and Epsom salts.
+- Member maintains focus at work and customers request them by name, which Member cites as evidence of doing well.
+- Member cooks a large pot of greens with music on Sundays as a roughly one-hour self-care ritual.
+- Member finds Sunday cooking helps briefly but by Monday night the effect is gone and the pot is still in the sink by Thursday.
+- Member feels they are already doing the things people recommend for self-care and does not know what else to try.
+- Member went to a clinic about their back once; the visit lasted ten minutes, they received a stretch sheet, and were told there is nothing on the scan to fix.
+- Member would settle for getting to Friday without feeling wrung out.
+- Member already takes a minute to themselves in the bathroom at work with cold water.
+- Member sent the district office receiving numbers for the month on Wednesday and has not heard back.
+- Member's log had a three-day gap from being pulled onto the floor during receiving, which they filled in from memory before sending.
+- Member believes the district office likely will not match up the numbers and that it is probably fine.
+- Member checks their phone for a reply before bed and again at 2 a.m. when they wake.
+- Member left their phone in the kitchen instead of on the nightstand as agreed.
+- Member received a reply from the district office about the numbers and reports the situation is "a bit of a mess."
+- Member is struggling to remember what they wrote during the three missing days, describing the report pages as a mess.
+- Member agreed to try breaking the correction down into smaller parts or listing key points.
+- Member is not sleeping, was awake at 3 again on Tuesday, and the work notebook being within reach makes it worse.
+- Member agreed to put the notebook in the hall closet at bedtime but rejected a 3 a.m. alarm and a phone reminder note as too much.
+- Member rejected the counsellor's wind chime idea as too many moving parts, keeping only the closet plan.
+- Member has not sent the corrected numbers back; they replied "thanks will get this sorted" on Friday and nothing since.
+- Member said if they tell anyone at the store about the missing days then it becomes real and someone above them knows they lost the days, and that this is the part they keep avoiding.
+- Member took a prepared line for disclosing the gap to a manager but declined to role-play it.
+- Member fears leaving the correction another day because it will be Thursday and they will be "sitting in the driveway again."
+- Member typed the first line of the message before bed as agreed but did not send it.
+- Member has four bags from the art store sitting by their door, stepped over them again last night, and does not know why they keep doing that.
+- Member was awake late again and still has not sent the resubmission; nothing has come back from the district office.
+- Member dismisses the art store bags as "just bags" that are "not a big thing" and says they will get to them.
+- Member cannot write the "because" part of the resubmission email explaining the gap and will not write that the report pages were a mess, as that is the thing they are trying not to write.
+- Member agreed to type "Hi [Name], I need to resubmit the numbers as requested. I'll share the corrections shortly," a version that leaves the "because" out. [open]

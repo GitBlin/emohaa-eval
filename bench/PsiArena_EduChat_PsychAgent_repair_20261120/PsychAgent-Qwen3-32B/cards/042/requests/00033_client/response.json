@@ -1,0 +1,41 @@
+{
+  "id": "7d21c846f460446f99b546a6253943f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近一次……就是前天开会，领导当着大家的面说我“连这点事都管不好”。我当场心跳得厉害，手心全是汗，只能装作没事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "现在进入后期，需要探索解决方案和行动计划，情绪趋于稳定。但用户刚才的问题是关于心跳加快的情境，先回应这个问题，然后慢慢转向行动。保持简短2-3句。",
+        "reasoning": "现在进入后期，需要探索解决方案和行动计划，情绪趋于稳定。但用户刚才的问题是关于心跳加快的情境，先回应这个问题，然后慢慢转向行动。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795155010,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3368,
+    "total_tokens": 3444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

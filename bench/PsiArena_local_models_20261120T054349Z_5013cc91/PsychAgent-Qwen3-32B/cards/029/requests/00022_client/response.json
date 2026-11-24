@@ -1,0 +1,41 @@
+{
+  "id": "ffe347c8a9e143c1986a0407e3d7c6df",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "消费-后悔循环……听着是挺像的。不过光有个名字，好像也解决不了我明知道不该买还去买的问题啊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在给我那种反复买、又后悔的感觉起名字……这个说法确实挺贴切的。但我心里还是有点乱，觉得光有个名字好像也没什么用。）\n（我其实更想知道的是，为什么我明知道不该买，可一到那种时候就像变了个人似的。是不是跟小时候家里总说钱不够有关？那时候想要什么都不敢开口。）",
+        "reasoning": "（咨询师在给我那种反复买、又后悔的感觉起名字……这个说法确实挺贴切的。但我心里还是有点乱，觉得光有个名字好像也没什么用。）\n（我其实更想知道的是，为什么我明知道不该买，可一到那种时候就像变了个人似的。是不是跟小时候家里总说钱不够有关？那时候想要什么都不敢开口。）"
+      }
+    }
+  ],
+  "created": 1795154518,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2091,
+    "total_tokens": 2198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

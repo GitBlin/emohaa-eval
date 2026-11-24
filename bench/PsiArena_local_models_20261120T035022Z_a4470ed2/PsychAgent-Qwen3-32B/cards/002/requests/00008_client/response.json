@@ -1,0 +1,41 @@
+{
+  "id": "811e546d7959496b8cd5668c9e81e603",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……大概是上周吧，跟朋友在一起的时候。不过具体怎么回事我也讲不太清楚，就是突然觉得不太舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次这种感觉最明显是什么时候。我其实不太想马上说得太深，毕竟才刚开始聊，我还不太确定这个人值不值得信任。不过既然已经说了闷和空，稍微提一下场景应该可以吧。）\n（想到上周和朋友一起的时候，那种被晾在一边的感觉一下子又浮上来了。但我不想说得太细，就简单带过好了，看看咨询师会怎么反应。）",
+        "reasoning": "（咨询师问我最近一次这种感觉最明显是什么时候。我其实不太想马上说得太深，毕竟才刚开始聊，我还不太确定这个人值不值得信任。不过既然已经说了闷和空，稍微提一下场景应该可以吧。）\n（想到上周和朋友一起的时候，那种被晾在一边的感觉一下子又浮上来了。但我不想说得太细，就简单带过好了，看看咨询师会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795146714,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1129,
+    "total_tokens": 1244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

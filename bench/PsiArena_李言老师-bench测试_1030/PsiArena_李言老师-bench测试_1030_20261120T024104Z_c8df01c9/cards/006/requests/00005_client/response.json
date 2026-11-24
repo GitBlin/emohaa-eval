@@ -1,0 +1,41 @@
+{
+  "id": "961f86a707584eb98cc86f2e57c4ca79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "单位里有些事，我看不惯……但说出来又怕显得我太较真。你们做咨询的，会不会也觉得我这种人太轴了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有急着追问细节，而是让我先聚焦此刻最突出的念头，这让我稍微放松了一点。但我不想一下子把工作上的事全倒出来，还是想先试探一下咨询师的态度。）\n（我提到单位里有些事让我看不惯，其实是在观察咨询师会不会追问具体的人或事，会不会有评判。这样我才能判断这里是不是真的安全，能不能继续往下说。）",
+        "reasoning": "（咨询师没有急着追问细节，而是让我先聚焦此刻最突出的念头，这让我稍微放松了一点。但我不想一下子把工作上的事全倒出来，还是想先试探一下咨询师的态度。）\n（我提到单位里有些事让我看不惯，其实是在观察咨询师会不会追问具体的人或事，会不会有评判。这样我才能判断这里是不是真的安全，能不能继续往下说。）"
+      }
+    }
+  ],
+  "created": 1795142507,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1310,
+    "total_tokens": 1428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

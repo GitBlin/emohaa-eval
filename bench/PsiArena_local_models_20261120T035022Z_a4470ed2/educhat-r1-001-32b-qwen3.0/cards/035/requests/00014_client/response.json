@@ -1,0 +1,41 @@
+{
+  "id": "e38248ae3ed840e69d5e4c58bd98b8e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……其实我和男朋友最近总吵架，吵完我又后悔。我有时候发消息给他，等回复的时候心一直跳，特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接回答我的私人问题，而是把话题引回我身上，这让我有点安心，至少说明她不会随便越界。但她那句“坦诚面对自己的不完美”让我心里有点发酸，好像被轻轻戳了一下。）\n（我其实很想说说和男友的事，但又怕一开口就控制不住情绪。先试探着提一点吧，看看她会不会真的愿意听，而不是急着给我建议。）",
+        "reasoning": "（咨询师没有直接回答我的私人问题，而是把话题引回我身上，这让我有点安心，至少说明她不会随便越界。但她那句“坦诚面对自己的不完美”让我心里有点发酸，好像被轻轻戳了一下。）\n（我其实很想说说和男友的事，但又怕一开口就控制不住情绪。先试探着提一点吧，看看她会不会真的愿意听，而不是急着给我建议。）"
+      }
+    }
+  ],
+  "created": 1795149434,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1397,
+    "total_tokens": 1518,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

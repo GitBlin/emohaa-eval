@@ -1,0 +1,41 @@
+{
+  "id": "54bb006171ac4e7d9c32e4854f59f531",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你说的这个“练习”听起来没那么吓人。那我先试试，不急着决定要不要告诉他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下）那……我是不是也应该想想，到底要不要告诉他那件事？还是说，我现在连这个都还没想清楚，就先别急着做决定？",
+        "reasoning": "（停顿了一下）那……我是不是也应该想想，到底要不要告诉他那件事？还是说，我现在连这个都还没想清楚，就先别急着做决定？"
+      }
+    }
+  ],
+  "created": 1795154922,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2875,
+    "total_tokens": 2933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

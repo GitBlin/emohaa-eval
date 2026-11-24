@@ -1,0 +1,41 @@
+{
+  "id": "3d75f61c56654256ae5b8d7d27fe4cff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……可以事先跟丈夫沟通好，让他知道我的难处。不过有时候又觉得，这样会不会显得我在背后告状？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我除了暂停之外还有什么保护自己的小技巧，看来是想帮我把这些方法具体化。我想到以前总是把委屈憋在心里，现在觉得可以试着先跟丈夫说说，这样至少不是一个人扛着。）\n（不过我也在担心，这样会不会显得我在背后告状。毕竟家里的事，说出去总觉得不太好。但转念一想，丈夫也是家里的一员，跟他说说应该不算过分吧。）",
+        "reasoning": "（咨询师在问我除了暂停之外还有什么保护自己的小技巧，看来是想帮我把这些方法具体化。我想到以前总是把委屈憋在心里，现在觉得可以试着先跟丈夫说说，这样至少不是一个人扛着。）\n（不过我也在担心，这样会不会显得我在背后告状。毕竟家里的事，说出去总觉得不太好。但转念一想，丈夫也是家里的一员，跟他说说应该不算过分吧。）"
+      }
+    }
+  ],
+  "created": 1795154418,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2830,
+    "total_tokens": 2949,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-01b99589772a490ca54835671c89510d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我理解你的感受。我们不需要说太多，只要把心里想说的话说出来就好。最近有什么事情让你感到困扰吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：咨询师通过提问引导来访者表达感受。\n【行动策略】：鼓励来访者分享近期困扰，建立初步信任。\n",
+        "reasoning_content": "\n【诊断分析】：咨询师通过提问引导来访者表达感受。\n【行动策略】：鼓励来访者分享近期困扰，建立初步信任。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146693,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 287,
+    "total_tokens": 348,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

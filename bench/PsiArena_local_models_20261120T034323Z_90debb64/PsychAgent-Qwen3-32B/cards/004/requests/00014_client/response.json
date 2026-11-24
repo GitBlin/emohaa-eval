@@ -1,0 +1,41 @@
+{
+  "id": "f957cc07cf3e49f48517033b0bc840e7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧……还有早上。早上醒来的时候，一想到要去学校，心里就发慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候最容易出现那种空落落的感觉……我其实不太想马上说得太细，但又觉得他好像真的在认真听。晚上最难受，可我不想直接说是因为一个人待着，怕显得太软弱。先含糊一点吧，提一下晚上和早上，应该不算说太多。）",
+        "reasoning": "（咨询师问我什么时候最容易出现那种空落落的感觉……我其实不太想马上说得太细，但又觉得他好像真的在认真听。晚上最难受，可我不想直接说是因为一个人待着，怕显得太软弱。先含糊一点吧，提一下晚上和早上，应该不算说太多。）"
+      }
+    }
+  ],
+  "created": 1795146371,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 1504,
+    "total_tokens": 1590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c319db17dfaa4a82b8a9c42b63a17f6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写三句话……好像可以试试。（犹豫）可我要是坚持不了几天，会不会更觉得自己不行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她建议我睡前做一件安静的小事……听起来好像不难，但我不确定自己能不能坚持。晚上那种空落落的感觉太强了，有时候连动都不想动。）\n（不过她说得对，总得试试看。写三句话可能比散步容易些，至少不用出门。但我又担心万一做不到，会不会更觉得自己没用……）",
+        "reasoning": "（她建议我睡前做一件安静的小事……听起来好像不难，但我不确定自己能不能坚持。晚上那种空落落的感觉太强了，有时候连动都不想动。）\n（不过她说得对，总得试试看。写三句话可能比散步容易些，至少不用出门。但我又担心万一做不到，会不会更觉得自己没用……）"
+      }
+    }
+  ],
+  "created": 1795143572,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2456,
+    "total_tokens": 2553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

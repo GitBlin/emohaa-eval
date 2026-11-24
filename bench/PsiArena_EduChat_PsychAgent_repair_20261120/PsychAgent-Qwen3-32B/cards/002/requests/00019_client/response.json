@@ -1,0 +1,41 @@
+{
+  "id": "9d0c5675e7c145c5a58e5c198de12a06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一个念头啊……好像是“果然，我又不够好”。这种感觉其实很熟悉，小时候我爸妈吵架的时候，我也总觉得是不是我哪里做得不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我脑子里冒出的第一个念头……让我想想，当时那种感觉一下子涌上来的时候，我心里最先想到的到底是什么。好像不是“她怎么不理我”，而是更深一层的，那种“我果然又不够好”的念头。）",
+        "reasoning": "（咨询师问的是我脑子里冒出的第一个念头……让我想想，当时那种感觉一下子涌上来的时候，我心里最先想到的到底是什么。好像不是“她怎么不理我”，而是更深一层的，那种“我果然又不够好”的念头。）"
+      }
+    }
+  ],
+  "created": 1795153457,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 1771,
+    "total_tokens": 1857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

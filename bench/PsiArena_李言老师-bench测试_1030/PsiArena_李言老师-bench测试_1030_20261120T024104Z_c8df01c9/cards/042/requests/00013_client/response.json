@@ -1,0 +1,41 @@
+{
+  "id": "e16cfb76c1284b26a05ee4e786a1dbaf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都难受……但装没事更累，感觉每天像在演。可我要不演，家里怎么办，公司怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更难受的是空还是装没事的累，这问题戳到我了。我其实一直回避去想这些，但最近身体确实越来越差，再装下去可能真的会垮。）\n（我得说点什么，但又不想显得太脆弱。也许可以承认一部分，但别全摊开。毕竟家里人都指望我，我不能让他们觉得我撑不住。）",
+        "reasoning": "（咨询师在问我更难受的是空还是装没事的累，这问题戳到我了。我其实一直回避去想这些，但最近身体确实越来越差，再装下去可能真的会垮。）\n（我得说点什么，但又不想显得太脆弱。也许可以承认一部分，但别全摊开。毕竟家里人都指望我，我不能让他们觉得我撑不住。）"
+      }
+    }
+  ],
+  "created": 1795143425,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2215,
+    "total_tokens": 2321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

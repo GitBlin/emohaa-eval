@@ -1,0 +1,41 @@
+{
+  "id": "5b4e835a9e724a69b1fce07a11274738",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "当然可以。我们下次就围绕你这三天的记录来聊，不用准备得很完整，想到哪说到哪就好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点点头，语气比刚才稳了一点）好，那我先试三天。就是……到时候我要是又不知道怎么说，还能来问你吗？",
+        "reasoning": "（点点头，语气比刚才稳了一点）好，那我先试三天。就是……到时候我要是又不知道怎么说，还能来问你吗？"
+      }
+    }
+  ],
+  "created": 1795147986,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3362,
+    "total_tokens": 3419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

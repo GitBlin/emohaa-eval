@@ -1,0 +1,15 @@
+- Member's doctor flagged elevated liver enzymes at an annual physical and asked Member to cut back on drinking before a retest next week; Member has not managed the cutback as instructed.
+- Member set rules (weekdays off, a jigger, a count in the back of the notebook) and held them nine days before a Thursday client dinner ended the streak.
+- Member says client dinners drive drinking because rounds get ordered for the table and not drinking makes Member look strange, and there is nobody at work Member would bring this to.
+- Member's brother calls on Sundays; Member rejects using that call as a scheduled check-in and does not want the brother monitoring Member.
+- Member states plans are not what is missing — Member already has rules, a plan and a notebook count, so further planning suggestions do not address the problem.
+- Member says the first drink at a dinner is easy social participation, but the second is where self-monitoring stops because nobody is counting and Member has stopped counting too.
+- Member says a self-sent reminder text would be ignored and the second drink poured anyway, as Member does not follow the rules in Member's own notebook.
+- Member says the retest result is already determined after six weeks of drinking and a week of abstinence will not change it, so the test is not a motivator.
+- Member rejects a strict no-alcohol week before the retest as another rule Member would break by Thursday.
+- Member rejects a harm-reduction log of 0–1 drinks at dinners as another column in the same notebook, which Member has twice stopped writing in.
+- Member rejects a pre-dinner walk plus phone reminder as a further plan, saying there is no version of a plan Member has not already tried, and finds that worrying.
+- Member declines a confidential peer support line, noting this counselling is already that kind of support.
+- Member has no dinner this week; the difficulty is ordinary nights, when cooking feels like too much work and by nine Member is on the couch with a glass.
+- Member says the problem after nine is not cooking but the quiet apartment, that the glass is for the quiet, and that Member has nothing to put in its place.
+- Member rejects a 10-minute walk after nine as another plan handed over instead of addressing the problem, and ended the session there.

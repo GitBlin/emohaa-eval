@@ -1,0 +1,41 @@
+{
+  "id": "fec612ceab2341668baf1e64941cbffb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能说出“不是只能硬扛”，已经是一个变化了。接下来一周，你最想先落实哪一个小动作？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我大概知道下次那种时候该怎么做了。说实话，之前一直觉得只能硬扛。",
+        "reasoning": "嗯，我大概知道下次那种时候该怎么做了。说实话，之前一直觉得只能硬扛。"
+      }
+    }
+  ],
+  "created": 1795154845,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 2706,
+    "total_tokens": 2752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

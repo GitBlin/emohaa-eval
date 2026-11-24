@@ -1,0 +1,41 @@
+{
+  "id": "eeafb0d7b6e64162928bed776127288b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）我试试……“我已经很努力了”。（停顿）说出来心里有点酸，好像我一直没允许自己这么说过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在引导我对自己说鼓励的话，这让我想起小时候父母总是用成绩来衡量我。我好像一直在重复这种模式，现在又用同样的标准来要求女儿。）\n（作为教师，我明白鼓励的重要性，但对自己却总是苛刻。这种矛盾让我感到困惑，也许我的焦虑真的和成长经历有关。）",
+        "reasoning": "（心理咨询师在引导我对自己说鼓励的话，这让我想起小时候父母总是用成绩来衡量我。我好像一直在重复这种模式，现在又用同样的标准来要求女儿。）\n（作为教师，我明白鼓励的重要性，但对自己却总是苛刻。这种矛盾让我感到困惑，也许我的焦虑真的和成长经历有关。）"
+      }
+    }
+  ],
+  "created": 1795154423,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1712,
+    "total_tokens": 1810,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

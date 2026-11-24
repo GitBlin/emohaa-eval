@@ -1,0 +1,41 @@
+{
+  "id": "2fb91bf6eb414a9abe1b654b13849a02",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先别急着定“能不能接受”，先跟她说我的感受，不是质问。比如告诉她“我会紧张，但我想听你说”。这样会不会比我一上来就问“你是不是对我不满”好？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望得到什么样的支持，以及什么样的表达方式让我有安全感。看来她是想引导我具体化地思考怎么行动了。我不能再绕在“怕变成审问”里，得试着想一个实际的办法。）\n（如果我能先说明自己的感受，而不是一上来就质问她，也许就不会那么像审问了。比如告诉她我会紧张，但我想听她说。这样既表达了不安，也留出了空间，应该比直接问“你是不是对我不满”好一些。）",
+        "reasoning": "（咨询师在问我希望得到什么样的支持，以及什么样的表达方式让我有安全感。看来她是想引导我具体化地思考怎么行动了。我不能再绕在“怕变成审问”里，得试着想一个实际的办法。）\n（如果我能先说明自己的感受，而不是一上来就质问她，也许就不会那么像审问了。比如告诉她我会紧张，但我想听她说。这样既表达了不安，也留出了空间，应该比直接问“你是不是对我不满”好一些。）"
+      }
+    }
+  ],
+  "created": 1795147101,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2445,
+    "total_tokens": 2595,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

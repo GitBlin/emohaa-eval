@@ -1,0 +1,41 @@
+{
+  "id": "01da9c94a50a4aeea39208a2115574fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……没忍住，后来还是问了。结果他说我疑神疑鬼，我们就吵起来了。其实我也知道这样不好，但就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我后来怎么做的……他刚才还保证了保密，这让我稍微松了口气。但我还是不太想马上说太多，万一他觉得我太控制狂怎么办。）\n（我想先含糊一点，就说我没忍住问了，然后吵起来。这样既回答了问题，又不会暴露太多细节。看看他接下来会怎么反应。）",
+        "reasoning": "（咨询师在问我后来怎么做的……他刚才还保证了保密，这让我稍微松了口气。但我还是不太想马上说太多，万一他觉得我太控制狂怎么办。）\n（我想先含糊一点，就说我没忍住问了，然后吵起来。这样既回答了问题，又不会暴露太多细节。看看他接下来会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795154684,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1574,
+    "total_tokens": 1677,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

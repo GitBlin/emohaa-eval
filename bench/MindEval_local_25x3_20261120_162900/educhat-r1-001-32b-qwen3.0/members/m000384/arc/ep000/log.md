@@ -1,0 +1,17 @@
+- Member has been dealing with a housing situation for about ten weeks, since late spring, and this week it worsened; Member is not sleeping well and came to talk at 2 a.m.
+- Member's job is stable: work is fine, Member still gets rooms done, and the downtown boutique asks for Member by name; everything else is a mess but the job is not.
+- Member used to knit, journal, and do yoga sometimes, but now the yarn sits in the trunk and Member looks at the bag without touching it.
+- Member says knitting feels pointless because Member's brain keeps going; knowing Member could do a few rows does not help.
+- Member slept in their car last night.
+- Member had to clear out because their cousin's partner came back early.
+- Member paid for the motel for the week this morning and the rate went up again.
+- The studio Member was watching got taken the same day Member paid the motel.
+- Member has looked into shelters and housing support: the lists are full, and the ones that are not are places Member cannot get to and work at the same time.
+- Member rejects being treated as a case: Member has a job that pays, but it does not pay enough for a one bedroom anymore.
+- Member called three housing places last month, sat on hold for an hour, and was told they were full and to call back in thirty days.
+- Member's parents live twenty minutes away, call every Sunday, and believe Member is basically sorted and just finalizing a place; Member's dad has a guest room.
+- Member cannot tell their dad the truth because he will ask what Member did with the money and he will be right to ask.
+- Member had fifteen hundred saved and it is gone; Member says that conversation is worse than the car.
+- Member's weekly pattern: rates go up, Member does the math at midnight and comes out short, does it until 2 a.m., then gets up and makes beds for strangers and acts fine.
+- Member said "no" to calling a 24-hour hotline with the counsellor.
+- Member ended the session with "im gonna go."

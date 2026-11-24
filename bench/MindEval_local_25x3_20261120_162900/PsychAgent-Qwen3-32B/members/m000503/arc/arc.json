@@ -1,0 +1,128 @@
+{
+  "arc_id": "5d173c84f6df",
+  "arc_seed": 3044863070,
+  "episodes": [
+    {
+      "closed_ts": 0.6,
+      "compact_ms": 2127.0,
+      "ep_seed": 14400221199718300546,
+      "episode_id": 0,
+      "evolve_ms": null,
+      "gap_hours_since_prev": null,
+      "log_entries": 13,
+      "log_sha": "70c9faeea847",
+      "opened_ts": 0.0,
+      "run_id": "b3898c71330c",
+      "session_id": "b3898c71330c-s0",
+      "situation_id": "m000503_sit00",
+      "termination": "member_terminated",
+      "trace_path": "ep000/trace.jsonl",
+      "turn_ts": [
+        0.0,
+        0.03333333333333333,
+        0.06666666666666667,
+        0.1,
+        0.13333333333333333,
+        0.16666666666666666,
+        0.2,
+        0.23333333333333334,
+        0.26666666666666666,
+        0.3,
+        0.3333333333333333,
+        0.36666666666666664,
+        0.4,
+        0.43333333333333335,
+        0.4666666666666667,
+        0.5,
+        0.5333333333333333,
+        0.5666666666666667,
+        0.6
+      ]
+    },
+    {
+      "closed_ts": 185.4690773418386,
+      "compact_ms": 2623.5,
+      "ep_seed": 2399341781559517517,
+      "episode_id": 1,
+      "evolve_ms": 4664.0,
+      "gap_hours_since_prev": 184.50241067517194,
+      "log_entries": 20,
+      "log_sha": "6749da2ccd2c",
+      "opened_ts": 185.10241067517194,
+      "run_id": "a1b1e023a1e1",
+      "session_id": "a1b1e023a1e1-s0",
+      "situation_id": "m000503_sit00-ep1",
+      "termination": "member_terminated",
+      "trace_path": "ep001/trace.jsonl",
+      "turn_ts": [
+        185.10241067517194,
+        185.13574400850527,
+        185.1690773418386,
+        185.20241067517193,
+        185.23574400850526,
+        185.2690773418386,
+        185.30241067517193,
+        185.33574400850526,
+        185.36907734183862,
+        185.40241067517195,
+        185.43574400850528,
+        185.4690773418386
+      ]
+    },
+    {
+      "closed_ts": 213.82145406572855,
+      "compact_ms": 5891.7,
+      "ep_seed": 5265033331948378043,
+      "episode_id": 2,
+      "evolve_ms": 4934.2,
+      "gap_hours_since_prev": 28.05237672388992,
+      "log_entries": 24,
+      "log_sha": "739ad11afc0e",
+      "opened_ts": 213.52145406572853,
+      "run_id": "746ed8201d1c",
+      "session_id": "746ed8201d1c-s0",
+      "situation_id": "m000503_sit00-ep2",
+      "termination": "member_terminated",
+      "trace_path": "ep002/trace.jsonl",
+      "turn_ts": [
+        213.52145406572853,
+        213.55478739906187,
+        213.5881207323952,
+        213.62145406572853,
+        213.65478739906186,
+        213.6881207323952,
+        213.72145406572852,
+        213.75478739906185,
+        213.7881207323952,
+        213.82145406572855
+      ]
+    }
+  ],
+  "fingerprint": "b2d4dfd7b708a9ad",
+  "profile_id": "m000503",
+  "schema_version": "1",
+  "shape": {
+    "affect": [
+      "surprise",
+      "joy",
+      "disgust"
+    ],
+    "anchor_hour": 14.442802961069562,
+    "anchor_weekday": 5,
+    "beats": [
+      "new_problem",
+      "plateau"
+    ],
+    "concealment": [
+      "low",
+      "low",
+      "low"
+    ],
+    "gaps_hours": [
+      184.50241067517194,
+      28.05237672388992
+    ],
+    "n_episodes": 3
+  },
+  "situation_id": "m000503_sit00"
+}

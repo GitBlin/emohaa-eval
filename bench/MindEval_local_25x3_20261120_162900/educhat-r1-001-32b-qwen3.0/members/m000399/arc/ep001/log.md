@@ -1,0 +1,30 @@
+- Member's VP pulls up a dashboard in front of the member's peers and quizzes them on it; member experiences it as a test everyone knows is a test.
+- Member preps all weekend and the VP still finds something the member missed.
+- Member described an incident last Monday: the VP asked why a deal moved, the member didn't have it because a rep changed it over the weekend, and the VP heard the pause before the member caught up.
+- Member rebuilt the deck three times and it still doesn't predict what the VP will ask.
+- Member does not feel proud after meetings that go fine — a fine meeting only means the next one is coming.
+- Member sat in the car in the parking lot after work to open the dashboard; member identifies the problem as being unable to leave the numbers alone, not boundaries with the VP.
+- Member rejected the 10-minute do-not-disturb experiment, saying it doesn't help when there is a real reason to look.
+- A rep asked the member that afternoon whether to pull a deal from the forecast; member has not answered her.
+- Member sees the rep's question as a lose-lose: pulling a number that lands costs a deal, leaving it in leaves the member without backup on Monday — either way it sits on the member until Monday.
+- Member rejected delegating the decision to the rep, stating it is the member's number on the board and the rep has only been in the role eight months.
+- Member rejected bringing a colleague to observe Monday's meeting.
+- Member said several counsellor suggestions do not fit and pushed back on being offered the same idea reworded.
+- Member ended the session early to answer the rep's question before it got later.
+- Member reported the deal matter as "got it wrong," and is more annoyed about it than about the forty minutes of silence with Daniel at Friday's meal, which the member cut off by saying "let's just eat."
+- Member's problem in the pause is the four seconds before speaking, not the flagged deal — the system already flags it.
+- Member rejected breathing exercises for the third time; the pause is not nerves but a room of people watching the member not have the number.
+- Member rejected internal reframing, stating a changed inner monologue does not change the member's face because the VP reads the room, not the member's thoughts.
+- Member wants to say the thing out loud to someone before the call rather than hold it in the chest until ten.
+- Member considered telling Daniel rather than a colleague but does not know how to say it without it sounding like failing at something.
+- Member rejected the counsellor's suggested phrasings outright, stating the member would never say them aloud and Daniel would ask who she was and what she'd done with his wife.
+- Member rejected all scripts and "self-care" language, asking instead to be asked a question and to answer badly in the member's own words.
+- Member stated nothing works — two months of building systems and the ground keeps moving, so a grounding gesture would be no different.
+- Member stated designing another process is more work and is exactly what is eating the member.
+- Member stated that in the pause, for one second it is true: everyone is watching and thinking the member doesn't have it, and in that second they are right.
+- Member stated the speaking is not perseverance and there is no armor — the member talks because sitting silent is worse, just trying to get to the end of the call.
+- Member rejected the counsellor's "all navigating this together" framing, stating it would get the member laughed out of a pipeline call — it is a guy with a dashboard, not a storm.
+- Member stated the unsayable truth about the dashboard: it is a test the VP runs on Monday to see who is still scared of him, and the member cannot say that to anyone at the company.
+- Member walked in with fifteen minutes, stated there is no phrase that will do it and nothing better than the member walked in with.
+- Member ended the session to go open the file.
+- Member rejected the counsellor's post-call shared-analysis suggestion and left.

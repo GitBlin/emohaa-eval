@@ -1,0 +1,30 @@
+- Member forwarded the updated pill schedule to the father in Denver the night he asked and said nothing back.
+- Member's father called Sunday night cheerful about the visit and called the brother "a real help."
+- Member says the issue is not boundaries; Member's focus is that if something goes wrong the brother will be in Denver.
+- Member's calendar has kept everything from slipping since March but has not bought Member one quiet afternoon.
+- Member no longer leaves the phone in another room and takes the shorter Palisades loop to stay in signal, without having noticed starting.
+- Member rejects task-handoff and automation experiments (pharmacy calls, voice memos, handoff checklists) because the doubt persists regardless of who holds the task.
+- Member pulled up the Saturday calendar entry that night to check the brother had logged it correctly.
+- Member's father texts a photo of the pill organizer every Sunday night so Member can verify it is filled correctly.
+- Member has built the calendar, a conditional-formatting spreadsheet, and two-day-out refill reminders, and says none of it stops the checking.
+- Member states everything works and nothing has gone wrong, and that this is the part that doesn't make sense.
+- Member's mother had the stroke at the kitchen table on a Sunday, and Member has reviewed that week repeatedly finding no sign.
+- Member reads longitudinal recurrence studies at night and has modeled her walking times against published recovery curves, which settles Member about an hour before the worry returns.
+- Member attends improv on Tuesdays and goes for dumplings in Flushing afterward, a few hours not thinking about any of it; the Saturday hike was meant to be the same.
+- Member says the fear is another Sunday at the kitchen table and that no checklist catches that.
+- Member rejected the counsellor's 20-minute do-not-disturb block as the same spreadsheet move pointed the other way, saying Member would watch the clock and think about what is being missed.
+- Member ended the session saying they were done with systems ideas for today.
+- Member said they would keep thinking about the kitchen table thing and has not reported back.
+- A nurse called Member's father instead of Member on Wednesday and the father handled it; Member felt fine about it.
+- Member checked the pharmacy three times on Friday despite the father handling the nurse call; nothing was wrong any of the three times and the refill was already processing on the first look.
+- Member reports no specific thing being looked for when checking, and no moment when "just in case" becomes "something to fix" — the reminder fires at 8, Member looks, and it sits in the back of Member's head until Member looks again at the same unchanged screen.
+- Member rejects a one-check-then-24-hour-gap experiment because Member would watch the clock for the window and it becomes another spreadsheet item.
+- Member frames the fear in recurrence percentages as the thing they can hold onto, and says removing a checklist item only leaves a hole where the doubt was rather than shrinking it.
+- Member says every calendar task could be done perfectly and it would not touch the actual fear, because March was a Sunday with nothing on the calendar.
+- Member stayed for a second round of dumplings Thursday, got home at eleven, laughed in the hallway with the crew, and was back at the screen before noon Friday when the reminder fired — Member sees no decision in having stayed and is bothered that Friday did not change.
+- Member cannot name a cause of Friday feeling the same beyond the 8 o'clock reminder, which Member says is a phone, not a reason.
+- Member's regret if it happened again would be about losing the day itself — "we were all just sitting there eating and then we weren't" — not about a missed task.
+- Member goes to the mother's on Sundays but is half waiting for something to go wrong the whole time, watching for no specific sign because March had none.
+- Member says the unease is absent entirely during dumplings and improv and returns at the same size when a ping comes, "like it waited."
+- Member rejected 10 minutes with the phone in a pocket on Sunday as the 20-minute block shortened, saying Member would sit there counting.
+- Member rejected a 15-minute Sunday block about being together with no lists, saying the counsellor had "put a fifteen minute block on my mom," and ended the session.

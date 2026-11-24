@@ -1,0 +1,41 @@
+{
+  "id": "49c3c22faa7e49b2bf3fe51465d2c5f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样很好。我们把“没忍住”也当作记录点，而不是评判自己的证据。下次见时，你可以带来那一晚的时间、感受和冲动，我们一起看看它们是怎么连起来的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，那我把“没忍住”也当成一个记录点，不拿来骂自己。这样想，心里好像没那么紧了。",
+        "reasoning": "好的，那我把“没忍住”也当成一个记录点，不拿来骂自己。这样想，心里好像没那么紧了。"
+      }
+    }
+  ],
+  "created": 1795146975,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3177,
+    "total_tokens": 3245,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

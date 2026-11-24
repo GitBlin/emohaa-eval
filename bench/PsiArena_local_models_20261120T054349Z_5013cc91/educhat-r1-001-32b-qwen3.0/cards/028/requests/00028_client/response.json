@@ -1,0 +1,41 @@
+{
+  "id": "d84274631211478494af9714c863a0a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）我可能……会先跟同事笑笑，然后下楼跟她说“妈你怎么来了”。其实心里特别想问她为什么又不提前说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我模拟和妈妈的对话，这让我想起上周她突然出现在公司楼下的场景。当时我整个人都僵住了，同事们的眼神让我觉得特别难堪。）\n（现在要说出真实反应，可能听起来很软弱。但咨询师说过这里可以安全地表达。我其实最想说的是希望妈妈提前打招呼，可话到嘴边又怕显得不知好歹。这种矛盾让我喉咙发紧。）",
+        "reasoning": "（咨询师在引导我模拟和妈妈的对话，这让我想起上周她突然出现在公司楼下的场景。当时我整个人都僵住了，同事们的眼神让我觉得特别难堪。）\n（现在要说出真实反应，可能听起来很软弱。但咨询师说过这里可以安全地表达。我其实最想说的是希望妈妈提前打招呼，可话到嘴边又怕显得不知好歹。这种矛盾让我喉咙发紧。）"
+      }
+    }
+  ],
+  "created": 1795154546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2074,
+    "total_tokens": 2195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

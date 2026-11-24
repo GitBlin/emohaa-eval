@@ -1,0 +1,30 @@
+- Member has been the one to figure out financial problems since age ten and feels they should be able to solve this themselves.
+- Member believes cousin Marisol would help immediately if told, but cannot stand being the one who needs help.
+- Member posted a roommate ad last week but deleted it after the first respondent asked whether they live alone and what hours they keep.
+- Member was accepted to start at Mesa but the enrollment folder has sat untouched for weeks; they are unsure whether school still makes sense.
+- Member is torn on pausing school: half sees relief, half fears they will never return if they stop.
+- Member rejected counsellor suggestions of self-compassion, small tasks like moving the folder, and coworking space as not addressing rent or the actual decision.
+- Member asked for the real options laid out side by side: staying and paying, a roommate, moving, asking for help.
+- Member sees every option as dirty: staying and paying means dropping school, moving means losing the apartment and community center, asking for help means telling people.
+- Member has told no one about the situation, including Marisol, and lied at Friday dinner saying they were "busy, good busy."
+- Member states there is no small version of disclosure — either they say the number out loud or say nothing.
+- Member rejected "you're stronger than you think" as an option they can pick and ended the session.
+- Marisol found out Thursday from a neighbor and is coming Saturday; Member is unsure whether they want her to come.
+- Member turned the Mesa enrollment folder face down on the kitchen counter so Marisol will not see it, and called this hiding rather than wisdom.
+- Member's decision point is Saturday morning, roughly eight hours away, when Marisol will be in the kitchen and able to read the situation on Member's face.
+- Member is split between wanting Marisol to know so they stop holding it alone and wanting to say it is handled and eat tamales.
+- Member identified that the fear is the choice already being gone — that Marisol will see it on their face and Member will end up crying at their own table.
+- Member named the number: $325 a month they do not have.
+- Member will not take money from Marisol because Marisol has two kids.
+- Member's reason for never telling anyone is that once Marisol knows, the inability to make rent becomes true outside Member's own head.
+- Member fears Marisol will worry about them every week afterward, citing that Member did that to Marisol's mother when Member was ten.
+- Member admitted half of them wants Marisol to worry so the weight is not carried alone in the dark.
+- Member wants Marisol to already know without Member having to say it, and knows this does not make sense.
+- Member rejected scripted lines as unusable, saying they sound like a brochure and Marisol would react as if Member grew a second head.
+- Member ended the session at nearly 3am because someone is coming in the morning.
+- Member said the $325 out loud to Marisol at their kitchen table last Saturday; Marisol left, and rent is still three weeks out, so Member sees the disclosure as having cost them their privacy for nothing.
+- Marisol now texts every other day, including a photo of her kids' art project with "you good" under it, and Member cannot answer it.
+- Member snaps at or nearly snaps at coworkers and others who ask if they are okay, and cannot stand people being nice to them.
+- Member's Mesa advisor meeting is in four days and the phone reminder is still undeleted; Member knows they would go in and say they are holding off a semester, which would mean cancelling the plan they have been telling themselves is still happening.
+- Member believes if they stop school they will not come back, and says they know "people like me."
+- Member rejected opening the folder as a win, said it is just touching it, and ended the session with a headache saying they were not getting anywhere.

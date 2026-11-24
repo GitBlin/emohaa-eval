@@ -1,0 +1,41 @@
+{
+  "id": "d29af02730b9464db8c0b7cf3a8464d0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）嗯……一个人待着的时候，我会一直刷手机，刷到眼睛都酸了。有时候会去楼顶站一会儿，看看下面的车……那样反而安静一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才问我“通常会怎么做”，我回答了刷手机和去楼顶。但楼顶这个事……我说完有点后悔，不知道他会怎么想。会不会觉得我危险？还是觉得我矫情？算了，先看看他什么反应吧。）",
+        "reasoning": "（咨询师刚才问我“通常会怎么做”，我回答了刷手机和去楼顶。但楼顶这个事……我说完有点后悔，不知道他会怎么想。会不会觉得我危险？还是觉得我矫情？算了，先看看他什么反应吧。）"
+      }
+    }
+  ],
+  "created": 1795155024,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1502,
+    "total_tokens": 1598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

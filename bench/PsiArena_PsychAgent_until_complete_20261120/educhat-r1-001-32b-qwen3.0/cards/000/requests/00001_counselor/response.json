@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-531b884453e74dc4ab1f96d96e0e9faa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，我注意到你提到最近失眠比较严重，能和我具体说说这个情况是从什么时候开始的吗？当时发生了什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到来访者存在失眠问题，需探索具体诱因\n【行动策略】：采用开放式提问建立信任，聚焦睡眠质量变化\n",
+        "reasoning_content": "\n【诊断分析】：识别到来访者存在失眠问题，需探索具体诱因\n【行动策略】：采用开放式提问建立信任，聚焦睡眠质量变化\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153430,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 196,
+    "total_tokens": 264,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

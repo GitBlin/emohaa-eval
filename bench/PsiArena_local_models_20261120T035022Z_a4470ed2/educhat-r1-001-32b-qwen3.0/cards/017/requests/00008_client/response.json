@@ -1,0 +1,41 @@
+{
+  "id": "2a70cbf2afef406ab058bc6ffcc11c24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……几个月了吧。就是总感觉累，心里烦，也说不上具体为什么。你觉得我这样正常吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在询问我的症状细节，这让我有点紧张。我还没准备好完全敞开心扉，毕竟才刚开始咨询。而且他问得这么具体，让我觉得有点被逼问的感觉。）\n（不过既然来了，还是应该配合一下。但我不想说太多，先模糊地提一下最近的不舒服，再试探性地问问他的看法。这样既回应了他的问题，又能看看他值不值得信任。）",
+        "reasoning": "（心理咨询师在询问我的症状细节，这让我有点紧张。我还没准备好完全敞开心扉，毕竟才刚开始咨询。而且他问得这么具体，让我觉得有点被逼问的感觉。）\n（不过既然来了，还是应该配合一下。但我不想说太多，先模糊地提一下最近的不舒服，再试探性地问问他的看法。这样既回应了他的问题，又能看看他值不值得信任。）"
+      }
+    }
+  ],
+  "created": 1795147763,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1088,
+    "total_tokens": 1200,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

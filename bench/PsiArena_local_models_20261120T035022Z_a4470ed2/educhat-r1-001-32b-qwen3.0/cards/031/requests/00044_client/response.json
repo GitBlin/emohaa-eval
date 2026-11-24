@@ -1,0 +1,41 @@
+{
+  "id": "b4b8fd4eb3274c3582a0f0f8b060b839",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "自我对话……（小声重复了一遍）对自己说“这只是暂时的”。虽然听着有点傻，但……也许有用。我试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我用自我对话来应对害怕的感觉，这让我觉得有点道理，但又担心自己做不到。毕竟我平时连对自己说句鼓励的话都觉得别扭，更别说在害怕的时候了。不过她说得对，总不能每次都依赖别人，我得试着靠自己。）\n（想到过去那些自我怀疑的时刻，确实需要一些方法。虽然现在觉得说出来有点傻，但也许真的到那种时候，给自己打打气会有用。那就试试吧，反正也没什么损失。）",
+        "reasoning": "（咨询师在教我用自我对话来应对害怕的感觉，这让我觉得有点道理，但又担心自己做不到。毕竟我平时连对自己说句鼓励的话都觉得别扭，更别说在害怕的时候了。不过她说得对，总不能每次都依赖别人，我得试着靠自己。）\n（想到过去那些自我怀疑的时刻，确实需要一些方法。虽然现在觉得说出来有点傻，但也许真的到那种时候，给自己打打气会有用。那就试试吧，反正也没什么损失。）"
+      }
+    }
+  ],
+  "created": 1795149246,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2778,
+    "total_tokens": 2906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

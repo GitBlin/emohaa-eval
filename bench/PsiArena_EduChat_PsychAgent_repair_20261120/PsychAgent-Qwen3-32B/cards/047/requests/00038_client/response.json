@@ -1,0 +1,41 @@
+{
+  "id": "0722dbbfa7fb497a9dd9a24c84bf13cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意是愿意，但我有点怕自己做不到。你说的“更温和的回应方式”，具体是要我怎么做？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说的是“更多觉察和更温和的回应方式”……听起来不是要我改掉自己，而是让我多一条路。可我心里还是有点发虚，怕自己做不到，又怕被评价。先别答应得太快，问问具体怎么做吧。）",
+        "reasoning": "（咨询师说的是“更多觉察和更温和的回应方式”……听起来不是要我改掉自己，而是让我多一条路。可我心里还是有点发虚，怕自己做不到，又怕被评价。先别答应得太快，问问具体怎么做吧。）"
+      }
+    }
+  ],
+  "created": 1795155200,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2884,
+    "total_tokens": 2964,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

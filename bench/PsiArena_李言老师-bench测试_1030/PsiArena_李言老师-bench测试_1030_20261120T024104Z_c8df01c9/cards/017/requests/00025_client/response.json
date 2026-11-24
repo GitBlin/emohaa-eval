@@ -1,0 +1,41 @@
+{
+  "id": "689a88ee35164cb29cf2fc7a7c84352a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就先喝口水，心里数三下，不急着解释或道歉。这样至少能让我把话说完，也不至于又全缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答第25轮后期阶段，只针对一个方面，简短2-3句。需要体现探索解决方案、总结方向。她问小动作提醒自己先停一下。可以回答具体小动作，比如捏杯子/深呼吸/数三下，并总结。不要太早说谢谢再见，但这是最后一轮，可以收束但不告别。需要自然口语。可以提到“我就先喝口水，数三下”。还要体现未来方向。保持2-3句。",
+        "reasoning": "我们需要回答第25轮后期阶段，只针对一个方面，简短2-3句。需要体现探索解决方案、总结方向。她问小动作提醒自己先停一下。可以回答具体小动作，比如捏杯子/深呼吸/数三下，并总结。不要太早说谢谢再见，但这是最后一轮，可以收束但不告别。需要自然口语。可以提到“我就先喝口水，数三下”。还要体现未来方向。保持2-3句。"
+      }
+    }
+  ],
+  "created": 1795143074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3492,
+    "total_tokens": 3625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

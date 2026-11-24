@@ -1,0 +1,41 @@
+{
+  "id": "d600149131df43d6aeff94d8dcd0c9fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句话说出来，我心里好像松了一点点。可回到现实里，我还是不知道怎么跟他说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我把那句话完整地说出来……这让我有点紧张，但我也想试试看。也许我可以说得更像自己平时会说的话，不用太正式。）嗯……我现在很累，听到他那样说我确实很难受，这很正常，不代表我矫情，也不代表我不够好。",
+        "reasoning": "（咨询师在引导我把那句话完整地说出来……这让我有点紧张，但我也想试试看。也许我可以说得更像自己平时会说的话，不用太正式。）嗯……我现在很累，听到他那样说我确实很难受，这很正常，不代表我矫情，也不代表我不够好。"
+      }
+    }
+  ],
+  "created": 1795148466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2501,
+    "total_tokens": 2585,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

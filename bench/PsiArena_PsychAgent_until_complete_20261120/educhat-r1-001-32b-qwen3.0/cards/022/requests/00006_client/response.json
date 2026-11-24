@@ -1,0 +1,41 @@
+{
+  "id": "d303482bccc24f138dadc9a2201f18f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作嘛……就是有时候觉得自己做什么都不够好。不过，嗯……我想问一下，我们聊的这些，你会保密吗？我就是有点担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的不舒服的事情……但我其实还没准备好说那么多。我有点担心说太多会被评判，或者被觉得矫情。不过她看起来挺耐心的，也许可以先说一点点表面的东西试探一下。）\n（工作上的事确实让我烦，但更让我烦的是自己总是这样想。我是不是应该先问问她会不会把我的话告诉别人？这样我才能稍微放心一点。）",
+        "reasoning": "（心理咨询师在问我具体的不舒服的事情……但我其实还没准备好说那么多。我有点担心说太多会被评判，或者被觉得矫情。不过她看起来挺耐心的，也许可以先说一点点表面的东西试探一下。）\n（工作上的事确实让我烦，但更让我烦的是自己总是这样想。我是不是应该先问问她会不会把我的话告诉别人？这样我才能稍微放心一点。）"
+      }
+    }
+  ],
+  "created": 1795154244,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1082,
+    "total_tokens": 1198,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

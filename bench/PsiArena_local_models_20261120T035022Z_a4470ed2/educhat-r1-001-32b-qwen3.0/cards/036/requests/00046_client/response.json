@@ -1,0 +1,41 @@
+{
+  "id": "e9da34db9c4440b289285a986ec104a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "计划……我想明天下午课间试试。不过我得先看看周围人多不多，人太多我可能就……（声音变小）就假装去接水。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的行动计划，这让我有点紧张，但好像也确实需要想清楚。我不能只说“试试看”，得有个大概的时间点，不然可能又会拖下去。）\n（想到明天下午课间，那个时间大家比较散，应该不会太引人注意。但我还是担心自己到时候会临阵退缩，手抖怎么办。得给自己留个退路，不然光想着“必须成功”反而更不敢动了。）",
+        "reasoning": "（咨询师在问我具体的行动计划，这让我有点紧张，但好像也确实需要想清楚。我不能只说“试试看”，得有个大概的时间点，不然可能又会拖下去。）\n（想到明天下午课间，那个时间大家比较散，应该不会太引人注意。但我还是担心自己到时候会临阵退缩，手抖怎么办。得给自己留个退路，不然光想着“必须成功”反而更不敢动了。）"
+      }
+    }
+  ],
+  "created": 1795149512,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2931,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

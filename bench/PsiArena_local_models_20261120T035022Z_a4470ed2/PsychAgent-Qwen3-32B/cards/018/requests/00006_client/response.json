@@ -1,0 +1,41 @@
+{
+  "id": "768ae9632b1b40d5be49dfd61a186271",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近就是……我和我妻子之间有些让我不太舒服的东西。我也说不上来是不是“影响最大”，但脑子老会绕回去。你们咨询师会不会很快就给建议啊？我有点怕那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近影响最大的事，但我还不太想直接说核心问题。我得先试探一下她的界限，看看她会不会太轻易地给我建议，或者能不能理解我的矛盾。而且我也得看看她会不会觉得我奇怪。）\n（我有点想用那种半开玩笑的方式，把问题抛给她，看她怎么接。这样既不会暴露太多，也能试探她的专业度和边界感。）",
+        "reasoning": "（她问我最近影响最大的事，但我还不太想直接说核心问题。我得先试探一下她的界限，看看她会不会太轻易地给我建议，或者能不能理解我的矛盾。而且我也得看看她会不会觉得我奇怪。）\n（我有点想用那种半开玩笑的方式，把问题抛给她，看她怎么接。这样既不会暴露太多，也能试探她的专业度和边界感。）"
+      }
+    }
+  ],
+  "created": 1795147057,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1049,
+    "total_tokens": 1176,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

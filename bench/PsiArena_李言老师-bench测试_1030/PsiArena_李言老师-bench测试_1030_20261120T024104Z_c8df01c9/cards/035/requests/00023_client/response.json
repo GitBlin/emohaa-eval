@@ -1,0 +1,41 @@
+{
+  "id": "cee3936d91164cfc86212ae9dc7524c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "三分钟吧，太长我肯定忍不住。其实我也不确定三分钟能不能坚持住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把行动具体化，问我从几分钟开始。我其实很怕设太久，自己会忍不住，也怕最后又失败。但也不想显得太没出息，所以想选一个短到能接受的时间。）\n（三分钟听起来不算长，至少能让我觉得还有可能做到。可我也得承认，自己大概率还是会惦记手机，所以得提前说清楚，免得到时候又自责。）",
+        "reasoning": "（咨询师在帮我把行动具体化，问我从几分钟开始。我其实很怕设太久，自己会忍不住，也怕最后又失败。但也不想显得太没出息，所以想选一个短到能接受的时间。）\n（三分钟听起来不算长，至少能让我觉得还有可能做到。可我也得承认，自己大概率还是会惦记手机，所以得提前说清楚，免得到时候又自责。）"
+      }
+    }
+  ],
+  "created": 1795143453,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3095,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

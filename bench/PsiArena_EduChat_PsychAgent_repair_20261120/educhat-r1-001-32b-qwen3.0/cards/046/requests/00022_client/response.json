@@ -1,0 +1,41 @@
+{
+  "id": "5f6a576ef70249dc8cb69264721b0379",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）大概七分？我也说不准。这种东西……难道还能打分吗？你不会觉得我太较真了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我愧疚感的评分，这让我有点不舒服。他好像总想用数字来衡量这些模糊的感受，可情绪哪有那么容易量化。不过既然他问了，我大概能感觉到这份愧疚一直压在心头，分数应该不低。）\n（但我不太想直接回答，因为这种打分让我觉得有点机械。我其实更想让他明白，这种愧疚不是某个时刻的分数，而是从小到大累积下来的。也许我可以先给个大概的数字，然后反问他，看看他能不能理解这种感受的持续性。）",
+        "reasoning": "（咨询师在问我愧疚感的评分，这让我有点不舒服。他好像总想用数字来衡量这些模糊的感受，可情绪哪有那么容易量化。不过既然他问了，我大概能感觉到这份愧疚一直压在心头，分数应该不低。）\n（但我不太想直接回答，因为这种打分让我觉得有点机械。我其实更想让他明白，这种愧疚不是某个时刻的分数，而是从小到大累积下来的。也许我可以先给个大概的数字，然后反问他，看看他能不能理解这种感受的持续性。）"
+      }
+    }
+  ],
+  "created": 1795155265,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1790,
+    "total_tokens": 1926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

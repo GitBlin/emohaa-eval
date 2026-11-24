@@ -1,0 +1,41 @@
+{
+  "id": "9b3c5d74befb493daeea66c645eb8051",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸妈什么都能聊，可我发现自己真遇到这种事，还是……挺保守的。（苦笑）是不是有点讽刺？他们那么开放，我却卡在这儿了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我家庭环境的影响，这让我想到父母虽然很开放，但我自己好像一直没真正实践过他们说的那些观念。我有点矛盾，一方面觉得应该像他们那样包容，另一方面又担心自己做不到。）\n（这种矛盾让我有点烦躁，甚至有点自嘲，觉得自己是不是太保守了。也许我该直接说出来，看看咨询师怎么理解这种家庭教育和实际感受之间的落差。）",
+        "reasoning": "（心理咨询师在问我家庭环境的影响，这让我想到父母虽然很开放，但我自己好像一直没真正实践过他们说的那些观念。我有点矛盾，一方面觉得应该像他们那样包容，另一方面又担心自己做不到。）\n（这种矛盾让我有点烦躁，甚至有点自嘲，觉得自己是不是太保守了。也许我该直接说出来，看看咨询师怎么理解这种家庭教育和实际感受之间的落差。）"
+      }
+    }
+  ],
+  "created": 1795154085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1616,
+    "total_tokens": 1736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

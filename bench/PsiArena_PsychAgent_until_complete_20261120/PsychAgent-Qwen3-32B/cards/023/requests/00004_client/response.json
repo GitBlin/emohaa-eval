@@ -1,0 +1,41 @@
+{
+  "id": "b110f9c0e3914c6ebc6b44bb92270ea7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……保密是吧。那你会不会也像别人一样，聊两句就给我下结论、说我想太多？我先问清楚，免得又白说一堆。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释流程，但听起来还是那些套话。我其实想问得更具体点，比如她会不会像以前那些人一样，没聊几句就给我下结论、贴标签。毕竟我家里人就总这样，嘴上说为我好，实际上根本不听我说。）\n（而且我有点担心，如果我说得太多，她会不会觉得我这个人很麻烦，或者转头就把我的事当案例讲出去。得先试探一下她的底线，看看她到底靠不靠谱。）",
+        "reasoning": "（咨询师在解释流程，但听起来还是那些套话。我其实想问得更具体点，比如她会不会像以前那些人一样，没聊几句就给我下结论、贴标签。毕竟我家里人就总这样，嘴上说为我好，实际上根本不听我说。）\n（而且我有点担心，如果我说得太多，她会不会觉得我这个人很麻烦，或者转头就把我的事当案例讲出去。得先试探一下她的底线，看看她到底靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1795154196,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 997,
+    "total_tokens": 1133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7bb869301da54fc0b11259fa64690fad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我先问一下，咨询里我说的话，你会告诉别人吗？我有点怕……不太想被家里人知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最想谈哪件事……但我还不太想直接说太多。毕竟刚见面，我得先弄清楚这种咨询到底是怎么个流程，会不会被评判。嗯，先问问清楚再说吧，这样我也能安心一点。）",
+        "reasoning": "（咨询师在问我最想谈哪件事……但我还不太想直接说太多。毕竟刚见面，我得先弄清楚这种咨询到底是怎么个流程，会不会被评判。嗯，先问问清楚再说吧，这样我也能安心一点。）"
+      }
+    }
+  ],
+  "created": 1795154347,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 980,
+    "total_tokens": 1060,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

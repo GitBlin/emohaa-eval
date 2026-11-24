@@ -1,0 +1,41 @@
+{
+  "id": "a4b25a0ed28949ad831e222c5c2e2f15",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好吧，我明白了。其实我也知道这样问不太合适，就是有时候太慌了。那我是不是总想把什么都抓在手里？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有答应加微信，反而把话题拉回专业边界，这让我有点被拒绝的感觉。但仔细想想，她这样反而让我觉得安全，至少不会随便越界。我刚才可能太急了，想抓住一个随时能问的人。现在稍微放松一点，可以试着说说更深的东西了。）",
+        "reasoning": "（咨询师没有答应加微信，反而把话题拉回专业边界，这让我有点被拒绝的感觉。但仔细想想，她这样反而让我觉得安全，至少不会随便越界。我刚才可能太急了，想抓住一个随时能问的人。现在稍微放松一点，可以试着说说更深的东西了。）"
+      }
+    }
+  ],
+  "created": 1795154343,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1631,
+    "total_tokens": 1727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

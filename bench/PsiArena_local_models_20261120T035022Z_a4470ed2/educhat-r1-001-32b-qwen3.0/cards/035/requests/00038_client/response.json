@@ -1,0 +1,41 @@
+{
+  "id": "ec5684d20317412f90eb2c0ca53434ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声）每天浇一点水……这个比喻我好像听进去了。也许我该先从小事开始，别总想着一步到位。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用种花的比喻来引导我理解“具体”和“完美”的区别，这让我想到自己总是追求完美却迟迟不敢行动的样子。她是在鼓励我从小事做起，而不是等待完美的时机。）\n（作为敏感又倔强的人，我其实很害怕开始，怕做不好。但咨询师的话让我觉得，也许可以试着降低对自己的要求，先迈出第一步。毕竟连养花都需要耐心，感情大概也是这样吧。）",
+        "reasoning": "（咨询师用种花的比喻来引导我理解“具体”和“完美”的区别，这让我想到自己总是追求完美却迟迟不敢行动的样子。她是在鼓励我从小事做起，而不是等待完美的时机。）\n（作为敏感又倔强的人，我其实很害怕开始，怕做不好。但咨询师的话让我觉得，也许可以试着降低对自己的要求，先迈出第一步。毕竟连养花都需要耐心，感情大概也是这样吧。）"
+      }
+    }
+  ],
+  "created": 1795149481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2508,
+    "total_tokens": 2634,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

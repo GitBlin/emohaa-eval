@@ -1,0 +1,41 @@
+{
+  "id": "8dbfab978f624590b957a3bcf928172a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……他们总爱管我，工作、朋友、放假回不回家，什么都要说。我也不确定这算不算问题，可能别人家也这样吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我哪类家庭话题让我不自在，这让我有点紧张。我还不确定能不能完全信任她，但她的回应让我稍微放松了一点。也许我可以先试探性地提一下父母干预的事，但不想说得太深。）\n（我觉得还是先模糊地表达一下比较好，毕竟现在还在初期阶段。我可以说父母总爱管我，但不想具体展开，这样既回应了她的问题，又保持了距离。）",
+        "reasoning": "（咨询师在问我哪类家庭话题让我不自在，这让我有点紧张。我还不确定能不能完全信任她，但她的回应让我稍微放松了一点。也许我可以先试探性地提一下父母干预的事，但不想说得太深。）\n（我觉得还是先模糊地表达一下比较好，毕竟现在还在初期阶段。我可以说父母总爱管我，但不想具体展开，这样既回应了她的问题，又保持了距离。）"
+      }
+    }
+  ],
+  "created": 1795143024,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1051,
+    "total_tokens": 1178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

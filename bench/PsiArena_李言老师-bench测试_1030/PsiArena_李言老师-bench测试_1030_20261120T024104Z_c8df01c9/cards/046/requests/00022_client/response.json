@@ -1,0 +1,41 @@
+{
+  "id": "28ae57d5b78f4297939ee5e447a3081a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能更怕别人不满意吧。遗漏细节顶多返工，但别人觉得我不行，那种感觉我受不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更怕遗漏细节还是怕别人不满意，这问题戳到我了。仔细想想，好像两样都有，但更重的是怕别人觉得我不行。这种怕不是凭空来的，跟我从小被要求必须做好有关系。）\n（我有点不想承认，但说出来反而轻松一点。现在能慢慢看清这个模式了，也许下次再想反复改的时候，可以试着先问自己一句：我是怕出错，还是怕别人觉得我不够好。）",
+        "reasoning": "（她问我更怕遗漏细节还是怕别人不满意，这问题戳到我了。仔细想想，好像两样都有，但更重的是怕别人觉得我不行。这种怕不是凭空来的，跟我从小被要求必须做好有关系。）\n（我有点不想承认，但说出来反而轻松一点。现在能慢慢看清这个模式了，也许下次再想反复改的时候，可以试着先问自己一句：我是怕出错，还是怕别人觉得我不够好。）"
+      }
+    }
+  ],
+  "created": 1795143630,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3002,
+    "total_tokens": 3126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

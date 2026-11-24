@@ -1,0 +1,41 @@
+{
+  "id": "bda1645c7b244020841d8613bc3f7c89",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写下来吧，当面说我怕自己又说不出口，或者说着说着就变成吵架。写封信，让他慢慢看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化行动计划，这让我感觉踏实了一些。我确实需要想清楚怎么开这个口，毕竟以往每次想说点什么，最后都变成我单方面妥协。）\n（我想到写信这个办法，是因为当面说的时候我容易紧张，话还没说出口就先软了。写下来能让我把那些憋着的话理清楚，也不至于一开口就吵起来。不过我还是有点担心，他会认真看吗？）",
+        "reasoning": "（咨询师在引导我具体化行动计划，这让我感觉踏实了一些。我确实需要想清楚怎么开这个口，毕竟以往每次想说点什么，最后都变成我单方面妥协。）\n（我想到写信这个办法，是因为当面说的时候我容易紧张，话还没说出口就先软了。写下来能让我把那些憋着的话理清楚，也不至于一开口就吵起来。不过我还是有点担心，他会认真看吗？）"
+      }
+    }
+  ],
+  "created": 1795154244,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2565,
+    "total_tokens": 2688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

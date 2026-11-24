@@ -1,0 +1,15 @@
+- Member committed to typing his name in the first field of the college enrollment form.
+- Member has a paid commission for an album cover, half paid upfront, and has gone silent on the client for weeks.
+- Client needs a sketch by end of month or will find someone else.
+- Member read the client's message at work and put his phone away.
+- Member fears the client will tell people he flaked and nobody will hire him again.
+- Member cannot bring himself to call the client and cannot open the messaging app.
+- Member's anxiety about the half payment keeps him up at night.
+- Member starts thinking about the work at midnight, stays up until 3, wakes late, and loses the day.
+- Member has tried sitting down to work on the commission before and it did not happen.
+- Member agreed "maybe" to a small step (5–10 minute mood board or a one-paragraph update) by 11 PM instead of midnight.
+- Member has a college enrollment form open on his phone, closing this week, ten fields, nothing typed.
+- Member's block on the form is the fear of being "the guy who quits halfway," not commitment, finances, or difficulty.
+- Member said he could type his name in the form's first field.
+- Member has a work shift tomorrow and cannot hold two dated tasks at once; he wants to focus on the commission only.
+- Member left the session abruptly with "i gotta go."

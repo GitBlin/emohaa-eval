@@ -1,0 +1,41 @@
+{
+  "id": "88549ec0fa1a48078af02cfd38b453f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……有点怕声音太小，她听不见。要不还是先说说我担心啥吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我愿不愿意现在试着说一遍，或者先聊聊担心什么。我有点紧张，说出口怕自己声音太小，她听不见，那多尴尬。不过先聊聊担心的事好像更安全一点，至少不用马上做。）\n（其实我也知道，光担心没用，总得迈出第一步。先说说担心的事，让咨询师帮我看看，也许就没那么怕了。）",
+        "reasoning": "（咨询师问我愿不愿意现在试着说一遍，或者先聊聊担心什么。我有点紧张，说出口怕自己声音太小，她听不见，那多尴尬。不过先聊聊担心的事好像更安全一点，至少不用马上做。）\n（其实我也知道，光担心没用，总得迈出第一步。先说说担心的事，让咨询师帮我看看，也许就没那么怕了。）"
+      }
+    }
+  ],
+  "created": 1795142632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2602,
+    "total_tokens": 2707,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

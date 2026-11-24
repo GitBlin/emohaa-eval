@@ -1,0 +1,41 @@
+{
+  "id": "4c27b48a25634b3abd8d046f7d504c9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那，我说的话你会保密吗？我就是有点担心，万一……万一被别人知道。还有，你会不会觉得是我自己有问题？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以慢慢来，先了解我最在意的事情……听起来还算温和。但我不能一下子就把家里那些事全倒出来，我还不知道她靠不靠得住。先问问她会不会把我的事说出去吧，这个比较要紧。另外……我也想试探一下，她是不是那种只会讲大道理的人。）",
+        "reasoning": "（咨询师说可以慢慢来，先了解我最在意的事情……听起来还算温和。但我不能一下子就把家里那些事全倒出来，我还不知道她靠不靠得住。先问问她会不会把我的事说出去吧，这个比较要紧。另外……我也想试探一下，她是不是那种只会讲大道理的人。）"
+      }
+    }
+  ],
+  "created": 1795146917,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 973,
+    "total_tokens": 1070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

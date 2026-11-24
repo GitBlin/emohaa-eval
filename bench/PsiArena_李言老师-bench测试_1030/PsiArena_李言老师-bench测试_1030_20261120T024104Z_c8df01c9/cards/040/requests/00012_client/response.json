@@ -1,0 +1,41 @@
+{
+  "id": "c71c730f12a14381ac96ba771ec2c6c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……我跟她聊过以后的事，就是那种试探吧。她明显躲开了，说想先专注自己。那一刻我突然觉得，我再怎么努力好像都没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问最近什么事让我更强烈地感到害怕。其实我一直在想，是不是自己做得不够好。那天我鼓起勇气跟她聊以后的事，她那种回避的样子，让我一下子觉得，可能我做什么都没用。）\n（我本来以为，只要我够关心她、够努力，她总会看到我。可那次之后，我反而更不确定了。也许问题不是我不够好，而是我一直在用错的方式证明自己。）",
+        "reasoning": "（她问最近什么事让我更强烈地感到害怕。其实我一直在想，是不是自己做得不够好。那天我鼓起勇气跟她聊以后的事，她那种回避的样子，让我一下子觉得，可能我做什么都没用。）\n（我本来以为，只要我够关心她、够努力，她总会看到我。可那次之后，我反而更不确定了。也许问题不是我不够好，而是我一直在用错的方式证明自己。）"
+      }
+    }
+  ],
+  "created": 1795143481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2049,
+    "total_tokens": 2179,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

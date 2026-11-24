@@ -1,0 +1,41 @@
+{
+  "id": "345274880be94e31aff004d0fbdc85fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会写“先照顾自己，再决定要不要联系他”。但说实话，我有点怀疑到时候真能想起来看便签。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我选一句自我提醒的话……这让我有点犹豫。他说“不必通过他的回应来证明”，听起来有道理，但真要做到好难。我想到平时总觉得自己不够好，也许该写点更简单的，比如“先照顾自己，再决定要不要联系他”。不过写便签这个办法倒是挺实在的，至少能让我在冲动时停一下。）",
+        "reasoning": "（咨询师让我选一句自我提醒的话……这让我有点犹豫。他说“不必通过他的回应来证明”，听起来有道理，但真要做到好难。我想到平时总觉得自己不够好，也许该写点更简单的，比如“先照顾自己，再决定要不要联系他”。不过写便签这个办法倒是挺实在的，至少能让我在冲动时停一下。）"
+      }
+    }
+  ],
+  "created": 1795147752,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2651,
+    "total_tokens": 2762,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

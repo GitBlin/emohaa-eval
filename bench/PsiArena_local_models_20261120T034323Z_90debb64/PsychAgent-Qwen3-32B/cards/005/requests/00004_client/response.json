@@ -1,0 +1,41 @@
+{
+  "id": "24f555e48cef4c27ac065e3508136d46",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。我就是有点不知道该说什么，怕说不好。你们咨询师会不会把我说的事情告诉别人啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方在解释咨询流程，语气还算温和。我其实有点紧张，不太确定该说多少，也怕被评判。先顺着她的话应一下，但别太快放松，得留点余地。）",
+        "reasoning": "（对方在解释咨询流程，语气还算温和。我其实有点紧张，不太确定该说多少，也怕被评判。先顺着她的话应一下，但别太快放松，得留点余地。）"
+      }
+    }
+  ],
+  "created": 1795146558,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 993,
+    "total_tokens": 1064,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

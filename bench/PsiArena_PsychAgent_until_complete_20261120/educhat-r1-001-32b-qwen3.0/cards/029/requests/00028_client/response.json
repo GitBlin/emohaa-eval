@@ -1,0 +1,41 @@
+{
+  "id": "20d9d213fd3f48cca9970394673d017f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写信……这倒没想过。不过他们要是看到了，会不会觉得我更奇怪了。但……也许可以试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写信沟通，这让我想起小时候写日记被父母翻看的经历。他们总说为我好，可那种被窥探的感觉特别不舒服。现在让我主动写东西给他们看，心里还是有点发怵。）\n（不过咨询师说得也有道理，当面说确实容易吵起来。写下来至少能控制住情绪，不用看到他们失望的表情。但万一他们还是不理解呢？算了，先试试看吧，总比现在这样僵着强。）",
+        "reasoning": "（咨询师建议我写信沟通，这让我想起小时候写日记被父母翻看的经历。他们总说为我好，可那种被窥探的感觉特别不舒服。现在让我主动写东西给他们看，心里还是有点发怵。）\n（不过咨询师说得也有道理，当面说确实容易吵起来。写下来至少能控制住情绪，不用看到他们失望的表情。但万一他们还是不理解呢？算了，先试试看吧，总比现在这样僵着强。）"
+      }
+    }
+  ],
+  "created": 1795154574,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1948,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

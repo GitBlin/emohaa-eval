@@ -1,0 +1,41 @@
+{
+  "id": "3fce61864ad34259b5f025b6f470ecd2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那就先这样。我会按刚才说的方法记关键点，不逼自己写太多。下次见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，那今天先到这里。我会按刚才说的方法记关键点，不逼自己写太多。下次见。",
+        "reasoning": "好，那今天先到这里。我会按刚才说的方法记关键点，不逼自己写太多。下次见。"
+      }
+    }
+  ],
+  "created": 1795146980,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 3348,
+    "total_tokens": 3399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

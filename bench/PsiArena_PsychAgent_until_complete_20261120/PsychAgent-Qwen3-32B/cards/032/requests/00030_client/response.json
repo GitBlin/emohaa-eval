@@ -1,0 +1,41 @@
+{
+  "id": "1dd9487b1211418380412b283c2f693d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可行吧……但我怕自己做不到的时候，又觉得是自己不够努力。到时候能不能别急着说我方法不对？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我做一个很小的练习……“我在猜测”。听起来不难，但真到那个时候，我可能又被情绪淹没了。不过她问“可行吗”，不是命令，是商量。我可以先答应试试，但得说清楚我的顾虑——万一做不到，会不会又变成我“不够努力”的证据？）",
+        "reasoning": "（咨询师在引导我做一个很小的练习……“我在猜测”。听起来不难，但真到那个时候，我可能又被情绪淹没了。不过她问“可行吗”，不是命令，是商量。我可以先答应试试，但得说清楚我的顾虑——万一做不到，会不会又变成我“不够努力”的证据？）"
+      }
+    }
+  ],
+  "created": 1795154692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2344,
+    "total_tokens": 2437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

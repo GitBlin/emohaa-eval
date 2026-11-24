@@ -1,0 +1,41 @@
+{
+  "id": "366a78b103414a718bc5f63a34b3ff6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好像没什么补充了。就是有点担心回家以后又胡思乱想。不过我会试试记下来。",
+        "reasoning": "好像没什么补充了。就是有点担心回家以后又胡思乱想。不过我会试试记下来。"
+      }
+    }
+  ],
+  "created": 1795146800,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 2915,
+    "total_tokens": 2937,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

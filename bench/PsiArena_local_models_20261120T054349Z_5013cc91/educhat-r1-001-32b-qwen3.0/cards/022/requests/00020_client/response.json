@@ -1,0 +1,41 @@
+{
+  "id": "5611fe58858a40ec94bf3ca7d73e85fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也许吧……但在我们家，好像从小就是这样，做好了是应该的，做不好才值得被拿出来说。我有时候都分不清，到底是我在检讨自己，还是习惯了这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理解妈妈的动机，但我心里其实有点抗拒这种解释。因为如果妈妈只是不会安慰人，那我这些年反复检讨自己、讨好她，岂不是显得很傻？）\n（不过，他说的确实让我想到，妈妈从小对我的要求就是“做得好才是好”，考好了全家高兴，考砸了就是一顿分析。这种模式好像已经刻进我骨子里了，不只是跟妈妈，跟别人相处时也总怕自己不够好。）",
+        "reasoning": "（咨询师在帮我理解妈妈的动机，但我心里其实有点抗拒这种解释。因为如果妈妈只是不会安慰人，那我这些年反复检讨自己、讨好她，岂不是显得很傻？）\n（不过，他说的确实让我想到，妈妈从小对我的要求就是“做得好才是好”，考好了全家高兴，考砸了就是一顿分析。这种模式好像已经刻进我骨子里了，不只是跟妈妈，跟别人相处时也总怕自己不够好。）"
+      }
+    }
+  ],
+  "created": 1795154265,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1697,
+    "total_tokens": 1836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

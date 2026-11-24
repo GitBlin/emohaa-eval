@@ -1,0 +1,41 @@
+{
+  "id": "fa4e851a8f294387a2ed874d6d079208",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记下来……好，我试试。不过我怕自己一忙就忘了，或者写出来觉得挺丢人的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才的回复像是把咨询师的话重复了一遍，我作为来访者应该回应这个记录建议，表达自己的犹豫和愿意尝试的态度。中期阶段接近尾声，可以稍微深入一点，但仍保持简短。）",
+        "reasoning": "（用户刚才的回复像是把咨询师的话重复了一遍，我作为来访者应该回应这个记录建议，表达自己的犹豫和愿意尝试的态度。中期阶段接近尾声，可以稍微深入一点，但仍保持简短。）"
+      }
+    }
+  ],
+  "created": 1795153801,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 2516,
+    "total_tokens": 2587,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

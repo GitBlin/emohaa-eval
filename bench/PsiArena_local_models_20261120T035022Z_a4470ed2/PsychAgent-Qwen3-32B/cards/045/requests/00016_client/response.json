@@ -1,0 +1,41 @@
+{
+  "id": "9723dd452afe480cb070eea613110590",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就忍着，或者一直改作业、备课，让自己忙起来。可有时候越忙越慌……我家里从小就要求我别太情绪化，我也不知道这样是不是有问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“不贴标签”让我稍微松了口气，可被问到自己怎么应对焦虑时，我心里还是有点乱。平时那些办法好像都没什么用，说出口反而更显得自己无力。）\n（我想到家里从小对我的要求，总觉得情绪不该随便露出来，现在却在这里说这些，心里有点别扭。也许我可以试着提一点家里的情况，看看咨询师会怎么理解。）",
+        "reasoning": "（咨询师说“不贴标签”让我稍微松了口气，可被问到自己怎么应对焦虑时，我心里还是有点乱。平时那些办法好像都没什么用，说出口反而更显得自己无力。）\n（我想到家里从小对我的要求，总觉得情绪不该随便露出来，现在却在这里说这些，心里有点别扭。也许我可以试着提一点家里的情况，看看咨询师会怎么理解。）"
+      }
+    }
+  ],
+  "created": 1795148706,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1546,
+    "total_tokens": 1669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

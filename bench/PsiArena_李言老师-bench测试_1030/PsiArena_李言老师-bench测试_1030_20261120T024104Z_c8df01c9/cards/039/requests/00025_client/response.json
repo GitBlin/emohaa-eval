@@ -1,0 +1,41 @@
+{
+  "id": "f8837e47d9d44a128e1a96c5b290b63b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身体上……胃会一下子发紧，喉咙像堵住了。情绪上就是很慌，想马上说点什么补救，又怕越说越糟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是身体或情绪上的第一反应，不是要继续分析关系。我有点想避开，因为那种感觉太直接了，说出来会显得我很脆弱。但刚才已经承认了怕被丢下，再绕回去也不自然。也许可以只讲一个最明显的反应，不用全说。）\n（胃发紧、喉咙堵，这些其实每次紧张时都会出现。我犹豫要不要讲得这么具体，怕她追问下去。不过她语气没有逼我，只是让我留意身体。那就先这样回答，别一次说太多。）",
+        "reasoning": "（她问的是身体或情绪上的第一反应，不是要继续分析关系。我有点想避开，因为那种感觉太直接了，说出来会显得我很脆弱。但刚才已经承认了怕被丢下，再绕回去也不自然。也许可以只讲一个最明显的反应，不用全说。）\n（胃发紧、喉咙堵，这些其实每次紧张时都会出现。我犹豫要不要讲得这么具体，怕她追问下去。不过她语气没有逼我，只是让我留意身体。那就先这样回答，别一次说太多。）"
+      }
+    }
+  ],
+  "created": 1795143499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 3342,
+    "total_tokens": 3491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

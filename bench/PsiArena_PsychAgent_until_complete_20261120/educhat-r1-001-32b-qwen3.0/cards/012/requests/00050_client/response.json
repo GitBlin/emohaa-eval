@@ -1,0 +1,41 @@
+{
+  "id": "2b1374febd384a57bcc343b02ce26272",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "暂时没有了……谢谢您今天听我说这么多。我先回去试试把那个号码存下来吧，虽然不知道什么时候才敢拨。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会一直支持我，这让我心里稍微踏实了一点。但想到要真正迈出那一步，还是觉得特别没底。我是不是该先做点具体的事？比如把热线号码存下来，这样至少有个准备。）\n（可我又担心自己做不到，万一临阵退缩怎么办。不过现在说出来，好像没那么孤单了。也许下次可以再聊聊这些具体的打算，至少今天先存个号码试试。）",
+        "reasoning": "（咨询师说会一直支持我，这让我心里稍微踏实了一点。但想到要真正迈出那一步，还是觉得特别没底。我是不是该先做点具体的事？比如把热线号码存下来，这样至少有个准备。）\n（可我又担心自己做不到，万一临阵退缩怎么办。不过现在说出来，好像没那么孤单了。也许下次可以再聊聊这些具体的打算，至少今天先存个号码试试。）"
+      }
+    }
+  ],
+  "created": 1795153938,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3060,
+    "total_tokens": 3180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

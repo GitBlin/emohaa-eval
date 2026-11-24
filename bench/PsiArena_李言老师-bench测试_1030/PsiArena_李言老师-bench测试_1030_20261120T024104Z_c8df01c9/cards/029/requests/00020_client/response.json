@@ -1,0 +1,41 @@
+{
+  "id": "e4be2d9a024f4f8ab624c8ef88101f7f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她肯定问“你又买什么了”那种，语气一上来我就想顶回去。唉，我明知道她也是担心钱，可听着就是不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我妈最可能追问哪一句，这让我一下子想到我妈那种语气。她肯定不是简单问问，而是带着那种不信任的感觉，好像我做什么都是乱花钱。）\n（我有点烦，也有点怕，怕自己到时候又忍不住顶回去。我想先跟咨询师说清楚，我不是不想好好回应，而是我妈一开口我就容易炸。）",
+        "reasoning": "（她问我妈最可能追问哪一句，这让我一下子想到我妈那种语气。她肯定不是简单问问，而是带着那种不信任的感觉，好像我做什么都是乱花钱。）\n（我有点烦，也有点怕，怕自己到时候又忍不住顶回去。我想先跟咨询师说清楚，我不是不想好好回应，而是我妈一开口我就容易炸。）"
+      }
+    }
+  ],
+  "created": 1795143142,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2937,
+    "total_tokens": 3049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

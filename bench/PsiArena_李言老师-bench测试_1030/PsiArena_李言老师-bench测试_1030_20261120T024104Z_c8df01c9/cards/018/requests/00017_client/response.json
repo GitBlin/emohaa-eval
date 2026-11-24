@@ -1,0 +1,41 @@
+{
+  "id": "1ae2b63d7db749b3aefe0226da9a97f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先跟她说，我听到她的想法了，也愿意认真想，但我需要时间消化。不是敷衍她，是怕我硬撑着答应，反而更伤我们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化表达方式，这让我觉得有点方向了。刚才我意识到需要时间，但真要说出口还是有点紧张，怕她误解成我不够爱她。）\n（我想到可以先肯定她的坦诚，毕竟她愿意跟我提这个想法，说明信任我。但我也得明确说出我需要时间消化，不能让她觉得我在敷衍。这样既不会推开她，也能守住自己的节奏。）",
+        "reasoning": "（咨询师在帮我具体化表达方式，这让我觉得有点方向了。刚才我意识到需要时间，但真要说出口还是有点紧张，怕她误解成我不够爱她。）\n（我想到可以先肯定她的坦诚，毕竟她愿意跟我提这个想法，说明信任我。但我也得明确说出我需要时间消化，不能让她觉得我在敷衍。这样既不会推开她，也能守住自己的节奏。）"
+      }
+    }
+  ],
+  "created": 1795142956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2520,
+    "total_tokens": 2646,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

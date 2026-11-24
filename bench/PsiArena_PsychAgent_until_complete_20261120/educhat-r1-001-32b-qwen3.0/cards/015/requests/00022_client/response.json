@@ -1,0 +1,41 @@
+{
+  "id": "d8f477a891b94e859cda1795e389d879",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……（停顿）我想问他，为什么总是对我那么冷淡？是不是我哪里做得不好……可我又怕问了，他更烦我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我说说想对丈夫说的话……这让我一下子有点慌。那些憋在心里的话，平时连想都不敢细想，现在突然被问出来，喉咙都发紧了。）\n（我该说吗？可要是不说，可能又会像以前一样把什么都咽回去。但说出来又怕自己控制不住情绪，显得很狼狈。也许可以试着说一点点，就一点点，比如他总是不理我这件事……）",
+        "reasoning": "（咨询师让我说说想对丈夫说的话……这让我一下子有点慌。那些憋在心里的话，平时连想都不敢细想，现在突然被问出来，喉咙都发紧了。）\n（我该说吗？可要是不说，可能又会像以前一样把什么都咽回去。但说出来又怕自己控制不住情绪，显得很狼狈。也许可以试着说一点点，就一点点，比如他总是不理我这件事……）"
+      }
+    }
+  ],
+  "created": 1795153969,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1716,
+    "total_tokens": 1839,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

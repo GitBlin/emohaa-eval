@@ -1,0 +1,41 @@
+{
+  "id": "0301f7049ad94f63b85c8e1adb678505",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "又是开会那种场合吧……不过我现在不太想再翻那个了。你说紧张不等于不够好，那我下次慌的时候，能做点什么让自己别那么快就缩回去？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又一次把话题带回具体场景，我有点烦，但也明白她是在帮我面对。可我不想再翻那些让人难堪的回忆了，好像每次都要证明我多脆弱似的。）\n（不过她刚才说紧张不等于不够好，这话让我稍微松了一点。也许可以试着换个方向，说说下次再遇到那种情况，我能做点什么，而不是一直挖过去。）",
+        "reasoning": "（咨询师又一次把话题带回具体场景，我有点烦，但也明白她是在帮我面对。可我不想再翻那些让人难堪的回忆了，好像每次都要证明我多脆弱似的。）\n（不过她刚才说紧张不等于不够好，这话让我稍微松了一点。也许可以试着换个方向，说说下次再遇到那种情况，我能做点什么，而不是一直挖过去。）"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2734,
+    "total_tokens": 2852,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

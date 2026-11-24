@@ -1,0 +1,41 @@
+{
+  "id": "dcbd66a840bc448bb57387253576c61a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意，我试试先停一下。不过说实话，有时候我一慌起来，可能根本想不起来这些步骤。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我愿不愿意试试“暂停”。这个具体的方法听起来比之前那些要求更容易做到，我也确实需要个东西打断自己反复翻记录的冲动。不过想到真到那时候，可能还是会控制不住，得先承认这一点，免得他以为我一下就能做到。）",
+        "reasoning": "（他问我愿不愿意试试“暂停”。这个具体的方法听起来比之前那些要求更容易做到，我也确实需要个东西打断自己反复翻记录的冲动。不过想到真到那时候，可能还是会控制不住，得先承认这一点，免得他以为我一下就能做到。）"
+      }
+    }
+  ],
+  "created": 1795148085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3268,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f5cf1f562e41479b8687803322998874",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步……这个倒不难。我平时去医院，可以早到一会儿，在附近走走。就是有时候走着走着，心里又想着我妈，觉得放松一下好像有点对不起她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又提到了放松活动，这让我想起以前散步时那种稍微喘口气的感觉。但每次刚放松一点，马上又会想到母亲还在病床上，心里就特别不是滋味，觉得自己不该有轻松的时刻。）\n（也许可以试试晚饭后在医院附近走走，不用走远，就当是透透气。不过得提醒自己别走太久，母亲那边随时可能需要人。）",
+        "reasoning": "（咨询师又提到了放松活动，这让我想起以前散步时那种稍微喘口气的感觉。但每次刚放松一点，马上又会想到母亲还在病床上，心里就特别不是滋味，觉得自己不该有轻松的时刻。）\n（也许可以试试晚饭后在医院附近走走，不用走远，就当是透透气。不过得提醒自己别走太久，母亲那边随时可能需要人。）"
+      }
+    }
+  ],
+  "created": 1795148344,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2616,
+    "total_tokens": 2734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

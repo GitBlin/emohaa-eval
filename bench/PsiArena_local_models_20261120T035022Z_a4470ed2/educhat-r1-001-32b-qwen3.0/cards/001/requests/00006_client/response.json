@@ -1,0 +1,41 @@
+{
+  "id": "d2069225b11f410293619ce7da921370",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如……课间的时候，看到同学们聚在一起聊天，我就坐在座位上，不知道要不要过去。其实也不是不想去，就是……就是感觉插不进去，怕说错话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师让我描述具体情境，但我其实有点犹豫要不要说太多。毕竟才刚开始，我还不太确定他会不会理解我这种矛盾的心情。不过既然他问了，我就稍微说一点吧...）\n（作为高中生，我确实经常在课间看到同学们聚在一起聊天，那种感觉特别复杂。一方面觉得他们好像都很开心，另一方面又觉得自己格格不入。但我不想直接说“我羡慕他们”这种话，感觉太直白了。）\n（嗯...还是用“插不进去”这种模糊的说法吧，既表达了感受又不会显得太脆弱。而且提到“怕说错话”也能让他明白我的顾虑，但又不用说得太详细。好了，就这样回答吧。）",
+        "reasoning": "（刚才咨询师让我描述具体情境，但我其实有点犹豫要不要说太多。毕竟才刚开始，我还不太确定他会不会理解我这种矛盾的心情。不过既然他问了，我就稍微说一点吧...）\n（作为高中生，我确实经常在课间看到同学们聚在一起聊天，那种感觉特别复杂。一方面觉得他们好像都很开心，另一方面又觉得自己格格不入。但我不想直接说“我羡慕他们”这种话，感觉太直白了。）\n（嗯...还是用“插不进去”这种模糊的说法吧，既表达了感受又不会显得太脆弱。而且提到“怕说错话”也能让他明白我的顾虑，但又不用说得太详细。好了，就这样回答吧。）"
+      }
+    }
+  ],
+  "created": 1795146709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 185,
+    "prompt_tokens": 1050,
+    "total_tokens": 1235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 146,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

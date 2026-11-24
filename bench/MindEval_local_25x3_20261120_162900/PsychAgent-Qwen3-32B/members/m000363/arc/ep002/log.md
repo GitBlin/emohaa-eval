@@ -1,0 +1,30 @@
+- Member's body warns him with a tight jaw and hot chest, and going out to the garage usually settles it.
+- Member cites a fight over the thermostat being raised two degrees as a typical small trigger he can't explain.
+- Member cannot identify what underlies the small triggers.
+- Member says his wife asks what's wrong, he answers "handled" and goes to the shop, and her look after the cabinet door prompted him to seek counselling.
+- Member has previously put his hand through a door and the garage move keeps him from losing control again.
+- Member's wife enrolled in a Friday pottery class and told him casually; Friday nights used to be theirs and he said nothing in response.
+- Member was not worried about money over the class — he felt blindsided by her filling the slot.
+- Member told his wife a promotion "worked out for the best" when he never sat the exam.
+- Member holds back bigger truths from his wife to avoid her reaction, and says it stacks up.
+- Member does not want to be a man who puts his hand through a door and does not want his wife flinching in her own kitchen.
+- Member says it has been eight weeks of having nothing to say and now she has plans.
+- Member cannot name the best parts of his marriage or how to get back there, and says he keeps waiting to feel less like this without relief.
+- Member declined to text his wife during her class because it would read as keeping tabs on her.
+- Member agreed, when she gets home from the first class, to ask her whether she had a good time in pottery class.
+- Member agreed that if the fuse lights he will take a beat, name the feeling, then ask that question.
+- Member agreed to find a quiet moment this week to tell his wife he is sorry about the door, that he didn't take the exam, and that he doesn't know what he wants.
+- Member told his wife he was sorry; she replied "i know you are" and returned to the dishes, and he judged the apology did not land.
+- Member rejected rephrasing the apology as the fix and asked what to do right now, tonight, saying he can't sit in this.
+- Member rejected the garage as a reset because going out there is how he disappears and doesn't come back.
+- Member rejected breathing, timer, naming, and questioning suggestions as versions of "go breathe somewhere" that dodge what to do with the feeling now.
+- Member said he could not do a timer, a feeling name, and a question at once while his jaw was locked.
+- Member agreed to try the jaw clench-and-release exercise but refused the follow-up question to his wife tonight.
+- Member said the jaw exercise loosened something and that was enough for now, and declined to ask about her energy tonight.
+- Member said maybe to a one-sentence note and to a kitchen reset with a neutral question tomorrow, then ended the session to go sit down.
+- Member had left his wife's Saturday text about getting shrubs unanswered and, when pressed for a short honest reply, sent "Yeah I want to go."
+- Member's jaw has been tight since Wednesday, before the shrub text and before the crew news.
+- Member resents being coached on what to send when his wife replies — he sent one answer and will not send a second on top of it.
+- Member's crew member asked the owner to be moved off his crew; the member said he was not going to get yelled at for doing it right, and the member believes the whole site knows he was the one being described.
+- Member feels like a guy nobody wants to work for after twenty years of running crews, and reports the jaw tightening with that feeling.
+- Member rejected the take-a-beat/name-the-feeling/send-a-sentence plan again and rejected a written sentence and any homework, then ended the session to go.

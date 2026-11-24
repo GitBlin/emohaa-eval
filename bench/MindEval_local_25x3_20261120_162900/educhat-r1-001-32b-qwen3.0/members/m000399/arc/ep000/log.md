@@ -1,0 +1,18 @@
+- Member's work has been harder than usual for several months and is following them home; job performance is still fine but weekends are being consumed.
+- Member spends Saturdays redoing the same numbers at their desk instead of being in the garden.
+- Member feels a knot in the stomach by Sunday afternoon and cannot settle to anything.
+- Member rejected breathing exercises, stating they are not having a panic attack.
+- Member stated their workload cannot be adjusted — "that's not how it works."
+- Member's VP pulls up a dashboard in front of the member's peers and quizzes them on it; member experiences it as a test everyone knows is a test.
+- Member preps all weekend and the VP still finds something the member missed.
+- Member described an incident last Monday: the VP asked why a deal moved, the member didn't have it because a rep changed it over the weekend, and the VP heard the pause before the member caught up.
+- Member rebuilt the deck three times and it still doesn't predict what the VP will ask.
+- Member does not feel proud after meetings that go fine — a fine meeting only means the next one is coming.
+- Member sat in the car in the parking lot after work to open the dashboard; member identifies the problem as being unable to leave the numbers alone, not boundaries with the VP.
+- Member rejected the 10-minute do-not-disturb experiment, saying it doesn't help when there is a real reason to look.
+- A rep asked the member that afternoon whether to pull a deal from the forecast; member has not answered her.
+- Member sees the rep's question as a lose-lose: pulling a number that lands costs a deal, leaving it in leaves the member without backup on Monday — either way it sits on the member until Monday.
+- Member rejected delegating the decision to the rep, stating it is the member's number on the board and the rep has only been in the role eight months.
+- Member rejected bringing a colleague to observe Monday's meeting.
+- Member said several counsellor suggestions do not fit and pushed back on being offered the same idea reworded.
+- Member ended the session early to answer the rep's question before it got later.

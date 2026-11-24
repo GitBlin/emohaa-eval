@@ -1,0 +1,41 @@
+{
+  "id": "958238f632094ca7b16e3a266d4c2797",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱起眉）就觉得他们把我当小孩，好像我结不结婚不是我的事。越说是为我好，我越觉得喘不过气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说了谢谢，但规则说不要太早说谢谢或再见，不过这是咨询师说的，不是我。我要继续）",
+        "reasoning": "（咨询师说了谢谢，但规则说不要太早说谢谢或再见，不过这是咨询师说的，不是我。我要继续）"
+      }
+    }
+  ],
+  "created": 1795147289,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 2497,
+    "total_tokens": 2558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

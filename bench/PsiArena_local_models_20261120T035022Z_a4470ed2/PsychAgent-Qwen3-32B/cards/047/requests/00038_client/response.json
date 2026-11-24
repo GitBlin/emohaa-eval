@@ -1,0 +1,41 @@
+{
+  "id": "0e8ee677aa4f40babdd1baa03a8d429a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“认真”……嗯，这个词让我舒服一点，不像硬撑着装没事。那我要是红着眼睛，也还能算认真吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "“认真”吧，这个词更像我自己，不是那种硬撑的冷静。你觉得“认真”能帮我在红眼睛时也站住吗？<第20轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "“认真”吧，这个词更像我自己，不是那种硬撑的冷静。你觉得“认真”能帮我在红眼睛时也站住吗？<第20轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795148849,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3389,
+    "total_tokens": 3480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

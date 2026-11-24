@@ -1,0 +1,41 @@
+{
+  "id": "6f9a83ca395d45fca9393a0ffdb35e14",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也许可以改成“我需要十分钟缓一下”，听起来更直接一点。我试试吧，不过可能还是会紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把话说具体，还问哪几个字最可能引发反对。我其实最怕“有点累”被听成借口，但真说出来，也许没那么可怕。）嗯……“有点累”吧，我怕他觉得我是在找借口。可要是不说累，我又不知道该怎么开口。",
+        "reasoning": "（咨询师在帮我把话说具体，还问哪几个字最可能引发反对。我其实最怕“有点累”被听成借口，但真说出来，也许没那么可怕。）嗯……“有点累”吧，我怕他觉得我是在找借口。可要是不说累，我又不知道该怎么开口。"
+      }
+    }
+  ],
+  "created": 1795147385,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2623,
+    "total_tokens": 2714,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

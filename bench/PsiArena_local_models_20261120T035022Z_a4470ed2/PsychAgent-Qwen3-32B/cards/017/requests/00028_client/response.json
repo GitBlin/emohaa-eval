@@ -1,0 +1,41 @@
+{
+  "id": "87d844b770aa4f5f9c00064ecb5ffa91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喉咙像堵住了，说不出话那种。……其实我有时候会想，是不是我一直在替别人活，连要不要孩子这件事，我都没认真问过自己到底想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体的感觉，但我觉得他好像总在绕圈子问这些细节。我其实更想说，我是不是真的想太多了，这种自我怀疑更折磨人。不过还是先回答一下，喉咙确实会堵，然后……还是把那个怀疑说出来吧，虽然有点难为情。）",
+        "reasoning": "（咨询师在问我身体的感觉，但我觉得他好像总在绕圈子问这些细节。我其实更想说，我是不是真的想太多了，这种自我怀疑更折磨人。不过还是先回答一下，喉咙确实会堵，然后……还是把那个怀疑说出来吧，虽然有点难为情。）"
+      }
+    }
+  ],
+  "created": 1795147099,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2428,
+    "total_tokens": 2532,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

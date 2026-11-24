@@ -1,0 +1,41 @@
+{
+  "id": "b1fcecc03ea64d94aca1ceef74839c87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我试了……肩膀好像松了一点点。不过我又有点怕，一放松下来，那些事就全涌上来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（缓缓吸了一口气，又慢慢吐出来）好像……肩膀没那么紧了。可我有点怕，一松下来，那些事又全涌上来了。",
+        "reasoning": "（缓缓吸了一口气，又慢慢吐出来）好像……肩膀没那么紧了。可我有点怕，一松下来，那些事又全涌上来了。"
+      }
+    }
+  ],
+  "created": 1795154129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 2132,
+    "total_tokens": 2195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

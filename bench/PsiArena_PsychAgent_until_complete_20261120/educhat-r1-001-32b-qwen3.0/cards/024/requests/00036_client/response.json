@@ -1,0 +1,41 @@
+{
+  "id": "213b644ec5f842efb46aca039510090d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻叹气）可能……我得告诉自己，我已经尽力了。也许可以找朋友聊聊，或者写写日记，把想说的话写下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在引导我思考如果婆婆没有回应时如何自我照顾。这让我意识到不能总依赖别人的改变来获得情绪平衡。作为长期压抑情感的人，我需要学会给自己情感支持。）\n（也许可以尝试一些自我安抚的方法，比如写日记或者找朋友倾诉。这些方式既能释放情绪又不会引发冲突，比较适合我这种不习惯直接表达的性格。）",
+        "reasoning": "（心理咨询师在引导我思考如果婆婆没有回应时如何自我照顾。这让我意识到不能总依赖别人的改变来获得情绪平衡。作为长期压抑情感的人，我需要学会给自己情感支持。）\n（也许可以尝试一些自我安抚的方法，比如写日记或者找朋友倾诉。这些方式既能释放情绪又不会引发冲突，比较适合我这种不习惯直接表达的性格。）"
+      }
+    }
+  ],
+  "created": 1795154403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2387,
+    "total_tokens": 2497,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

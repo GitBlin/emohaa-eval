@@ -1,0 +1,41 @@
+{
+  "id": "1c1db851fa074938ab9eaf9da06e80fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，身体有提醒很正常，它是在保护你，不是失败。我们最后一起收个尾：今天你最大的一个发现是什么？接下来一周，你愿意先做哪一件小事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）……抬头，呼气，然后说“我需要一点时间，慢慢说”。做一遍好像没那么慌，但还是能感觉到胃在提醒我。",
+        "reasoning": "（停顿）……抬头，呼气，然后说“我需要一点时间，慢慢说”。做一遍好像没那么慌，但还是能感觉到胃在提醒我。"
+      }
+    }
+  ],
+  "created": 1795156403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3498,
+    "total_tokens": 3572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

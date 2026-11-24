@@ -1,0 +1,41 @@
+{
+  "id": "443478b2fc4d4e8e97141c0e2c92f3dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次在办公室，同事说我太情绪化，我笑着说没事，回家却一直想那句话。其实我很想解释，但又怕越说越像在辩解。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我愿意再补充一个具体场景……嗯，他好像没有急着给我建议，而是想让我多说一点。这让我觉得可以试着讲一个具体的事，但又有点犹豫，不知道从哪里开始。我想到了家里做决定的时候，那种总是要考虑父母意见的感觉，可能和现在在课堂上控制不住情绪有关。不过说出来会不会显得我很软弱？算了，先模糊地提一下家里的事吧，看看他什么反应。）",
+        "reasoning": "（心理咨询师问我愿意再补充一个具体场景……嗯，他好像没有急着给我建议，而是想让我多说一点。这让我觉得可以试着讲一个具体的事，但又有点犹豫，不知道从哪里开始。我想到了家里做决定的时候，那种总是要考虑父母意见的感觉，可能和现在在课堂上控制不住情绪有关。不过说出来会不会显得我很软弱？算了，先模糊地提一下家里的事吧，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1795155170,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1718,
+    "total_tokens": 1846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "704aabdf9d1f47c4bf72b9ad1d656444",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "调整……（声音有点抖）说实话我有点怕。我怕一放松，她就变成我爸妈嘴里那种“不成器”的孩子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到镜子这个比喻，让我突然意识到自己可能一直在给女儿传递错误的信息。我总以为严格是对她好，但没想过她也在学我对待自己的方式。这让我有点慌，因为我不确定自己能不能改变，毕竟这种严格已经伴随我几十年了。）\n（想到父母对我的教育方式，那种永远不够好的感觉又涌上来。我害怕自己也会变成那样，让女儿也活在永远达不到标准的压力里。这种恐惧让我声音都有点发抖，但同时也隐约觉得，或许这就是需要改变的地方。）",
+        "reasoning": "（咨询师提到镜子这个比喻，让我突然意识到自己可能一直在给女儿传递错误的信息。我总以为严格是对她好，但没想过她也在学我对待自己的方式。这让我有点慌，因为我不确定自己能不能改变，毕竟这种严格已经伴随我几十年了。）\n（想到父母对我的教育方式，那种永远不够好的感觉又涌上来。我害怕自己也会变成那样，让女儿也活在永远达不到标准的压力里。这种恐惧让我声音都有点发抖，但同时也隐约觉得，或许这就是需要改变的地方。）"
+      }
+    }
+  ],
+  "created": 1795154430,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1964,
+    "total_tokens": 2106,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

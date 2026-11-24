@@ -1,0 +1,14 @@
+- Member's rent has increased and they cannot cover the difference, causing weeks of stress and sleepless nights spent redoing the same math.
+- Member has already completed a budget four different ways and states the math is not the problem — the income number is.
+- Member has been the one to figure out financial problems since age ten and feels they should be able to solve this themselves.
+- Member believes cousin Marisol would help immediately if told, but cannot stand being the one who needs help.
+- Member posted a roommate ad last week but deleted it after the first respondent asked whether they live alone and what hours they keep.
+- Member was accepted to start at Mesa but the enrollment folder has sat untouched for weeks; they are unsure whether school still makes sense.
+- Member is torn on pausing school: half sees relief, half fears they will never return if they stop.
+- Member rejected counsellor suggestions of self-compassion, small tasks like moving the folder, and coworking space as not addressing rent or the actual decision.
+- Member asked for the real options laid out side by side: staying and paying, a roommate, moving, asking for help.
+- Member sees every option as dirty: staying and paying means dropping school, moving means losing the apartment and community center, asking for help means telling people.
+- Member has told no one about the situation, including Marisol, and lied at Friday dinner saying they were "busy, good busy."
+- Member states there is no small version of disclosure — either they say the number out loud or say nothing.
+- Member rejected "you're stronger than you think" as an option they can pick and ended the session.
+- [open] Member said they would go, with no next session or follow-up action agreed.

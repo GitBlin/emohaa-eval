@@ -1,0 +1,41 @@
+{
+  "id": "fc7af03b519c4b438b6da8721b094646",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "真的会变小吗？我有点半信半疑。不过……我想试试，下次跟我妈打电话的时候，少说点自己的不是。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在肯定我的进步，还解释了改变的原理。听起来确实有道理，但心里还是有点打鼓，怕自己做不到。毕竟这种自我批评的习惯太久了，突然要改，总觉得不太真实。）\n（不过既然咨询师这么鼓励，也许可以试着定个小目标？比如先从不跟妈妈做自我检讨开始。但马上又担心，万一妈妈觉得我不够坦诚怎么办，她会不会不高兴。）",
+        "reasoning": "（咨询师在肯定我的进步，还解释了改变的原理。听起来确实有道理，但心里还是有点打鼓，怕自己做不到。毕竟这种自我批评的习惯太久了，突然要改，总觉得不太真实。）\n（不过既然咨询师这么鼓励，也许可以试着定个小目标？比如先从不跟妈妈做自我检讨开始。但马上又担心，万一妈妈觉得我不够坦诚怎么办，她会不会不高兴。）"
+      }
+    }
+  ],
+  "created": 1795148466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2399,
+    "total_tokens": 2517,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

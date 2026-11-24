@@ -1,0 +1,41 @@
+{
+  "id": "b86027c7effa441f861647083ec0f4bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作……其实也还好吧。就是最近总觉得累，回家看到女儿写作业就烦，我也说不清，可能是我想太多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师强调了保密和专业性，这让我稍微安心了一点，但提到工作困扰时我还是有点犹豫。作为教师，我习惯在别人面前保持专业形象，现在要承认自己教育孩子有问题确实很难开口。女儿数学考试的事让我很焦虑，但直接说出来又显得我很无能。也许先模糊地提一下最近状态不好比较安全，毕竟第一次咨询就暴露太多问题会让我觉得很不自在。）",
+        "reasoning": "（咨询师强调了保密和专业性，这让我稍微安心了一点，但提到工作困扰时我还是有点犹豫。作为教师，我习惯在别人面前保持专业形象，现在要承认自己教育孩子有问题确实很难开口。女儿数学考试的事让我很焦虑，但直接说出来又显得我很无能。也许先模糊地提一下最近状态不好比较安全，毕竟第一次咨询就暴露太多问题会让我觉得很不自在。）"
+      }
+    }
+  ],
+  "created": 1795148780,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1031,
+    "total_tokens": 1148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

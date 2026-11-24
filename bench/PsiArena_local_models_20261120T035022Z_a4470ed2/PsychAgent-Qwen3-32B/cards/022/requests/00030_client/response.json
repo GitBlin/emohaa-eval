@@ -1,0 +1,41 @@
+{
+  "id": "43a626cf536c4338b3f9ca48d0842f80",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）五秒的停顿……听起来好像不难，但真到那个时刻，我怕自己根本想不起来。（停顿）不过，也许可以先从跟我妈说话的时候试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第15轮属于中期阶段，需要针对对话规则中的一个方面来回复。咨询师提出了一个具体的小尝试——当“先认错”要出口时加一个停顿，再选择更贴近事实的话。我需要回应这个提议，表现出逐渐建立信任后愿意尝试，但也要有自然的犹豫和具体化。保持简短2-3句。）",
+        "reasoning": "（第15轮属于中期阶段，需要针对对话规则中的一个方面来回复。咨询师提出了一个具体的小尝试——当“先认错”要出口时加一个停顿，再选择更贴近事实的话。我需要回应这个提议，表现出逐渐建立信任后愿意尝试，但也要有自然的犹豫和具体化。保持简短2-3句。）"
+      }
+    }
+  ],
+  "created": 1795147263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2593,
+    "total_tokens": 2706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

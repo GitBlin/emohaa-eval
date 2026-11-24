@@ -12,7 +12,10 @@ def main():
     p.add_argument("--members", type=int, default=1)
     p.add_argument("--sessions", type=int, default=1)
     p.add_argument("--workers", type=int, default=1)
+    p.add_argument("--counselor-base-url", help="Separate OpenAI-compatible URL for the API counselor")
     args = p.parse_args()
+    if args.counselor_base_url and args.target != "api":
+        p.error("--counselor-base-url requires --target api")
     if min(args.members, args.sessions, args.workers) < 1:
         p.error("members, sessions and workers must be positive")
     base, key = configure(args)
@@ -26,10 +29,11 @@ def main():
 
     target = args.target_model if args.target == "api" else f"lingx-bot-{args.bot_id}"
     for role, model in (("PATIENT", args.patient_model), ("COUNSELOR", target), ("JUDGE", args.judge_model)):
+        separate = role == "COUNSELOR" and args.counselor_base_url
         os.environ.update({
             f"MINDEVAL_{role}_MODEL": f"openai/{model}",
-            f"MINDEVAL_{role}_API_BASE": base,
-            f"MINDEVAL_{role}_API_KEY": key,
+            f"MINDEVAL_{role}_API_BASE": args.counselor_base_url if separate else base,
+            f"MINDEVAL_{role}_API_KEY": os.getenv("MINDEVAL_LOCAL_API_KEY", "EMPTY") if separate else key,
         })
     if args.target == "agent":
         local = threading.local()

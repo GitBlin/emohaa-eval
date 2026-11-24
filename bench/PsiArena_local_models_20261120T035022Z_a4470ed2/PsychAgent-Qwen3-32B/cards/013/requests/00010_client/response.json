@@ -1,0 +1,41 @@
+{
+  "id": "5090685f62bc49bf808d90bb86c3a7a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那还好。其实我有时候会想，要是咨询师能像朋友一样，私下也聊聊就好了……（停顿）不过我也知道这样好像不太合适。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这是第5轮，初期阶段。咨询师刚解释了保密原则。我需要表现出防御性和试探，同时可以模糊地测试界限。可以稍微试探一下咨询师会不会在私下也关心我，或者模糊界限。但不要深入。保持简短2-3句。",
+        "reasoning": "这是第5轮，初期阶段。咨询师刚解释了保密原则。我需要表现出防御性和试探，同时可以模糊地测试界限。可以稍微试探一下咨询师会不会在私下也关心我，或者模糊界限。但不要深入。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795146983,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1344,
+    "total_tokens": 1437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

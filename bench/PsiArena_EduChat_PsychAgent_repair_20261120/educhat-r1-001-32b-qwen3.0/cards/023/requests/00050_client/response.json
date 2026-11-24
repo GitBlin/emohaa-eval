@@ -1,0 +1,41 @@
+{
+  "id": "f70463a63558492a981d7928a9e4b61c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（把手放上去，停顿了一会儿）……跳得还挺快。（小声）说那句话有点别扭，不过……好像真的没那么慌了。谢谢你今天听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把手放在心口感受心跳，这让我有点不自在。虽然之前已经建立了一些信任，但突然要做这么亲密的动作还是让我有点别扭。不过既然答应试试，还是配合一下吧。）\n（说“我在这里，你安全了”这种话总觉得有点傻，但手掌下确实能感觉到心跳，跳得有点快。可能真的像咨询师说的，身体比嘴巴诚实。虽然现在说完全安全还太早，但至少今天聊完，心里确实松动了些。）",
+        "reasoning": "（咨询师让我把手放在心口感受心跳，这让我有点不自在。虽然之前已经建立了一些信任，但突然要做这么亲密的动作还是让我有点别扭。不过既然答应试试，还是配合一下吧。）\n（说“我在这里，你安全了”这种话总觉得有点傻，但手掌下确实能感觉到心跳，跳得有点快。可能真的像咨询师说的，身体比嘴巴诚实。虽然现在说完全安全还太早，但至少今天聊完，心里确实松动了些。）"
+      }
+    }
+  ],
+  "created": 1795154423,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 3384,
+    "total_tokens": 3527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

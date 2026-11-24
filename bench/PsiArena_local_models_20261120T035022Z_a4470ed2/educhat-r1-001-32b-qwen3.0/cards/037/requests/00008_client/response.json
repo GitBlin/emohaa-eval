@@ -1,0 +1,41 @@
+{
+  "id": "b920105d02fa47f2be63b399f164706c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有效沟通……说实话我都不太确定那是什么样了。上周我试着问她工作是不是很累，她就“嗯”了一声，然后就没下文了。我也不太清楚自己为什么会这么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“有效沟通”这个词，让我有点不知所措。我其实不太确定我们之间还有没有所谓的有效沟通，最近都是我在说，她在听，或者干脆不回应。这种状态让我很无力，但又不知道该怎么描述清楚。）\n（我想到上周试图跟她聊工作的事，她只是简单回应了几句就沉默了。那种感觉就像对着一堵墙说话，让我特别难受。可能咨询师能帮我理清这些模糊的感觉，但我现在还是不太想说得太深。）",
+        "reasoning": "（咨询师提到“有效沟通”这个词，让我有点不知所措。我其实不太确定我们之间还有没有所谓的有效沟通，最近都是我在说，她在听，或者干脆不回应。这种状态让我很无力，但又不知道该怎么描述清楚。）\n（我想到上周试图跟她聊工作的事，她只是简单回应了几句就沉默了。那种感觉就像对着一堵墙说话，让我特别难受。可能咨询师能帮我理清这些模糊的感觉，但我现在还是不太想说得太深。）"
+      }
+    }
+  ],
+  "created": 1795149657,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1157,
+    "total_tokens": 1302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

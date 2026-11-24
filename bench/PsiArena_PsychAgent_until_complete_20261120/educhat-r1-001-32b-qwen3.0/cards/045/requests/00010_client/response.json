@@ -1,0 +1,41 @@
+{
+  "id": "2eac8d21354e41d5a4211f3360b846b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）不太想跟他们说……说了他们也不一定懂。其实……我觉得跟你说话的时候，好像会好一点。（小声）这样是不是有点奇怪？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我有没有尝试和朋友或家人聊聊或者写日记...他好像很关心我平时怎么处理这些情绪。但我真的不太想和别人说这些，总觉得他们不会理解，反而会让我更难受。而且...说到朋友，我其实更想和咨询师你多说说话，感觉只有你能懂我。）\n（不过这样想是不是不太对？咨询师毕竟是专业人士，我这样依赖他会不会越界了...但那种被理解的感觉真的很特别，让我忍不住想靠近。也许我可以试探一下，看看他会不会介意我这样说。）",
+        "reasoning": "（咨询师问我有没有尝试和朋友或家人聊聊或者写日记...他好像很关心我平时怎么处理这些情绪。但我真的不太想和别人说这些，总觉得他们不会理解，反而会让我更难受。而且...说到朋友，我其实更想和咨询师你多说说话，感觉只有你能懂我。）\n（不过这样想是不是不太对？咨询师毕竟是专业人士，我这样依赖他会不会越界了...但那种被理解的感觉真的很特别，让我忍不住想靠近。也许我可以试探一下，看看他会不会介意我这样说。）"
+      }
+    }
+  ],
+  "created": 1795155190,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1187,
+    "total_tokens": 1335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

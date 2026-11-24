@@ -1,0 +1,30 @@
+- Member says the hardest part is sitting down with the letter at night — within ten minutes they are distractedly looking at tamale recipes.
+- Member rejects grounding and breathing exercises, wanting an actual decision to make rather than to feel calmer about the letter.
+- Member already tried earning extra: posted for a roommate last week but deleted the post after a reply asked if they live alone and what hours they keep, which felt gross.
+- Member is torn between getting a second job and resenting working themselves to death for an apartment they are never home in.
+- Member rejects a roommate outright — cannot have a stranger in their kitchen, won't even let their cousin in when the counters are messy.
+- Member likes their building and notes that moving to a smaller unit costs money and means a worse rent.
+- Member says they cannot pick one path even as a trial, because staying means the second job and moving means losing the rent they have; both feel like losing.
+- Member says overtime is capped at their store and more hours won't be given.
+- Member has a school folder sitting out and is considering deferring a semester; tuition is covered by aid, and they fear that stopping means never restarting, while full-time work plus classes on almost no sleep feels unmanageable.
+- Member says every small step is one of the two big choices in costume and that they haven't slept through a night since the letter came.
+- Member rejects a $25 grocery cut as "not real money" and a paper plan.
+- Member says they don't think the landlord, a company, cares.
+- Member rejects subletting as the same as the roommate situation, with someone coming and going.
+- Member says doing both paths at once is the problem — it's what they've been doing at 2am every night.
+- Member says they are not at risk of doing anything stupid, but that money management has defined them since childhood — they did the bills for their mom and the taxes — and they don't know who they are if they can't do it for themselves.
+- Member has told no one about this — not family, not friends — and won't call a stranger who will just hand them a pamphlet.
+- Member says they already have four lists and nothing the counsellor offered was new to what they know at 2am.
+- Member ended the session and went to bed.
+- Member's cousin Marisol called Friday about her own rent increase and wants to talk this weekend; Member does not know what to tell her.
+- Member's central worry with Marisol is that telling her the number will prompt Marisol to offer help, which Member wants to avoid owing.
+- Member rejects all counsellor-suggested phrasings for the Marisol conversation as scripts that don't sound like them, including shortened versions.
+- Member says they never speak up for themselves — stayed silent when moved off the early shift for a new hire Thursday — and the sting is that nobody asked, though the shift itself isn't the issue.
+- Member says the shift grievance is beside the point because it won't cover the $325.
+- Member ended the session early and went to bed.
+- Member now has three new demands: helping their mom with a county letter for their dad's benefits, a school aid deadline at the end of next week that risks losing a registration hold and the start of classes, and an unplayed voicemail from Marisol.
+- Member's whole plan is written in a notebook by the bed, untouched since the rent rose, and none of it fits the new rent despite redoing the math four ways.
+- Member says reading the aid email is quick; the block is that reading forces a decision, and deciding is the whole problem.
+- Member works 2 to 10 tomorrow, leaving no window for any step that day.
+- Member describes being stuck on the kitchen floor at 2am instead of sleeping and says every counsellor question adds another thing to sort.
+- Member was still deciding nothing about the aid email, the move, the second job, or the Marisol call when they left early for their 2pm shift.

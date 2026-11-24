@@ -1,0 +1,41 @@
+{
+  "id": "8d220dfeb09a447a963f0230cd9401aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个方向可以很小。比如下次他再评论你外表时，你希望自己先做哪一件具体的事：停下来、说出感受，还是先离开那个场景？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我好像第一次不是在问“他会不会怎么想”，而是在问我自己。可“接住自己”这词听着有点空，我得想想具体能做什么。也许先别急着逼自己立刻去谈，先让自己喘口气。）嗯……可能是先别急着否定自己吧，难受的时候别马上觉得是我太敏感。具体怎么做，我还没太想清楚。",
+        "reasoning": "（我好像第一次不是在问“他会不会怎么想”，而是在问我自己。可“接住自己”这词听着有点空，我得想想具体能做什么。也许先别急着逼自己立刻去谈，先让自己喘口气。）嗯……可能是先别急着否定自己吧，难受的时候别马上觉得是我太敏感。具体怎么做，我还没太想清楚。"
+      }
+    }
+  ],
+  "created": 1795154985,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2543,
+    "total_tokens": 2657,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

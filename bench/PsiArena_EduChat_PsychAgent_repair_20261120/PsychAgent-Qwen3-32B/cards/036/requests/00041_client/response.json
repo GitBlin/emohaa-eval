@@ -1,0 +1,41 @@
+{
+  "id": "cfdc0c06de474124ac88593b367f1264",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这个选择很具体，也做得到。你觉得在什么时刻最容易提醒自己“不跟着笑”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户说“不跟着一起笑”这个微行动没那么难。作为咨询师，我需要肯定这个具体的小行动，并帮助她明确触发时机。保持简短，一次只问一个问题。可以问她什么时候最容易提醒自己这个选择。",
+        "reasoning": "用户说“不跟着一起笑”这个微行动没那么难。作为咨询师，我需要肯定这个具体的小行动，并帮助她明确触发时机。保持简短，一次只问一个问题。可以问她什么时候最容易提醒自己这个选择。"
+      }
+    }
+  ],
+  "created": 1795154798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 2736,
+    "total_tokens": 2810,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

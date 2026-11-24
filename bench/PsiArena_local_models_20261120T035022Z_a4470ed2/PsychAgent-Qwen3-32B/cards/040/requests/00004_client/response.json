@@ -1,0 +1,41 @@
+{
+  "id": "9225cf5fc91946be8e9d976060b3638c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近就是……心里一直很乱，老是想着一个人，但说不清为什么会这么难受。我也知道这样可能挺傻的，就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回复来访者，初期阶段第2轮，目标建立信任与情感联系，表现防御试探。咨询师已经解释了流程并邀请从最近最困扰的事说起。我们需要模糊描述感受和表面困扰，不深入。回复2-3句，口语化，带犹豫。可以问关于咨询方法/保密/界限？但每轮只针对一个方面。当前可以继续试探咨询师的方法，或模糊描述。规则说初期首先表现防御和试探，询问内容和方法，了解后只模糊描述感受。上一轮已问怎么进行，咨询师答了。这一轮可以模糊描述：“最近就是……心里很乱，总想着一个人，但说不清为什么这么难受。” 简短。也许加一点试探：“你们咨询师会不会也觉得我这样挺傻的？” 但每轮只针对一个方面，可以只模糊描述。注意不要深入。用2-3句。",
+        "reasoning": "我们需要回复来访者，初期阶段第2轮，目标建立信任与情感联系，表现防御试探。咨询师已经解释了流程并邀请从最近最困扰的事说起。我们需要模糊描述感受和表面困扰，不深入。回复2-3句，口语化，带犹豫。可以问关于咨询方法/保密/界限？但每轮只针对一个方面。当前可以继续试探咨询师的方法，或模糊描述。规则说初期首先表现防御和试探，询问内容和方法，了解后只模糊描述感受。上一轮已问怎么进行，咨询师答了。这一轮可以模糊描述：“最近就是……心里很乱，总想着一个人，但说不清为什么这么难受。” 简短。也许加一点试探：“你们咨询师会不会也觉得我这样挺傻的？” 但每轮只针对一个方面，可以只模糊描述。注意不要深入。用2-3句。"
+      }
+    }
+  ],
+  "created": 1795148287,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 221,
+    "prompt_tokens": 993,
+    "total_tokens": 1214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 189,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

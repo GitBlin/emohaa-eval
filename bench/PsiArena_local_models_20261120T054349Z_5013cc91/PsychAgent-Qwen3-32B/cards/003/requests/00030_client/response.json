@@ -1,0 +1,41 @@
+{
+  "id": "743ca6b5f8b34d7e8b876e8363775a69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机锁屏……这个可能行吧。其实我小时候家里也这样，不太会有人问我“你今天怎么样”，所以现在也不太会开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这个阶段是中期，但规则说第8-15轮是中期。我现在还在中期，应该继续深入表达，可能提到文化背景或过去经历。但咨询师在问具体方案，我可以先回应这个，同时带一点过去的经历，比如父母不太聊心里事。保持简短。",
+        "reasoning": "这个阶段是中期，但规则说第8-15轮是中期。我现在还在中期，应该继续深入表达，可能提到文化背景或过去经历。但咨询师在问具体方案，我可以先回应这个，同时带一点过去的经历，比如父母不太聊心里事。保持简短。"
+      }
+    }
+  ],
+  "created": 1795153467,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2278,
+    "total_tokens": 2372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

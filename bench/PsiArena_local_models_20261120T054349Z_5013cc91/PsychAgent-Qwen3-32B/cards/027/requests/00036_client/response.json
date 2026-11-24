@@ -1,0 +1,41 @@
+{
+  "id": "45dfc518834c45b89d3edc666c3cf726",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪预算……这个说法挺新鲜的。具体怎么弄呢？我是不是该提前想好，聊到哪句话就打住？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了“情绪预算”这个办法，听起来好像能让我控制住通话时的压力。但我不太确定自己能不能做到，毕竟每次一听到我妈那种语气，情绪就上来了。我得问问具体怎么操作，不然心里没底。）",
+        "reasoning": "（咨询师提到了“情绪预算”这个办法，听起来好像能让我控制住通话时的压力。但我不太确定自己能不能做到，毕竟每次一听到我妈那种语气，情绪就上来了。我得问问具体怎么操作，不然心里没底。）"
+      }
+    }
+  ],
+  "created": 1795154396,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2709,
+    "total_tokens": 2791,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

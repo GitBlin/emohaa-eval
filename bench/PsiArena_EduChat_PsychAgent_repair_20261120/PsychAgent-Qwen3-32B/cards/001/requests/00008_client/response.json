@@ -1,0 +1,41 @@
+{
+  "id": "b9d313750feb411798c1948afcabbe05",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）嗯……可能是……看到别人在一起的时候吧。不过我也不太确定，就是那种感觉，说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我什么时候更容易心里堵……这让我有点紧张。我其实不太想具体说，但刚才他好像挺耐心的。也许可以稍微提一点，但又不想说太多。就说是人多的时候吧，这样既回答了问题，又不会暴露太多。希望他别追问下去。）",
+        "reasoning": "（咨询师问我什么时候更容易心里堵……这让我有点紧张。我其实不太想具体说，但刚才他好像挺耐心的。也许可以稍微提一点，但又不想说太多。就说是人多的时候吧，这样既回答了问题，又不会暴露太多。希望他别追问下去。）"
+      }
+    }
+  ],
+  "created": 1795153440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1193,
+    "total_tokens": 1283,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

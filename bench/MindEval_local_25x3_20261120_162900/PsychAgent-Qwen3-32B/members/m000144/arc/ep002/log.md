@@ -1,0 +1,30 @@
+- Member has dishes and laundry sitting undone for a while, which he describes as nothing serious.
+- Member describes his emotional state as just tired and could not elaborate further when asked how the mess weighs on him.
+- Member has a weekly Thursday game with some guys that he used to log on to most weeks.
+- Member's mother leaves him messages and he gets back to her.
+- Member agreed to look into the weekly Grief Support Group, calling it reasonable.
+- Member double booked a room last month, which landed on his boss's calendar, and he cannot identify what he did wrong when reviewing it.
+- Member is the only one who fixes the copier when it jams about once a week, and he has a way of getting it going again.
+- Member's weeks are quiet and uniform: work and home.
+- Member wants his kitchen to not be embarrassing, which is the one short-term change he named.
+- Member did the dishes once last Thursday but they piled back up again, and he agreed to set a recurring alarm every other day to keep on track.
+- Member agreed to a once-weekly check-in.
+- Member is not drinking more than usual and is not on any medications.
+- Member rates his overall energy at about three out of ten.
+- Member's mother left him a message about going through the garage, and he has not opened her reply.
+- Member has a half-built bookcase in his apartment that he has walked past for weeks and does not know what to do with.
+- Member said he would try tackling one shelf of the bookcase but has not touched it; he agreed to clear off just one shelf this weekend. [open]
+- Member received an email from the college about registration with a deadline next Friday and an open spot, and is unsure the course is for him.
+- Member fears that signing up and then failing to keep up would be worse than not signing up at all.
+- Member had not considered what support or adjustments would help him keep up, and stopped reading the course description after the first paragraph.
+- Member agreed to read one more short section of the course description tonight. [open]
+- Member said Ray texted him last night and they talked for a while, and Ray is coming by Saturday to drop off a clamp.
+- Member agreed to have coffee ready when Ray visits Saturday to make the visit more comfortable. [open]
+- Member clarified that the unopened item is his mother's message itself, not the garage, and agreed to read it with a 5-minute timer without replying. [open]
+- Member said he might take a short walk or get fresh air after reading the message. [open]
+- Member's hall smoke alarm chirps and he cannot reach it; he pulled a chair over, stood there an hour, and never got up on it.
+- Member agreed to clip a note to the chair handle reminding him to call the landlord or maintenance about the alarm.
+- Member said he will set a 5-minute timer Friday morning to read one more short section of the course description and then decide, accepting that he may just sit there without reading.
+- Member fears that if he cannot read one page he will not be good at the actual course.
+- Member has not listened to his mother's Monday voicemail; he said listening means having to call her back and tell her he is fine, which he does not want to do tonight.
+- Member acknowledged that waiting until he feels up for it is how a week has already passed.

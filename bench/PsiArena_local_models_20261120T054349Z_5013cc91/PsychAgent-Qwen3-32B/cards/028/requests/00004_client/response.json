@@ -1,0 +1,41 @@
+{
+  "id": "5372fa1c72114e6b91db4f07605ca6c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。（犹豫）那我可能就是……随便说说？我其实也不太确定该从哪说起，你会不会觉得我说的东西很乱？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询方式，还问我觉得这样行不行。我其实还没完全放下戒备，不太确定能不能真的把心里那些乱糟糟的事说出来。不过至少知道不用被逼着讲什么，好像稍微松了口气。）\n（但我也怕自己说不清楚，或者说着说着就乱了。先含糊地应一下，再问问会不会被评判吧，这样也能看看对方是什么态度。）",
+        "reasoning": "（刚才咨询师解释了咨询方式，还问我觉得这样行不行。我其实还没完全放下戒备，不太确定能不能真的把心里那些乱糟糟的事说出来。不过至少知道不用被逼着讲什么，好像稍微松了口气。）\n（但我也怕自己说不清楚，或者说着说着就乱了。先含糊地应一下，再问问会不会被评判吧，这样也能看看对方是什么态度。）"
+      }
+    }
+  ],
+  "created": 1795154362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 962,
+    "total_tokens": 1077,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

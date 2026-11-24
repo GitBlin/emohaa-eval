@@ -1,0 +1,41 @@
+{
+  "id": "7d81a4be12554741b24695ecd5f5cdd5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这样可能清楚点。今晚我先列两栏：哪些是我确定的，哪些只是我猜的，先不急着发给她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应，后期阶段，探索方案行动计划，情绪稳定些，但保持简短2-3句，自然口语。咨询师建议区分事实和猜测，问帮助吗。要回应可以试试，并具体化，比如今晚先列两栏，先不发。可能表达自己有点松。不要过早谢谢再见。只针对一个方面（具体化行动计划）。",
+        "reasoning": "我们需要回应，后期阶段，探索方案行动计划，情绪稳定些，但保持简短2-3句，自然口语。咨询师建议区分事实和猜测，问帮助吗。要回应可以试试，并具体化，比如今晚先列两栏，先不发。可能表达自己有点松。不要过早谢谢再见。只针对一个方面（具体化行动计划）。"
+      }
+    }
+  ],
+  "created": 1795148062,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2590,
+    "total_tokens": 2697,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

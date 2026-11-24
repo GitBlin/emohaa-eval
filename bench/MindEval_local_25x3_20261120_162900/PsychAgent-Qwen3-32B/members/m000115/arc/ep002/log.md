@@ -1,0 +1,30 @@
+- Member describes the feeling not as bitterness but as still wanting to hit something, five months on.
+- Member carries constant jaw and chest tension so longstanding he had forgotten it was not normal; he wakes at four most mornings with his head going.
+- Member says school is fine and his sixth-grade students still get "the good version" of him; his own children are grown and out of the house, so Ellen is the only one at home picking up on tension.
+- Member fears that if he starts talking he will not control what comes out, and that Ellen will ask how bad it is and he will have to hand her the whole year.
+- Member's one thing to communicate to Ellen is that the outburst was not about her or the bill but about him, and that it has been him for a while.
+- Member believes any honest sentence would come out sounding "fine, just tired" in his kitchen, as always.
+- Member says he has never once said out loud that he is not doing well in twenty-nine years, and cannot identify any time or setting when he is more able to speak up.
+- Member rejected the counsellor's suggestions of standing by the window and taking slow breaths, and of using the garage to steady himself, saying the garage is only somewhere to go so he does not have to be in the room with Ellen.
+- Member ended the session tired and unable to say why he stood silent in the kitchen on Thursday when the opening to speak was there.
+- Member has a leaking toilet with soft floor under it, carpet pulled back and water shut off, and an $1,100 estimate he has not told Ellen about; he was up at three two nights running and says he cannot think straight.
+- Member rejected the counsellor's suggestions of payment plans, a short walk, slow breaths, and talking to his principal, saying a walk will not fix it and his classroom is the one thing still working, so he will not tell them he cannot handle his own house.
+- Member sat in the garage in the dark Saturday night and it did nothing — he just sat with his jaw aching listening to the house, so the garage has stopped working as a place to get away.
+- Member frames the water bill, the toilet, and the untended garden as "all the same thing coming apart" and says he cannot get in front of any of it.
+- Member has pictured telling Ellen about the estimate about fifty times and it ends in shouting every time, so he keeps not doing it while the number sits in his phone and the carpet stays pulled back.
+- Member said the only sentence he has is the one he should have said three weeks ago — that the outburst was not about her or the bill, it was him — and that it sounds possible standing in the session but turns back into "fine, just tired" in the kitchen.
+- Member rejected the counsellor's suggestion of asking Ellen for a glass of water and the suggestion to make a gratitude list, said "maybe" to trying it, then ended the session saying he was going to try to get some sleep.
+- Ellen saw the plumber's number on Member's phone tonight, asked him directly what they were dealing with, and Member said "I've got it" and walked out to the garage, where he stayed past one in the morning.
+- Member refused to name the part of him that wants to shut everything out, saying it was almost one in the morning, his jaw ached, and he wanted the feeling in his chest to stop.
+- Member rejected a breathing experiment outright, saying he had been breathing all night in the garage and it was all he had been doing.
+- Member held the pry bar with the split, tape-wrapped handle in the garage and found his hands knew what to do with it, though his jaw stayed tight.
+- Member said "I've been under a lot" could not come out even alone in the garage, and imagining saying it to Ellen at the kitchen table tightened his chest because she would ask how bad and he would have nothing behind it.
+- Member said the tension locks first in his back teeth, and a jaw-loosening experiment clamped back down within about a second.
+- Member said if he threw the pry bar it would be at the wall in front of him — not the window — and only to stop the noise in his head for five minutes, not to make a hole he would have to patch and Ellen would hear.
+- Member rejected tightening bolts, saying he has been doing that in the garage for three weeks and it is not the bolts.
+- Member walked out to the driveway for five minutes on the counsellor's suggestion, and reported afterward that the cold air left his face burning and his head quiet for the first time all night.
+- Member said if Ellen is still sitting up waiting when he goes in, he does not know what will come out of his mouth, and that he fears naming every wrong thing, yelling, and breaking something else.
+- Member said a text saying it was him, not the bill and not Ellen, and that it has been him for a while, is the sentence he has been carrying since the night she left.
+- Member chose to send the text tonight rather than wait for morning, saying that if he waits it will turn back into "fine, just tired," and settled on: "The mug wasn't about the bill and it wasn't about you. It's been me for a while and I'm sorry. Can we talk tomorrow, I need to sleep."
+- Member said he had only enough in him to walk in, get his phone, and send the text, and declined the counsellor's extra steps of a grounding move and a ten-minute wait.
+- Member turned off the bench light and went inside to send the text. [open]

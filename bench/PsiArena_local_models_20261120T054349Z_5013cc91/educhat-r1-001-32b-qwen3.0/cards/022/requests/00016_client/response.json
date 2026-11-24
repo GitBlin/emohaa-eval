@@ -1,0 +1,41 @@
+{
+  "id": "0ca7a2f1c13b4d81a5ed29f5a974155d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……就前几天吧。我跟我妈说我工作压力大，她就“哦”了一声，然后就没下文了。可我要是跟她说我哪件事没做好，她反而会认真听，还跟我分析半天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我举个具体的例子，这让我一下子想起很多跟妈妈的对话。每次都是这样，我越说自己的烦恼她越冷淡，可我一说自己哪里不好，她反而来劲了。）\n（这种感觉很奇怪，好像我只有承认自己不行的时候，才能得到她的一点关注。我其实一直不太愿意承认这一点，但今天说出来之后，心里好像有点明白了什么。）",
+        "reasoning": "（咨询师想让我举个具体的例子，这让我一下子想起很多跟妈妈的对话。每次都是这样，我越说自己的烦恼她越冷淡，可我一说自己哪里不好，她反而来劲了。）\n（这种感觉很奇怪，好像我只有承认自己不行的时候，才能得到她的一点关注。我其实一直不太愿意承认这一点，但今天说出来之后，心里好像有点明白了什么。）"
+      }
+    }
+  ],
+  "created": 1795154260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1503,
+    "total_tokens": 1631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

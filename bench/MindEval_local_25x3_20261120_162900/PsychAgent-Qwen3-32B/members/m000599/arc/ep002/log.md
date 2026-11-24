@@ -1,0 +1,30 @@
+- Member mostly feels tired when they finally stop for the day and goes straight to bed.
+- Member lives alone in the house post-divorce and describes the solitude as "the whole problem."
+- Member does some gardening but planted nothing this year, mostly pulling weeds that don't need pulling.
+- Member belongs to a book club they have stopped attending; a woman from it texted that the club picked Member's book and that Member's chair is still there, and Member has not replied.
+- Member cannot answer the book club friend because they don't know what to say back.
+- Member lets their sister's Sunday calls ring and texts her afterward; the sister keeps calling.
+- Good days for Member are full work shifts, where they are competent and solve everyone's problems; energy is lower than before the divorce.
+- Member notices the shift from busy to alone on coming in the door after a full shift, and downplays it as "not a big deal."
+- Member's sleep is disrupted, waking around 4 a.m. regardless of need; appetite is fine.
+- Member declined scheduled weekly calls but agreed to optional calls and messaging at their own pace.
+- Member was called into a Thursday meeting and told their position is one of four being cut, with last day the 30th.
+- Member has not told their sister about the layoff.
+- Member opens job listings nightly but closes them without applying, and cannot say why.
+- Member says the barrier to applying is age, not the steps: at 50 they would be filling the same form as 23-year-olds and expect to be filed under "old."
+- Member rejects step-by-step application plans and pledges as workplace-style scripting, and says applying feels like the same work they have done for two decades, only starting at the bottom somewhere new.
+- Member asked whether their problems qualify for counselling at all, or whether it is only for people "actually in a bad way."
+- Member's sister Dana has a text pending asking if they are on for Sunday, and Member has two days to decide what to say when asked how work is.
+- Member's goal for the Dana call is to get through it without it becoming "the Dana show" with six months of her worrying about them.
+- Member says Dana will hear it in their voice immediately and the call will become an hour about Member.
+- Member does not want to shut Dana out, and fears any boundary line will read to her as the same door-closing Member has done for months.
+- Member's reason for not telling Dana is that she will picture them at the desk with their life gone to pieces, and Member has spent a year making sure nobody pictures that.
+- Member rejected every suggested line as something they would have to act to pull off, said "I'm steady" would be a lie, and said they are already acting all day on the phones.
+- Member could not identify what would feel authentic to say and ended the session without a plan, saying they may just text Dana on Saturday.
+- Member received the severance packet yesterday and was called that night by one of the other three being cut asking whether Member had heard if anyone was moved instead of cut; Member said no.
+- Member is preoccupied with who is still sitting at the desk, which keeps them up more than the packet does, and Member calls this not making sense.
+- Member wants to know who to ask about the desk situation — whether there is a person to call or whether to wait to be told.
+- Member has read the COBRA page twice and cannot recall a single number from it.
+- Member says "eventually" is the problem and has been their mode since Thursday.
+- Member explicitly does not want any line or script to say to Dana, including text-thread bounds or a short true statement, because every version is a performance and Dana will hear it in their voice.
+- Member reports a jaw ache all evening and ended the session to try to sleep.

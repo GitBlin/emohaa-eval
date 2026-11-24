@@ -1,0 +1,41 @@
+{
+  "id": "19e7b01f0ec440469f0928b11295cfd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提醒我……可能是吧。我最近老睡不好，脑子里总转着一些以前的事。算了，这些可能跟现在也没多大关系。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师一直想让我给情绪起名字，还说什么敏感不是弱点。我其实不太想谈这些，但他说的话好像有点道理。敏感确实让我总是想很多，尤其是家里的事。母亲生病后，我总是不自觉地想起以前失去亲人的事，那种感觉又回来了。）\n（也许我可以稍微透露一点，不用说得太清楚。毕竟咨询师看起来还算耐心，没有急着给我下结论。但我还是有点犹豫，不知道说这些有没有用。）",
+        "reasoning": "（这个咨询师一直想让我给情绪起名字，还说什么敏感不是弱点。我其实不太想谈这些，但他说的话好像有点道理。敏感确实让我总是想很多，尤其是家里的事。母亲生病后，我总是不自觉地想起以前失去亲人的事，那种感觉又回来了。）\n（也许我可以稍微透露一点，不用说得太清楚。毕竟咨询师看起来还算耐心，没有急着给我下结论。但我还是有点犹豫，不知道说这些有没有用。）"
+      }
+    }
+  ],
+  "created": 1795154238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1407,
+    "total_tokens": 1538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

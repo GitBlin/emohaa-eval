@@ -1,0 +1,41 @@
+{
+  "id": "093f2e2cd06a48b8a5156d2e921b9059",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）都差不多吧……非要说的话，课间的时候最难受。别人凑在一起说话，我就坐在座位上假装看书，其实一个字都没看进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第4轮，初期阶段。咨询师问了我最近一周哪天好一点或者特别难受。我还是不太想说太深，想保持模糊。可能想到班级里的事，但又不想细说。可以表达“差不多都那样”这种模糊感受，再稍微提一句某个瞬间，但不说透。）",
+        "reasoning": "（第4轮，初期阶段。咨询师问了我最近一周哪天好一点或者特别难受。我还是不太想说太深，想保持模糊。可能想到班级里的事，但又不想细说。可以表达“差不多都那样”这种模糊感受，再稍微提一句某个瞬间，但不说透。）"
+      }
+    }
+  ],
+  "created": 1795146713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1221,
+    "total_tokens": 1321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

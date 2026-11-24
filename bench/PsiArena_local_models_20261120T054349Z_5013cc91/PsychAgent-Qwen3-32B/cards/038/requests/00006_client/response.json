@@ -1,0 +1,41 @@
+{
+  "id": "a7d3c53f70e5410288cc186ebf2ca091",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）就是……工作上有时候会突然走神，然后一整天都不太对劲。嗯……我能问你个别的吗，如果咨询之外，我们能不能也像朋友那样聊聊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我具体说最近的一次，可我真的不太想这么快就讲那些细节。心里有点抵触，又怕说得太浅显得我不配合。先含含糊糊地应付一下，看看他会不会追问得太紧。）\n（而且我其实也在试探他，想看看他会不会像朋友那样给我出主意，还是能守住咨询师该有的分寸。这样问一句，也许能感觉出他靠不靠谱。）",
+        "reasoning": "（咨询师让我具体说最近的一次，可我真的不太想这么快就讲那些细节。心里有点抵触，又怕说得太浅显得我不配合。先含含糊糊地应付一下，看看他会不会追问得太紧。）\n（而且我其实也在试探他，想看看他会不会像朋友那样给我出主意，还是能守住咨询师该有的分寸。这样问一句，也许能感觉出他靠不靠谱。）"
+      }
+    }
+  ],
+  "created": 1795154825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1132,
+    "total_tokens": 1263,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

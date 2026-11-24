@@ -1,0 +1,41 @@
+{
+  "id": "b244b908a7204b67851879d9a5a57b6b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸……我试过，但好像没什么用。其实……我觉得问题不只是晚上，白天在学校也这样。嗯……可能跟我家里有关系？我爸妈从小就特别鼓励我们表达情绪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到放松练习，听起来是挺有用的，但我现在最难受的好像不是晚上睡不着，而是白天在教室里就控制不住情绪。这个得跟她说清楚，不然她可能以为我只是睡眠问题。）\n（我觉得可以稍微多讲一点了，毕竟前面聊了七轮，她也一直挺耐心地听我说。我想试着说说家里的事，也许能帮我弄明白为什么自己这么容易哭。）",
+        "reasoning": "（她提到放松练习，听起来是挺有用的，但我现在最难受的好像不是晚上睡不着，而是白天在教室里就控制不住情绪。这个得跟她说清楚，不然她可能以为我只是睡眠问题。）\n（我觉得可以稍微多讲一点了，毕竟前面聊了七轮，她也一直挺耐心地听我说。我想试着说说家里的事，也许能帮我弄明白为什么自己这么容易哭。）"
+      }
+    }
+  ],
+  "created": 1795155309,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1433,
+    "total_tokens": 1559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

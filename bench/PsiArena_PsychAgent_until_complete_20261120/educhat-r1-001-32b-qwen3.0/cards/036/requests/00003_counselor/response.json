@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-1adca2cf26484941b49ca43909193d6f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询就像慢慢解开毛线团，我们可以从你最近感到最困扰的事情开始聊起，比如最近有什么事让你反复思考？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程缺乏了解，需要引导自我表达\n【行动策略】：简化流程说明，鼓励具体描述困扰\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程缺乏了解，需要引导自我表达\n【行动策略】：简化流程说明，鼓励具体描述困扰\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154849,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 290,
+    "total_tokens": 354,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

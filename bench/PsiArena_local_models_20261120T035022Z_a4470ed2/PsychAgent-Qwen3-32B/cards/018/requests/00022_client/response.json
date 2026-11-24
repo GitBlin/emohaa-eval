@@ -1,0 +1,41 @@
+{
+  "id": "c8f5952aa2da46cdb6c8b89177350357",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能都有点……最刺的是对自己失望。好像我一直觉得自己挺开放，结果她真提出来，我第一反应是怕失去位置。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把情绪分门别类……可我现在其实有点乱，不太想被这么准确地拆开。说“对自己失望”好像戳中了，又让我更难堪，好像我连自己都背叛了。也许我该承认一点，但别一次说太多。）",
+        "reasoning": "（咨询师在帮我把情绪分门别类……可我现在其实有点乱，不太想被这么准确地拆开。说“对自己失望”好像戳中了，又让我更难堪，好像我连自己都背叛了。也许我该承认一点，但别一次说太多。）"
+      }
+    }
+  ],
+  "created": 1795147084,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1910,
+    "total_tokens": 2002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

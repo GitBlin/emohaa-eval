@@ -1,0 +1,41 @@
+{
+  "id": "f281f14d32fc45fb9f28c5b6e206d86d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……有时候出去走走，或者干脆躺着。但也没什么用。最近睡得也不太好，老醒。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么应对...他刚才没有正面回答我那个问题，但好像也没生气。我其实不太想说自己会怎么做，总觉得说了也没用。不过既然他问了，我就随便说两句吧，回避一下具体细节。我最近确实睡得不好，这个可以说，但不想讲太深。）",
+        "reasoning": "（咨询师在问我怎么应对...他刚才没有正面回答我那个问题，但好像也没生气。我其实不太想说自己会怎么做，总觉得说了也没用。不过既然他问了，我就随便说两句吧，回避一下具体细节。我最近确实睡得不好，这个可以说，但不想讲太深。）"
+      }
+    }
+  ],
+  "created": 1795154183,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1299,
+    "total_tokens": 1389,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

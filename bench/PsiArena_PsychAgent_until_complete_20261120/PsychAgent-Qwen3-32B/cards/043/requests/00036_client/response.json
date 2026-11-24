@@ -1,0 +1,41 @@
+{
+  "id": "3944ae81e40d4395bcac95e5f4bd8bdd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）写一句提醒的话吧，就写“她不一定是在针对我”。（小声）虽然写下来我也不一定马上信，但至少能提醒自己别乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户似乎是在为具体行动做准备，情绪趋于稳定，开始考虑可操作的方法。作为来访者，我需要回应这个关于“壮胆”的提问，同时保持真实感，不能太理性化。可以表现出一点自我怀疑和犹豫，但也在尝试找到适合自己的方法。）",
+        "reasoning": "（用户似乎是在为具体行动做准备，情绪趋于稳定，开始考虑可操作的方法。作为来访者，我需要回应这个关于“壮胆”的提问，同时保持真实感，不能太理性化。可以表现出一点自我怀疑和犹豫，但也在尝试找到适合自己的方法。）"
+      }
+    }
+  ],
+  "created": 1795155009,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2650,
+    "total_tokens": 2749,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ee93fffa011d424bb6bb9a951fa0b6b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“准备拿手机时先站起来”这个提醒是可行的，孩子在旁边时也可以简化成“先深呼吸一次”。我好奇的是，如果真做到了，你想怎么奖励或肯定自己一下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……可以。我一摸手机，就提醒自己先站起来。不过有时候孩子在旁边，我怕自己顾不上。",
+        "reasoning": "嗯……可以。我一摸手机，就提醒自己先站起来。不过有时候孩子在旁边，我怕自己顾不上。"
+      }
+    }
+  ],
+  "created": 1795153841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 2872,
+    "total_tokens": 2937,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

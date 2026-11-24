@@ -1,0 +1,41 @@
+{
+  "id": "1f02d52028614a28b331f03c9bdcd69c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……我也分不太清。就是觉得心里压着东西，越想越乱。您会不会觉得我连自己的情绪都说不明白？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我当时更像委屈、愤怒还是憋闷……这个问题让我有点想回避。其实我心里都搅在一起了，但一下子说清楚又觉得很难。我习惯先压着，不想把情绪摊得太开。也许可以先含糊一点，说“都有吧”，再把话题拉回到自己说不清这件事上，看看咨询师会不会追着问。）",
+        "reasoning": "（咨询师问我当时更像委屈、愤怒还是憋闷……这个问题让我有点想回避。其实我心里都搅在一起了，但一下子说清楚又觉得很难。我习惯先压着，不想把情绪摊得太开。也许可以先含糊一点，说“都有吧”，再把话题拉回到自己说不清这件事上，看看咨询师会不会追着问。）"
+      }
+    }
+  ],
+  "created": 1795147337,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1326,
+    "total_tokens": 1433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

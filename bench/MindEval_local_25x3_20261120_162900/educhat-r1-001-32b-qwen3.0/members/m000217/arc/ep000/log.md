@@ -1,0 +1,9 @@
+- Member has been withdrawing from people they care about without deciding to and wants to stop.
+- Member avoids responding in group chats when asked how they are doing because they lack an answer that stays short.
+- Member's mother died in September and Member had not said this out loud to anyone before this session.
+- Member used to talk to their mother on Sunday nights and now has no one to say those things to.
+- Member found at a storage unit a book their mother kept telling them to read, which she had reached chapter nine of, and has not opened it in four months.
+- Member sat on the floor with the book and put it back in the box.
+- Member's last words to their mother were "love you gotta run," cutting the call short to watch a deploy, and she was going to ask about the book that Sunday.
+- Member cannot get past the fact that the book is one nobody will ask them about.
+- Member ended the session after saying the thing, stating that was enough.

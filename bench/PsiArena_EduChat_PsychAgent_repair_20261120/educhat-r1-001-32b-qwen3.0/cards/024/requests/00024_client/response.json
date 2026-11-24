@@ -1,0 +1,41 @@
+{
+  "id": "3c46261765b6498d8aeb40af1b160f93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）也不是……我知道有些新方法是对的，可每次想解释，话到嘴边又咽回去了。可能我怕一开口就变成吵架，就像上次那样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问到我是不是觉得自己错了...这让我想起婆婆总说“我们以前都这么带孩子”的样子。其实我查过很多育儿资料，但每次想解释就被打断。）\n（作为从小被教育要顺从的人，我确实会下意识怀疑自己。但朋友说过我带孩子很用心，这让我有点矛盾。可能问题不在于谁对谁错，而是我们根本没法好好说话。）",
+        "reasoning": "（心理咨询师问到我是不是觉得自己错了...这让我想起婆婆总说“我们以前都这么带孩子”的样子。其实我查过很多育儿资料，但每次想解释就被打断。）\n（作为从小被教育要顺从的人，我确实会下意识怀疑自己。但朋友说过我带孩子很用心，这让我有点矛盾。可能问题不在于谁对谁错，而是我们根本没法好好说话。）"
+      }
+    }
+  ],
+  "created": 1795154387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1868,
+    "total_tokens": 1988,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

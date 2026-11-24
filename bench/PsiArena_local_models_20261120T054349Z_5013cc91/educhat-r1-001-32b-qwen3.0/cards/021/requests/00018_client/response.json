@@ -1,0 +1,41 @@
+{
+  "id": "15d24672717d4343bf3726a4b2b4bf75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说……别害怕？可我自己都不信。那时候我什么都做不了，现在也一样。我妈躺在病床上，我连话都说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我对过去的自己说话……这让我想起小时候那种什么都做不了的无力感。那时候大人们总说“你还小，别管这些”，可我现在都32岁了，还是什么都做不了。）\n（我妈躺在病床上，眼神空空的，我连跟她好好说话都做不到。我是不是一直在重复那种无力的感觉？小时候帮不上忙，现在也帮不上忙。）",
+        "reasoning": "（咨询师让我对过去的自己说话……这让我想起小时候那种什么都做不了的无力感。那时候大人们总说“你还小，别管这些”，可我现在都32岁了，还是什么都做不了。）\n（我妈躺在病床上，眼神空空的，我连跟她好好说话都做不到。我是不是一直在重复那种无力的感觉？小时候帮不上忙，现在也帮不上忙。）"
+      }
+    }
+  ],
+  "created": 1795154243,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1591,
+    "total_tokens": 1706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

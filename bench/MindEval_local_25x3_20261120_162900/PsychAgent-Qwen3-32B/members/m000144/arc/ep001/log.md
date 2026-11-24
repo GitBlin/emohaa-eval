@@ -1,0 +1,28 @@
+- Member's father died in March, prompting him to seek counselling because things have gotten messy since.
+- Member reports work mistakes began about a month after the loss, after an initial period of being fine.
+- Member checks the same spreadsheet about three times before sending, which he never used to do.
+- Member sleeps okay but does not get out much, which he says is not new for him.
+- Member has dishes and laundry sitting undone for a while, which he describes as nothing serious.
+- Member describes his emotional state as just tired and could not elaborate further when asked how the mess weighs on him.
+- Member has a weekly Thursday game with some guys that he used to log on to most weeks.
+- Member's mother leaves him messages and he gets back to her.
+- Member agreed to look into the weekly Grief Support Group, calling it reasonable.
+- Member double booked a room last month, which landed on his boss's calendar, and he cannot identify what he did wrong when reviewing it.
+- Member is the only one who fixes the copier when it jams about once a week, and he has a way of getting it going again.
+- Member's weeks are quiet and uniform: work and home.
+- Member wants his kitchen to not be embarrassing, which is the one short-term change he named.
+- Member did the dishes once last Thursday but they piled back up again, and he agreed to set a recurring alarm every other day to keep on track. [open]
+- Member agreed to a once-weekly check-in. [open]
+- Member is not drinking more than usual and is not on any medications.
+- Member rates his overall energy at about three out of ten.
+- Member's mother left him a message about going through the garage, and he has not opened her reply.
+- Member has a half-built bookcase in his apartment that he has walked past for weeks and does not know what to do with.
+- Member said he would try tackling one shelf of the bookcase but has not touched it; he agreed to clear off just one shelf this weekend. [open]
+- Member received an email from the college about registration with a deadline next Friday and an open spot, and is unsure the course is for him.
+- Member fears that signing up and then failing to keep up would be worse than not signing up at all.
+- Member had not considered what support or adjustments would help him keep up, and stopped reading the course description after the first paragraph.
+- Member agreed to read one more short section of the course description tonight. [open]
+- Member said Ray texted him last night and they talked for a while, and Ray is coming by Saturday to drop off a clamp.
+- Member agreed to have coffee ready when Ray visits Saturday to make the visit more comfortable. [open]
+- Member clarified that the unopened item is his mother's message itself, not the garage, and agreed to read it with a 5-minute timer without replying. [open]
+- Member said he might take a short walk or get fresh air after reading the message. [open]

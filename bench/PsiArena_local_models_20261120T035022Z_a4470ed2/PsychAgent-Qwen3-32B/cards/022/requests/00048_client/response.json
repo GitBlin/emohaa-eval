@@ -1,0 +1,41 @@
+{
+  "id": "e493c2f5676d4daab3713e3427a40410",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……今天好像聊了不少，虽然脑子里还有点乱，但至少知道接下来能试着做点什么了。那就先到这吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（感觉咨询师在收尾，问我愿不愿意停在这里。我其实还有点不踏实，但今天确实说了不少，也拿到了一个具体的小练习。我不想表现得太依赖，也不想显得敷衍。也许可以承认自己还有点乱，但愿意先这样。）",
+        "reasoning": "（感觉咨询师在收尾，问我愿不愿意停在这里。我其实还有点不踏实，但今天确实说了不少，也拿到了一个具体的小练习。我不想表现得太依赖，也不想显得敷衍。也许可以承认自己还有点乱，但愿意先这样。）"
+      }
+    }
+  ],
+  "created": 1795147288,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 3600,
+    "total_tokens": 3683,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

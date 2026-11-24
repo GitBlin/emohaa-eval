@@ -1,0 +1,41 @@
+{
+  "id": "2c496bbee973446ebf1944bd64e9d20e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就直接问“周末有空一起吃饭吗”，也没想太多。其实……被拒绝多了，我有时会想起小时候，我爸妈也总是忙，很少问我想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我怎么开口的……其实我每次约人都挺直接的，但结果总是不太好。可能我确实该想想是不是方式有问题，不过现在更想说说那种被拒绝的感觉。）\n（说到这个就想到小时候，家里好像也是这样，爸妈忙工作，很少问我想要什么。现在跟同事相处，总觉得别人没那么在意我，可能跟那时候有关系吧。）",
+        "reasoning": "（她问我怎么开口的……其实我每次约人都挺直接的，但结果总是不太好。可能我确实该想想是不是方式有问题，不过现在更想说说那种被拒绝的感觉。）\n（说到这个就想到小时候，家里好像也是这样，爸妈忙工作，很少问我想要什么。现在跟同事相处，总觉得别人没那么在意我，可能跟那时候有关系吧。）"
+      }
+    }
+  ],
+  "created": 1795142538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1637,
+    "total_tokens": 1753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

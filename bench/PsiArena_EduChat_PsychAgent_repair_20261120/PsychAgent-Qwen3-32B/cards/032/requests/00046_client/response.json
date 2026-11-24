@@ -1,0 +1,41 @@
+{
+  "id": "5704dbd69afc4f42aebc89f08a1cc239",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，这样写我比较有底。要是写完还是难受，我该怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第23轮后期阶段，咨询师在帮我把记录方式具体化。我确实担心记录会让我反复想那些难受的事，但他提的“停-看-写”听起来有个边界，不是让我一直陷在里面。我有点想接受，又怕自己写的时候控制不住，所以想确认一下万一又难受了该怎么办。）",
+        "reasoning": "（第23轮后期阶段，咨询师在帮我把记录方式具体化。我确实担心记录会让我反复想那些难受的事，但他提的“停-看-写”听起来有个边界，不是让我一直陷在里面。我有点想接受，又怕自己写的时候控制不住，所以想确认一下万一又难受了该怎么办。）"
+      }
+    }
+  ],
+  "created": 1795154716,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3186,
+    "total_tokens": 3277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f7041b8c497241f8870c952ad2827894",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，我会回去先练那一次慢呼吸，把那句“我不是故意的，我可以慢慢来”记在心里。虽然还有点紧张，但我知道下次可以从哪里接着聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（最后这句需要收束，不能太早说“谢谢”或“再见”，但第25轮已经是后期，可以温和结束。要简短，2-3句，情绪趋稳，确定未来方向。可以表达自己会去练，也承认还有点紧张，但愿意下次继续。）",
+        "reasoning": "（最后这句需要收束，不能太早说“谢谢”或“再见”，但第25轮已经是后期，可以温和结束。要简短，2-3句，情绪趋稳，确定未来方向。可以表达自己会去练，也承认还有点紧张，但愿意下次继续。）"
+      }
+    }
+  ],
+  "created": 1795147391,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3497,
+    "total_tokens": 3597,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

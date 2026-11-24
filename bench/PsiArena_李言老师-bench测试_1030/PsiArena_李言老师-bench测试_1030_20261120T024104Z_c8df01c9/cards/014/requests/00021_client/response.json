@@ -1,0 +1,41 @@
+{
+  "id": "89dc398922e54b98b065768e7abd546c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就先短一点吧，我怕说长了反而显得刻意。嗯，我也想提醒自己，说完别马上追着问，先给他一点反应的时间。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化开场的话，还问我想用哪种版本。我其实有点想马上试试，但又怕自己一着急反而搞砸了。还是先短一点吧，短的话不那么刻意，也给自己留点余地。）\n（不过光说短还不够，我得提醒自己别一看到他没反应就慌。之前就是太急着要回应，结果两个人都更僵。这次得先稳住自己，不能又掉进那个循环里。）",
+        "reasoning": "（咨询师在帮我具体化开场的话，还问我想用哪种版本。我其实有点想马上试试，但又怕自己一着急反而搞砸了。还是先短一点吧，短的话不那么刻意，也给自己留点余地。）\n（不过光说短还不够，我得提醒自己别一看到他没反应就慌。之前就是太急着要回应，结果两个人都更僵。这次得先稳住自己，不能又掉进那个循环里。）"
+      }
+    }
+  ],
+  "created": 1795142656,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2980,
+    "total_tokens": 3110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

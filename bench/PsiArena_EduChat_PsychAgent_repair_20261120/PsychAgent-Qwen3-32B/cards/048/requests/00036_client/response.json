@@ -1,0 +1,41 @@
+{
+  "id": "2e43d50fdd13450aa6cf1b5295b81adf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "三次呼吸……这个简单，应该能做到。那我是不是还得想想，眼霜那事到底该怎么放下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师上一条已经问过类似的问题了，我要回应他的提议。不过我心里其实更想聊点具体的，比如眼霜的事到底该怎么办。先顺着他的话说愿意试试，但也要表达我的顾虑。）",
+        "reasoning": "（咨询师上一条已经问过类似的问题了，我要回应他的提议。不过我心里其实更想聊点具体的，比如眼霜的事到底该怎么办。先顺着他的话说愿意试试，但也要表达我的顾虑。）"
+      }
+    }
+  ],
+  "created": 1795155241,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2665,
+    "total_tokens": 2735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

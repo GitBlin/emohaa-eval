@@ -1,0 +1,41 @@
+{
+  "id": "d2ad3eba46924d959f059497bae32ad7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写信？我试过类似的方式……但在我家，做什么决定都很难，因为我必须考虑父母的意见。我妈总觉得她的方式才是对的，我做什么她都能挑出毛病来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议用非语言方式表达关心，这让我想起小时候给妈妈做贺卡却被说浪费时间的经历。她总是这样，用她的标准来衡量一切。现在咨询师提到写信，我反而更觉得委屈了，因为问题根本不是我不表达关心，而是她根本不愿意接受我的方式。）\n（在我们家，做什么决定都很难，因为必须考虑父母的意见。尤其是妈妈，她总觉得自己的方式才是对的。我试着用她喜欢的方式讨好她，但每次都被挑毛病。这种文化背景让我从小就觉得，无论怎么努力都达不到她的期望。）",
+        "reasoning": "（咨询师建议用非语言方式表达关心，这让我想起小时候给妈妈做贺卡却被说浪费时间的经历。她总是这样，用她的标准来衡量一切。现在咨询师提到写信，我反而更觉得委屈了，因为问题根本不是我不表达关心，而是她根本不愿意接受我的方式。）\n（在我们家，做什么决定都很难，因为必须考虑父母的意见。尤其是妈妈，她总觉得自己的方式才是对的。我试着用她喜欢的方式讨好她，但每次都被挑毛病。这种文化背景让我从小就觉得，无论怎么努力都达不到她的期望。）"
+      }
+    }
+  ],
+  "created": 1795154542,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 1484,
+    "total_tokens": 1644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

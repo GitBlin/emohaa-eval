@@ -1,0 +1,41 @@
+{
+  "id": "3fbd84f8fef84f248c057adc5b456e23",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想想。锁屏提醒算一个吧。或者下次吃饭的时候，试着先听一会儿，再找个简单的话题说一句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段，目标是探索解决方案。来访者情绪趋于稳定，开始具体化思考。她刚补充了童年家庭背景，我需要回应这一点，同时引导她思考一个具体的小行动。）",
+        "reasoning": "（后期阶段，目标是探索解决方案。来访者情绪趋于稳定，开始具体化思考。她刚补充了童年家庭背景，我需要回应这一点，同时引导她思考一个具体的小行动。）"
+      }
+    }
+  ],
+  "created": 1795153472,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 2423,
+    "total_tokens": 2494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

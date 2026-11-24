@@ -1,0 +1,13 @@
+- Member came to counselling as a first attempt to talk about a rupture with his son since a disagreement at Tet.
+- Member's son has been angry since the Tet disagreement over Member's tablet recording of the family escape story for the grandchildren, which the son did not want made; Member has not resumed recording since.
+- At Sunday dinner this week Member's grandson asked at the door about the recording Member started, and Member's son gave him a look Member cannot name and cannot stop turning over — unlike the visible anger of February.
+- Member now speaks with his son only about the son's shop and Member's tomatoes, three months of it, and is left guessing at what the son thinks.
+- Member drafted a text to Trung asking whether the boy said anything on the drive home, then deleted it, fearing sending it would look like pushing again.
+- Member has been going over the decision at the kitchen window every night this week with no progress.
+- Member's worst case if he says nothing: the boy asks again and Member stands there again with no answer; his best case if he reaches out: the son gives him one real sentence about what he was thinking at the door, not a fight.
+- Member rejected sending his son a message asking for the son's thoughts ("I am his father"), and rejected writing out his side because it would force him to look at what he said to his son at Tet, which he has been avoiding.
+- Member agreed to a one-line message about the boy asking and Member having no answer ready, framed as fact rather than a request, and set a rule to send it tomorrow afternoon if he is still turning it over.
+- Member said he would probably check the phone like a boy waiting on a letter after sending, and would be watching for a reply by Sunday either way.
+- Member rejected breathing check-ins at the window; when the rumination gets bad he pulls weeds in the lemongrass bed until his back hurts, which works better.
+- Member said he may try telling himself in the garden that he has done his part and the rest can wait until tomorrow.
+- Member [open] plans to send the one-line message about the boy by tomorrow afternoon if still stuck, and has not yet reported back.

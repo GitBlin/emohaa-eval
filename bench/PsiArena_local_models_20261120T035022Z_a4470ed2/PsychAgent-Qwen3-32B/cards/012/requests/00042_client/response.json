@@ -1,0 +1,41 @@
+{
+  "id": "3d22919e8a8a443686b30435b6c5dd97",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我记下来。只是我有点担心，真到那个时候，我可能还是会忍不住。要是没做到，是不是就说明我又失败了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把“手痒的念头”也记下来，这让我觉得好像不用急着责怪自己了。可一想到真要面对那个时刻，我还是有点紧张，怕自己做不到，也怕记录会让我更想联系他。也许我可以先说实话，让他知道我的担心。）",
+        "reasoning": "（咨询师让我把“手痒的念头”也记下来，这让我觉得好像不用急着责怪自己了。可一想到真要面对那个时刻，我还是有点紧张，怕自己做不到，也怕记录会让我更想联系他。也许我可以先说实话，让他知道我的担心。）"
+      }
+    }
+  ],
+  "created": 1795146973,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3068,
+    "total_tokens": 3160,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

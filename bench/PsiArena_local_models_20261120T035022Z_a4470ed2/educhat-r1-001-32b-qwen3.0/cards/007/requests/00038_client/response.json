@@ -1,0 +1,41 @@
+{
+  "id": "51b63806254345cb9470e4108852807f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "模拟……好，那我试试。（清了清嗓子）那个……你们晚上打游戏的时候，声音能不能小一点？我……我睡不着。（说完有点不好意思）是不是太直接了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议模拟练习，这让我稍微安心了点。但想到要对着他说出那些话，还是有点紧张。毕竟我平时连表达不满都很少，更别说练习了。）\n（不过他说得对，先练习可能会好一些。我担心自己说不好，或者语气太生硬。也许该问问具体该怎么开口，这样心里能有点底。）",
+        "reasoning": "（咨询师建议模拟练习，这让我稍微安心了点。但想到要对着他说出那些话，还是有点紧张。毕竟我平时连表达不满都很少，更别说练习了。）\n（不过他说得对，先练习可能会好一些。我担心自己说不好，或者语气太生硬。也许该问问具体该怎么开口，这样心里能有点底。）"
+      }
+    }
+  ],
+  "created": 1795147042,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 2516,
+    "total_tokens": 2633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

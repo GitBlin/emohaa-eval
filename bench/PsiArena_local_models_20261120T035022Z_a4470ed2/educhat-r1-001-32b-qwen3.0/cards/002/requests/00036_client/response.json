@@ -1,0 +1,41 @@
+{
+  "id": "f601d991c43548b6977ad88bc37d958c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）呼吸……这个我好像能做到。（稍微放松）比起一下子改变，先注意呼吸确实没那么吓人。我回去试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她建议我在朋友说话时感受呼吸节奏，这个“呼吸提醒法”听起来不算太难。我平时一紧张就容易乱，也许先停下来注意呼吸，真的能让我不那么慌。）\n（不过我还是有点担心自己做不到，毕竟一遇到朋友的事我就容易失控。但既然只是呼吸这样的小事，应该可以先试试看，总比什么都不做强。）",
+        "reasoning": "（她建议我在朋友说话时感受呼吸节奏，这个“呼吸提醒法”听起来不算太难。我平时一紧张就容易乱，也许先停下来注意呼吸，真的能让我不那么慌。）\n（不过我还是有点担心自己做不到，毕竟一遇到朋友的事我就容易失控。但既然只是呼吸这样的小事，应该可以先试试看，总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1795146794,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2543,
+    "total_tokens": 2650,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

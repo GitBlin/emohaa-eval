@@ -1,0 +1,41 @@
+{
+  "id": "3f10cf998dce4cc49ef42a7935639221",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是“害怕”吧……又好像是“自责”。我明明看见了，却什么都没做，后来我妈难过，我就觉得是我的错。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起当时最强烈的感受……那个画面又浮上来了。我其实一直不敢去碰那个词，好像说出来就会承认什么。那时候我明明看到了，却什么都没做，跑回家躲起来，后来妈妈难过，我就觉得是我没保护好她。这种“都是我的错”的感觉压了我很多年，现在提起来喉咙还是发紧。）",
+        "reasoning": "（咨询师问起当时最强烈的感受……那个画面又浮上来了。我其实一直不敢去碰那个词，好像说出来就会承认什么。那时候我明明看到了，却什么都没做，跑回家躲起来，后来妈妈难过，我就觉得是我没保护好她。这种“都是我的错”的感觉压了我很多年，现在提起来喉咙还是发紧。）"
+      }
+    }
+  ],
+  "created": 1795147078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2197,
+    "total_tokens": 2304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

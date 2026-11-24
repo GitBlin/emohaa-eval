@@ -1,0 +1,41 @@
+{
+  "id": "c067888bce664201860585ef3bcf9848",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会，而且挺明显的。他一冷淡，我就先反省是不是自己说多了、太情绪化了，然后忍不住先道歉。可越这样我越觉得自己很没底气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问到了这种紧绷感在现在关系里还会不会出现，这让我一下子想到很多。其实我平时不太愿意承认自己会这样，但被问到时又觉得确实是这样。）\n（我想到自己总是先道歉，先找自己的问题，好像这样就能让关系安全一点。可有时候越这样越觉得委屈，因为对方可能根本没在意，我却已经把自己压得很低了。）",
+        "reasoning": "（心理咨询师问到了这种紧绷感在现在关系里还会不会出现，这让我一下子想到很多。其实我平时不太愿意承认自己会这样，但被问到时又觉得确实是这样。）\n（我想到自己总是先道歉，先找自己的问题，好像这样就能让关系安全一点。可有时候越这样越觉得委屈，因为对方可能根本没在意，我却已经把自己压得很低了。）"
+      }
+    }
+  ],
+  "created": 1795143251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2240,
+    "total_tokens": 2361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

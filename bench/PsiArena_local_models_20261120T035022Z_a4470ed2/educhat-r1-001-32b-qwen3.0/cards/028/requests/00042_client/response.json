@@ -1,0 +1,41 @@
+{
+  "id": "b142c15c28c6420ab31ddf7ccfc8d243",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）点自己喜欢的口味……听起来挺简单的，但对我来说好像没那么容易。我可以试试，不过可能还是会犹豫。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我从小事开始为自己做选择，点奶茶这件事虽然很小，但对我来说确实是个试探。我有点心动，可又担心自己做不到，或者做了之后会内疚。）\n（也许可以先答应试试看，但得把这种矛盾的心情说出来。毕竟对我来说，连点个奶茶都要纠结半天，这种习惯不是一下子能改的。）",
+        "reasoning": "（咨询师在鼓励我从小事开始为自己做选择，点奶茶这件事虽然很小，但对我来说确实是个试探。我有点心动，可又担心自己做不到，或者做了之后会内疚。）\n（也许可以先答应试试看，但得把这种矛盾的心情说出来。毕竟对我来说，连点个奶茶都要纠结半天，这种习惯不是一下子能改的。）"
+      }
+    }
+  ],
+  "created": 1795148914,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2696,
+    "total_tokens": 2799,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

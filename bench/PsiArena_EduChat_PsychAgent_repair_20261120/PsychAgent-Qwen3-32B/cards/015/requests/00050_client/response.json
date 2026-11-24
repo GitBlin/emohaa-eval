@@ -1,0 +1,41 @@
+{
+  "id": "17d7a5237e3148ee99409d891b4141c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样写一句就停，好像没那么吓人。那……下次我想接着聊，如果他真的拒绝了，我该怎么不又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第25轮，后期阶段，需要收束并明确未来方向。用户问这个更小的记录方式是否可行，我要回应可行性和自己的担忧，同时做简短总结。保持2-3句，口语化，带一点犹豫和真实感。不能太圆满，也不能说谢谢再见。可以提一句下次想继续谈“怎么开口”或“拒绝后怎么办”。）",
+        "reasoning": "（第25轮，后期阶段，需要收束并明确未来方向。用户问这个更小的记录方式是否可行，我要回应可行性和自己的担忧，同时做简短总结。保持2-3句，口语化，带一点犹豫和真实感。不能太圆满，也不能说谢谢再见。可以提一句下次想继续谈“怎么开口”或“拒绝后怎么办”。）"
+      }
+    }
+  ],
+  "created": 1795154007,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3400,
+    "total_tokens": 3512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

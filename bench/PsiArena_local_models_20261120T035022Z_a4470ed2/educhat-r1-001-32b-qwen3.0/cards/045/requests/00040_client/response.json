@@ -1,0 +1,41 @@
+{
+  "id": "deb772a6ba0f4a4d8d4220524acaaaa4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录情绪？（有点迟疑）可以试试……但我怕写着写着又变成自我批评了。具体该怎么记呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我记录情绪变化，这个提议听起来很实际，但对我来说有点难。我平时连自己的情绪都理不清，写下来会不会更乱？不过既然咨询师这么说了，也许可以试试看。）\n（我有点担心自己坚持不下来，毕竟以前也试过写日记，但总是半途而废。但这次是为了改变现状，也许应该给自己一个机会。先问问具体怎么做比较稳妥，免得又搞砸了。）",
+        "reasoning": "（咨询师建议我记录情绪变化，这个提议听起来很实际，但对我来说有点难。我平时连自己的情绪都理不清，写下来会不会更乱？不过既然咨询师这么说了，也许可以试试看。）\n（我有点担心自己坚持不下来，毕竟以前也试过写日记，但总是半途而废。但这次是为了改变现状，也许应该给自己一个机会。先问问具体怎么做比较稳妥，免得又搞砸了。）"
+      }
+    }
+  ],
+  "created": 1795150185,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2773,
+    "total_tokens": 2894,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

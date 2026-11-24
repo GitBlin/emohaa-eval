@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e4f50581cd3741129f042caa5e6b9bb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这种情绪就像心里扎了根。我们可以试试转移注意力，比如花10分钟找眼霜，然后专注做一件小事，看看感受有变化吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者表现出对小物件的过度执着，可能反映对失控感的焦虑。\n【行动策略】：通过行为实验转移注意力，观察情绪变化。\n",
+        "reasoning_content": "\n【诊断分析】：来访者表现出对小物件的过度执着，可能反映对失控感的焦虑。\n【行动策略】：通过行为实验转移注意力，观察情绪变化。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155340,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 798,
+    "total_tokens": 874,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cc4b522b1b3a447191a4fc8871a9ac9c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就是关了灯，一个人躺着的时候。白天有事做还好，一到安静下来，那些念头就全冒出来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我这种停不下来的感觉最常出现在什么情境里。我其实知道答案，就是晚上一个人、安静下来的时候。可说出来会不会显得我太脆弱了？）\n（不过刚才他让我别急着压住它，这让我稍微松了一点。我想试着诚实一点，也许可以先从最具体的时刻说起，比如关灯以后。但说完之后我又有点不安，怕自己听起来太依赖这种回忆。）",
+        "reasoning": "（咨询师问我这种停不下来的感觉最常出现在什么情境里。我其实知道答案，就是晚上一个人、安静下来的时候。可说出来会不会显得我太脆弱了？）\n（不过刚才他让我别急着压住它，这让我稍微松了一点。我想试着诚实一点，也许可以先从最具体的时刻说起，比如关灯以后。但说完之后我又有点不安，怕自己听起来太依赖这种回忆。）"
+      }
+    }
+  ],
+  "created": 1795143628,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3158,
+    "total_tokens": 3276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

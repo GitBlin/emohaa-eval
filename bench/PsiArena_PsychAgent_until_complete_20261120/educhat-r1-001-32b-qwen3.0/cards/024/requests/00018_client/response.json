@@ -1,0 +1,41 @@
+{
+  "id": "7a677f5805d3457fb7e4dbcc54691cb6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（眼眶有点红）我想说……你为什么不说话呢？明明心里那么委屈。（停顿）可是说了又有什么用呢，在我家，从小就是大人说了算，我们小孩哪有说话的份。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我给过去的自己写信，这让我突然想到小时候在家里也是这样，有话不敢说。他好像是想让我面对那种压抑的感觉，但说实话我有点抗拒，因为每次回想起来都很难受。）\n（作为从小被教育要顺从的人，我其实很害怕表达真实想法。现在让我对过去的自己说话，我第一反应是自责，觉得当时应该更勇敢。但更深层的是，我可能也在怪自己为什么总是这么懦弱。）",
+        "reasoning": "（咨询师让我给过去的自己写信，这让我突然想到小时候在家里也是这样，有话不敢说。他好像是想让我面对那种压抑的感觉，但说实话我有点抗拒，因为每次回想起来都很难受。）\n（作为从小被教育要顺从的人，我其实很害怕表达真实想法。现在让我对过去的自己说话，我第一反应是自责，觉得当时应该更勇敢。但更深层的是，我可能也在怪自己为什么总是这么懦弱。）"
+      }
+    }
+  ],
+  "created": 1795154379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1578,
+    "total_tokens": 1717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

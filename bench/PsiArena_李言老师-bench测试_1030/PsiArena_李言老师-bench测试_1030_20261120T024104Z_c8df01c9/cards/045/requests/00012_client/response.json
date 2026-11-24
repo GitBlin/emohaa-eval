@@ -1,0 +1,41 @@
+{
+  "id": "51aaadaf172f45adb0ca3884836905a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是咨询结束以后吧，走出这个房间，就特别空。（犹豫）还有……在家里，我爸妈其实对我挺好的，但从小我就觉得，不能让他们失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么情境下最明显……其实每次咨询结束之后，那种感觉就特别强烈。我好像一直在等下一次，等有人那样听我说话。可这话说出来，会不会让她觉得我太黏了？）\n（还有家里的事。爸妈从小对我要求高，做得好是应该的，做不好就不行。我好像习惯了要抓住一个“不会失望”的人。这跟她有什么关系呢……我也说不清楚，但就是觉得，跟她说话的时候，我不用那么完美。）",
+        "reasoning": "（她问我什么情境下最明显……其实每次咨询结束之后，那种感觉就特别强烈。我好像一直在等下一次，等有人那样听我说话。可这话说出来，会不会让她觉得我太黏了？）\n（还有家里的事。爸妈从小对我要求高，做得好是应该的，做不好就不行。我好像习惯了要抓住一个“不会失望”的人。这跟她有什么关系呢……我也说不清楚，但就是觉得，跟她说话的时候，我不用那么完美。）"
+      }
+    }
+  ],
+  "created": 1795143529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1922,
+    "total_tokens": 2062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

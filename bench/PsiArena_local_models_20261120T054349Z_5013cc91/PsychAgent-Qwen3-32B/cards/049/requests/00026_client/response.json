@@ -1,0 +1,41 @@
+{
+  "id": "5ee543ff8e1b4a599b7609df845904b5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在想想，更像负担吧。我总怕影响别人，工作上、关系里都是，最后就自己憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这句话现在是提醒还是负担……这让我有点犹豫。说实话，我一直觉得“不能添乱”是应该的，可最近它确实让我很累。也许我该承认，它现在更像压着我的东西，而不是保护我的东西。）",
+        "reasoning": "（咨询师在问我这句话现在是提醒还是负担……这让我有点犹豫。说实话，我一直觉得“不能添乱”是应该的，可最近它确实让我很累。也许我该承认，它现在更像压着我的东西，而不是保护我的东西。）"
+      }
+    }
+  ],
+  "created": 1795155250,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2134,
+    "total_tokens": 2215,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

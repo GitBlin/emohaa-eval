@@ -1,0 +1,41 @@
+{
+  "id": "8dc500e0dc064983a79cd9dc9dc10a87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "5-4-3-2-1……听起来有点复杂，不过我可以先试深呼吸。说实话，有个具体能做的事，心里好像踏实了一点点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师教了我一个很具体的方法，这让我稍微安心了一些。虽然还是有点担心自己做不到，但至少有了可以尝试的步骤。比起之前那种模糊的焦虑，现在好像能抓住点什么了。）\n（不过我还是有点怀疑，这么简单的方法真的有用吗？但既然咨询师这么耐心地教了，我至少应该试试看。也许可以先从开会时偷偷做深呼吸开始，这样不会太显眼。）",
+        "reasoning": "（咨询师教了我一个很具体的方法，这让我稍微安心了一些。虽然还是有点担心自己做不到，但至少有了可以尝试的步骤。比起之前那种模糊的焦虑，现在好像能抓住点什么了。）\n（不过我还是有点怀疑，这么简单的方法真的有用吗？但既然咨询师这么耐心地教了，我至少应该试试看。也许可以先从开会时偷偷做深呼吸开始，这样不会太显眼。）"
+      }
+    }
+  ],
+  "created": 1795155365,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2324,
+    "total_tokens": 2449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

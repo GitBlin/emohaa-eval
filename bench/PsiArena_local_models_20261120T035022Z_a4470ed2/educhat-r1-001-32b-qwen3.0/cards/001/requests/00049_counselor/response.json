@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-75d00b5472904bffa1c6df0432105f1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天的对话很棒！记住，改变需要时间和勇气。如果遇到困难，随时可以回来找我。我们下次再一起加油！",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：咨询师与来访者共同回顾了整个咨询过程，总结了关键点和建议，强化了来访者的改变意愿。\n【行动策略】：肯定来访者的努力，鼓励其继续行动，并保持开放的态度以便后续咨询。\n",
+        "reasoning_content": "\n【诊断分析】：咨询师与来访者共同回顾了整个咨询过程，总结了关键点和建议，强化了来访者的改变意愿。\n【行动策略】：肯定来访者的努力，鼓励其继续行动，并保持开放的态度以便后续咨询。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146830,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2870,
+    "total_tokens": 2954,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

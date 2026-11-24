@@ -1,0 +1,41 @@
+{
+  "id": "8d9cbafeb89844c58231cc9d97a3c273",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸……我试试吧。不过真到那时候，我可能还是会紧张得忘掉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了具体的身体调整方法，我确实需要这种可操作的建议。但心里还是有点打鼓，担心自己做不到。）\n（深呼吸和踩地面听起来简单，可到时候真能稳住吗？不过总比什么都不做强。）",
+        "reasoning": "（咨询师给了具体的身体调整方法，我确实需要这种可操作的建议。但心里还是有点打鼓，担心自己做不到。）\n（深呼吸和踩地面听起来简单，可到时候真能稳住吗？不过总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1795153645,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2509,
+    "total_tokens": 2579,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cf5e7f19372c4474b2c91adb3895d99d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "当然可以，下次告诉我你试了几天、哪一次最难。我们也可以一起看看，什么时候需要把“借笔时说一句”加进去。你觉得这样安排可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）三天……行。那我要是做到了，下次跟你说？",
+        "reasoning": "（想了想）三天……行。那我要是做到了，下次跟你说？"
+      }
+    }
+  ],
+  "created": 1795146503,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3055,
+    "total_tokens": 3108,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 15,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

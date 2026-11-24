@@ -1,0 +1,41 @@
+{
+  "id": "fcab2a019599421fbfa021b35604b19d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这样好像有个顺序了，先让自己缓一下，再说。但我还是担心，万一他根本不想聊，或者又说我多事，我可能又绷不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户在后期阶段，情绪趋于稳定，开始具体化思考和探索解决方案。咨询师提议把呼吸和话术结合起来，问我觉得如何。我需要回应这个搭配，同时保持简短、口语化，带一点犹豫和真实感。可以表达愿意尝试，但仍有担心，比如怕对方不接话或者自己临场忘掉。这样既符合后期探索行动，又不过于顺利，保留一点来访者的不安。）",
+        "reasoning": "（用户在后期阶段，情绪趋于稳定，开始具体化思考和探索解决方案。咨询师提议把呼吸和话术结合起来，问我觉得如何。我需要回应这个搭配，同时保持简短、口语化，带一点犹豫和真实感。可以表达愿意尝试，但仍有担心，比如怕对方不接话或者自己临场忘掉。这样既符合后期探索行动，又不过于顺利，保留一点来访者的不安。）"
+      }
+    }
+  ],
+  "created": 1795154726,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3124,
+    "total_tokens": 3252,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1af2d8597aab4ff78e849b0bfdebfc71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……今天说这些，好像没那么堵了。就是不知道回去以后，会不会又变回老样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在总结今天的练习，还约了下一次。我听到“不追求完美”的时候，心里松了一点，可又有点不踏实，怕自己回去就拖延，也怕下次来的时候没什么可说的。不过今天确实比刚进来时清楚了一些，至少知道可以先从哪句话开始试。）",
+        "reasoning": "（咨询师在总结今天的练习，还约了下一次。我听到“不追求完美”的时候，心里松了一点，可又有点不踏实，怕自己回去就拖延，也怕下次来的时候没什么可说的。不过今天确实比刚进来时清楚了一些，至少知道可以先从哪句话开始试。）"
+      }
+    }
+  ],
+  "created": 1795148150,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3286,
+    "total_tokens": 3377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

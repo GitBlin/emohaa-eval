@@ -1,0 +1,41 @@
+{
+  "id": "5e67f8034f9e4ff3a571b2c70509fa6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个目标很实在，也很有力量。允许自己紧张，本身就是一种接纳。你觉得在见面过程中，如果紧张冒出来，你会怎么提醒自己这句话？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……那我想说“这次我就做我自己，允许自己紧张”。这样行吗？",
+        "reasoning": "嗯……那我想说“这次我就做我自己，允许自己紧张”。这样行吗？"
+      }
+    }
+  ],
+  "created": 1795156143,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 2954,
+    "total_tokens": 3008,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 20,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

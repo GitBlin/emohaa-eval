@@ -1,0 +1,41 @@
+{
+  "id": "3d42bb61b36142729ab98c5b130e375d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说的时候可能还是会别扭，但比之前好一点。要不……我下次先从问个小问题开始？比如“你们在聊那个新项目吗？”",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把那句话调到舒服的程度……我有点拿不准，但“我能不能也听听”确实比直接插话轻松。也许可以再具体一点，比如从问个问题开始，这样不会显得太突兀？）",
+        "reasoning": "（咨询师在帮我把那句话调到舒服的程度……我有点拿不准，但“我能不能也听听”确实比直接插话轻松。也许可以再具体一点，比如从问个问题开始，这样不会显得太突兀？）"
+      }
+    }
+  ],
+  "created": 1795146782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2545,
+    "total_tokens": 2629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

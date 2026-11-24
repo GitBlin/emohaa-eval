@@ -1,0 +1,25 @@
+- Member was forced to leave their rental in the spring after thirty days' notice when a new owner took over, and has been struggling for four months while telling everyone they are fine.
+- Member cried in their car before a shift this week for the first time, driven by fear of making mistakes after two schedule errors last month that led to pre-shift rumination in the parking lot.
+- Member copes with work anxiety by browsing rental listings on lunch breaks, which only fills twenty minutes and does not change the deposit numbers.
+- Member feels they are carrying everything alone and has not told Jesse anything, despite Jesse's earlier comment about feeling like a boarder in his own marriage.
+- Member and Jesse sleep in his mother's spare room with thin walls, so Member fears crying there would be heard by her and become "a whole thing."
+- Member handles the urge to cry by sitting with the quilt bag; on Thursday night they carried it to the living room, held it without opening it, then put it back on the shelf.
+- Member avoids opening the quilt bag because it feels like planning for a home they cannot provide yet.
+- Member resists being assigned small tasks or resets (walks, tea, stretching, music) because each becomes one more thing to keep up with and another way to be behind.
+- Member wants someone to simply hear how bad it is and affirm that it is bad and that being worn out makes sense, rather than being told it will work out.
+- Member wants Jesse to say he is tired too and not try to fix it, and acknowledges Jesse is the only one who knows how bad it is but still does not let him in.
+- Member's feared sentence to Jesse is "I'm not okay," because saying it makes it real and risks turning into something between them in a house where they have nowhere else to go.
+- Member agreed a text while Jesse is on shift is the safest route because he cannot respond immediately and his mother cannot hear a text.
+- Member rejected "I'm really struggling" and "can we talk" as too alarming, and settled on the text "I'm not doing great and I miss you" as short and manageable.
+- Member dropped the class they had signed up for, the first thing they had ever signed up for just for themselves, after about a month; the semester started this week and they drove past the lot.
+- Member's sewing machine and fabric are in a storage unit across town and they have no corner to set anything up; only the quilt top was kept out and they cannot open the bag.
+- Member rejected looking at fabric online as repeating the same twenty-minute false progress as the rental listings, and rejected writing about the quilt.
+- Member said the class loss out loud in session and reported the ceiling did not fall in, and that it feels a bit lighter and less like carrying it alone, though the week is not fixed and they still have to go in on Monday.
+- Member typed the text to Jesse twice and deleted it both times: the first time without knowing why, the second time at the supper table for fear it would show on Jesse's face in front of his mother.
+- Member sat through supper with Jesse's mother and her sister discussing how nice it is having family in the house, and told Jesse they were quiet because they were tired.
+- Member says timing is not the obstacle to sending the text — they are awake when Jesse comes in after eleven on doubles — but that sending it would make it exist, and Jesse already has enough going on.
+- Member rejected the counsellor's added line "Just wanted to check in" because it makes them sound fine, which is the exact habit they are trying to break.
+- Member rejected the suggestion of sitting with the quilt bag in the living room because his mother watches TV there until midnight most nights and it is her room.
+- Member rejected the quilt bag as a wordless signal because it would leave Jesse guessing and repeat the silence he has said he cannot reach them through.
+- Member said they cannot keep choosing between options and do not want a smaller version of saying it, but want to be able to just say the thing and does not know why they cannot.
+- Member said "next time" does not help because Monday is a day and a half away, and ended the session to go to bed.

@@ -1,0 +1,41 @@
+{
+  "id": "948de14b97994545b47ae69966d0ad69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我就跟他们说能不能小声点。但说得比较委婉，没敢太直接。可能他们也没当回事吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么表达的，这让我有点紧张。其实我当时说得挺含糊的，因为怕说重了会破坏关系。但不说又难受，这种矛盾让我很纠结。也许咨询师会觉得我太软弱了吧……不过现在说这些好像也没什么用。）\n（我该不该直接说清楚呢？可是万一室友觉得我小题大做怎么办……算了，还是先简单说说当时的做法吧，反正咨询师应该能理解这种难处。）",
+        "reasoning": "（咨询师问我怎么表达的，这让我有点紧张。其实我当时说得挺含糊的，因为怕说重了会破坏关系。但不说又难受，这种矛盾让我很纠结。也许咨询师会觉得我太软弱了吧……不过现在说这些好像也没什么用。）\n（我该不该直接说清楚呢？可是万一室友觉得我小题大做怎么办……算了，还是先简单说说当时的做法吧，反正咨询师应该能理解这种难处。）"
+      }
+    }
+  ],
+  "created": 1795153619,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1139,
+    "total_tokens": 1262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

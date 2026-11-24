@@ -1,0 +1,41 @@
+{
+  "id": "284800a2bb334a23818a73872a36a3fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我先做几次肩部放松吧，热敷感觉有点麻烦。其实我现在还是有点担心，回去以后又会忍不住去等他的消息。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在关注我身体放松的细节，这让我觉得她确实在认真帮我，而不是敷衍。但我心里还是有点犹豫，因为平时不太习惯照顾自己，总觉得这些小事不值得花时间。）\n（不过刚才呼吸确实顺了点，肩膀也没那么绷着，也许可以试试。但我还是想先确认一下，这样的练习到底有没有用，会不会只是暂时的安慰。）",
+        "reasoning": "（咨询师在关注我身体放松的细节，这让我觉得她确实在认真帮我，而不是敷衍。但我心里还是有点犹豫，因为平时不太习惯照顾自己，总觉得这些小事不值得花时间。）\n（不过刚才呼吸确实顺了点，肩膀也没那么绷着，也许可以试试。但我还是想先确认一下，这样的练习到底有没有用，会不会只是暂时的安慰。）"
+      }
+    }
+  ],
+  "created": 1795143332,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3374,
+    "total_tokens": 3485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

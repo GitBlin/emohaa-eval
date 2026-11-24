@@ -1,0 +1,41 @@
+{
+  "id": "f476a54da52a44eba156f2079bde274c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该就是……听话、别让他们操心吧。我好像一直在做那种女儿。放弃什么……可能就是自己想做的事吧，说出来有点可笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了“应该”的女儿和放弃的部分，这让我心里有点被戳到的感觉。我之前一直不敢细想这个，现在好像可以试着说说家里那种无形的压力了。）",
+        "reasoning": "（咨询师问到了“应该”的女儿和放弃的部分，这让我心里有点被戳到的感觉。我之前一直不敢细想这个，现在好像可以试着说说家里那种无形的压力了。）"
+      }
+    }
+  ],
+  "created": 1795147571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 1531,
+    "total_tokens": 1602,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

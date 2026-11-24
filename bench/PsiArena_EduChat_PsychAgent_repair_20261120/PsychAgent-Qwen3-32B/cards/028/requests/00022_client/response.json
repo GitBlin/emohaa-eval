@@ -1,0 +1,41 @@
+{
+  "id": "30f393ede762419fb5a9877fd1905129",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这种“分不清”的感觉，好像不是最近才有的。你最早是从什么时候开始，觉得自己做决定总要先过父母那一关？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说了“分不清是我在做决定还是她在做”，这是很关键的自我边界体验。我作为咨询师，既要回应这种模糊感，也要慢慢带她看到这种模式从什么时候开始。不要一次问太多，聚焦在“最早记得”这个点上，让她自己把过去和现在连起来。）",
+        "reasoning": "（她刚才说了“分不清是我在做决定还是她在做”，这是很关键的自我边界体验。我作为咨询师，既要回应这种模糊感，也要慢慢带她看到这种模式从什么时候开始。不要一次问太多，聚焦在“最早记得”这个点上，让她自己把过去和现在连起来。）"
+      }
+    }
+  ],
+  "created": 1795154387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1995,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

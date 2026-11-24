@@ -1,0 +1,30 @@
+- Member rejected the dull-activity version too, saying it is the same list he already tried.
+- Member says he is not good at the "why" part of identifying causes.
+- Member rejected staying up later, citing a quarter-to-five wake-up and ten hours of driving on less sleep than he already gets.
+- Member tried the later bedtime with a latest window of 12:30 a.m. and still woke at 3, so he is now short on sleep and still awake at 3.
+- Member agreed to try a 20-minute nap around 2:30 p.m. but doubts a nap will fix a four-month problem. [open]
+- Member refused to track numbers, saying the watch sleep stages are already enough.
+- Member refused the counsellor's simplified subjective check-in, saying it was the same thing with fewer boxes.
+- Member refused a one-word "harder/easier" check-in as the same thing with fewer boxes.
+- Member says his gear by the door and paper route by nine have been his routine for years, so pre-driving prep is not new.
+- Member said yes to a Saturday run at the fuel stop when the dispatcher called, without asking Dean first, which is out of character because he checks everything.
+- Member at the 3 a.m. wake-up was thinking over and over "why did I say yes," treating that as the thing to solve.
+- Member said sorting things in the morning is what he already does and does not stop them being there at 3.
+- Member refused a 5–10 minute quiet walk outside in the dark at 3 a.m., and ended the session citing a 4:45 start.
+- Dean found a suspension letter under the mail on the bench Friday and told Member.
+- Member told Dean "it's handled" to get him to drop it, though there were no steps behind the claim.
+- Member declined to discuss feelings about the letter, saying he'd rather not do the feelings part.
+- Member distinguishes fixing problems from the 3 a.m. loop, saying there is nothing to fix at 3 and it just goes round.
+- Member's 3 a.m. loop moves from the next day's route to his dad's last voicemail.
+- Member says nothing kicks off the 3 a.m. waking — no sound, no activity, just the time — and questioned whether the counsellor was listening.
+- Member rejected a minimum-activity version of getting up at 3 a.m. as "the chair thing with extra steps."
+- Member will not skip checking the watch, fearing he goes off the road, which already almost happened.
+- Member has no buffer before his 4:45 start — wheels rolling at 5 regardless of sleep.
+- Member rejected a one-time under-five-minute experiment, saying another thing to try is the whole problem.
+- Member rejected counting route loops, saying it is another number to be behind on.
+- Member objected that the counsellor kept handing him tasks and said he could get that off the internet.
+- Member said Dean has been on the couch two nights and has been talking to a woman at the clinic for a year without Member ever saying anything to him.
+- Member told Dean "fine" over and over until Dean stopped asking, which Member says is different from it being hard to talk to him.
+- Member could not say what the suspension letter said after it was read off a sheet, and noted twelve years without a letter.
+- Member said he is already doing all of it and is still awake at 3, and that this is the part the counsellor does not get.
+- Member ended the session after another small-thing suggestion, saying that was what he was trying to find out.

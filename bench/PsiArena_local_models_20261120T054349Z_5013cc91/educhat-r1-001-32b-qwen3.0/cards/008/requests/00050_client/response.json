@@ -1,0 +1,41 @@
+{
+  "id": "e2a586f58fdf401780c928584e360f60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点点头）奖励……好，那我先奖励自己一杯热奶茶吧。（走到门口，回头）今天聊完，心里好像松动了点。下次我想再聊聊怎么面对那些评价。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师最后建议给自己小奖励，还说会一直支持我。这让我觉得挺温暖的，但一下子要结束对话，心里还是有点不踏实。毕竟刚才聊了那么多，虽然知道该回去试试，可又怕自己一个人做不好。）\n（我其实还想再确认一下下次能不能继续来，但又不想显得太依赖。犹豫了一下，还是觉得应该把这份担心说出来，同时表达一下感谢，这样比较自然。）",
+        "reasoning": "（咨询师最后建议给自己小奖励，还说会一直支持我。这让我觉得挺温暖的，但一下子要结束对话，心里还是有点不踏实。毕竟刚才聊了那么多，虽然知道该回去试试，可又怕自己一个人做不好。）\n（我其实还想再确认一下下次能不能继续来，但又不想显得太依赖。犹豫了一下，还是觉得应该把这份担心说出来，同时表达一下感谢，这样比较自然。）"
+      }
+    }
+  ],
+  "created": 1795153791,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3238,
+    "total_tokens": 3371,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

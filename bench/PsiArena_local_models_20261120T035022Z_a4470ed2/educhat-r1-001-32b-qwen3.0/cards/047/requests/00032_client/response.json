@@ -1,0 +1,41 @@
+{
+  "id": "3091c5553c3949f7aaa9fc4481a6b3b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保持自我……（点头）那具体能做点什么呢？比如我上课前，或者情绪上来的时候，有没有什么小办法？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我已经做得很好了，还提到要寻找方法在压力下保持自我。这让我有点意外，因为之前总觉得是自己太脆弱。现在好像可以试着想想具体能做什么了，但又怕想出来的办法不实际。）\n（作为老师，我确实需要一些简单可行的小技巧。深呼吸听起来容易，可真的在课堂上情绪上来时，能记得用吗？不过既然咨询师这么说，也许可以先从这种小事开始试试看。）",
+        "reasoning": "（咨询师说我已经做得很好了，还提到要寻找方法在压力下保持自我。这让我有点意外，因为之前总觉得是自己太脆弱。现在好像可以试着想想具体能做什么了，但又怕想出来的办法不实际。）\n（作为老师，我确实需要一些简单可行的小技巧。深呼吸听起来容易，可真的在课堂上情绪上来时，能记得用吗？不过既然咨询师这么说，也许可以先从这种小事开始试试看。）"
+      }
+    }
+  ],
+  "created": 1795150256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2152,
+    "total_tokens": 2276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

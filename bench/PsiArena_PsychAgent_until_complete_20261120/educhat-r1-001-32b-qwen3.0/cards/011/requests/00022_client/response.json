@@ -1,0 +1,41 @@
+{
+  "id": "ea8ea8836bc64a9e85cee77ff8f718b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "和家人沟通……（摇头）在我家，这种事说了也没用。我老公觉得带孩子就是妈妈的事，我爸妈也总说“我们那时候不也这么过来的”。说了反而显得我不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才提到了“需要关注自己的感受”和“和家人沟通”，这让我想起小时候在家里说话总是没人当回事。他们总说小孩子懂什么，现在结婚了好像也一样，老公觉得带孩子就是我的事。）\n（我其实很怕表达自己的需求，因为从小就被教育要懂事、要体谅别人。现在当妈妈了，这种“要无私”的压力更大了。但咨询师说可以试着沟通，也许……也许我该说说看？）",
+        "reasoning": "（咨询师刚才提到了“需要关注自己的感受”和“和家人沟通”，这让我想起小时候在家里说话总是没人当回事。他们总说小孩子懂什么，现在结婚了好像也一样，老公觉得带孩子就是我的事。）\n（我其实很怕表达自己的需求，因为从小就被教育要懂事、要体谅别人。现在当妈妈了，这种“要无私”的压力更大了。但咨询师说可以试着沟通，也许……也许我该说说看？）"
+      }
+    }
+  ],
+  "created": 1795153793,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1772,
+    "total_tokens": 1913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

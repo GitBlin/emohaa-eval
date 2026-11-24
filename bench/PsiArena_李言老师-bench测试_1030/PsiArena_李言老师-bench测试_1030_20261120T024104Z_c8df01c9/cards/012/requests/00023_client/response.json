@@ -1,0 +1,41 @@
+{
+  "id": "188fd2d29ef143b38efe89664539d62e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "演练……我有点紧张，但可以试试。就是怕真做的时候手抖，连电话都拨不出去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体规划安全步骤，但我心里还是有点乱。演练这个词让我紧张，好像马上要面对什么似的。不过他说得对，真到那时候我可能连该做什么都忘了。）\n（想到要带孩子进房间锁门，我第一反应是怕动静太大刺激到他，可又觉得这总比让孩子看着我们吵要好。打电话这一步我还没想好打给谁，父母肯定不行，朋友又怕她追问太多。）",
+        "reasoning": "（咨询师在帮我具体规划安全步骤，但我心里还是有点乱。演练这个词让我紧张，好像马上要面对什么似的。不过他说得对，真到那时候我可能连该做什么都忘了。）\n（想到要带孩子进房间锁门，我第一反应是怕动静太大刺激到他，可又觉得这总比让孩子看着我们吵要好。打电话这一步我还没想好打给谁，父母肯定不行，朋友又怕她追问太多。）"
+      }
+    }
+  ],
+  "created": 1795142665,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3153,
+    "total_tokens": 3276,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

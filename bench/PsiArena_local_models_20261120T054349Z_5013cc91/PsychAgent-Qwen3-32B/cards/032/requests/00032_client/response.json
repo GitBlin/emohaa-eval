@@ -1,0 +1,41 @@
+{
+  "id": "256bb23b70404bf2aa9c783c92b62310",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧，可以试试。不过我不太会呼吸练习，你别笑我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师现在提议做呼吸练习，语气比之前更稳了。我心里其实有点犹豫，又不想显得不配合。试试就试试吧，反正就几分钟。）\n（不过我还是有点担心，万一做了没感觉，是不是又说明我连放松都做不到。先别急着下结论，跟着她说的做一次看看。）",
+        "reasoning": "（咨询师现在提议做呼吸练习，语气比之前更稳了。我心里其实有点犹豫，又不想显得不配合。试试就试试吧，反正就几分钟。）\n（不过我还是有点担心，万一做了没感觉，是不是又说明我连放松都做不到。先别急着下结论，跟着她说的做一次看看。）"
+      }
+    }
+  ],
+  "created": 1795154695,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2450,
+    "total_tokens": 2537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

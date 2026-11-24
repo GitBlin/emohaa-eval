@@ -1,0 +1,41 @@
+{
+  "id": "aa22ddbd0618444089e293e57adc7493",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，那我今晚十点半先试一次。不过……如果做完还是特别想找他，我该怎么提醒自己别又陷进去？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，从今晚十点半开始，我先做离屏五分钟地面化，再决定要不要看手机。这个安排我能接受。",
+        "reasoning": "好的，从今晚十点半开始，我先做离屏五分钟地面化，再决定要不要看手机。这个安排我能接受。"
+      }
+    }
+  ],
+  "created": 1795147748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 2550,
+    "total_tokens": 2607,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

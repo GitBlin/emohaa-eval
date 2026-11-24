@@ -1,0 +1,41 @@
+{
+  "id": "86cf89ebcfd943719144d743b20d49e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我今天真的很累，想让你帮我抱一会儿孩子。”说出来还是有点难为情。好像在我们家，妈妈累也不能明说，说了就像不够尽责。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我在想，她让我练习一句需要，可能我该试试。但平时在家里说“我需要休息”总会被觉得矫情。可以试着表达“我今天真的很累，想让你帮我抱一会儿孩子”，不过说出来还是有点难为情。",
+        "reasoning": "我在想，她让我练习一句需要，可能我该试试。但平时在家里说“我需要休息”总会被觉得矫情。可以试着表达“我今天真的很累，想让你帮我抱一会儿孩子”，不过说出来还是有点难为情。"
+      }
+    }
+  ],
+  "created": 1795153788,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1790,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9c950b8f15204c5495790a17ffe843d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我觉得胸口还是有点闷，但没刚才那么重了。可能……我确实需要多留意这些身体的感觉，而不是光在脑子里打转。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段：探索解决方案并明确行动计划。情绪趋于稳定，开始具体化思考。需要简短2-3句，口语化。）",
+        "reasoning": "（后期阶段：探索解决方案并明确行动计划。情绪趋于稳定，开始具体化思考。需要简短2-3句，口语化。）"
+      }
+    }
+  ],
+  "created": 1795155161,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2567,
+    "total_tokens": 2629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

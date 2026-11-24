@@ -1,0 +1,21 @@
+- Member eats almost nothing during the day and then eats from the fridge at night after his wife goes upstairs.
+- Member describes the nighttime eating as quiet off-duty time when nobody is looking at him and he does not have to think, giving relief for about an hour.
+- Member counts the empties afterward and weighs himself in the morning, where the relief is paid for.
+- Member tells himself each night that he said he would cut back, that it is the same as last night, and that he will start Monday.
+- Member's picture of a real Monday is eating an actual sit-down lunch rather than a sandwich standing up, and no beer in the house after ten.
+- Member finds by the time he is off work he is no longer hungry, and then the night hunger comes back all at once.
+- Member does not think what he wants at night is really food.
+- Member says the night eating gives his hands something to do and takes the pressure off talking.
+- Member feels watched at meals, chiefly by his mother, who for three months has made him a different plate from everybody else since his brother's heart attack.
+- Member told his mother she did not have to make him a separate plate and she kept doing it anyway.
+- Member feels small when the separate plate appears, like everyone at the table already knows something about him before he sits down.
+- Member tells his family he is fine and has not told them what the last three months have been like for him.
+- Member says "fine" keeps everybody off his back because saying it was hard would turn it into a whole thing he would have to manage.
+- Member laughed off his aunt's remark across the table that he is next if he does not slow down, and says making a joke is what he does.
+- Member says if he had not laughed there would have been dead quiet with everybody looking at him, and he would rather avoid being looked at like that at almost any cost.
+- Member finds it easier to be truthful with the counsellor because the counsellor cannot see him — easier by a lot than in the room with his family.
+- Member's brother said on their walk last Sunday that he keeps waiting for Member to show up at Ma's.
+- Member heard the brother's remark as him just waiting for Member to come back, not checking up on him or watching what he eats.
+- Member was a little moved that his brother noticed he was not there, having figured nobody really did.
+- Member found being seen that way a bit much, said "yeah I know," and walked to the cars when his brother moved on to his son's soccer.
+- Member was left with the expectation that his brother will want an actual answer on Sunday and that he does not have one. [open]

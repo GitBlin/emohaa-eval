@@ -1,0 +1,41 @@
+{
+  "id": "055e096b7cbf4d3198e6899ad93af423",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有次吃饭，他姑妈当着大家问我“身体调好了没”。我笑了一下，回来却特别难受。后来我丈夫只说“别往心里去”，我当时就觉得，怎么又是我一个人消化。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体时刻，这让我想起上次家庭聚会的事。那种被当众关心的感觉，表面是问候，底下却像在提醒我欠了什么。我其实不想显得太计较，可那种难受是真的。）\n（我丈夫当时没吭声，后来才说别往心里去。可这种事哪能说别想就别想。我需要的不是他事后安慰，而是当时能替我挡一下。也许我该把这点说出来，但说多了又怕显得我在怪他。）",
+        "reasoning": "（咨询师问的是具体时刻，这让我想起上次家庭聚会的事。那种被当众关心的感觉，表面是问候，底下却像在提醒我欠了什么。我其实不想显得太计较，可那种难受是真的。）\n（我丈夫当时没吭声，后来才说别往心里去。可这种事哪能说别想就别想。我需要的不是他事后安慰，而是当时能替我挡一下。也许我该把这点说出来，但说多了又怕显得我在怪他。）"
+      }
+    }
+  ],
+  "created": 1795142949,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2439,
+    "total_tokens": 2590,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

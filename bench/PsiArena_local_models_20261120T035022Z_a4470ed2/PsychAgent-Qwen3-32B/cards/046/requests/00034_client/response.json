@@ -1,0 +1,41 @@
+{
+  "id": "55b366227efb49feba198d0e13a69f8f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说……“我尽力说清楚，别人怎么想我管不了。”不过说起来容易，做起来还是难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把那个提醒浓缩成自己的话……这有点难，我平时哪会这么跟自己说话。不过他说“评价是对方的，我负责清楚表达”，听起来好像有点道理，又觉得太轻巧了。我试着想一句自己的，可能还是会带点较劲的味道，但至少先说出来看看。）",
+        "reasoning": "（咨询师让我把那个提醒浓缩成自己的话……这有点难，我平时哪会这么跟自己说话。不过他说“评价是对方的，我负责清楚表达”，听起来好像有点道理，又觉得太轻巧了。我试着想一句自己的，可能还是会带点较劲的味道，但至少先说出来看看。）"
+      }
+    }
+  ],
+  "created": 1795148781,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2822,
+    "total_tokens": 2918,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

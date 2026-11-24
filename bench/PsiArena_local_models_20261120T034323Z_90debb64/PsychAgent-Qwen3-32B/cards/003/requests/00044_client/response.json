@@ -1,0 +1,41 @@
+{
+  "id": "46f360344f6a42c3b40a0effd14db879",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最有帮助的……可能是“够了就好”吧。以前我总想着要一下子变得很会社交，现在觉得先打个招呼也算数。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问今天最有帮助的一点是什么。我回想了一下，觉得不是那些分析，而是“够了就好”这个标准，让我没那么大压力。我可以说得稍微犹豫一点，别太完整。）",
+        "reasoning": "（她问今天最有帮助的一点是什么。我回想了一下，觉得不是那些分析，而是“够了就好”这个标准，让我没那么大压力。我可以说得稍微犹豫一点，别太完整。）"
+      }
+    }
+  ],
+  "created": 1795146320,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3115,
+    "total_tokens": 3189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

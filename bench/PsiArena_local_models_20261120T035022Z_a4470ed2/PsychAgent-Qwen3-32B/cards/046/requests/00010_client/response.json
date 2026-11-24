@@ -1,0 +1,41 @@
+{
+  "id": "933cf824e2334bebac4aee1ab310aeac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作吧……最近业绩考核压得厉害，我总觉得自己做得不够。可要说具体哪里不够，我又说不上来，就是心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才很明确地守住了边界，但也让我感觉到他没有因为我的试探而疏远我。这让我稍微放松了一点，但还是不太敢直接说太深的东西。工作上的事确实最让我烦，可每次想开口又觉得说不清楚，好像脑子里一团乱麻。先随便提一下业绩的事吧，看看他会不会追问下去。）",
+        "reasoning": "（咨询师刚才很明确地守住了边界，但也让我感觉到他没有因为我的试探而疏远我。这让我稍微放松了一点，但还是不太敢直接说太深的东西。工作上的事确实最让我烦，可每次想开口又觉得说不清楚，好像脑子里一团乱麻。先随便提一下业绩的事吧，看看他会不会追问下去。）"
+      }
+    }
+  ],
+  "created": 1795148725,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1353,
+    "total_tokens": 1463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

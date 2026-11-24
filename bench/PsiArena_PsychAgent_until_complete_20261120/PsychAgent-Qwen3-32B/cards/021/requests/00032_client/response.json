@@ -1,0 +1,41 @@
+{
+  "id": "46211fc74fdb49fc8992f934333132d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以。那……接电话前呢？有时候她一打来我就紧张，不知道该说什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我制定具体的行动计划……这让我有点紧张，但也觉得比之前空泛的讨论实在。她说的“像练肌肉”让我稍微放松了些，至少不用要求自己立刻做到完美。）\n（我想到接电话的场景，那种压力太真实了。每次我妈打来，我都不知道该说什么，又怕说错话让她失望。如果能在接电话前先缓一下，也许不会那么快就乱。）",
+        "reasoning": "（咨询师在引导我制定具体的行动计划……这让我有点紧张，但也觉得比之前空泛的讨论实在。她说的“像练肌肉”让我稍微放松了些，至少不用要求自己立刻做到完美。）\n（我想到接电话的场景，那种压力太真实了。每次我妈打来，我都不知道该说什么，又怕说错话让她失望。如果能在接电话前先缓一下，也许不会那么快就乱。）"
+      }
+    }
+  ],
+  "created": 1795154217,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2501,
+    "total_tokens": 2615,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

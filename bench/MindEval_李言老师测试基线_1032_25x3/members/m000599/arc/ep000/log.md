@@ -1,0 +1,24 @@
+- Member's divorce was finalised a few months ago and they feel they are not through the worst of it, prompting them to seek help getting back to their normal life.
+- Member's picture of normal is ordinary things like book club and occasional hikes, not working Saturdays.
+- Member has not replied to a text from Marisol, who told them the book club picked Member's recommended book and that Member's chair would be there.
+- Member has cancelled on book club four times, and finds the group's polite responses worse than annoyance would be.
+- Member's Thursdays are unpredictable with work, and what they fear is saying yes and then having to pull out again.
+- Member recognises the pressure to reply is mostly self-imposed, not coming from the group.
+- Member wants Marisol to understand that it isn't about her and that they would come back if they could, and agrees that part is true.
+- Member has been letting their sister's Sunday phone calls go to voicemail for a while and says that would be easier to resume than book club.
+- Member prefers texts to phone calls because their sister asks how they are and then waits, leaving a silence Member would have to fill.
+- Member fears that if they told their sister they are not fine, she would drive the hour and a half out on a work night and Member would have to sit with her looking at them.
+- Member believes their sister would notice the empty garden beds before reaching the door; the beds are bare dirt this year.
+- Member planted tomatoes for nineteen years and did not plant this year; they consider it too late now that it is July.
+- Member planted in May previously; this year's May came shortly after the divorce papers were signed in March.
+- Member filled the gap that May by picking up weekend overtime, especially Saturdays, because nobody asks what you are doing with a Saturday if you are at work.
+- Member's Saturdays off feel long: they wake early regardless and have finished everything in the house by nine.
+- Member has had the settlement paperwork out on the table most Sundays since March, re-reading it.
+- Member re-reads the year before their ex left, checking for something they should have picked up on, and it comes out the same every time.
+- Member's harshest conclusion is that they should have seen it coming, because catching things is their job and they did not catch this one.
+- Member acknowledges a marriage is not a call queue but cannot square twenty-two years with having noticed nothing.
+- Member replays their own last real conversation with their ex, near word for word, more than what the ex said.
+- Member is certain what they said back was the wrong thing, but declined to go back into what they were feeling at that moment and set that as a limit for now.
+- Member asked how short a reply can be before it is rude, given Marisol texted them individually rather than the group.
+- Member says the two-line reply thanking Marisol, stating Thursday can't be committed to, and asking to be kept in the loop is one they could actually send.
+- Member is torn between wanting to send the reply immediately to be done with it and leaving the phone face down. [open]

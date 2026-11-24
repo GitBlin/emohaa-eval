@@ -1,0 +1,41 @@
+{
+  "id": "c1a6bb80e6924b81aa918f6411c9a6f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（思考）用“我”开头……比如“我觉得最近你总说我外表，我有点难过”？这样说好像不那么冲，但我还是有点怕说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在引导我用“我”开头的表达方式，这让我稍微松了口气。但一想到要真的面对男友说出这些话，心里又有点发怵。我担心自己说不好，更担心他的反应会让我更难受。）\n（也许可以先在脑子里过一遍想说的话，这样开口时不会太慌乱。但万一他还是不理解，我又该怎么办呢……这种不确定感让我很不安。）",
+        "reasoning": "（心理咨询师在引导我用“我”开头的表达方式，这让我稍微松了口气。但一想到要真的面对男友说出这些话，心里又有点发怵。我担心自己说不好，更担心他的反应会让我更难受。）\n（也许可以先在脑子里过一遍想说的话，这样开口时不会太慌乱。但万一他还是不理解，我又该怎么办呢……这种不确定感让我很不安。）"
+      }
+    }
+  ],
+  "created": 1795155081,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2745,
+    "total_tokens": 2864,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

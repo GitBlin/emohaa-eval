@@ -1,0 +1,41 @@
+{
+  "id": "f10629aa20c546228b51b9a1f6d191e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "其实我想说“我今天累了，不想去”。但我怕说了她们以后就不叫我了……是不是挺没出息的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的……我刚才说“像个跟班”的时候，其实有点难堪，怕她觉得我太黏人。可她没评判，只是让我看那一刻。我想到那天累得眼皮都沉，还是立刻回了“好啊好啊”，好像慢一点就会被落下。可要是真说“我不去了”，她们会不会以后就不叫我了？）",
+        "reasoning": "（她问得挺细的……我刚才说“像个跟班”的时候，其实有点难堪，怕她觉得我太黏人。可她没评判，只是让我看那一刻。我想到那天累得眼皮都沉，还是立刻回了“好啊好啊”，好像慢一点就会被落下。可要是真说“我不去了”，她们会不会以后就不叫我了？）"
+      }
+    }
+  ],
+  "created": 1795146768,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1938,
+    "total_tokens": 2042,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

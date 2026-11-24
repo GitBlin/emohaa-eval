@@ -1,0 +1,41 @@
+{
+  "id": "a17ba42efd924a30b9205fc4c13667e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我回去写写看。其实想想，能有人听我说这些，已经挺好的了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在鼓励我慢慢修改草稿，强调表达想法的重要性。这让我稍微放松了一点，但想到要面对家人还是有点发怵。或许可以试着先写个开头，不用太完美。）\n（不过转念一想，写信沟通总比直接吵架强。虽然不知道效果会怎样，但至少是个开始。咨询师一直很耐心，让我觉得可以试试看。）",
+        "reasoning": "（心理咨询师在鼓励我慢慢修改草稿，强调表达想法的重要性。这让我稍微放松了一点，但想到要面对家人还是有点发怵。或许可以试着先写个开头，不用太完美。）\n（不过转念一想，写信沟通总比直接吵架强。虽然不知道效果会怎样，但至少是个开始。咨询师一直很耐心，让我觉得可以试试看。）"
+      }
+    }
+  ],
+  "created": 1795154593,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2620,
+    "total_tokens": 2725,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

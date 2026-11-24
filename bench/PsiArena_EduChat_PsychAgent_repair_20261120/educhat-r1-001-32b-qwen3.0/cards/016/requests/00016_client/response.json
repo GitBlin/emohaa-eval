@@ -1,0 +1,41 @@
+{
+  "id": "d18891a49c374620acd210e3f0d5296c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "以前不是这样的。小时候我爸其实挺顾家的，周末都会陪我和我妈。（声音低下去）所以现在这样……我才更害怕。在我家，大家都觉得家庭是最重要的，我爸以前也总说要对我妈好一辈子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我爸爸平时和我沟通时有没有类似反应...他好像想让我对比一下父亲现在的行为和以往的不同。这让我想起小时候的事，那时候爸爸确实不是这样的。）\n（作为家里的一份子，我一直觉得父母关系很稳定，现在这种变化让我很不安。虽然开始信任咨询师了，但提到这些细节还是让我有点难受。也许可以稍微透露一点家庭背景，让咨询师更理解我的困扰。）",
+        "reasoning": "（咨询师在问我爸爸平时和我沟通时有没有类似反应...他好像想让我对比一下父亲现在的行为和以往的不同。这让我想起小时候的事，那时候爸爸确实不是这样的。）\n（作为家里的一份子，我一直觉得父母关系很稳定，现在这种变化让我很不安。虽然开始信任咨询师了，但提到这些细节还是让我有点难受。也许可以稍微透露一点家庭背景，让咨询师更理解我的困扰。）"
+      }
+    }
+  ],
+  "created": 1795154050,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1564,
+    "total_tokens": 1704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

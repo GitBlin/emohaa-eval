@@ -1,0 +1,41 @@
+{
+  "id": "0937cb4104af44d9bef0aa1d67fcb612",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，保密就好……（犹豫）那如果我平时有问题，能不能直接加你微信什么的？我不是很习惯跟陌生人说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才解释了保密原则和咨询方法，语气很温和。但我还是有点不确定该信任到什么程度，毕竟第一次见面。先试探一下边界吧，看看如果我说想私下联系会怎样，这样也能判断这个咨询师是不是足够专业。）\n（不过直接问联系方式可能太突兀了，得稍微委婉一点。可以假装是担心咨询时间不够，或者想多了解一些。这样既测试了界限，又不会显得太奇怪。毕竟我平时也不太习惯跟陌生人说太多私事。）",
+        "reasoning": "（咨询师刚才解释了保密原则和咨询方法，语气很温和。但我还是有点不确定该信任到什么程度，毕竟第一次见面。先试探一下边界吧，看看如果我说想私下联系会怎样，这样也能判断这个咨询师是不是足够专业。）\n（不过直接问联系方式可能太突兀了，得稍微委婉一点。可以假装是担心咨询时间不够，或者想多了解一些。这样既测试了界限，又不会显得太奇怪。毕竟我平时也不太习惯跟陌生人说太多私事。）"
+      }
+    }
+  ],
+  "created": 1795149984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1089,
+    "total_tokens": 1225,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c5c554878db64db480fa81187bf1ffb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……孩子睡着的时候，我看着他，会觉得安静一点。但一想到婆婆那些话，我又觉得自己是不是哪里都做得不够。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起和孩子相处得好的时刻，让我心里稍微松了一点。可这个念头刚冒出来，婆婆那些话又跟着涌上来，好像我稍微觉得自己还行，就会马上被否定掉。我是不是连这点好都不敢认？）\n（想到孩子睡着的时候，我确实会觉得安静、踏实，那是我难得不用绷着的时候。但我不敢多说，怕说着说着又变成在证明自己，或者又绕回那些争执里。）",
+        "reasoning": "（咨询师问起和孩子相处得好的时刻，让我心里稍微松了一点。可这个念头刚冒出来，婆婆那些话又跟着涌上来，好像我稍微觉得自己还行，就会马上被否定掉。我是不是连这点好都不敢认？）\n（想到孩子睡着的时候，我确实会觉得安静、踏实，那是我难得不用绷着的时候。但我不敢多说，怕说着说着又变成在证明自己，或者又绕回那些争执里。）"
+      }
+    }
+  ],
+  "created": 1795142964,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1494,
+    "total_tokens": 1619,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

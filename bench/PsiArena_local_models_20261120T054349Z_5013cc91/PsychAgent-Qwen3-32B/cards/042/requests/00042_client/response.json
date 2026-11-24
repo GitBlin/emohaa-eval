@@ -1,0 +1,41 @@
+{
+  "id": "954978c3bbca408587bbf3492775cca8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来挺正式的……“评估”“诊断”这些词让我有点发怵，怕被贴个标签。具体是要怎么弄？会不会影响我上班？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户的话要简短，2-3句，口语化，带一点犹豫/情绪波动，不直接过度配合。承认评估建议，但表达对“诊断”“干预”这些词有点发怵，担心被贴标签或影响工作家庭。可以反问一句具体怎么做。）",
+        "reasoning": "（用户的话要简短，2-3句，口语化，带一点犹豫/情绪波动，不直接过度配合。承认评估建议，但表达对“诊断”“干预”这些词有点发怵，担心被贴标签或影响工作家庭。可以反问一句具体怎么做。）"
+      }
+    }
+  ],
+  "created": 1795155026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 3987,
+    "total_tokens": 4082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8da751e1f7a64a6cb8d6946586c7ea3b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真想了想）三层吧。最底下那层得是浅灰的，让我稳住，别一开口就急。中间那层米色，提醒我说说自己的感受。最上面一层……深蓝的，用来谈最坏的情况，比如辞职后钱怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体怎么设计谈话的支撑层，还问到颜色这种细节。这让我觉得有点抽象，但好像是在帮我把模糊的想法变得具体一些。我得想想自己真正需要什么。）\n（第一层肯定是稳住情绪，不然一开口就乱。第二层得说清楚自己的感受，不能光抱怨。第三层可能得把最坏的情况也摊开说，比如辞职后的经济压力。颜色的话，浅灰比较平静，米色温和，深蓝踏实。这样一步步来，可能不会那么怕了。）",
+        "reasoning": "（咨询师在问我具体怎么设计谈话的支撑层，还问到颜色这种细节。这让我觉得有点抽象，但好像是在帮我把模糊的想法变得具体一些。我得想想自己真正需要什么。）\n（第一层肯定是稳住情绪，不然一开口就乱。第二层得说清楚自己的感受，不能光抱怨。第三层可能得把最坏的情况也摊开说，比如辞职后的经济压力。颜色的话，浅灰比较平静，米色温和，深蓝踏实。这样一步步来，可能不会那么怕了。）"
+      }
+    }
+  ],
+  "created": 1795153651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 173,
+    "prompt_tokens": 2971,
+    "total_tokens": 3144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

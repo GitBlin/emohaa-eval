@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-76e99bf2897147afb31c678c27a96362",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好！最近有什么困扰你的事情吗？我在这里倾听你的故事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者首次咨询，情绪状态稳定但可能存在潜在压力源\n【行动策略】：建立安全信任关系，引导自我觉察\n",
+        "reasoning_content": "\n【诊断分析】：来访者首次咨询，情绪状态稳定但可能存在潜在压力源\n【行动策略】：建立安全信任关系，引导自我觉察\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147743,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 196,
+    "total_tokens": 249,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

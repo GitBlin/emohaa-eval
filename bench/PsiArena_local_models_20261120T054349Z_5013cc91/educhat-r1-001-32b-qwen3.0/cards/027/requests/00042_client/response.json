@@ -1,0 +1,41 @@
+{
+  "id": "11f60057d7e04ed6866bed372a5021b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "用“我们”开头……（若有所思）听起来好像没那么剑拔弩张。不过真说起来，可能还是会别扭，毕竟这么多年都习惯了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到用“我们”开头的句子，这让我有点意外。以前总觉得和母亲之间只有服从和对抗两种模式，现在突然多了一种可能性，感觉有点新奇又有点不确定。）\n（不过仔细想想，这种说法确实比直接对抗要温和一些。我担心的是实际操作起来会不会很别扭，毕竟这么多年都习惯了非黑即白的相处方式。但至少这是个可以尝试的方向。）",
+        "reasoning": "（咨询师提到用“我们”开头的句子，这让我有点意外。以前总觉得和母亲之间只有服从和对抗两种模式，现在突然多了一种可能性，感觉有点新奇又有点不确定。）\n（不过仔细想想，这种说法确实比直接对抗要温和一些。我担心的是实际操作起来会不会很别扭，毕竟这么多年都习惯了非黑即白的相处方式。但至少这是个可以尝试的方向。）"
+      }
+    }
+  ],
+  "created": 1795154576,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2669,
+    "total_tokens": 2785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

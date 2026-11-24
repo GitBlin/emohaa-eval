@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-d7c82fc8e2e44187bae4058802077a5f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n完全理解。我们也可以约定一个“暂停词”，比如“我们先停一下”，让你在慌的时候有权限先把节奏放慢。你觉得这对你有帮助吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147120,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 2860,
+    "total_tokens": 2901,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

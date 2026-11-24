@@ -1,0 +1,41 @@
+{
+  "id": "7e330ec8fd9649098bcd82926707bfaa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个说法挺自然的，不会太突兀。（停顿）我打算这周末就试试。不过，如果她反应不好，我该怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才建议用电影情节作为切入点来展开对话，这确实是个比较自然的方式。我一直在纠结怎么开口，现在好像有了个具体的抓手。）\n（不过我还是有点担心，万一妻子反应不好怎么办。但既然咨询师说循序渐进，也许我可以先试试看，至少比一直回避要好。）",
+        "reasoning": "（咨询师刚才建议用电影情节作为切入点来展开对话，这确实是个比较自然的方式。我一直在纠结怎么开口，现在好像有了个具体的抓手。）\n（不过我还是有点担心，万一妻子反应不好怎么办。但既然咨询师说循序渐进，也许我可以先试试看，至少比一直回避要好。）"
+      }
+    }
+  ],
+  "created": 1795154101,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2138,
+    "total_tokens": 2233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

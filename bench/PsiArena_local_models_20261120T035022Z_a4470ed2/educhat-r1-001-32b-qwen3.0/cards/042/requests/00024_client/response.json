@@ -1,0 +1,41 @@
+{
+  "id": "4567cdb9616a42419f015be7cfe1be91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写信……唉，说这些有什么用呢。我现在这个年纪，改不了了。公司、家里，哪样能放下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了给年轻时的自己写信……这让我想起小时候在老家，父亲总是板着脸说“男人要有男人的样子”。那时候我就知道，哭和示弱都是不被允许的。现在想想，可能从那时候起，我就把所有的压力都当成理所当然要扛的东西了。）\n（可是现在说这些有什么用呢？公司里那些年轻人动不动就说压力大要休息，我要是也这样，生意早就垮了。家里老婆孩子都看着我，我哪有资格说什么“不需要成为所有人的答案”这种话。这些话听起来太轻飘飘了，现实根本不是这样的。）",
+        "reasoning": "（咨询师提到了给年轻时的自己写信……这让我想起小时候在老家，父亲总是板着脸说“男人要有男人的样子”。那时候我就知道，哭和示弱都是不被允许的。现在想想，可能从那时候起，我就把所有的压力都当成理所当然要扛的东西了。）\n（可是现在说这些有什么用呢？公司里那些年轻人动不动就说压力大要休息，我要是也这样，生意早就垮了。家里老婆孩子都看着我，我哪有资格说什么“不需要成为所有人的答案”这种话。这些话听起来太轻飘飘了，现实根本不是这样的。）"
+      }
+    }
+  ],
+  "created": 1795150048,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2001,
+    "total_tokens": 2148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

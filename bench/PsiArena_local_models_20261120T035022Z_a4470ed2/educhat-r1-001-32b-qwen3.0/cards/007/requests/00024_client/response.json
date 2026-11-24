@@ -1,0 +1,41 @@
+{
+  "id": "592f8beff9db43559e622e337f5c2738",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小情绪……（犹豫）我小时候写过日记，被我妈看到过，她拿去跟我爸说了。后来我就不太敢写真心话了，都是写些他们爱看的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我记录情绪，这让我想起小时候写日记被父母翻看的事。他们总说小孩子没什么隐私，可那种被监视的感觉让我到现在都不太敢写真实想法。也许该让咨询师知道这个顾虑？毕竟她好像真的在试着理解我。）\n（但这样直接说出来会不会显得太矫情？毕竟都是过去的事了。不过咨询师刚才说帮我找自己的答案，或许可以稍微试探一下她的反应。用写日记这个点切入比较自然，既回应了她的建议，又能带出我的家庭经历。）",
+        "reasoning": "（咨询师在引导我记录情绪，这让我想起小时候写日记被父母翻看的事。他们总说小孩子没什么隐私，可那种被监视的感觉让我到现在都不太敢写真实想法。也许该让咨询师知道这个顾虑？毕竟她好像真的在试着理解我。）\n（但这样直接说出来会不会显得太矫情？毕竟都是过去的事了。不过咨询师刚才说帮我找自己的答案，或许可以稍微试探一下她的反应。用写日记这个点切入比较自然，既回应了她的建议，又能带出我的家庭经历。）"
+      }
+    }
+  ],
+  "created": 1795147020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 1895,
+    "total_tokens": 2049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

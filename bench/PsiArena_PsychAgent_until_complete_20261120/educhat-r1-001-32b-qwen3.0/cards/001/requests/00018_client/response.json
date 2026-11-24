@@ -1,0 +1,41 @@
+{
+  "id": "0495ac274765461b9a685616544de874",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通？（摇头）在我家，做出决定总是很困难，因为我必须考虑父母的意见。他们觉得学习才是正事，其他的……（欲言又止）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我和父母沟通……但在我家，这种事从来都不简单。他们总是把学习放在第一位，觉得其他都是浪费时间。我甚至能想象到他们皱着眉头说“现在不是交朋友的时候”的样子。）\n（每次想开口说这些，最后都会变成争吵。他们觉得我不懂事，我觉得他们不理解我。这种矛盾让我更不敢表达真实想法了，只能把话咽回去。）",
+        "reasoning": "（咨询师建议我和父母沟通……但在我家，这种事从来都不简单。他们总是把学习放在第一位，觉得其他都是浪费时间。我甚至能想象到他们皱着眉头说“现在不是交朋友的时候”的样子。）\n（每次想开口说这些，最后都会变成争吵。他们觉得我不懂事，我觉得他们不理解我。这种矛盾让我更不敢表达真实想法了，只能把话咽回去。）"
+      }
+    }
+  ],
+  "created": 1795153458,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1567,
+    "total_tokens": 1687,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ffe070f6a29846b7aae7d151732ed48c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我会试试的。（停顿一下）对了，关于学习，我最近老是走神，您觉得我该从哪儿开始调整比较好？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在鼓励我尝试自己做决定，这让我觉得有点安心。虽然还是有点害怕搞砸，但他说会一直支持我，这让我想试试看。）\n（关于学习的事，我其实一直很在意，但又不敢直接问。现在既然聊到了行动，也许可以顺便提一下，看看能不能找到让自己不那么焦虑的办法。）",
+        "reasoning": "（心理咨询师在鼓励我尝试自己做决定，这让我觉得有点安心。虽然还是有点害怕搞砸，但他说会一直支持我，这让我想试试看。）\n（关于学习的事，我其实一直很在意，但又不敢直接问。现在既然聊到了行动，也许可以顺便提一下，看看能不能找到让自己不那么焦虑的办法。）"
+      }
+    }
+  ],
+  "created": 1795150066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2194,
+    "total_tokens": 2298,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

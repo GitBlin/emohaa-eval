@@ -1,0 +1,41 @@
+{
+  "id": "70b847341e3a4ed9b34be3c43bc41d04",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“是不是我不够好，他才这样。”我知道听着挺傻的，但当时脑子就只剩这句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我脑子里冒出的那句话……这让我想到每次他冷着脸的时候，我心里就会立刻响起一个声音。好像我总在给自己判刑似的。这句话说出来有点丢人，但确实是我最真实的念头。）",
+        "reasoning": "（咨询师在问我脑子里冒出的那句话……这让我想到每次他冷着脸的时候，我心里就会立刻响起一个声音。好像我总在给自己判刑似的。这句话说出来有点丢人，但确实是我最真实的念头。）"
+      }
+    }
+  ],
+  "created": 1795153965,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 1770,
+    "total_tokens": 1842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

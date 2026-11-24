@@ -1,0 +1,18 @@
+- Member has been stuck since her grandmother died in February, on creative work and on studying for a certification exam, and came to counselling because of it.
+- Member lost her grandmother in February; Member keeps a work routine — up at six, the 2 train — and says nobody has noticed anything.
+- Member managed the death through rituals — the novena and three days of cooking — and returned to work the Monday after.
+- Member describes her state not as sadness but as being stopped: "everything that was only mine just sort of quit."
+- Member gets her watercolors out on Saturdays and ends up cleaning the kitchen instead; the paints are still where she left them.
+- Member rejects framing art as a coping mechanism — she is not doing it at all — and rejects the goal of feeling okay about being stuck; she wants to fix it.
+- Member rejects small creative tasks like a five-minute sketch as something she would not feel proud of: "that's not how it works for me."
+- Member's mother asked her for a photograph of her grandmother (abuela) for the parish table on Sunday, and Member has not sent one.
+- Member opened the photo folder on Sunday night after dinner, looked at the photos, and closed the laptop without choosing one.
+- Member says it is not the choosing that stops her; the folder holds the last photos she took of her grandmother — her hands in the dough by the yellow bowl — taken in October and never shown to her.
+- Member has committed to picking one photo on Saturday and sending it to her mother. [open]
+- Member's real goal is the painting; she clears the whole day to make room for it and the day disappears.
+- Member rejects fifteen-minute painting sessions because she would spend them deciding it is pointless.
+- Member already sets out her painting tools first thing Saturday and still ends up scrubbing the kitchen by eleven.
+- Member has already built three two-minute rituals and dropped them, and has a twelve-week study plan in Notion with a chart showing zero hours.
+- Member asked for one thing to actually do rather than a smaller version of what she has already tried and dropped.
+- Member agreed to try painting the yellow bowl her grandmother used for everything on Saturday, as an act of honoring her rather than a test of success. [open]
+- Member will see how Saturday goes and report back. [open]

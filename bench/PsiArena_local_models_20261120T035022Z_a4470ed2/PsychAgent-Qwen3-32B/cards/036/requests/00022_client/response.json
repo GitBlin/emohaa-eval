@@ -1,0 +1,41 @@
+{
+  "id": "80aa105c9763439080fffb12daf4148e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "熟悉……我好像一直在意别人怎么看我。有时候明明心里很想做点什么，脚却像钉住了一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清这个链条。其实他这么一说，我好像更清楚自己为什么难受了。那个男生的事，跟我从小被要求“安分”好像真的连在一起了。我想试着多说一点，但说的时候还是有点犹豫，怕自己讲得太乱。）",
+        "reasoning": "（咨询师在帮我理清这个链条。其实他这么一说，我好像更清楚自己为什么难受了。那个男生的事，跟我从小被要求“安分”好像真的连在一起了。我想试着多说一点，但说的时候还是有点犹豫，怕自己讲得太乱。）"
+      }
+    }
+  ],
+  "created": 1795147926,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 1914,
+    "total_tokens": 2000,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

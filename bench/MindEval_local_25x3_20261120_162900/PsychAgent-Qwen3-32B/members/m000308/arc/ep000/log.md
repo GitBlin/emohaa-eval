@@ -1,0 +1,20 @@
+- Member's mother had a stroke in March and Member has managed her care since.
+- Member's brother flew in from Denver this weekend, his first visit since March, and Member sent him the full briefing (med schedule, PT appointment) in advance.
+- Member's brother called from the PT waiting room unable to find the medication note, and Member talked him through it while on the Palisades trail with Marcus ahead; the note had been in the tab since March.
+- Member forwarded the updated pill schedule to the father in Denver the night he asked and said nothing back.
+- Member's father called Sunday night cheerful about the visit and called the brother "a real help."
+- Member says the issue is not boundaries; Member's focus is that if something goes wrong the brother will be in Denver.
+- Member's calendar has kept everything from slipping since March but has not bought Member one quiet afternoon.
+- Member no longer leaves the phone in another room and takes the shorter Palisades loop to stay in signal, without having noticed starting.
+- Member rejects task-handoff and automation experiments (pharmacy calls, voice memos, handoff checklists) because the doubt persists regardless of who holds the task.
+- Member pulled up the Saturday calendar entry that night to check the brother had logged it correctly.
+- Member's father texts a photo of the pill organizer every Sunday night so Member can verify it is filled correctly.
+- Member has built the calendar, a conditional-formatting spreadsheet, and two-day-out refill reminders, and says none of it stops the checking.
+- Member states everything works and nothing has gone wrong, and that this is the part that doesn't make sense.
+- Member's mother had the stroke at the kitchen table on a Sunday, and Member has reviewed that week repeatedly finding no sign.
+- Member reads longitudinal recurrence studies at night and has modeled her walking times against published recovery curves, which settles Member about an hour before the worry returns.
+- Member attends improv on Tuesdays and goes for dumplings in Flushing afterward, a few hours not thinking about any of it; the Saturday hike was meant to be the same.
+- Member says the fear is another Sunday at the kitchen table and that no checklist catches that.
+- Member rejected the counsellor's 20-minute do-not-disturb block as the same spreadsheet move pointed the other way, saying Member would watch the clock and think about what is being missed.
+- Member ended the session saying they were done with systems ideas for today.
+- Member will keep thinking about the kitchen table thing. [open]

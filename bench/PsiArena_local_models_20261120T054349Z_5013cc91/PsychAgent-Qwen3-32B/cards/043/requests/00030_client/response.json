@@ -1,0 +1,41 @@
+{
+  "id": "fa94a7c330664d6b88c8f6a27f0f0862",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点闷）就是越躲越远，后来想开口都不知道怎么开口了。反而更孤单。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师一直在引导我思考，没有直接给答案，感觉……有点不习惯，但好像也没那么有压力。他问的这个问题，我之前确实没想过。躲开同桌，短期是让我不用面对那种尴尬，但长期……）嗯……短期是没那么尴尬了，但时间长了，我感觉我们真的越来越远了，而且我自己也更孤单。",
+        "reasoning": "（这个咨询师一直在引导我思考，没有直接给答案，感觉……有点不习惯，但好像也没那么有压力。他问的这个问题，我之前确实没想过。躲开同桌，短期是让我不用面对那种尴尬，但长期……）嗯……短期是没那么尴尬了，但时间长了，我感觉我们真的越来越远了，而且我自己也更孤单。"
+      }
+    }
+  ],
+  "created": 1795155000,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2285,
+    "total_tokens": 2386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

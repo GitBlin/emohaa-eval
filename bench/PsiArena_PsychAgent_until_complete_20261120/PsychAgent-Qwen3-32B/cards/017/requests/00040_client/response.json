@@ -1,0 +1,41 @@
+{
+  "id": "bc7fe902861b43ff9a2926512a4309b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来他得先帮我挡一下……但我又怕他觉得我在逼他站队。也许我可以先私下跟他说清楚，不是让他跟家里吵，只是先别让我一个人扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他让我说具体希望丈夫怎么回应，我脑子里马上浮现过年那桌人，婆婆脸色不好，他低头不说话。让我直接要求他“站出来”，我有点怕，像在逼他。可不说清楚，我又只能自己憋着，胸口发紧。也许可以先从私下商量开始，别一下把话说太重。）",
+        "reasoning": "（他让我说具体希望丈夫怎么回应，我脑子里马上浮现过年那桌人，婆婆脸色不好，他低头不说话。让我直接要求他“站出来”，我有点怕，像在逼他。可不说清楚，我又只能自己憋着，胸口发紧。也许可以先从私下商量开始，别一下把话说太重。）"
+      }
+    }
+  ],
+  "created": 1795154004,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2993,
+    "total_tokens": 3104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

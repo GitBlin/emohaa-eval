@@ -1,0 +1,41 @@
+{
+  "id": "01298d4be3584388aaa43651961fc5bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还在查，医生也没完全说死。我不太想讲那些检查单子，看着就心里发慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了妈妈的具体病情，这让我有点抗拒。我不想把那些冰冷的诊断结果说出来，那会让我更难受。而且家里的事，尤其这种私事，我总觉得不该跟外人讲太多。）\n（但刚才聊到家族病史的时候，咨询师没有急着给建议，也没有说“别想太多”这种话。这让我稍微放松了一点。也许我可以只说个大概，不细说那些检查结果，看看她怎么接。）",
+        "reasoning": "（咨询师问到了妈妈的具体病情，这让我有点抗拒。我不想把那些冰冷的诊断结果说出来，那会让我更难受。而且家里的事，尤其这种私事，我总觉得不该跟外人讲太多。）\n（但刚才聊到家族病史的时候，咨询师没有急着给建议，也没有说“别想太多”这种话。这让我稍微放松了一点。也许我可以只说个大概，不细说那些检查结果，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1795143032,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2107,
+    "total_tokens": 2228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "30672cce6a004a7b8d66935cf4514de5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，给自己一个“暂停观察”的小规则。比如说完那句话，把目光放到自己的手上，数三下，再抬头。你觉得三下够不够？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这个解释我能接受一点。但我可能还是会盯着他的表情看，然后自己脑补一堆。我是不是得给自己定个规则，比如说完就先不观察他？",
+        "reasoning": "这个解释我能接受一点。但我可能还是会盯着他的表情看，然后自己脑补一堆。我是不是得给自己定个规则，比如说完就先不观察他？"
+      }
+    }
+  ],
+  "created": 1795156782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3161,
+    "total_tokens": 3232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

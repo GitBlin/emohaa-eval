@@ -1,0 +1,41 @@
+{
+  "id": "7328ea055c6247f6bf7162730c2a1be7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "日记……（犹豫）我试试吧，不过我怕写着写着又哭了。但是……总得做点什么，对吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写日记记录感受，这让我有点犹豫。写日记会不会让我更沉浸在情绪里？但也许真的能帮我理清思绪，找到平衡点。我确实需要一些具体的方法来控制情绪，不能总是这样失控。）\n（不过写日记听起来有点麻烦，而且我担心自己坚持不下来。但既然咨询师这么建议，也许可以试试看。至少比什么都不做强，我需要改变现状。）",
+        "reasoning": "（咨询师建议我写日记记录感受，这让我有点犹豫。写日记会不会让我更沉浸在情绪里？但也许真的能帮我理清思绪，找到平衡点。我确实需要一些具体的方法来控制情绪，不能总是这样失控。）\n（不过写日记听起来有点麻烦，而且我担心自己坚持不下来。但既然咨询师这么建议，也许可以试试看。至少比什么都不做强，我需要改变现状。）"
+      }
+    }
+  ],
+  "created": 1795155324,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2070,
+    "total_tokens": 2184,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

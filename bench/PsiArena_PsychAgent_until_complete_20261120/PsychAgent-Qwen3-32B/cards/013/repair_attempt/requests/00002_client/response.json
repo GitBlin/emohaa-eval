@@ -1,0 +1,41 @@
+{
+  "id": "4226ba911c0045e7ae70fe24a39a4d97",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像……拔河吧。两边都在使劲，我夹在绳子中间，被扯得很难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们已经到第13轮了，需要按规则只针对一个方面回复。咨询师问的是比喻，父母期待和自己想要是拉扯还是内部冲突。我应该用简短、犹豫、口语化的方式回答，可以选一个比喻。不要太长。",
+        "reasoning": "我们已经到第13轮了，需要按规则只针对一个方面回复。咨询师问的是比喻，父母期待和自己想要是拉扯还是内部冲突。我应该用简短、犹豫、口语化的方式回答，可以选一个比喻。不要太长。"
+      }
+    }
+  ],
+  "created": 1795156067,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2311,
+    "total_tokens": 2386,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

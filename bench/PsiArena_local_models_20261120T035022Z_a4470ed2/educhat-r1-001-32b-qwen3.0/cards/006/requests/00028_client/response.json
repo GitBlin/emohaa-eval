@@ -1,0 +1,41 @@
+{
+  "id": "90cbb16dbbdb4b55a6083255e19d2f73",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像谁……（停顿）可能像我爸吧。他从小就对我要求高，考不好就说我没志气。现在我自己都学会这么骂自己了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问这个“评判者像谁”，让我一下子想到我爸。他总是用那种失望的眼神看我，好像我永远不够好。这种压力从小就有，现在自己都内化了，老觉得自己不够争气。）\n（可我不太想直接说是我爸，感觉像在推卸责任。而且说到家里的事，总有点难开口，毕竟家丑不可外扬。但心里确实堵得慌，那种被评判的感觉太熟悉了。）",
+        "reasoning": "（咨询师问这个“评判者像谁”，让我一下子想到我爸。他总是用那种失望的眼神看我，好像我永远不够好。这种压力从小就有，现在自己都内化了，老觉得自己不够争气。）\n（可我不太想直接说是我爸，感觉像在推卸责任。而且说到家里的事，总有点难开口，毕竟家丑不可外扬。但心里确实堵得慌，那种被评判的感觉太熟悉了。）"
+      }
+    }
+  ],
+  "created": 1795147050,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2140,
+    "total_tokens": 2270,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

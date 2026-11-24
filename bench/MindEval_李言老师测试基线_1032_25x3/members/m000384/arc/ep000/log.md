@@ -1,0 +1,14 @@
+- Member has been dealing with a housing situation for the past few months that got messier this week and is not sleeping well.
+- Member's cousin needed her spare room back early, so Member slept in her car on Wednesday night.
+- Member had been watching a studio that closed the next day, and someone else got it.
+- Member booked a motel on Friday morning at the weekly rate, which was about fifteen dollars more than last time; Member still has to check what is left in her account.
+- Member does not open her banking app because she assumes the balance is whatever she last saw minus fifteen and change, and will look only when she has to.
+- Member says she finds out about money trouble when her card gets declined somewhere.
+- Member lays down around eleven and is awake from about midnight to two, cycling through the day's money, listings, and texts and whether she came off wrong, then does math on four hours of sleep.
+- Member has chest tightness at night, jaw pain in the morning, and neck stiffness from the car seat.
+- Member wants to sleep through the night and wants one evening a week where she actually gets the knitting out instead of just looking at the bag.
+- Member's knitting is a half-finished sock (the second one never started) in the trunk of her car since May.
+- Member used to knit with her head busy counting stitches rather than on money, but had filed knitting under "when my life isn't a mess."
+- Member says people telling her it will all work out makes her want to throw her phone at them, and responded to the "worth a try, not a guarantee" framing.
+- Member said she might try the sock tonight in the motel room and is not sure she will come back to report on it. [open]
+- Member has an early checkout tomorrow.

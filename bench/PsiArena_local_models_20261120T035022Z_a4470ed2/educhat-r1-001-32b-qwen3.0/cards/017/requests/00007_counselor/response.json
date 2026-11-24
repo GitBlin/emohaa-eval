@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-3b8ad5fa8ca54533ab464c1ee978ebdf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你的感受很重要，可以和我具体说说你的症状吗？比如什么时候开始的，持续多久了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到失眠和情绪困扰，可能涉及压力或情绪调节问题。\n【行动策略】：通过具体问题引导来访者描述症状，建立信任基础。\n",
+        "reasoning_content": "\n【诊断分析】：识别到失眠和情绪困扰，可能涉及压力或情绪调节问题。\n【行动策略】：通过具体问题引导来访者描述症状，建立信任基础。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147757,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 476,
+    "total_tokens": 541,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

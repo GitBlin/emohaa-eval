@@ -1,0 +1,41 @@
+{
+  "id": "0c02e85aed0c496e9525a914199ecb81",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "每天练习……会不会太多了？我想先试试那个打招呼的方法，就一次。要是一下子做太多，我怕我又会退缩。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我接下来想怎么调整，还建议每天练习一个新方法。这让我感觉有点压力，好像又要被要求做很多事。其实我现在只想先试试最简单的那个打招呼，不想一下子给自己安排太多任务。毕竟我本来就是个容易紧张的人，要是计划太满反而会更焦虑吧。）\n（而且刚才聊完确实感觉好了一点，至少知道可以试着做点什么。但要是让我每天练新方法，可能又会变成新的负担。还是先专注在一件小事上比较实际，这样就算做不好也不会太打击自己。）",
+        "reasoning": "（咨询师在问我接下来想怎么调整，还建议每天练习一个新方法。这让我感觉有点压力，好像又要被要求做很多事。其实我现在只想先试试最简单的那个打招呼，不想一下子给自己安排太多任务。毕竟我本来就是个容易紧张的人，要是计划太满反而会更焦虑吧。）\n（而且刚才聊完确实感觉好了一点，至少知道可以试着做点什么。但要是让我每天练新方法，可能又会变成新的负担。还是先专注在一件小事上比较实际，这样就算做不好也不会太打击自己。）"
+      }
+    }
+  ],
+  "created": 1795149508,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2843,
+    "total_tokens": 2987,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

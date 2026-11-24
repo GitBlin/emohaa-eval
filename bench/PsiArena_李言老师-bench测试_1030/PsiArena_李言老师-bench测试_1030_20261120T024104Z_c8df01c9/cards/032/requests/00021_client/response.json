@@ -1,0 +1,41 @@
+{
+  "id": "ef4d2f7fdd6e4c1b90b7246c44e28033",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写“我很怕被丢下，但我又不想一直求回应”。写出来有点难堪，不过好像比发给他安全。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先写一句此刻最想留下的感受，这让我有点犹豫。我其实不太确定该写什么，脑子里冒出“我很怕被丢下”这句话，但又觉得写出来太直白。不过既然已经答应试试，还是先写下来吧，至少不用马上发给他。）\n（写这种话让我感到有些不安，因为平时我很少这样直接面对自己的情绪。但也许记录下来能帮我理清思路，不用总是反复猜测他的反应。我打算先写这句，看看之后回看时会不会有不同感受。）",
+        "reasoning": "（咨询师让我先写一句此刻最想留下的感受，这让我有点犹豫。我其实不太确定该写什么，脑子里冒出“我很怕被丢下”这句话，但又觉得写出来太直白。不过既然已经答应试试，还是先写下来吧，至少不用马上发给他。）\n（写这种话让我感到有些不安，因为平时我很少这样直接面对自己的情绪。但也许记录下来能帮我理清思路，不用总是反复猜测他的反应。我打算先写这句，看看之后回看时会不会有不同感受。）"
+      }
+    }
+  ],
+  "created": 1795143308,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2997,
+    "total_tokens": 3142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

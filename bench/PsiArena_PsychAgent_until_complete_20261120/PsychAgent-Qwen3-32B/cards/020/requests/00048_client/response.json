@@ -1,0 +1,41 @@
+{
+  "id": "f180f27eb6a34ea9967f3f6bef3e5d6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）好像比刚来的时候松了一点，心里没那么堵了。虽然事情还在，但至少我知道下一步能做什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下，慢慢开口）好像比刚进来的时候松了一点……心里没那么堵了。虽然那些事还在，但至少我知道下一步能做什么了。",
+        "reasoning": "（停顿了一下，慢慢开口）好像比刚进来的时候松了一点……心里没那么堵了。虽然那些事还在，但至少我知道下一步能做什么了。"
+      }
+    }
+  ],
+  "created": 1795154162,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3526,
+    "total_tokens": 3589,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

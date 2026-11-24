@@ -1,0 +1,41 @@
+{
+  "id": "642a20296eb644b5a365fcb055766726",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "给自己拥抱……这对我来说还挺新鲜的。以前做得好是应该的，哪会想着奖励自己。那我下次交完报告，试试给自己买杯奶茶吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我给自己拥抱，这让我想起小时候很少得到母亲这样的肢体安慰。现在要自己给自己拥抱，感觉有点别扭又有点温暖。）\n（虽然还是不太习惯这么温柔地对待自己，但至少知道了可以这样做。也许可以从一些小事开始练习，比如完成报告后奖励自己。）",
+        "reasoning": "（咨询师在鼓励我给自己拥抱，这让我想起小时候很少得到母亲这样的肢体安慰。现在要自己给自己拥抱，感觉有点别扭又有点温暖。）\n（虽然还是不太习惯这么温柔地对待自己，但至少知道了可以这样做。也许可以从一些小事开始练习，比如完成报告后奖励自己。）"
+      }
+    }
+  ],
+  "created": 1795148489,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2920,
+    "total_tokens": 3020,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

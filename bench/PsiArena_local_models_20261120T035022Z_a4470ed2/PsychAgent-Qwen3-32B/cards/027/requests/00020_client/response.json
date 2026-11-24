@@ -1,0 +1,41 @@
+{
+  "id": "dd77b2d587394945897a3e1ca1db6058",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "笑一笑，装作没事，回头自己消化。……有时候回家就哭，第二天照常上班。好像只有我一个人的时候才敢有情绪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么撑过去……他好像真的在认真听。说到这个，我确实有自己的一套办法，但说出来会不会显得我很假？算了，反正都聊到这儿了。）",
+        "reasoning": "（咨询师在问我怎么撑过去……他好像真的在认真听。说到这个，我确实有自己的一套办法，但说出来会不会显得我很假？算了，反正都聊到这儿了。）"
+      }
+    }
+  ],
+  "created": 1795147513,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 1786,
+    "total_tokens": 1861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

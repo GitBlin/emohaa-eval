@@ -1,0 +1,41 @@
+{
+  "id": "e214a9c487cc440a862c5b795015e6f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“我听到你的意思，同时我在想……”这句吧。不过在家里说，我估计会紧张得说不完整。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点）嗯，呼吸吧，那个不太明显，别人看不出来。我可以先试试这个。",
+        "reasoning": "（稍微放松了一点）嗯，呼吸吧，那个不太明显，别人看不出来。我可以先试试这个。"
+      }
+    }
+  ],
+  "created": 1795147604,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 2722,
+    "total_tokens": 2772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dd8646dea149411faa521b8a12ecc8f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先跟我妈……但又有点怕。也许先从周末安排这种小事说，不一下说太重。可我一想到她可能不高兴，就又犹豫了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先从一件小事开始练习表达，这让我想到可以试着跟妈妈沟通周末的安排。但马上又担心她会不会觉得我太计较，甚至生气。也许可以先从更小的事情开始，比如提前告诉她我的计划，而不是直接拒绝她。）\n（不过，我确实需要练习表达自己的感受。虽然害怕冲突，但一直这样下去也不是办法。也许可以试着用“我”开头的句子，而不是直接说“不”，这样可能不会让她觉得我在对抗。）",
+        "reasoning": "（咨询师建议我先从一件小事开始练习表达，这让我想到可以试着跟妈妈沟通周末的安排。但马上又担心她会不会觉得我太计较，甚至生气。也许可以先从更小的事情开始，比如提前告诉她我的计划，而不是直接拒绝她。）\n（不过，我确实需要练习表达自己的感受。虽然害怕冲突，但一直这样下去也不是办法。也许可以试着用“我”开头的句子，而不是直接说“不”，这样可能不会让她觉得我在对抗。）"
+      }
+    }
+  ],
+  "created": 1795143130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2680,
+    "total_tokens": 2818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

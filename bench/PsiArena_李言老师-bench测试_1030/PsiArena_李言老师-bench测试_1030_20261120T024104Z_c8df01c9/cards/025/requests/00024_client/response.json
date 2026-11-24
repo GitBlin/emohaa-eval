@@ -1,0 +1,41 @@
+{
+  "id": "80c2bf9fe1e243ffb31fb55fd9bee37b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她哪怕说一句“你先缓缓，我来抱”，别让我站在那儿猜。可能下次我得自己先开这个口，不然总在心里绕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望婆婆怎么回应，这让我一下子有点说不清。我其实不是非要她做什么，就是不想被那种沉默隔开。可能我真正想要的，是有人能先接住我的狼狈，而不是让我觉得自己像个外人。）\n（可这种话平时很难讲出口，说出来好像我在怪婆婆。也许下次我能试着先开口，哪怕只是说一句“我刚才有点急”。这样至少不会一直猜她是不是在怪我。）",
+        "reasoning": "（她问我希望婆婆怎么回应，这让我一下子有点说不清。我其实不是非要她做什么，就是不想被那种沉默隔开。可能我真正想要的，是有人能先接住我的狼狈，而不是让我觉得自己像个外人。）\n（可这种话平时很难讲出口，说出来好像我在怪婆婆。也许下次我能试着先开口，哪怕只是说一句“我刚才有点急”。这样至少不会一直猜她是不是在怪我。）"
+      }
+    }
+  ],
+  "created": 1795143136,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3289,
+    "total_tokens": 3414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6d336cc6407a443586e1f33d01d7fd3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想被听见吧……虽然说出来有点难。其实我从小就知道，在我家，说什么都得先想想我妈会怎么反应。你懂那种感觉吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师好像真的在听我说，没有急着给建议，也没评判我。刚才那句“连自己的声音都听不清”让我心里有点酸，好像被看穿了。）\n（我其实不想再一个人憋着了。但真要开口说家里那些事，又觉得很难启齿。也许可以先从最表面的说起，试探一下她能不能接住。）",
+        "reasoning": "（这位咨询师好像真的在听我说，没有急着给建议，也没评判我。刚才那句“连自己的声音都听不清”让我心里有点酸，好像被看穿了。）\n（我其实不想再一个人憋着了。但真要开口说家里那些事，又觉得很难启齿。也许可以先从最表面的说起，试探一下她能不能接住。）"
+      }
+    }
+  ],
+  "created": 1795143050,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1569,
+    "total_tokens": 1680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

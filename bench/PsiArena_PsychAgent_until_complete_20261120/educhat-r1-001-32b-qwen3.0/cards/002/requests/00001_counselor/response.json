@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-db59e37bb86d4accb0c2981529407a56",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，看到你愿意敞开心扉，这本身就是勇气的体现。我们可以从你最近感受到的困扰开始聊起，比如‘社交场合中感到焦虑’这样的描述，能具体说说吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者主动寻求帮助，可能存在社交焦虑或自我认知困扰。\n【行动策略】：建立初步信任关系，通过开放式提问了解核心问题。\n",
+        "reasoning_content": "\n【诊断分析】：来访者主动寻求帮助，可能存在社交焦虑或自我认知困扰。\n【行动策略】：建立初步信任关系，通过开放式提问了解核心问题。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153430,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 196,
+    "total_tokens": 279,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

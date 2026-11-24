@@ -1,0 +1,41 @@
+{
+  "id": "6c82ed77d11742099a149d9da5374f84",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，就这样。现在试着在那个场景里加一句暂停的话，比如“我先不急着证明什么”，你愿意换个自己的说法试试吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微坐直一点，声音比刚才稳）好……“我坐在工位上，手机扣在桌边，胸口发闷，脑子里一直在转：他是不是不想理我了。”这样说可以吗？",
+        "reasoning": "（稍微坐直一点，声音比刚才稳）好……“我坐在工位上，手机扣在桌边，胸口发闷，脑子里一直在转：他是不是不想理我了。”这样说可以吗？"
+      }
+    }
+  ],
+  "created": 1795153627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2410,
+    "total_tokens": 2485,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

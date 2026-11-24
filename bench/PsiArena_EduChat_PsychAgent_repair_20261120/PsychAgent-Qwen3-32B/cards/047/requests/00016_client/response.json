@@ -1,0 +1,41 @@
+{
+  "id": "c7c98d252f204f3880b43e540049bff6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听到你没觉得我脆弱，我心里松了一点……可又有点想哭。我好像一直在等别人告诉我，我的感觉是正常的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接评价我脆弱，这让我稍微放松了一点。但提到“感受如何被理解与照顾”，心里又有点发酸。我想到小时候那种矛盾的感觉，好像表达也不是，不表达也不是。也许可以试着说一点更深的东西，关于我为什么总是这么容易哭。）",
+        "reasoning": "（咨询师没有直接评价我脆弱，这让我稍微放松了一点。但提到“感受如何被理解与照顾”，心里又有点发酸。我想到小时候那种矛盾的感觉，好像表达也不是，不表达也不是。也许可以试着说一点更深的东西，关于我为什么总是这么容易哭。）"
+      }
+    }
+  ],
+  "created": 1795155166,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1590,
+    "total_tokens": 1682,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

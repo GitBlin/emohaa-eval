@@ -1,0 +1,41 @@
+{
+  "id": "b123885775644d46af698ccc73734a0e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，听起来好像……没有我想的那么正式。那如果我有时候不想说了，或者觉得不舒服，真的可以随时停下来吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说这里安全、没有固定剧本，还会注意我的感受，听起来还算温和。可我还是没办法一下子放松下来，毕竟第一次见面，谁知道对方会不会也像别人那样评判我。）\n（我其实更想知道，如果我说到一半不想说了，或者觉得不舒服，是不是真的可以停下来。这种确认对我来说很重要，不然我不敢轻易开口。）",
+        "reasoning": "（咨询师说这里安全、没有固定剧本，还会注意我的感受，听起来还算温和。可我还是没办法一下子放松下来，毕竟第一次见面，谁知道对方会不会也像别人那样评判我。）\n（我其实更想知道，如果我说到一半不想说了，或者觉得不舒服，是不是真的可以停下来。这种确认对我来说很重要，不然我不敢轻易开口。）"
+      }
+    }
+  ],
+  "created": 1795154872,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1042,
+    "total_tokens": 1144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

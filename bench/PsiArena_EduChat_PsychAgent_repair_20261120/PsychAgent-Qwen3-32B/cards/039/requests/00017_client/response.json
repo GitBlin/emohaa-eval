@@ -1,0 +1,41 @@
+{
+  "id": "b29e55301443465badad2603f355faf4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（缓慢呼吸）……好像稍微松了一点点。胃那里还是有点紧，但没那么绷了。我好像很少这样停下来注意自己的身体。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我做呼吸练习……可能想让我先放松一点吧。我照做了，但胃还是有点紧，不过好像没刚才那么绷了。这种身体上的变化，让我觉得可以试着说一点更深的东西了。他好像一直在关注我的感受，而不是急着要我讲什么大秘密，这让我稍微安心了些。）",
+        "reasoning": "（咨询师让我做呼吸练习……可能想让我先放松一点吧。我照做了，但胃还是有点紧，不过好像没刚才那么绷了。这种身体上的变化，让我觉得可以试着说一点更深的东西了。他好像一直在关注我的感受，而不是急着要我讲什么大秘密，这让我稍微安心了些。）"
+      }
+    }
+  ],
+  "created": 1795154892,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1697,
+    "total_tokens": 1799,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

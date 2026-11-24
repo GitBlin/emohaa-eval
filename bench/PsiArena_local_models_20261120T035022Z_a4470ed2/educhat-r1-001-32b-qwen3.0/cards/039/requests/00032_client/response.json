@@ -1,0 +1,41 @@
+{
+  "id": "eaeee3ddd481416fb07728209e1fb154",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）我不太会说那些话，有点不好意思。就是平时多照顾他一点，记得他爱吃什么，累的时候陪着他。（轻声）这样算吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是怎么表达感情的，这让我想到平时和他相处时的样子。我确实很少直接说那些话，总觉得说出来太肉麻了，而且...可能也是怕说得太多反而显得不真实。）\n（不过仔细想想，我好像确实更习惯用行动来表达。记得他爱吃什么，在他累的时候照顾他，这些小事我都很上心。但这样真的够吗？他会不会觉得我不够坦诚？）",
+        "reasoning": "（咨询师问我是怎么表达感情的，这让我想到平时和他相处时的样子。我确实很少直接说那些话，总觉得说出来太肉麻了，而且...可能也是怕说得太多反而显得不真实。）\n（不过仔细想想，我好像确实更习惯用行动来表达。记得他爱吃什么，在他累的时候照顾他，这些小事我都很上心。但这样真的够吗？他会不会觉得我不够坦诚？）"
+      }
+    }
+  ],
+  "created": 1795149841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2326,
+    "total_tokens": 2454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

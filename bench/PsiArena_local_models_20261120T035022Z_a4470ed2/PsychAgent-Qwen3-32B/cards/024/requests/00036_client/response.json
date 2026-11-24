@@ -1,0 +1,41 @@
+{
+  "id": "175216f633fe49ed875e2efe197b7c4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是的，这样就不像顶嘴，更像是在商量。我们可以先选一个低风险的时机练一练，比如饭后一起收拾的时候，你觉得呢？<第19轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，吸了吸鼻子）我需要先说说我的想法，然后……我们一起商量怎么对孩子好。这样说，好像没那么像顶嘴了。",
+        "reasoning": "（停顿，吸了吸鼻子）我需要先说说我的想法，然后……我们一起商量怎么对孩子好。这样说，好像没那么像顶嘴了。"
+      }
+    }
+  ],
+  "created": 1795147372,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2659,
+    "total_tokens": 2754,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

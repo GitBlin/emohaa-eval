@@ -1,0 +1,41 @@
+{
+  "id": "be4e7ac271a947baa09419202cabdc86",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我愿意试试……先找安全的地方待一会儿，喝口水，再决定下一步。今天聊完，我好像没那么怕自己哭了，但还需要慢慢练。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才给了我很具体的步骤，让我觉得不是只能硬撑。可我心里还是有点不踏实，怕自己真到那时候又做不到。最后这轮我想把接下来能做的事说清楚，也确认一下还能继续谈。）",
+        "reasoning": "（咨询师刚才给了我很具体的步骤，让我觉得不是只能硬撑。可我心里还是有点不踏实，怕自己真到那时候又做不到。最后这轮我想把接下来能做的事说清楚，也确认一下还能继续谈。）"
+      }
+    }
+  ],
+  "created": 1795155216,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3443,
+    "total_tokens": 3527,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

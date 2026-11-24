@@ -1,0 +1,41 @@
+{
+  "id": "9be96bbf7d5942f5adfdfc4670f66037",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一个词啊……可能是“累”吧。不是身体累，是那种一直跟自己较劲的累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用一个词形容那份难过……我脑子里乱糟糟的，好像有很多词，可又觉得没有一个说得清。这种问法让我有点烦，好像非要我把一团东西硬塞进一个格子里。）\n（但也许她不是逼我，只是想帮我理清楚。我说不好，可能“累”最接近吧，不光是身体累，是心里一直绷着、来回折腾的那种累。）",
+        "reasoning": "（咨询师让我用一个词形容那份难过……我脑子里乱糟糟的，好像有很多词，可又觉得没有一个说得清。这种问法让我有点烦，好像非要我把一团东西硬塞进一个格子里。）\n（但也许她不是逼我，只是想帮我理清楚。我说不好，可能“累”最接近吧，不光是身体累，是心里一直绷着、来回折腾的那种累。）"
+      }
+    }
+  ],
+  "created": 1795154554,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3201,
+    "total_tokens": 3313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

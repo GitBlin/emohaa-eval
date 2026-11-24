@@ -1,0 +1,41 @@
+{
+  "id": "df08d7af4878455282bb3c5b90ccb102",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱眉）好像就是……别人夸我的时候？或者怕别人觉得我不好相处的时候。我就会赶紧说“没有没有，我做得不好”，先把自己压下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户正在被问触发点，需要具体化但保持自然口语，简短2-3句）",
+        "reasoning": "（用户正在被问触发点，需要具体化但保持自然口语，简短2-3句）"
+      }
+    }
+  ],
+  "created": 1795147250,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2091,
+    "total_tokens": 2151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

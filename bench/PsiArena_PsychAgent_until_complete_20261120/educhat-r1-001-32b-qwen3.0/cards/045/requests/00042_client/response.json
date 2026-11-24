@@ -1,0 +1,41 @@
+{
+  "id": "bbd37e118e26476e91badd45ed694106",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有些烦躁）您刚才问过了……影响很多，工作、吃饭、睡觉都受影响。（顿了顿，声音低下来）对不起，我不是故意要顶撞您。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又问我压力对生活的影响，可刚才我已经说过吃饭没胃口、瘦了、总觉得累了。他好像没在认真听我说话，或者只是在机械地重复问题。这让我有点烦躁，也让我怀疑他是不是真的理解我的处境。）\n（不过转念一想，也许他是在引导我往更具体的方向想。我确实还没说过工作上的影响，比如和同事的关系、上课的状态。但每次都要重复这些，让我觉得有点累，好像我的痛苦被拆成一个个问题来回答。）",
+        "reasoning": "（咨询师又问我压力对生活的影响，可刚才我已经说过吃饭没胃口、瘦了、总觉得累了。他好像没在认真听我说话，或者只是在机械地重复问题。这让我有点烦躁，也让我怀疑他是不是真的理解我的处境。）\n（不过转念一想，也许他是在引导我往更具体的方向想。我确实还没说过工作上的影响，比如和同事的关系、上课的状态。但每次都要重复这些，让我觉得有点累，好像我的痛苦被拆成一个个问题来回答。）"
+      }
+    }
+  ],
+  "created": 1795155245,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2632,
+    "total_tokens": 2779,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

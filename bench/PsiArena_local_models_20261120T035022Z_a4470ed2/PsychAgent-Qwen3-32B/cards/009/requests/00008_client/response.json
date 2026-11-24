@@ -1,0 +1,41 @@
+{
+  "id": "96f3b9e34dd2431a81084f8d9642d424",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……跟同事有点不愉快吧。其实也不是什么大事，但我一直放不下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我说最近一周最难受的事……我其实有点犹豫，不知道要不要把拒绝同事那件事讲出来。万一她听了也觉得我太冷漠怎么办？可要是不说，好像又没法继续谈下去。）\n（还是先含糊一点吧，只说和同事有点不愉快，看看她怎么反应。这样既不算完全回避，也不会一下子暴露太多自己的内疚和焦虑。）",
+        "reasoning": "（咨询师让我说最近一周最难受的事……我其实有点犹豫，不知道要不要把拒绝同事那件事讲出来。万一她听了也觉得我太冷漠怎么办？可要是不说，好像又没法继续谈下去。）\n（还是先含糊一点吧，只说和同事有点不愉快，看看她怎么反应。这样既不算完全回避，也不会一下子暴露太多自己的内疚和焦虑。）"
+      }
+    }
+  ],
+  "created": 1795146850,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1157,
+    "total_tokens": 1260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

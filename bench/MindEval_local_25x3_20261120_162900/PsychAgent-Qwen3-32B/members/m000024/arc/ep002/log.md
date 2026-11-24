@@ -1,0 +1,30 @@
+- Member's grandmother used to watch over their shoulder while they painted; member links this to why painting has stalled.
+- Member has a twelve-week exam study plan with a chart, but the chart shows zero hours for six weeks — planning is not the problem, follow-through is.
+- Member gets watercolours out on a Saturday and then ends up scrubbing the stove instead — not tired, just finds something else to do.
+- Member declined body-based emotional work, wanting something concrete to try tomorrow instead.
+- Member would count twenty minutes of paint on paper as a win but doubts it would count because it "would look like nothing".
+- Member anticipates deciding they need a real stretch of time first as the obstacle to painting.
+- Member's mother asked for a picture of the member's abuela for the memorial table on Sunday, and member has not sent it.
+- The photos are the last ones Member ever took of her — her hands in the dough, the yellow bowl — never seen by her, sitting on the laptop since last fall.
+- Member opened the photo folder Sunday night and shut the laptop without picking one; does not want the photo to be the first test.
+- Member rejects a study buddy or accountability partner because it would mean telling someone — has not told anyone, including sister Daniela, who gets "work's busy".
+- Member agreed to a scheduled 10-minute exam session at 9:00 AM tomorrow at the kitchen table, phone in another room, since a calendar time doesn't depend on being in the mood.
+- Member asked the counsellor not to offer "if not, that's okay too" — it's the exact sentence Member uses to let themselves off, and asked to be told directly to do it.
+- Member agreed to a 10-minute no-pressure sketch with materials if they get to the paper later, but not both in one morning.
+- Member did the 10-minute exam session twice, then never opened the study chart again, and questions whether that counts or will fold like prior attempts.
+- Member's mother sorted the memorial picture without the member, so the photo task is done and nothing remains to do there.
+- Member deliberately left the sketch pad on the kitchen table and then cleaned a cupboard instead of using it.
+- Member rejects substituting photo-album time for the pad, since the photo task is settled and it reads as the easier version.
+- Member rejects moving the pad out of sight after 9 AM as a pass for not doing it.
+- Member has three phone reminders they already ignore, so reminders are not a workable prompt.
+- Member says "showing up" framing does not change that the page will look like nothing afterward, and that is the part that stops them.
+- Member rejects shrinking the task to one shape or one colour, since smaller scope makes the result smaller rather than making starting more likely.
+- Member did the 10-minute sketch at 9:00 AM, spent it mostly looking at the blank page, and put the pad away; it felt like nothing.
+- Member moved the pad on top of the fridge while clearing space for chairs on Sunday and leaves it there deliberately so as not to see that ten minutes produced nothing to show for it.
+- Member says they will agree to a plan in session and then find a reason tomorrow, as with the study chart, so repeating the same 10-minute test does not move them.
+- Member rejects one line on the page as a smaller version of the same result, and rejects an object reference because the object is not what is in the way.
+- Member rejects using the abuela photo as a painting reference, refusing to paint her hands from a picture as an exercise.
+- Member said "yes" when mother asked if they were sleeping during dishes, then switched to cousin Nestor's flight; thinks mother was asking about abuela without asking, arranging memorial-mass flowers all week and looking for something else to worry about.
+- Member will not tell mother the real thing about the paintings because it would give her one more thing to carry while she does the flowers.
+- Member asked again, after the counsellor used it, never to say "that's okay" or offer an out; when talking themselves out of it they want a straight "you're doing it now," and rejects "it's not nothing" because ten minutes on a blank page is nothing.
+- Member committed to taking the pad down off the fridge tonight rather than deciding tomorrow morning, then doing 10 minutes at 9:00 AM with phone in another room cued only by "You're doing it now." [open]

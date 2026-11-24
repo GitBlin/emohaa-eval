@@ -1,0 +1,41 @@
+{
+  "id": "29c1575805a5441489cb3836d1d07de3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "空吧……心里空空的，胸口还有点发闷。说不上来，就是很不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到那个瞬间的感受……我心里一紧，脑子里冒出来的是“空”。好像胸口那里真的会发闷，像被什么东西压着，呼吸都不太顺。）",
+        "reasoning": "（她问到那个瞬间的感受……我心里一紧，脑子里冒出来的是“空”。好像胸口那里真的会发闷，像被什么东西压着，呼吸都不太顺。）"
+      }
+    }
+  ],
+  "created": 1795146823,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2103,
+    "total_tokens": 2162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

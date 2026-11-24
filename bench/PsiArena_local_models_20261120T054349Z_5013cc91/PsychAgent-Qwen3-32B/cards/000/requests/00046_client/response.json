@@ -1,0 +1,41 @@
+{
+  "id": "b91a8c55f9bc48feb21ad1f6592db7a6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "摸一下手腕……这个别人看不出来，我比较能接受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问安全信号……我其实不太想搞得太复杂。也许一个很小的动作就行。）嗯……摸一下手腕吧，别人也注意不到。",
+        "reasoning": "（她问安全信号……我其实不太想搞得太复杂。也许一个很小的动作就行。）嗯……摸一下手腕吧，别人也注意不到。"
+      }
+    }
+  ],
+  "created": 1795153485,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 3110,
+    "total_tokens": 3158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

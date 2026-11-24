@@ -1,0 +1,30 @@
+- The card says the sister misses the table, not that she misses Member; Member read it twice and that word is what stuck.
+- Member's first thought was that someone told the sister to write the card and it was not her own idea.
+- Member has told no one about the card and no one in the family is calling her.
+- Member fears that if she calls her sister and the sister says one wrong thing she will not be able to hold it, so she keeps not calling.
+- Member preferred a text over a call so she can avoid hearing the sister's voice and put the phone in another room if needed.
+- Member rejected asking the sister if she is okay as the message content; what she would say is that she got the card and has been thinking about it.
+- Member does not know whether she would send the text tonight or let it sit on her phone as the card sat on her counter.
+- Member wrote the text down last night; it is on the back of a bulletin on the table and reads "Renee, I got your card. I've been thinking about it," and Member has not sent it or decided whether to.
+- Member finds reading the text aloud feels silly and describes the handwriting as looking like a child wrote it.
+- Member refuses to add feeling language such as "I wish you'd said more" to the text because the sister would read it as Member being ugly about the card and that is all anybody would hear.
+- Member says the words themselves are fine; the obstacle is what follows, because the sister will treat the text as everything being fine and expect Member back at the table Sunday sitting through it.
+- Member refuses to send phrasing like "I'm working on finding my own peace" or "I'll process this and decide when I'm ready" because Member does not talk that way and the sister would know somebody else wrote it.
+- Member fears sending first means being seen as the one who broke, since Member was the one who walked out.
+- Member keeps picturing the sister replying only "ok" and sitting on the couch rereading it.
+- Member rejects a second text asking for more time because that would leave two texts to manage and mean managing the sister's feelings twice.
+- Member reports nine hours spent and only moving the card two feet across the table.
+- Member objects that every time she says she is stuck the counsellor supplies another sentence to send the sister, and Member does not want to send a card back.
+- Member says being told her silence is good does not get her anywhere and asks for a plain answer on whether to send the text.
+- Member rejects journaling and a boundary ritual such as lighting a candle, framing the question as a plain one about the text.
+- Member names the core grievance: the card says the sister misses the table, not Member, and Member has waited two months to hear her own name in it.
+- Member does not want her silence, saying two months of it has left her at Kroger talking to the cashier like she is a friend.
+- Miss Odessa calls Member every Wednesday about the shopping list and has never once asked what happened; Member considers picking up this Wednesday and just talking about the list.
+- Member notes Wednesday is five days out and it is Saturday, with the card face down and the text on the bulletin, and she came to the session about that morning.
+- Member reports nothing has changed over the session — same morning, card still face down — and ends the session by going to look at the garden.
+- Member told Miss Odessa she would work the back table at the pantry on Saturday and is already tied in knots four days out, saying she agreed before thinking it through.
+- Member's Saturday fear is not the work but being asked "where you been all this time" by pantry people, and she settled on "Focusing on myself, it's been a process, how you doing" as sayable, rejecting "catching up on some things" as too thin since half the pantry knows she lost the job in April, and rejecting "it's been a journey" as language nobody at that church uses.
+- Member sat in the church parking lot through an entire Thursday choir rehearsal with the engine off and never went in, and rejected the counsellor calling that courage, saying she could not make herself get out of the car.
+- Member fears that if she shows up Saturday the whole pantry will know by Sunday, since Miss Odessa says back table but there is no back table and everyone walks through the same room.
+- Member accepted a plan to sit in the car ten minutes before pulling out after Saturday, and rejected being called a hero for bagging groceries and rejected the rest of the counsellor's post-Saturday framing.
+- Member has walked past the bulletin with the text on it all weekend without sending it.

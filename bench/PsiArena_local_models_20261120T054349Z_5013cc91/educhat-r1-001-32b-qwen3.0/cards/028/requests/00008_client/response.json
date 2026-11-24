@@ -1,0 +1,41 @@
+{
+  "id": "4aa3e111a3614199abf6ecc4af776e0f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "轻松的时候……（停顿）上周午休时我一个人在楼下走了走，那会儿没人找我，好像稍微松了口气。但也就那么一会儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我最近一次感到轻松是什么时候……这个问题让我有点不知所措。我确实很久没有真正放松过了，但直接说出来会不会显得太消极？而且我还在试探阶段，不确定该透露多少。）\n（想到上周那个短暂的时刻，虽然只是片刻的放松，但至少是个真实的例子。不过说完之后又担心咨询师会不会觉得我太依赖外部环境来获得轻松感……这种矛盾的感觉让我说话有点犹豫。）",
+        "reasoning": "（心理咨询师在问我最近一次感到轻松是什么时候……这个问题让我有点不知所措。我确实很久没有真正放松过了，但直接说出来会不会显得太消极？而且我还在试探阶段，不确定该透露多少。）\n（想到上周那个短暂的时刻，虽然只是片刻的放松，但至少是个真实的例子。不过说完之后又担心咨询师会不会觉得我太依赖外部环境来获得轻松感……这种矛盾的感觉让我说话有点犹豫。）"
+      }
+    }
+  ],
+  "created": 1795154517,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1109,
+    "total_tokens": 1231,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

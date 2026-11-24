@@ -1,0 +1,26 @@
+- Member had a falling-out with her sister Renee a couple months ago and has had a hard time getting herself right since.
+- Renee sent Member a handwritten card apologizing about the birthday dinner and saying she misses the table.
+- Member was stung that Renee wrote she misses the table rather than her, reading it as missing the dinner getting made, not the one making it.
+- The table is Member's kitchen: thirty years of Sunday dinners of greens and chicken for whoever shows up, a ritual she has run since she was a girl in her mother's house.
+- At Renee's birthday dinner, Renee said in front of the whole table that the cousins ought to take turns hosting, which Member heard as Renee saying she can't handle it anymore and needs looking after.
+- Member responded by asking Renee how many dinners she has cooked for the family in thirty years, then left before the cake was cut.
+- Member wants to call Renee but fears one wrong word will leave her unable to hold it together and crying into the phone.
+- Member defines holding it together as getting through the call sounding like herself, and would rather Renee never hear her break down.
+- Member feels steady after an hour in the yard pulling weeds with the gospel station on, but hasn't touched the beds since July and they're overgrown.
+- Member took her coffee out to the garden this week, stood looking at the beds, and went back inside because it looked like too much work.
+- Member declined to explore the feelings under the garden avoidance and asked to set the garden aside for now.
+- Member plans to text Renee tonight saying only that she got the card, with no thanks for an apology she is still chewing on.
+- Member chose to send the text at night so she'll be going to bed afterward and can't sit up waiting on the reply.
+- Member plans to leave any reply unread until she is up, dressed, and has had her coffee, rather than reading Renee's words half asleep in her robe.
+- Member expects to feel nervous walking past the phone while waiting and fears feeling like a fool if Renee doesn't answer at all.
+- Member reads a silent reply as meaning Renee is still put out with her and she stuck her neck out for nothing, not as a judgment on her worth.
+- Member has nothing scheduled on Saturdays and will need something to do and someone to talk to besides her own four walls if Renee stays silent.
+- Miss Odessa calls Member on Wednesdays about the shopping list.
+- Member's niece Camille sends her a picture from the choir stand every Sunday, and Member has replied only with a thumbs up for months.
+- Member realized answering Camille for real is harder than texting Renee because with Renee she has a grievance to stand behind, while Camille has done nothing and leaves her no armor.
+- Member plans to ask Camille about school so Camille can carry the conversation and Member won't have to say anything about herself.
+- Member wants to hear a young voice in her quiet house and would welcome Camille talking her ear off.
+- Member is curious whether Camille is still singing in choir and considers Camille's voice better than her own at that age.
+- Member plans to ask Camille plainly if she is still singing in choir and tell her she wants to hear her sing sometime.
+- [open] Member intends to text Renee tonight that she got the card, then leave any reply until she is up, dressed, and has had her coffee.
+- [open] Member intends to send Camille a real sentence asking about school and choir instead of a thumbs up.

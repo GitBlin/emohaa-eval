@@ -1,0 +1,41 @@
+{
+  "id": "834a57ae09dc45ba80c591686d279cec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸妈总说要多主动联系别人，逢年过节都要发消息问候，说这样关系才不会断。嗯……现在想想，我好像一直在做他们说的这些事，就是怕别人觉得我不够重视他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起家里人怎么让我多和人打交道的……看来是想了解我成长背景对现在的影响。虽然之前有点防备，但聊到这儿好像慢慢能说一些了。）\n（我想到小时候爸妈总强调要主动联系别人，现在想想，那种“多走动”的教导好像一直留在我心里。每次等消息的时候，那种怕让人失望的感觉，可能就是从那时候来的吧。）",
+        "reasoning": "（咨询师问起家里人怎么让我多和人打交道的……看来是想了解我成长背景对现在的影响。虽然之前有点防备，但聊到这儿好像慢慢能说一些了。）\n（我想到小时候爸妈总强调要主动联系别人，现在想想，那种“多走动”的教导好像一直留在我心里。每次等消息的时候，那种怕让人失望的感觉，可能就是从那时候来的吧。）"
+      }
+    }
+  ],
+  "created": 1795146969,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1498,
+    "total_tokens": 1631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

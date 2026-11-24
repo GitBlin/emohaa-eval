@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-2f62a91c5d354764bc7fda1daceeb53d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被批评后我们会放大问题，可以试着用“事实-感受-认知”框架分析：当时领导具体说了什么？你的感受如何？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：工作事件触发负面认知循环\n【行动策略】：运用认知重构技术纠正自我评价偏差\n",
+        "reasoning_content": "\n【诊断分析】：工作事件触发负面认知循环\n【行动策略】：运用认知重构技术纠正自我评价偏差\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148327,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 709,
+    "total_tokens": 769,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

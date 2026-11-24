@@ -1,0 +1,41 @@
+{
+  "id": "f13f10269046434484ebcf86b49b7346",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……你会把我们说的话告诉别人吗？我就是有点不放心。还有，你到底能帮我什么呢，我自己都说不清楚我怎么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他看起来挺温和的，说不用一下子说太多。但我还是有点不放心，得先搞清楚他会不会把我的事说出去，还有他到底能帮我什么。毕竟我连自己为什么这么难受都说不清楚，万一他追问下去我反而更乱。先试探一下他的底线，看看他值不值得信任。）",
+        "reasoning": "（他看起来挺温和的，说不用一下子说太多。但我还是有点不放心，得先搞清楚他会不会把我的事说出去，还有他到底能帮我什么。毕竟我连自己为什么这么难受都说不清楚，万一他追问下去我反而更乱。先试探一下他的底线，看看他值不值得信任。）"
+      }
+    }
+  ],
+  "created": 1795147670,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1002,
+    "total_tokens": 1100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

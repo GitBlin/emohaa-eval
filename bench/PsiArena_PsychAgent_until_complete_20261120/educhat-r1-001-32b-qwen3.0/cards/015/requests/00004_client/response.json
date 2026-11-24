@@ -1,0 +1,41 @@
+{
+  "id": "5cf749e0ca5a41fcb096254ab016fcc2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……朋友聊天吗？可我总觉得有些话不太好说出口。我就是最近心里很乱，也说不上来到底怎么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说像和朋友聊天，但我其实不太确定能不能真的信任她。毕竟第一次见面，总得先试探一下她到底会怎么处理我的问题。而且我最近确实很乱，但一下子全说出来又觉得不安全。）\n（我想先模糊地提一下我的状态，看看她的反应。如果她只是随便问问，那我可能就不想继续深入了。毕竟有些事说出来可能会被评判，我需要确认她是不是真的能理解。）",
+        "reasoning": "（咨询师说像和朋友聊天，但我其实不太确定能不能真的信任她。毕竟第一次见面，总得先试探一下她到底会怎么处理我的问题。而且我最近确实很乱，但一下子全说出来又觉得不安全。）\n（我想先模糊地提一下我的状态，看看她的反应。如果她只是随便问问，那我可能就不想继续深入了。毕竟有些事说出来可能会被评判，我需要确认她是不是真的能理解。）"
+      }
+    }
+  ],
+  "created": 1795153946,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 942,
+    "total_tokens": 1063,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

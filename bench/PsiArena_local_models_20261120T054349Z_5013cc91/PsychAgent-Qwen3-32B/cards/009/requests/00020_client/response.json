@@ -1,0 +1,41 @@
+{
+  "id": "64a7595d5cb74c85b8b6ac03439fb400",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这问题……我第一反应还是先顾“懂事”，但说完又觉得心里挺酸的。好像“委屈”那部分我一直没怎么管过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者被问到先照顾哪部分，犹豫，觉得这个问题很难选，习惯性想说懂事，但心里委屈又冒出来，语气有点低和纠结。）",
+        "reasoning": "（来访者被问到先照顾哪部分，犹豫，觉得这个问题很难选，习惯性想说懂事，但心里委屈又冒出来，语气有点低和纠结。）"
+      }
+    }
+  ],
+  "created": 1795153786,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 1954,
+    "total_tokens": 2023,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

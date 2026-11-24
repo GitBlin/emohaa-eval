@@ -1,0 +1,41 @@
+{
+  "id": "a4326cb314f3492f91cb5cb03e20c3c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也分不太清……有时候晚上睡不着，脑子一直在转，白天又像没力气一样。你会不会觉得我这样有点夸张？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体累还是心里更乱，这让我有点不知道该怎么回答。我确实说不清楚，好像两者都有，但又不想这么快就承认自己这么脆弱。也许我可以稍微表达一下自己的混乱，但不用太深入。）\n（感觉咨询师的态度还算温和，没有急着追问细节。不过我还是有点防备，不想一下子说太多。而且我确实经常失眠，也许可以提一下这个，看看咨询师会怎么反应。）",
+        "reasoning": "（咨询师在问我身体累还是心里更乱，这让我有点不知道该怎么回答。我确实说不清楚，好像两者都有，但又不想这么快就承认自己这么脆弱。也许我可以稍微表达一下自己的混乱，但不用太深入。）\n（感觉咨询师的态度还算温和，没有急着追问细节。不过我还是有点防备，不想一下子说太多。而且我确实经常失眠，也许可以提一下这个，看看咨询师会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795143222,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1192,
+    "total_tokens": 1314,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

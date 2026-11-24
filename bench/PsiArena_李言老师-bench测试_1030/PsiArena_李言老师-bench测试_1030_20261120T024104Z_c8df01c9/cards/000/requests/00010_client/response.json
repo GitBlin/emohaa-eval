@@ -1,0 +1,41 @@
+{
+  "id": "9f1e9ace08b14545805f824d58eab1f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最常冒出来的……大概是“我是不是又让人不舒服了”。在我家，做错一点小事都会被说很久，所以我好像总在提前检查自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说“别人天生就会”，我立刻想到小时候家里那种气氛。父母总说做事要稳妥，要让人挑不出毛病，可他们很少问我心里怎么想。我好像从小就学会了先看别人脸色，再决定自己该说什么。）\n（现在同事那句轻松的话，像在提醒我，我连这种小事都要反复想。我是不是太在意别人怎么看了？可如果不在意，又怕自己显得格格不入。这种矛盾让我很累。）",
+        "reasoning": "（她说“别人天生就会”，我立刻想到小时候家里那种气氛。父母总说做事要稳妥，要让人挑不出毛病，可他们很少问我心里怎么想。我好像从小就学会了先看别人脸色，再决定自己该说什么。）\n（现在同事那句轻松的话，像在提醒我，我连这种小事都要反复想。我是不是太在意别人怎么看了？可如果不在意，又怕自己显得格格不入。这种矛盾让我很累。）"
+      }
+    }
+  ],
+  "created": 1795142549,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1770,
+    "total_tokens": 1901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "df0d70aff1664a458037527b1cb4720f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样啊……那，你们咨询里说的东西，是不是都是保密的？我就是有点担心，万一我说了什么家里的事，会不会……嗯，我也说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释咨询方式，语气还算温和。但我还是不太放心，毕竟第一次见面，谁知道对方靠不靠谱。我得先试探一下，看看他会不会认真对待我的顾虑。）\n（提到隐私和保密，其实也是想看看他会不会敷衍我，或者随便给个承诺。毕竟家里的事太敏感了，我不能随便跟人说。）",
+        "reasoning": "（咨询师在解释咨询方式，语气还算温和。但我还是不太放心，毕竟第一次见面，谁知道对方靠不靠谱。我得先试探一下，看看他会不会认真对待我的顾虑。）\n（提到隐私和保密，其实也是想看看他会不会敷衍我，或者随便给个承诺。毕竟家里的事太敏感了，我不能随便跟人说。）"
+      }
+    }
+  ],
+  "created": 1795147747,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1000,
+    "total_tokens": 1110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e4995c914bc84286820159b812d819fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我理解你的感受。不过，有时候我们需要先理清自己的思绪，才能找到解决的方法。你愿意和我具体说说你的感受吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询师的引导产生疑虑，需要建立信任关系。\n【行动策略】：肯定来访者的感受，鼓励其表达，建立信任。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询师的引导产生疑虑，需要建立信任关系。\n【行动策略】：肯定来访者的感受，鼓励其表达，建立信任。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147922,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2569,
+    "total_tokens": 2642,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

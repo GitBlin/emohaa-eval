@@ -1,0 +1,41 @@
+{
+  "id": "4bf1044fa5d448228af66ec8e15f0932",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……肩膀有点紧，胸口闷闷的。不过说出来以后，好像比刚才轻一点了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是此刻身体或情绪上最明显的感觉。我刚刚说了不想每次都绕回自己身上，现在被拉回到当下的感受，反而有点不知道该怎么描述。心里还是有点闷，胸口像压着东西，但好像比之前轻了一点。）\n（我想试着说得具体些，但又怕说得太夸张。提到肩膀和胸口，是因为确实能感觉到那里紧着，说“轻一点”是因为刚才聊过之后好像没那么堵了。这样回答应该能让他知道我确实在体会自己的状态，不是敷衍。）",
+        "reasoning": "（咨询师问的是此刻身体或情绪上最明显的感觉。我刚刚说了不想每次都绕回自己身上，现在被拉回到当下的感受，反而有点不知道该怎么描述。心里还是有点闷，胸口像压着东西，但好像比之前轻了一点。）\n（我想试着说得具体些，但又怕说得太夸张。提到肩膀和胸口，是因为确实能感觉到那里紧着，说“轻一点”是因为刚才聊过之后好像没那么堵了。这样回答应该能让他知道我确实在体会自己的状态，不是敷衍。）"
+      }
+    }
+  ],
+  "created": 1795143008,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2729,
+    "total_tokens": 2864,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

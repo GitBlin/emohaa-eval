@@ -1,0 +1,41 @@
+{
+  "id": "eab7f169c9d04e149f810868cfc4ead0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手会一直去摸手机，呼吸也变浅了。好像整个人都绷着，等那个提示音响起来才能松一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体的小变化，看来是想让我更具体地觉察自己。被记得这个需求说出来后，我好像没那么难堪了，可以多说一点。呼吸和手……确实每次等消息时都有反应，这些细节平时自己都忽略掉了。）",
+        "reasoning": "（咨询师在问我身体的小变化，看来是想让我更具体地觉察自己。被记得这个需求说出来后，我好像没那么难堪了，可以多说一点。呼吸和手……确实每次等消息时都有反应，这些细节平时自己都忽略掉了。）"
+      }
+    }
+  ],
+  "created": 1795153609,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 1635,
+    "total_tokens": 1721,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d4cb34f058214b65b38951058eeca099",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……差不多每天半斤白酒吧，有时候更多。喝完能睡着，但两三个小时又醒了，醒了就心慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我听到你在用酒让脑子停下来。最近一周大概喝到什么程度，多久能睡着？说个大致范围就好。",
+        "reasoning": "我听到你在用酒让脑子停下来。最近一周大概喝到什么程度，多久能睡着？说个大致范围就好。"
+      }
+    }
+  ],
+  "created": 1795148469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 1747,
+    "total_tokens": 1803,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

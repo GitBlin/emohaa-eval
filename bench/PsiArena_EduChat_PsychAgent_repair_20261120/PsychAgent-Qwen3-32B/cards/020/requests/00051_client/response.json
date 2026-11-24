@@ -1,0 +1,41 @@
+{
+  "id": "9a16fd449fe444c2ae6094b314db834b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点头）嗯，谢谢你今天听我说这些。我想我回去先练练那个“缓一缓”，下次再来跟您说结果。",
+        "reasoning": "（点头）嗯，谢谢你今天听我说这些。我想我回去先练练那个“缓一缓”，下次再来跟您说结果。"
+      }
+    }
+  ],
+  "created": 1795154167,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 3670,
+    "total_tokens": 3701,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

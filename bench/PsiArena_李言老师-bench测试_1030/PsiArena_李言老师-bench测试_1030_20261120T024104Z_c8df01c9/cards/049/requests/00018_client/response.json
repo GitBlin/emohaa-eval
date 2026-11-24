@@ -1,0 +1,41 @@
+{
+  "id": "f896f55d261144a8b8e8f158c09b8edd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概几分钟，有时候会拖到半小时。尤其在办公室突然这样时，我会很怕别人看出来，只能装作没事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这些症状持续多久，是在帮我具体化问题。我想回答个大概时间，但又担心说得太严重会被当成病人。其实最近确实越来越频繁了，从几分钟到半小时都有，特别是晚上一个人的时候。或许可以提一下在办公室也会这样，虽然我尽量掩饰了，但确实影响到了工作。）\n（说到工作，我有点犹豫要不要承认自己需要帮助。父母总说遇到问题要自己调整，可我现在真的不知道该怎么处理这些突然涌上来的情绪。也许该问问咨询师，像我这种情况能不能通过一些具体的方法来改善，而不是一直忍着。）",
+        "reasoning": "（咨询师在问我这些症状持续多久，是在帮我具体化问题。我想回答个大概时间，但又担心说得太严重会被当成病人。其实最近确实越来越频繁了，从几分钟到半小时都有，特别是晚上一个人的时候。或许可以提一下在办公室也会这样，虽然我尽量掩饰了，但确实影响到了工作。）\n（说到工作，我有点犹豫要不要承认自己需要帮助。父母总说遇到问题要自己调整，可我现在真的不知道该怎么处理这些突然涌上来的情绪。也许该问问咨询师，像我这种情况能不能通过一些具体的方法来改善，而不是一直忍着。）"
+      }
+    }
+  ],
+  "created": 1795143826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2663,
+    "total_tokens": 2815,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

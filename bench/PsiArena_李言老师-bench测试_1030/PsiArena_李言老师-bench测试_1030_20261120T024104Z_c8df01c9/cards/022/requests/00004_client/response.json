@@ -1,0 +1,41 @@
+{
+  "id": "5a1fc72a622540e790b94e7c6522852c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像是具体的事，又好像不是。就是白天跟人说话的时候，我是不是哪里说错了之类的……（停顿）对了，我可以平时也发消息问你吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我晚上最先冒出来的想法是什么，是想帮我理清那团乱麻吧。但我现在确实还不太想说得太深，毕竟才刚开始，我得先看看这个人值不值得信任。）\n（而且我有点担心，如果我说得太具体，会不会被评判。不如先含糊一点，把话题稍微岔开，顺便试探一下——比如问问咨询之外能不能联系，看看ta会怎么反应。）",
+        "reasoning": "（咨询师在问我晚上最先冒出来的想法是什么，是想帮我理清那团乱麻吧。但我现在确实还不太想说得太深，毕竟才刚开始，我得先看看这个人值不值得信任。）\n（而且我有点担心，如果我说得太具体，会不会被评判。不如先含糊一点，把话题稍微岔开，顺便试探一下——比如问问咨询之外能不能联系，看看ta会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795142929,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1234,
+    "total_tokens": 1360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

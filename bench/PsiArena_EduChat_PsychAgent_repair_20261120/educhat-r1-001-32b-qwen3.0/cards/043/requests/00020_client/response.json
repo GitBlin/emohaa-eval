@@ -1,0 +1,41 @@
+{
+  "id": "a4a417220070446db197a30cce7dbfc8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通？我试过……说了也没用。他们只会说“我们这么辛苦都是为了你，你还有什么不满意的”。在他们眼里，我这点感受根本不算什么，考好试才是正事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我和父母沟通的事……可这根本行不通。上次我才开口说压力大，他们就说我找借口逃避学习。在他们眼里，我的感受根本不重要，只有分数才是真的。）\n（而且说了又能怎样呢？他们只会觉得我不懂事，然后变本加厉地逼我。有时候我觉得，在他们心里我就是一个考试机器，考好了就是好孩子，考不好就什么都不是。）",
+        "reasoning": "（她问我和父母沟通的事……可这根本行不通。上次我才开口说压力大，他们就说我找借口逃避学习。在他们眼里，我的感受根本不重要，只有分数才是真的。）\n（而且说了又能怎样呢？他们只会觉得我不懂事，然后变本加厉地逼我。有时候我觉得，在他们心里我就是一个考试机器，考好了就是好孩子，考不好就什么都不是。）"
+      }
+    }
+  ],
+  "created": 1795155168,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1688,
+    "total_tokens": 1818,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

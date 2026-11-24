@@ -1,0 +1,41 @@
+{
+  "id": "4500757a22d044a489bb638ba1abb5a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是上次跟我妈打完电话吧。挂了以后我坐在那儿，脑子里一直想她说的话，越想越觉得自己是不是真的不行。（停顿）其实当时很想哭，但又觉得没必要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是最近一次慌时具体发生了什么，这让我想起上周跟妈妈打电话的场景。那时候她说了句“你最近好像没什么进步”，我一下子就慌了，嘴上马上开始解释自己哪里做得不够。其实心里特别委屈，可还是习惯性地先检讨自己。）\n（说出来之后感觉有点难堪，但也松了口气。毕竟这件事一直压在心里，现在终于有人愿意听我讲这些细节了。我想让咨询师知道，我当时其实很想说“我已经很努力了”，可话到嘴边又咽回去了。）",
+        "reasoning": "（咨询师问的是最近一次慌时具体发生了什么，这让我想起上周跟妈妈打电话的场景。那时候她说了句“你最近好像没什么进步”，我一下子就慌了，嘴上马上开始解释自己哪里做得不够。其实心里特别委屈，可还是习惯性地先检讨自己。）\n（说出来之后感觉有点难堪，但也松了口气。毕竟这件事一直压在心里，现在终于有人愿意听我讲这些细节了。我想让咨询师知道，我当时其实很想说“我已经很努力了”，可话到嘴边又咽回去了。）"
+      }
+    }
+  ],
+  "created": 1795143048,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 3214,
+    "total_tokens": 3364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

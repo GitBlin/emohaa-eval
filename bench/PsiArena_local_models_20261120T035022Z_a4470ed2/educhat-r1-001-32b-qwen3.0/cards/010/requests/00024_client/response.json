@@ -1,0 +1,41 @@
+{
+  "id": "fd434f5d6a854f12829430e3b08b15c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "云朵形状……（语气低落）老师，我可能做不到。每天光是应付作业和考试就够累了，哪还有心情看云。而且那个同学又发了条朋友圈，说“这次彻底完了”，我看了就觉得烦，又忍不住去看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在建议我记录小事，这让我有点烦躁。他好像没完全理解我的处境，在我家连吃饭时讨论成绩都战战兢兢的，哪有心情看云朵形状。不过他说“慢慢来”的语气倒是挺温和的，可能确实需要时间。）\n（想到那个同学发朋友圈的事，心里又堵得慌。明明知道他是装的，可每次看到还是会怀疑自己是不是真的不够努力。这种矛盾的感觉比单纯的生气更让人难受，也许该让咨询师明白这种纠结。）",
+        "reasoning": "（咨询师又在建议我记录小事，这让我有点烦躁。他好像没完全理解我的处境，在我家连吃饭时讨论成绩都战战兢兢的，哪有心情看云朵形状。不过他说“慢慢来”的语气倒是挺温和的，可能确实需要时间。）\n（想到那个同学发朋友圈的事，心里又堵得慌。明明知道他是装的，可每次看到还是会怀疑自己是不是真的不够努力。这种矛盾的感觉比单纯的生气更让人难受，也许该让咨询师明白这种纠结。）"
+      }
+    }
+  ],
+  "created": 1795147273,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 2007,
+    "total_tokens": 2170,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

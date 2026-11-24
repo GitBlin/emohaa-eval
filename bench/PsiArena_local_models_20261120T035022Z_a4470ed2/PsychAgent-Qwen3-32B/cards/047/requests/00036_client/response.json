@@ -1,0 +1,41 @@
+{
+  "id": "9e819a870704458a8d867dc5794fdc3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）大概从八降到六吧。至少不会一下子红了眼睛。可我还是有点怕，万一还是没控制住呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）大概从八降到六吧。至少不会一下子红了眼睛。可我还是有点怕，万一还是没控制住呢？<第19轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "（想了想）大概从八降到六吧。至少不会一下子红了眼睛。可我还是有点怕，万一还是没控制住呢？<第19轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795148821,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3207,
+    "total_tokens": 3295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

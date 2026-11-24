@@ -1,0 +1,41 @@
+{
+  "id": "2a310f158963443b8b21a629515f3911",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀吧，总是绷着。……其实我本来以为你会先问我家里的事，没想到问这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体的感觉……这让我有点意外，我本来以为会直接问我和我妈的事。肩膀确实一直绷着，但我不太想马上说太多细节。先随便应付一下？不行，既然来了还是说点真的吧，但又不能太深入。）",
+        "reasoning": "（咨询师在问我身体的感觉……这让我有点意外，我本来以为会直接问我和我妈的事。肩膀确实一直绷着，但我不太想马上说太多细节。先随便应付一下？不行，既然来了还是说点真的吧，但又不能太深入。）"
+      }
+    }
+  ],
+  "created": 1795147492,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1291,
+    "total_tokens": 1373,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

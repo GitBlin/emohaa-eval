@@ -1,0 +1,41 @@
+{
+  "id": "e3fd1e6260194368b734ecc7c0e1b9c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）……是有点担心。我妈有时候会整理我房间，她看到的话肯定会问东问西。不过……我是不是想太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我是否担心记录被别人看到，这让我一下子想到妈妈可能会翻我东西。她总是这样，连我手机都要看。但直接说出来好像太小题大做了，毕竟咨询师刚才说这是安全的空间。我该说多少呢？也许先含糊地提一下隐私问题，看看咨询师怎么反应。）\n（其实我有点害怕说太多家里的事，万一咨询师觉得我太依赖父母怎么办。但刚才她提到记录是给自己的礼物，这句话让我稍微放松了一点。也许可以试探性地承认确实担心被看到，但不用具体说是谁。）",
+        "reasoning": "（咨询师在问我是否担心记录被别人看到，这让我一下子想到妈妈可能会翻我东西。她总是这样，连我手机都要看。但直接说出来好像太小题大做了，毕竟咨询师刚才说这是安全的空间。我该说多少呢？也许先含糊地提一下隐私问题，看看咨询师怎么反应。）\n（其实我有点害怕说太多家里的事，万一咨询师觉得我太依赖父母怎么办。但刚才她提到记录是给自己的礼物，这句话让我稍微放松了一点。也许可以试探性地承认确实担心被看到，但不用具体说是谁。）"
+      }
+    }
+  ],
+  "created": 1795154526,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 1392,
+    "total_tokens": 1546,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

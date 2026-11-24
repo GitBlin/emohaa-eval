@@ -1,0 +1,41 @@
+{
+  "id": "6168fb48ff5341f98ff021e24814fd6c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先试试喝水吧，至少不用走远。就是不知道真到那时候，我还能不能想起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得更具体了，好像不是随便安慰我，而是在帮我把办法落到地上。我其实有点犹豫，怕自己真到那时候根本想不起来用。）\n（喝水这个动作最简单，不用走远，也不至于让我妈觉得被晾着。可我又担心，真急了的时候，这点小动作能顶什么用。）",
+        "reasoning": "（她问得更具体了，好像不是随便安慰我，而是在帮我把办法落到地上。我其实有点犹豫，怕自己真到那时候根本想不起来用。）\n（喝水这个动作最简单，不用走远，也不至于让我妈觉得被晾着。可我又担心，真急了的时候，这点小动作能顶什么用。）"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2956,
+    "total_tokens": 3049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

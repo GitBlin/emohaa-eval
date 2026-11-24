@@ -1,0 +1,41 @@
+{
+  "id": "d4fd4851971e42969a3faac6236891ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣了一下）我……我好像一直在听别人的声音，都快忘了自己那个声音长什么样了。也许，我想先学会对自己别那么苛刻吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望自己是怎样的聆听者……这个问题让我有点难受。我一直在听别人的声音，爸妈的、同事的，可我自己呢？好像从来没认真听过自己心里那个声音。）\n（我想起每次想表达真实感受时，脑子里就会冒出各种警告。也许我该试着对自己温和一点，不要像别人那样苛责自己。但说实话，这真的很难，我甚至不确定自己能不能做到。）",
+        "reasoning": "（咨询师问我希望自己是怎样的聆听者……这个问题让我有点难受。我一直在听别人的声音，爸妈的、同事的，可我自己呢？好像从来没认真听过自己心里那个声音。）\n（我想起每次想表达真实感受时，脑子里就会冒出各种警告。也许我该试着对自己温和一点，不要像别人那样苛责自己。但说实话，这真的很难，我甚至不确定自己能不能做到。）"
+      }
+    }
+  ],
+  "created": 1795153748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2024,
+    "total_tokens": 2144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "817ae8563b0243ba93c22b54ac780b0b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被问到“你怎么不说话”时，那种僵住的感觉确实很难受。我们不妨试着想一个小场景：如果下次再遇到类似情况，除了躲开，还有没有一种更小、更安全的动作，是你愿意尝试的？<第16轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（低头，手指摩挲衣角）怕他们觉得我奇怪吧……或者问我“你怎么不说话”，我就更不知道怎么办了。",
+        "reasoning": "（低头，手指摩挲衣角）怕他们觉得我奇怪吧……或者问我“你怎么不说话”，我就更不知道怎么办了。"
+      }
+    }
+  ],
+  "created": 1795153471,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2541,
+    "total_tokens": 2651,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

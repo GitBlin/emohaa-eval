@@ -1,0 +1,41 @@
+{
+  "id": "58cb16878899414680288f157cd4f858",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有个互动装置吧，观众可以留下声音，我当时站那儿听了很久。其实我挺想跟他讲那个感觉的，就是怕他又只“嗯”一声。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我从展览里最想多说两句的部分聊起，这让我觉得轻松一点。不必一上来就谈关系问题，好像有个具体的东西能抓住。）\n（我想到那个互动装置，当时确实挺有感觉的，就是那种想分享又怕对方没反应的犹豫。现在说起来，好像也能帮自己理清一点，我到底想让他看到什么。）",
+        "reasoning": "（咨询师让我从展览里最想多说两句的部分聊起，这让我觉得轻松一点。不必一上来就谈关系问题，好像有个具体的东西能抓住。）\n（我想到那个互动装置，当时确实挺有感觉的，就是那种想分享又怕对方没反应的犹豫。现在说起来，好像也能帮自己理清一点，我到底想让他看到什么。）"
+      }
+    }
+  ],
+  "created": 1795143146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2913,
+    "total_tokens": 3029,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

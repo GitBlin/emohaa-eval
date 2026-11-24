@@ -1,0 +1,41 @@
+{
+  "id": "9bd562c3b1c846f78c80d2690d695d2d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "整理房间……这个比喻倒是挺新鲜的。我好像从来没整理过自己的感受，都是按他们说的做。可有时候我也在想，我到底想要什么呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到我对父母的在意，还用了整理房间的比喻...这让我有点意外，原来在意父母的看法不一定是坏事。但整理房间这个说法让我想到，我好像确实从来没好好整理过自己的感受，一直都是按别人的期待在活。）\n（不过说到父母，那种压力又上来了。他们总觉得学习之外的事都是浪费时间，连交朋友都要管。也许写日记真的能帮我理清这些乱七八糟的想法？但要是被他们发现...算了，先别想那么远。）",
+        "reasoning": "（咨询师提到我对父母的在意，还用了整理房间的比喻...这让我有点意外，原来在意父母的看法不一定是坏事。但整理房间这个说法让我想到，我好像确实从来没好好整理过自己的感受，一直都是按别人的期待在活。）\n（不过说到父母，那种压力又上来了。他们总觉得学习之外的事都是浪费时间，连交朋友都要管。也许写日记真的能帮我理清这些乱七八糟的想法？但要是被他们发现...算了，先别想那么远。）"
+      }
+    }
+  ],
+  "created": 1795147016,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1809,
+    "total_tokens": 1948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

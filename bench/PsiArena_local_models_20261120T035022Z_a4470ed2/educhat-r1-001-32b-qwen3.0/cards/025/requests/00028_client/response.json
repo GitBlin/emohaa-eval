@@ -1,0 +1,41 @@
+{
+  "id": "3d40945fe7424cb4935ecd2f53e37409",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）为孩子好……嗯，这话我好像听进去了。可心里还是别扭，总觉得请人帮忙，就等于承认自己不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到寻求帮助是为了孩子更好地成长，这让我有点意外。我一直觉得请人帮忙就是承认自己不行，可她说得好像也有道理。我是不是太钻牛角尖了？）\n（想到我妈以前总说“自己的孩子自己带”，但现在情况确实不一样了。也许我该试着放下那种“必须完美”的念头，可心里还是有点别扭。这种感觉真矛盾。）",
+        "reasoning": "（咨询师提到寻求帮助是为了孩子更好地成长，这让我有点意外。我一直觉得请人帮忙就是承认自己不行，可她说得好像也有道理。我是不是太钻牛角尖了？）\n（想到我妈以前总说“自己的孩子自己带”，但现在情况确实不一样了。也许我该试着放下那种“必须完美”的念头，可心里还是有点别扭。这种感觉真矛盾。）"
+      }
+    }
+  ],
+  "created": 1795148657,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2151,
+    "total_tokens": 2267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

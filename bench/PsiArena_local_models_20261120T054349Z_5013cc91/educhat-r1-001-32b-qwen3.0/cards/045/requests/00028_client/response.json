@@ -1,0 +1,41 @@
+{
+  "id": "0cf5bd0b79a846a89b797aad50a1a930",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有些哽咽）上课的时候会突然觉得特别累，看着学生都觉得模糊。以前我最喜欢上课了，现在……（叹气）我觉得自己好像变了个人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我太坚强了，这句话让我有点意外，也有点被理解的感觉。但马上又想到工作上的事，心里更难受了。我确实一直在硬撑，可撑得越来越吃力。）\n（说到工作，我其实很害怕。以前上课是我的骄傲，现在却成了负担。我不知道该怎么面对学生，更不敢让同事看出来我的状态不对。这种落差让我觉得自己很失败。）",
+        "reasoning": "（咨询师说我太坚强了，这句话让我有点意外，也有点被理解的感觉。但马上又想到工作上的事，心里更难受了。我确实一直在硬撑，可撑得越来越吃力。）\n（说到工作，我其实很害怕。以前上课是我的骄傲，现在却成了负担。我不知道该怎么面对学生，更不敢让同事看出来我的状态不对。这种落差让我觉得自己很失败。）"
+      }
+    }
+  ],
+  "created": 1795155217,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2005,
+    "total_tokens": 2126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

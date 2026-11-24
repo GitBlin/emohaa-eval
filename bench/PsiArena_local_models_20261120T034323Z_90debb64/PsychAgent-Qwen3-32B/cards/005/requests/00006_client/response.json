@@ -1,0 +1,41 @@
+{
+  "id": "b42e3b65846644abbff08f2d03fc3a46",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那还好。不过，我能不能平时也给你发消息啊？就是不在咨询的时候，有时候突然很难受，想找个人说说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来还算专业，至少知道保密原则。但我不确定他是不是真的能理解我的感受。他说可以按我舒服的方式说，可我还是有点紧张，怕说错话被评判。）\n（也许我可以先试探一下，看看他会不会像朋友那样给我一些特别的关照。毕竟我平时就是靠别人的回应来获得安全感的，如果他能多关注我一点，我可能会更愿意敞开心扉。）",
+        "reasoning": "（这个咨询师看起来还算专业，至少知道保密原则。但我不确定他是不是真的能理解我的感受。他说可以按我舒服的方式说，可我还是有点紧张，怕说错话被评判。）\n（也许我可以先试探一下，看看他会不会像朋友那样给我一些特别的关照。毕竟我平时就是靠别人的回应来获得安全感的，如果他能多关注我一点，我可能会更愿意敞开心扉。）"
+      }
+    }
+  ],
+  "created": 1795146561,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1089,
+    "total_tokens": 1212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

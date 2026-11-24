@@ -1,0 +1,41 @@
+{
+  "id": "4d57bd61ebf54acebd8920c1dccb9641",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对……（低头）小时候哭的时候，他们都会来安慰我，问怎么了。但现在在学校，我一哭，同事们看我的眼神……就怪怪的。是不是我不该这样？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到家庭影响和敏感的关系，这让我想起小时候的事。她似乎很理解我的感受，也许可以多说一点。）\n（作为从小被鼓励表达情绪的人，我确实习惯了把感受都说出来。但工作后才发现，不是所有人都这样。这种矛盾让我很困扰，特别是现在连自己都开始怀疑是不是太情绪化了。）",
+        "reasoning": "（咨询师提到家庭影响和敏感的关系，这让我想起小时候的事。她似乎很理解我的感受，也许可以多说一点。）\n（作为从小被鼓励表达情绪的人，我确实习惯了把感受都说出来。但工作后才发现，不是所有人都这样。这种矛盾让我很困扰，特别是现在连自己都开始怀疑是不是太情绪化了。）"
+      }
+    }
+  ],
+  "created": 1795155311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1532,
+    "total_tokens": 1644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

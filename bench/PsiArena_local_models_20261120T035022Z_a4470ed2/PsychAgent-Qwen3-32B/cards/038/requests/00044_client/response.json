@@ -1,0 +1,41 @@
+{
+  "id": "53d7c35cc51d467f801bc117d356f8c8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想带走的是……下次慌的时候，先别急着怪自己，也别马上缩回去，可以先把那句说出来试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最想带走的一点……我脑子里有点乱，但刚才那个“我有点慌，想听你怎么想”好像真的比闷着舒服。虽然还是怕，但至少知道下次可以试着说一句，而不是又低头喝东西。也许先把这一点记住就行，别的以后再说。）",
+        "reasoning": "（他问我最想带走的一点……我脑子里有点乱，但刚才那个“我有点慌，想听你怎么想”好像真的比闷着舒服。虽然还是怕，但至少知道下次可以试着说一句，而不是又低头喝东西。也许先把这一点记住就行，别的以后再说。）"
+      }
+    }
+  ],
+  "created": 1795148138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3078,
+    "total_tokens": 3167,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

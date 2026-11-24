@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e93580bbe42a447e9c01b5274d9f5f5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n这句话很温柔也很有力。你愿意把它当作启动语吗？遇到想缩回去时，先对自己说一遍，再只问一个最简单的问题，做完就停。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155124,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 2569,
+    "total_tokens": 2611,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

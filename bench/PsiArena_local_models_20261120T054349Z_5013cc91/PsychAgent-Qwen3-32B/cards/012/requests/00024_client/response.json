@@ -1,0 +1,41 @@
+{
+  "id": "f783e14c3a9c438f8c06058151c3f364",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次我爸摔东西，我妈拉着我躲在屋里，让我别出声。那时候我就觉得……好像连害怕都得憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体的例子和感受……我在想，小时候那些事，其实我一直不太愿意细想。可刚才说了爸妈的态度之后，好像心里有什么被轻轻碰了一下。我记得有一次我爸摔东西，我妈拉着我躲进房间，她一直小声说别出声。那种感觉……不是害怕，是整个人都缩起来了，好像连呼吸都得小心。这些我平时从不说，现在说出来，有点难为情，也有点酸。）",
+        "reasoning": "（咨询师问的是具体的例子和感受……我在想，小时候那些事，其实我一直不太愿意细想。可刚才说了爸妈的态度之后，好像心里有什么被轻轻碰了一下。我记得有一次我爸摔东西，我妈拉着我躲进房间，她一直小声说别出声。那种感觉……不是害怕，是整个人都缩起来了，好像连呼吸都得小心。这些我平时从不说，现在说出来，有点难为情，也有点酸。）"
+      }
+    }
+  ],
+  "created": 1795153820,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2032,
+    "total_tokens": 2155,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

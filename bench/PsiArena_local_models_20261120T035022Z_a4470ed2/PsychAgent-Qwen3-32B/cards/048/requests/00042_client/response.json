@@ -1,0 +1,41 @@
+{
+  "id": "2ca82b93c60e44b4ad67fc602b1442e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "找室友提醒？我有点不想让她知道我为这种事纠结。要不先自己试几天，不行再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我找人提醒，可我不想让室友知道我因为眼霜这么纠结……但一个人又怕坚持不住。也许可以找个折中的办法。）",
+        "reasoning": "（咨询师建议我找人提醒，可我不想让室友知道我因为眼霜这么纠结……但一个人又怕坚持不住。也许可以找个折中的办法。）"
+      }
+    }
+  ],
+  "created": 1795148890,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 2967,
+    "total_tokens": 3024,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

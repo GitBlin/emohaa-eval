@@ -1,0 +1,41 @@
+{
+  "id": "87684fe497e74dcb91987746e5a9dc1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先想好被拒绝时怎么安抚自己，不然我一慌又会全怪自己。可具体要说什么，我脑子里还是有点乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清下一步的重点，这让我觉得有点方向了。但一说到“被拒绝时怎么安抚自己”，我心里还是有点发紧，因为那意味着我得先承认他可能真的不接受。可我也知道，如果只顾着准备第一句话，万一他反应不好，我可能又会像以前那样全盘否定自己。）\n（我得先让自己站稳一点，不能把所有情绪都挂在他的回应上。也许我可以同时想一句能把自己拉回来的话，这样开口的时候才不会那么怕。可具体说什么，我还没想好，有点乱。）",
+        "reasoning": "（咨询师在帮我理清下一步的重点，这让我觉得有点方向了。但一说到“被拒绝时怎么安抚自己”，我心里还是有点发紧，因为那意味着我得先承认他可能真的不接受。可我也知道，如果只顾着准备第一句话，万一他反应不好，我可能又会像以前那样全盘否定自己。）\n（我得先让自己站稳一点，不能把所有情绪都挂在他的回应上。也许我可以同时想一句能把自己拉回来的话，这样开口的时候才不会那么怕。可具体说什么，我还没想好，有点乱。）"
+      }
+    }
+  ],
+  "created": 1795143362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 3076,
+    "total_tokens": 3226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

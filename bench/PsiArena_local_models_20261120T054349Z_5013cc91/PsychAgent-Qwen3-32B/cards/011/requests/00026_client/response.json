@@ -1,0 +1,41 @@
+{
+  "id": "4527c5e367854bb7a01871c0d282aff0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我可能会说：“你能不能抱一会儿，我真的有点吃不消了。”……但说完肯定又觉得自己很没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我用自己的语气说。我脑子里第一反应是“你能不能抱一会儿，我真的撑不住了”，但又觉得“撑不住”太丢人。也许换成“我有点吃不消”会好一点？可这算不算还是在示弱……）我可能会说：“你能不能抱一会儿，我真的有点吃不消了。”……但说完肯定又觉得自己很没用。",
+        "reasoning": "（她让我用自己的语气说。我脑子里第一反应是“你能不能抱一会儿，我真的撑不住了”，但又觉得“撑不住”太丢人。也许换成“我有点吃不消”会好一点？可这算不算还是在示弱……）我可能会说：“你能不能抱一会儿，我真的有点吃不消了。”……但说完肯定又觉得自己很没用。"
+      }
+    }
+  ],
+  "created": 1795153802,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2213,
+    "total_tokens": 2316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

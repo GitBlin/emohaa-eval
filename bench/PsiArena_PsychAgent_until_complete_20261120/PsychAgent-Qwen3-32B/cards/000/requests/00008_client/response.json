@@ -1,0 +1,41 @@
+{
+  "id": "e707fc608393479d81eb4fe4e2bc4e42",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一反应……我也说不上来，就是有点不舒服。后来晚上老会想这句话，越想越乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才问我第一反应是什么……其实我听到那句话的时候，心里一下子就乱了，但不太想马上把那种感受全倒出来。先含糊一点，试探一下她会不会急着给我下结论吧。）",
+        "reasoning": "（她刚才问我第一反应是什么……其实我听到那句话的时候，心里一下子就乱了，但不太想马上把那种感受全倒出来。先含糊一点，试探一下她会不会急着给我下结论吧。）"
+      }
+    }
+  ],
+  "created": 1795153439,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 1188,
+    "total_tokens": 1256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c9ee89d94478415fb0dd5d37081b453a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你说吧，我听着。不过……我也不知道自己能不能接受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说要谈谈看法，我心里有点抗拒又有点想听。我们家从小就讲究这些事不能对外人说，可我现在确实需要有人帮我理清思路。）\n（我想知道她会不会觉得我太小题大做，或者觉得我不该怀疑父亲。这种矛盾让我既想听她的看法，又怕听到让我更难受的话。）",
+        "reasoning": "（咨询师说要谈谈看法，我心里有点抗拒又有点想听。我们家从小就讲究这些事不能对外人说，可我现在确实需要有人帮我理清思路。）\n（我想知道她会不会觉得我太小题大做，或者觉得我不该怀疑父亲。这种矛盾让我既想听她的看法，又怕听到让我更难受的话。）"
+      }
+    }
+  ],
+  "created": 1795147856,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1891,
+    "total_tokens": 1976,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

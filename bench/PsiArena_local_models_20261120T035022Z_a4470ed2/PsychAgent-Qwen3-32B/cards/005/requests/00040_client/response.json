@@ -1,0 +1,41 @@
+{
+  "id": "8650b33c348f428280573f23c8a95ad3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "休息……其实也没什么特别的，就看看剧刷刷手机。说到这个，我是不是该少看手机啊？可我怕错过消息，这个怎么改啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是休息娱乐，但我心里其实一直在想前面说的那些。被问到这个，我有点烦躁，觉得这不是重点吧。不过还是回答一下，顺便把话题拉回我真正在意的事上。）",
+        "reasoning": "（咨询师问的是休息娱乐，但我心里其实一直在想前面说的那些。被问到这个，我有点烦躁，觉得这不是重点吧。不过还是回答一下，顺便把话题拉回我真正在意的事上。）"
+      }
+    }
+  ],
+  "created": 1795146853,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 3014,
+    "total_tokens": 3095,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

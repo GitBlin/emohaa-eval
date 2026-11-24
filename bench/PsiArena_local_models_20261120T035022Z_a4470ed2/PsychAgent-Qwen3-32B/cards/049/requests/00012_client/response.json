@@ -1,0 +1,41 @@
+{
+  "id": "f3be00fa1914401f84c00005f1e769d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里……我爸妈都是老师，从小家里挺讲道理的，不太说那些情绪上的事。我有时候觉得，是不是因为这样，我才不太会表达。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起成长背景，这让我有点紧张。虽然前面聊得还算温和，但我还不确定能不能完全信任她。现在说家里的事，是不是太快了？）\n（不过她刚才没有嫌我烦，也许可以稍微提一点。但我不想一下子说太多，先看看她怎么反应。家里的事……确实跟现在有点关系，可我又怕说出来显得太脆弱。）",
+        "reasoning": "（咨询师问起成长背景，这让我有点紧张。虽然前面聊得还算温和，但我还不确定能不能完全信任她。现在说家里的事，是不是太快了？）\n（不过她刚才没有嫌我烦，也许可以稍微提一点。但我不想一下子说太多，先看看她怎么反应。家里的事……确实跟现在有点关系，可我又怕说出来显得太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795148825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1356,
+    "total_tokens": 1473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

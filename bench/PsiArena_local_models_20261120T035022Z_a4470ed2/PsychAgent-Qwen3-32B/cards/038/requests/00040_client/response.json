@@ -1,0 +1,41 @@
+{
+  "id": "ef0c34ba707d48d193f35d4df7f0bc88",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不怪，听起来是真诚的。你刚说的时候，身体和情绪有什么变化？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下，像是在心里默念）我有点慌……想了解一下你现在的想法，我们可以慢慢来。呃……这样说是不是有点怪？",
+        "reasoning": "（停顿了一下，像是在心里默念）我有点慌……想了解一下你现在的想法，我们可以慢慢来。呃……这样说是不是有点怪？"
+      }
+    }
+  ],
+  "created": 1795148130,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 2884,
+    "total_tokens": 2935,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

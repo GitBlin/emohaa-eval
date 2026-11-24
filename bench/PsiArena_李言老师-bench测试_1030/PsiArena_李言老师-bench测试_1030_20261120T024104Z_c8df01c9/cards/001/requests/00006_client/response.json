@@ -1,0 +1,41 @@
+{
+  "id": "75bd2d7360aa46f69efc9e1c7530520f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱眉想了会儿）都有吧……但主要还是学习。（声音低下去）我总觉得，去交朋友就是对不起爸妈，对不起自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是学习压力还是关于“自己是谁”的困惑……我其实也说不清，可能都有吧。但直接说“都有”好像太简单了，而且我还没完全信任他，不想把心里那点纠结全摊开。）\n（不过刚才他说“不是想太多”，让我稍微放松了一点。我可以稍微透一点点，但还是要留点余地，毕竟我还不确定他会不会真的理解我。）",
+        "reasoning": "（咨询师问我是学习压力还是关于“自己是谁”的困惑……我其实也说不清，可能都有吧。但直接说“都有”好像太简单了，而且我还没完全信任他，不想把心里那点纠结全摊开。）\n（不过刚才他说“不是想太多”，让我稍微放松了一点。我可以稍微透一点点，但还是要留点余地，毕竟我还不确定他会不会真的理解我。）"
+      }
+    }
+  ],
+  "created": 1795142518,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1429,
+    "total_tokens": 1549,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

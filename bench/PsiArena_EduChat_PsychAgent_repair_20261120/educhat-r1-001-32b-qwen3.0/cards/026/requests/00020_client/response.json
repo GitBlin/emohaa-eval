@@ -1,0 +1,41 @@
+{
+  "id": "fce34a6d916d4577b3d11341a77832fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）我可能会说……你已经很努力了。但对自己说这话，怎么感觉这么别扭呢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把夸学生的话说给自己听……这让我想起班上那个总是很努力但容易紧张的小女孩。我平时会安慰她“你已经做得很好了”，可轮到自己的时候，这些话怎么就说不出口呢。）\n（作为老师，我总要求自己做到最好，可越是这样越觉得不够。现在突然要对自己说鼓励的话，感觉特别别扭，好像是在纵容自己似的。这种矛盾让我有点不知所措。）",
+        "reasoning": "（咨询师让我把夸学生的话说给自己听……这让我想起班上那个总是很努力但容易紧张的小女孩。我平时会安慰她“你已经做得很好了”，可轮到自己的时候，这些话怎么就说不出口呢。）\n（作为老师，我总要求自己做到最好，可越是这样越觉得不够。现在突然要对自己说鼓励的话，感觉特别别扭，好像是在纵容自己似的。这种矛盾让我有点不知所措。）"
+      }
+    }
+  ],
+  "created": 1795154421,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1631,
+    "total_tokens": 1749,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

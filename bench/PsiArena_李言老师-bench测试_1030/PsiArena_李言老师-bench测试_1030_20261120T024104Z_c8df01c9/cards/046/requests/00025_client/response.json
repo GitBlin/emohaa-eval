@@ -1,0 +1,41 @@
+{
+  "id": "399eb6d30d7e4055b51569b3cce9b371",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "其实……他什么也没说，就只是皱了下眉。是我自己把那个表情当成了证据。这么一想，好像我一直都是这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体证据，这让我有点卡住。我回想了一下，领导确实没说什么，只是皱了下眉。我意识到自己好像一直把那个皱眉当成了判决书。）\n（现在被这么一问，我反而有点不确定了。也许我该承认，其实并没有更确凿的证据，只是我自己先慌了。这种感觉有点尴尬，也有点清醒。）",
+        "reasoning": "（咨询师问的是具体证据，这让我有点卡住。我回想了一下，领导确实没说什么，只是皱了下眉。我意识到自己好像一直把那个皱眉当成了判决书。）\n（现在被这么一问，我反而有点不确定了。也许我该承认，其实并没有更确凿的证据，只是我自己先慌了。这种感觉有点尴尬，也有点清醒。）"
+      }
+    }
+  ],
+  "created": 1795143650,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3303,
+    "total_tokens": 3413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

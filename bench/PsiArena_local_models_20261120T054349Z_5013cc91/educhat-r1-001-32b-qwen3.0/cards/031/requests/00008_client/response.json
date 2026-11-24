@@ -1,0 +1,41 @@
+{
+  "id": "da0ca5c94f054852b33c727de74aebf3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "具体的事……嗯……也不是某一件特别的事吧。就是，有时候会突然觉得很难受，但又说不上来到底哪里不对。可能我这个人就是想太多了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的事情……但我真的不知道该怎么描述。家里那些事，还有那个女生的事，想起来就乱糟糟的。而且我们才刚认识，说这些是不是太早了？）\n（不过她好像挺耐心的，没有逼我马上说。也许我可以稍微提一点，就一点点，不用说得太清楚。就说不太舒服好了，反正我也确实说不明白。）",
+        "reasoning": "（心理咨询师在问我具体的事情……但我真的不知道该怎么描述。家里那些事，还有那个女生的事，想起来就乱糟糟的。而且我们才刚认识，说这些是不是太早了？）\n（不过她好像挺耐心的，没有逼我马上说。也许我可以稍微提一点，就一点点，不用说得太清楚。就说不太舒服好了，反正我也确实说不明白。）"
+      }
+    }
+  ],
+  "created": 1795154699,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1142,
+    "total_tokens": 1260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7187e56e053e43108d02240ab80f3247",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来你已经有了一点可以抓住的东西，这很好。我们也可以提前想想，见面结束后，不管结果怎样，你打算怎么照顾一下自己？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……应该会有一点吧。至少有个能抓住的东西，不至于完全乱掉。",
+        "reasoning": "嗯……应该会有一点吧。至少有个能抓住的东西，不至于完全乱掉。"
+      }
+    }
+  ],
+  "created": 1795156148,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3152,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 19,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

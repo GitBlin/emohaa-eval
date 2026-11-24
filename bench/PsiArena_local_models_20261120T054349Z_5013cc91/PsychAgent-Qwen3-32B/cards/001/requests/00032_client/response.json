@@ -1,0 +1,41 @@
+{
+  "id": "e606acb4f9d3447db22f62e530da2b07",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这两段经历放在一起很有意思：一个让你更想藏起来，一个却说明“被看见”不一定都是坏事。如果从那个“被采纳”的小组讨论里，挑一个最小的、你愿意重复的动作，会是什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）支持的话……好像有一次上课被点名回答，我说错了，全班笑，我脸烧了一整节课。可也有一次，小组讨论我提了个想法，居然被采纳了，那感觉……挺奇怪的，但不坏。",
+        "reasoning": "（想了想）支持的话……好像有一次上课被点名回答，我说错了，全班笑，我脸烧了一整节课。可也有一次，小组讨论我提了个想法，居然被采纳了，那感觉……挺奇怪的，但不坏。"
+      }
+    }
+  ],
+  "created": 1795153479,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2884,
+    "total_tokens": 2986,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f71d782f5b2a42c39a562d3753623700",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……先按您说的，把感受写下来。然后吵架的时候，尽量避着孩子。就是这些小事，我能做得到吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的做法，这让我有点紧张，但刚才聊了这么多，我也确实该想想实际能做什么。我不能再像以前那样光坐着发呆了。）\n（说到具体怎么做，我脑子里第一个冒出来的就是写下来。虽然不知道写了到底有没有用，但至少是个开始。还有孩子的事，我得先控制住自己，别在他面前吵。）",
+        "reasoning": "（心理咨询师在问我具体的做法，这让我有点紧张，但刚才聊了这么多，我也确实该想想实际能做什么。我不能再像以前那样光坐着发呆了。）\n（说到具体怎么做，我脑子里第一个冒出来的就是写下来。虽然不知道写了到底有没有用，但至少是个开始。还有孩子的事，我得先控制住自己，别在他面前吵。）"
+      }
+    }
+  ],
+  "created": 1795147563,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2798,
+    "total_tokens": 2908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

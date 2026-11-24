@@ -1,0 +1,41 @@
+{
+  "id": "050519f09abd46458f8a988ab5483785",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录……我有点怕写下来会让我更难受。不过一到两句我还能试试，尽量不写成自责。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在让我记录那些难受的时刻……我有点怕写下来会让我更难受。但他说只要一到两句，也许真的可以试试看。我平时总把事憋在心里，写下来可能比憋着强一点。不过我得说清楚，我怕自己写着写着又变成自责，那反而更糟。）",
+        "reasoning": "（咨询师在让我记录那些难受的时刻……我有点怕写下来会让我更难受。但他说只要一到两句，也许真的可以试试看。我平时总把事憋在心里，写下来可能比憋着强一点。不过我得说清楚，我怕自己写着写着又变成自责，那反而更糟。）"
+      }
+    }
+  ],
+  "created": 1795147114,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3334,
+    "total_tokens": 3427,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

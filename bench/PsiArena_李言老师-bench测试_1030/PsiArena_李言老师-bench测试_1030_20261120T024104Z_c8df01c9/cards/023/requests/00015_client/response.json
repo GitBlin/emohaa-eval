@@ -1,0 +1,41 @@
+{
+  "id": "18f2bbdd484e4dcda183d56ae9a859c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周开会吧，我发言的时候有个同事皱了下眉，我就一下子慌了，后面说什么都不顺。其实人家可能根本没别的意思，但我回来想了好几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次反复回想的场景，这让我有点紧张。其实我马上就想到上周开会的事，但说出来会不会显得我太在意别人的看法？不过既然都聊到这儿了，稍微说一点应该没关系。）\n（我有点犹豫要不要提同事那个眼神，因为说起来好像确实是我自己太敏感。但当时真的觉得被针对了，心里堵得慌。现在想想可能人家根本没那个意思，可我就是控制不住会往坏处想。）",
+        "reasoning": "（咨询师问我最近一次反复回想的场景，这让我有点紧张。其实我马上就想到上周开会的事，但说出来会不会显得我太在意别人的看法？不过既然都聊到这儿了，稍微说一点应该没关系。）\n（我有点犹豫要不要提同事那个眼神，因为说起来好像确实是我自己太敏感。但当时真的觉得被针对了，心里堵得慌。现在想想可能人家根本没那个意思，可我就是控制不住会往坏处想。）"
+      }
+    }
+  ],
+  "created": 1795143075,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2424,
+    "total_tokens": 2559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

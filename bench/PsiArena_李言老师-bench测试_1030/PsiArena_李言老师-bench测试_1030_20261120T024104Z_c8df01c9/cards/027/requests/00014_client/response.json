@@ -1,0 +1,41 @@
+{
+  "id": "4ab16ab875794062bc504ddd4355fec2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试试留在画里吧……虽然还是有点怕。对了，我这样是不是有点太在意我妈了，连画个画都要想到她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这么问，好像不是在逼我马上画完，而是在让我自己选怎么对待那种“烂”的感觉。我有点意外，原来中途觉得烂也可以继续留在画里。）\n（可一想到我妈，我又觉得这事没那么简单。她要是看见我在画画，大概又会说这有什么用。我其实挺想试试，但又怕自己坚持不了。）",
+        "reasoning": "（她这么问，好像不是在逼我马上画完，而是在让我自己选怎么对待那种“烂”的感觉。我有点意外，原来中途觉得烂也可以继续留在画里。）\n（可一想到我妈，我又觉得这事没那么简单。她要是看见我在画画，大概又会说这有什么用。我其实挺想试试，但又怕自己坚持不了。）"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2252,
+    "total_tokens": 2359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

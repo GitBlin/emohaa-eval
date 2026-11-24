@@ -1,0 +1,41 @@
+{
+  "id": "bca6882f79fd47609b1ec564c3b05703",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，但我怕记着记着又喝了。晚上一个人坐着那会儿最难控制，你能不能帮我想个具体点的办法？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先记录喝酒情况，这让我有点抵触，觉得太麻烦。但想到身体确实越来越差，还是答应试试看。不过我得让他知道，光靠我自己记可能坚持不了几天。）\n（晚上一个人坐着的时候最难控制，这个我心里清楚。如果只是记录，可能记着记着又喝上了。得问问有没有更实际的办法，不能光靠意志力。）",
+        "reasoning": "（咨询师建议我先记录喝酒情况，这让我有点抵触，觉得太麻烦。但想到身体确实越来越差，还是答应试试看。不过我得让他知道，光靠我自己记可能坚持不了几天。）\n（晚上一个人坐着的时候最难控制，这个我心里清楚。如果只是记录，可能记着记着又喝上了。得问问有没有更实际的办法，不能光靠意志力。）"
+      }
+    }
+  ],
+  "created": 1795143491,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2886,
+    "total_tokens": 2998,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

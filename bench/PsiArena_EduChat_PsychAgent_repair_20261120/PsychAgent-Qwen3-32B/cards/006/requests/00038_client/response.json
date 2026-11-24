@@ -1,0 +1,41 @@
+{
+  "id": "7c6109ba20b240d9b1c1302d07d3c539",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能就说今天有点事，改天再约。要是他们追问，我就说想自己走一走。不知道这样会不会显得怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想怎么应对同事的邀请。我确实不太会拒绝人，以前总是勉强自己去，结果更累。这次我想试试直接说清楚，但又不想显得太生硬。也许可以提个替代方案，这样既不得罪人，也能给自己留点空间。）",
+        "reasoning": "（咨询师在帮我想怎么应对同事的邀请。我确实不太会拒绝人，以前总是勉强自己去，结果更累。这次我想试试直接说清楚，但又不想显得太生硬。也许可以提个替代方案，这样既不得罪人，也能给自己留点空间。）"
+      }
+    }
+  ],
+  "created": 1795153651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2987,
+    "total_tokens": 3079,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

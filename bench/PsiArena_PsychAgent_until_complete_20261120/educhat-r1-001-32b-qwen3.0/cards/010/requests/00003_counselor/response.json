@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-b287834be7d84928b9f3b6961a70e53a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询的目的是为了让你感到被理解和支持。你可以告诉我你的感受和困扰，我会倾听并提供帮助。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程不熟悉，需要明确引导。\n【行动策略】：采用开放式提问鼓励自我表达。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程不熟悉，需要明确引导。\n【行动策略】：采用开放式提问鼓励自我表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153748,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 288,
+    "total_tokens": 344,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

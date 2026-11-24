@@ -1,0 +1,41 @@
+{
+  "id": "b536782edf224d22b9c53e37a6a4528c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那可能先在脑子里演练吧，真说出来我还是有点发怵。（苦笑）不过“慢下来”这个，我好像能试着做一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户担心父母反应大，自己撑不住。咨询师建议从小步开始，比如心里演练边界表达，或在安全场景里试一次“慢下来”。用户需要回应哪种更可行。需要简短，2-3句，口语化，表现犹豫和真实。可以选一个更可行的，比如心里演练，因为安全。可以表达不确定。",
+        "reasoning": "用户担心父母反应大，自己撑不住。咨询师建议从小步开始，比如心里演练边界表达，或在安全场景里试一次“慢下来”。用户需要回应哪种更可行。需要简短，2-3句，口语化，表现犹豫和真实。可以选一个更可行的，比如心里演练，因为安全。可以表达不确定。"
+      }
+    }
+  ],
+  "created": 1795154414,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3094,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

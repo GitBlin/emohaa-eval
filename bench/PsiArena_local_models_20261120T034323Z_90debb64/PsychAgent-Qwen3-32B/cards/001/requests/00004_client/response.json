@@ -1,0 +1,41 @@
+{
+  "id": "f5203aec4b69406a8dfad65ef0dff324",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还好吧……就是有点乱。其实我也不太清楚自己为什么会这么难受，可能是最近学习压力大？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来挺温和的，但我不确定他是不是真的能理解我。他问我感觉怎么样，可我自己都说不清楚。也许先随便说点表面的东西比较安全，不能一下子就把心里那些乱七八糟的想法都倒出来。而且我得看看他会不会像其他人一样，觉得我这些问题都是小题大做。）",
+        "reasoning": "（这个咨询师看起来挺温和的，但我不确定他是不是真的能理解我。他问我感觉怎么样，可我自己都说不清楚。也许先随便说点表面的东西比较安全，不能一下子就把心里那些乱七八糟的想法都倒出来。而且我得看看他会不会像其他人一样，觉得我这些问题都是小题大做。）"
+      }
+    }
+  ],
+  "created": 1795146212,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 966,
+    "total_tokens": 1058,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

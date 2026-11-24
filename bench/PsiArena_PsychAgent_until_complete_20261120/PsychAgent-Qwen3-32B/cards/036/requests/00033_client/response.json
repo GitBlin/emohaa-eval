@@ -1,0 +1,41 @@
+{
+  "id": "ed8f0e351da6426c9bd7a42647f4f9ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……想说“别这么胆小”。但说完又觉得自己更没用了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我好像想对自己说“别这么胆小”。可说完又觉得更难受，好像我更没用了。其实我也不想总是这样。",
+        "reasoning": "嗯，我好像想对自己说“别这么胆小”。可说完又觉得更难受，好像我更没用了。其实我也不想总是这样。"
+      }
+    }
+  ],
+  "created": 1795154786,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 2241,
+    "total_tokens": 2289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

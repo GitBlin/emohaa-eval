@@ -1,0 +1,41 @@
+{
+  "id": "39542bfbd70244babe23e96fe3605fda",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像有纸的味道，还有……你那边是不是有咖啡？淡淡的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿一下）嗯……好像有纸的味道，还有……你那边是不是有咖啡？淡淡的。",
+        "reasoning": "（停顿一下）嗯……好像有纸的味道，还有……你那边是不是有咖啡？淡淡的。"
+      }
+    }
+  ],
+  "created": 1795148551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 2093,
+    "total_tokens": 2133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

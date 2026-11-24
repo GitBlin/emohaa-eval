@@ -1,0 +1,41 @@
+{
+  "id": "caec4c2be94f4555bcd90b081ea8c631",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）嗯……大概有八分吧。胸口闷闷的，像压了块石头，脑子也一直转，停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打几分、身体什么感觉……她好像真的在认真听我说话，没有急着给建议。我稍微放松了一点，但心里还是有点乱。）嗯……大概有八分吧。身体上就是胸口闷闷的，像压了块石头，然后脑子一直在转，停不下来。",
+        "reasoning": "（咨询师问我打几分、身体什么感觉……她好像真的在认真听我说话，没有急着给建议。我稍微放松了一点，但心里还是有点乱。）嗯……大概有八分吧。身体上就是胸口闷闷的，像压了块石头，然后脑子一直在转，停不下来。"
+      }
+    }
+  ],
+  "created": 1795154378,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1636,
+    "total_tokens": 1734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

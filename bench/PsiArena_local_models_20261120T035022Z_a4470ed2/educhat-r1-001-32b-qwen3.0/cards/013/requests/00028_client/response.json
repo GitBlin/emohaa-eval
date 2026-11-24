@@ -1,0 +1,41 @@
+{
+  "id": "c7f4664b3fc444859595e864b0c3a82b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要是朋友……我肯定劝她别委屈自己。可轮到自己，怎么就做不到了呢？是不是我太怕做错选择了，怕将来后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我假设朋友遇到同样的问题，是想让我跳出自己的情绪，用更客观的角度看事情吧。可我一想到朋友，反而更清楚那种心疼的感觉，觉得她不该委屈自己。）\n（但轮到自己身上，那些道理就全不管用了。我嘴上说着让她别委屈，心里却怕做错选择，怕后悔，怕承担后果。这种矛盾让我有点烦躁，也有点难过。）",
+        "reasoning": "（咨询师让我假设朋友遇到同样的问题，是想让我跳出自己的情绪，用更客观的角度看事情吧。可我一想到朋友，反而更清楚那种心疼的感觉，觉得她不该委屈自己。）\n（但轮到自己身上，那些道理就全不管用了。我嘴上说着让她别委屈，心里却怕做错选择，怕后悔，怕承担后果。这种矛盾让我有点烦躁，也有点难过。）"
+      }
+    }
+  ],
+  "created": 1795147531,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2225,
+    "total_tokens": 2346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8b538642293c4b7fa6657e409eb6c6ce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯，今天先到这儿吧。那个信号灯……我回去试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想，语气比刚开始平稳了一些）嗯，差不多可以。至少我知道下次那种闷上来的时候，可以先看看自己在哪个颜色里，不用一下子就慌。今天……就先到这儿吧。",
+        "reasoning": "（想了想，语气比刚开始平稳了一些）嗯，差不多可以。至少我知道下次那种闷上来的时候，可以先看看自己在哪个颜色里，不用一下子就慌。今天……就先到这儿吧。"
+      }
+    }
+  ],
+  "created": 1795154882,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3432,
+    "total_tokens": 3494,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-4e9ae6cbc63e43ebb5de750de766bc91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询是专业陪伴，但我们可以专注解决问题。你提到工作问题，可以具体说说最近让你焦虑的事件吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者提出非咨询相关请求，可能反映对咨询关系的依赖或转移情感。\n【行动策略】：明确咨询边界，强化专业角色，同时肯定咨询效果，建议保持专注。\n",
+        "reasoning_content": "\n【诊断分析】：来访者提出非咨询相关请求，可能反映对咨询关系的依赖或转移情感。\n【行动策略】：明确咨询边界，强化专业角色，同时肯定咨询效果，建议保持专注。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148320,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 606,
+    "total_tokens": 682,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

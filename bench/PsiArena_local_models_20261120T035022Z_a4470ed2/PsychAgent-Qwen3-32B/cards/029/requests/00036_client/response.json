@@ -1,0 +1,41 @@
+{
+  "id": "092d155bf7764e9f95d3e83469bf5a75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还是信用卡……刷的时候真的没感觉。上个月账单出来我都吓一跳，可到了晚上又控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又问我支付方式，之前好像问过类似的。他是不是在找什么规律？我有点烦，但又觉得他可能是在帮我理清思路。信用卡的事我说过了，再重复一遍也没关系吧。）",
+        "reasoning": "（咨询师又问我支付方式，之前好像问过类似的。他是不是在找什么规律？我有点烦，但又觉得他可能是在帮我理清思路。信用卡的事我说过了，再重复一遍也没关系吧。）"
+      }
+    }
+  ],
+  "created": 1795147666,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2824,
+    "total_tokens": 2897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

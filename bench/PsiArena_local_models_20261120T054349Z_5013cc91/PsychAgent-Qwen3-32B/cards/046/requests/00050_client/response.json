@@ -1,0 +1,41 @@
+{
+  "id": "3edae544f62747858846fdccd6fb1d4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不用客气。你能把“停—怕”和记录带进这一周，就已经是在往前走了。下次我们看记录，再一起调整下一步。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第25轮，后期阶段，需要收束并确认未来方向，不再展开新问题。）回应来访者的感谢，确认记录任务和下次方向，语气稳定简短。",
+        "reasoning": "（第25轮，后期阶段，需要收束并确认未来方向，不再展开新问题。）回应来访者的感谢，确认记录任务和下次方向，语气稳定简短。"
+      }
+    }
+  ],
+  "created": 1795155183,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3559,
+    "total_tokens": 3630,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

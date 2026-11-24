@@ -1,0 +1,41 @@
+{
+  "id": "0f5e0ff587974637b129fcecbba7b1ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个画面很具体：能好好说两句，而不是你憋着。那如果要往这个方向走，你觉得第一步可以做什么？哪怕是很小的一步。<第17轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）也不指望多亲近，就希望见面能正常说话，别一开口我就绷着。比如孩子的事有分歧，能好好说两句，而不是我憋着、她越说越来劲。",
+        "reasoning": "（想了想）也不指望多亲近，就希望见面能正常说话，别一开口我就绷着。比如孩子的事有分歧，能好好说两句，而不是我憋着、她越说越来劲。"
+      }
+    }
+  ],
+  "created": 1795154288,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2682,
+    "total_tokens": 2791,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

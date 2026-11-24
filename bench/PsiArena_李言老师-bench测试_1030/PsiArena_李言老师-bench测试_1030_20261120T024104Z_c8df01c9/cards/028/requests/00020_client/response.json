@@ -1,0 +1,41 @@
+{
+  "id": "aa6624e2285c4727a395382994d2c56d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说：“妈，我周六下午想和朋友喝咖啡，晚饭前回来。”……这样说会不会太生硬？我又怕她接着问东问西。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我准备怎么说，感觉她希望我具体一点。我有点紧张，但想到刚才说“先想好怎么说”，现在真的要说出来，心里还是有点打鼓。我得说一句既表达自己、又不让她觉得我在对抗的话。）\n（“妈，我周六下午想和朋友喝咖啡，晚饭前回来”这句话比较实在，也留了余地。可说完之后呢？她要是皱眉或者叹气，我可能还是会慌。所以我想提前想好怎么接住她的反应，不然到时候又只能点头。）",
+        "reasoning": "（咨询师在问我准备怎么说，感觉她希望我具体一点。我有点紧张，但想到刚才说“先想好怎么说”，现在真的要说出来，心里还是有点打鼓。我得说一句既表达自己、又不让她觉得我在对抗的话。）\n（“妈，我周六下午想和朋友喝咖啡，晚饭前回来”这句话比较实在，也留了余地。可说完之后呢？她要是皱眉或者叹气，我可能还是会慌。所以我想提前想好怎么接住她的反应，不然到时候又只能点头。）"
+      }
+    }
+  ],
+  "created": 1795143142,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2872,
+    "total_tokens": 3019,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

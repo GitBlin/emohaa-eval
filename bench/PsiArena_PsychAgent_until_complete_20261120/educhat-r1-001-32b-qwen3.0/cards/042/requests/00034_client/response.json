@@ -1,0 +1,41 @@
+{
+  "id": "0577dfddac0741deaebb7b35f9d1e3e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一步……我想试试晚上那顿酒，先减一半。就一半，我不敢说全戒，怕自己做不到又自责。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注身体发出的信号，还问我第一步该做什么。说实话，我从来没认真想过调整节奏这种事，总觉得停下来就是认输。）\n（但刚才说到身体在硬撑，我心里确实有点触动。手抖、糖尿病，这些不是闹着玩的。也许真该试试晚上少喝点，哪怕就一点点改变。）",
+        "reasoning": "（咨询师在引导我关注身体发出的信号，还问我第一步该做什么。说实话，我从来没认真想过调整节奏这种事，总觉得停下来就是认输。）\n（但刚才说到身体在硬撑，我心里确实有点触动。手抖、糖尿病，这些不是闹着玩的。也许真该试试晚上少喝点，哪怕就一点点改变。）"
+      }
+    }
+  ],
+  "created": 1795155086,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2436,
+    "total_tokens": 2537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

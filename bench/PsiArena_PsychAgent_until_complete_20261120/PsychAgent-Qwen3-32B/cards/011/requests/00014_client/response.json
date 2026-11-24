@@ -1,0 +1,41 @@
+{
+  "id": "e78c8d90621e44c6a9aaf7a42208aa63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不上来具体要什么支持……可能只是有个人听我讲，不用马上告诉我该怎么做。要是每次都等到快撑不住才说，会不会太麻烦你？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，这是第7轮，仍处于初期。用户上一轮回应了我关于“多联系”的界限测试，咨询师给了比较清晰的回应。现在我需要继续在初期阶段，但这一轮只针对一个方面。规则说每轮只针对对话规则中的一个方面进行回复。第7轮是初期最后阶段，可以稍微过渡到第8轮中期，但严格说第7轮还是初期。我应该回应咨询师问的“希望得到什么样的支持”，但保持模糊，不要深入。也可以表现出一点试探后的稍微放松，但仍有防御。简短2-3句。可以表达不知道具体要什么支持，只是不想一个人熬，或者稍微提到“也许有人听我说说就行”。保持犹豫和不确定。",
+        "reasoning": "好的，这是第7轮，仍处于初期。用户上一轮回应了我关于“多联系”的界限测试，咨询师给了比较清晰的回应。现在我需要继续在初期阶段，但这一轮只针对一个方面。规则说每轮只针对对话规则中的一个方面进行回复。第7轮是初期最后阶段，可以稍微过渡到第8轮中期，但严格说第7轮还是初期。我应该回应咨询师问的“希望得到什么样的支持”，但保持模糊，不要深入。也可以表现出一点试探后的稍微放松，但仍有防御。简短2-3句。可以表达不知道具体要什么支持，只是不想一个人熬，或者稍微提到“也许有人听我说说就行”。保持犹豫和不确定。"
+      }
+    }
+  ],
+  "created": 1795153783,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 191,
+    "prompt_tokens": 1558,
+    "total_tokens": 1749,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 153,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

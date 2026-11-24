@@ -1,0 +1,41 @@
+{
+  "id": "56e530512d0d4bfdbfb268e632701696",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个步子不大，也留了退路。你打算在接下来的一周里，什么时候做这个小尝试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，可行。我可以先不急着说那件事，先看他的反应。这样好像没那么吓人。",
+        "reasoning": "嗯，可行。我可以先不急着说那件事，先看他的反应。这样好像没那么吓人。"
+      }
+    }
+  ],
+  "created": 1795148107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 2720,
+    "total_tokens": 2768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

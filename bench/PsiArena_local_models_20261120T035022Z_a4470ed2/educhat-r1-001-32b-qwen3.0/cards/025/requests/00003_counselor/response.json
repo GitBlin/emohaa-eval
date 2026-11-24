@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e54111989cd24023905e7e4fb7f4011d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没关系，你只需说出你的感受，我会根据你的描述提供帮助。你有什么想说的吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：初次接触时对咨询方式存在困惑，需要明确角色定位。\n【行动策略】：明确咨询师角色，建立安全环境，鼓励自由表达。\n",
+        "reasoning_content": "\n【诊断分析】：初次接触时对咨询方式存在困惑，需要明确角色定位。\n【行动策略】：明确咨询师角色，建立安全环境，鼓励自由表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148586,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 288,
+    "total_tokens": 351,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

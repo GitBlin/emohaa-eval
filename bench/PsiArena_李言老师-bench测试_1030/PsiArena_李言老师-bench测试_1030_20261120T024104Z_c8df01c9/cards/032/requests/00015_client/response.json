@@ -1,0 +1,41 @@
+{
+  "id": "d61e416abe244128bdcf95288e917292",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十秒……听起来不难，但我一慌起来可能根本想不起来。不过我可以试试，至少别每次都急着先道歉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，用户现在处于中期对话的尾声，咨询师提出了一个具体建议：下次情绪上来时先停十秒，分辨是“自己说多了”还是“对方没回应”。我需要模拟来访者的反应。\n\n用户之前已经表达过自己容易先反省、道歉，觉得没底气。现在咨询师给了个具体方法，她可能会觉得有点难，但愿意试试。她可能还会担心自己做不到，或者觉得这个方法太简单了，不一定有用。考虑到她的性格敏感、冲动，她可能会有点犹豫，但也会有一丝希望。\n\n我需要表现出她对这个建议的复杂感受：一方面觉得可以试试，另一方面又怀疑自己能不能做到。她可能会提到自己冲动的时候很难停下来，或者担心即使停了十秒，还是会回到原来的模式。这样既回应了咨询师的建议，又保持了真实的情感波动和犹豫。",
+        "reasoning": "好的，用户现在处于中期对话的尾声，咨询师提出了一个具体建议：下次情绪上来时先停十秒，分辨是“自己说多了”还是“对方没回应”。我需要模拟来访者的反应。\n\n用户之前已经表达过自己容易先反省、道歉，觉得没底气。现在咨询师给了个具体方法，她可能会觉得有点难，但愿意试试。她可能还会担心自己做不到，或者觉得这个方法太简单了，不一定有用。考虑到她的性格敏感、冲动，她可能会有点犹豫，但也会有一丝希望。\n\n我需要表现出她对这个建议的复杂感受：一方面觉得可以试试，另一方面又怀疑自己能不能做到。她可能会提到自己冲动的时候很难停下来，或者担心即使停了十秒，还是会回到原来的模式。这样既回应了咨询师的建议，又保持了真实的情感波动和犹豫。"
+      }
+    }
+  ],
+  "created": 1795143264,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 200,
+    "prompt_tokens": 2358,
+    "total_tokens": 2558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 173,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d97dfa0ad78e4b799c210441bef8def3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（连忙摆手）啊不是，不是那种突发的，就是紧张的时候慢慢紧起来的。（有点担心）不过听你这么说，我是不是该去查一下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然提到就医，让我有点意外。我本来只是在说紧张时的身体感受，没想到会这么严肃。胸口发紧确实让我不舒服，但应该不至于要急救吧。）\n（不过被这么一问，我也开始留意了。这种紧好像是慢慢积累的，不是突然来的。我得把这点说清楚，免得咨询师太担心。）",
+        "reasoning": "（咨询师突然提到就医，让我有点意外。我本来只是在说紧张时的身体感受，没想到会这么严肃。胸口发紧确实让我不舒服，但应该不至于要急救吧。）\n（不过被这么一问，我也开始留意了。这种紧好像是慢慢积累的，不是突然来的。我得把这点说清楚，免得咨询师太担心。）"
+      }
+    }
+  ],
+  "created": 1795142655,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2966,
+    "total_tokens": 3075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

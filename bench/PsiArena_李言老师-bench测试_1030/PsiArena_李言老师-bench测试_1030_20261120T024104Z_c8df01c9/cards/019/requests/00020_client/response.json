@@ -1,0 +1,41 @@
+{
+  "id": "779fdfebaf4c4c51aeafcec1a8cdde5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想让她记住：“我现在不想聊相亲，等我准备好再说。”这样是不是没那么冲？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想让她记住哪句话，看来是想帮我把边界表达得更清楚。我其实不想把话说得太重，但又怕妈妈不当回事。得找一句既没那么冲、又能让她明白我现在真的不想聊的话。）\n（“我现在不想聊相亲，等我准备好再说”应该可以吧。这样说了她至少知道不是我不愿意沟通，只是需要一点时间。不过……我还是有点担心她听完会继续追问，好像我给了个期限她就更盯着我了。）",
+        "reasoning": "（她问我最想让她记住哪句话，看来是想帮我把边界表达得更清楚。我其实不想把话说得太重，但又怕妈妈不当回事。得找一句既没那么冲、又能让她明白我现在真的不想聊的话。）\n（“我现在不想聊相亲，等我准备好再说”应该可以吧。这样说了她至少知道不是我不愿意沟通，只是需要一点时间。不过……我还是有点担心她听完会继续追问，好像我给了个期限她就更盯着我了。）"
+      }
+    }
+  ],
+  "created": 1795143065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2839,
+    "total_tokens": 2959,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

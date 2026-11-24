@@ -1,0 +1,41 @@
+{
+  "id": "e68ea4e175d94b5da2749a66ae21a1e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "特定场合……可是我怎么分得清哪些场合该提醒、哪些不该呢？有时候我笑着笑着，脑子里那个声音就冒出来了，根本控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到把那些声音想象成闹钟，可以调整提醒的时间。这让我想到自己确实一直在被这些声音困扰，但好像从来没想过可以控制它们出现的时机。或许我可以试着区分一下场合？）\n（不过这种区分说起来容易，做起来难。家里和同事的提醒几乎无处不在，尤其是当我想表达真实情绪的时候，那些声音就会自动冒出来。我是不是太在意别人的看法了？这种在意好像已经成了习惯，甚至让我有点分不清哪些情绪是该表达的，哪些是该藏起来的。）",
+        "reasoning": "（咨询师提到把那些声音想象成闹钟，可以调整提醒的时间。这让我想到自己确实一直在被这些声音困扰，但好像从来没想过可以控制它们出现的时机。或许我可以试着区分一下场合？）\n（不过这种区分说起来容易，做起来难。家里和同事的提醒几乎无处不在，尤其是当我想表达真实情绪的时候，那些声音就会自动冒出来。我是不是太在意别人的看法了？这种在意好像已经成了习惯，甚至让我有点分不清哪些情绪是该表达的，哪些是该藏起来的。）"
+      }
+    }
+  ],
+  "created": 1795147231,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1644,
+    "total_tokens": 1789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

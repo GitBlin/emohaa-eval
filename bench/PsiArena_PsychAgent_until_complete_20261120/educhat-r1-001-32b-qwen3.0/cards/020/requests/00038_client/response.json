@@ -1,0 +1,41 @@
+{
+  "id": "e8692cca87f84d2f82e0bb888366bc85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先从孩子的事说起吧，这个他也在意。比如婆婆当着孩子面说我的那些话，我想让他知道，这不是小事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪个话题切入最安全……看来是想帮我把谈话的步子迈小一点。我得想想，哪些话说了不会一下子炸开，又确实是我心里堵着的。）\n（孩子的事应该是最不容易吵起来的吧，毕竟他也疼孩子。而且这确实是我最担心的地方，说出来也不算翻旧账。）",
+        "reasoning": "（她问我从哪个话题切入最安全……看来是想帮我把谈话的步子迈小一点。我得想想，哪些话说了不会一下子炸开，又确实是我心里堵着的。）\n（孩子的事应该是最不容易吵起来的吧，毕竟他也疼孩子。而且这确实是我最担心的地方，说出来也不算翻旧账。）"
+      }
+    }
+  ],
+  "created": 1795154242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2486,
+    "total_tokens": 2584,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

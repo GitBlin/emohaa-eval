@@ -1,0 +1,41 @@
+{
+  "id": "6addaa3cb5df477bb5d689afb32d7392",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先弄清楚自己能承受什么吧，老是猜她怎么想，太累了。也许可以从少接一次电话试试，但我还是有点心虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想弄清楚哪一边……这让我有点犹豫。其实我从来没认真想过自己真正能承受什么，总是先猜我妈会怎么想。但也许她说得对，我该先搞清楚自己这头。）\n（可是直接说“我的边界”好像太自私了，我妈肯定会觉得我变了。不过……我确实累了，不想每次都硬撑。先从小的试试吧，比如少接一次电话，看看自己能不能承受。）",
+        "reasoning": "（她问我更想弄清楚哪一边……这让我有点犹豫。其实我从来没认真想过自己真正能承受什么，总是先猜我妈会怎么想。但也许她说得对，我该先搞清楚自己这头。）\n（可是直接说“我的边界”好像太自私了，我妈肯定会觉得我变了。不过……我确实累了，不想每次都硬撑。先从小的试试吧，比如少接一次电话，看看自己能不能承受。）"
+      }
+    }
+  ],
+  "created": 1795143123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2718,
+    "total_tokens": 2843,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

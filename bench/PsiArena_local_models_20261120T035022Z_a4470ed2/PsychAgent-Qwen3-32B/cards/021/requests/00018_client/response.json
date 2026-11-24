@@ -1,0 +1,41 @@
+{
+  "id": "4f62417add4c4bfcb0a04a86f0bb730c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是会绷着，一整天都松不下来。有时候在病房里听着我妈说以前的事，我……我突然就想发火，可又不能发。其实我很怕，怕她也像外公和舅舅那样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是“就该我扛”的时候身体和情绪会有什么变化……这让我想起每次在病房里那种喘不上气的压迫感。可能我确实一直绷得太紧了，但又不愿意承认自己撑不住。）\n（作为长子，这些话平时根本没法跟家里人说。现在说出来反而有点停不下来，想让她知道那种恐惧不是突然来的，是早就埋下的。）",
+        "reasoning": "（她问的是“就该我扛”的时候身体和情绪会有什么变化……这让我想起每次在病房里那种喘不上气的压迫感。可能我确实一直绷得太紧了，但又不愿意承认自己撑不住。）\n（作为长子，这些话平时根本没法跟家里人说。现在说出来反而有点停不下来，想让她知道那种恐惧不是突然来的，是早就埋下的。）"
+      }
+    }
+  ],
+  "created": 1795147236,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1598,
+    "total_tokens": 1724,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

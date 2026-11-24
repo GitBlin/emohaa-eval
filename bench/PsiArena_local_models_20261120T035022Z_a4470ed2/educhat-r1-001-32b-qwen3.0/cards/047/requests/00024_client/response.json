@@ -1,0 +1,41 @@
+{
+  "id": "6b176872b1aa470ea4b62d462a729885",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪边界……这个词我听着有点陌生。（犹豫）但是想想，我好像确实分不清哪些是别人的情绪，哪些是我自己的。有时候学生没事了，我还在难受半天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到我可能继承了母亲的敏感，这让我突然意识到一些事情。她说要建立情绪边界，这个词对我来说有点陌生，但好像又戳中了什么。我确实总是把别人的情绪当成自己的责任，尤其是学生的。也许这就是为什么我总在课堂上控制不住眼泪。）\n（想到同事们的反应，他们可能觉得我太情绪化了吧。但更让我难受的是，我好像真的在怀疑自己适不适合当老师。这种自我怀疑比流泪本身更折磨人。我得把这种困惑说出来，虽然有点难为情。）",
+        "reasoning": "（咨询师提到我可能继承了母亲的敏感，这让我突然意识到一些事情。她说要建立情绪边界，这个词对我来说有点陌生，但好像又戳中了什么。我确实总是把别人的情绪当成自己的责任，尤其是学生的。也许这就是为什么我总在课堂上控制不住眼泪。）\n（想到同事们的反应，他们可能觉得我太情绪化了吧。但更让我难受的是，我好像真的在怀疑自己适不适合当老师。这种自我怀疑比流泪本身更折磨人。我得把这种困惑说出来，虽然有点难为情。）"
+      }
+    }
+  ],
+  "created": 1795150246,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 1817,
+    "total_tokens": 1970,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

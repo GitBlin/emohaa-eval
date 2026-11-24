@@ -1,0 +1,41 @@
+{
+  "id": "2a1f4a728fa14836bfe16fface098cc2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像更怕他不在乎我……不是担心他出事。是不是我太容易把事情往自己身上扯了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我是担心出事还是担心不在乎，这问题戳到我了。其实我从来没担心过他出事，那种念头根本没出现过。每次他不回，我脑子里全是他在跟别人聊天、或者觉得我烦、不想理我。）\n（可承认这个让我有点难堪。我是不是太可笑了，一条消息而已，就能让我觉得自己被丢下了。但我又不想在他面前显得太脆弱，好像我连这点事都扛不住。）",
+        "reasoning": "（他问我是担心出事还是担心不在乎，这问题戳到我了。其实我从来没担心过他出事，那种念头根本没出现过。每次他不回，我脑子里全是他在跟别人聊天、或者觉得我烦、不想理我。）\n（可承认这个让我有点难堪。我是不是太可笑了，一条消息而已，就能让我觉得自己被丢下了。但我又不想在他面前显得太脆弱，好像我连这点事都扛不住。）"
+      }
+    }
+  ],
+  "created": 1795143318,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2220,
+    "total_tokens": 2339,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

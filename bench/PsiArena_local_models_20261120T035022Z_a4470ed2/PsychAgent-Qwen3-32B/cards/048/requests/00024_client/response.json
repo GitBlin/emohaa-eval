@@ -1,0 +1,41 @@
+{
+  "id": "e38cbcfbee3047b197fbe4c3f08115a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……是紧，像有一小块绷着。呼吸的时候，它好像松了一点，又没完全松。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我留意呼吸和胃部的感觉……我本来还有点抗拒，觉得这会不会是在绕开眼霜的事。但真的静下来注意的时候，胃那里好像确实有一块紧紧的，不是疼，就是绷着。说不上来是热还是冷，就是紧。）",
+        "reasoning": "（咨询师让我留意呼吸和胃部的感觉……我本来还有点抗拒，觉得这会不会是在绕开眼霜的事。但真的静下来注意的时候，胃那里好像确实有一块紧紧的，不是疼，就是绷着。说不上来是热还是冷，就是紧。）"
+      }
+    }
+  ],
+  "created": 1795148855,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2032,
+    "total_tokens": 2117,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

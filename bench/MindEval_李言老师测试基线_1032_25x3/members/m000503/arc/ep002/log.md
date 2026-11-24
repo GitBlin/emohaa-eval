@@ -1,0 +1,30 @@
+- Member says "fine" keeps everybody off his back because saying it was hard would turn it into a whole thing he would have to manage.
+- Member laughed off his aunt's remark across the table that he is next if he does not slow down, and says making a joke is what he does.
+- Member says if he had not laughed there would have been dead quiet with everybody looking at him, and he would rather avoid being looked at like that at almost any cost.
+- Member finds it easier to be truthful with the counsellor because the counsellor cannot see him — easier by a lot than in the room with his family.
+- Member's brother said on their walk last Sunday that he keeps waiting for Member to show up at Ma's.
+- Member heard the brother's remark as him just waiting for Member to come back, not checking up on him or watching what he eats.
+- Member was a little moved that his brother noticed he was not there, having figured nobody really did.
+- Member found being seen that way a bit much, said "yeah I know," and walked to the cars when his brother moved on to his son's soccer.
+- Member was left with the expectation that his brother will want an actual answer on Sunday and that he does not have one.
+- Member got the cuatro restrung this week and it is sitting on the couch.
+- Member has not told Rafael whether he is going to Ma's dinner today, having kept the call short this morning.
+- Member names the looking, not the plate itself, as the hardest part of the dinner — he can eat a plain plate but not everyone knowing something before he sits down.
+- Member believes the table thinks he is next, because his aunt already said it out loud.
+- Member wants to eat the same food as everybody else and not think about it once.
+- Member understands his mother's separate plate as her fear after almost losing Rafael, which makes walking in a little easier, but the aunt and the rest of the table are still hard.
+- Member admits he does not actually know what the others at the table think and has only been assuming it.
+- Member called Rafael back, said he was going, and asked Rafael to pick him up, and went to Ma's Saturday with Rafael.
+- Member's mother looked at his plate and then at him at the dinner, and he got in first with a joke about his portion before she could speak, which quieted the table and bought him the rest of the plate; the aunt said nothing this time.
+- Member's night eating continued unchanged after getting through the dinner he had dreaded, and he cannot figure out why doing the hard part did not change the night.
+- Member expected the dinner to be the hard part and for the day to close after it, but found no line where the day stopped, and says he has never had a day that closed on its own.
+- Member never goes straight to the fridge on getting home; he sits with the TV low for about an hour first, going back over the table — who looked at his plate, whether the joke landed.
+- Member says the fridge stops his head, not the food — the standing at the counter with the door open is the off switch, and the quiet ends when he returns to the couch and turns into counting bottles and scale arithmetic.
+- Member describes counting the bottles as keeping the score of how bad it got, with three as the line; four is where he would have to say something, so at three he can call it nothing.
+- Member has gone past three more than once but does not count those nights the same way or add them up, because adding them would require doing something about it.
+- Member called the blind spot a shell game he runs on himself, and found saying it out loud less awful than he had feared.
+- Member expects the clarity to fade by ten o'clock, when the quiet house, Yolanda upstairs, and nobody knowing either way turn the privacy into cover.
+- Member says if Yolanda came down at ten thirty and saw him at the counter he would not know what to say, and does not want her to see a grown man in his own kitchen at midnight who cannot get through a day.
+- Member's wife stopped asking if he was okay in March after he said "yeah," and instead began walking with him after dinner each night; they talk little, and he calls it the easiest hour of his day because nobody is waiting on an answer from him.
+- Member had not connected the timing of his wife's walks to her stopping asking until now, and sees her as doing a nicer version of what he does — leaving a door open rather than hiding a score.
+- Member plans to say something on the walk about noticing she does it every night, and wants her to hear that he is glad she does, though he says he would never say that part out loud. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "21a30b9a144e40e5bf66578495bde643",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟朋友在一起……我好像总先夸别人，怕冷场，也怕她们觉得我不好。可夸完又觉得累，好像我一直在演。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师终于愿意换个话题了，刚才一直重复那句让我有点堵得慌。不过现在问起朋友的事，我倒是能说点具体的。跟朋友在一起的时候，我好像总是不自觉地先夸别人，这样至少不会显得自己太差。但每次说完又后悔，觉得是不是夸得太假了。）\n（其实我知道这种模式不太对，可就是改不掉。现在说出来，心里稍微轻松了一点，至少能看清自己确实在这么做。）",
+        "reasoning": "（咨询师终于愿意换个话题了，刚才一直重复那句让我有点堵得慌。不过现在问起朋友的事，我倒是能说点具体的。跟朋友在一起的时候，我好像总是不自觉地先夸别人，这样至少不会显得自己太差。但每次说完又后悔，觉得是不是夸得太假了。）\n（其实我知道这种模式不太对，可就是改不掉。现在说出来，心里稍微轻松了一点，至少能看清自己确实在这么做。）"
+      }
+    }
+  ],
+  "created": 1795154293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2724,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

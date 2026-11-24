@@ -1,0 +1,41 @@
+{
+  "id": "740757efe0f145a9b851f7483716401a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对自己说好话？我试试吧……不过说出来有点假。其实我最近还想起以前丢过的一把梳子，也是特意挑的，我是不是特别容易把东西弄丢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又给我提了个建议，让我每天给自己一句肯定。听起来是挺简单的，可我真能做到吗？我妈从小就说我做事毛躁，现在自己夸自己，总觉得有点假，像是在骗自己。）\n（而且我最近丢的东西不止眼霜，那根梳子也找不到了。我是不是真的越来越糟糕了？连这些小事都做不好，还谈什么肯定自己。）",
+        "reasoning": "（咨询师又给我提了个建议，让我每天给自己一句肯定。听起来是挺简单的，可我真能做到吗？我妈从小就说我做事毛躁，现在自己夸自己，总觉得有点假，像是在骗自己。）\n（而且我最近丢的东西不止眼霜，那根梳子也找不到了。我是不是真的越来越糟糕了？连这些小事都做不好，还谈什么肯定自己。）"
+      }
+    }
+  ],
+  "created": 1795155351,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1707,
+    "total_tokens": 1835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

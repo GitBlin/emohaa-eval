@@ -1,0 +1,41 @@
+{
+  "id": "cb878e2e000f4849ba88be9d8d63c09f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更怕她追问朋友是谁，然后开始评价。要是她问，我可以说“就是普通朋友，我已经定好了”，这样说会不会太顶？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想具体怎么跟妈妈说，还问我更担心她追问什么。我确实怕她追问朋友是谁，因为一追问我就容易觉得被审问，然后不耐烦或者心虚，最后又变成她说了算。）\n（也许我可以先承认自己怕被追问，再跟咨询师商量一个不那么容易吵起来的回应方式。这样至少这次不会一开始就缩回去。）",
+        "reasoning": "（咨询师在帮我想具体怎么跟妈妈说，还问我更担心她追问什么。我确实怕她追问朋友是谁，因为一追问我就容易觉得被审问，然后不耐烦或者心虚，最后又变成她说了算。）\n（也许我可以先承认自己怕被追问，再跟咨询师商量一个不那么容易吵起来的回应方式。这样至少这次不会一开始就缩回去。）"
+      }
+    }
+  ],
+  "created": 1795143148,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2981,
+    "total_tokens": 3095,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

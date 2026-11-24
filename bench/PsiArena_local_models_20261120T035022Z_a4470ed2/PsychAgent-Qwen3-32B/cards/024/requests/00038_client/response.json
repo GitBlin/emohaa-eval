@@ -1,0 +1,41 @@
+{
+  "id": "d5f23b6243d14fadaf1e44e08697362c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "慢呼吸我试试……不过我怕真到那时候又僵住了。要不我先在心里默念一遍，再开口？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师已经问到第19轮了，我这次还要只针对一个方面回应。现在在后期阶段，情绪趋于稳定，应该具体化行动计划。我可以说自己愿意试试，但还担心做不好，这样比较真实。）",
+        "reasoning": "（刚才咨询师已经问到第19轮了，我这次还要只针对一个方面回应。现在在后期阶段，情绪趋于稳定，应该具体化行动计划。我可以说自己愿意试试，但还担心做不好，这样比较真实。）"
+      }
+    }
+  ],
+  "created": 1795147375,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2798,
+    "total_tokens": 2874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

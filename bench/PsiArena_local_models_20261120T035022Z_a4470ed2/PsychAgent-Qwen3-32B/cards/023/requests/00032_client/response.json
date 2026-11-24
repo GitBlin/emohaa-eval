@@ -1,0 +1,41 @@
+{
+  "id": "05f0d772d6704d498191030625b2447c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（语气比刚才稳了些）我不想再每次都吵，可一被逼就控制不住。要是能先学会怎么开口，可能就不会闹到摔东西那一步。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，认真想了想）更像被堵住吧……想说的话说不出来。其实我不是不想亲近他们，就是每次一开口就变成吵。也许我得先想清楚自己到底要什么。",
+        "reasoning": "（停顿，认真想了想）更像被堵住吧……想说的话说不出来。其实我不是不想亲近他们，就是每次一开口就变成吵。也许我得先想清楚自己到底要什么。"
+      }
+    }
+  ],
+  "created": 1795147292,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 2614,
+    "total_tokens": 2693,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

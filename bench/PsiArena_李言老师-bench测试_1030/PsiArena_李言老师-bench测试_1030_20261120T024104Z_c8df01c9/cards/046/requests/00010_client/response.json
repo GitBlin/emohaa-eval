@@ -1,0 +1,41 @@
+{
+  "id": "61ffecea33d64af6bff49f033c2c6833",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，被你这么一问，我有点答不上来。好像真轮到自己选，我反而不知道什么才算好，就怕选错了又被人说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注自己的需求，而不是先考虑别人。这让我有点不习惯，甚至有些慌，因为“自己想要什么”这个问题我好像很少认真面对过。）\n（家里从小就是父母说了算，我提意见也常被说成不懂事，久而久之就不太敢想自己真正想要什么了。现在被这么一问，反而有点空，不知道该从哪儿说起。）",
+        "reasoning": "（咨询师在引导我关注自己的需求，而不是先考虑别人。这让我有点不习惯，甚至有些慌，因为“自己想要什么”这个问题我好像很少认真面对过。）\n（家里从小就是父母说了算，我提意见也常被说成不懂事，久而久之就不太敢想自己真正想要什么了。现在被这么一问，反而有点空，不知道该从哪儿说起。）"
+      }
+    }
+  ],
+  "created": 1795143537,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1801,
+    "total_tokens": 1917,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b9a81e0cd3cb4633b7820b77715a90cf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟可能有点长，我估计五分钟就会坐不住。不过……可以先从五分钟试试吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师一直在给我具体的方法……说实话我有点想试，但又怕自己做不到。十分钟会不会太长？我可能五分钟就开始坐不住了。不过也许可以先从短一点的开始，至少比一直盯着手机强。）",
+        "reasoning": "（这个咨询师一直在给我具体的方法……说实话我有点想试，但又怕自己做不到。十分钟会不会太长？我可能五分钟就开始坐不住了。不过也许可以先从短一点的开始，至少比一直盯着手机强。）"
+      }
+    }
+  ],
+  "created": 1795154832,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2198,
+    "total_tokens": 2266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3a8c483c18454f26b765597faa1da970",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好的。那……下次咨询是什么时候？我想把试的结果跟你说说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我注意到咨询师在鼓励我，但心里还是有点打鼓。不过既然已经聊到这儿了，不如把下次的时间定下来，这样心里也有个底。问时间会不会显得太着急？算了，反正这也是正常的事。）",
+        "reasoning": "（我注意到咨询师在鼓励我，但心里还是有点打鼓。不过既然已经聊到这儿了，不如把下次的时间定下来，这样心里也有个底。问时间会不会显得太着急？算了，反正这也是正常的事。）"
+      }
+    }
+  ],
+  "created": 1795146804,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3258,
+    "total_tokens": 3327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

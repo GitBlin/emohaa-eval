@@ -1,0 +1,41 @@
+{
+  "id": "f3a7c3ad5d404973ab6f811531eae50a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）会马上觉得……是不是我太着急了，或者他觉得我不值得认真。然后就忍不住想，是不是我自己不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问起那个同事回避时我第一个念头是什么。其实每次他一躲，我心里就立刻有个声音说“他没那么喜欢你”，然后就开始怀疑自己是不是哪里不够好。但这话说出来有点丢人，我平时连对自己都不太愿意承认。）嗯……我想想。就是……会马上觉得，是不是我太着急了，或者他觉得我不值得认真。然后就开始想自己是不是不够好。",
+        "reasoning": "（对方问起那个同事回避时我第一个念头是什么。其实每次他一躲，我心里就立刻有个声音说“他没那么喜欢你”，然后就开始怀疑自己是不是哪里不够好。但这话说出来有点丢人，我平时连对自己都不太愿意承认。）嗯……我想想。就是……会马上觉得，是不是我太着急了，或者他觉得我不值得认真。然后就开始想自己是不是不够好。"
+      }
+    }
+  ],
+  "created": 1795154841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1747,
+    "total_tokens": 1864,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

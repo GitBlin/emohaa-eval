@@ -1,0 +1,41 @@
+{
+  "id": "a938d1d3be40451cb17bb9a0883c81df",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "便签……这个我还能试试，不用花太多力气。呼吸练习我怕自己静不下来，反而更烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法落到具体做法上，没有逼我马上改变。便签和呼吸练习听起来都不难，但我怕自己坚持不下去，到时候又觉得自己不行。也许可以先选一个最不容易失败的，比如便签，至少不用额外花时间。）",
+        "reasoning": "（咨询师在帮我把想法落到具体做法上，没有逼我马上改变。便签和呼吸练习听起来都不难，但我怕自己坚持不下去，到时候又觉得自己不行。也许可以先选一个最不容易失败的，比如便签，至少不用额外花时间。）"
+      }
+    }
+  ],
+  "created": 1795148785,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2941,
+    "total_tokens": 3023,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

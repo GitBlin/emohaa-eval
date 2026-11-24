@@ -1,0 +1,41 @@
+{
+  "id": "fc6ec3e4d8ed4081bd5af2c23a6f5eec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来，就是那个低着头的背影，让我心里一下子很酸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我想想……可能是有一次，他们笑完之后，他一个人坐在那边，低着头。那个样子……我好像在哪见过，但又说不上来。",
+        "reasoning": "嗯，我想想……可能是有一次，他们笑完之后，他一个人坐在那边，低着头。那个样子……我好像在哪见过，但又说不上来。"
+      }
+    }
+  ],
+  "created": 1795154775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 1877,
+    "total_tokens": 1929,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

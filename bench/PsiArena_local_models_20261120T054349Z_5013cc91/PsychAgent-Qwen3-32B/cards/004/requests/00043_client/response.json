@@ -1,0 +1,41 @@
+{
+  "id": "96b94c72811e4c9daca03d5dde66464b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（小声）可能……放学后吧，操场上人少一点。我就说“老师，我有点事想跟你说”，行吗？",
+        "reasoning": "（小声）可能……放学后吧，操场上人少一点。我就说“老师，我有点事想跟你说”，行吗？"
+      }
+    }
+  ],
+  "created": 1795153632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 30,
+    "prompt_tokens": 3351,
+    "total_tokens": 3381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

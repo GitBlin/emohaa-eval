@@ -1,0 +1,41 @@
+{
+  "id": "a34b0012f31f412e86acc7ae46babe63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻呼了口气）谢谢您这么说。对了，关于同桌……我想试着跟她聊聊，但不知道该怎么开口，怕说错话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我，说我不是一个人。这让我觉得有点安心，但想到要面对考试还是有点怕。不过他说可以一起分析，这让我觉得可以试试看。）\n（我其实还是有点担心，但至少现在知道考砸了也不是世界末日。也许我该问问怎么跟同桌说，毕竟每天坐一起，不说话也挺难受的。）",
+        "reasoning": "（咨询师在鼓励我，说我不是一个人。这让我觉得有点安心，但想到要面对考试还是有点怕。不过他说可以一起分析，这让我觉得可以试试看。）\n（我其实还是有点担心，但至少现在知道考砸了也不是世界末日。也许我该问问怎么跟同桌说，毕竟每天坐一起，不说话也挺难受的。）"
+      }
+    }
+  ],
+  "created": 1795150079,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2700,
+    "total_tokens": 2807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

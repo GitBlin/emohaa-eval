@@ -1,0 +1,41 @@
+{
+  "id": "665e110706694f0fb0a54ea320a06c28",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "只带手机……听起来好像也行，不用花钱买那些乱七八糟的。不过我怕自己坚持不了几天，我这人挺没长性的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到用手机拍照专注生活小美好，这让我想起以前纯粹喜欢拍照的感觉。也许可以试试看，但心里还是有点没底，怕自己坚持不下来。）\n（不过现在确实想做出些改变，光靠买东西解决不了问题。先从小事做起吧，比如限制购物时间，这样至少能少看些广告少冲动。）",
+        "reasoning": "（咨询师提到用手机拍照专注生活小美好，这让我想起以前纯粹喜欢拍照的感觉。也许可以试试看，但心里还是有点没底，怕自己坚持不下来。）\n（不过现在确实想做出些改变，光靠买东西解决不了问题。先从小事做起吧，比如限制购物时间，这样至少能少看些广告少冲动。）"
+      }
+    }
+  ],
+  "created": 1795149061,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2416,
+    "total_tokens": 2522,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

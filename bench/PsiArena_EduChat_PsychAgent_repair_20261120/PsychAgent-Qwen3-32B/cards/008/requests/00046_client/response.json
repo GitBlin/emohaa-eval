@@ -1,0 +1,41 @@
+{
+  "id": "d99dadea971543de8c5e394143a3de75",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，锁屏挺好的，我一天到晚都在看手机。就是……我有点怕自己看到那句反而更紧张，像在提醒我“待会儿要表现好”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提议把卡片放手机锁屏，还让我调大字体，这挺实际的。我本来有点怕自己会忘，现在感觉这个提醒能随时看到，心里稍微踏实一点。不过我还是会担心真到那个场合又缩回去。可以顺着这个想法说，不用太深入，先承认这个安排可行，再带一点自己的顾虑。）",
+        "reasoning": "（她提议把卡片放手机锁屏，还让我调大字体，这挺实际的。我本来有点怕自己会忘，现在感觉这个提醒能随时看到，心里稍微踏实一点。不过我还是会担心真到那个场合又缩回去。可以顺着这个想法说，不用太深入，先承认这个安排可行，再带一点自己的顾虑。）"
+      }
+    }
+  ],
+  "created": 1795153697,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3444,
+    "total_tokens": 3557,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

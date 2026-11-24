@@ -1,0 +1,41 @@
+{
+  "id": "71b522c791014081be327497f1cfb029",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "例子……工作上吧，我平时挺能说笑的，可一到私下约同事，就常常没人回应。我也说不清是不是我哪里让人觉得不好接近。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的例子，看来是想要我多说一些。但我现在还不太确定能不能完全信任她，毕竟才刚开始聊。不过她一直说我的感受是真实的，让我稍微放松了一点。）\n（我想说工作上的事，但又觉得说出来会不会显得我很奇怪。同事们的反应让我很受伤，可我也不想显得太在意。也许可以先模糊地提一下，看看她怎么回应。）",
+        "reasoning": "（咨询师在问我具体的例子，看来是想要我多说一些。但我现在还不太确定能不能完全信任她，毕竟才刚开始聊。不过她一直说我的感受是真实的，让我稍微放松了一点。）\n（我想说工作上的事，但又觉得说出来会不会显得我很奇怪。同事们的反应让我很受伤，可我也不想显得太在意。也许可以先模糊地提一下，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795146727,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1416,
+    "total_tokens": 1535,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

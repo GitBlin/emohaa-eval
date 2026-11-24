@@ -1,0 +1,34 @@
+{
+  "protocol": "code",
+  "n_expected": 50,
+  "n_scored": 50,
+  "complete": true,
+  "coverage": 1.0,
+  "skipped": [],
+  "errors": {},
+  "means": {
+    "client": 2.7225,
+    "supervisor": 3.2246428571428574,
+    "counselor": 3.913333333333332,
+    "overall": 3.168409090909092
+  },
+  "passes": {
+    "client": 34,
+    "supervisor": 37,
+    "counselor": 31,
+    "overall": 42
+  },
+  "pass_rates": {
+    "client": 0.68,
+    "supervisor": 0.74,
+    "counselor": 0.62,
+    "overall": 0.84
+  },
+  "pass_rates_valid_only": {
+    "client": 0.68,
+    "supervisor": 0.74,
+    "counselor": 0.62,
+    "overall": 0.84
+  },
+  "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+}

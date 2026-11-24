@@ -1,0 +1,41 @@
+{
+  "id": "60a0a0de4691488e810dd74a60770675",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我心里会冒出一句：“你们根本不是为我好，是为你们自己安心。”……说出来有点难听，但我一听这话就烦，感觉他们是在安排我的人生。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他们问“为我好”时我心里最强的话是什么。这个问题一下戳到我了，我脑子里立刻冒出那句“你们根本不是为我好”。可说出来又觉得太冲，好像显得我不懂事。我犹豫了一下，还是想说出来，但不想显得太激动。也许可以带点自嘲，承认自己一听这话就烦，再补一句他们其实是在安排我。这样既回答了，也没完全失控。）",
+        "reasoning": "（他们问“为我好”时我心里最强的话是什么。这个问题一下戳到我了，我脑子里立刻冒出那句“你们根本不是为我好”。可说出来又觉得太冲，好像显得我不懂事。我犹豫了一下，还是想说出来，但不想显得太激动。也许可以带点自嘲，承认自己一听这话就烦，再补一句他们其实是在安排我。这样既回答了，也没完全失控。）"
+      }
+    }
+  ],
+  "created": 1795154218,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1822,
+    "total_tokens": 1946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

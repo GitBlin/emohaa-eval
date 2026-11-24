@@ -1,0 +1,41 @@
+{
+  "id": "5496676812fc4ad0adea10b65d26c3a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "呼吸练习？现在吗……我有点犹豫。会不会是在绕开问题啊？不过，你要是觉得有用，我可以试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到做呼吸练习，我有点犹豫。现在聊到关键的地方了，突然停下来做练习，会不会是在回避问题？而且我确实不太习惯在别人面前闭眼放松，总觉得有点别扭。不过……他刚才说“不急着评价自己”，这句话让我稍微放松了一点。也许可以试试，但得让他知道我不是完全信任这种方式。）",
+        "reasoning": "（咨询师提到做呼吸练习，我有点犹豫。现在聊到关键的地方了，突然停下来做练习，会不会是在回避问题？而且我确实不太习惯在别人面前闭眼放松，总觉得有点别扭。不过……他刚才说“不急着评价自己”，这句话让我稍微放松了一点。也许可以试试，但得让他知道我不是完全信任这种方式。）"
+      }
+    }
+  ],
+  "created": 1795148852,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1927,
+    "total_tokens": 2030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

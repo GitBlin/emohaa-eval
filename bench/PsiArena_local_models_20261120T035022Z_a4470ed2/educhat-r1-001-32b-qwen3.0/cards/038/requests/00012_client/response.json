@@ -1,0 +1,41 @@
+{
+  "id": "13ee9b5666c94361a1e0d86461137daa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "真的不评判吗？那……如果我说的事情，在很多人眼里可能不太正常呢？你也会这样吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会像镜子一样反映感受而不评判，这让我稍微放松了一点，但心里还是有点不确定。他会不会只是说得好听？毕竟这种话谁都会说。不过至少他看起来没有急着给我下结论。）\n（我想试探一下他是不是真的能保持中立，毕竟有些咨询师表面说不评判，实际上还是会流露出态度。如果他能接受这种假设性的问题，也许可以稍微多信任他一点。）",
+        "reasoning": "（咨询师说会像镜子一样反映感受而不评判，这让我稍微放松了一点，但心里还是有点不确定。他会不会只是说得好听？毕竟这种话谁都会说。不过至少他看起来没有急着给我下结论。）\n（我想试探一下他是不是真的能保持中立，毕竟有些咨询师表面说不评判，实际上还是会流露出态度。如果他能接受这种假设性的问题，也许可以稍微多信任他一点。）"
+      }
+    }
+  ],
+  "created": 1795149698,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1289,
+    "total_tokens": 1404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "860839761dc14927b0c6cd4a2ea1c3c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点急）那如果我试了还是很难受，是不是就说明我没用？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点）嗯，这样好一些。我可以在晚上写完作业的时候顺手记一下。老师，那如果哪天我完全忘了，是不是就算没做好？",
+        "reasoning": "（稍微放松了一点）嗯，这样好一些。我可以在晚上写完作业的时候顺手记一下。老师，那如果哪天我完全忘了，是不是就算没做好？"
+      }
+    }
+  ],
+  "created": 1795147977,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 3145,
+    "total_tokens": 3201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

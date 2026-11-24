@@ -1,0 +1,41 @@
+{
+  "id": "69b29d9743bc4c71ba4a0543528fe37a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，写在一起。看到的时候，先念一句，再做三次慢呼吸。只是我还是有点担心，过几天又回到原来的样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，我写到冰箱那张便签下面，和“哭一小会儿也没关系”放一起。这样看到时，能提醒我先别急着怪自己。",
+        "reasoning": "好的，我写到冰箱那张便签下面，和“哭一小会儿也没关系”放一起。这样看到时，能提醒我先别急着怪自己。"
+      }
+    }
+  ],
+  "created": 1795153833,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 3608,
+    "total_tokens": 3672,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

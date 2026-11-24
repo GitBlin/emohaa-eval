@@ -1,0 +1,41 @@
+{
+  "id": "5c065c232a4945d18f2073610f71c24f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "电话……好像没那么大压力。嗯，我可以在打之前先写几句话，免得到时候又乱了。这样也许能行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找具体的开口方式，电话确实比面对面让我没那么紧张。但一想到我妈可能又只是淡淡地应一声，我心里就发怵。我得先稳住自己，不能一上来就慌。）\n（也许我可以先准备几句要说的话，哪怕只是练习一下也好。这样至少不会一开口又变成自我检讨，或者干脆说不下去。）",
+        "reasoning": "（咨询师在帮我找具体的开口方式，电话确实比面对面让我没那么紧张。但一想到我妈可能又只是淡淡地应一声，我心里就发怵。我得先稳住自己，不能一上来就慌。）\n（也许我可以先准备几句要说的话，哪怕只是练习一下也好。这样至少不会一开口又变成自我检讨，或者干脆说不下去。）"
+      }
+    }
+  ],
+  "created": 1795154278,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2175,
+    "total_tokens": 2281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

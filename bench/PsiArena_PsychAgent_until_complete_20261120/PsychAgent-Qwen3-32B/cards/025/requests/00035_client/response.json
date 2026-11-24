@@ -1,0 +1,41 @@
+{
+  "id": "20e98f88111e4506b1dab1212b0328c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "绕着楼下走一圈，这个简单，我应该做得到。然后呢，回家之后还是会被黏住，那个怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师在帮我把想法落到具体行动上。我选一个最简单的吧，太复杂我肯定坚持不了。）走路吧，就绕着楼下走一圈。不用带耳机，就……走走。",
+        "reasoning": "（这个咨询师在帮我把想法落到具体行动上。我选一个最简单的吧，太复杂我肯定坚持不了。）走路吧，就绕着楼下走一圈。不用带耳机，就……走走。"
+      }
+    }
+  ],
+  "created": 1795154328,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2736,
+    "total_tokens": 2806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

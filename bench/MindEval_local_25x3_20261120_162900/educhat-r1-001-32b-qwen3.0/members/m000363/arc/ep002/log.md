@@ -1,0 +1,30 @@
+- Member sought counselling for temper trouble at home that he cannot get ahead of.
+- Member put his hand through a cabinet door weeks ago during an argument with his wife.
+- Member does not think anger is the whole problem.
+- Member lost a job he had said he wanted for years to someone else, and his wife still thinks he is fine about it.
+- Member told his wife the job loss worked out for the best rather than tell her the truth.
+- Member believes his wife has worked out he will not say much.
+- Member's wife signed up for a Friday-night pottery class, which was their night together, and he only said it sounded nice.
+- Member says the pottery class scared him rather than frustrated him — she is filling the space where he used to be.
+- Member doubts he and his wife will adjust, and describes standing in the garage looking at a tabletop he does not need to touch while she is at the class.
+- Member has tried for three weeks to find a sentence to say to his wife and has not found one.
+- Member rejected the counsellor's suggested wording as sounding like a fortune cookie and says his wife would know something was off before he got the second word out.
+- Member said out loud for the first time that the argument was about the thermostat and that ten minutes in he put his hand through the door and she stood looking at him — that look is what he cannot get out of his head.
+- Member said he could get out the "losing us" part of the counsellor's suggested opening to his wife. [open]
+- Member snapped at a man at work on Monday and says the reaction comes up faster than it used to.
+- Member has not returned a call from someone asking him to quote on teaching kids to hang doors at a Habitat build, and cannot pick up the phone about the one thing he is supposed to be good at.
+- Member rejected counting objects aloud at work as unworkable in front of the crew, and rejected lying on the floor with a towel for the evening.
+- Member will walk to the truck when tension rises at work. [open]
+- Member says sanding the tabletop settles him, but on Monday he stood in the garage with the light on and did not touch it for half an hour.
+- Member will sand the tabletop tomorrow, five minutes only. [open]
+- Member says the kitchen at home is the real problem because there is no truck to walk to, and asked what to do in the ten minutes before he says something he cannot take back.
+- Member rejected the counsellor's suggested openings and grounding scripts as lines to read off, and says he has no sentence of his own for his wife.
+- Member will press his palms into the kitchen counter for 30 seconds when tension builds at home. [open]
+- Member will go stand at the bench for 30 seconds instead of trying to talk himself down. [open]
+- Member let his brother's two calls ring out on Sunday and keeps telling him he is busy.
+- Member will text his brother something in his own words rather than the counsellor's wording. [open]
+- Member's wife asked him to skip her pottery class Friday to look at the water heater; he said "fine" and felt nothing when she asked, then was mad about it out of nowhere in the garage past midnight.
+- Member says his jaw hurts by the end of every day.
+- Member rejected three breaths with a wrench, the screwdriver, hand on heart, naming the anger aloud, one word, and palm-to-palm as all the same unworkable thing.
+- Member said the buzzing would say he does not want his wife looking at him again like she is waiting for him to break something.
+- Member said "hurt" lands differently than "anger" but refused to sit in it, and said he has no word for any of it.

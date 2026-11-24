@@ -1,0 +1,41 @@
+{
+  "id": "0d431fd7ffcd4971aa35f44194f1b41d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像就是每次升职、加薪这种时候。别人都替我高兴，我第一反应却是“怎么跟我妈说”。想到要跟她开口，我心里就先凉了半截。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我看工作里的触发点。嗯……其实每次升职加薪的时候，我第一反应不是高兴，而是想着怎么跟我妈说才不会被泼冷水。这个念头好像一直卡着我，让我没法真正享受自己的成绩。）",
+        "reasoning": "（咨询师在引导我看工作里的触发点。嗯……其实每次升职加薪的时候，我第一反应不是高兴，而是想着怎么跟我妈说才不会被泼冷水。这个念头好像一直卡着我，让我没法真正享受自己的成绩。）"
+      }
+    }
+  ],
+  "created": 1795154379,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2014,
+    "total_tokens": 2108,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

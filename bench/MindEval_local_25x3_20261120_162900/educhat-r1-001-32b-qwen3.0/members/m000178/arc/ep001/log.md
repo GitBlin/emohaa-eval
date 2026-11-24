@@ -1,0 +1,17 @@
+- Member came to counselling over an unresolved New Year disagreement with his son Trung and a moment at Sunday dinner he cannot stop turning over.
+- Member saw an unreadable look from Trung at the door on Sunday, distinct from the anger in February, and believes Trung was deciding something.
+- Member's grandson, about eleven, asked Member about a recording, and Member stood silent with nothing to say, which he is not proud of.
+- Member made the recording himself in January, his own voice telling about the boat, and opened the app Monday morning but closed it without playing anything.
+- Member cannot play the recording because it returns him to the room at Tet in January when Trung said Member would hand the boy his nightmares just to be remembered, and Member replied that Trung buried things; it got loud and Trung drove off before midnight.
+- Member's family still holds Sunday dinners since Tet but they are short and careful, with only talk of Trung's shop and nobody saying anything real.
+- Member rejects being told Trung is fragile or a hurt animal, noting Trung is fifty, runs a shop, and was not the one who said the cruel thing at Tet.
+- Member rejects the counsellor's suggestions to send a message about the recording, to visit Trung's shop, to ask Trung to explain his expression, or to use scripted phrases, saying his family does not talk that way and it would embarrass them both.
+- Member wants to know whether to call Trung or leave it alone before Sunday dinner in five days, and says he can wait until then.
+- Member has already spent three months sitting at the kitchen window at night asking himself what he wants to feel, and does not need help with that.
+- Member ended the session, saying he is done.
+- Member's grandson has been asking about the boat story at the center, and Member told Mrs. Tran he did not know about any tape, then could not say why he lied.
+- Member said the lie to Mrs. Tran was a small thing and pushed back when asked a second time how it felt, treating the repeat question as calling his first answer wrong.
+- Sunday dinner is now three days away, and Member wants a direct answer on whether to say something to Trung beforehand or let it lie.
+- Member rejected the counsellor's bridge-or-door framing and the both-paths response as restating the question, saying he is leaning nowhere and has been sitting on it since Thursday.
+- Member said sitting with it is what he does at the window every night and that he did not call the line to do it with company.
+- Member rejected the counsellor's line that his silence holds value, said he has heard enough of that, and will deal with Sunday himself.

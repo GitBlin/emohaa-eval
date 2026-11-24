@@ -1,0 +1,41 @@
+{
+  "id": "4a844b2f22b245fa871264ff40d09409",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "除了女朋友……其实我爸妈那边也有点。每次我想说点心里话，他们要是反应平平，我就会觉得算了，说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这句话最常出现在什么情境，这让我想到不只是女朋友，还有和父母相处的时候。也许我该试着把这两件事联系起来看看，虽然说出来有点难为情。）\n（我平时不太会主动跟人提这些，但现在好像可以稍微说一点。父母那边的事一直压在心里，也许说出来能理清一些东西。）",
+        "reasoning": "（咨询师在问我这句话最常出现在什么情境，这让我想到不只是女朋友，还有和父母相处的时候。也许我该试着把这两件事联系起来看看，虽然说出来有点难为情。）\n（我平时不太会主动跟人提这些，但现在好像可以稍微说一点。父母那边的事一直压在心里，也许说出来能理清一些东西。）"
+      }
+    }
+  ],
+  "created": 1795143370,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2730,
+    "total_tokens": 2836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

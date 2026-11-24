@@ -1,0 +1,41 @@
+{
+  "id": "b856477102fc4e13abe0ab85e40e129b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我回房间的时候整个人都僵着，脚步特别快，肩膀也耸起来了。关上门才敢喘口气，手还有点抖。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，身体的变化……我回房间的时候好像整个人都僵着，脚步特别快，肩膀是耸起来的。关上门之后才敢喘口气，手好像还有点抖。",
+        "reasoning": "嗯，身体的变化……我回房间的时候好像整个人都僵着，脚步特别快，肩膀是耸起来的。关上门之后才敢喘口气，手好像还有点抖。"
+      }
+    }
+  ],
+  "created": 1795154137,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2487,
+    "total_tokens": 2555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

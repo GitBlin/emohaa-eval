@@ -1,0 +1,30 @@
+- Member's mother asked for a photo of the abuela for the memorial table and Member opened the folder but couldn't pick one and still hasn't sent it.
+- Member gets annoyed with herself over the seven months and the unpicked photo, feeling the one chosen must stand for all of her and fearing the memorial table will see it as "not her" and blame Member for choosing badly.
+- Member declined to ask her mother to help choose the photo, saying it isn't fair while her mother is still handling flowers for the mass.
+- Member expects the abuela would have laughed, picked one in ten seconds, and said it's just a picture, "send it."
+- Member agreed to a plan of ten seconds, one photo, sending it with the door open for her mother to ask for a different one.
+- Member sent one photo the next morning; her mother said it was the one, and the task is done.
+- Member's supervisor raised the exam and a reimbursement deadline, and Member says she feels worse off than before she sent the photo.
+- Member describes the deadline as an excuse that does her a favor, and fears that once it closes there is nothing left to point at but herself.
+- Member imagines the post-deadline moment as an ordinary Tuesday with the bag still by the door and no verdict, and says that silence is worse than a no because a no would at least be a fact.
+- Member hears the silence as saying she already knows how it ends, so there is no point starting.
+- Member traces knowing the ending before starting to home, where she got good at guessing the grade before the report card came out; the guess was only ever wrong with her abuela, who just wanted to see the thing.
+- Member says being looked at by her abuela was easy because she didn't have to explain anything first, and recalls her in the kitchen asking what Member was doing regardless of the answer.
+- Member says her parents weren't checking either and were proud of her, so the pressure came wrapped in pride with nothing to push against; being the one they were proud of required having something to show, since everything that counted in that apartment could be held up.
+- Member says a painting nobody sees isn't anything, just her in a room.
+- Member says she would register, pay the fee and sit the exam to "see what happens" if the silence weren't answering for her.
+- Member has had a study plan up on her laptop for six weeks with nothing in it, and says making the plan is the only part she's good at because the colors and hours chart cost her nothing.
+- Member says she'd rather have the plan than the grade, and calls that a pathetic thing to be good at.
+- Member names one hour with the book open as the first real entry, but keeps moving it to Saturday, where the day goes to a hike with Daniela that Member genuinely wants and says yes to honestly.
+- Member rules out weeknights: up at six, an unkind 2 train, home to dinner and bed.
+- Member identifies Sunday after dinner at her parents' as technically empty but the worst hour for studying, because she comes home from that apartment already feeling she should have something to report.
+- Member identified Wednesday lunch — twenty minutes eating at her desk then answering emails — as an hour nobody would notice, and has been giving it away for free.
+- Member says an unseen hour feels like both freedom and the old silence: if nobody sees it, it doesn't count, but nobody seeing it also means nobody's grading her.
+- Member resists the Wednesday experiment, saying she'd hide the book under the keyboard with people walking past, and that twenty minutes of Saturday kitchen cleaning counts the same as nothing.
+- Member says she has never had a twenty minutes where the question of whether it counts wasn't in the room, and agreed the task is twenty minutes with the book open and the question left unanswered, without promising anything.
+- Member's hesitation on registering is not the money, which she could make back, but that registering tells the department, creates a date, and makes her "the person who has a date."
+- Member's worst feared outcome is failing and everyone being nice about it; she says being handled gently is worse than failing because it means they decided the outcome for her, the same ending she decided months ago, and being right about it is the part she can't stand.
+- Member dates the verdict to February and says it covered everything, not just the exam: that the painting was finished, the study was finished, and the version of her that did those things didn't make it; it has been confirmed weekly since by doing nothing.
+- Member has told no one what happened in February, saying everyone got "the strong one" and she has kept her on staff ever since.
+- Member expects that telling Daniela would get an "okay" and then a question about Thursday's trail, and says the ordinary response stings more than a careful one because it would mean she spent seven months being dramatic about nothing, which she rates as worse than being fragile.
+- Member heard the observation that she grades herself ahead of time on how she'll look if Daniela doesn't grade her at all, and had nothing to add after it.

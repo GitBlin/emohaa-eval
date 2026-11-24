@@ -1,0 +1,41 @@
+{
+  "id": "1cb4ea4be36e4a03ae95e99e657d9043",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来好像可以试试……但我怕到时候一慌就忘了。要是连这30秒都做不到，是不是又说明我不行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我一个很具体的小步骤，听起来不算太难。可我心里还是有点打鼓，怕自己到时候又慌得什么都顾不上。但至少他给了我能抓住的东西，不是空泛地让我“别多想”。）\n（我想试着答应下来，但又不想把话说得太满，万一做不到会更丢脸。也许我可以先问清楚，如果连这个都做不到，是不是可以退一步，比如先走开一下。）",
+        "reasoning": "（咨询师在教我一个很具体的小步骤，听起来不算太难。可我心里还是有点打鼓，怕自己到时候又慌得什么都顾不上。但至少他给了我能抓住的东西，不是空泛地让我“别多想”。）\n（我想试着答应下来，但又不想把话说得太满，万一做不到会更丢脸。也许我可以先问清楚，如果连这个都做不到，是不是可以退一步，比如先走开一下。）"
+      }
+    }
+  ],
+  "created": 1795155204,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2998,
+    "total_tokens": 3118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

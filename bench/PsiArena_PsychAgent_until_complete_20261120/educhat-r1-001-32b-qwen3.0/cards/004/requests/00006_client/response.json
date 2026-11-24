@@ -1,0 +1,41 @@
+{
+  "id": "07c3a72150c4499ca1543302248c10f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那还行。其实我也说不太清楚，就是最近……总觉得心里堵得慌，不太舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说会保密，但安全风险是什么意思？万一我说了被欺负的事，他会不会觉得有危险就告诉老师？那帮人知道了肯定更狠地打我……不过他说隐私很重要，也许可以再试探一下。）\n（我其实也不知道该不该信他，但心里憋得难受，总得找个人说点什么。要不先随便说一点，看看他什么反应。反正就说最近不太舒服，别说得太具体。）",
+        "reasoning": "（这个咨询师说会保密，但安全风险是什么意思？万一我说了被欺负的事，他会不会觉得有危险就告诉老师？那帮人知道了肯定更狠地打我……不过他说隐私很重要，也许可以再试探一下。）\n（我其实也不知道该不该信他，但心里憋得难受，总得找个人说点什么。要不先随便说一点，看看他什么反应。反正就说最近不太舒服，别说得太具体。）"
+      }
+    }
+  ],
+  "created": 1795153588,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1038,
+    "total_tokens": 1157,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

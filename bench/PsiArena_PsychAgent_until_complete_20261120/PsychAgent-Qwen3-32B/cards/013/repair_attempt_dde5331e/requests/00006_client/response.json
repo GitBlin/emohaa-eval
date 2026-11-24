@@ -1,0 +1,41 @@
+{
+  "id": "440f359076d346d49a861b9bc6e74092",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那如果写不出来，空着也可以，先只记身体感受？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，听起来不算难……但“我在乎的是”这一句，我可能写不出来，脑子会空。",
+        "reasoning": "嗯，听起来不算难……但“我在乎的是”这一句，我可能写不出来，脑子会空。"
+      }
+    }
+  ],
+  "created": 1795157416,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 3121,
+    "total_tokens": 3162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

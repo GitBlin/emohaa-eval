@@ -1,0 +1,41 @@
+{
+  "id": "a5b3f99c0ce341c9b117fc342dc6775a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步吧，下班绕一小圈。不用跟谁说话，就当给自己缓一缓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找一个事后照顾自己的小动作，散步还是深呼吸。我其实不太会放松，散步好像更容易做到，不用刻意。不过深呼吸也可以，就是怕自己坚持不了。）\n（刚才说“够了就好”已经有点松动了，现在选一个具体的，心里反而踏实一点。那就散步吧，下班绕一圈，不用跟谁说话，也算给自己缓一缓。）",
+        "reasoning": "（咨询师在帮我找一个事后照顾自己的小动作，散步还是深呼吸。我其实不太会放松，散步好像更容易做到，不用刻意。不过深呼吸也可以，就是怕自己坚持不了。）\n（刚才说“够了就好”已经有点松动了，现在选一个具体的，心里反而踏实一点。那就散步吧，下班绕一圈，不用跟谁说话，也算给自己缓一缓。）"
+      }
+    }
+  ],
+  "created": 1795146316,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2992,
+    "total_tokens": 3094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

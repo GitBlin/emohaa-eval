@@ -1,0 +1,24 @@
+- Member's rent rose by $325/month to $1,975, permanent per the lease renewal after a new company bought the building in the fall.
+- Member takes home about $2,400/month after taxes, leaving $425 after rent.
+- Member's monthly expenses: groceries ~$300, bus pass $78, phone $60, utilities ~$90; no debt, credit card paid off in January.
+- Member comes up about $103 short each month before basic purchases like shampoo.
+- Member has already cut expenses to the minimum — cheap phone plan, groceries at "rice and beans territory" — and says no further trimming is possible.
+- Member rejects lists of assistance programs and food banks, saying they can find those alone.
+- Member says the hardest part is sitting down with the letter at night — within ten minutes they are distractedly looking at tamale recipes.
+- Member rejects grounding and breathing exercises, wanting an actual decision to make rather than to feel calmer about the letter.
+- Member already tried earning extra: posted for a roommate last week but deleted the post after a reply asked if they live alone and what hours they keep, which felt gross.
+- Member is torn between getting a second job and resenting working themselves to death for an apartment they are never home in.
+- Member rejects a roommate outright — cannot have a stranger in their kitchen, won't even let their cousin in when the counters are messy.
+- Member likes their building and notes that moving to a smaller unit costs money and means a worse rent.
+- Member says they cannot pick one path even as a trial, because staying means the second job and moving means losing the rent they have; both feel like losing.
+- Member says overtime is capped at their store and more hours won't be given.
+- Member has a school folder sitting out and is considering deferring a semester; tuition is covered by aid, and they fear that stopping means never restarting, while full-time work plus classes on almost no sleep feels unmanageable.
+- Member says every small step is one of the two big choices in costume and that they haven't slept through a night since the letter came.
+- Member rejects a $25 grocery cut as "not real money" and a paper plan.
+- Member says they don't think the landlord, a company, cares.
+- Member rejects subletting as the same as the roommate situation, with someone coming and going.
+- Member says doing both paths at once is the problem — it's what they've been doing at 2am every night.
+- Member says they are not at risk of doing anything stupid, but that money management has defined them since childhood — they did the bills for their mom and the taxes — and they don't know who they are if they can't do it for themselves.
+- Member has told no one about this — not family, not friends — and won't call a stranger who will just hand them a pamphlet.
+- Member says they already have four lists and nothing the counsellor offered was new to what they know at 2am.
+- Member ended the session and went to bed.

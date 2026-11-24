@@ -1,0 +1,41 @@
+{
+  "id": "a0e2fbefdbd34abb822ae8e8df2fe241",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，试一周。那下次我想先聊“最难的那次”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "记录啊……我尽量吧，就怕写着写着又乱了。不过写下来，也许比光在脑子里转强。",
+        "reasoning": "记录啊……我尽量吧，就怕写着写着又乱了。不过写下来，也许比光在脑子里转强。"
+      }
+    }
+  ],
+  "created": 1795153849,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 3094,
+    "total_tokens": 3136,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

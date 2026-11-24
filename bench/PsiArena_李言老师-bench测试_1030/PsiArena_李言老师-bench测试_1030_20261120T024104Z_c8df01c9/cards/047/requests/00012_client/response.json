@@ -1,0 +1,41 @@
+{
+  "id": "5b9efd5b5fd242259ada26d5fd6ea434",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "学校那边吧……不过家里其实也会。我妈一直觉得我挺敏感的，我不想让她觉得我工作以后更脆弱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是家里和学校哪边的人更担心看到真实的自己。这个问题让我有点犹豫，因为两边其实都怕，但怕的东西不太一样。学校那边是职业形象，家里那边……可能是让他们失望吧。）\n（我想到我妈每次听我抱怨都会很紧张，好像我过得不好是她的责任。我不太想让她再为我操心了。这种担心好像比怕同事议论更沉一点。）",
+        "reasoning": "（咨询师问的是家里和学校哪边的人更担心看到真实的自己。这个问题让我有点犹豫，因为两边其实都怕，但怕的东西不太一样。学校那边是职业形象，家里那边……可能是让他们失望吧。）\n（我想到我妈每次听我抱怨都会很紧张，好像我过得不好是她的责任。我不太想让她再为我操心了。这种担心好像比怕同事议论更沉一点。）"
+      }
+    }
+  ],
+  "created": 1795143591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1967,
+    "total_tokens": 2083,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

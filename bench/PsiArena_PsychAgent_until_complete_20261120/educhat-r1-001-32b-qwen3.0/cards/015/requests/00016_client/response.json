@@ -1,0 +1,41 @@
+{
+  "id": "9ac087919b924ddbbd9edc689434f79c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "警报声……这个说法还挺贴切的。嗯，好像我爸妈在的时候最频繁，他们总为一点小事就吵，还老让我评理，我夹在中间特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把家里的争吵比作警报声，这个比喻让我心里一紧。他好像真的在认真听我说，没有敷衍。这种被理解的感觉让我稍微放松了一点，愿意多说一些。）\n（我想到父母总是因为一些小事就吵起来，尤其是我在场的时候。他们好像都希望我站在自己那边，这让我很为难。也许我可以试着把这些说出来，看看咨询师会怎么回应。）",
+        "reasoning": "（咨询师把家里的争吵比作警报声，这个比喻让我心里一紧。他好像真的在认真听我说，没有敷衍。这种被理解的感觉让我稍微放松了一点，愿意多说一些。）\n（我想到父母总是因为一些小事就吵起来，尤其是我在场的时候。他们好像都希望我站在自己那边，这让我很为难。也许我可以试着把这些说出来，看看咨询师会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795153962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1427,
+    "total_tokens": 1555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

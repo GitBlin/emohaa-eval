@@ -1,0 +1,41 @@
+{
+  "id": "b32528da0fe4431b9f7878cb390606ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她可能会放松一点吧……说不定还会主动跟我说话。我笑得太少了，是吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我做微笑实验，这让我有点意外。我平时确实很少对女儿笑，尤其是看到她作业出错的时候。这个建议让我意识到自己可能总是板着脸，给女儿压力。）\n（想到女儿可能会因为我的微笑而放松一些，甚至主动和我说话，心里有点期待又有点紧张。我担心自己笑得不够自然，女儿会察觉到我的刻意。但也许正是这种不完美才显得真实，总比一直紧绷着好。）",
+        "reasoning": "（咨询师建议我做微笑实验，这让我有点意外。我平时确实很少对女儿笑，尤其是看到她作业出错的时候。这个建议让我意识到自己可能总是板着脸，给女儿压力。）\n（想到女儿可能会因为我的微笑而放松一些，甚至主动和我说话，心里有点期待又有点紧张。我担心自己笑得不够自然，女儿会察觉到我的刻意。但也许正是这种不完美才显得真实，总比一直紧绷着好。）"
+      }
+    }
+  ],
+  "created": 1795154445,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2452,
+    "total_tokens": 2567,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

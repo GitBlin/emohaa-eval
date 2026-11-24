@@ -1,0 +1,41 @@
+{
+  "id": "3b4cceb7785c44d4a3c2d0d7dd35e826",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻声）“你比想象中坚强”吧……虽然我现在还没完全信。也许哪天回头看，会发现今天这些话，真能让我喘口气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我给未来的自己写什么便签，这让我有点触动。以前总觉得未来是灰暗的，现在好像能试着想一想了。）\n（“你比想象中坚强”这句话听起来有点空，但“别回头”又太狠了。或许可以写点更实在的，比如能喘口气。毕竟我真正想要的就是那种不被压着的感觉。）",
+        "reasoning": "（咨询师问我给未来的自己写什么便签，这让我有点触动。以前总觉得未来是灰暗的，现在好像能试着想一想了。）\n（“你比想象中坚强”这句话听起来有点空，但“别回头”又太狠了。或许可以写点更实在的，比如能喘口气。毕竟我真正想要的就是那种不被压着的感觉。）"
+      }
+    }
+  ],
+  "created": 1795154415,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3198,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

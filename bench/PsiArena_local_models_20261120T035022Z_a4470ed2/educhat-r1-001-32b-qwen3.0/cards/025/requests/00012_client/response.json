@@ -1,0 +1,41 @@
+{
+  "id": "9fd5e26eac8d403198543c1217e5c21f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试过啊，下班就赶回家，周末也尽量带她。可她还是哭，我就……唉，说不清楚，反正就是觉得怎么做都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎没有责怪我的意思，但刚才那句话还是让我有点不舒服。不过现在他问起陪伴孩子的事，我确实试过很多办法，可效果都不太好。）\n（作为妈妈，我总觉得自己做得不够好，孩子一哭我就更焦虑了。也许可以稍微透露一点自己的困扰，但不用说得太深，毕竟现在还在试探阶段。）",
+        "reasoning": "（咨询师似乎没有责怪我的意思，但刚才那句话还是让我有点不舒服。不过现在他问起陪伴孩子的事，我确实试过很多办法，可效果都不太好。）\n（作为妈妈，我总觉得自己做得不够好，孩子一哭我就更焦虑了。也许可以稍微透露一点自己的困扰，但不用说得太深，毕竟现在还在试探阶段。）"
+      }
+    }
+  ],
+  "created": 1795148620,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1364,
+    "total_tokens": 1476,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

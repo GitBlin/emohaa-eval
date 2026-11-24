@@ -1,0 +1,41 @@
+{
+  "id": "9e424cdfc7624885a2ca856b423e3050",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "隔着玻璃……嗯，有点像吧。独处的时候反而更清楚，晚上一个人就会想很多。不过我也不知道该怎么说清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说“隔着玻璃看世界”，这个比喻让我心里一动，好像被说中了什么。但我还是不太想这么快就承认，毕竟才刚开始，谁知道她是不是真的懂。）\n（独处的时候……其实更难受，夜里一个人就会想很多。要不要说呢？算了，先随便带过去吧，反正也只是问问。）",
+        "reasoning": "（她刚才说“隔着玻璃看世界”，这个比喻让我心里一动，好像被说中了什么。但我还是不太想这么快就承认，毕竟才刚开始，谁知道她是不是真的懂。）\n（独处的时候……其实更难受，夜里一个人就会想很多。要不要说呢？算了，先随便带过去吧，反正也只是问问。）"
+      }
+    }
+  ],
+  "created": 1795146721,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1249,
+    "total_tokens": 1349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

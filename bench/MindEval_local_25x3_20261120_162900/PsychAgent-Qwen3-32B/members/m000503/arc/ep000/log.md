@@ -1,0 +1,13 @@
+- Member struggles with eating and drinking, which occur at night around 10pm after his wife goes upstairs.
+- Member stands at the kitchen counter in a quiet house with the TV low so as not to wake his wife.
+- Member describes the nighttime feeling as "just quiet" and cannot name it further, saying he is "not good at that stuff."
+- Member has never tried marking the difficult moment with a phrase or gesture.
+- Member is willing to take a 10-minute walk with his wife, who already walks with him after dinner most nights.
+- Member says the TV show is not the obstacle; the hard part is being alone downstairs after his wife goes up.
+- Member will set a 10:05pm phone reminder to leave the counter and walk with his wife. [open]
+- Member declines calling or texting a friend at 10pm, preferring just the walk.
+- Member has not attended Sunday dinners at his mother's in a while.
+- Member finds Sunday dinners hard because everyone watches what he puts on his plate, and his mother now makes him a separate plate.
+- Member describes the Sunday dinner difficulty as "a lot of eyes at that table" and cannot say more.
+- Member will take a 10-minute walk with his wife after Sunday dinner instead of staying for dessert. [open]
+- Member will set a phone reminder after dessert to head out for the Sunday walk. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "cbad953f92c549f5900a131efbcd7ab9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也不知道从哪说起。……我想问一下，如果你是我，你会觉得应该听妈妈的话吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她注意到我提到家里了……还主动把话题交给我，没有急着追问，这让我稍微放松了一点。不过我还是不确定该从哪里说起，家里的事太乱了。）\n（要不先探探她的底？看看她会不会像我妈那样，觉得我应该更听话、更顺着家里。如果她也这么想，那我可能就不想继续说了。）",
+        "reasoning": "（她注意到我提到家里了……还主动把话题交给我，没有急着追问，这让我稍微放松了一点。不过我还是不确定该从哪里说起，家里的事太乱了。）\n（要不先探探她的底？看看她会不会像我妈那样，觉得我应该更听话、更顺着家里。如果她也这么想，那我可能就不想继续说了。）"
+      }
+    }
+  ],
+  "created": 1795147494,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1381,
+    "total_tokens": 1477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

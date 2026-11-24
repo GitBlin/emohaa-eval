@@ -1,0 +1,41 @@
+{
+  "id": "19b49ccb5bca4d9d8c1e7f331600ddeb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就用开会发言前停顿两秒那个场景吧。我有点怕自己会忘记记，但可以先把手机备忘录打开。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户现在在问具体用哪个场景来记录。这其实是在把计划落地，说明她开始认真考虑操作细节了。我得让她选一个真实、具体、又不那么有压力的场景，这样她更容易做到。可以提开会发言前停顿两秒那个例子，因为前面已经聊过，她也有过类似经历。同时要留出空间，让她自己决定，避免我又替她做主。语气上可以稍微犹豫一点，显得是在认真想，而不是给标准答案。",
+        "reasoning": "嗯，用户现在在问具体用哪个场景来记录。这其实是在把计划落地，说明她开始认真考虑操作细节了。我得让她选一个真实、具体、又不那么有压力的场景，这样她更容易做到。可以提开会发言前停顿两秒那个例子，因为前面已经聊过，她也有过类似经历。同时要留出空间，让她自己决定，避免我又替她做主。语气上可以稍微犹豫一点，显得是在认真想，而不是给标准答案。"
+      }
+    }
+  ],
+  "created": 1795142647,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2912,
+    "total_tokens": 3044,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

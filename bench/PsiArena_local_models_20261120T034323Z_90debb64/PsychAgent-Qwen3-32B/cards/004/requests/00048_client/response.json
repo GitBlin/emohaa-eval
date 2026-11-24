@@ -1,0 +1,41 @@
+{
+  "id": "1e877df9032a4816ab246b0b89323663",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻点头）好，那我下次来，就说说这三天。谢谢你今天听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（声音轻一点，但比刚开始稳）好……那我下次来，就说说这三天。谢谢你今天听我说这些。",
+        "reasoning": "（声音轻一点，但比刚开始稳）好……那我下次来，就说说这三天。谢谢你今天听我说这些。"
+      }
+    }
+  ],
+  "created": 1795146505,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3158,
+    "total_tokens": 3208,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

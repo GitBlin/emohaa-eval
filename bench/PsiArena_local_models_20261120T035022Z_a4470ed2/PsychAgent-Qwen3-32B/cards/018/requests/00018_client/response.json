@@ -1,0 +1,41 @@
+{
+  "id": "02f7df48114842f8ac8623597384bdae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会有点发紧，胃那里像缩着。然后我又觉得自己挺可笑，明明我家里从小什么都能聊，性也不是禁忌，怎么轮到我就这么别扭……你别笑我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应，而不是急着评判谁对谁错。这让我稍微能喘口气，但“身体反应”这词还是让我有点不自在，好像要把我藏着的情绪直接摊开。我想到当时胃里发紧，就说了，可说完又觉得自己是不是太敏感，得补一句别笑我。）",
+        "reasoning": "（咨询师在问我身体反应，而不是急着评判谁对谁错。这让我稍微能喘口气，但“身体反应”这词还是让我有点不自在，好像要把我藏着的情绪直接摊开。我想到当时胃里发紧，就说了，可说完又觉得自己是不是太敏感，得补一句别笑我。）"
+      }
+    }
+  ],
+  "created": 1795147078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1685,
+    "total_tokens": 1798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

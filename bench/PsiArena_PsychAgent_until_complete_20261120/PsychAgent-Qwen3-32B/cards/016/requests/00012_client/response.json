@@ -1,0 +1,41 @@
+{
+  "id": "524dc18f356743d18e05dcab4da73eb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心一下就跳得很快，手也有点凉，后来整个人都发虚。那种感觉……说不上来，像很怕，又像很生气，但我马上又告诉自己别乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "第6轮，初期阶段，已经到后期了。咨询师问身体和情绪反应。我应该只针对一个方面回复——身体或情绪。保持简短，2-3句。表现出不安和模糊。可以描述心跳、手凉，然后带出一点试探或回避。不要深入。",
+        "reasoning": "第6轮，初期阶段，已经到后期了。咨询师问身体和情绪反应。我应该只针对一个方面回复——身体或情绪。保持简短，2-3句。表现出不安和模糊。可以描述心跳、手凉，然后带出一点试探或回避。不要深入。"
+      }
+    }
+  ],
+  "created": 1795153962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1430,
+    "total_tokens": 1535,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

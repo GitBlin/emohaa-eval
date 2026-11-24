@@ -1,0 +1,41 @@
+{
+  "id": "2eef15a2cd12486b860a80cfa6ed1f1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上一个人躺着的时候最容易，会一遍遍翻聊天记录，找自己是不是哪里说错了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……一般是我发完消息，对方过了很久没回的时候。尤其是晚上，一个人躺在床上，那个按钮就特别容易按下去。",
+        "reasoning": "嗯……一般是我发完消息，对方过了很久没回的时候。尤其是晚上，一个人躺在床上，那个按钮就特别容易按下去。"
+      }
+    }
+  ],
+  "created": 1795153622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 51,
+    "prompt_tokens": 2229,
+    "total_tokens": 2280,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

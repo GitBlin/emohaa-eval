@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-8dff38614a21477db59c489ba1e635a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你愿意描述一下当时的具体情境吗？比如学生做了什么，让你有这样的反应？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对自身情绪反应感到困惑，可能缺乏自我觉察。需引导其探索情绪根源。\n【行动策略】：通过开放式提问，鼓励来访者具体描述情绪触发点。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对自身情绪反应感到困惑，可能缺乏自我觉察。需引导其探索情绪根源。\n【行动策略】：通过开放式提问，鼓励来访者具体描述情绪触发点。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795150191,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 518,
+    "total_tokens": 585,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

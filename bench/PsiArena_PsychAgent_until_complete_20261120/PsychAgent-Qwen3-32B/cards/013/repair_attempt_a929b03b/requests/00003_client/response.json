@@ -1,0 +1,41 @@
+{
+  "id": "9b457e967e2f46a2816c84fdd70b1d64",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "晚上九点，手机放远……我可以试试。不过我怕坚持不了几天，又回到老样子。",
+        "reasoning": "晚上九点，手机放远……我可以试试。不过我怕坚持不了几天，又回到老样子。"
+      }
+    }
+  ],
+  "created": 1795157240,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 3020,
+    "total_tokens": 3043,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7319d20f8cdd4df886850084b22806bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就轻松一点吧，加一句“不用急着回”。我试试发完就去听歌，不一直看了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我调整表达方式，让我觉得没那么大压力。加一句“不用急着回”确实能让我心里松一点，好像把等待的责任也分出去了一些。我想试试这样发，但发完之后还是有点怕自己会忍不住一直看手机。）\n（我大概知道自己需要做点别的来转移注意力，不然又会陷进去。听歌或者写点东西可能能让我不那么焦虑。先试一次吧，别把结果看得太重。）",
+        "reasoning": "（咨询师在帮我调整表达方式，让我觉得没那么大压力。加一句“不用急着回”确实能让我心里松一点，好像把等待的责任也分出去了一些。我想试试这样发，但发完之后还是有点怕自己会忍不住一直看手机。）\n（我大概知道自己需要做点别的来转移注意力，不然又会陷进去。听歌或者写点东西可能能让我不那么焦虑。先试一次吧，别把结果看得太重。）"
+      }
+    }
+  ],
+  "created": 1795143559,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3171,
+    "total_tokens": 3293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

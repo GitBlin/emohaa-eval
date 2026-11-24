@@ -1,0 +1,41 @@
+{
+  "id": "ad677fc9cdfc469c833a5a1b07e66c5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你老是重复这句……我有点烦。我知道要记录，可我现在想说的是，我总觉得自己没管好东西，就像那根梳子，也是我特意买的，结果也找不到了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了情绪温度计的事，好像根本没在听我说话。我明明在说自我责备的问题，他却一直绕回那个打分方法，这让我有点烦躁。也许他根本没理解我的意思，或者觉得这些都不重要。）\n（不过，说到自我责备，我确实又想起那根梳子了。那是我特意挑的，丢了以后我难受了好几天。这种感觉就像我妈说的，东西丢了就是没管好，可我真的已经尽力了。也许我该再提一下梳子的事，看看他这次能不能听进去。）",
+        "reasoning": "（咨询师又重复了情绪温度计的事，好像根本没在听我说话。我明明在说自我责备的问题，他却一直绕回那个打分方法，这让我有点烦躁。也许他根本没理解我的意思，或者觉得这些都不重要。）\n（不过，说到自我责备，我确实又想起那根梳子了。那是我特意挑的，丢了以后我难受了好几天。这种感觉就像我妈说的，东西丢了就是没管好，可我真的已经尽力了。也许我该再提一下梳子的事，看看他这次能不能听进去。）"
+      }
+    }
+  ],
+  "created": 1795150254,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 1970,
+    "total_tokens": 2130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 117,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

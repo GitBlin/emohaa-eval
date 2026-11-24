@@ -1,0 +1,41 @@
+{
+  "id": "6ae0a86f2fcf4ed2988b909cbf2906ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作……确实有点影响。有时候对着电脑发呆，效率很低。情绪也容易上来，一点小事就想发火。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近工作生活的变化……这让我想到自己确实状态很差，但一时间不知道从哪说起。我可能得先承认有影响，再具体一点，比如工作上的表现，还有情绪上的波动。不能一次说太多，简单提一下就好。）",
+        "reasoning": "（咨询师在问我最近工作生活的变化……这让我想到自己确实状态很差，但一时间不知道从哪说起。我可能得先承认有影响，再具体一点，比如工作上的表现，还有情绪上的波动。不能一次说太多，简单提一下就好。）"
+      }
+    }
+  ],
+  "created": 1795154737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 2312,
+    "total_tokens": 2396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

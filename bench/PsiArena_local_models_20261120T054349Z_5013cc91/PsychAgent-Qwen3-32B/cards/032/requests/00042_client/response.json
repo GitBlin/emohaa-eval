@@ -1,0 +1,41 @@
+{
+  "id": "9bf4623ca16f434fa9758f6755d43368",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个弹性安排听着还行，至少不会因为没做到就觉得自己又失败了。那我先试试，从今晚开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才担心坚持不了，咨询师给了弹性方案。我需要表现出犹豫但愿意接受，同时带点自我怀疑，符合后期情绪趋于稳定但仍有不安的状态。回复要简短，2-3句，口语化。）",
+        "reasoning": "（用户刚才担心坚持不了，咨询师给了弹性方案。我需要表现出犹豫但愿意接受，同时带点自我怀疑，符合后期情绪趋于稳定但仍有不安的状态。回复要简短，2-3句，口语化。）"
+      }
+    }
+  ],
+  "created": 1795154709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 2982,
+    "total_tokens": 3056,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

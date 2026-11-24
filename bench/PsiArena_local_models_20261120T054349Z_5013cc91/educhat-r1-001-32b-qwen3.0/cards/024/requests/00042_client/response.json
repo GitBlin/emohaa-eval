@@ -1,0 +1,41 @@
+{
+  "id": "b8c5ad02243242f495565f4e500e315c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先深呼吸一下，或者找个借口去厨房倒杯水……这样是不是有点像逃避啊？不过总比当场吵起来好一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应第21轮后期阶段，目标是探索解决方案和行动计划。用户问用什么方式提醒自己需要暂停。角色应简短2-3句，口语化，有思维跳跃和重复，情绪稳定些。可以提出具体方法，比如深呼吸、借口去倒水/看孩子，或者心里数数。不要过度逻辑。要自然犹豫。注意只针对一个方面：提醒暂停的方式。可以用“我可能会……比如……” 简短。不要谢谢再见。可能表达不确定，试探。语言符合34岁教师，传统家庭。说“我可能会先深呼吸一下，或者找个借口去厨房倒杯水……这样算不算逃避啊？” 这既具体又有自我怀疑。保持2-3句。",
+        "reasoning": "我们需要回应第21轮后期阶段，目标是探索解决方案和行动计划。用户问用什么方式提醒自己需要暂停。角色应简短2-3句，口语化，有思维跳跃和重复，情绪稳定些。可以提出具体方法，比如深呼吸、借口去倒水/看孩子，或者心里数数。不要过度逻辑。要自然犹豫。注意只针对一个方面：提醒暂停的方式。可以用“我可能会……比如……” 简短。不要谢谢再见。可能表达不确定，试探。语言符合34岁教师，传统家庭。说“我可能会先深呼吸一下，或者找个借口去厨房倒杯水……这样算不算逃避啊？” 这既具体又有自我怀疑。保持2-3句。"
+      }
+    }
+  ],
+  "created": 1795154413,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 181,
+    "prompt_tokens": 2659,
+    "total_tokens": 2840,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 150,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

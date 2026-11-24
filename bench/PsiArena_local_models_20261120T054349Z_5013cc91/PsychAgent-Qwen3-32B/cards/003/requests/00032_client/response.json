@@ -1,0 +1,41 @@
+{
+  "id": "ab8552ec3e504e9d83436b154d2598e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "让我想想……这周的话，我可能先试试把手机锁屏换了，晚上少刷一会儿那些照片。其他的，我还没想好。",
+        "reasoning": "让我想想……这周的话，我可能先试试把手机锁屏换了，晚上少刷一会儿那些照片。其他的，我还没想好。"
+      }
+    }
+  ],
+  "created": 1795153470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 2423,
+    "total_tokens": 2455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1f1308e565384c7b83e803ace27e43a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻摇头）肩膀……我倒没注意。就是……我想问一下，你们做咨询的，会不会把来访者说的事情告诉别人啊？我就是有点担心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我把感受具体化，还提到身体的感觉……但我现在其实不太想深入谈那次争吵，毕竟才刚开始，我还不太确定能不能信任她。而且她问得这么细，让我有点紧张，不知道该不该真的把那些细节说出来。）\n（作为来访者，我其实更想先试探一下咨询师会怎么处理我的情况，看看她是不是真的能理解我。也许我可以稍微转移一下话题，问问她会不会把我的事告诉别人，这样既能试探她的界限，又不用马上面对那些让我难受的回忆。）",
+        "reasoning": "（咨询师在引导我把感受具体化，还提到身体的感觉……但我现在其实不太想深入谈那次争吵，毕竟才刚开始，我还不太确定能不能信任她。而且她问得这么细，让我有点紧张，不知道该不该真的把那些细节说出来。）\n（作为来访者，我其实更想先试探一下咨询师会怎么处理我的情况，看看她是不是真的能理解我。也许我可以稍微转移一下话题，问问她会不会把我的事告诉别人，这样既能试探她的界限，又不用马上面对那些让我难受的回忆。）"
+      }
+    }
+  ],
+  "created": 1795147603,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1159,
+    "total_tokens": 1310,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

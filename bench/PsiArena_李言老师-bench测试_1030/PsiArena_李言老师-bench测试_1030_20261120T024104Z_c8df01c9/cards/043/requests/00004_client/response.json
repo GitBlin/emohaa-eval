@@ -1,0 +1,41 @@
+{
+  "id": "5bfdfe449b454c17b243202716061f36",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有一点吧……在学校看到别人都在学，我就更慌。回家吧，爸妈一问成绩，我又不想说话。……对了，我能不能问一下，你平时会记得我说过的话吗？还是咨询完就忘了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我烦的感觉是在学校还是家里更明显……其实两边都让我难受，但学校可能更糟一点。不过我不想说得太细，毕竟才刚开始聊，谁知道她会不会真的理解我。）\n（而且我有点想试探一下她，看她在意的是我这个人，还是只把我当成一个“案例”。问这种问题会不会太奇怪了？但如果不问，我心里总有点不踏实。）",
+        "reasoning": "（她问我烦的感觉是在学校还是家里更明显……其实两边都让我难受，但学校可能更糟一点。不过我不想说得太细，毕竟才刚开始聊，谁知道她会不会真的理解我。）\n（而且我有点想试探一下她，看她在意的是我这个人，还是只把我当成一个“案例”。问这种问题会不会太奇怪了？但如果不问，我心里总有点不踏实。）"
+      }
+    }
+  ],
+  "created": 1795143388,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1210,
+    "total_tokens": 1345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

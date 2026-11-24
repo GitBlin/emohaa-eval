@@ -1,0 +1,41 @@
+{
+  "id": "60b8ce20dc6c42d4a6a77eff7c56cd7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……先问问也许行。可我一想到要请假、安排我妈那边，就又犹豫了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她说的先问最轻的检查方案，听起来是给我留了余地，不像逼我马上做决定。我其实一直怕的是一下子面对太多，要是能先问清楚，也许没那么难开口。）\n（可我又想到妈妈那边，我要是去查，就得请假、安排时间。家里的事总得有人管，我不能只顾自己。也许我得先把这些现实问题想清楚，再决定怎么迈这一步。）",
+        "reasoning": "（她说的先问最轻的检查方案，听起来是给我留了余地，不像逼我马上做决定。我其实一直怕的是一下子面对太多，要是能先问清楚，也许没那么难开口。）\n（可我又想到妈妈那边，我要是去查，就得请假、安排时间。家里的事总得有人管，我不能只顾自己。也许我得先把这些现实问题想清楚，再决定怎么迈这一步。）"
+      }
+    }
+  ],
+  "created": 1795143053,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2402,
+    "total_tokens": 2516,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

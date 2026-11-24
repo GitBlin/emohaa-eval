@@ -1,0 +1,41 @@
+{
+  "id": "fc4574c58ba54d72bac689575c2d9e80",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先动“晚上反刍”那一环，太折磨了。可我具体能做什么？总不能硬逼自己别想吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户想先从哪一环开始动。我作为咨询师要帮助具体化行动计划，但每轮只聚焦一个方面。先选一个最想动的环节，然后制定一个小而具体的行动。",
+        "reasoning": "用户想先从哪一环开始动。我作为咨询师要帮助具体化行动计划，但每轮只聚焦一个方面。先选一个最想动的环节，然后制定一个小而具体的行动。"
+      }
+    }
+  ],
+  "created": 1795154112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2638,
+    "total_tokens": 2710,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

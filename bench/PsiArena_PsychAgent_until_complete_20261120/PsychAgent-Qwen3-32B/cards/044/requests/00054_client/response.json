@@ -1,0 +1,41 @@
+{
+  "id": "26b2b3c96217405699c741a3647e12fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（走到门口，回头）嗯……那我走了。下周我会来的。（轻轻带上门）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（走到门口，回头）嗯……那我走了。下周我会来的。（轻轻带上门）",
+        "reasoning": "（走到门口，回头）嗯……那我走了。下周我会来的。（轻轻带上门）"
+      }
+    }
+  ],
+  "created": 1795155082,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 3863,
+    "total_tokens": 3903,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 20,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

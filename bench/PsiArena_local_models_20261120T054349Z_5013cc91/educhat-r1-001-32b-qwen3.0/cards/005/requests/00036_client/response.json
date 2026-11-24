@@ -1,0 +1,41 @@
+{
+  "id": "af049413cd9d452d890a70ddda33a2a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "声音啊……（想了想）柔和一点的吧，别太吵。海浪声？不过我怕自己坚持不了几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望闹钟用什么声音，这让我有点意外。我以为会继续讨论记录小事的方法，没想到会关注这么细的细节。不过这种具体的问题反而让我觉得踏实，好像真的可以马上做起来。）\n（想到用海浪声，是因为那种声音让我觉得平静，又不会太突兀。但我还是有点不确定，担心自己坚持不了几天就放弃，这种担心好像一直跟着我。）",
+        "reasoning": "（咨询师在问我希望闹钟用什么声音，这让我有点意外。我以为会继续讨论记录小事的方法，没想到会关注这么细的细节。不过这种具体的问题反而让我觉得踏实，好像真的可以马上做起来。）\n（想到用海浪声，是因为那种声音让我觉得平静，又不会太突兀。但我还是有点不确定，担心自己坚持不了几天就放弃，这种担心好像一直跟着我。）"
+      }
+    }
+  ],
+  "created": 1795153635,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2459,
+    "total_tokens": 2571,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

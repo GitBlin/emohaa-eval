@@ -1,0 +1,41 @@
+{
+  "id": "360e7a0702f34905abcc705fd80cda34",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "慢呼吸三下吧，这个简单点。不过……真到了那种紧张的时候，我还能想起来做吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“看一眼便签”变成具体可做的动作，这让我觉得有点踏实，但还是怕自己坚持不了。慢呼吸三下听起来比默读那句提醒简单些，至少不用再去想那些大道理。可我又忍不住怀疑，这么小的动作真的能顶用吗？）",
+        "reasoning": "（咨询师在帮我把“看一眼便签”变成具体可做的动作，这让我觉得有点踏实，但还是怕自己坚持不了。慢呼吸三下听起来比默读那句提醒简单些，至少不用再去想那些大道理。可我又忍不住怀疑，这么小的动作真的能顶用吗？）"
+      }
+    }
+  ],
+  "created": 1795148798,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3254,
+    "total_tokens": 3345,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

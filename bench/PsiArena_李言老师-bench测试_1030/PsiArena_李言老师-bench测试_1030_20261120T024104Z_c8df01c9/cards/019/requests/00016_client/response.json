@@ -1,0 +1,41 @@
+{
+  "id": "540b5f5ef2e441d4b5d627fd96a2ba56",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……可以试试，但可能得先小一点，比如只说“这次先别急着问结果”。一下子说那么多，我怕她更觉得我在躲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她建议我直接跟妈妈约定这次不谈相亲，还让我请她当场答应。这听起来有点太直接了，我担心妈妈会觉得我在跟她划清界限，反而更生气。但我也知道，如果一直不说，每次都会绕回相亲，那种被审的感觉真的很难受。）\n（也许我可以先不一次说那么多，只提一个很小的请求，比如让她先别急着问结果。这样既不会显得太对抗，也能让我试试看能不能守住一点边界。如果她愿意答应，我可能会稍微松一口气。）",
+        "reasoning": "（她建议我直接跟妈妈约定这次不谈相亲，还让我请她当场答应。这听起来有点太直接了，我担心妈妈会觉得我在跟她划清界限，反而更生气。但我也知道，如果一直不说，每次都会绕回相亲，那种被审的感觉真的很难受。）\n（也许我可以先不一次说那么多，只提一个很小的请求，比如让她先别急着问结果。这样既不会显得太对抗，也能让我试试看能不能守住一点边界。如果她愿意答应，我可能会稍微松一口气。）"
+      }
+    }
+  ],
+  "created": 1795143033,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 2478,
+    "total_tokens": 2625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

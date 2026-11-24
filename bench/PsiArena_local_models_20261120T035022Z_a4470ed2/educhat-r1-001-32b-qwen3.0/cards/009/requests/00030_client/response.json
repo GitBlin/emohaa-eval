@@ -1,0 +1,41 @@
+{
+  "id": "ec002d0a880d4da1bfc11000dcacf370",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写日记……这个我倒是没试过。不过找人分享，我身边好像也没谁真的能听我说这些。我爸妈要是知道了，肯定又说我胡思乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师终于给出了具体的建议，这让我稍微松了口气。写日记和找人分享听起来不难，但马上又想到我爸妈那关过不去，他们肯定会觉得我写日记是在抱怨。心里有点矛盾，既想试试又怕被说。）\n（不过咨询师提到“支持我的人”，这让我有点触动。也许我可以先不告诉爸妈，自己悄悄写写看？但转念又担心这样是不是在逃避问题。）",
+        "reasoning": "（咨询师终于给出了具体的建议，这让我稍微松了口气。写日记和找人分享听起来不难，但马上又想到我爸妈那关过不去，他们肯定会觉得我写日记是在抱怨。心里有点矛盾，既想试试又怕被说。）\n（不过咨询师提到“支持我的人”，这让我有点触动。也许我可以先不告诉爸妈，自己悄悄写写看？但转念又担心这样是不是在逃避问题。）"
+      }
+    }
+  ],
+  "created": 1795147260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2190,
+    "total_tokens": 2321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b975cfda2d4247afa0069a0c5afe59d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（愣住）我……我从没这么想过。我一直觉得是她在学我，学我的严格。原来她也在学我怎么对待自己吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到两盏灯的比喻，让我突然意识到自己一直以来的教育方式可能有问题。我总以为严格要求才是对的，但现在想想，女儿抵触学习的样子，是不是因为我太严厉了？）\n（作为教师，我习惯了用高标准要求学生，却忘了女儿需要的是引导而不是指责。这种自责感让我很难受，但好像也看到了改变的可能。也许我真的该换个方式了。）",
+        "reasoning": "（咨询师提到两盏灯的比喻，让我突然意识到自己一直以来的教育方式可能有问题。我总以为严格要求才是对的，但现在想想，女儿抵触学习的样子，是不是因为我太严厉了？）\n（作为教师，我习惯了用高标准要求学生，却忘了女儿需要的是引导而不是指责。这种自责感让我很难受，但好像也看到了改变的可能。也许我真的该换个方式了。）"
+      }
+    }
+  ],
+  "created": 1795154428,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1877,
+    "total_tokens": 1992,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

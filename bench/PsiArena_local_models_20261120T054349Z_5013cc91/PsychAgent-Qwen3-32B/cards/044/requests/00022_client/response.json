@@ -1,0 +1,41 @@
+{
+  "id": "77dd7a60766441ae964e268dd8b41b4e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我那时候就是怕她也不理我啊，总觉得朋友抓不住就没了。（声音低下去）在我家也差不多，我爸妈就盯着成绩，考好了给买东西，考不好就冷着脸。我好像从小就得自己争。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（声音有点急）我那时候就是怕她也不理我啊。我总觉得，朋友这种东西，抓不住就会没了。（停顿，语气低下来）在我家也是，我爸妈就只看成绩，考好了就给我买东西，考不好就冷着脸。我好像……从小就得靠自己争。",
+        "reasoning": "（声音有点急）我那时候就是怕她也不理我啊。我总觉得，朋友这种东西，抓不住就会没了。（停顿，语气低下来）在我家也是，我爸妈就只看成绩，考好了就给我买东西，考不好就冷着脸。我好像……从小就得靠自己争。"
+      }
+    }
+  ],
+  "created": 1795155038,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2112,
+    "total_tokens": 2226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

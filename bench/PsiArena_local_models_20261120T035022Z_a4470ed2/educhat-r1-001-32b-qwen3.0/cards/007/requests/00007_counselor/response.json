@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-f9ddfcc417c4499c970e4e6d6b216798",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来很困扰，这种感觉多久了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：宿舍环境与作息差异导致睡眠问题，需要评估具体影响。\n【行动策略】：询问具体表现以明确问题。\n",
+        "reasoning_content": "\n【诊断分析】：宿舍环境与作息差异导致睡眠问题，需要评估具体影响。\n【行动策略】：询问具体表现以明确问题。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146980,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 510,
+    "total_tokens": 554,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

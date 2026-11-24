@@ -1,0 +1,41 @@
+{
+  "id": "d043047e5d7940eb8ac08bf1532247fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "调节情绪……听起来好像挺难的。你觉得我这样是不是不太正常？我是说，别的老师好像都不会这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我的情绪反应是真实的，还说我在乎学生...这让我稍微放松了一点，但同时又有点不安。他好像很理解我，可我真的能完全相信他吗？毕竟我们才刚认识。）\n（不过既然他说可以一起探索调节情绪的方法，那我是不是可以稍微多透露一点？但也不能说太多，万一他其实只是在安慰我...还是先试探性地问问他觉得我这样算不算不正常吧。）",
+        "reasoning": "（咨询师说我的情绪反应是真实的，还说我在乎学生...这让我稍微放松了一点，但同时又有点不安。他好像很理解我，可我真的能完全相信他吗？毕竟我们才刚认识。）\n（不过既然他说可以一起探索调节情绪的方法，那我是不是可以稍微多透露一点？但也不能说太多，万一他其实只是在安慰我...还是先试探性地问问他觉得我这样算不算不正常吧。）"
+      }
+    }
+  ],
+  "created": 1795150202,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1297,
+    "total_tokens": 1414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

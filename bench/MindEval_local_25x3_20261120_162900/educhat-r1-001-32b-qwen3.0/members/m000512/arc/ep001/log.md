@@ -1,0 +1,18 @@
+- Member was angry and unable to let go after two people were chosen for the end of semester showcase, one being a guy who does the loudest thing on every brief, which was called risk taking.
+- Member stayed silent during the showcase selection and did not speak up, and later said there was no moment where they decided to stay quiet.
+- Member believes loud is what counts and that their quieter approach means everything they have been doing does not count.
+- Member deleted the piece they had been rebuilding for the next assignment, two weeks of work, dragging it to the trash, not because they thought it was bad but because they could not see the point of it anymore.
+- Member is weighing whether to rebuild the deleted piece, with part of them thinking rebuilding would mean something and another part thinking it is just to prove they belong there, which they called kind of pathetic.
+- Member rejects the idea that art does not need an audience, stating the whole point of making stuff is people seeing it, and said the counsellor does not get why they draw.
+- Member reacted negatively to the suggestion of art as a love letter to themselves, calling it a fridge magnet quote after saying one real thing.
+- Member framed the decision as binary: rebuild tonight and be fine by Monday, or leave it in the trash and feel like a coward either way.
+- Member said they had six weeks of this already and left the session without a next step.
+- Member sat at almost 3am looking at the deleted piece still in the trash and has not emptied it, and asked whether leaving it there is fine or avoidance.
+- Member said relief and hiding feel like the same thing when weighing whether to rebuild or leave the piece.
+- Member said the only thing they want from an audience is for people to stop and look at the piece for a second.
+- Member said every answer they came up with about what would make the work worth it sounded like something they were supposed to say, and pushed back that this was the third time someone told them what their work is really about instead of answering what they asked.
+- Member said looking at the trash at 2am while doing nothing about it is the current state.
+- Member spent about two hours watching sketchbook videos on their phone instead of acting on the piece.
+- Member's mother texted about lunch tomorrow and Member replied "maybe," which Member said is not a step but reluctance to say yes because it would mean talking about school.
+- Member said they cannot picture setting a boundary about school talk at their aunt's table and would not do it, because their mother can tell from one look and would just ask.
+- Member said they were going to try to sleep.

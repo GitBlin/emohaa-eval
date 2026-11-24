@@ -1,0 +1,41 @@
+{
+  "id": "68657f46a5a7443785e1cdf5503fb878",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我爸妈真的很能聊，甚至会问我怎么看不同关系、不同性向。我以前觉得挺酷的。可现在轮到自己，我反而会想：是不是我表面开放，真遇到事就没那么能接受？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了家庭背景，这让我想起小时候和父母聊这些事确实很自然，但反而现在自己遇到问题却这么纠结，有点讽刺。我得说说那种矛盾感，既感激家庭开放，又觉得这让我更困惑为什么自己会不安。）\n（可能还得提一下父母的态度，他们那种“什么都能接受”的氛围，现在反而让我怀疑是不是自己不够开放。这种对比让我更焦虑，好像我辜负了他们的教育。）",
+        "reasoning": "（咨询师问到了家庭背景，这让我想起小时候和父母聊这些事确实很自然，但反而现在自己遇到问题却这么纠结，有点讽刺。我得说说那种矛盾感，既感激家庭开放，又觉得这让我更困惑为什么自己会不安。）\n（可能还得提一下父母的态度，他们那种“什么都能接受”的氛围，现在反而让我怀疑是不是自己不够开放。这种对比让我更焦虑，好像我辜负了他们的教育。）"
+      }
+    }
+  ],
+  "created": 1795147081,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1795,
+    "total_tokens": 1936,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

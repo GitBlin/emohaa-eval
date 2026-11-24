@@ -1,0 +1,41 @@
+{
+  "id": "0490add3d54847a0858407c653c6ee09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想从一句很轻的开始，比如“我有点紧张，想慢一点”。不直接说那些想法，先试着表达我自己的感受。你觉得这样会不会太绕？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我制定具体行动计划了……这让我有点紧张，但也是我想要的。我确实需要从很小的开始，不能一下子把所有想法都倒出来。）\n（说“比起那个，我更想先慢慢来”应该是最安全的表达，既说出了自己的需求，又不会吓到他。而且这个说法比较模糊，他应该不会追问太多。）",
+        "reasoning": "（咨询师在引导我制定具体行动计划了……这让我有点紧张，但也是我想要的。我确实需要从很小的开始，不能一下子把所有想法都倒出来。）\n（说“比起那个，我更想先慢慢来”应该是最安全的表达，既说出了自己的需求，又不会吓到他。而且这个说法比较模糊，他应该不会追问太多。）"
+      }
+    }
+  ],
+  "created": 1795154726,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2687,
+    "total_tokens": 2800,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

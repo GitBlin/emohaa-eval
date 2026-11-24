@@ -1,0 +1,41 @@
+{
+  "id": "5c70e3a4bba1418b8507e14e43e2e97d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "烦，还有……羞吧。好像我做什么都被盯着，一点自己的空间都没有。可我又没法理直气壮，毕竟确实是我乱买。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我被翻快递时最强烈的感受……我一下子有点急，又觉得委屈。那种被盯着、被翻东西的感觉，真的很难受，好像我做什么都不对。可我又不想在她面前显得太激动，只能先压着说。）",
+        "reasoning": "（咨询师问到我被翻快递时最强烈的感受……我一下子有点急，又觉得委屈。那种被盯着、被翻东西的感觉，真的很难受，好像我做什么都不对。可我又不想在她面前显得太激动，只能先压着说。）"
+      }
+    }
+  ],
+  "created": 1795154541,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2863,
+    "total_tokens": 2953,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

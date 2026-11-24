@@ -1,0 +1,41 @@
+{
+  "id": "0204e7336d68422086319e9e65ae4f1c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "在心里默念……这个我能做到。就是有点怪，好像自己跟自己说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先在心里默念，这比直接说出口容易接受多了。我其实很怕和妈妈起冲突，但心里默念的话……至少不会被她听见，也不会被说顶嘴。这个办法好像可以试试看，虽然还是有点不习惯。）",
+        "reasoning": "（咨询师建议我先在心里默念，这比直接说出口容易接受多了。我其实很怕和妈妈起冲突，但心里默念的话……至少不会被她听见，也不会被说顶嘴。这个办法好像可以试试看，虽然还是有点不习惯。）"
+      }
+    }
+  ],
+  "created": 1795147537,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2707,
+    "total_tokens": 2783,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

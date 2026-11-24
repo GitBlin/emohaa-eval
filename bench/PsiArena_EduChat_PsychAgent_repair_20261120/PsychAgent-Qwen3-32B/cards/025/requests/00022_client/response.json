@@ -1,0 +1,41 @@
+{
+  "id": "8b3747c17f4b40b2ae2d836fddcd584c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前兆……好像是我下班路上就开始想，回家他会不会又黏着我。然后他一贴上来，我肩膀就先紧了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我情绪爆发前的前兆……说实话我平时没太留意这些，每次都是发完火才后悔。不过仔细想想，好像确实有些信号，比如下班路上就开始担心回家会怎样，或者他黏上来的时候我肩膀就先僵了。嗯，这些以前从没跟人说过，说出来反而觉得有点怪。）",
+        "reasoning": "（咨询师在问我情绪爆发前的前兆……说实话我平时没太留意这些，每次都是发完火才后悔。不过仔细想想，好像确实有些信号，比如下班路上就开始担心回家会怎样，或者他黏上来的时候我肩膀就先僵了。嗯，这些以前从没跟人说过，说出来反而觉得有点怪。）"
+      }
+    }
+  ],
+  "created": 1795154308,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2001,
+    "total_tokens": 2102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

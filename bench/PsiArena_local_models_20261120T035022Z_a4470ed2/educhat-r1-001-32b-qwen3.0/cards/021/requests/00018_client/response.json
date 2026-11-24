@@ -1,0 +1,41 @@
+{
+  "id": "3ecc402e4219416c84415bd89d081f01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "空椅……那是什么？对着空椅子说话吗？我不太懂这个。而且……说实话，我不太想再翻以前那些事了，一想起来心里就难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到空椅技术，让我表达对过去的情感。这让我想起小时候舅舅和外公去世时的场景，那时候家里人都很悲伤，但没人真正去处理这些情绪。现在母亲病重，那些记忆又涌上来了。）\n（我有点抗拒，因为回忆过去只会让我更痛苦。而且现在最要紧的是照顾母亲，哪有时间处理这些旧事。但咨询师似乎觉得这很重要，也许她是对的，只是我还没准备好面对。）",
+        "reasoning": "（咨询师提到空椅技术，让我表达对过去的情感。这让我想起小时候舅舅和外公去世时的场景，那时候家里人都很悲伤，但没人真正去处理这些情绪。现在母亲病重，那些记忆又涌上来了。）\n（我有点抗拒，因为回忆过去只会让我更痛苦。而且现在最要紧的是照顾母亲，哪有时间处理这些旧事。但咨询师似乎觉得这很重要，也许她是对的，只是我还没准备好面对。）"
+      }
+    }
+  ],
+  "created": 1795148293,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1530,
+    "total_tokens": 1665,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

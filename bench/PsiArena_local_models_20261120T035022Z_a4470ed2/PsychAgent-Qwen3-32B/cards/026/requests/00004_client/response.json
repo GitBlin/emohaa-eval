@@ -1,0 +1,41 @@
+{
+  "id": "82cb238627594e70bba1dd3d0fe09cde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保密……是说什么都不会告诉别人吗？比如我家里的事，学校那边也不会知道？我是不是问得有点多……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的方式，听起来还算正规。但我还是有点不放心，毕竟第一次见面，谁知道会不会把我的事说出去。作为老师，我平时在同事和学生面前都要维持形象，要是家里的事被传出去就麻烦了。）\n（我得先试探一下，看看这个咨询师到底靠不靠谱。直接问保密的事情会不会显得太不信任？但这也是人之常情吧，总得确认清楚才能放心说。不过也不能问得太直接，稍微委婉一点比较好。）",
+        "reasoning": "（刚才咨询师解释了咨询的方式，听起来还算正规。但我还是有点不放心，毕竟第一次见面，谁知道会不会把我的事说出去。作为老师，我平时在同事和学生面前都要维持形象，要是家里的事被传出去就麻烦了。）\n（我得先试探一下，看看这个咨询师到底靠不靠谱。直接问保密的事情会不会显得太不信任？但这也是人之常情吧，总得确认清楚才能放心说。不过也不能问得太直接，稍微委婉一点比较好。）"
+      }
+    }
+  ],
+  "created": 1795147364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 962,
+    "total_tokens": 1092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e3d3ed3739eb47ecbc34702be3e53fcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心里就会说……你怎么连这个都受不了。然后又会想，是不是我这个人有问题。对了，我要是……私下加你联系方式，可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "她问克制的时候心里会对自己或对方说什么。我还没准备好深挖，可以稍微透露一点自责，但保持模糊，也顺便测试边界——比如问咨询师会不会告诉别人，或者能不能私下联系。上一轮已经聊到身体反应，这轮可以自然地把话题带到“我是不是很糟糕”，再试探咨询关系。保持简短2-3句。",
+        "reasoning": "她问克制的时候心里会对自己或对方说什么。我还没准备好深挖，可以稍微透露一点自责，但保持模糊，也顺便测试边界——比如问咨询师会不会告诉别人，或者能不能私下联系。上一轮已经聊到身体反应，这轮可以自然地把话题带到“我是不是很糟糕”，再试探咨询关系。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795154296,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1509,
+    "total_tokens": 1621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bc9626dcf4c74b06b255e929e4f3f1ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是上次开会，轮到我补充意见的时候。我还没开口，喉咙就紧了，手也在桌下攥着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户问的是最近一次喉咙发紧的具体情境。前面已经聊到身体比脑子先紧张，现在要回忆一个具体场景，这需要把模糊的身体感受和具体事件连起来。我想到开会发言前那个时刻最典型，因为那是最近最直接的压力点。不过说的时候可能会有点犹豫，毕竟要承认自己连开口前都那么紧绷。可以简短提一下当时在会议室，准备开口，然后喉咙就紧了，这样既回答了问题，又保持真实的不确定感。",
+        "reasoning": "嗯，用户问的是最近一次喉咙发紧的具体情境。前面已经聊到身体比脑子先紧张，现在要回忆一个具体场景，这需要把模糊的身体感受和具体事件连起来。我想到开会发言前那个时刻最典型，因为那是最近最直接的压力点。不过说的时候可能会有点犹豫，毕竟要承认自己连开口前都那么紧绷。可以简短提一下当时在会议室，准备开口，然后喉咙就紧了，这样既回答了问题，又保持真实的不确定感。"
+      }
+    }
+  ],
+  "created": 1795142671,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3184,
+    "total_tokens": 3317,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

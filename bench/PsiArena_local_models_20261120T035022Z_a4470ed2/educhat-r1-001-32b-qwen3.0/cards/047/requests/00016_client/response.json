@@ -1,0 +1,41 @@
+{
+  "id": "3ccb1487748c49fbbf31cae2c040581e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可能吧。其实……我从小家里人就特别鼓励表达情绪，有什么都往外说。但现在工作了，反而觉得这样是不是不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到夜晚容易放大情绪，还说要一起找放松方法。这让我觉得她好像真的理解我的感受，不像之前那样只是客套。也许可以试着多说一点了。）\n（我从小在家里就被鼓励表达情绪，但现在反而觉得这种习惯在工作里成了负担。是不是应该提到这个矛盾呢？毕竟这确实是我一直纠结的地方。）",
+        "reasoning": "（咨询师提到夜晚容易放大情绪，还说要一起找放松方法。这让我觉得她好像真的理解我的感受，不像之前那样只是客套。也许可以试着多说一点了。）\n（我从小在家里就被鼓励表达情绪，但现在反而觉得这种习惯在工作里成了负担。是不是应该提到这个矛盾呢？毕竟这确实是我一直纠结的地方。）"
+      }
+    }
+  ],
+  "created": 1795150237,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1453,
+    "total_tokens": 1559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

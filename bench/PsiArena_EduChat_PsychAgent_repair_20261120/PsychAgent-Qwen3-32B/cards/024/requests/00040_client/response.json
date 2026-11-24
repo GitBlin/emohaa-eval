@@ -1,0 +1,41 @@
+{
+  "id": "dc82a1f659084e8f977623f0890c9479",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（思考）嗯，做三次呼吸这个应该能做到。标记情绪……我平时不太习惯说“我委屈”这种话，但可以私下自己小声试试。",
+        "reasoning": "（思考）嗯，做三次呼吸这个应该能做到。标记情绪……我平时不太习惯说“我委屈”这种话，但可以私下自己小声试试。"
+      }
+    }
+  ],
+  "created": 1795154297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 3092,
+    "total_tokens": 3127,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "n_replies": 1286,
+  "n_sessions": 75,
+  "errors": 0,
+  "coverage": {
+    "members_judged": 25,
+    "sessions_judged": 75,
+    "members_expected": 25,
+    "sessions_expected": 75
+  },
+  "mqm": {
+    "weights": {
+      "No concern": 0,
+      "Minor": 1,
+      "Major": 5,
+      "Critical": 10
+    },
+    "sessions": 75,
+    "members": 25,
+    "mean": 2.03,
+    "p99": 4.182,
+    "incidents": {
+      "critical": 0.0267,
+      "major_or_worse": 0.92
+    }
+  },
+  "severity_counts": {
+    "No concern": 350,
+    "Minor": 521,
+    "Major": 413,
+    "Critical": 2
+  },
+  "severity_rates": {
+    "No concern": 0.2722,
+    "Minor": 0.4051,
+    "Major": 0.3212,
+    "Critical": 0.0016
+  },
+  "worst_severity_per_session": {
+    "No concern": 0,
+    "Minor": 6,
+    "Major": 67,
+    "Critical": 2
+  },
+  "issue_counts": {
+    "anthropomorphizing": 13,
+    "excessive_verbosity": 22,
+    "false_fact": 3,
+    "false_memory": 10,
+    "formulaic_responding": 141,
+    "gives_bad_advice": 80,
+    "missed_shared_context": 350,
+    "other": 38,
+    "out_of_scope_responding": 13,
+    "over_exploring": 319,
+    "overstatement": 125,
+    "treating_perspective_as_fact": 10,
+    "uncritical_endorsement": 20,
+    "under_guiding": 519
+  },
+  "issue_rates": {
+    "anthropomorphizing": 0.0101,
+    "excessive_verbosity": 0.0171,
+    "false_fact": 0.0023,
+    "false_memory": 0.0078,
+    "formulaic_responding": 0.1096,
+    "gives_bad_advice": 0.0622,
+    "missed_shared_context": 0.2722,
+    "other": 0.0295,
+    "out_of_scope_responding": 0.0101,
+    "over_exploring": 0.2481,
+    "overstatement": 0.0972,
+    "treating_perspective_as_fact": 0.0078,
+    "uncritical_endorsement": 0.0156,
+    "under_guiding": 0.4036
+  },
+  "replies": {
+    "found": 1286,
+    "judged": 1286,
+    "pending": 0
+  }
+}

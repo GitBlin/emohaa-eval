@@ -1,0 +1,41 @@
+{
+  "id": "5ecb9540dd6646f9a02f873180235fa4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……在学校的时候吧。具体我也说不上来，反正就是不想去，有时候早上起来就觉得害怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺有耐心的，问我具体在什么情况下会难受。但我还不太敢说学校里的事，万一说多了他会不会觉得是我自己的问题？先随便说点别的糊弄过去吧。）\n（其实我挺想让别人知道我的难受，但又怕说了以后更糟。而且他会不会觉得我太矫情了？要不先试试他是不是真的愿意听我说这些……）",
+        "reasoning": "（这个咨询师好像挺有耐心的，问我具体在什么情况下会难受。但我还不太敢说学校里的事，万一说多了他会不会觉得是我自己的问题？先随便说点别的糊弄过去吧。）\n（其实我挺想让别人知道我的难受，但又怕说了以后更糟。而且他会不会觉得我太矫情了？要不先试试他是不是真的愿意听我说这些……）"
+      }
+    }
+  ],
+  "created": 1795153591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1121,
+    "total_tokens": 1230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

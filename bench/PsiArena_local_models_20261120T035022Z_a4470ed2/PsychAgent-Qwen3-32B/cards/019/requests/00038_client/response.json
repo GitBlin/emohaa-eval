@@ -1,0 +1,41 @@
+{
+  "id": "ee1f162b13734fb4989d8d0fc7750fdb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望自己能别老想着“必须表现好”，至少允许自己紧张。可这说起来容易，做起来难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点，但还是有点不确定）我希望自己能别老想着“必须表现好”，至少允许自己紧张。可这说起来容易，做起来难。",
+        "reasoning": "（稍微放松了一点，但还是有点不确定）我希望自己能别老想着“必须表现好”，至少允许自己紧张。可这说起来容易，做起来难。"
+      }
+    }
+  ],
+  "created": 1795147207,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2735,
+    "total_tokens": 2794,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

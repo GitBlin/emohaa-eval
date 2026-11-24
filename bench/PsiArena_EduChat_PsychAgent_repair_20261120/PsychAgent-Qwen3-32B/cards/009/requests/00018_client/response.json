@@ -1,0 +1,41 @@
+{
+  "id": "abc680a78abc40fea2f33f4c39130794",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般就硬着头皮做下去，嘴上还会说没事。可心里其实挺委屈的……在我们家，好像大家都这样，谁要是先顾自己，就会被说不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在处于中期，需要深入表达内心困扰和根源，同时揭示文化背景。刚才咨询师提到了“拒绝=自私”的信念，并问接下来会怎么做。我应该先回应这个信念，再联系到家庭文化的影响，表现出逐渐意识到根源的过程。保持简短，2-3句，有犹豫和跳跃感。",
+        "reasoning": "用户现在处于中期，需要深入表达内心困扰和根源，同时揭示文化背景。刚才咨询师提到了“拒绝=自私”的信念，并问接下来会怎么做。我应该先回应这个信念，再联系到家庭文化的影响，表现出逐渐意识到根源的过程。保持简短，2-3句，有犹豫和跳跃感。"
+      }
+    }
+  ],
+  "created": 1795153782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1780,
+    "total_tokens": 1889,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

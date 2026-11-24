@@ -1,0 +1,41 @@
+{
+  "id": "172d1cdd860442dfa9aa9586acbf0dde",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先冒出来的……大概是失落，还有点空。然后就又开始想，是不是我哪里说得不对。（顿了顿）不过我不想每次都这样绕回自己身上了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我心里最先冒出来的是什么感觉……我想想，应该不是生气，我好像很少允许自己生气。那种感觉更像是被丢下了，有点空，然后就开始怪自己是不是说错了什么。）\n（不过刚才聊到这些，我好像没那么慌了。也许可以试着说说，下次能不能换个方式，别总是先检讨自己。）",
+        "reasoning": "（咨询师问我心里最先冒出来的是什么感觉……我想想，应该不是生气，我好像很少允许自己生气。那种感觉更像是被丢下了，有点空，然后就开始怪自己是不是说错了什么。）\n（不过刚才聊到这些，我好像没那么慌了。也许可以试着说说，下次能不能换个方式，别总是先检讨自己。）"
+      }
+    }
+  ],
+  "created": 1795142998,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2625,
+    "total_tokens": 2731,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

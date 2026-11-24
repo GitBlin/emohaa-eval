@@ -1,0 +1,25 @@
+- Member filed the intake form weeks ago and delayed attending until an incident this week prompted them to come in.
+- Member mentors a seventh grader at a computer lab on Tuesdays; this week the room was empty and a text said the parent had pulled the child from the program.
+- Member sat alone in the empty lab room for a few minutes feeling there was no reason to be there.
+- Member says the mentee would get excited when Member walked in, and Member does not have that experience anywhere else right now.
+- Member feels known by many people locally but believes none would notice if Member were absent for a week.
+- Member found saying the loneliness out loud lighter than expected and had expected to be told it was a small thing to bring to counselling.
+- Member is accustomed to being the one others bring problems to and has no picture of how being the one who brings a problem goes.
+- Member feels uncomfortable being on the receiving side and feels they should be handing over someone else's problem instead of their own.
+- Member fears that handing their problem to someone who does not pick it up would confirm there is nothing there worth knowing, whereas not telling anyone preserves a maybe.
+- Member believes they are kept around only for being useful, and would suspect ulterior motives if someone stayed when Member had nothing to offer.
+- Member's reflex on receiving care is to quickly find something to do before the person notices.
+- Member says the proof someone was not after anything would be them showing up twice without Member setting it up, and notes Member is always the one texting first.
+- Member stopped sending invites and setting up the weekend table since January; nobody has reached for Member since.
+- Member recognized they set up the silence test and then got angry at the result.
+- Member plans to answer honestly at salsa on Thursday when someone asks how they have been, instead of saying "living the dream."
+- Member rehearsed the sentence "It's been a rough week actually, the kid I mentor got pulled from the program" and then stopped talking.
+- Member found the stopping the hard part and had three follow-up lines ready they resisted using; those lines would have put Member back in charge of the conversation and spared everyone the silence.
+- Member committed to counting to five in their head before speaking again after the true sentence, to let the other person have a turn.
+- Member anticipates that around count three they will be watching the other person's face for signs of wanting an exit.
+- Member described driving home from a happy hour they set up last month and realizing nobody had asked them one thing all night.
+- Member did not feel the happy-hour loneliness that night; the next morning they read about adult friendship and filled out the intake form before work, treating it as a system to debug.
+- Member believes that if they had sat with the morning-after feeling instead of systematizing it, they probably would have cried, which they don't usually do.
+- Member found saying "I probably would have cried" out loud less strange than expected because it stayed a sentence rather than becoming a crisis.
+- Member's stated takeaway is that saying the true thing costs less than bracing for it, and not to rescue the silence right after.
+- [open] Member plans to say the true sentence at salsa on Thursday and then stay silent for a five-count without rescuing the pause.

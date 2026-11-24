@@ -1,0 +1,41 @@
+{
+  "id": "62992be7d5814141b1c0bba19eb5f7de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先安静一下……不过，我好像没那么慌了。也许今晚我可以试着早点放下手机，哪怕只早一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说愿意安静陪我坐一会儿，这让我心里稍微松了一点。可我还是有点不习惯这种被陪着的感觉，怕自己太依赖，又怕对方只是客套。）\n（我想说点什么，又不想说太多。也许可以先讲一个最近想试的小动作，这样既不会显得太脆弱，也能看看咨询师会不会真的听进去。）",
+        "reasoning": "（咨询师说愿意安静陪我坐一会儿，这让我心里稍微松了一点。可我还是有点不习惯这种被陪着的感觉，怕自己太依赖，又怕对方只是客套。）\n（我想说点什么，又不想说太多。也许可以先讲一个最近想试的小动作，这样既不会显得太脆弱，也能看看咨询师会不会真的听进去。）"
+      }
+    }
+  ],
+  "created": 1795143466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3338,
+    "total_tokens": 3440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

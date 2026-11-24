@@ -1,0 +1,41 @@
+{
+  "id": "bac3871901dc4d1bb5ab1ef7d62c6426",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从天气写起……（点头）好，我试试。不过要是写得很乱，你可别笑我。我想先写写那天为什么吵起来的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议从“那天天空很阴”开始写，这让我想起上周吵架时的场景。他提到让情绪自然流动不急着找答案，这让我稍微放松了些，但心里还是有点没底。）\n（写日记这事我其实有点抗拒，怕写着写着又陷入自责。不过咨询师说得对，先别想太多，从具体场景开始写可能更容易。我决定试试看，但得给自己留点余地，写不好也没关系。）",
+        "reasoning": "（咨询师建议从“那天天空很阴”开始写，这让我想起上周吵架时的场景。他提到让情绪自然流动不急着找答案，这让我稍微放松了些，但心里还是有点没底。）\n（写日记这事我其实有点抗拒，怕写着写着又陷入自责。不过咨询师说得对，先别想太多，从具体场景开始写可能更容易。我决定试试看，但得给自己留点余地，写不好也没关系。）"
+      }
+    }
+  ],
+  "created": 1795147710,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2913,
+    "total_tokens": 3046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dd01f693b06f4cc7916b898af919a096",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先练那句“我想自己试试看”。它短一点，我可能没那么容易慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我下次想从哪一句最容易开口的话开始练，这让我觉得他是在帮我找具体可操作的起点。我内心其实有点矛盾，既想试试又怕自己做不到，但想到之前说的“我想自己试试看”似乎没那么难说出口。）\n（作为我这样容易退缩的人，选一句简单的话先练可能比想太多更有用。虽然还是会担心妈妈的反应，但至少能先迈出第一步。也许我可以从这句开始，给自己一点空间。）",
+        "reasoning": "（咨询师问我下次想从哪一句最容易开口的话开始练，这让我觉得他是在帮我找具体可操作的起点。我内心其实有点矛盾，既想试试又怕自己做不到，但想到之前说的“我想自己试试看”似乎没那么难说出口。）\n（作为我这样容易退缩的人，选一句简单的话先练可能比想太多更有用。虽然还是会担心妈妈的反应，但至少能先迈出第一步。也许我可以从这句开始，给自己一点空间。）"
+      }
+    }
+  ],
+  "created": 1795143171,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3394,
+    "total_tokens": 3518,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

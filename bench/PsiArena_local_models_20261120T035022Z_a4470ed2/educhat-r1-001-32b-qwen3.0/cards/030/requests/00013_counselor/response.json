@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-9bf1a16664f44b189cb5e01289e38e63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不是你的问题，可能是你们的沟通方式需要调整。你可以试着用更直接的方式表达自己的想法，比如直接问他：“我感觉我们之间的交流有些浅，你有什么想法吗？”",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者感到被忽视，需要确认沟通方式的有效性。\n【行动策略】：建议具体沟通方式，鼓励尝试。\n",
+        "reasoning_content": "\n【诊断分析】：来访者感到被忽视，需要确认沟通方式的有效性。\n【行动策略】：建议具体沟通方式，鼓励尝试。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149136,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 812,
+    "total_tokens": 886,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

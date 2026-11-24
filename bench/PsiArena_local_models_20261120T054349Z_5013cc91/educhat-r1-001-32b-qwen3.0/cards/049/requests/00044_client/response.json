@@ -1,0 +1,41 @@
+{
+  "id": "e3c91aeb77ee45269f137b6938708bf2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "每天一次……好，我可以试试看。（停顿）那要是哪天做不好，或者又乱了，我还能来跟你聊吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把情绪观察比作学骑车，还提到每天一次，这让我觉得压力小了一些。我本来担心自己做不到，但现在觉得可以试试看，不用一下子要求太高。）\n（不过我还是有点不放心，怕自己一个人做的时候会走偏，或者坚持不下去。家里那种什么都得讲道理的习惯，让我容易把事情想得太复杂。也许问问咨询师之后还能不能继续聊，会让我更安心一点。）",
+        "reasoning": "（咨询师把情绪观察比作学骑车，还提到每天一次，这让我觉得压力小了一些。我本来担心自己做不到，但现在觉得可以试试看，不用一下子要求太高。）\n（不过我还是有点不放心，怕自己一个人做的时候会走偏，或者坚持不下去。家里那种什么都得讲道理的习惯，让我容易把事情想得太复杂。也许问问咨询师之后还能不能继续聊，会让我更安心一点。）"
+      }
+    }
+  ],
+  "created": 1795155384,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2805,
+    "total_tokens": 2926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

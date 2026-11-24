@@ -1,0 +1,41 @@
+{
+  "id": "b46080e43ec047fe967e927b2a0b7664",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "温度计你之前说过好几次了……行，我记。打分就打分吧，不过我怕自己记着记着又开始挑自己的毛病。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又提情绪温度计，之前说过好几次了。我其实有点烦，感觉像在绕圈子。不过现在情绪比之前稳一些，不想再对抗了。也许他是在强调方法的重要性吧。）\n（我确实觉得光靠呼吸法不够，需要一个能坚持的日常办法。温度计打分听起来有点机械，但既然他反复说，可能真的有用。我可以试试，但得说清楚我担心会变成自我评判。）",
+        "reasoning": "（咨询师又提情绪温度计，之前说过好几次了。我其实有点烦，感觉像在绕圈子。不过现在情绪比之前稳一些，不想再对抗了。也许他是在强调方法的重要性吧。）\n（我确实觉得光靠呼吸法不够，需要一个能坚持的日常办法。温度计打分听起来有点机械，但既然他反复说，可能真的有用。我可以试试，但得说清楚我担心会变成自我评判。）"
+      }
+    }
+  ],
+  "created": 1795150275,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2804,
+    "total_tokens": 2930,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

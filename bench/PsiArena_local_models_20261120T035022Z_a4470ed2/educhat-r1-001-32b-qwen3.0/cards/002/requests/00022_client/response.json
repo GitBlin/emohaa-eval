@@ -1,0 +1,41 @@
+{
+  "id": "f01d5b834b04416baa9291b8e60887ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）就是……很怕被丢下吧。有时候明明在跟朋友说话，心里却已经在担心她哪天会走开。（声音有点抖）这种害怕好像一直跟着我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“分离的伤痕”和“警报器”，这让我想起小时候爸妈分开时的感觉。那时候真的特别害怕，总觉得是自己不够好才留不住人。现在朋友疏远我，那种熟悉的恐惧又回来了。）\n（我其实很想说清楚这种感受，但一开口就觉得喉咙发紧。也许可以试着告诉咨询师，我害怕被抛弃的念头总是突然冒出来，根本控制不住。这种恐惧好像已经成了习惯，每次有人靠近又离开，都会让我更确信自己不值得被留在身边。）",
+        "reasoning": "（咨询师提到“分离的伤痕”和“警报器”，这让我想起小时候爸妈分开时的感觉。那时候真的特别害怕，总觉得是自己不够好才留不住人。现在朋友疏远我，那种熟悉的恐惧又回来了。）\n（我其实很想说清楚这种感受，但一开口就觉得喉咙发紧。也许可以试着告诉咨询师，我害怕被抛弃的念头总是突然冒出来，根本控制不住。这种恐惧好像已经成了习惯，每次有人靠近又离开，都会让我更确信自己不值得被留在身边。）"
+      }
+    }
+  ],
+  "created": 1795146765,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 1803,
+    "total_tokens": 1958,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

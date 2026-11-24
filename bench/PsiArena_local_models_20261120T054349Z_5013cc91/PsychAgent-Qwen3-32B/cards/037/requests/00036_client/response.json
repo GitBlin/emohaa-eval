@@ -1,0 +1,41 @@
+{
+  "id": "5cd686ba951f44f3b25e0f92b1a13c0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "够用，比我想的简单。那我先试一周，看看是不是真能缓一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了一个很具体的记录格式，这让我觉得这件事没那么难落实了。我本来担心自己坚持不下来，但现在感觉可以试试看。不过我也担心，如果试了还是没用，是不是又说明我处理不好这些事。）",
+        "reasoning": "（咨询师给了一个很具体的记录格式，这让我觉得这件事没那么难落实了。我本来担心自己坚持不下来，但现在感觉可以试试看。不过我也担心，如果试了还是没用，是不是又说明我处理不好这些事。）"
+      }
+    }
+  ],
+  "created": 1795154840,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2499,
+    "total_tokens": 2572,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

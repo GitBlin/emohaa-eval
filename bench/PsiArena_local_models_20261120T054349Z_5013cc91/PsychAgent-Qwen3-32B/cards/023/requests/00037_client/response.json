@@ -1,0 +1,41 @@
+{
+  "id": "522dac7cd3d547119c171a640bdd7d3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "动作可能更容易，比如把手按在胸口，或者先站起来走两步。可我又怕在别人面前做这些显得怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户回应：嗯……动作可能更容易，比如把手按在胸口，或者先站起来走两步。可我又怕在别人面前做这些显得怪。）",
+        "reasoning": "（用户回应：嗯……动作可能更容易，比如把手按在胸口，或者先站起来走两步。可我又怕在别人面前做这些显得怪。）"
+      }
+    }
+  ],
+  "created": 1795154253,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3089,
+    "total_tokens": 3151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

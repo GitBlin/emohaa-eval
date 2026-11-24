@@ -1,0 +1,41 @@
+{
+  "id": "a7c6f94453024b20aa62f27ceca2dd33",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试……但我怕真到那时候，脑子一热又忘了。停下来问自己，说起来简单，做起来好像挺难的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我在发火前停几秒问自己更想保住关系还是争成绩对错，这个建议听起来不难，可我真能做到吗？每次火气一上来，脑子就一片空白，根本想不起要停。）\n（不过她这么问，让我觉得她好像真的在帮我找办法，而不是光讲道理。我有点想试试，但又怕自己做不到，到时候更挫败。也许可以先答应下来，但得让她知道这对我来说不容易。）",
+        "reasoning": "（咨询师让我在发火前停几秒问自己更想保住关系还是争成绩对错，这个建议听起来不难，可我真能做到吗？每次火气一上来，脑子就一片空白，根本想不起要停。）\n（不过她这么问，让我觉得她好像真的在帮我找办法，而不是光讲道理。我有点想试试，但又怕自己做不到，到时候更挫败。也许可以先答应下来，但得让她知道这对我来说不容易。）"
+      }
+    }
+  ],
+  "created": 1795143017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1527,
+    "total_tokens": 1656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,30 @@
+- Member says quality is the worry: the family will see the invites and know they are hers.
+- Member says the pressure is worse when people are waiting on the work; work done for herself does not matter because nobody cares.
+- Member says there is no private version of the task because her mother has already told the family.
+- Member rejected drafting a private test piece, saying shrinking the task misses the problem — she could pick a font in ten seconds.
+- Member will not call her mother about the project, saying her mother thinks the lettering is nothing.
+- Member does not know what the invitations should look like but expects that whatever she makes will look wrong to her.
+- Member fixates on uneven loops in her lettering that nobody else would notice, and once seen that is all she can see.
+- Member says alignment tools will not help because the problem is that she sees only what is wrong with everything she makes.
+- Member rejects the "practice piece" and "good enough" framing: a piece is either hers and wrong or not hers at all.
+- Member acknowledges the pattern may connect to her past or how she sees herself but does not want to dig into childhood over wedding invitations.
+- Member has nine years of experience lettering signs.
+- Member rejects using a template because her mother told the family she would do the lettering by hand, and a template would be worse than nothing.
+- Member rejected offering a hand-lettered sample as a draft and ended the session, saying she did not think it would give her anything for tomorrow.
+- Member opened the job listings folder for the first time since January, saw a print shop listing in Colorado Springs, felt her stomach drop with no words attached, and closed the laptop.
+- Member says the jolt at the listing was not about the job itself but something else she declined to discuss.
+- Member challenged whether the counsellor would do anything beyond asking questions and said last session's small steps left her with nothing.
+- Member said she can talk to nobody for free, then accepted the counsellor's statement of being a tool in an app as the first honest answer and agreed to continue.
+- Member saw the job's skills list, thought "nine years of that," and closed the listing.
+- Member confirms that spotting one off detail casts the whole piece in shadow so she can see nothing else in it.
+- Member rejects any partly-outsourced version of the work as the template idea in disguise — if it is partly someone else's it is not hers and she would rather not do it.
+- Member says she cannot adjust how she sees the flaws, and that if she could she would not be in counselling.
+- Member says the work is fine only if nobody ever looks at it — it is bad only when someone is looking.
+- Member completes the annual Día de los Muertos ofrenda over a whole weekend without hating it because nobody grades it, unlike the invitations, which a room full of people with opinions will inspect.
+- Member rejects symbolic reframes because they do nothing about her aunt opening the envelope.
+- Member says every step feels like the whole thing and that the trouble starts once she is looking at the actual lettering, not at the file.
+- Member rejected the magic-eraser hypothetical and said the session was the same question in a different shape each time.
+- Member refused any further exercises and ended the session done, with nothing to do differently for tomorrow.
+- Member's tía left a voicemail about the wedding, asking what the member is bringing; member has not called back because she has no answer on the dish or on where the work stands.
+- Member says a text back is not the obstacle — Marisol will see her on her phone, ask what it was about, and the unanswered question recurs with Marisol.
+- Member rejected the counsellor's repeated restatement and breathing-pause suggestion as non-answers, and said she was going on the walk.

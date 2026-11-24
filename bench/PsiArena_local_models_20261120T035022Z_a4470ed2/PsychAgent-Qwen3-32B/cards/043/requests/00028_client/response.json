@@ -1,0 +1,41 @@
+{
+  "id": "eb9b9fd6a54549668ea54f66543d1391",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，呼吸顺了一点，刚才有点堵着的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，感受一下）呼吸……呼吸好像顺了一点，刚才有点堵着的感觉。",
+        "reasoning": "（停顿，感受一下）呼吸……呼吸好像顺了一点，刚才有点堵着的感觉。"
+      }
+    }
+  ],
+  "created": 1795148554,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 2185,
+    "total_tokens": 2218,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 20,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

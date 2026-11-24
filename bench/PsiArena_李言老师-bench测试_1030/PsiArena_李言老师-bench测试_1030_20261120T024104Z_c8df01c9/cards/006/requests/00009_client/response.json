@@ -1,0 +1,41 @@
+{
+  "id": "3f3de49c7178436e8e327ad5ee883aad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是财务那边的一些操作，我明明看到不对劲，提了之后却被轻描淡写地压下去。时间久了，我都开始怀疑是不是自己太较真了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体事件，但我心里有点乱。他好像真的在认真听，不是随便敷衍。可我一想到要说那些事，就有点烦躁，又怕自己说着说着情绪失控。）\n（财务部门的事压在我心里很久了，平时跟谁都没法讲。现在被问起来，那些画面又冒出来了，堵得慌。我得先让他明白，这不是小事，也不是我编出来的。）",
+        "reasoning": "（咨询师在引导我回忆具体事件，但我心里有点乱。他好像真的在认真听，不是随便敷衍。可我一想到要说那些事，就有点烦躁，又怕自己说着说着情绪失控。）\n（财务部门的事压在我心里很久了，平时跟谁都没法讲。现在被问起来，那些画面又冒出来了，堵得慌。我得先让他明白，这不是小事，也不是我编出来的。）"
+      }
+    }
+  ],
+  "created": 1795142541,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1703,
+    "total_tokens": 1831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

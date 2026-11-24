@@ -1,0 +1,41 @@
+{
+  "id": "ca30df19f77242d5b8ae69fef6be646a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……最近总是睡不好，心里堵得慌。但具体怎么回事，我也说不太清楚，就是觉得特别累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会根据我的需求调整方式，还让我先说说困扰……但第一次见面，我还不确定能不能信任她。她会不会像其他人一样评判我？我得先试探一下她的反应。）\n（毕竟我是个敏感又保守的人，对陌生人总带着防备。直接说感情问题太冒险了，不如先含糊地提一句最近睡不好，看看她怎么回应。这样既不会暴露太多，也能观察她的态度。）",
+        "reasoning": "（咨询师说会根据我的需求调整方式，还让我先说说困扰……但第一次见面，我还不确定能不能信任她。她会不会像其他人一样评判我？我得先试探一下她的反应。）\n（毕竟我是个敏感又保守的人，对陌生人总带着防备。直接说感情问题太冒险了，不如先含糊地提一句最近睡不好，看看她怎么回应。这样既不会暴露太多，也能观察她的态度。）"
+      }
+    }
+  ],
+  "created": 1795149266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1016,
+    "total_tokens": 1134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-4166254469d8490c85ed52419383db41",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这是一次很好的尝试。你对咨询有什么具体期待吗？比如希望解决什么问题，或者想探索哪些方面？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询过程存在认知模糊，需要明确咨询形式。\n【行动策略】：通过开放式提问引导具体需求，建立专业框架。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询过程存在认知模糊，需要明确咨询形式。\n【行动策略】：通过开放式提问引导具体需求，建立专业框架。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147971,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 292,
+    "total_tokens": 357,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

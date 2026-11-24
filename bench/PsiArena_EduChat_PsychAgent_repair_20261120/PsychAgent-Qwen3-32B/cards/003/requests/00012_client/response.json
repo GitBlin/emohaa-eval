@@ -1,0 +1,41 @@
+{
+  "id": "1cac866e64d14624a09578507d1de55d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里人……我爸妈都挺厉害的，读书工作都很好，不过我们平时不怎么聊心里的事。朋友的话，其实也谈不上特别亲近的。对了，我可以问一下……你自己平时会有这种烦恼吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了家人和社交圈……我其实不太想一开始就聊这些，感觉有点被看穿。不过既然问了，简单说两句应该没关系吧？家里爸妈都是读书人，平时不太聊感情的事，朋友嘛……好像也没什么特别亲近的。）\n（对了，我其实一直有点好奇，咨询师会不会也有自己的情绪问题？如果我问了，他会不会觉得我在试探他？算了，还是先回答他的问题，顺便带一句试试看。）",
+        "reasoning": "（咨询师问到了家人和社交圈……我其实不太想一开始就聊这些，感觉有点被看穿。不过既然问了，简单说两句应该没关系吧？家里爸妈都是读书人，平时不太聊感情的事，朋友嘛……好像也没什么特别亲近的。）\n（对了，我其实一直有点好奇，咨询师会不会也有自己的情绪问题？如果我问了，他会不会觉得我在试探他？算了，还是先回答他的问题，顺便带一句试试看。）"
+      }
+    }
+  ],
+  "created": 1795153444,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 1350,
+    "total_tokens": 1495,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

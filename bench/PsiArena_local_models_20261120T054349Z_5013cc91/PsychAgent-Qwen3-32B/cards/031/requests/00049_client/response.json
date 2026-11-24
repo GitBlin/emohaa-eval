@@ -1,0 +1,41 @@
+{
+  "id": "f162eb0eb98041e087a99221abe8ab78",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最想带走的是……我好像不是不想靠近别人，只是太习惯把自己收起来了。今天至少看清了这一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最想带走的东西……我想了想，应该是那个“别添麻烦”吧。以前总觉得它是在保护我，现在发现它也在把我往后拉。至少今天我看清楚了一点，原来我不是不想靠近别人，是总怕给别人添麻烦。这句话说出来，好像心里松了一点点。）",
+        "reasoning": "（他问我最想带走的东西……我想了想，应该是那个“别添麻烦”吧。以前总觉得它是在保护我，现在发现它也在把我往后拉。至少今天我看清楚了一点，原来我不是不想靠近别人，是总怕给别人添麻烦。这句话说出来，好像心里松了一点点。）"
+      }
+    }
+  ],
+  "created": 1795154599,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3215,
+    "total_tokens": 3306,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

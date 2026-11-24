@@ -1,0 +1,41 @@
+{
+  "id": "09b6a43d7a1b4871844a724f00455987",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "晚上洗完澡以后吧。那时候家里安静，手机也可以放远一点。",
+        "reasoning": "晚上洗完澡以后吧。那时候家里安静，手机也可以放远一点。"
+      }
+    }
+  ],
+  "created": 1795157407,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 17,
+    "prompt_tokens": 2992,
+    "total_tokens": 3009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 18,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

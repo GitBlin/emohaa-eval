@@ -1,0 +1,41 @@
+{
+  "id": "270779e28a604314b78365693ecc4efd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说：“我最近晚上容易多想，你忙的话不用马上回，但能不能告诉我你大概什么时候方便？”这样说会不会太黏人了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我表达请求，而不是忍着。我有点犹豫，因为怕说出来显得太黏人，可又觉得总比憋着强。我想先试着用自己的话讲一遍，但语气可能还是会有点不确定。）",
+        "reasoning": "（咨询师建议我表达请求，而不是忍着。我有点犹豫，因为怕说出来显得太黏人，可又觉得总比憋着强。我想先试着用自己的话讲一遍，但语气可能还是会有点不确定。）"
+      }
+    }
+  ],
+  "created": 1795147762,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2881,
+    "total_tokens": 2961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

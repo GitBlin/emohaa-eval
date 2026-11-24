@@ -1,0 +1,41 @@
+{
+  "id": "41005fdc2adf488c84ba35b74cbf858e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写事实……具体是写什么呢？比如“有人笑了”这种算事实吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在给我一个具体办法……写事实，再评估念头。听起来不难，但真到那时候，我可能还是会一头扎进那些想法里。不过，先问问怎么操作吧，别显得我太抵触。）",
+        "reasoning": "（咨询师在给我一个具体办法……写事实，再评估念头。听起来不难，但真到那时候，我可能还是会一头扎进那些想法里。不过，先问问怎么操作吧，别显得我太抵触。）"
+      }
+    }
+  ],
+  "created": 1795146294,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2798,
+    "total_tokens": 2866,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

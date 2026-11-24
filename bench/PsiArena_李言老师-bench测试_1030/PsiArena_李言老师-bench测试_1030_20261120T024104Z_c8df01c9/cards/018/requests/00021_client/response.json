@@ -1,0 +1,41 @@
+{
+  "id": "e887b2ea1c284af581d8662e0d001443",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是她说那个想法之后，我嘴上说“随便你想想吧”，其实我想说“我也在认真想，只是有点怕”。这话憋着挺难受的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近哪次说“随便你”时最想被听见什么，这让我一下子想到上周妻子提那个想法后我的反应。其实我当时心里很乱，很想让她知道我也在认真想，不是敷衍她。）\n（我有点犹豫要不要说这么细，但既然咨询师问到了，还是说出来吧。可能说出来之后，我能更清楚自己到底在怕什么，也方便我周四跟她开口。）",
+        "reasoning": "（她问我最近哪次说“随便你”时最想被听见什么，这让我一下子想到上周妻子提那个想法后我的反应。其实我当时心里很乱，很想让她知道我也在认真想，不是敷衍她。）\n（我有点犹豫要不要说这么细，但既然咨询师问到了，还是说出来吧。可能说出来之后，我能更清楚自己到底在怕什么，也方便我周四跟她开口。）"
+      }
+    }
+  ],
+  "created": 1795142981,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2939,
+    "total_tokens": 3065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

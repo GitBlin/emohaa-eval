@@ -1,0 +1,41 @@
+{
+  "id": "316ff6800168498880daab4ace54b64a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实希望她别马上插手，也别叹气，就说一句“孩子闹一会儿没事”。可她一沉默，我就觉得她是不是在心里怪我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望婆婆怎么回应，这让我有点意外。之前我总觉得婆婆不说什么就已经是体谅了，可仔细想想，她越是不出声，我越觉得自己被审视。）\n（其实我真正怕的，是婆婆觉得我不会带孩子。如果她能在那个时候说一句孩子哭闹正常，或者让我先缓缓，我可能就不会那么快炸了。）",
+        "reasoning": "（她问我希望婆婆怎么回应，这让我有点意外。之前我总觉得婆婆不说什么就已经是体谅了，可仔细想想，她越是不出声，我越觉得自己被审视。）\n（其实我真正怕的，是婆婆觉得我不会带孩子。如果她能在那个时候说一句孩子哭闹正常，或者让我先缓缓，我可能就不会那么快炸了。）"
+      }
+    }
+  ],
+  "created": 1795143121,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3005,
+    "total_tokens": 3114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

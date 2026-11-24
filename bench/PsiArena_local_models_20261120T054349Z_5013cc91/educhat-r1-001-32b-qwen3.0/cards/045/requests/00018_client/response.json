@@ -1,0 +1,41 @@
+{
+  "id": "35579280f99a402697d7eb3a64b37545",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作的时候特别明显……我是老师，以前备课上课都挺专注的，现在老走神，有次差点在课堂上出错。（声音低下去）我觉得自己这样很不对，但又没办法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问到这种反复想事情的感觉对生活的影响，这让我意识到自己确实被困扰得很深。我想到最近工作时的状态，那些无法集中的时刻让我感到特别挫败，但又不知道该怎么解释这种状态。）\n（作为从小被要求完美的人，承认自己工作受影响其实很难开口。但我又觉得咨询师似乎能理解这种感受，所以想试着说出来，可又担心显得自己不够专业。这种矛盾让我说话时有点犹豫。）",
+        "reasoning": "（心理咨询师问到这种反复想事情的感觉对生活的影响，这让我意识到自己确实被困扰得很深。我想到最近工作时的状态，那些无法集中的时刻让我感到特别挫败，但又不知道该怎么解释这种状态。）\n（作为从小被要求完美的人，承认自己工作受影响其实很难开口。但我又觉得咨询师似乎能理解这种感受，所以想试着说出来，可又担心显得自己不够专业。这种矛盾让我说话时有点犹豫。）"
+      }
+    }
+  ],
+  "created": 1795155202,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1538,
+    "total_tokens": 1676,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

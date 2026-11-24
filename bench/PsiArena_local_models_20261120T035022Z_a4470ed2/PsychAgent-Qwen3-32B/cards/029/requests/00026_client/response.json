@@ -1,0 +1,41 @@
+{
+  "id": "e62e73f859574ee9938f2afb59d42c48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般先忍着，不想吵起来。可忍完回房间，心里憋得慌，就又开始刷手机……然后你们懂的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，她问我怎么应对家里的批评……我一般就是先忍着，不想吵，但心里特别憋屈。有时候忍完就回房间刷手机，然后就……又买了。这个循环好像真的挺明显的。",
+        "reasoning": "嗯，她问我怎么应对家里的批评……我一般就是先忍着，不想吵，但心里特别憋屈。有时候忍完就回房间刷手机，然后就……又买了。这个循环好像真的挺明显的。"
+      }
+    }
+  ],
+  "created": 1795147622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2199,
+    "total_tokens": 2275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

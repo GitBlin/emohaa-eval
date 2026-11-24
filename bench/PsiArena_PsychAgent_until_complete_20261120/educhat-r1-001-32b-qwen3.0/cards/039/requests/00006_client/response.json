@@ -1,0 +1,41 @@
+{
+  "id": "f7f279473ef649998a2cfa3f32d84e89",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）最近……其实也没什么特别的事。就是，嗯……我能不能问一下，如果我做了个决定，你会不会告诉我该怎么做？还是说，你只是听我说？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最近有没有特别的事情发生……他好像想引导我说出具体的事件。但我现在还没准备好把那些细节说出来，而且我们才刚开始对话，我甚至不确定他是不是真的值得信任。）\n（也许我可以先试探一下他的界限，看看他会不会像普通朋友那样给我建议或者替我拿主意。毕竟我真正想知道的是，他会不会在咨询之外也愿意帮我做决定……如果他能给我一个明确的答案，也许我就不用这么纠结了。）",
+        "reasoning": "（咨询师在问我最近有没有特别的事情发生……他好像想引导我说出具体的事件。但我现在还没准备好把那些细节说出来，而且我们才刚开始对话，我甚至不确定他是不是真的值得信任。）\n（也许我可以先试探一下他的界限，看看他会不会像普通朋友那样给我建议或者替我拿主意。毕竟我真正想知道的是，他会不会在咨询之外也愿意帮我做决定……如果他能给我一个明确的答案，也许我就不用这么纠结了。）"
+      }
+    }
+  ],
+  "created": 1795155004,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1102,
+    "total_tokens": 1241,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

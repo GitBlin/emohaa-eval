@@ -1,0 +1,41 @@
+{
+  "id": "f43f1e7afd5044fbb2ce4eb4cdae1392",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不好，有时候是赶时间，有时候题没看完就写。唉，我平时教学生挺有耐心的，一到自己孩子就不行了……我是不是太急了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我女儿出错的情境，其实我自己也观察过，但就是越想越乱。我注意到她好像没有直接评判我，但我不确定她是不是真的能理解我的处境。）\n（作为老师，我平时总在指导别人，现在被问到这种具体问题反而有点不自在。而且我忍不住想试探一下，如果我说想让她像朋友一样给我点建议，她会怎么反应？毕竟咨询师应该不会轻易越界吧。）",
+        "reasoning": "（她问我女儿出错的情境，其实我自己也观察过，但就是越想越乱。我注意到她好像没有直接评判我，但我不确定她是不是真的能理解我的处境。）\n（作为老师，我平时总在指导别人，现在被问到这种具体问题反而有点不自在。而且我忍不住想试探一下，如果我说想让她像朋友一样给我点建议，她会怎么反应？毕竟咨询师应该不会轻易越界吧。）"
+      }
+    }
+  ],
+  "created": 1795142948,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1182,
+    "total_tokens": 1315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

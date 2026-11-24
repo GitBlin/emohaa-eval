@@ -1,0 +1,41 @@
+{
+  "id": "2c27bc78ee594774a5710ac772da2d37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步吧，找个公园走走。面对面坐着太正式了，我容易紧张，走着说可能自然点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她提到咖啡馆、公园这些地方，让我想想。其实那种太安静的环境反而让我紧张，总觉得一开口就得说点什么，沉默下来更尴尬。）\n（散步的话，至少身体在动，不用一直对视，压力会小一点。而且如果话说得太重，走一走也能缓一缓，不至于僵在那里。）",
+        "reasoning": "（她提到咖啡馆、公园这些地方，让我想想。其实那种太安静的环境反而让我紧张，总觉得一开口就得说点什么，沉默下来更尴尬。）\n（散步的话，至少身体在动，不用一直对视，压力会小一点。而且如果话说得太重，走一走也能缓一缓，不至于僵在那里。）"
+      }
+    }
+  ],
+  "created": 1795149755,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2949,
+    "total_tokens": 3042,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

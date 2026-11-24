@@ -1,0 +1,41 @@
+{
+  "id": "757e940a31694f5c9324426f4817b9ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "适合？我也不知道什么算适合。每天就是做题、考试，回到家还要听我爸妈念叨谁家孩子又考了多少分……我有时候真的想，是不是我根本就不适合读书。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在的学习方式和节奏适不适合我……她好像真的在认真听我说话，不像我爸妈只会说“再努力点”。这种被理解的感觉让我有点想多说一点。）\n（我想到每天做题做到深夜，第二天上课却什么都听不进去，效率越来越低。同桌看我那种眼神，好像我根本不配坐在这里。也许我可以试着把这些说出来，反正她说过会保密的。）",
+        "reasoning": "（咨询师问我现在的学习方式和节奏适不适合我……她好像真的在认真听我说话，不像我爸妈只会说“再努力点”。这种被理解的感觉让我有点想多说一点。）\n（我想到每天做题做到深夜，第二天上课却什么都听不进去，效率越来越低。同桌看我那种眼神，好像我根本不配坐在这里。也许我可以试着把这些说出来，反正她说过会保密的。）"
+      }
+    }
+  ],
+  "created": 1795155163,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1503,
+    "total_tokens": 1629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

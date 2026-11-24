@@ -1,0 +1,41 @@
+{
+  "id": "f7f2cbe0b1ee4412bb54bf3989e0620f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候是刷手机看到别人发的聚会照片，就……唉。或者白天跟同事说话，对方就“哦”一声，没下文了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是触发点……我得想想。其实很多时候是刷朋友圈看到别人聚会照片，或者白天跟同事说话没人接。）有时候是刷手机看到别人发的聚会照片，就……唉。或者白天跟同事说话，对方就“哦”一声，没下文了。",
+        "reasoning": "（咨询师问的是触发点……我得想想。其实很多时候是刷朋友圈看到别人聚会照片，或者白天跟同事说话没人接。）有时候是刷手机看到别人发的聚会照片，就……唉。或者白天跟同事说话，对方就“哦”一声，没下文了。"
+      }
+    }
+  ],
+  "created": 1795153454,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1743,
+    "total_tokens": 1836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

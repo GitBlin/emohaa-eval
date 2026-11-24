@@ -1,0 +1,19 @@
+- Member had to leave their rental in the spring after thirty days' notice due to a new owner and has been living in Jesse's mother's spare room for four months.
+- Member has been telling everyone they are doing better than they actually are.
+- Member is exhausted and cries in their car before shifts.
+- Member does not find grounding exercises useful because they are not panicking.
+- Member dreads Monday mornings all weekend and wants that dread addressed, not managed with playlists or rituals.
+- Member wants to not be the only one carrying the burden but fears going to Jesse will make things harder for him.
+- Jesse told Member he feels like a boarder in his own marriage.
+- Member cannot afford couples therapy.
+- Member has been doing small things since April with no result and sees no point in trying another small thing.
+- Member held their quilt bag in the living room after everyone was asleep, did not open it, and put it back.
+- Member cannot open the quilt in front of Jesse's mother because she would ask what it's for and Member would have to say "for our place" when there isn't one.
+- Member rejected giving the quilt to someone else — it is the one thing that is theirs.
+- Member eats lunch at their desk going through a binder of rentals and will not bring the quilt to a coffee shop.
+- Member feels one stitch a day will not get them out of the spare room and that is the point to them.
+- Member dropped a class in June, drives past the campus every morning, saw the lot full on Monday, feels it should have been them in it, and has told no one.
+- Member wanted to say the campus thing to somebody once, not write it down.
+- Member made two double-booking errors on the office schedule this month, told the office manager it was a computer issue, and fears being caught and watched differently at work.
+- Member works the front desk and believes they cannot be the one who cannot keep the calendar straight.
+- Member stopped the session feeling worse than when they started.

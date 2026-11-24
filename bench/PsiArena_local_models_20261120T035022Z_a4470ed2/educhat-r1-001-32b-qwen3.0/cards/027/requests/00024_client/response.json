@@ -1,0 +1,41 @@
+{
+  "id": "45a2f7a543e94cccbf649ad7036bf137",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来……这倒没试过。不过我小时候写过日记，被我妈翻出来看过，还拿去跟亲戚说。所以现在一想到要写什么，心里就有点发毛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写下来，这让我想起小时候写日记被妈妈翻看的事。那种被窥探的感觉又涌上来了，心里有点发紧。）\n（不过现在我已经是成年人了，也许可以试试用别的方式。但一想到要面对妈妈可能的反应，那种无力感又冒出来了。她总是用那种“为你好”的语气否定我，让我觉得自己做什么都不对。）",
+        "reasoning": "（咨询师建议我写下来，这让我想起小时候写日记被妈妈翻看的事。那种被窥探的感觉又涌上来了，心里有点发紧。）\n（不过现在我已经是成年人了，也许可以试试用别的方式。但一想到要面对妈妈可能的反应，那种无力感又冒出来了。她总是用那种“为你好”的语气否定我，让我觉得自己做什么都不对。）"
+      }
+    }
+  ],
+  "created": 1795148862,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1886,
+    "total_tokens": 2010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

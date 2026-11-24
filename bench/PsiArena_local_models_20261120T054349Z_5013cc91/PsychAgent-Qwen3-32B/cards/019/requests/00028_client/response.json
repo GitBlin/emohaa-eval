@@ -1,0 +1,41 @@
+{
+  "id": "cb0ffb956c8744bc9c57181906764f92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸……可能有点用吧，但我怕到时候根本想不起来。而且就算放松了，对方怎么看我，我还是控制不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们正在第13轮，需要只针对一个方面回复，保持简短2-3句，中期阶段深入理解根源。刚才咨询师建议深呼吸，我可以回应这个建议，但也要继续探索。不要跳太快。",
+        "reasoning": "我们正在第13轮，需要只针对一个方面回复，保持简短2-3句，中期阶段深入理解根源。刚才咨询师建议深呼吸，我可以回应这个建议，但也要继续探索。不要跳太快。"
+      }
+    }
+  ],
+  "created": 1795154174,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2179,
+    "total_tokens": 2254,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

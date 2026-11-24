@@ -1,0 +1,41 @@
+{
+  "id": "b62406b200c54d0299005dd93bbd2c5b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。你给自己设一个“只记关键点、不展开”的边界，这一点很重要。如果写到一半又想联系他，先停一下，做三次呼吸，把那一刻记下来，下次带来。我们下次就从那一晚和这份记录继续。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这样听起来比一直憋着好一点。就记时间、身体感觉和发消息前那一念，不展开写。要是我写到一半又想去联系他，我就先停下来，等下次再和你说。",
+        "reasoning": "嗯，这样听起来比一直憋着好一点。就记时间、身体感觉和发消息前那一念，不展开写。要是我写到一半又想去联系他，我就先停下来，等下次再和你说。"
+      }
+    }
+  ],
+  "created": 1795146966,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2828,
+    "total_tokens": 2931,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

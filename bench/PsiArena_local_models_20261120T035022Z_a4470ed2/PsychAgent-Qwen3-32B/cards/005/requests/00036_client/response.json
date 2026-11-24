@@ -1,0 +1,41 @@
+{
+  "id": "1b458b49a7f545d5a40994cb7e6a3058",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口闷，心跳会快一点。嗯……我们是不是可以聊点别的？总说这些，我有点烦了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问身体反应……胸闷是有的，心跳也会快。不过我不想一直绕在这些细节上，七分已经说过了。也许可以顺着说一句，然后问问接下来能不能聊点能实际做的事。）",
+        "reasoning": "（她问身体反应……胸闷是有的，心跳也会快。不过我不想一直绕在这些细节上，七分已经说过了。也许可以顺着说一句，然后问问接下来能不能聊点能实际做的事。）"
+      }
+    }
+  ],
+  "created": 1795146846,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2801,
+    "total_tokens": 2873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

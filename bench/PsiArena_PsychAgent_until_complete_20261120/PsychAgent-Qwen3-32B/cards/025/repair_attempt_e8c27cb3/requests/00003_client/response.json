@@ -1,0 +1,41 @@
+{
+  "id": "e8b693acbaec4449940507e352bc3ebf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我这几天就按“走一圈、先停一下”试试，出问题也不急着给自己下结论。下次我想聊聊怎么跟家里人说，别什么都自己扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（轮次已到25，需要收束但不要提前说“谢谢”“再见”。后期目标是总结并确定方向，情绪稳定，具体化。对方说下次回顾三天尝试并细化界限与支持。我应简短回应，确认方向，可以留一个小提醒，不道别。2-3句。可以带一点犹豫和真实感。不要过度感谢。避免“再见”。）",
+        "reasoning": "（轮次已到25，需要收束但不要提前说“谢谢”“再见”。后期目标是总结并确定方向，情绪稳定，具体化。对方说下次回顾三天尝试并细化界限与支持。我应简短回应，确认方向，可以留一个小提醒，不道别。2-3句。可以带一点犹豫和真实感。不要过度感谢。避免“再见”。）"
+      }
+    }
+  ],
+  "created": 1795156826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3704,
+    "total_tokens": 3826,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1a66969cb04945149dd1f03929078289",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "便签……（想了想）贴在电脑上？我每天上班都会看到。不过我怕贴久了就看不见了，像背景一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师建议我把感受写成便签贴在显眼的地方，这让我觉得有点麻烦但又好像可行。我平时确实容易忘记事情，特别是情绪好的时候，但贴便签这个办法听起来挺实在的。）\n（不过我还是有点担心自己坚持不了，毕竟我连每天记三件小事都觉得难。但既然咨询师这么说了，也许可以试试看，至少比什么都不做强。贴在电脑上应该能经常看到吧，工作的时候总会瞄到。）",
+        "reasoning": "（心理咨询师建议我把感受写成便签贴在显眼的地方，这让我觉得有点麻烦但又好像可行。我平时确实容易忘记事情，特别是情绪好的时候，但贴便签这个办法听起来挺实在的。）\n（不过我还是有点担心自己坚持不了，毕竟我连每天记三件小事都觉得难。但既然咨询师这么说了，也许可以试试看，至少比什么都不做强。贴在电脑上应该能经常看到吧，工作的时候总会瞄到。）"
+      }
+    }
+  ],
+  "created": 1795153653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3096,
+    "total_tokens": 3224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

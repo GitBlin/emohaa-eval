@@ -1,0 +1,41 @@
+{
+  "id": "b667e0ba70864ae1a17e615721e8474c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "等一下……我想先确认一下，我们聊的东西会被记录吗？会不会告诉我公司或者家里人？我有点担心这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回想具体片段，但我其实有点抗拒。我不确定自己是不是真的准备好说这些，而且突然问得这么细，让我有点紧张。我下意识想先绕开，不想直接回答。）\n（也许我可以先问问咨询会不会记录或者告诉别人，这样我能稍微安心一点。毕竟我还没完全信任这里，得先试探一下边界。）",
+        "reasoning": "（咨询师让我回想具体片段，但我其实有点抗拒。我不确定自己是不是真的准备好说这些，而且突然问得这么细，让我有点紧张。我下意识想先绕开，不想直接回答。）\n（也许我可以先问问咨询会不会记录或者告诉别人，这样我能稍微安心一点。毕竟我还没完全信任这里，得先试探一下边界。）"
+      }
+    }
+  ],
+  "created": 1795146842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1114,
+    "total_tokens": 1216,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

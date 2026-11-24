@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-b2bca9d742384d7e989e1971744158c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n可以，我们设一个只响一次、标注“去喝水/走一圈”的温和提醒，放在下午茶时间，不重复。这样既简单又不打扰，你觉得合适吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153650,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 3035,
+    "total_tokens": 3079,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-b5bf66f5813b488e972d2cb3d5708b50",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n很好，这就是一个可执行的小步。我们也可以约定一个“安全信号”，如果你觉得不适升高，就用它来暂停。你觉得什么信号最合适？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153483,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 2774,
+    "total_tokens": 2812,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

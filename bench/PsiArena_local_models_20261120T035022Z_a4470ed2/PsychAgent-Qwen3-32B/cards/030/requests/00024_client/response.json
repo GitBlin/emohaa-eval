@@ -1,0 +1,41 @@
+{
+  "id": "8aa136f4e1094a3fa13c49179c6df637",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来你在用“多说一点”来防止沉默，但沉默反而更重了。那当你不停找话题时，心里最怕的到底是什么？是怕他失望，还是怕自己显得没价值？<第13轮:当前是中期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问了互动会变成什么样，我得顺着这个往下说，不能又绕回自己身上。）嗯……我好像会更小心，他稍微沉默我就赶紧找话题，结果越找越乱。最后就变成我一个人在说话，他更没反应。",
+        "reasoning": "（刚才咨询师问了互动会变成什么样，我得顺着这个往下说，不能又绕回自己身上。）嗯……我好像会更小心，他稍微沉默我就赶紧找话题，结果越找越乱。最后就变成我一个人在说话，他更没反应。"
+      }
+    }
+  ],
+  "created": 1795147631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2353,
+    "total_tokens": 2484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

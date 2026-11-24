@@ -1,0 +1,41 @@
+{
+  "id": "dd0b590890d042e78403a422ca84523b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我有时候会硬撑着哄，但越哄越烦……有一次急着上厕所，只能把他放下，他就哭得特别厉害，我一下就吼了他。事后看到他那个小脸，我又特别后悔。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问具体情境，我该顺着这个往下说，但别一下子全倒出来。那种在孩子哭的时候，我其实经常先硬撑着，撑不住就训他，训完又后悔。这个反复挺折磨人的。）",
+        "reasoning": "（咨询师在问具体情境，我该顺着这个往下说，但别一下子全倒出来。那种在孩子哭的时候，我其实经常先硬撑着，撑不住就训他，训完又后悔。这个反复挺折磨人的。）"
+      }
+    }
+  ],
+  "created": 1795154302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1748,
+    "total_tokens": 1843,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

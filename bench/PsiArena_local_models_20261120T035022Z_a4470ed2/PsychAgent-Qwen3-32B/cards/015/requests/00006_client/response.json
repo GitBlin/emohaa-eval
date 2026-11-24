@@ -1,0 +1,41 @@
+{
+  "id": "80b794f2b4eb415c960a7af5cce34994",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近一周……好像每天都差不多，回到家就觉得气氛不对。唉，我也知道这样说很模糊。你会不会觉得我这样讲很烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师试图引导我说出具体事件，但我现在还没准备好深入。我得先试探一下她的界限，看看她是不是真的能包容我这种模糊的状态。也许可以稍微偏离一下话题，问问她会不会觉得烦，这样既保持了防御，又测试了她的反应。）",
+        "reasoning": "（咨询师试图引导我说出具体事件，但我现在还没准备好深入。我得先试探一下她的界限，看看她是不是真的能包容我这种模糊的状态。也许可以稍微偏离一下话题，问问她会不会觉得烦，这样既保持了防御，又测试了她的反应。）"
+      }
+    }
+  ],
+  "created": 1795147025,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 1063,
+    "total_tokens": 1151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bf1b1c1b0d8245eba7f160b75f8cab3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（语气有点无奈）你还是问号……行吧，我自己想。明天我可以试着跟那个同事多聊一句，就问一句她周末干嘛。虽然想到就有点别扭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又只发了问号，这种沉默让我有点烦躁。但刚才我明明已经主动问了最小的行动步骤，他却还是不给方向。也许我得把话说得更具体一点，不能等他来猜。）\n（想到明天办公室的场景，我其实有个很小的事可以做，就是跟那个说“没有人能和她交不来”的同事聊一句。虽然心里有点别扭，但至少是个能试的起点。）",
+        "reasoning": "（咨询师又只发了问号，这种沉默让我有点烦躁。但刚才我明明已经主动问了最小的行动步骤，他却还是不给方向。也许我得把话说得更具体一点，不能等他来猜。）\n（想到明天办公室的场景，我其实有个很小的事可以做，就是跟那个说“没有人能和她交不来”的同事聊一句。虽然心里有点别扭，但至少是个能试的起点。）"
+      }
+    }
+  ],
+  "created": 1795153471,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2132,
+    "total_tokens": 2257,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

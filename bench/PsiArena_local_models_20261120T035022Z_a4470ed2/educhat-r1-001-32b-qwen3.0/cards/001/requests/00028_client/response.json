@@ -1,0 +1,41 @@
+{
+  "id": "b51455fc645443af9f5a3b607fab1780",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对着镜子……感觉有点傻。不过，我倒是想起来，小时候我其实挺爱笑的，后来不知道怎么就变成这样了。是不是跟我爸妈总在客人面前让我“别多话”有关系？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议对着镜子练习微笑，这让我想起小时候爸妈总说我不够大方。他们希望我在客人面前表现得开朗，可每次我躲回房间，他们又没说什么。这种矛盾让我更困惑了，到底该怎么做才对。）\n（或许我该问问咨询师，为什么爸妈的态度总是摇摆不定。这让我觉得不管做什么都不对，学习时想着社交，社交时又觉得愧疚。这种拉扯感让我特别累。）",
+        "reasoning": "（咨询师建议对着镜子练习微笑，这让我想起小时候爸妈总说我不够大方。他们希望我在客人面前表现得开朗，可每次我躲回房间，他们又没说什么。这种矛盾让我更困惑了，到底该怎么做才对。）\n（或许我该问问咨询师，为什么爸妈的态度总是摇摆不定。这让我觉得不管做什么都不对，学习时想着社交，社交时又觉得愧疚。这种拉扯感让我特别累。）"
+      }
+    }
+  ],
+  "created": 1795146779,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2125,
+    "total_tokens": 2262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

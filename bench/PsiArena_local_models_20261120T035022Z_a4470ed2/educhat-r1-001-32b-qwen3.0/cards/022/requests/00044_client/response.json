@@ -1,0 +1,41 @@
+{
+  "id": "1bacdb1068ec46ff8ed3742ee6cc233a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "种花……这个我懂，我妈以前也种花。那我先从跟朋友说开始，慢慢来。谢谢你今天听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到眼泪和勇敢面对，还用了种花的比喻，这让我觉得被理解了。但“被看见”这个词还是让我有点不安，因为平时我总习惯把自己藏起来。不过既然咨询师这么鼓励，也许我真的可以试着迈出第一步。）\n（想到要跟朋友分享自我肯定的事，还是有点紧张，怕对方觉得奇怪。但换个角度想，如果朋友也在学习对自己好一点，说不定能互相支持。咨询师一直强调小步尝试，那先从跟朋友说开始应该比较安全。）",
+        "reasoning": "（咨询师提到眼泪和勇敢面对，还用了种花的比喻，这让我觉得被理解了。但“被看见”这个词还是让我有点不安，因为平时我总习惯把自己藏起来。不过既然咨询师这么鼓励，也许我真的可以试着迈出第一步。）\n（想到要跟朋友分享自我肯定的事，还是有点紧张，怕对方觉得奇怪。但换个角度想，如果朋友也在学习对自己好一点，说不定能互相支持。咨询师一直强调小步尝试，那先从跟朋友说开始应该比较安全。）"
+      }
+    }
+  ],
+  "created": 1795148486,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 2830,
+    "total_tokens": 2972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

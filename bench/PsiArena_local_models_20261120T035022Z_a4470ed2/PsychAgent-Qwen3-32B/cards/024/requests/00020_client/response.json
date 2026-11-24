@@ -1,0 +1,41 @@
+{
+  "id": "51b14cca4fb247c98773265cca0683fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像会一下子绷紧，胸口发闷，手也有点发麻。以前没太注意，现在被您一问，才发现每次跟她碰面都这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应，这让我有点意外，但也让我更具体地回想当时的感觉。我意识到自己好像一直在回避身体上的感受，现在被问起来，那种紧绷和发麻的感觉又回来了。也许说出来会好一点，但我还是习惯性地想先确认一下，这样的反应是不是不正常。）",
+        "reasoning": "（咨询师在问我身体反应，这让我有点意外，但也让我更具体地回想当时的感觉。我意识到自己好像一直在回避身体上的感受，现在被问起来，那种紧绷和发麻的感觉又回来了。也许说出来会好一点，但我还是习惯性地想先确认一下，这样的反应是不是不正常。）"
+      }
+    }
+  ],
+  "created": 1795147348,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1734,
+    "total_tokens": 1837,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

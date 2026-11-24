@@ -1,0 +1,41 @@
+{
+  "id": "125ab6644ab146da9eaa7df4aabe1007",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不太清楚……就是最近睡不好，脑子里老是转一些事情。嗯，其实我也不知道这算不算什么大问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师看起来挺专业的，说话也温和，但我还是有点不确定该不该完全信任他。他让我想到什么说什么，可我真的不知道从哪开始……也许先随便说点表面的东西比较安全。）\n（最近确实睡不好，脑子里乱糟糟的，但具体为什么难受我也说不清楚。可能先提一下睡眠问题比较合适，这样既不会暴露太多，又能试探一下咨询师会怎么回应。）",
+        "reasoning": "（咨询师看起来挺专业的，说话也温和，但我还是有点不确定该不该完全信任他。他让我想到什么说什么，可我真的不知道从哪开始……也许先随便说点表面的东西比较安全。）\n（最近确实睡不好，脑子里乱糟糟的，但具体为什么难受我也说不清楚。可能先提一下睡眠问题比较合适，这样既不会暴露太多，又能试探一下咨询师会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795143243,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 976,
+    "total_tokens": 1093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

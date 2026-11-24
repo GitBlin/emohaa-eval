@@ -1,0 +1,41 @@
+{
+  "id": "6b586f588c5b4e9ab7b06f0420b336d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "改支付方式……听起来可行，但我怕我妈看到账单又说。找朋友提醒我也有点不好意思开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户可能觉得改支付方式容易操作，但怕被家人发现。需要平衡可行性和隐私。",
+        "reasoning": "用户可能觉得改支付方式容易操作，但怕被家人发现。需要平衡可行性和隐私。"
+      }
+    }
+  ],
+  "created": 1795147675,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 3197,
+    "total_tokens": 3243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

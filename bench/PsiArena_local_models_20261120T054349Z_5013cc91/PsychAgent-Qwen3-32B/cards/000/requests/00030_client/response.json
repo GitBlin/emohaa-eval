@@ -1,0 +1,41 @@
+{
+  "id": "7047667d46824ffca118f64c86f5822e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望……至少跟同事说话时，不要每次都先躲开吧。哪怕只是多待一会儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户希望在哪方面先有一点改变，可能想先具体化。保持简短。",
+        "reasoning": "用户希望在哪方面先有一点改变，可能想先具体化。保持简短。"
+      }
+    }
+  ],
+  "created": 1795153466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 2313,
+    "total_tokens": 2353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 18,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

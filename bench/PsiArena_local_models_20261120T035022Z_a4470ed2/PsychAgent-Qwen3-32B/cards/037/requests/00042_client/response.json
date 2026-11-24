@@ -1,0 +1,41 @@
+{
+  "id": "02a16e22a975468a8d620b3ceb05bbca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以先用关键词，不用写长。关于她不回应，你可以先约定一个时间点，比如三天后再看整体情况，而不是每条消息都立刻解读。这样会不会更稳一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者听到咨询师把记录拆成关键词，稍微放松了一点，但心里还是有点没底，怕自己做不到。他想着先答应下来，又忍不住确认自己最担心的那件事。）嗯，关键词这种我能做到。还有……如果她一直不回应，我该怎么判断是给她空间，还是该停下来？",
+        "reasoning": "（来访者听到咨询师把记录拆成关键词，稍微放松了一点，但心里还是有点没底，怕自己做不到。他想着先答应下来，又忍不住确认自己最担心的那件事。）嗯，关键词这种我能做到。还有……如果她一直不回应，我该怎么判断是给她空间，还是该停下来？"
+      }
+    }
+  ],
+  "created": 1795148079,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3047,
+    "total_tokens": 3156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

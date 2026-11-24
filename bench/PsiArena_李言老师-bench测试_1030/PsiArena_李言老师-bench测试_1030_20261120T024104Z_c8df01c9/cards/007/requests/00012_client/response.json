@@ -1,0 +1,41 @@
+{
+  "id": "9d1704a6401d422f8faa27341dda45fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提过一次……就说了句能不能小点声，他们当时说“下次注意”，可第二天还是老样子。后来我就不太想说了，感觉说了也没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像注意到我一直在忍，还问我有没有提过。其实我提过一次，但结果让我更不想说了。室友们当时说“下次注意”，可根本没变，那种被敷衍的感觉比不说还难受。）\n（我有点犹豫要不要把这件事说出来，毕竟显得我好像很计较。但既然她问了，而且之前也聊到家里的事，也许说出来能让她明白为什么我现在连开口都怕。我不想让她觉得我只会抱怨。）",
+        "reasoning": "（她好像注意到我一直在忍，还问我有没有提过。其实我提过一次，但结果让我更不想说了。室友们当时说“下次注意”，可根本没变，那种被敷衍的感觉比不说还难受。）\n（我有点犹豫要不要把这件事说出来，毕竟显得我好像很计较。但既然她问了，而且之前也聊到家里的事，也许说出来能让她明白为什么我现在连开口都怕。我不想让她觉得我只会抱怨。）"
+      }
+    }
+  ],
+  "created": 1795142572,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1982,
+    "total_tokens": 2114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "572ef97ae0864175b711a5444647f1c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是手心出汗，肚子也有点疼……嗯，那个，我问一下啊，你会不会把这些话告诉我爸妈？我不想让他们知道。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我发慌时身体有什么反应，看来是想让我具体说说那种感觉。其实我有点不想细说，但既然问了……手抖和肚子疼是真的，每次到校门口就开始了。）\n（不过，我忽然想到一件事。咨询师会不会把这些话告诉别人啊？比如我爸妈？虽然他说了保密，但万一呢……我有点担心这个。不如先问问清楚，这样我才敢继续说。）",
+        "reasoning": "（咨询师问我发慌时身体有什么反应，看来是想让我具体说说那种感觉。其实我有点不想细说，但既然问了……手抖和肚子疼是真的，每次到校门口就开始了。）\n（不过，我忽然想到一件事。咨询师会不会把这些话告诉别人啊？比如我爸妈？虽然他说了保密，但万一呢……我有点担心这个。不如先问问清楚，这样我才敢继续说。）"
+      }
+    }
+  ],
+  "created": 1795142499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1177,
+    "total_tokens": 1296,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

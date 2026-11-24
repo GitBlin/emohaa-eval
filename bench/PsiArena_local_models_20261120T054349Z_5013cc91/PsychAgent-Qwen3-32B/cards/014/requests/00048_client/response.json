@@ -1,0 +1,41 @@
+{
+  "id": "44bf8c77e9094be290cd7333b7434ded",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来更贴合你现在能做到的步子。我们下次就从“倒水后那几分钟的感受”开始聊。今天先到这里，你愿意吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想，语气比之前稳一些）可以，我先试试倒水那一步，不急着追着他说。要是做到了，下次再练那句开口的话。",
+        "reasoning": "（想了想，语气比之前稳一些）可以，我先试试倒水那一步，不急着追着他说。要是做到了，下次再练那句开口的话。"
+      }
+    }
+  ],
+  "created": 1795153985,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3555,
+    "total_tokens": 3621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

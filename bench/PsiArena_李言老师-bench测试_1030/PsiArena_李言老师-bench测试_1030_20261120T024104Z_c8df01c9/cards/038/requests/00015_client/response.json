@@ -1,0 +1,41 @@
+{
+  "id": "861bab1e64884d4ca269580caf805739",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他别每次都绕开，哪怕只是说一句“我现在还不敢，但不是因为你不好”。这样我可能就不会老往自己身上想了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问希望他怎样回应，这让我想到那些短暂轻松的瞬间。我其实要的不多，但说出来又怕显得太脆弱或者要求太高。也许可以试着表达一点，但别太直接，先看看咨询师怎么接。）\n（我有点犹豫，因为这种期待说出来就像承认自己很需要他，有点难为情。不过咨询师一直挺稳的，也许可以说得模糊一点，给自己留点余地。）",
+        "reasoning": "（对方问希望他怎样回应，这让我想到那些短暂轻松的瞬间。我其实要的不多，但说出来又怕显得太脆弱或者要求太高。也许可以试着表达一点，但别太直接，先看看咨询师怎么接。）\n（我有点犹豫，因为这种期待说出来就像承认自己很需要他，有点难为情。不过咨询师一直挺稳的，也许可以说得模糊一点，给自己留点余地。）"
+      }
+    }
+  ],
+  "created": 1795143488,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2413,
+    "total_tokens": 2536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

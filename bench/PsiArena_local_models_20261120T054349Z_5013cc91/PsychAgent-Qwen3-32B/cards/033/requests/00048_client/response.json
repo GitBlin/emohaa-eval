@@ -1,0 +1,41 @@
+{
+  "id": "db85b9193e1e4969bb345991d866fc07",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我先记着“三次呼吸”和那句话。谢谢今天听我说这些，虽然我还是有点乱，但好像没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（ta说随时欢迎来，会在我的节奏里把困难拆小。听起来不是敷衍，是给我留了余地。我心里其实有点松动，但还是怕自己回去又失控，怕下次来的时候更糟。现在好像可以先收住，不用把话说满。）",
+        "reasoning": "（ta说随时欢迎来，会在我的节奏里把困难拆小。听起来不是敷衍，是给我留了余地。我心里其实有点松动，但还是怕自己回去又失控，怕下次来的时候更糟。现在好像可以先收住，不用把话说满。）"
+      }
+    }
+  ],
+  "created": 1795154737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3582,
+    "total_tokens": 3669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "51fed4289bc243adbcd687d1a7bbaef4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "微笑……听起来简单，可我总觉得别人会看出我不自然。而且，说真的，我有时候又觉得花时间想这些是不是有点浪费，毕竟学习才是正事……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我模拟微笑和问候，听起来简单，但对我来说真的很难。我脑子里立刻想到那些同学有说有笑的样子，他们那么自然，我却连开口都紧张。）\n（而且我总觉得时间不该花在这上面，学习才是正事。这种矛盾让我更不知道该怎么回应，只能含糊地说出来。）",
+        "reasoning": "（咨询师让我模拟微笑和问候，听起来简单，但对我来说真的很难。我脑子里立刻想到那些同学有说有笑的样子，他们那么自然，我却连开口都紧张。）\n（而且我总觉得时间不该花在这上面，学习才是正事。这种矛盾让我更不知道该怎么回应，只能含糊地说出来。）"
+      }
+    }
+  ],
+  "created": 1795146724,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1350,
+    "total_tokens": 1454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

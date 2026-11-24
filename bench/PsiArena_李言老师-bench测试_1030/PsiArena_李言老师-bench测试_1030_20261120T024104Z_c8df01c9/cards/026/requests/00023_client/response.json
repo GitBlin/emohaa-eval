@@ -1,0 +1,41 @@
+{
+  "id": "d80905a788be482d9fa078fb4a3c20ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想贴在书桌角上，就写“先问怎么想，别急着讲答案”。这样我一坐下就能看到，应该不容易忘。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在帮我把计划落到具体细节上，这让我觉得踏实一点。她问纸条放哪里能一眼看到，我脑子里马上想到书桌，那是我每天辅导作业的地方。）\n（可我又有点担心，光贴一张纸条真能拦住我的急脾气吗。不过先试试看吧，总比什么都不做强。）",
+        "reasoning": "（心理咨询师在帮我把计划落到具体细节上，这让我觉得踏实一点。她问纸条放哪里能一眼看到，我脑子里马上想到书桌，那是我每天辅导作业的地方。）\n（可我又有点担心，光贴一张纸条真能拦住我的急脾气吗。不过先试试看吧，总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1795143134,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3240,
+    "total_tokens": 3342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

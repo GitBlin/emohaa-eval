@@ -1,0 +1,41 @@
+{
+  "id": "1140a2609b264aa19dcd29536ae989b1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）那就说今天早上吧。醒来的时候觉得胸口闷闷的，不想起床，好像有什么东西压着。（小声补充）但说不上来是什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我试着描述一个最近的情绪，而不是评判它。这让我有点紧张，因为平时我很少这样细致地观察自己的感受。不过既然是在咨询中，也许可以试着配合一下。）\n（我想到今天早上那种空落落的感觉，它确实很具体，不是笼统的“难受”。描述它的时候，我发现自己其实能分辨出身体和情绪的变化，这让我稍微有点意外。或许这种记录方式真的能帮我更清楚地看到自己的状态。）",
+        "reasoning": "（咨询师建议我试着描述一个最近的情绪，而不是评判它。这让我有点紧张，因为平时我很少这样细致地观察自己的感受。不过既然是在咨询中，也许可以试着配合一下。）\n（我想到今天早上那种空落落的感觉，它确实很具体，不是笼统的“难受”。描述它的时候，我发现自己其实能分辨出身体和情绪的变化，这让我稍微有点意外。或许这种记录方式真的能帮我更清楚地看到自己的状态。）"
+      }
+    }
+  ],
+  "created": 1795150187,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2852,
+    "total_tokens": 2990,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

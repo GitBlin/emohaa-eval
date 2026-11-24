@@ -1,0 +1,41 @@
+{
+  "id": "5aa933c5915e4a30bc3a93808f292c82",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "练习？什么练习啊……我有点怕那种让我闭眼想东西的，会不会更乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然说要做什么练习……我其实有点慌，不太想马上答应。但前面聊了这些，感觉他好像没有要评判我的意思，也许可以稍微试试看。不过我还是得先问清楚，别又是什么让我更紧张的东西。）",
+        "reasoning": "（咨询师突然说要做什么练习……我其实有点慌，不太想马上答应。但前面聊了这些，感觉他好像没有要评判我的意思，也许可以稍微试试看。不过我还是得先问清楚，别又是什么让我更紧张的东西。）"
+      }
+    }
+  ],
+  "created": 1795148538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 1601,
+    "total_tokens": 1678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5be748e795e9423995793dd19a77d7fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……怎么说呢，有时候会突然很烦躁，有时候又觉得挺没劲的。我也说不好，可能都有点吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体的感觉……但我真的不太想这么快就深入下去。他看起来挺温和的，可我还是有点防备，不知道他会不会像我妈妈那样，表面关心实际上在评判我。）\n（也许可以稍微模糊地描述一下，但不要说得太清楚。毕竟第一次见面，我还不知道他值不值得信任。而且我也确实说不清那种感觉，就是很乱，很累。）",
+        "reasoning": "（心理咨询师在问我具体的感觉……但我真的不太想这么快就深入下去。他看起来挺温和的，可我还是有点防备，不知道他会不会像我妈妈那样，表面关心实际上在评判我。）\n（也许可以稍微模糊地描述一下，但不要说得太清楚。毕竟第一次见面，我还不知道他值不值得信任。而且我也确实说不清那种感觉，就是很乱，很累。）"
+      }
+    }
+  ],
+  "created": 1795148311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1100,
+    "total_tokens": 1213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

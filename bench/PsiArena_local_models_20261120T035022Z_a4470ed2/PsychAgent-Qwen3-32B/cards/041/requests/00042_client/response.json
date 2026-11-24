@@ -1,0 +1,41 @@
+{
+  "id": "33f571b47374432ba1d888528aa05ff5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可以在心里过一遍。就是先停一下，再慢慢说，不急着加“对不起”。这样想好像能稳一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师一直在引导我练习表达，但我心里还是有点发虚，怕自己一开口就变成道歉。不过她说的“不急着评价自己”让我稍微安心了一点，也许我可以试试，不用一次就做到完美。）",
+        "reasoning": "（这个咨询师一直在引导我练习表达，但我心里还是有点发虚，怕自己一开口就变成道歉。不过她说的“不急着评价自己”让我稍微安心了一点，也许我可以试试，不用一次就做到完美。）"
+      }
+    }
+  ],
+  "created": 1795148485,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3010,
+    "total_tokens": 3089,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

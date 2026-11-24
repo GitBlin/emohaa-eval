@@ -1,0 +1,41 @@
+{
+  "id": "08543e372297434a80dc396037b1ec94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是晚上吧……白天还能撑一撑，到了晚上就有点不太好。嗯，有时候我也不太想一个人待着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的时间点，这让我有点紧张。我其实不太想马上说得太细，但好像又该回答点什么……毕竟刚才说了工作走神的事。）\n（也许可以提一下晚上，因为晚上确实更容易乱想。不过我不想让他觉得我问题很严重，所以得说得模糊一点，就说“不太好”吧。）",
+        "reasoning": "（咨询师在问我具体的时间点，这让我有点紧张。我其实不太想马上说得太细，但好像又该回答点什么……毕竟刚才说了工作走神的事。）\n（也许可以提一下晚上，因为晚上确实更容易乱想。不过我不想让他觉得我问题很严重，所以得说得模糊一点，就说“不太好”吧。）"
+      }
+    }
+  ],
+  "created": 1795155225,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1186,
+    "total_tokens": 1287,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

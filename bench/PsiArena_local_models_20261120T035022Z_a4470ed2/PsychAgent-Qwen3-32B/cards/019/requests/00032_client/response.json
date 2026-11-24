@@ -1,0 +1,41 @@
+{
+  "id": "d075030d6f86490489dd5605c81db95d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。你先告诉我要做什么，我怕一上来又让我面对很吓人的场面。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段了，情绪要比之前稳一点。咨询师提议做个小练习，我其实愿意试试，但还是有点犹豫，怕自己做不到。先问清楚要做什么，别一下子答应得太满。）",
+        "reasoning": "（后期阶段了，情绪要比之前稳一点。咨询师提议做个小练习，我其实愿意试试，但还是有点犹豫，怕自己做不到。先问清楚要做什么，别一下子答应得太满。）"
+      }
+    }
+  ],
+  "created": 1795147177,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 2450,
+    "total_tokens": 2513,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d7e4da352a354127a2c98fbabe5f8a1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她大概会说“行啊，现在忙得连妈都顾不上了”之类的。我想好这个以后，好像没那么怕了，至少能接得住，实在不行我就转移话题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我担心妈妈会怎么接话……其实我已经能想象到那个画面了。妈妈大概会停顿一下，然后声音里带着那种熟悉的讽刺，问我是不是在躲她。虽然知道可能会这样，但说出来反而没那么怕了。）\n（而且我确实在准备后手了，不想每次都被她的话牵着走。转移话题这个办法，听起来比直接顶撞要安全一点，至少能让我自己喘口气。）",
+        "reasoning": "（她问我担心妈妈会怎么接话……其实我已经能想象到那个画面了。妈妈大概会停顿一下，然后声音里带着那种熟悉的讽刺，问我是不是在躲她。虽然知道可能会这样，但说出来反而没那么怕了。）\n（而且我确实在准备后手了，不想每次都被她的话牵着走。转移话题这个办法，听起来比直接顶撞要安全一点，至少能让我自己喘口气。）"
+      }
+    }
+  ],
+  "created": 1795143147,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3165,
+    "total_tokens": 3297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

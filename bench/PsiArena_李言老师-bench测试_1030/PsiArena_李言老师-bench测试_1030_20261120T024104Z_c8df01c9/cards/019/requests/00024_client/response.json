@@ -1,0 +1,41 @@
+{
+  "id": "4c24dafeb65a47b4893945ae388565f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我脑子里一下就空了，先冒出来的是“完了，又来了”。然后就想赶紧找个理由把话岔开，根本顾不上好好说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答，保持角色，第24轮后期，目标探索解决方案明确行动计划，但问题问最近一次追问最先冒出来什么。简短2-3句，口语化，犹豫。不要总结太早。可以说脑子里一片空白，先想“完了又来了”，然后想怎么结束对话。不要谢谢再见。",
+        "reasoning": "我们需要回答，保持角色，第24轮后期，目标探索解决方案明确行动计划，但问题问最近一次追问最先冒出来什么。简短2-3句，口语化，犹豫。不要总结太早。可以说脑子里一片空白，先想“完了又来了”，然后想怎么结束对话。不要谢谢再见。"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3255,
+    "total_tokens": 3353,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

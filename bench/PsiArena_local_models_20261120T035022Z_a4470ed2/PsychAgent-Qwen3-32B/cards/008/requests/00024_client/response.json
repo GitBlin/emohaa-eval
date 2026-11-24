@@ -1,0 +1,41 @@
+{
+  "id": "412f1e0f6beb4e0dbd2c660013e702bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟朋友在一起的时候，我话挺多的，也会开玩笑，想说什么就说什么。那时候不用先想“这话该不该说”。可一到工作场合，我就像变了个人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我描述安全时自然的样子……这让我想起和大学室友深夜聊天的时候，那时候想说什么就说什么，不用先想“这话该不该说”。可一回到工作场合，那种自在就完全消失了。也许这就是我一直觉得分裂的地方。）",
+        "reasoning": "（咨询师在引导我描述安全时自然的样子……这让我想起和大学室友深夜聊天的时候，那时候想说什么就说什么，不用先想“这话该不该说”。可一回到工作场合，那种自在就完全消失了。也许这就是我一直觉得分裂的地方。）"
+      }
+    }
+  ],
+  "created": 1795146875,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2171,
+    "total_tokens": 2267,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

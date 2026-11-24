@@ -1,0 +1,41 @@
+{
+  "id": "0ceee6d8061d493e89e952d1423f0b24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（语气有点冲）您怎么又来了……我知道您是想帮我，可这样一遍遍问同一句，我真的觉得没被听进去。要不我们先说说，接下来我到底该怎么试着做吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了同样的问题，这让我心里有点堵。好像我说什么他都没真正听进去，只是一直按自己的节奏在推我。我本来都快愿意试着说一点真实感受了，现在反而更想缩回去。）\n（可能我确实太敏感了，但他这样反复问同一句话，真的让我觉得不被理解。我不想再绕在这个圈里了，也许该直接说出来，让他知道这种重复让我不舒服，也顺便看看他到底有没有在听我说话。）",
+        "reasoning": "（咨询师又重复了同样的问题，这让我心里有点堵。好像我说什么他都没真正听进去，只是一直按自己的节奏在推我。我本来都快愿意试着说一点真实感受了，现在反而更想缩回去。）\n（可能我确实太敏感了，但他这样反复问同一句话，真的让我觉得不被理解。我不想再绕在这个圈里了，也许该直接说出来，让他知道这种重复让我不舒服，也顺便看看他到底有没有在听我说话。）"
+      }
+    }
+  ],
+  "created": 1795154303,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 3011,
+    "total_tokens": 3158,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

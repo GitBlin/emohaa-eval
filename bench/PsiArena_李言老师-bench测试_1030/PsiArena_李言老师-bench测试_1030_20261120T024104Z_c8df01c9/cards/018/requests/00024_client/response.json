@@ -1,0 +1,41 @@
+{
+  "id": "b6345a2225b54012a9f9aba74ea4b54f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试：“我现在还不能说行不行，但我愿意认真谈，也想让你先听我说完我的担心。”这样说，至少不会一开始就把门关死。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我梳理对话节奏，这个建议听起来很实际。我确实需要一句能稳住自己、又不会把气氛搞僵的开场。）\n（我想到周四晚上可以先用这句话开头，既表达愿意考虑，也守住自己的边界。说完这句，我想先看看她的反应，再慢慢说下去。）",
+        "reasoning": "（咨询师在帮我梳理对话节奏，这个建议听起来很实际。我确实需要一句能稳住自己、又不会把气氛搞僵的开场。）\n（我想到周四晚上可以先用这句话开头，既表达愿意考虑，也守住自己的边界。说完这句，我想先看看她的反应，再慢慢说下去。）"
+      }
+    }
+  ],
+  "created": 1795142995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3261,
+    "total_tokens": 3362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

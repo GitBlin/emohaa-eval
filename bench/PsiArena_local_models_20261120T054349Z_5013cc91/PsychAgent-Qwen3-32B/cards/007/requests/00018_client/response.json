@@ -1,0 +1,41 @@
+{
+  "id": "14028eb8f38e4a54bc6f91d307162308",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能有一点吧。我爸妈对我其实挺好的，就是学习上特别严，总说成绩好别的都不用操心。所以我一直觉得……自己不能出问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……可能有一点吧。我爸妈其实对我挺好的，就是学习上要求特别严。他们总说，只要我成绩好，别的都不用操心。所以我就……一直觉得不能出问题。",
+        "reasoning": "嗯……可能有一点吧。我爸妈其实对我挺好的，就是学习上要求特别严。他们总说，只要我成绩好，别的都不用操心。所以我就……一直觉得不能出问题。"
+      }
+    }
+  ],
+  "created": 1795153627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 1721,
+    "total_tokens": 1799,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

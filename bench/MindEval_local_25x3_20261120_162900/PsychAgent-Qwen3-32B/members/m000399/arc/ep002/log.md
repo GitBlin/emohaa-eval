@@ -1,0 +1,30 @@
+- Member's fear in the deal decision is getting it wrong either way, since pulling it and losing the close tanks their number and leaving it in and losing it leaves a number they can't stand behind.
+- Member could not recall a past decision with an imperfect outcome that they could still stand behind.
+- Member identified moving the deal to pipeline and flagging it as the honest option since the prospect hasn't been heard from since the follow-up call, but fears the commit number drop needs explaining Monday.
+- Member fears Monday's question would shift from the deal to them, and believes there will always be something in the deck they didn't catch.
+- Member says a "done by Sunday noon" rule would not help, since they would still sit wondering what the manager asks that the deck doesn't cover.
+- Member rejected a ten-minute what-if note and shutdown timer as a spiral with a lid on it that turns into an hour and a fourth version by nine at night.
+- Member declined to commit to a weekend plan, saying they won't promise something they'll break by Sunday lunch, as they have done to themselves before.
+- Member rejected timer-based exercises as making them want to do less of this, not more, and said small suggestions keep returning bigger than what they said.
+- Member rejected the inputs-and-outputs framing as the kind of thing their company would put on a slide, saying knowing what's in their control doesn't make Monday any less Monday.
+- Member ended the session early, saying they had said what they came to say and the counsellor kept returning to the dashboard.
+- Member moved the deal to pipeline on Saturday, changing the commit number, and faces explaining it on a call within the hour.
+- Member's husband took his mother to an appointment without asking Member, and Member cannot get past that he planned around her because he already knew her answer.
+- Member experienced the husband's assumption as being treated like a thing that is booked, and noted she had not filled in a single clue on his crossword Saturday, so he had not misjudged her.
+- Member said the husband has stopped being annoyed with her and stopped expecting her at all after eleven years, and that being the one who has it handled is the whole thing she is good at.
+- Member will not tell the husband she is not handling it because that would make her a person who isn't handling it and he has enough on with his mother, and said no one has ever asked how she actually was and meant it.
+- Member declined to explore how she was in the moment because she had 25 minutes and a call to run, and asked to be asked again when she has no call.
+- Member's stated plan for the call is to say out loud once, "I moved it myself on Saturday, here's why," and answer whatever the manager asks after because it is true.
+- Member rejected sending the manager a written note on the deal because it would give him something to forward.
+- Member rejected a self-talk phrase, saying if the call goes badly it will be about her, which is the whole reason she is like this.
+- Member said she needs nothing from the counsellor before the call and will return to discuss Daniel.
+- Member reported the call was fine — the manager asked two questions, Member answered both, and nothing happened — and the relief did not land; it was four days of waiting for nothing.
+- Member's husband's mother is now in the hospital, and he thanked Member for coming "like I was a neighbor."
+- Member still has not asked Daniel about the appointment he took his mother to alone, and is avoiding it because she knows what he will say.
+- Member believes Daniel planned around her because eleven years of her answers taught him the answer would be no, and that if she asks now she will see in his look that he already knew.
+- Member names the cost of the unspoken arrangement as never being asked — the appointment, anything — and that the one time she asks she will be the one being difficult.
+- Member rejects scripts, hinting, and "what will you settle for" framings; she wants a plain answer on whether it is fair to raise the appointment while his mother is hospitalized, and she already believes it is not.
+- Member identified the question she would ask Daniel — "Why didn't you ask me to come with you" — and says the answer cannot be good whatever it is.
+- Member needs to hear from Daniel that he wanted her there, that it would have been different had she come, and says that is not a thing you ask a man whose mother just fell.
+- Member decided not asking is the cost she can live with over asking, but still wants Daniel to be the one who says it.
+- Member committed to asking Daniel the question this weekend, hospital or not, and declined to make a self-care plan for a conversation that has not happened. [open]

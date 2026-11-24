@@ -1,0 +1,41 @@
+{
+  "id": "7c0572557d82406c8239ea0dbff48ea7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……比如上周我们一起吃饭，聊着聊着就没话了，只能低头看手机。那个感觉挺难受的。（停顿了一下）对了，我可以加你微信吗？平时有问题也想找你聊聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我具体讲一个片段，但我其实还不太想一下子说太细。先试探着说一点吧，看看对方会怎么反应。）\n（而且我也有点好奇，如果我说些和咨询无关的、比如加个联系方式，他会怎么处理。这样也能看看他是不是那种很死板的人。）",
+        "reasoning": "（咨询师让我具体讲一个片段，但我其实还不太想一下子说太细。先试探着说一点吧，看看对方会怎么反应。）\n（而且我也有点好奇，如果我说些和咨询无关的、比如加个联系方式，他会怎么处理。这样也能看看他是不是那种很死板的人。）"
+      }
+    }
+  ],
+  "created": 1795154519,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1151,
+    "total_tokens": 1262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

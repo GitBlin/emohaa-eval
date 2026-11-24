@@ -1,0 +1,41 @@
+{
+  "id": "d05d3f0381c54666b6821ce373324469",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还有……我跟家里因为钱吵过几次，我妈老翻我快递，说我乱花，我特别烦她这样，但吵完又觉得她说得对。这种感觉最难受了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我梳理线索，问还有没有没说到的关键因素……我确实想到一些，比如跟家里因为钱吵架的事，还有我自己的工资到底花到哪儿去了都说不清。这些可能也挺重要的吧，之前一直没好意思提。）",
+        "reasoning": "（咨询师在帮我梳理线索，问还有没有没说到的关键因素……我确实想到一些，比如跟家里因为钱吵架的事，还有我自己的工资到底花到哪儿去了都说不清。这些可能也挺重要的吧，之前一直没好意思提。）"
+      }
+    }
+  ],
+  "created": 1795154538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2736,
+    "total_tokens": 2832,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

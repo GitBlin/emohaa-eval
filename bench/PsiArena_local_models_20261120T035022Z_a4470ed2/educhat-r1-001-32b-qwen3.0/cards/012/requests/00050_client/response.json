@@ -1,0 +1,41 @@
+{
+  "id": "5d78943db4b64204a794a3f6dccb257a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）我想……先试试写日记，把心里那些乱糟糟的都写出来。吵架的时候，我会尽量带孩子去别的房间。就是这些吧，先做做看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复问了一遍打算怎么做，可能是在确认我是不是真的想清楚了。刚才说的小事让我觉得有点底气，但心里还是没底，怕自己做不到。）\n（想到写日记和避着孩子这两件事，它们是我现在唯一能想到的、不太难的办法。可我又担心坚持不下来，或者写多了反而更乱。这种矛盾让我有点烦躁，但又不想显得太没出息。）",
+        "reasoning": "（咨询师又重复问了一遍打算怎么做，可能是在确认我是不是真的想清楚了。刚才说的小事让我觉得有点底气，但心里还是没底，怕自己做不到。）\n（想到写日记和避着孩子这两件事，它们是我现在唯一能想到的、不太难的办法。可我又担心坚持不下来，或者写多了反而更乱。这种矛盾让我有点烦躁，但又不想显得太没出息。）"
+      }
+    }
+  ],
+  "created": 1795147566,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2881,
+    "total_tokens": 3010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

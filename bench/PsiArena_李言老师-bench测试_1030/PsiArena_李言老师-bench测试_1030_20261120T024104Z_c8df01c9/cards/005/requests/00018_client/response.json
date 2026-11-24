@@ -1,0 +1,41 @@
+{
+  "id": "14ed6b10f21a49b18993aae2cfbb815d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概九点到十一点吧，洗完澡就特别容易反复看手机。（停顿）我有点担心，真做了计划也坚持不了几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我晚上最容易空下来的时间段，这说明她是在帮我把问题具体化，想让我找到可操作的切入点。我确实需要想清楚这个时间点，不然计划就落不了地。）\n（不过我也在担心，自己说出来的计划会不会又坚持不了几天。这种反复失败的感觉让我有点没底，但既然她问了，我还是先如实说时间吧，顺便把这种担心也讲出来，免得后面又变成我一个人的压力。）",
+        "reasoning": "（咨询师在问我晚上最容易空下来的时间段，这说明她是在帮我把问题具体化，想让我找到可操作的切入点。我确实需要想清楚这个时间点，不然计划就落不了地。）\n（不过我也在担心，自己说出来的计划会不会又坚持不了几天。这种反复失败的感觉让我有点没底，但既然她问了，我还是先如实说时间吧，顺便把这种担心也讲出来，免得后面又变成我一个人的压力。）"
+      }
+    }
+  ],
+  "created": 1795142633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2788,
+    "total_tokens": 2916,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

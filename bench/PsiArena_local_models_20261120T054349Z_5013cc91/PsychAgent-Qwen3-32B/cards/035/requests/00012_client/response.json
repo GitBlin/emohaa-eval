@@ -1,0 +1,41 @@
+{
+  "id": "0c3ad0921ecd49e5ab212538ab24e7c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……有时候会强迫自己别想，但越压越难受。有时候又忍不住一直看手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我会怎么对待那个念头……其实我自己也说不清。有时候我会拼命告诉自己别乱想，可越压越难受；有时候又忍不住一直盯着手机，顺着那个念头往下想，越想越慌。这好像不是简单能回答的事。）",
+        "reasoning": "（她问我会怎么对待那个念头……其实我自己也说不清。有时候我会拼命告诉自己别乱想，可越压越难受；有时候又忍不住一直盯着手机，顺着那个念头往下想，越想越慌。这好像不是简单能回答的事。）"
+      }
+    }
+  ],
+  "created": 1795154709,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 1361,
+    "total_tokens": 1439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

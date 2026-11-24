@@ -1,0 +1,28 @@
+- Member's father died in March, and she reports things have been harder than expected.
+- Member works as a nurse and has been in the building twenty years; she is the one who "gets up" when others don't.
+- Member was at the nurses station charting Thursday when a rehab patient with a hip issue, whose family never visits, called out; a coworker checked on him and reported he just wanted company, framing him as a problem, and Member stayed at her chart and kept typing.
+- Member's thought while staying at the chart was that the man could be her dad lying there with nobody coming, and she still didn't get up, which has sat with her since Thursday.
+- Member makes sinigang routinely; Thursday she put it on at eleven, stood over the pot, felt nothing, turned the stove off, and went to bed without eating.
+- Member made the same sinigang for nine nights straight after the funeral, cooking for fifty people a night, and never once sat down with a bowl herself.
+- Member withdrew from summer prerequisite classes for the LPN program and never told anyone why.
+- Member says she couldn't sit in a night classroom while shifts were already taking all of her, and was barely getting through shifts.
+- Member rejects "burnout" as a description — she says burnout is needing a vacation, whereas her dad died — and cries in the car before every shift.
+- Member's husband drives her on the bad mornings and she rides with the visor down; she wipes her face and no one at work can tell.
+- Member feels little at work — charts, turns people, goes home — and Thursday was the first time in a while something got under that numbness.
+- Member notes the rehab patient had no visitors in three weeks and that she had been in his room a hundred times without thinking about who wasn't coming, while her own dad was in the kitchen making dinner.
+- Member is distressed that she let the coworker's "problem" framing slide and put her head back down on the chart after twenty years in the building.
+- Member wakes at five thirty and her sleep is unchanged; a charge nurse spoke with her about her charting last month, which she says is not new.
+- Member's week is fixed: Sunday dinner for twelve, fiesta booth, Tuesday dance practice — she says these don't stop for a bad month and that a full house is easier.
+- Member says the quiet is the hard part — Sunday nights after everyone leaves are the worst, when nothing stands between her and the loss; she and Dan do dishes and he goes to bed early for a four a.m. start, leaving her alone with the tupperware and pushed-in chairs.
+- Member says the sour smell of sinigang used to feel like her dad was in the other room and now is just sour; Thursday it did nothing and she turned it off.
+- Member cooks all the time, including Sunday for twelve, but the food tastes like nothing to her while everyone at the table says how good it is.
+- Member has not told her mom how bad the shifts have gotten, saying her mom lost her husband of forty nine years in March and doesn't need Member on top of that; she tells her mom she's fine, just tired.
+- Linh from dance, whose dad died two years ago, texts Member on hard days unprompted; Member would not bring it up herself and finds it easier to let Linh initiate than to start such conversations with anyone.
+- Member is the loudest laugher in the back row at Tuesday dance practice, so nobody thinks to ask how she is.
+- Member kept the LPN registration page open on her phone for three weeks, opening and closing it, until the fall deadline passed last month without a decision; she told Dan "maybe after things settle" and notes she has said that about school for ten years.
+- Member denies any thoughts of self-harm or wanting to disappear, and reports drinking about the same as always — a glass of wine at dinner.
+- Member's dad used to ask when she was going to do the LPN and she always had a reason; she cannot now look at the binder for the art therapy project she pitched to her director, which is under the Christmas boxes.
+- Member has a sketchbook that has been in her car for years, used for drawing on lunch breaks, unopened since March, and she doesn't know if it's still there.
+- Member says she cannot manage even small suggested actions like getting a pen out of the glovebox, and that she feels worse about Thursday than about the school question.
+- Member says the thought in her head Thursday was that it was her dad lying in that room, though she knows he was never in that room but on the kitchen floor, and she still put her head down at the desk.
+- [open] Member was offered a five-minute walk after the dishes on Sunday nights and had not committed to it, saying she just wants the kitchen put back right so the week can start.

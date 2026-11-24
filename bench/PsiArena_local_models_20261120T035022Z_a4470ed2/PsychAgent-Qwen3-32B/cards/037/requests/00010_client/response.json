@@ -1,0 +1,41 @@
+{
+  "id": "4d19836ec8cc4ea58713751f84c1ff55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我也说不清……可能都有吧。就是她突然不怎么理我，我会忍不住想是不是我做错了什么。嗯……这种咨询是不是要聊很久以前的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问这种不确定让我最难受的是什么……是担心她还是关系。我其实自己也说不清，可能都有吧。但我不想这么快就承认我害怕被丢下，那显得太脆弱了。先含糊一点，说不知道，再试探着问问咨询是不是要挖很久以前的事，这样也能看看她会不会逼我太紧。）",
+        "reasoning": "（她问这种不确定让我最难受的是什么……是担心她还是关系。我其实自己也说不清，可能都有吧。但我不想这么快就承认我害怕被丢下，那显得太脆弱了。先含糊一点，说不知道，再试探着问问咨询是不是要挖很久以前的事，这样也能看看她会不会逼我太紧。）"
+      }
+    }
+  ],
+  "created": 1795148009,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1281,
+    "total_tokens": 1388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

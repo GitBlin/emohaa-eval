@@ -1,0 +1,41 @@
+{
+  "id": "42d1cbc97ac84c72ae1ca15b9030f797",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在吗？（犹豫）我……我怕自己一紧张就发得乱七八糟的。要不我先想好一句话，您帮我看看行不行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我立刻行动，但我心里其实很没底。想到要发消息，那种熟悉的紧张感又冒出来了，手指都有点发凉。我担心自己发出去的话会显得太刻意，或者她根本不回，那我会更难受。）\n（不过我也明白，如果一直等下去，可能永远都开不了口。也许可以先想好一句简单的话，至少先有个准备。这样问咨询师，也是想给自己一点缓冲的时间。）",
+        "reasoning": "（咨询师在鼓励我立刻行动，但我心里其实很没底。想到要发消息，那种熟悉的紧张感又冒出来了，手指都有点发凉。我担心自己发出去的话会显得太刻意，或者她根本不回，那我会更难受。）\n（不过我也明白，如果一直等下去，可能永远都开不了口。也许可以先想好一句简单的话，至少先有个准备。这样问咨询师，也是想给自己一点缓冲的时间。）"
+      }
+    }
+  ],
+  "created": 1795154919,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2388,
+    "total_tokens": 2517,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

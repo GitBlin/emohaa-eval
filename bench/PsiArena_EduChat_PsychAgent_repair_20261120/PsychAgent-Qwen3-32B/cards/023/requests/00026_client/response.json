@@ -1,0 +1,41 @@
+{
+  "id": "4365531687c14fa59f462f6fe57be662",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它会让我躲开冲突，少说话，实在不行就找个借口走开。可事后又觉得自己挺没用的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问“忍着”会带我去哪些地方、让我做哪些选择……这个问题让我想到很多具体的事。说实话，我有点不想直接回答，因为一说出来就会想起那些让我难受的场景。但既然已经聊到这里了，我可能还是会稍微透露一点，比如它让我避开冲突、在关系里退缩，但不会说得太深，毕竟我还需要留一点余地。）",
+        "reasoning": "（咨询师问“忍着”会带我去哪些地方、让我做哪些选择……这个问题让我想到很多具体的事。说实话，我有点不想直接回答，因为一说出来就会想起那些让我难受的场景。但既然已经聊到这里了，我可能还是会稍微透露一点，比如它让我避开冲突、在关系里退缩，但不会说得太深，毕竟我还需要留一点余地。）"
+      }
+    }
+  ],
+  "created": 1795154233,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2402,
+    "total_tokens": 2510,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

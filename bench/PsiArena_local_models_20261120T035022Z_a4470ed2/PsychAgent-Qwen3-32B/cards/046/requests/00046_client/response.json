@@ -1,0 +1,41 @@
+{
+  "id": "5cbd650864da4d30b86fa690eac9a870",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录次数和紧张程度……行，这个我能做。就是怕自己记着记着又变成完成任务，给自己添压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我记录尝试次数和紧张强度，这比光凭感觉要实在些。不过每天记录会不会又变成一种负担……我有点怕自己坚持不下来，反而更挫败。）\n（但话说回来，总得有个东西能让我看到自己到底有没有在动。要不就先试试，别要求太完美。）",
+        "reasoning": "（咨询师让我记录尝试次数和紧张强度，这比光凭感觉要实在些。不过每天记录会不会又变成一种负担……我有点怕自己坚持不下来，反而更挫败。）\n（但话说回来，总得有个东西能让我看到自己到底有没有在动。要不就先试试，别要求太完美。）"
+      }
+    }
+  ],
+  "created": 1795148807,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3462,
+    "total_tokens": 3559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

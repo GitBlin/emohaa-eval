@@ -1,0 +1,41 @@
+{
+  "id": "e9b91520cd5141f49d5dead6756022a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微抬起头）星光日记……听起来好像可以试试。不过，我可能写着写着就会觉得，这些事也太小了吧，根本不值得记下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到月亮也有自己的光芒，还建议写星光日记。这让我有点意外，因为之前总觉得自己的价值要靠别人来肯定。但仔细想想，按时吃早餐这种事确实是我自己做到的，虽然很小。）\n（不过还是有点怀疑，写这些真的有用吗？我习惯了依赖朋友的认可，突然要自己肯定自己，感觉怪别扭的。但既然咨询师这么说，也许可以试试看。）",
+        "reasoning": "（咨询师提到月亮也有自己的光芒，还建议写星光日记。这让我有点意外，因为之前总觉得自己的价值要靠别人来肯定。但仔细想想，按时吃早餐这种事确实是我自己做到的，虽然很小。）\n（不过还是有点怀疑，写这些真的有用吗？我习惯了依赖朋友的认可，突然要自己肯定自己，感觉怪别扭的。但既然咨询师这么说，也许可以试试看。）"
+      }
+    }
+  ],
+  "created": 1795153483,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2440,
+    "total_tokens": 2560,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "88f4112513274d589ae42584054cbf35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我愿意试试，可说实话，看到同事家孩子考得好，我心里还是会咯噔一下。可能我得先管住自己这张嘴，别老拿她跟别人比。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应来访者，她问是不是该少拿孩子跟别人比，我上一轮已经给了建议。现在她可能还没回答？看对话历史，咨询师说了22轮，来访者需要回复。我需要以角色身份回复，后期阶段，探索解决方案，简短2-3句，口语化，情绪稳定，思维跳跃和重复。她可能说愿意试试，但会担心。可以提到自己看到别人孩子考好会焦虑。要自然。",
+        "reasoning": "我们需要回应来访者，她问是不是该少拿孩子跟别人比，我上一轮已经给了建议。现在她可能还没回答？看对话历史，咨询师说了22轮，来访者需要回复。我需要以角色身份回复，后期阶段，探索解决方案，简短2-3句，口语化，情绪稳定，思维跳跃和重复。她可能说愿意试试，但会担心。可以提到自己看到别人孩子考好会焦虑。要自然。"
+      }
+    }
+  ],
+  "created": 1795147431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 3232,
+    "total_tokens": 3369,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

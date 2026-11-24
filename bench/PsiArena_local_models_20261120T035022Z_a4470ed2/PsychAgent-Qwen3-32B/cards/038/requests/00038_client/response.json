@@ -1,0 +1,41 @@
+{
+  "id": "83b4a410790e4443b5ac06a526a899e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……好吧，我试试。不过你等下别笑我，我可能说得磕磕巴巴的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才说愿意试试预演，但担心紧张。现在咨询师问准备好了吗。我需要表现出犹豫和紧张，但最终还是同意尝试。可以用简短的话表达这种矛盾心理，比如先停顿一下，然后说可以试试但可能不太自然。）",
+        "reasoning": "（用户刚才说愿意试试预演，但担心紧张。现在咨询师问准备好了吗。我需要表现出犹豫和紧张，但最终还是同意尝试。可以用简短的话表达这种矛盾心理，比如先停顿一下，然后说可以试试但可能不太自然。）"
+      }
+    }
+  ],
+  "created": 1795148126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2767,
+    "total_tokens": 2844,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

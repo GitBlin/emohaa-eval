@@ -1,0 +1,41 @@
+{
+  "id": "82e1ca7cf7f346af8f02b8baf9c91342",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我平时会保持距离吧。尤其是在公司，别人聊得很轻松，我插不进去，又怕说错话。可能我从小就这样，在家里也不太说心里话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我平时会保持距离吧。尤其是在公司，别人聊得很轻松，我插不进去，又怕说错话。可能我从小就这样，在家里也不太说心里话。",
+        "reasoning": "嗯，我平时会保持距离吧。尤其是在公司，别人聊得很轻松，我插不进去，又怕说错话。可能我从小就这样，在家里也不太说心里话。"
+      }
+    }
+  ],
+  "created": 1795146751,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 1699,
+    "total_tokens": 1779,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

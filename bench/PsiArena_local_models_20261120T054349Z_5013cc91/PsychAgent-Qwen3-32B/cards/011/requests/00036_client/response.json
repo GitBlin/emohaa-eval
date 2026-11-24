@@ -1,0 +1,41 @@
+{
+  "id": "aa23e98dd8e7458ea7cff49914fc24ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。我们先把十分钟定在一个最容易实现的时段，比如孩子第一觉或晚上他爸在家时。你更想用这十分钟做什么，是睡一会儿、洗个热水澡，还是什么都不做？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松一点）好，我试试。我对着便签说：“我先照顾我这个人，再照顾孩子。”……听起来还是有点别扭，但没那么刺耳了。我是不是可以每天固定挑一个时间，哪怕十分钟，做点自己的事？",
+        "reasoning": "（稍微放松一点）好，我试试。我对着便签说：“我先照顾我这个人，再照顾孩子。”……听起来还是有点别扭，但没那么刺耳了。我是不是可以每天固定挑一个时间，哪怕十分钟，做点自己的事？"
+      }
+    }
+  ],
+  "created": 1795153819,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2925,
+    "total_tokens": 3024,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

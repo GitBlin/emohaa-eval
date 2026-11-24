@@ -1,0 +1,41 @@
+{
+  "id": "d29366ebf9a04cd3929c462fc4bffb3b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低着头，声音闷闷的）就是“你又在浪费时间了”。（抬起头）其实……有时候看到别人一起吃饭聊天，我心里会特别羡慕，然后马上又觉得这样想不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我心里最常冒出来的那句话……这让我有点难受，但好像又确实是我经常对自己说的。每次考完试或者看到别人在一起的时候，这句话就会冒出来。）\n（我不想显得太脆弱，但既然已经聊到这里了，说出来也许能轻松一点。不过说完之后，那种熟悉的愧疚感又上来了，好像承认自己想交朋友是件很丢脸的事。）",
+        "reasoning": "（咨询师问到我心里最常冒出来的那句话……这让我有点难受，但好像又确实是我经常对自己说的。每次考完试或者看到别人在一起的时候，这句话就会冒出来。）\n（我不想显得太脆弱，但既然已经聊到这里了，说出来也许能轻松一点。不过说完之后，那种熟悉的愧疚感又上来了，好像承认自己想交朋友是件很丢脸的事。）"
+      }
+    }
+  ],
+  "created": 1795142538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1647,
+    "total_tokens": 1773,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

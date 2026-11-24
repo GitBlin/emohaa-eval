@@ -1,0 +1,41 @@
+{
+  "id": "a404bc7043c84d868c5c426874f065aa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写信？我……我不知道。朋友那边，他们大多都有孩子了，我聊这个，感觉怪怪的，好像自己格格不入。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写信或者先和朋友聊聊，这让我有点抵触。在我们这种传统家庭里，这种话根本说不出口，更别说写信了。而且朋友……他们都有自己的孩子，聊这个只会让我更难受。）\n（我其实也明白咨询师是好意，但总觉得这些建议离我的现实太远了。家里的事、生孩子的事，哪是这么简单就能解决的。我连跟丈夫都说不清楚，更别说别人了。）",
+        "reasoning": "（咨询师建议我写信或者先和朋友聊聊，这让我有点抵触。在我们这种传统家庭里，这种话根本说不出口，更别说写信了。而且朋友……他们都有自己的孩子，聊这个只会让我更难受。）\n（我其实也明白咨询师是好意，但总觉得这些建议离我的现实太远了。家里的事、生孩子的事，哪是这么简单就能解决的。我连跟丈夫都说不清楚，更别说别人了。）"
+      }
+    }
+  ],
+  "created": 1795147873,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1847,
+    "total_tokens": 1970,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

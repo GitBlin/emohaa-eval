@@ -1,0 +1,39 @@
+{
+  "id": "da75d8597331404a8d59884199cfabcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "背景啊……（叹气）我老家在外地，家里挺传统的，从小我爸对我要求特别严。大学毕业后就来了上海打拼，结婚、生孩子，一路就这么过来了。身体上，前阵子查出来血糖高，医生说是糖尿病，让我戒酒，可我……没做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1795155014,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 3561,
+    "total_tokens": 3625,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

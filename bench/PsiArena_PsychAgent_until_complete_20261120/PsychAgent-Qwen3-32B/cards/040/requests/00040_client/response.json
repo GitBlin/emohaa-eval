@@ -1,0 +1,41 @@
+{
+  "id": "ef32429283ba4cc9838858f43ccca1ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我理解这种“想退一步又怕更远”的拉扯。我们可以把它改成一个更可控的小实验：比如这一周不主动约她，但正常回复消息，不冷着，也不额外“证明”自己。你觉得这个版本更可行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我有点不想装没事。要不……我先不主动找她，看看自己能不能撑住？但又怕这样更疏远。",
+        "reasoning": "（停顿）我有点不想装没事。要不……我先不主动找她，看看自己能不能撑住？但又怕这样更疏远。"
+      }
+    }
+  ],
+  "created": 1795154973,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 2912,
+    "total_tokens": 3001,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

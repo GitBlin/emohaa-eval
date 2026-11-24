@@ -1,0 +1,30 @@
+- Member says the quiet is the hard part — Sunday nights after everyone leaves are the worst, when nothing stands between her and the loss; she and Dan do dishes and he goes to bed early for a four a.m. start, leaving her alone with the tupperware and pushed-in chairs.
+- Member says the sour smell of sinigang used to feel like her dad was in the other room and now is just sour; Thursday it did nothing and she turned it off.
+- Member cooks all the time, including Sunday for twelve, but the food tastes like nothing to her while everyone at the table says how good it is.
+- Member has not told her mom how bad the shifts have gotten, saying her mom lost her husband of forty nine years in March and doesn't need Member on top of that; she tells her mom she's fine, just tired.
+- Linh from dance, whose dad died two years ago, texts Member on hard days unprompted; Member would not bring it up herself and finds it easier to let Linh initiate than to start such conversations with anyone.
+- Member is the loudest laugher in the back row at Tuesday dance practice, so nobody thinks to ask how she is.
+- Member kept the LPN registration page open on her phone for three weeks, opening and closing it, until the fall deadline passed last month without a decision; she told Dan "maybe after things settle" and notes she has said that about school for ten years.
+- Member denies any thoughts of self-harm or wanting to disappear, and reports drinking about the same as always — a glass of wine at dinner.
+- Member's dad used to ask when she was going to do the LPN and she always had a reason; she cannot now look at the binder for the art therapy project she pitched to her director, which is under the Christmas boxes.
+- Member has a sketchbook that has been in her car for years, used for drawing on lunch breaks, unopened since March, and she doesn't know if it's still there.
+- Member says she cannot manage even small suggested actions like getting a pen out of the glovebox, and that she feels worse about Thursday than about the school question.
+- Member says the thought in her head Thursday was that it was her dad lying in that room, though she knows he was never in that room but on the kitchen floor, and she still put her head down at the desk.
+- Member got the sketchbook out of the car Saturday morning after Dan left, found the corner warped from heat, and set it on the counter through dinner and dishes where nobody asked about it, then moved it to the top of the fridge before Dan could ask.
+- Member has not opened the sketchbook since Saturday and does not know what page she would show.
+- Member told Linh she might have something for the fiesta raffle and now fears Linh will see only half-finished lunch-break pages and think she wasted twenty years.
+- Member rejects making something new for the raffle, saying she hasn't drawn since March and can't decide to draw on a Tuesday, and that the raffle is for the fiesta booth and not about her dad.
+- Member is upset at being asked three times to make something, each time smaller, and hates saying no to everything handed to her.
+- Member ended the session early for a three o'clock shift, saying she does not feel good or anything.
+- Member was asked to try a single mark on a fresh page but instead moved the sketchbook from the top of the fridge into the hall closet with the coats and Christmas boxes, and has not opened it or made a mark.
+- Member stood holding a chair at the parish hall looking at the empty line under her name on the raffle sheet from last year, and does not know how long she stood there.
+- Member's worst fear is Linh standing beside her at the fiesta table with nothing on it, saying nothing and only nodding, which Member says would be worse than comment.
+- Member is split on Linh's silence since Tuesday — relieved she hasn't asked, yet checking her phone waiting for her to.
+- Member has a ready excuse text drafted in her head (busy, booth has plenty of people) and says everyone believes it.
+- Member rejects meeting Linh for coffee as "being fine for twenty minutes," and rejects a walk on her ten-hour shift days and scheduling a minute of stillness, having agreed to the stillness only to be polite.
+- Member will not take the raffle sheet down (not hers to do), will not write "Coming soon" (feels like lying to the room), and will not cross her name out (looks like quitting before trying); she intends to leave the line empty.
+- Member says being seen is the fear — Linh saw a drawing years ago and still brings it up, so any page now is compared to what Member used to do.
+- Member wants Linh to know she stopped drawing after her dad died, not that she got lazy or busy, and does not want to explain it at a table with paper cups.
+- [open] Member agreed to text Linh Sunday morning before church: that she stopped drawing after her dad died and is not sure when she will start again, without any "thanks for understanding."
+- [open] Member agreed to three deep breaths during the second Sunday dinner of the month (twelve people), since she has no five quiet minutes that day.
+- Member says she expected to have decided something about Sunday by the end of the session and has not.

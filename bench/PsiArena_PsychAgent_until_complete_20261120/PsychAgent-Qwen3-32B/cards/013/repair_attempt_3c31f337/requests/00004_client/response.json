@@ -1,0 +1,41 @@
+{
+  "id": "31712f6485a04d6aabd04973c20d168b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……写下来这个，好像能试试。不过我可能会写着写着就烦了，或者又绕回去。",
+        "reasoning": "嗯……写下来这个，好像能试试。不过我可能会写着写着就烦了，或者又绕回去。"
+      }
+    }
+  ],
+  "created": 1795157297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 3012,
+    "total_tokens": 3036,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

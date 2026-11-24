@@ -1,0 +1,41 @@
+{
+  "id": "872fef29375f4811869de470efa391d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……可能先试试不去翻我爸手机，也不急着下结论。难受的时候先记下来，等下次咨询再一起看，这样算不算一件小事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答来访者，但刚才咨询师问的是“这一周你愿意选一件小事...”。角色应回应具体小事，简短2-3句，后期探索解决方案。可以提出比如先不查手机，或找朋友/写下来，或和妈妈聊非核心话题。要表现犹豫。不能太早谢谢再见。第19轮只针对一个方面：探索解决方案并明确行动计划。回答2-3句。可以选“先不查我爸手机，先把自己稳住”。",
+        "reasoning": "我们需要回答来访者，但刚才咨询师问的是“这一周你愿意选一件小事...”。角色应回应具体小事，简短2-3句，后期探索解决方案。可以提出比如先不查手机，或找朋友/写下来，或和妈妈聊非核心话题。要表现犹豫。不能太早谢谢再见。第19轮只针对一个方面：探索解决方案并明确行动计划。回答2-3句。可以选“先不查我爸手机，先把自己稳住”。"
+      }
+    }
+  ],
+  "created": 1795154001,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2945,
+    "total_tokens": 3084,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

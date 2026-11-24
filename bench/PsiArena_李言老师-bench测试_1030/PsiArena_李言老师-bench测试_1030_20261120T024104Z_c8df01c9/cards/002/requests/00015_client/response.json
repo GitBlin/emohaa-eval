@@ -1,0 +1,41 @@
+{
+  "id": "2df63930496446a18bfe6b5b4cd5275c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说……你最近是不是不太需要我了。说完又觉得自己很傻，好像在求她别丢下我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想开口说哪一句……我其实心里反复想过很多遍，但真要说出来又觉得有点难为情。好像说出来就等于承认我一直在意这些小事，承认我害怕被丢下。）\n（可是她问得这么直接，又让我觉得不说反而更难受。也许我可以试着把那句最真实的话说出来，虽然听起来有点软弱，但这就是我最近一直憋着的。）",
+        "reasoning": "（她问我想开口说哪一句……我其实心里反复想过很多遍，但真要说出来又觉得有点难为情。好像说出来就等于承认我一直在意这些小事，承认我害怕被丢下。）\n（可是她问得这么直接，又让我觉得不说反而更难受。也许我可以试着把那句最真实的话说出来，虽然听起来有点软弱，但这就是我最近一直憋着的。）"
+      }
+    }
+  ],
+  "created": 1795142591,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2323,
+    "total_tokens": 2434,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

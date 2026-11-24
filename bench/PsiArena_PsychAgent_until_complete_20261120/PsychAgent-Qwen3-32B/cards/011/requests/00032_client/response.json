@@ -1,0 +1,41 @@
+{
+  "id": "20c25f22d55945d590a6ba7444f574f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。我们先约定：孩子安全地在床上哭一小会儿，不等于你失职。你只离开1分钟，做完3次慢呼吸就回来。你愿意把“哭一小会儿也没关系”写下来，放在你能看到的地方吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）1分钟……听起来好像没那么难。但我怕孩子一哭，我就又顾不上自己了。能不能先约定，哭一小会儿也没关系？",
+        "reasoning": "（停顿）1分钟……听起来好像没那么难。但我怕孩子一哭，我就又顾不上自己了。能不能先约定，哭一小会儿也没关系？"
+      }
+    }
+  ],
+  "created": 1795153811,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 2618,
+    "total_tokens": 2704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

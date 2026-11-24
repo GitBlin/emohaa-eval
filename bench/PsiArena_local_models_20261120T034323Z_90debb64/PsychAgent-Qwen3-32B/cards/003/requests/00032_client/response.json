@@ -1,0 +1,41 @@
+{
+  "id": "dca02fe043ff4bd7b4aff6c3fb151d92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最在意……大概是自己看起来是不是很怪。不过你刚才那么问，我忽然觉得，我好像一直在盯着别人眼里的我，反而没顾上自己。也许下次我可以先试着跟一个人搭话，不等着别人来问我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我在意什么……其实我一直在意的是别人怎么看我。但说“别人可能没在意”的时候，心里好像松了一点。也许我可以试着做点小改变，比如下次聚会先跟一个人搭话，而不是等别人来问我。这个想法让我有点紧张，但好像也能试试。）",
+        "reasoning": "（咨询师问我在意什么……其实我一直在意的是别人怎么看我。但说“别人可能没在意”的时候，心里好像松了一点。也许我可以试着做点小改变，比如下次聚会先跟一个人搭话，而不是等别人来问我。这个想法让我有点紧张，但好像也能试试。）"
+      }
+    }
+  ],
+  "created": 1795146290,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2484,
+    "total_tokens": 2603,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

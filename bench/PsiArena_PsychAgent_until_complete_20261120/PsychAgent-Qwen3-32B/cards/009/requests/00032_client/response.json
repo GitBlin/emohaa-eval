@@ -1,0 +1,41 @@
+{
+  "id": "75e9828d93684d65b09a1147da439f00",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一两句话还行……那我试试吧。其实刚才聊完，我心里好像没那么堵了，但还有点不踏实。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说可以只写一两句话，还提出下次一起回看片段。我心里稍微松了一点，觉得这个要求没那么重。可还是有点怕自己写不好，或者写出来显得太矫情。不过既然他说可以一起看，也许我能试试。）",
+        "reasoning": "（咨询师说可以只写一两句话，还提出下次一起回看片段。我心里稍微松了一点，觉得这个要求没那么重。可还是有点怕自己写不好，或者写出来显得太矫情。不过既然他说可以一起看，也许我能试试。）"
+      }
+    }
+  ],
+  "created": 1795153804,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2610,
+    "total_tokens": 2692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

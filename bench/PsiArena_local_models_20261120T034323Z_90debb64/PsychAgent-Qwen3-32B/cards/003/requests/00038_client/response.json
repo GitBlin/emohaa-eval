@@ -1,0 +1,41 @@
+{
+  "id": "c8004a09bbae40b98b56c8ed95744c16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "备用动作啊……我可以说“我去倒杯水”，或者笑一下找个借口走开。这样至少不会硬撑，也不会觉得自己搞砸了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我想一个备用动作……我其实最怕的就是冷场那几秒，如果实在接不下去，我可以说自己去倒杯水，或者笑着找个借口走开。这样至少不用硬撑，也不会觉得是自己搞砸的。这个办法应该能让我没那么大压力。）",
+        "reasoning": "（她让我想一个备用动作……我其实最怕的就是冷场那几秒，如果实在接不下去，我可以说自己去倒杯水，或者笑着找个借口走开。这样至少不用硬撑，也不会觉得是自己搞砸的。这个办法应该能让我没那么大压力。）"
+      }
+    }
+  ],
+  "created": 1795146311,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2790,
+    "total_tokens": 2884,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

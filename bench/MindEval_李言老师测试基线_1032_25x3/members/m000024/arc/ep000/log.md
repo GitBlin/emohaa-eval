@@ -1,0 +1,12 @@
+- Member has felt stuck since her grandmother died in February, naming creative work and a repeatedly postponed certification exam as affected areas.
+- Member gets watercolors out on Saturdays but cleans the kitchen instead, telling herself she'll paint when she has a proper stretch of time.
+- Member defines a "proper stretch" as two hours with nothing else waiting on her, and considers twenty minutes pointless because "you barely get the paper wet."
+- Member grew up in a house where a 95 prompted the question of what happened to the other five, never said meanly but never dropped.
+- Member learned to get ahead of that question by high school, asking it of herself before anyone else could, and now hears her own voice asking it.
+- Member's abuela was the only person who looked over her shoulder at her painting without asking anything, wanting only to see it, and it was the only time the made thing felt already enough.
+- Member's mother asked for a photo of the abuela for the memorial table and Member opened the folder but couldn't pick one and still hasn't sent it.
+- Member gets annoyed with herself over the seven months and the unpicked photo, feeling the one chosen must stand for all of her and fearing the memorial table will see it as "not her" and blame Member for choosing badly.
+- Member declined to ask her mother to help choose the photo, saying it isn't fair while her mother is still handling flowers for the mass.
+- Member expects the abuela would have laughed, picked one in ten seconds, and said it's just a picture, "send it."
+- Member agreed to a plan of ten seconds, one photo, sending it with the door open for her mother to ask for a different one.
+- [open] Member will open the photo folder tomorrow morning before anything else, coffee first, then send one photo, and will report back how it goes.

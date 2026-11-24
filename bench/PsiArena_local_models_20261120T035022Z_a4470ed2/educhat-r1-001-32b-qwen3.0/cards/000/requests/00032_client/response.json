@@ -1,0 +1,41 @@
+{
+  "id": "a511dfe7110943d0b3918875f3aeee6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想试着做点具体的。比如下次跟那个同事碰面，我别急着客气，就问一句她最近忙不忙，听听她怎么说。你觉得这样行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又一次重复了那句话，让我觉得有点被敷衍。不过也许他是想强调这个点。我确实需要想想具体怎么做，不能总停在“要放松”这种层面。我决定先从小事开始，比如下次和同事说话时试着不那么正式。）\n（可是心里还是有点没底，万一我表现得不够好怎么办。但转念一想，我不能再拿“完美”当借口了，得给自己定个能执行的小目标。就从那个同事开始吧，找个机会自然地聊几句，而不是像以前那样躲着。）",
+        "reasoning": "（咨询师又一次重复了那句话，让我觉得有点被敷衍。不过也许他是想强调这个点。我确实需要想想具体怎么做，不能总停在“要放松”这种层面。我决定先从小事开始，比如下次和同事说话时试着不那么正式。）\n（可是心里还是有点没底，万一我表现得不够好怎么办。但转念一想，我不能再拿“完美”当借口了，得给自己定个能执行的小目标。就从那个同事开始吧，找个机会自然地聊几句，而不是像以前那样躲着。）"
+      }
+    }
+  ],
+  "created": 1795146786,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2264,
+    "total_tokens": 2416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "17e14d93922a4a678067a866fadb0aac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）就是那句“你不够好，别人迟早会超过你”。每次一想到这个，我就特别慌，好像怎么努力都没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户这轮是在回应咨询师关于“成绩等于自我价值”的声音，问最常相信哪一句。需要继续深入表达，但简短2-3句。可以提到“你不够好”“别人会超过你”这类具体的话，并带出自责和焦虑。保持口语化，有点犹豫和低落。）",
+        "reasoning": "（用户这轮是在回应咨询师关于“成绩等于自我价值”的声音，问最常相信哪一句。需要继续深入表达，但简短2-3句。可以提到“你不够好”“别人会超过你”这类具体的话，并带出自责和焦虑。保持口语化，有点犹豫和低落。）"
+      }
+    }
+  ],
+  "created": 1795154995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2071,
+    "total_tokens": 2171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

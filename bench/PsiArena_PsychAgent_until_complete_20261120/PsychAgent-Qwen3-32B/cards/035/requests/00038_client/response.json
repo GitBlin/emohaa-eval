@@ -1,0 +1,41 @@
+{
+  "id": "f2b84b84e3a34a0f9314d2f920045008",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先……别那么频繁地看手机。每次看手机都像在等一个判决，太难受了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我想先改变哪一点……我其实最想停止那种一直盯着手机等回复的状态，太折磨人了。可我又担心，如果我不盯着，是不是就真的什么都抓不住了？但也许可以先试试从这个小地方开始，至少让自己喘口气。）",
+        "reasoning": "（咨询师问我想先改变哪一点……我其实最想停止那种一直盯着手机等回复的状态，太折磨人了。可我又担心，如果我不盯着，是不是就真的什么都抓不住了？但也许可以先试试从这个小地方开始，至少让自己喘口气。）"
+      }
+    }
+  ],
+  "created": 1795154748,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2718,
+    "total_tokens": 2800,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

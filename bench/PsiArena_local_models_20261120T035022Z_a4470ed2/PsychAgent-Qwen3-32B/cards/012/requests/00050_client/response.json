@@ -1,0 +1,41 @@
+{
+  "id": "39c7f43df9e44511b8b2e92abee35373",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，再见。我会尽量按今天说的记，不让自己太乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说再见，还提醒我带着记录来。我心里有点松了一口气，又有点空落落的。今天说了很多，现在停下来反而不知道该怎么收住。但既然约好了下次，我就先记住这个安排吧。）",
+        "reasoning": "（咨询师说再见，还提醒我带着记录来。我心里有点松了一口气，又有点空落落的。今天说了很多，现在停下来反而不知道该怎么收住。但既然约好了下次，我就先记住这个安排吧。）"
+      }
+    }
+  ],
+  "created": 1795146981,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3420,
+    "total_tokens": 3486,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

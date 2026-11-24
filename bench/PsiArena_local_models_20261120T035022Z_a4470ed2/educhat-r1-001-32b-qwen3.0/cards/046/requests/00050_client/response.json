@@ -1,0 +1,41 @@
+{
+  "id": "47cfee3a58184306b9331dc9704b2560",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我先回去试试看。谢谢你今天听我说这些……虽然我还是有点没底，但至少知道明天该做什么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我，还提到了“停一停”本子，感觉他确实把我的问题放在心上了。虽然我还是有点不确定自己能不能做好，但至少现在知道该从哪里开始了。）\n（回去建便签这件事，我想自己能做，不过可能还是会拖到晚上。说“试试看”比较符合我的性格，既不会显得太有信心，也不会太消极。）",
+        "reasoning": "（咨询师在鼓励我，还提到了“停一停”本子，感觉他确实把我的问题放在心上了。虽然我还是有点不确定自己能不能做好，但至少现在知道该从哪里开始了。）\n（回去建便签这件事，我想自己能做，不过可能还是会拖到晚上。说“试试看”比较符合我的性格，既不会显得太有信心，也不会太消极。）"
+      }
+    }
+  ],
+  "created": 1795150266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3192,
+    "total_tokens": 3302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

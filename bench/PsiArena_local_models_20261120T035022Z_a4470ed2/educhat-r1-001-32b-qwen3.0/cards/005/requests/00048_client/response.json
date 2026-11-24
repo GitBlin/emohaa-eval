@@ -1,0 +1,41 @@
+{
+  "id": "fdb0f25a579e4ff8978d10978ebc76e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好的，谢谢您。我想我大概知道该怎么调整了，就是慢慢减少看手机的频率，别把别人的回应看得那么重。我会试着按咱们说的去做。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在肯定我的方法后，还表示可以随时来找他聊，这让我感觉被支持了。不过我也意识到不能总是依赖咨询师，毕竟最终还是要靠自己来调整。）\n（这段时间聊下来，我确实想清楚了一些事，比如不能把别人的回应看得太重。接下来应该试着按自己定的计划去做，慢慢减少对手机的依赖，让自己不那么焦虑。）",
+        "reasoning": "（咨询师在肯定我的方法后，还表示可以随时来找他聊，这让我感觉被支持了。不过我也意识到不能总是依赖咨询师，毕竟最终还是要靠自己来调整。）\n（这段时间聊下来，我确实想清楚了一些事，比如不能把别人的回应看得太重。接下来应该试着按自己定的计划去做，慢慢减少对手机的依赖，让自己不那么焦虑。）"
+      }
+    }
+  ],
+  "created": 1795147033,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3017,
+    "total_tokens": 3133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

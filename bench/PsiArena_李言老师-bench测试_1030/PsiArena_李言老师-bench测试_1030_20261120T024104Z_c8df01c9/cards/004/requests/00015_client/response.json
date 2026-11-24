@@ -1,0 +1,41 @@
+{
+  "id": "2b8d31c2836e425baf64ae66bf57a7d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是那种空空的吧……家里也安静，爸妈老不在，我有时候觉得自己像被忘了一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我哪个更揪心，可我真的分不清。晚上一个人躺在床上，那种空落落的感觉和害怕被追上的恐惧会混在一起，越想越乱。也许我该试着说说那种空的感觉，因为那好像更常出现。）\n（爸妈不在身边，家里总是很安静，这种时候我会觉得自己好像被忘了。说出来有点难为情，但咨询师好像没有觉得我事多，也许可以再讲一点点。）",
+        "reasoning": "（咨询师在问我哪个更揪心，可我真的分不清。晚上一个人躺在床上，那种空落落的感觉和害怕被追上的恐惧会混在一起，越想越乱。也许我该试着说说那种空的感觉，因为那好像更常出现。）\n（爸妈不在身边，家里总是很安静，这种时候我会觉得自己好像被忘了。说出来有点难为情，但咨询师好像没有觉得我事多，也许可以再讲一点点。）"
+      }
+    }
+  ],
+  "created": 1795142598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2233,
+    "total_tokens": 2351,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ca715d4831f41c8b9deaca9c7d6d1c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概有8分吧……更像闷堵，胸口压着东西。可我又觉得，这么认真分析自己的情绪，是不是有点矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得很具体，我反而有点不知道怎么答……0到10分，当时大概是8分吧，整个人都僵住了。质地更像闷堵，像胸口压了块东西，想解释又开不了口。可我也怕说太细，显得自己连情绪都要被拆开来分析。）",
+        "reasoning": "（她问得很具体，我反而有点不知道怎么答……0到10分，当时大概是8分吧，整个人都僵住了。质地更像闷堵，像胸口压了块东西，想解释又开不了口。可我也怕说太细，显得自己连情绪都要被拆开来分析。）"
+      }
+    }
+  ],
+  "created": 1795155179,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2052,
+    "total_tokens": 2148,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

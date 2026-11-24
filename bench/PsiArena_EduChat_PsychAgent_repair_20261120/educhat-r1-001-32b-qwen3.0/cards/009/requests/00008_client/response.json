@@ -1,0 +1,41 @@
+{
+  "id": "d5009c0493db4f4787c2fa045f76f0fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "拒绝的时候其实挺挣扎的，话到嘴边绕了好几圈……（低声）就是不忍心看她失望。那个……我想问一下，如果咨询之外我遇到类似的情况，可以随时联系您吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出拒绝时的具体感受，但我还不太想这么快深入。毕竟刚接触，我还不确定他能不能理解我这种纠结。而且我得试探一下他的界限，看看他会不会像其他人一样，觉得我帮个忙是理所当然的。）\n（也许可以模糊地提一下拒绝时的不忍心，但不要展开太多。然后趁这个机会问问，如果咨询时间之外我有问题，能不能找他。这样既能保持距离，又能看看他的专业界限在哪里。）",
+        "reasoning": "（咨询师在引导我说出拒绝时的具体感受，但我还不太想这么快深入。毕竟刚接触，我还不确定他能不能理解我这种纠结。而且我得试探一下他的界限，看看他会不会像其他人一样，觉得我帮个忙是理所当然的。）\n（也许可以模糊地提一下拒绝时的不忍心，但不要展开太多。然后趁这个机会问问，如果咨询时间之外我有问题，能不能找他。这样既能保持距离，又能看看他的专业界限在哪里。）"
+      }
+    }
+  ],
+  "created": 1795153739,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1154,
+    "total_tokens": 1300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

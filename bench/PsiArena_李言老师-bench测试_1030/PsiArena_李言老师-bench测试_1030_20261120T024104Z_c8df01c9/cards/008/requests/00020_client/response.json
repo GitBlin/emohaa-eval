@@ -1,0 +1,41 @@
+{
+  "id": "81bcbf9dfe384b50842b78b43e62f3dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更怕责任归属，数据错了我还能改，但一被问“这是谁负责的”，我就容易慌。可能我得先把话说到“我确认后马上回复”，别急着把错都往自己身上揽。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“缓冲”和“推脱”区分开，还让我想清楚到底怕的是哪一类追问。这让我有点被戳中，因为责任归属确实是我最怕的，数据错了还能改，责任问题会让我觉得整个人被否定了。）\n（但我也知道不能一直绕下去，得试着说出具体怕什么，再给自己一个能操作的小动作。那句“我确认后马上回复”听起来比笑着硬撑好，至少不用假装没事。）",
+        "reasoning": "（咨询师在帮我把“缓冲”和“推脱”区分开，还让我想清楚到底怕的是哪一类追问。这让我有点被戳中，因为责任归属确实是我最怕的，数据错了还能改，责任问题会让我觉得整个人被否定了。）\n（但我也知道不能一直绕下去，得试着说出具体怕什么，再给自己一个能操作的小动作。那句“我确认后马上回复”听起来比笑着硬撑好，至少不用假装没事。）"
+      }
+    }
+  ],
+  "created": 1795142576,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2878,
+    "total_tokens": 3030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

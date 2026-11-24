@@ -1,0 +1,41 @@
+{
+  "id": "3f5871b1cb3f42a3b8d21c04677a49d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "蒲公英对话吧，听着轻一点，说完了心里的事也能散一散。虽然我还是有点怕说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在帮我给这次散步起名字，还举了两个挺有画面感的例子。蒲公英和落叶……都挺轻的，但感觉不太一样。蒲公英是飘着的，好像说完了就能随风散掉一些，没那么沉重。落叶心事听起来有点太文艺了，我可能说不出口。）\n（不过她这么问，应该是在帮我把这件事想得更具体一点，让我心里有个准备。我其实还是有点担心到时候说不清楚，但总得试试。选蒲公英吧，听起来没那么大压力。）",
+        "reasoning": "（心理咨询师在帮我给这次散步起名字，还举了两个挺有画面感的例子。蒲公英和落叶……都挺轻的，但感觉不太一样。蒲公英是飘着的，好像说完了就能随风散掉一些，没那么沉重。落叶心事听起来有点太文艺了，我可能说不出口。）\n（不过她这么问，应该是在帮我把这件事想得更具体一点，让我心里有个准备。我其实还是有点担心到时候说不清楚，但总得试试。选蒲公英吧，听起来没那么大压力。）"
+      }
+    }
+  ],
+  "created": 1795149759,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 3038,
+    "total_tokens": 3172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

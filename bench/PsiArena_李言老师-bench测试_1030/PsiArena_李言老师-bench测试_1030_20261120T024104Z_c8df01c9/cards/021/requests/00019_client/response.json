@@ -1,0 +1,41 @@
+{
+  "id": "de28855be11b4a90b4ab7d55df385b24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是她有时候说话含糊，或者突然不吭声。别人可能觉得没事，我却会一直想，是不是情况变了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最放不下妈妈哪方面的具体状况……这让我想起她有时候说话含糊，或者突然沉默的样子。别人可能觉得没什么，但我就是会忍不住多想，怕她有什么没说出来。）\n（其实我也知道，这种担心可能有点过度，但就是控制不住。也许可以试着跟她说说，让她知道我在意这些细节，而不是光自己瞎琢磨。）",
+        "reasoning": "（她问我最放不下妈妈哪方面的具体状况……这让我想起她有时候说话含糊，或者突然沉默的样子。别人可能觉得没什么，但我就是会忍不住多想，怕她有什么没说出来。）\n（其实我也知道，这种担心可能有点过度，但就是控制不住。也许可以试着跟她说说，让她知道我在意这些细节，而不是光自己瞎琢磨。）"
+      }
+    }
+  ],
+  "created": 1795143067,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2585,
+    "total_tokens": 2691,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

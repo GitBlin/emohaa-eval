@@ -1,0 +1,41 @@
+{
+  "id": "fd176524a28849eba70eeb89915e5a07",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早晨焦虑那屋……我想放杯水吧，先喝口水，别一睁眼就摸酒瓶。然后……也许跟儿子说句话再出门。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了清理老房子的比喻，还具体问我想在早晨焦虑这个房间里放什么。这让我想到自己每天早上醒来那种难受的感觉，好像确实可以试着做点什么来改变。不过音乐和日记这些对我来说有点陌生，我平时哪有心思弄这些。）\n（但仔细想想，也许可以试试更实际的办法。早上喝口水总比直接灌酒强，而且跟儿子说说话也能让我感觉没那么孤单。虽然不知道能不能坚持，但至少是个开始。）",
+        "reasoning": "（咨询师提到了清理老房子的比喻，还具体问我想在早晨焦虑这个房间里放什么。这让我想到自己每天早上醒来那种难受的感觉，好像确实可以试着做点什么来改变。不过音乐和日记这些对我来说有点陌生，我平时哪有心思弄这些。）\n（但仔细想想，也许可以试试更实际的办法。早上喝口水总比直接灌酒强，而且跟儿子说说话也能让我感觉没那么孤单。虽然不知道能不能坚持，但至少是个开始。）"
+      }
+    }
+  ],
+  "created": 1795150067,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2673,
+    "total_tokens": 2808,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

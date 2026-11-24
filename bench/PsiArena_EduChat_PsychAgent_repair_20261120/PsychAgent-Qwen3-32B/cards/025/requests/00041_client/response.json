@@ -1,0 +1,41 @@
+{
+  "id": "5aab78ba36b14b4da5da2f9bf0330555",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就写短一点，“先停一下”四个字，够用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿一下）卡片……听起来有点傻，但好像真到那个当口，我脑子是空的，有个东西能提醒我一下也好。那写什么字比较好？我怕写太多我根本顾不上看。",
+        "reasoning": "（停顿一下）卡片……听起来有点傻，但好像真到那个当口，我脑子是空的，有个东西能提醒我一下也好。那写什么字比较好？我怕写太多我根本顾不上看。"
+      }
+    }
+  ],
+  "created": 1795154337,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3127,
+    "total_tokens": 3190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

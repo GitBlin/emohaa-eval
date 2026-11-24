@@ -1,0 +1,41 @@
+{
+  "id": "314baf8e355b41d2ace5b5fb782a90d5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会更频繁地看吧……有时候还会翻聊天记录，反复看自己说过的话，想找出哪里不对劲。挺累的，但停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接否定我的感受，反而问我会怎么做……这让我稍微放松了一点。也许我可以试着多说一些，毕竟已经聊到这儿了。）\n（我确实会一遍遍看手机，甚至反复翻聊天记录，想找出自己哪里说错了。这种感觉很累，但又控制不住，好像非得确认点什么才行。）",
+        "reasoning": "（咨询师没有直接否定我的感受，反而问我会怎么做……这让我稍微放松了一点。也许我可以试着多说一些，毕竟已经聊到这儿了。）\n（我确实会一遍遍看手机，甚至反复翻聊天记录，想找出自己哪里说错了。这种感觉很累，但又控制不住，好像非得确认点什么才行。）"
+      }
+    }
+  ],
+  "created": 1795146811,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1618,
+    "total_tokens": 1720,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

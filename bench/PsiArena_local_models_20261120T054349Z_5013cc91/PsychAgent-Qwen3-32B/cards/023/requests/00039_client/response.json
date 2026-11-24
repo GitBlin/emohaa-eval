@@ -1,0 +1,41 @@
+{
+  "id": "c109859987c544849d0a208f65e85064",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，先自己练，不用一次就做到。那我们从今天到下次之间，什么时候最可能用上“等一下”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点）这个……好像可以，别人也看不出来。我可以先自己练练，看能不能记住。",
+        "reasoning": "（稍微放松了一点）这个……好像可以，别人也看不出来。我可以先自己练练，看能不能记住。"
+      }
+    }
+  ],
+  "created": 1795154257,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3220,
+    "total_tokens": 3273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

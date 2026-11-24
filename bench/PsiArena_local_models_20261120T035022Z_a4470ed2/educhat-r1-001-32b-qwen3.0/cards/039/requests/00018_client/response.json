@@ -1,0 +1,41 @@
+{
+  "id": "ab2d0debe9214a9db64e869350c8b80a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）当时……其实不是我自愿的。后来发现怀孕了，我整个人都懵了。（声音低下去）我一个人去的医院，他后来也走了。到现在想起来，还是觉得羞。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了具体的经过，这让我有点紧张。但既然已经开了口，也许可以试着多说一点。那段关系里我其实一直很被动，现在想起来还是会觉得胸口发闷。）\n（我家里从小管得严，遇到这种事根本不敢跟父母说。那时候觉得天都要塌了，只能自己硬扛。现在虽然过去了，可那种羞愧感好像一直没散掉。）",
+        "reasoning": "（咨询师问到了具体的经过，这让我有点紧张。但既然已经开了口，也许可以试着多说一点。那段关系里我其实一直很被动，现在想起来还是会觉得胸口发闷。）\n（我家里从小管得严，遇到这种事根本不敢跟父母说。那时候觉得天都要塌了，只能自己硬扛。现在虽然过去了，可那种羞愧感好像一直没散掉。）"
+      }
+    }
+  ],
+  "created": 1795149812,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1661,
+    "total_tokens": 1789,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

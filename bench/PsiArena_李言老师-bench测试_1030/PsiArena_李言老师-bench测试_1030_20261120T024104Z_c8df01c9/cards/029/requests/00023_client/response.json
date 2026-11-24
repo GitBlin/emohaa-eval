@@ -1,0 +1,41 @@
+{
+  "id": "80c0d1a051fb497d87eb9f124afa3048",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "要是她先问一句“能不能聊两句”，我可能没那么炸。可她要是一上来就“你又买什么了”，我肯定还是想顶。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化沟通方式，想让我找到不那么容易触发对抗的问法。我得先想想哪种问法能让我感觉被尊重，而不是被审问。）\n（其实我挺怕一开口就被否定，所以如果我妈能先问一句“能不能聊”，我会觉得她有在考虑我的状态。这样我可能不会立刻炸毛，也能稍微松一点。）",
+        "reasoning": "（咨询师在帮我具体化沟通方式，想让我找到不那么容易触发对抗的问法。我得先想想哪种问法能让我感觉被尊重，而不是被审问。）\n（其实我挺怕一开口就被否定，所以如果我妈能先问一句“能不能聊”，我会觉得她有在考虑我的状态。这样我可能不会立刻炸毛，也能稍微松一点。）"
+      }
+    }
+  ],
+  "created": 1795143166,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 3250,
+    "total_tokens": 3363,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

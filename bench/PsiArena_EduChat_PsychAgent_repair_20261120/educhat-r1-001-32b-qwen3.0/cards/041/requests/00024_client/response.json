@@ -1,0 +1,41 @@
+{
+  "id": "8a2ff22dd1e64431aaada667ad4340a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "温和的方式……我不知道该怎么温和。每次一想到他嫌弃我的样子，我就觉得特别委屈。以前他从来不会这样的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我换个方式表达感受，这让我想起父母总说解决问题要讲究方法。但此刻我内心更在意的是，为什么他不能像以前那样包容我？这种对比让我感到委屈。）\n（作为从小被教育要理性沟通的人，我明白咨询师说得对，可情绪上还是难以接受。男友的转变让我怀疑是不是自己真的不够好，这种自我怀疑又和父母强调的内在价值产生了冲突。）",
+        "reasoning": "（咨询师建议我换个方式表达感受，这让我想起父母总说解决问题要讲究方法。但此刻我内心更在意的是，为什么他不能像以前那样包容我？这种对比让我感到委屈。）\n（作为从小被教育要理性沟通的人，我明白咨询师说得对，可情绪上还是难以接受。男友的转变让我怀疑是不是自己真的不够好，这种自我怀疑又和父母强调的内在价值产生了冲突。）"
+      }
+    }
+  ],
+  "created": 1795155058,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1909,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

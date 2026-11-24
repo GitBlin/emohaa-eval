@@ -1,0 +1,41 @@
+{
+  "id": "c0de39423495484b801b966c6e301089",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像总觉得自己付出很多，但心里又不确定别人是不是真的在乎我。这样挺累的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这种模式……好像让我越来越累，也越来越不确定别人到底是不是真的在乎我。",
+        "reasoning": "嗯，这种模式……好像让我越来越累，也越来越不确定别人到底是不是真的在乎我。"
+      }
+    }
+  ],
+  "created": 1795153486,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 2934,
+    "total_tokens": 2978,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 20,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "278cb7b129734e0e8cce15c2b2a3cc47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他……对我还算体贴吧，但一遇到他爸妈的事，他就不说话了。我有时候觉得，他是不是也觉得我不对，只是不说出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了丈夫的态度，这让我想起很多委屈的事。他平时对我是不错，可一到关键时候就躲开，这种沉默比婆婆的指责更让我难受。）\n（我从小在家里就被教育要忍让，要顾全大局，所以现在遇到冲突也习惯性地退让。可这样忍下去，我真的快撑不住了。）",
+        "reasoning": "（咨询师问到了丈夫的态度，这让我想起很多委屈的事。他平时对我是不错，可一到关键时候就躲开，这种沉默比婆婆的指责更让我难受。）\n（我从小在家里就被教育要忍让，要顾全大局，所以现在遇到冲突也习惯性地退让。可这样忍下去，我真的快撑不住了。）"
+      }
+    }
+  ],
+  "created": 1795148200,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1644,
+    "total_tokens": 1752,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

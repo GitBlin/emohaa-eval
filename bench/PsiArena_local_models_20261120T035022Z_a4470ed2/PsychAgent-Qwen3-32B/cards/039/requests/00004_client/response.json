@@ -1,0 +1,41 @@
+{
+  "id": "54cd872319644b679c09ad39cebe2581",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……其实我也说不清楚，就是最近心里很乱，总在想一些事情，但又不知道该不该说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方说可以只说一小段，但我不确定该从哪里开始，心里乱得很。先随便说点表面的吧，别一下子全摊开。）嗯……其实我也说不清楚，就是最近心里很乱，老是想很多。具体从哪开始，我也不知道。",
+        "reasoning": "（对方说可以只说一小段，但我不确定该从哪里开始，心里乱得很。先随便说点表面的吧，别一下子全摊开。）嗯……其实我也说不清楚，就是最近心里很乱，老是想很多。具体从哪开始，我也不知道。"
+      }
+    }
+  ],
+  "created": 1795148039,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 1014,
+    "total_tokens": 1095,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

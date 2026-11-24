@@ -1,0 +1,41 @@
+{
+  "id": "4a39b1923daa4800b99c96082171f0a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）其实我也有点怕，怕一改就让人觉得我变了、假了。可一直这样下去，我又真的很累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（犹豫）替代反应……我不太确定，会不会我换一种说法，别人反而觉得我很假？或者我妈会觉得我顶嘴？我有点怕。",
+        "reasoning": "（犹豫）替代反应……我不太确定，会不会我换一种说法，别人反而觉得我很假？或者我妈会觉得我顶嘴？我有点怕。"
+      }
+    }
+  ],
+  "created": 1795147259,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2468,
+    "total_tokens": 2534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

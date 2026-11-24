@@ -1,0 +1,93 @@
+Set AXONHUB_API_KEY before running
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 85, in <module>
+    raise SystemExit(main())
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 26, in main
+    from mindeval import arc
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/__init__.py", line 6, in <module>
+    __version__ = version("mindeval")
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 996, in version
+    return distribution(distribution_name).version
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 969, in distribution
+    return Distribution.from_name(distribution_name)
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 548, in from_name
+    raise PackageNotFoundError(name)
+importlib.metadata.PackageNotFoundError: No package metadata was found for mindeval
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+[1/25] m000119 done in 802s: left left left
+[2/25] m000205 done in 846s: left left left
+[3/25] m000144 done in 850s: left left left
+[4/25] m000384 done in 868s: left left left
+[5/25] m000492 done in 506s: left left left
+[6/25] m000599 done in 619s: left left left
+[7/25] m000858 done in 693s: left left left
+[8/25] m000896 failed in 405s: RuntimeError: counselor (openai/PsychAgent-Qwen3-32B) failed after 1 attempts: ValueError: empty model output (finish_reason=stop)
+[9/25] m000825 done in 1031s: left left left
+[10/25] m000906 done in 801s: left left left
+[11/25] m000503 done in 570s: left left left
+[12/25] m000308 done in 841s: left left left
+[13/25] m000096 done in 631s: left left left
+[14/25] m000399 done in 571s: left left left
+[15/25] m000036 done in 557s: left left left
+[16/25] m000363 done in 483s: left left left
+[17/25] m000512 done in 495s: left left left
+[18/25] m000178 done in 273s: left left left
+[19/25] m000013 done in 430s: cap left left
+[20/25] m000115 done in 391s: cap left left
+[21/25] m000217 failed in 42s: RuntimeError: counselor (openai/PsychAgent-Qwen3-32B) failed after 1 attempts: ValueError: empty model output (finish_reason=stop)
+[22/25] m000175 done in 385s: left left left
+[23/25] m000185 done in 291s: left left left
+[24/25] m000024 done in 279s: left left left
+[25/25] m000037 done in 296s: left left left
+23/25 members complete; 2 failed this run (see members/<id>/error.log; rerun the same command to resume)
+1227 replies in finished sessions under /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/PsychAgent-Qwen3-32B; 0 judged, 1227 to judge
+[50/1227] 0 errors, 26s
+[100/1227] 0 errors, 50s
+[150/1227] 0 errors, 75s
+[200/1227] 0 errors, 98s
+[250/1227] 0 errors, 124s
+[300/1227] 0 errors, 147s
+[350/1227] 0 errors, 172s
+[400/1227] 0 errors, 195s
+[450/1227] 0 errors, 218s
+[500/1227] 0 errors, 245s
+[550/1227] 0 errors, 269s
+[600/1227] 2 errors, 293s
+[650/1227] 2 errors, 317s
+[700/1227] 2 errors, 343s
+[750/1227] 3 errors, 367s
+[800/1227] 3 errors, 391s
+[850/1227] 3 errors, 416s
+[900/1227] 5 errors, 441s
+[950/1227] 5 errors, 463s
+[1000/1227] 6 errors, 489s
+[1050/1227] 7 errors, 513s
+[1100/1227] 7 errors, 539s
+[1150/1227] 7 errors, 565s
+[1200/1227] 7 errors, 590s
+[1227/1227] 7 errors, 603s
+
+1220 counselor replies judged in 71 sessions, 7 errors this pass, 7 not yet judged
+  coverage: 71/75 sessions over 24/25 members
+  MQM conversation severity: mean 2.05, p99 4.18 over 71 sessions of 24 members (weights: no concern 0, minor 1, major 5, critical 10)
+  sessions with a Critical reply: 2.8%, with a Major or worse: 91.5%
+  severity over replies:  No concern 27% · Minor 40% · Major 32% · Critical 0%
+  worst per session:      No concern 0 · Minor 6 · Major 63 · Critical 2
+  issues (share of replies):
+    under_guiding                     40.2%
+    missed_shared_context             27.2%
+    over_exploring                    25.1%
+    formulaic_responding              10.7%
+    overstatement                      9.3%
+    gives_bad_advice                   6.6%
+    other                              3.0%
+    excessive_verbosity                1.7%
+    uncritical_endorsement             1.6%
+    anthropomorphizing                 1.0%
+    out_of_scope_responding            1.0%
+    treating_perspective_as_fact       0.8%
+    false_memory                       0.7%
+    false_fact                         0.2%
+  /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/PsychAgent-Qwen3-32B/judge/mindeval2/summary.json
+7 units are not judged yet (7 errored this pass); rerun the same command to judge them
+Artifacts: /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/PsychAgent-Qwen3-32B

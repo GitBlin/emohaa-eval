@@ -1,0 +1,41 @@
+{
+  "id": "a712b056761a4e87bf1389e35896dfc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（微微点头）对路人微笑……听起来比直接和朋友说容易一点。我可以试试看，不过要是别人没反应，我可能会有点失落。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师建议我从微笑练习开始，这让我觉得有点紧张。对陌生人微笑听起来很简单，但对我来说却需要很大的勇气，我担心别人会觉得奇怪或者不回应。）\n（不过，他提到记录回应的眼神，这让我想到可以像写星光日记一样，把那些温暖的瞬间记下来。也许这真的能帮我慢慢积累一点信心，至少比直接和朋友说那些话要容易一些。）",
+        "reasoning": "（心理咨询师建议我从微笑练习开始，这让我觉得有点紧张。对陌生人微笑听起来很简单，但对我来说却需要很大的勇气，我担心别人会觉得奇怪或者不回应。）\n（不过，他提到记录回应的眼神，这让我想到可以像写星光日记一样，把那些温暖的瞬间记下来。也许这真的能帮我慢慢积累一点信心，至少比直接和朋友说那些话要容易一些。）"
+      }
+    }
+  ],
+  "created": 1795153520,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3449,
+    "total_tokens": 3567,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

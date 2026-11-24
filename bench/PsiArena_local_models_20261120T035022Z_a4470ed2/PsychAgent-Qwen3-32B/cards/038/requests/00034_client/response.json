@@ -1,0 +1,41 @@
+{
+  "id": "f0c3a0ced3a44ed895d8141f8a4b446e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说……“我有点慌，不是逼你，就是想听听你怎么想。”但说完我估计又想找补两句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说出具体的话……但我心里有点没底。我想到的不是什么漂亮句子，而是那种一开口就暴露自己很在意的感觉，这让我有点想缩回去。不过既然要试，我可能只会说得很轻。）\n（我担心自己说得太直接，反而让他更紧张。也许先说出自己的状态，再问他的想法，会稍微安全一点。但我也知道，真到了那个时候，我可能还是会犹豫。）",
+        "reasoning": "（咨询师在引导我说出具体的话……但我心里有点没底。我想到的不是什么漂亮句子，而是那种一开口就暴露自己很在意的感觉，这让我有点想缩回去。不过既然要试，我可能只会说得很轻。）\n（我担心自己说得太直接，反而让他更紧张。也许先说出自己的状态，再问他的想法，会稍微安全一点。但我也知道，真到了那个时候，我可能还是会犹豫。）"
+      }
+    }
+  ],
+  "created": 1795148117,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2561,
+    "total_tokens": 2686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

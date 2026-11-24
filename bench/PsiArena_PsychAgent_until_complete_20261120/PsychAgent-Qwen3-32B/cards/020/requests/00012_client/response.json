@@ -1,0 +1,41 @@
+{
+  "id": "8a7d5e18797747bb85915fcc1ba5d32d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好吧，我明白了。（沉默几秒）其实我最近回娘家住了，说是休息，可心里一点也不轻松。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，好的，我明白了。那……我试试说说看吧。就是家里的事，我最近回了娘家，其实心里挺乱的。",
+        "reasoning": "嗯，好的，我明白了。那……我试试说说看吧。就是家里的事，我最近回了娘家，其实心里挺乱的。"
+      }
+    }
+  ],
+  "created": 1795154113,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 1475,
+    "total_tokens": 1532,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

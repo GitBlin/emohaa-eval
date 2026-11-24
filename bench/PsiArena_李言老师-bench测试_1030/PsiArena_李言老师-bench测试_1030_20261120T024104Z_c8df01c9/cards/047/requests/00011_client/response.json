@@ -1,0 +1,41 @@
+{
+  "id": "8e1b5a6d00444c6c8bfa04b330a01507",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "表情和语气吧……还有我是不是看起来特别没精神。其实我家里一直鼓励有什么说什么，可到了学校又觉得不能这样，我好像总是在两边拉扯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体担心被看穿哪方面，这让我想起当时那种被审视的感觉。其实不只是表情语气，是整个人都像被摊开了一样。）\n（我家里一直鼓励表达情绪，可到了学校又觉得这样不对。这种矛盾让我更在意别人的眼光，好像怎么做都不对。）",
+        "reasoning": "（咨询师在问我具体担心被看穿哪方面，这让我想起当时那种被审视的感觉。其实不只是表情语气，是整个人都像被摊开了一样。）\n（我家里一直鼓励表达情绪，可到了学校又觉得这样不对。这种矛盾让我更在意别人的眼光，好像怎么做都不对。）"
+      }
+    }
+  ],
+  "created": 1795143584,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1854,
+    "total_tokens": 1956,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

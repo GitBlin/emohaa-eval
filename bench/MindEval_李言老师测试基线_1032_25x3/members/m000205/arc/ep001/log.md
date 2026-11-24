@@ -1,0 +1,30 @@
+- Member uses their car as the only private space, and cries there most mornings before work, then wipes their face and goes in as if nothing happened.
+- Member has told no one at work; they cried once in the supply room and claimed allergies, and has made small scheduling mistakes they would never normally make.
+- Member believes if coworkers knew they were struggling they would be seen differently, because at work they are the one who fixes things and cannot be the one falling apart.
+- Member says no one has been a person they didn't have to hold it together around; Jesse is closest but gets home after a double when Member has nothing left to tell him.
+- Member avoids talking to Jesse at night because the thin walls mean his mother hears every word, and refuses to open up in the car because once started they can't put it back in the box.
+- Member fears they can't give Jesse a house, feels responsible for him living in his mother's spare room, and doesn't want to become another thing he has to carry.
+- Jesse told Member he feels like a boarder in his own marriage; Member said nothing in response and believes it was their fault for handling everything so no one has to help them.
+- Member fears any true statement to Jesse becomes a problem he must fix, and that when he can't fix it they will both feel worse.
+- Member wants Jesse to sit with the problem without fixing it or saying it will be ok, and does not need him to have an answer.
+- Member dreads crying in front of Jesse and fears he would start handling them — tiptoeing, checking in, asking if they're ok every five minutes — which they could not stand.
+- Member cannot articulate what they don't want from Jesse on a good day and fears he would take it as being pushed away.
+- Member agreed that framing it as what they do want — "sit with me" — would be easier to say than what they don't want.
+- Member identified the car as the least-bad place for the conversation but fears handing it over, since it would stop being the one place nobody knows.
+- Member believes things never go back to how they were once someone knows, and has seen it happen before.
+- Member agreed the sentence worth risking the car for is "I heard what you said about being a boarder, and I don't want that to be true."
+- Member said steering is the only way they get through a hard conversation without falling apart halfway, and rejected opening it without steering.
+- Member responded positively to steering on purpose: one sentence plus a pre-chosen closing line that they deliver themselves, rather than leaving it open.
+- Member chose "That's all I've got, thank you for listening" as the closing line and wants it picked in advance because in the moment they would say too much or go blank.
+- Member had the sentence ready in the driveway with the engine off and practiced the closing line aloud, but when Jesse came out talking about a coworker's overtime after a double, Member answered him normally and let the sentence go, believing he already had enough on him.
+- Member recognized that staying quiet to protect Jesse is the same silence Jesse experiences as a closed door, and that from his side it looks like Member has nothing to say to him.
+- Member fears that if they start the conversation and Jesse asks what it was, they will either have nothing or the whole thing will fall out, so a holding sentence was planned for that moment.
+- Member's worst version of it falling out is crying too hard to speak and Jesse switching into fix-it and check-in mode, after which things never return to how they were.
+- Member wants, from Jesse, only that he say he didn't know and that he's sorry Member was doing it by herself — no plan — and had never said out loud that they want him to be sorry.
+- Member responded well to a version with an instruction attached, because the second half is an instruction rather than being sad at him, and says they can say instructions.
+- Member plans, if Jesse launches into the landlord plan, to skip any redirect and go straight to a closing line, because a redirect would pull them into his conversation and they only get the one shot.
+- Member, not Jesse, will be driving; the plan is to say the line, get out, and go into the store so they don't watch his face change, with a way home settled in advance so the exit is real.
+- Member's quilt bag was moved to the floor this morning by Jesse's mother to reach the ironing board; Member put it back without saying anything, and says it matters because it is the one thing in the house that is theirs and points at something better — if it can be moved aside, so can they.
+- [open] Member rejected leaving the bag until tomorrow because they will talk themselves into it being fine, and intends to write the bag sentence down tonight, pick a time, and raise it with Jesse after the car conversation rather than before.
+- Member has kept the twelve-year-old history from Jesse — that nothing in their childhood home was really theirs and they were the one keeping everything running while it was called being good — because it sounds like complaining about parents who worked themselves half to death.
+- Member said the accumulation of sentences was making them feel none of it would happen; they cut back to the car sentence alone and delivered it aloud: "I've been crying in the car before work every morning. I don't want a plan. I want you to say you didn't know and that you're sorry I was doing it by myself."

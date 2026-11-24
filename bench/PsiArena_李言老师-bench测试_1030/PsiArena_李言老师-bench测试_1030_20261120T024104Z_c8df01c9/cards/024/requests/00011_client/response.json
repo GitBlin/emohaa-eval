@@ -1,0 +1,41 @@
+{
+  "id": "50b332a199694e44a49b60cce8eb3da6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是手会有点发紧，声音也会变。那次吵起来之前，我就觉得手在抖……其实事后想起来挺后悔的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应，这让我有点意外。我以为她会继续讲道理，或者告诉我该怎么做。说实话，我平时很少去留意身体，都是事情过去了才觉得不舒服。）\n（不过她这么问，好像是在认真听我那些说不清楚的感觉。我想到和婆婆争执那次，手确实抖得厉害，声音也变了。这些细节我从来没跟别人说过，说出来有点难为情，但又觉得说出来之后没那么堵了。）",
+        "reasoning": "（咨询师在问我身体反应，这让我有点意外。我以为她会继续讲道理，或者告诉我该怎么做。说实话，我平时很少去留意身体，都是事情过去了才觉得不舒服。）\n（不过她这么问，好像是在认真听我那些说不清楚的感觉。我想到和婆婆争执那次，手确实抖得厉害，声音也变了。这些细节我从来没跟别人说过，说出来有点难为情，但又觉得说出来之后没那么堵了。）"
+      }
+    }
+  ],
+  "created": 1795143040,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1929,
+    "total_tokens": 2055,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

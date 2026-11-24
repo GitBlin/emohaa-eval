@@ -1,0 +1,39 @@
+{
+  "id": "a5726e4e23d847038262ff798ea558e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我们先只练“那一刻”，不练内容：把“说出口”拆成三步——抬头、呼气、说第一句。你觉得第一句用“我有件事想认真和你说”，还是“我需要一点时间，慢慢说”？</think>“我需要一点时间，慢慢说”……这句我比较能说出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1795154932,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 3363,
+    "total_tokens": 3431,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 1,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "51a1835331df42958cf3ef2e5ee10153",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，先不急着做决定，这本身就是一个决定。我们把它说具体一点：你愿意给自己多长一段“先不选”的时间？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这样我心里没那么大压力了。那……我是不是也可以先不急着做决定？就是先不选，先看看自己到底什么感觉。",
+        "reasoning": "嗯，这样我心里没那么大压力了。那……我是不是也可以先不急着做决定？就是先不选，先看看自己到底什么感觉。"
+      }
+    }
+  ],
+  "created": 1795157418,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3194,
+    "total_tokens": 3260,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

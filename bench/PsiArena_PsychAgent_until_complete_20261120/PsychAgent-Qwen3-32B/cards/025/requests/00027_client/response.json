@@ -1,0 +1,41 @@
+{
+  "id": "d9657ab4600c468a8d6c7d92be3f09a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你这么一说，好像有点。我爸妈其实挺讲道理的，但他们总说“你是姐姐，要让着”。我小时候不太敢闹，闹了会被说不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了成长经历，这让我想起小时候家里虽然讲道理，但爸妈总说“你是姐姐要让着”，情绪上其实不太允许我闹。可现在说这些好像有点跑题，又觉得确实有关系。）",
+        "reasoning": "（咨询师问到了成长经历，这让我想起小时候家里虽然讲道理，但爸妈总说“你是姐姐要让着”，情绪上其实不太允许我闹。可现在说这些好像有点跑题，又觉得确实有关系。）"
+      }
+    }
+  ],
+  "created": 1795154317,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2231,
+    "total_tokens": 2318,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

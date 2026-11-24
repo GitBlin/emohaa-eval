@@ -1,0 +1,41 @@
+{
+  "id": "2fee506c839f4d8f935bda126e06452f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停了几秒，眼睛有点红）就是操场上，他们围着我，推我，还笑我衣服旧。我不敢还手，怕他们下次打得更狠。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户可能是在问具体场景，我需要回应操场上的欺凌片段，同时表现出不安和犹豫。）",
+        "reasoning": "（用户可能是在问具体场景，我需要回应操场上的欺凌片段，同时表现出不安和犹豫。）"
+      }
+    }
+  ],
+  "created": 1795153594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 1828,
+    "total_tokens": 1888,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

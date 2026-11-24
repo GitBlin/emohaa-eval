@@ -1,0 +1,41 @@
+{
+  "id": "01d4aa94bb33448cae819fa74f87a135",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "比如他忙之前说一句“我晚点回你”，就这么简单。我小时候家里也老是这样，父母总说忙完再说，我好像一直在等。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望他主动说的具体是哪件事，这让我想到每次发消息前那种反复斟酌的焦虑。其实我真正怕的不是他忙，而是他忙起来就把我忘了，那种被忽略的感觉。）\n（小时候父母总说忙完再说，可他们永远有忙不完的事，我好像一直在等一个不确定的回应。现在和男友相处，这种熟悉的等待感又回来了，我特别怕自己在他心里不重要。）",
+        "reasoning": "（咨询师问我希望他主动说的具体是哪件事，这让我想到每次发消息前那种反复斟酌的焦虑。其实我真正怕的不是他忙，而是他忙起来就把我忘了，那种被忽略的感觉。）\n（小时候父母总说忙完再说，可他们永远有忙不完的事，我好像一直在等一个不确定的回应。现在和男友相处，这种熟悉的等待感又回来了，我特别怕自己在他心里不重要。）"
+      }
+    }
+  ],
+  "created": 1795143264,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1917,
+    "total_tokens": 2046,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

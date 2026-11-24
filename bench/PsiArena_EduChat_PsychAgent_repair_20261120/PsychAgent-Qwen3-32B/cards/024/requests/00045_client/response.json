@@ -1,0 +1,41 @@
+{
+  "id": "72caf43c3f5b41f8b043ee97d5c9d1bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。见面之前，给自己定一个小目标：只完成“说出那句中性的话”，不要求结果。你愿意把这次见面的时间大概定在什么时候，好让我们心里有个数吗？<第22轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点）这样听着没那么大压力。那……我是不是也可以跟您说说，下次跟婆婆见面之前，我心里怎么准备一下？",
+        "reasoning": "（稍微放松了一点）这样听着没那么大压力。那……我是不是也可以跟您说说，下次跟婆婆见面之前，我心里怎么准备一下？"
+      }
+    }
+  ],
+  "created": 1795154305,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3329,
+    "total_tokens": 3433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

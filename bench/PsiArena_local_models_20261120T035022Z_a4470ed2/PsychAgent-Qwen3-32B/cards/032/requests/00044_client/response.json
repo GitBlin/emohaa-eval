@@ -1,0 +1,41 @@
+{
+  "id": "2406b62e07d84be7b6ec67a7ae633b37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以加。不过我怕便签上写太多，到时候根本看不进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才的建议让我觉得有点道理，但一下子要记那么多步骤，我还是有点慌。我得确认一下，是不是真能这么简单，别到时候又变成我一个人的事。）",
+        "reasoning": "（她刚才的建议让我觉得有点道理，但一下子要记那么多步骤，我还是有点慌。我得确认一下，是不是真能这么简单，别到时候又变成我一个人的事。）"
+      }
+    }
+  ],
+  "created": 1795147790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 3235,
+    "total_tokens": 3293,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

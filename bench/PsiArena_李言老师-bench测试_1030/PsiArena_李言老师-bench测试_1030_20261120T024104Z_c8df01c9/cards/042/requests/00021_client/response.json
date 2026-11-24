@@ -1,0 +1,41 @@
+{
+  "id": "f24a0a2965c642408b9fa9ebcda7fba4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步吧，出去走走可能比在家坐着强。不过说实话，我不确定自己真能忍住，万一又喝了，是不是就前功尽弃了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给出了具体可操作的建议，让我今晚就试试。听起来不算太难，但心里还是有点打鼓。洗澡或者散步……这些事平时也做，但真到想喝的时候，可能根本想不起来做。不过既然说了要改，总得迈出一步。）\n（我想选散步，至少能离开那个让我想喝酒的角落。十分钟，就十分钟，也许能撑过去。但我也得说实话，万一真没做到，我怕自己又陷入那种自责里出不来。）",
+        "reasoning": "（咨询师给出了具体可操作的建议，让我今晚就试试。听起来不算太难，但心里还是有点打鼓。洗澡或者散步……这些事平时也做，但真到想喝的时候，可能根本想不起来做。不过既然说了要改，总得迈出一步。）\n（我想选散步，至少能离开那个让我想喝酒的角落。十分钟，就十分钟，也许能撑过去。但我也得说实话，万一真没做到，我怕自己又陷入那种自责里出不来。）"
+      }
+    }
+  ],
+  "created": 1795143499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2994,
+    "total_tokens": 3134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

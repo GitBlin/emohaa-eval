@@ -1,0 +1,41 @@
+{
+  "id": "12f376efd7e94b3babb6f18e9c96ca85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我先试试看吧。谢谢你今天听我说这些，再见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在收尾了，语气比一开始温和很多，没有急着给我大道理。我其实还有点不踏实，怕回去又缩回去，但刚才练习的时候喉咙确实松了一点，这个感觉我记得。现在说再见，我不想说太多，也不想显得太依赖，就承认一下自己会试试，然后结束吧。）",
+        "reasoning": "（咨询师在收尾了，语气比一开始温和很多，没有急着给我大道理。我其实还有点不踏实，怕回去又缩回去，但刚才练习的时候喉咙确实松了一点，这个感觉我记得。现在说再见，我不想说太多，也不想显得太依赖，就承认一下自己会试试，然后结束吧。）"
+      }
+    }
+  ],
+  "created": 1795148153,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3386,
+    "total_tokens": 3473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

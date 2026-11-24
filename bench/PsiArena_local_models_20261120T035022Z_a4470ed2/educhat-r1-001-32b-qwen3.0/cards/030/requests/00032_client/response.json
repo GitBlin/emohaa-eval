@@ -1,0 +1,41 @@
+{
+  "id": "801c6158810e46ca982bbdbd7c7c017d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（平静了一些）好吧，我不想再绕了。也许……我可以先试着跟他说一件具体的小事，而不是一上来就谈感受，那样我可能没那么紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像还是揪着“和他分享感受”不放，我有点累了，但也稍微冷静下来了。也许我可以换个角度，不再纠结怎么开口，而是想想具体能做点什么。）\n（毕竟我本来就是想解决问题的，与其一直卡在“说不说”上，不如试着找个小一点的、我能做到的方式。比如先不说感受，就说一件具体的事，这样压力会小很多吧。）",
+        "reasoning": "（咨询师好像还是揪着“和他分享感受”不放，我有点累了，但也稍微冷静下来了。也许我可以换个角度，不再纠结怎么开口，而是想想具体能做点什么。）\n（毕竟我本来就是想解决问题的，与其一直卡在“说不说”上，不如试着找个小一点的、我能做到的方式。比如先不说感受，就说一件具体的事，这样压力会小很多吧。）"
+      }
+    }
+  ],
+  "created": 1795149192,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2243,
+    "total_tokens": 2364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

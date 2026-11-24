@@ -1,0 +1,41 @@
+{
+  "id": "b07fa304cc794a9fbcbd582028e4bcdd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "放松……好像也没什么时间。下班回来还要做饭、管孩子。有时候想找人说说话，但又不知道该跟谁说……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我放松的方式……她好像没有觉得我要求太多，这让我稍微松了口气。但这个问题让我有点不知道该怎么回答，因为平时确实没什么时间照顾自己。）\n（作为小学老师，每天面对那么多孩子已经够累了，回家还要应付家里的事。其实有时候想找朋友聊聊，但又怕她们觉得我矫情……而且家里那些事，说出来也挺难为情的。）",
+        "reasoning": "（咨询师在问我放松的方式……她好像没有觉得我要求太多，这让我稍微松了口气。但这个问题让我有点不知道该怎么回答，因为平时确实没什么时间照顾自己。）\n（作为小学老师，每天面对那么多孩子已经够累了，回家还要应付家里的事。其实有时候想找朋友聊聊，但又怕她们觉得我矫情……而且家里那些事，说出来也挺难为情的。）"
+      }
+    }
+  ],
+  "created": 1795153886,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1215,
+    "total_tokens": 1324,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "515ce9855cd6421e826efa581578ee20",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "平时也会……（想了想）尤其东西没放回原位的时候。最近连上班都会突然想到眼霜，一走神就有点慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我反复检查的情况，看来她注意到我这种行为的模式了。平时也会这样，不只是赶时间的时候，这让我有点不安，因为这说明问题可能比我想的更严重。）\n（我确实很在意东西有没有放回原位，这好像是从小养成的习惯。但最近这种在意好像有点过头了，连工作的时候都会分心。我得承认这一点，但又不想显得太夸张，毕竟也不是天天都这样。）",
+        "reasoning": "（咨询师在问我反复检查的情况，看来她注意到我这种行为的模式了。平时也会这样，不只是赶时间的时候，这让我有点不安，因为这说明问题可能比我想的更严重。）\n（我确实很在意东西有没有放回原位，这好像是从小养成的习惯。但最近这种在意好像有点过头了，连工作的时候都会分心。我得承认这一点，但又不想显得太夸张，毕竟也不是天天都这样。）"
+      }
+    }
+  ],
+  "created": 1795143713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2375,
+    "total_tokens": 2498,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

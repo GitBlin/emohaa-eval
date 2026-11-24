@@ -1,0 +1,41 @@
+{
+  "id": "8c7194fd114b47789c06d4e0edbacfe3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。其实我也说不清楚，就是最近总觉得心里闷闷的，不太舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询方式，语气挺温和的。但我还是有点不确定，毕竟第一次见面，不知道对方会不会真的理解我。不过既然来了，还是先试探着说一点吧，不用说得太深。）\n（作为内向又敏感的人，我习惯先观察再慢慢打开自己。现在说太多会不安，但完全不说又显得太防备。那就模糊地提一下最近情绪不好，这样既回应了对方，又给自己留了余地。）",
+        "reasoning": "（刚才咨询师解释了咨询方式，语气挺温和的。但我还是有点不确定，毕竟第一次见面，不知道对方会不会真的理解我。不过既然来了，还是先试探着说一点吧，不用说得太深。）\n（作为内向又敏感的人，我习惯先观察再慢慢打开自己。现在说太多会不安，但完全不说又显得太防备。那就模糊地提一下最近情绪不好，这样既回应了对方，又给自己留了余地。）"
+      }
+    }
+  ],
+  "created": 1795154514,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 978,
+    "total_tokens": 1098,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

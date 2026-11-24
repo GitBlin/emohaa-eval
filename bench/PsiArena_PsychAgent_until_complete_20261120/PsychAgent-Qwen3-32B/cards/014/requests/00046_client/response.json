@@ -1,0 +1,41 @@
+{
+  "id": "636218a714454015aa6233c869e43516",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听你这样说，我也放心一点。我们下次可以继续练习那句表达，也看看你倒水回来后的实际感受。你愿意给这周定一个小目标吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）最有用的……可能是我不用一直追着说，先把自己稳住。还有那句“这不是我一个人的错”，听着没那么压了。",
+        "reasoning": "（想了想）最有用的……可能是我不用一直追着说，先把自己稳住。还有那句“这不是我一个人的错”，听着没那么压了。"
+      }
+    }
+  ],
+  "created": 1795153982,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3432,
+    "total_tokens": 3501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

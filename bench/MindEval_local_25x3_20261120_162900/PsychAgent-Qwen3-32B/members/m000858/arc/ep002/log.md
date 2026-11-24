@@ -1,0 +1,30 @@
+- Client needs a sketch by end of month or will find someone else.
+- Member read the client's message at work and put his phone away.
+- Member fears the client will tell people he flaked and nobody will hire him again.
+- Member cannot bring himself to call the client and cannot open the messaging app.
+- Member's anxiety about the half payment keeps him up at night.
+- Member starts thinking about the work at midnight, stays up until 3, wakes late, and loses the day.
+- Member has tried sitting down to work on the commission before and it did not happen.
+- Member agreed "maybe" to a small step (5–10 minute mood board or a one-paragraph update) by 11 PM instead of midnight.
+- Member has a college enrollment form open on his phone, closing this week, ten fields, nothing typed.
+- Member's block on the form is the fear of being "the guy who quits halfway," not commitment, finances, or difficulty.
+- Member said he could type his name in the form's first field.
+- Member has a work shift tomorrow and cannot hold two dated tasks at once; he wants to focus on the commission only.
+- Member left the session abruptly with "i gotta go."
+- Member typed his name into the form's first field, but the page timed out and the form is now closed with no next attempt available.
+- Member does not want to discuss the commission tonight and repeatedly steered the session back to the enrollment deadline.
+- Member's central question is whether a late enrollment option exists or whether the deadline is final.
+- Member rejects planning for next year's form — he needs to know what he is telling his mom this week.
+- Member freezes on the phone when his mom is about to ask about school and does not know what he will say.
+- Member believes a text buying time will fail because his mom ignores texts and calls right after.
+- Member says a vague "sorting things out" message will not work because his mom will ask what, and there is nothing to say.
+- Member asked whether the counsellor would actually check for a late option or only practice scripts, then declined to draft a text and ended with "nah im good for tonight."
+- Member's mom called at 2 AM: Danny was picked up and his tires were slashed on Alameda, and she wants Member to sit with his tia until the tow comes.
+- Member will not sit at his tia's house at 2 AM; the drive over is the obstacle, and the road passes the spot where the car went off, which he feels in his hands when he thinks about it.
+- Member does not drive at night anymore.
+- Member told his mom he would see what he could do and it has been an hour with her likely sitting up waiting, and he wants to say something so she stops waiting on him.
+- Member will not use a ride service and does not want the tow company's number.
+- Member says his voice "does a thing" when tired and his mom will hear it if he calls at 2 AM.
+- Member will not promise tomorrow because he says things like that and then does not do them, which makes it worse.
+- Member rejected the counsellor's suggested scripts and the towing coupon, saying the lines are not the problem and it is not about money.
+- Member declined a small doable task and ended the session with "nah im good. im gonna go to bed."

@@ -1,0 +1,41 @@
+{
+  "id": "4ac76264ed354e458d1633cecc8ceffe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天一次……那我可以试试。（想了想）那如果试了还是觉得空，怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议把目标缩到明天一次，这样听起来确实没那么大压力。我本来担心坚持不了会更挫败，但他提醒我坚持不了只是方法要调，不是我不行，这话让我心里稍微松了一点。也许可以试试，就一次，不用想太多。）\n（不过我还是有点在意，如果试了之后晚上还是空怎么办，会不会又回到那种失落里。我需要先确认这一点，不然心里不踏实。）",
+        "reasoning": "（咨询师建议把目标缩到明天一次，这样听起来确实没那么大压力。我本来担心坚持不了会更挫败，但他提醒我坚持不了只是方法要调，不是我不行，这话让我心里稍微松了一点。也许可以试试，就一次，不用想太多。）\n（不过我还是有点在意，如果试了之后晚上还是空怎么办，会不会又回到那种失落里。我需要先确认这一点，不然心里不踏实。）"
+      }
+    }
+  ],
+  "created": 1795143578,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2547,
+    "total_tokens": 2659,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

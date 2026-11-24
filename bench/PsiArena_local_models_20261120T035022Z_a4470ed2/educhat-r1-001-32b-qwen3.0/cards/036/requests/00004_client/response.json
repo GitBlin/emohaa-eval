@@ -1,0 +1,41 @@
+{
+  "id": "bf3e6602925549819bf58cce713683f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……保密就好。那具体是怎么谈呢？就是我说，你听吗？我有点不知道从哪开始说，也不太清楚自己为什么会这么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（（听到咨询师说保密，稍微松了口气）至少不用担心事情被传出去...但还是要再试探一下，毕竟第一次见面。他看起来挺专业的，但不知道会不会像学校老师那样说教。先问问具体怎么操作吧，免得等下不知道要说什么。）",
+        "reasoning": "（（听到咨询师说保密，稍微松了口气）至少不用担心事情被传出去...但还是要再试探一下，毕竟第一次见面。他看起来挺专业的，但不知道会不会像学校老师那样说教。先问问具体怎么操作吧，免得等下不知道要说什么。）"
+      }
+    }
+  ],
+  "created": 1795149426,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 971,
+    "total_tokens": 1062,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

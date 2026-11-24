@@ -1,0 +1,28 @@
+- Member was referred by her doctor and is unsure how to use counselling.
+- Member was tied to a kitchen chair with her own extension cord by two men posing as meter readers who pushed into her house last November.
+- Member's mother's bangles were taken from a tea tin above the stove and her father's watch were taken.
+- Member's house is under contract and being sold; she has not been back through her own door since and stays in her daughter's guest room.
+- Member gives her daughter only the short version of events and deflects by making jokes and asking about her daughter's day.
+- Member made the call and came to counselling herself.
+- Member was an engineer for forty years and frames her needs as a repair plan.
+- Member says the doorbell is not the problem — she should be able to open her own door.
+- Member refuses coping techniques and worksheets; she came to say the thing out loud once, properly.
+- Member sat in the chair and listened to them go through her kitchen, knowing where everything was and unable to stop them; they found the bangles in under a minute.
+- Member keeps a screwdriver by the bed at her daughter's house and checks the deadbolt three times before lying down.
+- Member is awake at four most nights.
+- Member has not cooked a proper meal since November.
+- Member stopped writing a memoir mid-sentence.
+- Member wants to tell her daughter the real account of the afternoon at her table without making her laugh to get through it.
+- Member says the part she keeps returning to is the silence — one man ate from her fridge while the other went through the bedroom, and he said nothing when she asked him to leave her mother's things.
+- Member says the intruders were not angry with her, only in a hurry for the bangles and watch.
+- Member stood in an unlit hallway holding a screwdriver she does not remember taking from the drawer when a girl of about sixteen delivered a parcel on Wednesday, and her heart was still going an hour later when her daughter came home.
+- Member is eighty years old.
+- Member felt each thing she said was relabelled rather than heard, and ended the session early.
+- Member's daughter booked her a psychiatrist appointment for Thursday without asking her, and Member is shaking at the lack of control over it.
+- Member needs something usable for the nights before Thursday and says Thursday is three days away.
+- Member dreamed the afternoon again last night and woke at ten past four with her wrists aching where the cord was.
+- Member found the screwdriver not where she had left it by the bed after the dream and sat in the hallway until it got light.
+- Member says counting her breaths since the nineties gets her through dinner but not past four.
+- Member rejects grounding, breath-counting and a word under the pillow as repeats of techniques she already refused.
+- Member rejects moving or wrapping the screwdriver, leaving the hallway door ajar, and naming a kitchen-table task for tomorrow.
+- Member said goodnight and ended the session when offered a safety plan she had not asked for.

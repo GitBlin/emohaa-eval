@@ -1,0 +1,41 @@
+{
+  "id": "371cbc82a76843ff9aa7e110451d9b87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕她一下就慌了，开始追问我，然后我就得装作没事，反过来安慰她。好像我总是这样，最后自己的感受就说不出口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是我最怕妈妈有什么反应……其实我脑子里立刻浮现出妈妈那种小心翼翼又焦虑的语气，让我觉得自己反而成了需要被照顾的那个人。这种角色倒转让我很不安，好像我的情绪会变成她的负担。）\n（而且我忽然意识到，我好像一直在用“懂事”来维持关系，怕自己的脆弱打破那种平衡。但这样憋着又特别累，可能问题不只是怕她担心，而是我太习惯把别人的感受放在自己前面了。）",
+        "reasoning": "（她问的是我最怕妈妈有什么反应……其实我脑子里立刻浮现出妈妈那种小心翼翼又焦虑的语气，让我觉得自己反而成了需要被照顾的那个人。这种角色倒转让我很不安，好像我的情绪会变成她的负担。）\n（而且我忽然意识到，我好像一直在用“懂事”来维持关系，怕自己的脆弱打破那种平衡。但这样憋着又特别累，可能问题不只是怕她担心，而是我太习惯把别人的感受放在自己前面了。）"
+      }
+    }
+  ],
+  "created": 1795143614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2265,
+    "total_tokens": 2397,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,30 @@
+- Member was referred by her doctor and reports not having felt like herself since an incident at her house last November.
+- Member was home alone on a Tuesday in the last week of November when two men with a clipboard claimed to be there about the meter and entered when she opened the door.
+- Member was pushed into the kitchen, put on a chair, and had her wrists tied to the counter with an extension cord by the two men.
+- Member wakes at about 4 a.m. nearly every night and begins checking the locks before she has consciously decided to get out of bed.
+- Member's hypervigilance also occurs during the day; at her daughter's house on a Wednesday, the doorbell rang and she found herself in the dark hallway with a screwdriver from the kitchen drawer before she knew what she was doing.
+- Member has not told her daughter about the incident.
+- Member says she could tell her daughter about the incident in one minute using a humorous version, but cannot say the real thing and watch her daughter's face while she carries it.
+- Member manages the urge to tell by asking her daughter about her day or claiming something is burning in the kitchen and going to stand at the stove.
+- Member has counted her breaths for thirty years; it steadies her hands for an hour but does not get her past 4 a.m., and she declined another grounding exercise, saying she did not come for that.
+- Member rejected a suggested short phrase for mentioning the meter men as the humorous version with the joke removed, describing it as handing her daughter a tidy parcel and hoping she does not open it.
+- Member ended the session when asked whether having someone nearby for a few nights might help.
+- Member sat upstairs until the plumber's van left this morning rather than be downstairs with him.
+- Member's brother asked whether she is getting out at all and she gave him the same tidy parcel she gives everyone.
+- Member says she is tired of hearing her own voice minimize and that she needs this to stop.
+- Member says she does not know what small shift would help and has been trying to find one since November.
+- Member declined a paired breath-counting and hand-flexing exercise, saying flexing will not stop her walking downstairs to check the door and she does not want another five-minute task.
+- Member declined home-security suggestions (security chain, motion-sensor light, more lock checks, a last-check boundary), saying she is eighty in someone else's house and will get up and look at the lock if she wants to.
+- Member found her daughter Priya's spare key sitting in the inside lock at 4 a.m. last night and stood holding it, unable to decide whether to take it out or tell Priya.
+- Member rejected messaging Priya about the key, saying Priya would ask why she was up at four and she would deflect with "like a baby, sweetheart," repeating the minimization.
+- Member says she cannot say the real thing to anybody — not Priya, not her brother, not the counsellor — and has been sitting in that since Sunday.
+- Member ended the session when offered a post-lock-check ritual of pouring a glass of water.
+- Priya found the key on the table, asked Member if something happened, and Member gave her the parcel again; Priya then said Ravi had called her Sunday because he was worried, and that they have been waiting since November.
+- Member refused to discuss the phone call between Priya and Ravi, and refused to try lying still at 4 a.m., saying sitting up in the dark with her own pulse is how she gets to the worst part of the night.
+- Member said a script for answering "how are you?" is the parcel with better manners, and that a pivot line such as checking the coffee is the same trick she has used since November with a nicer sentence.
+- Member said she is short not of windows but of knowing what to say when Priya's face changes, and that every suggestion adds another decision in her way.
+- Member said plainly, for the first time to anyone, that she chose not to make a sound while the men went through the kitchen drawer and took her mother's bangles from the tin above the stove, and that she has not said this to anybody before.
+- Member said she is not shaky and did not want a grounding exercise, asking instead why at 4 a.m. she is back in that chair; she accepted the explanation that dark and quiet trigger the survival response and that her body has not been told the men are long gone.
+- Member said she came to the call wanting to sit at Priya's table and tell her what happened without doing the funny version first, and that she has now said it here, but that the counsellor does not have a face she has to watch while carrying it.
+- Member said the difficulty is not shaping the words but that telling Priya means Priya will carry it, having already carried it since November without Member saying a word.
+- Member said saying it aloud for the first time in five months is not nothing but she feels no lighter and is tired of being asked to be pleased about it; she ended the session.

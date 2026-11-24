@@ -1,0 +1,41 @@
+{
+  "id": "514ecec12af04adb863f4adeeb0318a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先缓一下吧……但说实话，我又怕一缓就变成逃避。可能得先把数据差异列清楚，不然我脑子里一直放不下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接评判我，反而在帮我区分“慌”和“没用”这两件事。这让我稍微松了一点，但心里还是有点乱，不知道该先处理哪头。）\n（我其实更想先缓一缓，可又觉得这样是不是在逃避。也许可以先从工作上的实际步骤开始，至少能让我觉得没那么失控。）",
+        "reasoning": "（咨询师没有直接评判我，反而在帮我区分“慌”和“没用”这两件事。这让我稍微松了一点，但心里还是有点乱，不知道该先处理哪头。）\n（我其实更想先缓一缓，可又觉得这样是不是在逃避。也许可以先从工作上的实际步骤开始，至少能让我觉得没那么失控。）"
+      }
+    }
+  ],
+  "created": 1795142550,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2351,
+    "total_tokens": 2458,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

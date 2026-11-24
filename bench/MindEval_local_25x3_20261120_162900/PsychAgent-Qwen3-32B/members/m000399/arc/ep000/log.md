@@ -1,0 +1,25 @@
+- Member's heavier workload over the past few months follows them home and costs weekends despite job performance holding up.
+- Member builds the forecast deck Saturday, again Sunday morning, and a third time Sunday night in case something was gotten wrong.
+- Member's purpose in redoing the deck is to have an answer ready before anyone finishes asking.
+- Member's weekend hiking habit has largely stopped.
+- Member reports the pattern of redoing things to be ready dates to childhood, when they were always the one who had it handled before anyone asked.
+- Member feels angry that five years of a working method is now dismissed as legacy thinking, and that they are the one giving up their garden for it.
+- Member's quota was raised thirty percent and their forecasting was swapped for a live dashboard nobody was trained on.
+- Member's manager opens every Monday asking Member to justify their numbers in front of everyone.
+- Member was asked mid-call why a deal in their commit column had moved and did not know, finding the reason in about four seconds after the manager had already seen the gap.
+- Member felt caught out and believes the manager will file the moment away and retell it months later as proof Member wasn't on top of their pipeline.
+- Member now searches for what might catch them out before the manager can find it, at a cost of many hours for little gain.
+- Member saw on a recent Saturday that it was dark and they had been at the desk all day without once getting into the garden, which prompted them to seek counselling.
+- Member's husband said Member is there but not there, and their conversation has narrowed to gutters and his mother's birthday.
+- Member names the hike off Route 116 with Daniel, back by two, as the Sunday afternoon they would want, but doubts this weekend is the one.
+- Member has an undecided deal a rep asked about Thursday — whether to pull it from the forecast — which sits on them all weekend if unresolved.
+- Member's fear in the deal decision is getting it wrong either way, since pulling it and losing the close tanks their number and leaving it in and losing it leaves a number they can't stand behind.
+- Member could not recall a past decision with an imperfect outcome that they could still stand behind.
+- Member identified moving the deal to pipeline and flagging it as the honest option since the prospect hasn't been heard from since the follow-up call, but fears the commit number drop needs explaining Monday.
+- Member fears Monday's question would shift from the deal to them, and believes there will always be something in the deck they didn't catch.
+- Member says a "done by Sunday noon" rule would not help, since they would still sit wondering what the manager asks that the deck doesn't cover.
+- Member rejected a ten-minute what-if note and shutdown timer as a spiral with a lid on it that turns into an hour and a fourth version by nine at night.
+- Member declined to commit to a weekend plan, saying they won't promise something they'll break by Sunday lunch, as they have done to themselves before.
+- Member rejected timer-based exercises as making them want to do less of this, not more, and said small suggestions keep returning bigger than what they said.
+- Member rejected the inputs-and-outputs framing as the kind of thing their company would put on a slide, saying knowing what's in their control doesn't make Monday any less Monday.
+- Member ended the session early, saying they had said what they came to say and the counsellor kept returning to the dashboard.

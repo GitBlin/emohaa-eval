@@ -1,0 +1,41 @@
+{
+  "id": "569d1c6493e948e7ba6243a10e54b080",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以先去接个水，或者深呼吸一下，不用一直站在那里听。这样好像比较自然，不会显得奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体能做什么……“停一下”已经说了，现在要更小一点的动作。我想到课间可以假装去接水，或者就深呼吸一下，不用一直站在那儿听他们聊。）嗯……可以先去接个水，或者深呼吸一下，不用一直站在那里听。这样好像比较自然，不会显得奇怪。",
+        "reasoning": "（咨询师在问我具体能做什么……“停一下”已经说了，现在要更小一点的动作。我想到课间可以假装去接水，或者就深呼吸一下，不用一直站在那儿听他们聊。）嗯……可以先去接个水，或者深呼吸一下，不用一直站在那里听。这样好像比较自然，不会显得奇怪。"
+      }
+    }
+  ],
+  "created": 1795153828,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3450,
+    "total_tokens": 3550,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

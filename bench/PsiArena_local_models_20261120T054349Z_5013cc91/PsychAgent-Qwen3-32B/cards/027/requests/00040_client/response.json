@@ -1,0 +1,41 @@
+{
+  "id": "4721cb2b42f948f59f6d99d696b890b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……可能就对自己说“这是她的情绪，不是我的”。可是说起来容易，真到那时候，我怕脑子一热就忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我预演，这个思路挺实际的。我脑子里想的是，如果我妈又那样说话，我可能得有个短句提醒自己，别被她带跑。可我也不确定哪句话真能管用，说出来有点笨拙。）",
+        "reasoning": "（咨询师在帮我预演，这个思路挺实际的。我脑子里想的是，如果我妈又那样说话，我可能得有个短句提醒自己，别被她带跑。可我也不确定哪句话真能管用，说出来有点笨拙。）"
+      }
+    }
+  ],
+  "created": 1795154403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2983,
+    "total_tokens": 3068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

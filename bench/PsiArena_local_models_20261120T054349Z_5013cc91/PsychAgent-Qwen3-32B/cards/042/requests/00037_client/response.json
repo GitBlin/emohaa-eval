@@ -1,0 +1,41 @@
+{
+  "id": "d1ca7a70f11846faa93e3cffdd7f776f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）心理这块儿以前没看过，这是头一回。医院倒是去过，内分泌科，医生让我戒酒、控制饮食，说得挺严重的。可我出来没几天，又喝上了。",
+        "reasoning": "（停顿）心理这块儿以前没看过，这是头一回。医院倒是去过，内分泌科，医生让我戒酒、控制饮食，说得挺严重的。可我出来没几天，又喝上了。"
+      }
+    }
+  ],
+  "created": 1795155017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 3707,
+    "total_tokens": 3750,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

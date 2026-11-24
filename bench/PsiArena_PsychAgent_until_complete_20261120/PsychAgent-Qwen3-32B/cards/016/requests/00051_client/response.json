@@ -1,0 +1,41 @@
+{
+  "id": "546d0926105c436cadde2546dfddc9dc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，今天先到这里。我心里还是有点沉，不过至少知道下周还能来，不用一个人硬扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第25轮了，咨询要结束了。心里还是有点不踏实，但至少知道下周同一时间还能来，不用一个人硬扛。刚才咨询师说可以停一停、做几次呼吸，我也稍微能接受一点。现在得把话收住，不能说得太长，简单应一声就好。）",
+        "reasoning": "（第25轮了，咨询要结束了。心里还是有点不踏实，但至少知道下周同一时间还能来，不用一个人硬扛。刚才咨询师说可以停一停、做几次呼吸，我也稍微能接受一点。现在得把话收住，不能说得太长，简单应一声就好。）"
+      }
+    }
+  ],
+  "created": 1795154020,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 3542,
+    "total_tokens": 3632,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2983180ae23f42ccbb30757b3b0cb5b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那还行，至少没那么难。那……如果我真的试了，之后可以跟你说说有没有用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他好像没有在逼我立刻做到，而是把要求降得很低。这让我稍微松了口气，但也还是有点怀疑自己到时候能不能记得住。也许先答应下来，总比一直僵在这里好。）",
+        "reasoning": "（他好像没有在逼我立刻做到，而是把要求降得很低。这让我稍微松了口气，但也还是有点怀疑自己到时候能不能记得住。也许先答应下来，总比一直僵在这里好。）"
+      }
+    }
+  ],
+  "created": 1795156138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2768,
+    "total_tokens": 2838,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

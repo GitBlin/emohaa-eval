@@ -1,0 +1,25 @@
+--- 2026-11-20T12:30:39+00:00
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/llm.py", line 192, in retry_text
+    raise ValueError(f"empty model output (finish_reason={meta.get('finish_reason')})")
+ValueError: empty model output (finish_reason=stop)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/scripts/generate_interactions.py", line 271, in one
+    arc = run_arc(cfg, row, counselor, patient=patient, sessions=sessions, max_turns=max_turns,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/arc.py", line 380, in run_arc
+    record = run_session(cfg, row, situation, knobs, counselor, patient=patient, max_turns=max_turns,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/session.py", line 201, in run_session
+    text, cmeta = counselor.respond(counselor_prompt, transcript)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/session.py", line 80, in respond
+    text, meta = llm.retry_text(messages, spec=self.spec, what=f"counselor ({self.spec.model})")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/llm.py", line 201, in retry_text
+    raise RuntimeError(f"{what} failed after {spec.max_retries} attempts: {type(last).__name__}: {last}") from last
+RuntimeError: counselor (openai/PsychAgent-Qwen3-32B) failed after 1 attempts: ValueError: empty model output (finish_reason=stop)
+

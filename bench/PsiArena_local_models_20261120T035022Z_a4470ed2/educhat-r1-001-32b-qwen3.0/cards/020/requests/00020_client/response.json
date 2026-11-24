@@ -1,0 +1,41 @@
+{
+  "id": "594e5328caf14cf783f2af203eb46fa1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "试过……但每次说不了几句，他就说“你别想太多”。我总觉得，在他心里，顺着他爸妈才是对的。可能……跟我从小的家庭也有关系吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到和丈夫沟通，这让我想起很多次尝试都失败了。他总说“别计较”，好像问题出在我身上。其实我明白他夹在中间也为难，但每次他沉默的时候，那种被抛弃的感觉特别强烈。）\n（可能我该说说文化背景的事，但一下子又觉得很难解释清楚。在我们家，长辈的意见就是天，我从小就被教育要顺从。现在想反抗，心里又觉得愧疚，好像自己很不孝似的。）",
+        "reasoning": "（咨询师提到和丈夫沟通，这让我想起很多次尝试都失败了。他总说“别计较”，好像问题出在我身上。其实我明白他夹在中间也为难，但每次他沉默的时候，那种被抛弃的感觉特别强烈。）\n（可能我该说说文化背景的事，但一下子又觉得很难解释清楚。在我们家，长辈的意见就是天，我从小就被教育要顺从。现在想反抗，心里又觉得愧疚，好像自己很不孝似的。）"
+      }
+    }
+  ],
+  "created": 1795148208,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1727,
+    "total_tokens": 1867,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

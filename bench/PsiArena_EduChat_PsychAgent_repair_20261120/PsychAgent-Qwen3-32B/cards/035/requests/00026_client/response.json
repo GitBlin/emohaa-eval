@@ -1,0 +1,41 @@
+{
+  "id": "9aca94aa32e84950bc7e07fe8d076bba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我觉得……我得懂事、不能太麻烦别人。谈恋爱也是，我总怕自己哪做得不好，他就不要我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我形成了哪些自我要求……这让我想到很多。从小就是这样，好像只有做到最好才配被爱。在感情里我也总觉得自己得表现得完美，不能出一点差错，不然就会被嫌弃。这种念头其实一直都在，只是我以前没这么清楚地意识到。）",
+        "reasoning": "（咨询师在问我形成了哪些自我要求……这让我想到很多。从小就是这样，好像只有做到最好才配被爱。在感情里我也总觉得自己得表现得完美，不能出一点差错，不然就会被嫌弃。这种念头其实一直都在，只是我以前没这么清楚地意识到。）"
+      }
+    }
+  ],
+  "created": 1795154731,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2095,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

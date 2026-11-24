@@ -1,0 +1,41 @@
+{
+  "id": "f9481dd02d8b4cb490acc5e86e57bd7f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候的自己……她好像一直在忍着，不太敢麻烦别人。我最想谢谢她一直撑着，可又觉得她撑得太久了，我有点心疼她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到写给小时候的自己，这让我突然想起很多事。那个懂事的孩子确实一直很努力，但好像从来没人告诉过她可以不用那么努力。我有点想哭，又觉得这种情绪来得太快。）\n（也许可以试着感谢她一直撑着，但这话说出来又显得很轻飘飘。我是不是应该更具体一点？比如她那次忍住没哭，或者她一直照顾弟弟妹妹。不过现在说这些好像有点晚了。）",
+        "reasoning": "（心理咨询师提到写给小时候的自己，这让我突然想起很多事。那个懂事的孩子确实一直很努力，但好像从来没人告诉过她可以不用那么努力。我有点想哭，又觉得这种情绪来得太快。）\n（也许可以试着感谢她一直撑着，但这话说出来又显得很轻飘飘。我是不是应该更具体一点？比如她那次忍住没哭，或者她一直照顾弟弟妹妹。不过现在说这些好像有点晚了。）"
+      }
+    }
+  ],
+  "created": 1795154438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 3160,
+    "total_tokens": 3289,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

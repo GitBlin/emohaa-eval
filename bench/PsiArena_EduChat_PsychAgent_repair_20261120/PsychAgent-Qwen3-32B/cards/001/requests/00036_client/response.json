@@ -1,0 +1,41 @@
+{
+  "id": "45c221e544394d359b014643d32abb14",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）应该……讨论的时候吧。但如果我点头了，别人突然看我，我可能又会缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "点头或“嗯”一声，确实门槛很低。我们把它设成下周的小目标：在一次小组讨论里，刻意做一次。你觉得什么情况下最容易做到，或者什么情况会让你想放弃？<第18轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "点头或“嗯”一声，确实门槛很低。我们把它设成下周的小目标：在一次小组讨论里，刻意做一次。你觉得什么情况下最容易做到，或者什么情况会让你想放弃？<第18轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795153484,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 3123,
+    "total_tokens": 3220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "66c907e9a1a5463b80073980614e6db0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……前几天开会的时候吧。我其实也没做什么，就是表情可能有点明显，后来有人半开玩笑说我“什么都写脸上”。我当时笑笑就过去了，但回家以后一直想着这句话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺具体的，但我现在还没准备好把所有细节都摊开。说太多反而会让我更不安，好像自己真有什么大问题似的。也许先含糊一点，把话题停在“累”这个感觉上比较安全。）",
+        "reasoning": "（咨询师问得挺具体的，但我现在还没准备好把所有细节都摊开。说太多反而会让我更不安，好像自己真有什么大问题似的。也许先含糊一点，把话题停在“累”这个感觉上比较安全。）"
+      }
+    }
+  ],
+  "created": 1795146854,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 1480,
+    "total_tokens": 1573,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

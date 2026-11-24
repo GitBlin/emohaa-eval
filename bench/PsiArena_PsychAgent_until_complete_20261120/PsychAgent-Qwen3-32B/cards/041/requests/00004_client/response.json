@@ -1,0 +1,41 @@
+{
+  "id": "f94ee6a11ae04a799877a1ada218feed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听起来可以。不过我有点紧张，也不知道该说到什么程度。你们咨询师会私下联系来访者吗？我就是想确认一下边界。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询方式，语气还算温和。但我还是有点不放心，毕竟第一次见面，不知道对方会不会真正理解我。先试探一下边界吧，看看她怎么回应。问私人问题可能有点冒犯，但这样能知道她是不是那种会越界的人。如果她回答得太随意，我可能就不太想继续了。）",
+        "reasoning": "（咨询师解释了咨询方式，语气还算温和。但我还是有点不放心，毕竟第一次见面，不知道对方会不会真正理解我。先试探一下边界吧，看看她怎么回应。问私人问题可能有点冒犯，但这样能知道她是不是那种会越界的人。如果她回答得太随意，我可能就不太想继续了。）"
+      }
+    }
+  ],
+  "created": 1795154944,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1026,
+    "total_tokens": 1132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

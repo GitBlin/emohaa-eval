@@ -1,0 +1,41 @@
+{
+  "id": "8d3596e5faf44dfc97102ef09732a822",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪温度计……（比划了一下）摸摸手腕，这个简单。不过我一急起来，脑子就空了，可能想不起来用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才教我用情绪温度计，还提到摸摸手腕当暂停信号。这方法听起来挺具体的，不像之前那么空泛。我心里有点想试，但又怕自己真到那个节骨眼上根本想不起来用。）\n（摸手腕这个动作……好像挺隐蔽的，不会让别人看出来。这让我稍微安心点。不过我得承认，自己脾气上来的时候脑子一片空白，不知道到时候还记不记得住。也许可以问问，要是忘了怎么办。）",
+        "reasoning": "（咨询师刚才教我用情绪温度计，还提到摸摸手腕当暂停信号。这方法听起来挺具体的，不像之前那么空泛。我心里有点想试，但又怕自己真到那个节骨眼上根本想不起来用。）\n（摸手腕这个动作……好像挺隐蔽的，不会让别人看出来。这让我稍微安心点。不过我得承认，自己脾气上来的时候脑子一片空白，不知道到时候还记不记得住。也许可以问问，要是忘了怎么办。）"
+      }
+    }
+  ],
+  "created": 1795148610,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 3237,
+    "total_tokens": 3367,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

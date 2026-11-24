@@ -1,0 +1,41 @@
+{
+  "id": "2835208095184155bdd0e083cc4a27c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从哪件事开始……（沉默了一会儿）可能是我做方案的时候吧。明明客户都说可以了，我还是会改到半夜，总觉得哪里不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到把“再努力一点”转化为“我正在做得很好”，这让我想起小时候父亲总是对我的成绩不满意。那时候哪怕考了98分，他也会问为什么不是100分。这种压力一直延续到现在的工作中。）\n（作为完美主义者，我确实很难对自己说“做得很好”，总觉得还不够。但咨询师说的这个练习，或许可以从那些我明明完成得不错却还在挑剔的事情开始尝试。比如上周那个方案，客户明明很满意，我却反复修改到凌晨。）",
+        "reasoning": "（咨询师提到把“再努力一点”转化为“我正在做得很好”，这让我想起小时候父亲总是对我的成绩不满意。那时候哪怕考了98分，他也会问为什么不是100分。这种压力一直延续到现在的工作中。）\n（作为完美主义者，我确实很难对自己说“做得很好”，总觉得还不够。但咨询师说的这个练习，或许可以从那些我明明完成得不错却还在挑剔的事情开始尝试。比如上周那个方案，客户明明很满意，我却反复修改到凌晨。）"
+      }
+    }
+  ],
+  "created": 1795150192,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1607,
+    "total_tokens": 1746,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

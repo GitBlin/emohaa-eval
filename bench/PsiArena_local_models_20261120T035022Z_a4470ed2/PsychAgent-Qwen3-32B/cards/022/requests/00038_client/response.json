@@ -1,0 +1,41 @@
+{
+  "id": "e273f964bbe94d4197e0750a41120855",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微放松一点）这样说我就没那么大压力了。要不……我先记一下，每次做到的时候，哪怕只有一点点，也算数？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户担心坚持不下来，咨询师把标准降低到“出现一次也算练习”，用户可能会觉得稍微轻松一点，但内心仍有自我批评的惯性，会犹豫自己能不能真的做到。需要表达出这种矛盾感，同时开始考虑具体怎么落实。）",
+        "reasoning": "（用户担心坚持不下来，咨询师把标准降低到“出现一次也算练习”，用户可能会觉得稍微轻松一点，但内心仍有自我批评的惯性，会犹豫自己能不能真的做到。需要表达出这种矛盾感，同时开始考虑具体怎么落实。）"
+      }
+    }
+  ],
+  "created": 1795147275,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 3077,
+    "total_tokens": 3162,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,30 @@
+- Member says no help is possible because the store is short-staffed and there is nobody to ask.
+- Member cooks on Sundays — greens in a big pot with music for about 90 minutes — as their one reliable respite.
+- Member says the Sunday calm is gone by Monday night and the pot is still in the sink by Thursday.
+- Member asked the counsellor for a concrete answer on how to carry rest into the week.
+- Member rejected a 10–15 minute breathing wind-down as insufficient for a six-day schedule.
+- Member used to draw on Saturdays but hasn't opened the sketchbook in a while.
+- Member's back pain prevents sitting at the table long enough to sketch, so 15 minutes is not the obstacle.
+- Member has had two years of purchased back remedies (stretch sheet, heating pad) with no relief.
+- Member saw a doctor once; a scan showed nothing actionable and they were given a stretch sheet.
+- Member rejected a weekly schedule/load check-in, saying two years of scheduling around this has not changed anything.
+- Member declined movement/awareness exercises, saying exercises aren't what they came for.
+- Member's core fear is that their body will quit mid-shift, and they won't know until it happens.
+- Member says they can sense when their body is winding down but knowing doesn't let them leave the floor.
+- Member says swapping or delegating is impossible: five staff, two out, and every change forces rebuilding the whole schedule.
+- District requested four weeks of receiving figures; Member's log had a gap and they filled it from memory before sending.
+- Member says filling in figures from memory is normal practice and they did not make numbers up.
+- Member fears that going down now would stop the reset and cost them the lead role.
+- Member accepted the lead role because it is the next step toward assistant manager and said yes before thinking it through.
+- Member expects the load to get harder, not easier, since nobody is being hired and the reset isn't going away.
+- Member agreed to try writing one task to hand off or simplify 5 minutes before one shift ends this week. [open]
+- Member agreed to try a daily high/medium/low energy log with one helping or draining thing, but said tracking one more thing is the last thing they need. [open]
+- Member has four unopened bags from the art store by their front door and called them "nothing."
+- District emailed back about the figures and scheduled a Friday morning call about the log; Member fears the call is about the gap.
+- Member's priority for the call is to state that they know their own truck and the gap is just the gap, without sounding like they didn't know what they were doing.
+- Member built a call script — log filled in after the fact from what came through the door, normal when the system gaps, totals still match what came in, gaps to be noted in real time going forward — and rejected practicing it aloud, saying they'll have it in their head by Friday.
+- Member will take the Friday call in the stockroom and return to the floor rather than ask district to move it, since asking feels like a bigger deal than it is.
+- Member rejected sketching at a table due to back pain but accepted a standing setup with a clipboard or whiteboard and heavy paper, and believes they already have an unopened pad that would work.
+- Member identified getting home as the hardest moment of the week and sits in the car before going inside; named "I'm tired" as the honest sentence for that moment.
+- Member will not tell Marcus about the Friday call beforehand because he'll try to fix what can't be fixed, making more work for both; will handle it alone first and loop him in later with facts if needed.
+- Member agreed to try one 15–20 minute standing sketching session with the supplies by the door when a few minutes open up, with no requirement to prove anything. [open]

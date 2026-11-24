@@ -1,0 +1,41 @@
+{
+  "id": "531a288e98b34471ae40d520b49347bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "害怕、自责……还有胸口压着石头。说出来好像清楚一点了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用三个词标记今天的情绪和身体感觉。我有点紧张，怕说不好，也怕说得太简单显得自己没认真。但他说不评价好坏，那我就试试吧。现在心里最明显的是害怕，还有自责，胸口那块石头也一直在。说出来好像真的能稍微分开一点，不那么糊成一团。）",
+        "reasoning": "（咨询师让我用三个词标记今天的情绪和身体感觉。我有点紧张，怕说不好，也怕说得太简单显得自己没认真。但他说不评价好坏，那我就试试吧。现在心里最明显的是害怕，还有自责，胸口那块石头也一直在。说出来好像真的能稍微分开一点，不那么糊成一团。）"
+      }
+    }
+  ],
+  "created": 1795147107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 3116,
+    "total_tokens": 3205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

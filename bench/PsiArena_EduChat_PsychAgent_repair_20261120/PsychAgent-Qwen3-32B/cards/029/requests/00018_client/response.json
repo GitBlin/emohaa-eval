@@ -1,0 +1,41 @@
+{
+  "id": "a66439f278764f038000c4ffdd0d7ceb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有的，其实脑子里会闪过“这个月又超了”这种话，但很快就压下去了。我妈从小就念叨家里不宽裕，花钱要省，我好像一直在跟她对着干，又觉得自己不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我下单前有没有自我对话……他好像想让我看清那个过程。我确实有想过钱的事，但当时很快就压下去了。这让我想到我妈，她总说我乱花钱，说家里不容易。其实我知道她说得对，可我就是……不想一直被那样管着。）",
+        "reasoning": "（咨询师在问我下单前有没有自我对话……他好像想让我看清那个过程。我确实有想过钱的事，但当时很快就压下去了。这让我想到我妈，她总说我乱花钱，说家里不容易。其实我知道她说得对，可我就是……不想一直被那样管着。）"
+      }
+    }
+  ],
+  "created": 1795154466,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1844,
+    "total_tokens": 1952,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

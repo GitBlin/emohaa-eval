@@ -1,0 +1,41 @@
+{
+  "id": "b473ef341a2f49c992424f16a303312a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "天气不错……（有点犹豫）可这不还是客套话吗？我想说的是那种……真的想法，比如“我不同意”或者“我觉得这样更好”，可我又怕说出来就收不回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“真心话”像星星，还建议从“今天天气不错”开始，这让我觉得有点被小看了。我明明在说想表达真实的想法，他却让我从天气这种无关紧要的话开始，这让我有点失望。不过转念一想，也许他是想让我先练习开口，不给自己太大压力。）\n（但天气这种话太表面了，我真正想说的是那些有内容、能让人看到我真实感受的话。可我又担心，如果直接说“我不同意”，会不会又触发那个“收敛点”的声音。这种矛盾让我有点烦躁，但又不想直接反驳咨询师，毕竟他也是在帮我。）",
+        "reasoning": "（咨询师提到“真心话”像星星，还建议从“今天天气不错”开始，这让我觉得有点被小看了。我明明在说想表达真实的想法，他却让我从天气这种无关紧要的话开始，这让我有点失望。不过转念一想，也许他是想让我先练习开口，不给自己太大压力。）\n（但天气这种话太表面了，我真正想说的是那些有内容、能让人看到我真实感受的话。可我又担心，如果直接说“我不同意”，会不会又触发那个“收敛点”的声音。这种矛盾让我有点烦躁，但又不想直接反驳咨询师，毕竟他也是在帮我。）"
+      }
+    }
+  ],
+  "created": 1795147260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 179,
+    "prompt_tokens": 2448,
+    "total_tokens": 2627,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 136,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

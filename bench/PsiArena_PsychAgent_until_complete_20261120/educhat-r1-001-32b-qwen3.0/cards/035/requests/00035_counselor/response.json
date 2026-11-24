@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-5d34c3f8cd634e6ea1d711a73e6f59c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我理解你的感受。那你觉得，自己最需要的是什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者情绪激动，对沟通方式产生抵触，需调整策略，避免重复建议。\n【行动策略】：转换话题，引导关注自身需求，通过提问激发自我觉察。\n",
+        "reasoning_content": "\n【诊断分析】：来访者情绪激动，对沟通方式产生抵触，需调整策略，避免重复建议。\n【行动策略】：转换话题，引导关注自身需求，通过提问激发自我觉察。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154891,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 1866,
+    "total_tokens": 1929,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

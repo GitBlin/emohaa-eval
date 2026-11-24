@@ -1,0 +1,41 @@
+{
+  "id": "a2d4721b12434b59826e710be03872c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（抠着衣角）课间吧……还有在操场上的时候。他们老是一群人，看见我就笑，有时候还推我一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问的是具体场景，我可以说课间和操场，但不要一下子全倒出来，先提操场，再带一点犹豫。）",
+        "reasoning": "（他问的是具体场景，我可以说课间和操场，但不要一下子全倒出来，先提操场，再带一点犹豫。）"
+      }
+    }
+  ],
+  "created": 1795146778,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 1883,
+    "total_tokens": 1946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

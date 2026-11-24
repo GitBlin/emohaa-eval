@@ -1,0 +1,41 @@
+{
+  "id": "2833d73a71ab41d986c03f9bcf5f0ea3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我这周就记一下。要是没做到，是不是也算失败？我有点怕下次又拿这个来证明我不行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“下次我们用你的记录来微调步骤”，语气里没有责备，也没有敷衍。我心里松了一点，可还是有点不踏实，怕自己记着记着就变成应付。也许我该先问清楚，如果没做到会怎样，免得下次又觉得丢脸。）",
+        "reasoning": "（咨询师说“下次我们用你的记录来微调步骤”，语气里没有责备，也没有敷衍。我心里松了一点，可还是有点不踏实，怕自己记着记着就变成应付。也许我该先问清楚，如果没做到会怎样，免得下次又觉得丢脸。）"
+      }
+    }
+  ],
+  "created": 1795154387,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3256,
+    "total_tokens": 3349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

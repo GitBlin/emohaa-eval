@@ -1,0 +1,41 @@
+{
+  "id": "3aca30905da24bf9b2f2acdbc2a32ac5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）有一次去看展览，我们都没怎么说话，但那种安静好像……没那么难受。可能是因为都在看作品吧。（苦笑）不过这种时候真的很少。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起最自然的时刻，这让我有点意外。我本来以为他会继续追问我们之间的问题，没想到是让我回忆好的部分。这让我稍微放松了一点，但同时又有点不安，因为那种时刻真的不多。）\n（我努力回想，确实有一次在展览上感觉还不错。那时候不用刻意找话题，注意力都在作品上。不过说完之后我又忍不住想，是不是我太挑剔了，总期待那种特别的氛围。也许咨询师会觉得我要求太高吧。）",
+        "reasoning": "（咨询师问起最自然的时刻，这让我有点意外。我本来以为他会继续追问我们之间的问题，没想到是让我回忆好的部分。这让我稍微放松了一点，但同时又有点不安，因为那种时刻真的不多。）\n（我努力回想，确实有一次在展览上感觉还不错。那时候不用刻意找话题，注意力都在作品上。不过说完之后我又忍不住想，是不是我太挑剔了，总期待那种特别的氛围。也许咨询师会觉得我要求太高吧。）"
+      }
+    }
+  ],
+  "created": 1795154596,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1347,
+    "total_tokens": 1484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

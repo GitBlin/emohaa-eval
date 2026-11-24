@@ -1,0 +1,41 @@
+{
+  "id": "6823c2a034004117bea8e46ecc18a26b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我有点想试，可又怕一开口就收不住。也许可以先从写下来开始？等没那么慌的时候，再试着跟别人说一句。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我愿不愿意试。我心里其实有点打鼓，但刚才那种脚底踏实的感觉还在，好像可以抓住。不过直接去跟别人说，还是太冒险了，我还没准备好。也许可以先从自己开始，写下来，这至少是我能控制的。）",
+        "reasoning": "（她问我愿不愿意试。我心里其实有点打鼓，但刚才那种脚底踏实的感觉还在，好像可以抓住。不过直接去跟别人说，还是太冒险了，我还没准备好。也许可以先从自己开始，写下来，这至少是我能控制的。）"
+      }
+    }
+  ],
+  "created": 1795155274,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 3083,
+    "total_tokens": 3175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

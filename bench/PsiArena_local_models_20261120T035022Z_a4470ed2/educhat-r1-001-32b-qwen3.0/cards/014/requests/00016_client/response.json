@@ -1,0 +1,41 @@
+{
+  "id": "16ddef6ea960401bbdfe08993b98625f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写便签……嗯，也许可以试试。其实我从小在家里就是这样，什么事都得先想着别人的感受，怕说错话让人不高兴。可能我太习惯先退一步了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写便签给他，这让我想起以前在家里的一些事。我爸妈就总说做事要顾及别人的感受，不能太直接。我好像从小就习惯了这样，先想别人会怎么想，再想自己该怎么做。）\n（其实我担心的不只是他会不会不理我，更怕的是我又做错了什么。在我家，要是惹人不高兴了，那都是我的问题。所以我总是先退一步，先道歉，哪怕我心里也委屈。现在想想，可能我一直在重复这种模式。）",
+        "reasoning": "（咨询师建议我写便签给他，这让我想起以前在家里的一些事。我爸妈就总说做事要顾及别人的感受，不能太直接。我好像从小就习惯了这样，先想别人会怎么想，再想自己该怎么做。）\n（其实我担心的不只是他会不会不理我，更怕的是我又做错了什么。在我家，要是惹人不高兴了，那都是我的问题。所以我总是先退一步，先道歉，哪怕我心里也委屈。现在想想，可能我一直在重复这种模式。）"
+      }
+    }
+  ],
+  "created": 1795147594,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1543,
+    "total_tokens": 1692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

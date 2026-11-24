@@ -1,0 +1,41 @@
+{
+  "id": "e58ecd644e264d65b9b84ad30c22d789",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "妈，我先缓一下，一会儿再打给你……嗯，这样说好像没那么硬。但我怕她听出来不对劲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用自己的语气再说一遍。我有点犹豫，因为平时我说话不是这样的，怕听起来太生硬，或者像在找借口。但我想了想，如果连这么一句都说不出口，那后面更没法面对了。我试着把语速放慢，尽量让这句话听起来自然一点，别像在背。可说完又觉得有点别扭，好像还是不太像自己。不过至少比刚才那个长句子顺口些。）",
+        "reasoning": "（咨询师让我用自己的语气再说一遍。我有点犹豫，因为平时我说话不是这样的，怕听起来太生硬，或者像在找借口。但我想了想，如果连这么一句都说不出口，那后面更没法面对了。我试着把语速放慢，尽量让这句话听起来自然一点，别像在背。可说完又觉得有点别扭，好像还是不太像自己。不过至少比刚才那个长句子顺口些。）"
+      }
+    }
+  ],
+  "created": 1795154224,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2705,
+    "total_tokens": 2828,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3ab0706842f14711a914d8094a2c1932",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我照着做了。胸口没那么紧了，但心里还是有点乱。刚才说到“影响别人”就自动收住，好像不只是小时候，现在也是这样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我做呼吸练习……可能想帮我先稳住身体。我照着做了，胸口确实没那么紧了，但心里还是有点乱。刚才说到“影响别人”就自动收住，这好像不只是小时候的事，现在我也会这样。我想试着说清楚一点，可又怕说得太乱。）",
+        "reasoning": "（咨询师让我做呼吸练习……可能想帮我先稳住身体。我照着做了，胸口确实没那么紧了，但心里还是有点乱。刚才说到“影响别人”就自动收住，这好像不只是小时候的事，现在我也会这样。我想试着说清楚一点，可又怕说得太乱。）"
+      }
+    }
+  ],
+  "created": 1795155255,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2324,
+    "total_tokens": 2424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8dcd221352e64732993488478c508d04",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说：“我知道你可能只是随口，但对我影响挺大的，我会有点慌。”然后……我得停一下，别马上追问她是不是不爱我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把对话具体化，这让我稍微安定一点。但我还是担心如果她轻飘飘一句“随口一说”，我会觉得自己被晾在那儿，甚至更慌。）\n（我想先准备一个既不像质问、又能让她知道我不是在闹的回答。也许可以先承认自己反应大，再把我的紧张说清楚。）",
+        "reasoning": "（咨询师在帮我把对话具体化，这让我稍微安定一点。但我还是担心如果她轻飘飘一句“随口一说”，我会觉得自己被晾在那儿，甚至更慌。）\n（我想先准备一个既不像质问、又能让她知道我不是在闹的回答。也许可以先承认自己反应大，再把我的紧张说清楚。）"
+      }
+    }
+  ],
+  "created": 1795147107,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2681,
+    "total_tokens": 2784,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

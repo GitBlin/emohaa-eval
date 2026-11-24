@@ -1,0 +1,41 @@
+{
+  "id": "516f14ff96b144139ac898130130845e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "吃的我还能聊，比如附近哪家店好吃。嗯……我尽量别一开口就收不住，也别太用力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她建议我先想一个自己能聊得开的话题，这确实比硬找话题要轻松些。我平时对吃的还算有点兴趣，不至于完全没话说。）\n（不过真要开口，还是会担心说多了让人觉得我奇怪。可能得控制一下，别一紧张就收不住，反而显得刻意。）",
+        "reasoning": "（她建议我先想一个自己能聊得开的话题，这确实比硬找话题要轻松些。我平时对吃的还算有点兴趣，不至于完全没话说。）\n（不过真要开口，还是会担心说多了让人觉得我奇怪。可能得控制一下，别一紧张就收不住，反而显得刻意。）"
+      }
+    }
+  ],
+  "created": 1795142640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2790,
+    "total_tokens": 2883,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

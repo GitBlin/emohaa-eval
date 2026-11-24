@@ -1,0 +1,41 @@
+{
+  "id": "8197287c92284d27af3a58b9cdfeb507",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……七分吧。不是一直那么强，但一被勾起来就挺久的，得缓好一阵子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问强度……我有点犹豫。说太高会不会显得我很夸张？但那种感觉真的挺重的，可能……七分？不是一直那么强，但一被勾起来就很久下不去。）",
+        "reasoning": "（咨询师在问强度……我有点犹豫。说太高会不会显得我很夸张？但那种感觉真的挺重的，可能……七分？不是一直那么强，但一被勾起来就很久下不去。）"
+      }
+    }
+  ],
+  "created": 1795146842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2696,
+    "total_tokens": 2769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

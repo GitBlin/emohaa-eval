@@ -1,0 +1,41 @@
+{
+  "id": "32e54601fb7a4d6482962d7a2e37b47b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪温度计……打分是吗？听着有点像记流水账，不过也许可以试试。其实说到我妈，她好像也总是担心东西会丢，我这是不是跟她学的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到家庭环境的影响像隐形滤镜，还建议用情绪温度计记录。这让我想起妈妈总是反复检查物品的样子，心里有点发紧。我确实很在意东西的摆放，但以前没想过这和妈妈有关。也许这种焦虑不是突然出现的，而是从小慢慢积累的。）\n（不过情绪温度计听起来有点麻烦，要打分记录每次的感受。我平时已经够纠结了，再打分会不会更累？但咨询师说得好像有点道理，能更清楚地看到模式。我有点犹豫，不知道该不该答应。）",
+        "reasoning": "（咨询师提到家庭环境的影响像隐形滤镜，还建议用情绪温度计记录。这让我想起妈妈总是反复检查物品的样子，心里有点发紧。我确实很在意东西的摆放，但以前没想过这和妈妈有关。也许这种焦虑不是突然出现的，而是从小慢慢积累的。）\n（不过情绪温度计听起来有点麻烦，要打分记录每次的感受。我平时已经够纠结了，再打分会不会更累？但咨询师说得好像有点道理，能更清楚地看到模式。我有点犹豫，不知道该不该答应。）"
+      }
+    }
+  ],
+  "created": 1795150248,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1760,
+    "total_tokens": 1912,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

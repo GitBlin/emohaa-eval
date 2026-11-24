@@ -1,0 +1,41 @@
+{
+  "id": "d5a28bc780764026875efd3aef1ae2a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默几秒）可能……我总觉得我应该做点什么，不然就是我不对。我爸妈从小就说要懂事、要善良，可他们没教过我遇到这种事该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我对自己有什么看法，比如是不是觉得“必须勇敢”或“必须完美”。她好像想让我看到自己对自己的要求。我确实总觉得自己应该做点什么，不然就是没用。可我又怕站出来。这种矛盾让我很累。）\n（也许我可以稍微说说家里的情况，因为爸妈总是教我要做好人，要懂事。这让我觉得做不到就是我的错。但我不确定这是不是根源，只是突然想到这个。）",
+        "reasoning": "（心理咨询师问我对自己有什么看法，比如是不是觉得“必须勇敢”或“必须完美”。她好像想让我看到自己对自己的要求。我确实总觉得自己应该做点什么，不然就是没用。可我又怕站出来。这种矛盾让我很累。）\n（也许我可以稍微说说家里的情况，因为爸妈总是教我要做好人，要懂事。这让我觉得做不到就是我的错。但我不确定这是不是根源，只是突然想到这个。）"
+      }
+    }
+  ],
+  "created": 1795149470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1839,
+    "total_tokens": 1969,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

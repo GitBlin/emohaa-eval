@@ -1,0 +1,41 @@
+{
+  "id": "985970bbdbc44783a2ced608d046a355",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是我妈打完电话之后吧，那种闷会持续一整天。我在想，是不是该少接几次她的电话？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问具体时刻，看来是想帮我找到闷的规律。灰色确实有点闷，但我不想只是停在感觉上，得说点实际的。）\n（想到和我妈通电话最常这样，那是我最想躲又躲不开的时候。也许可以提一下，看看能不能从这儿找到点办法。）",
+        "reasoning": "（咨询师在问具体时刻，看来是想帮我找到闷的规律。灰色确实有点闷，但我不想只是停在感觉上，得说点实际的。）\n（想到和我妈通电话最常这样，那是我最想躲又躲不开的时候。也许可以提一下，看看能不能从这儿找到点办法。）"
+      }
+    }
+  ],
+  "created": 1795143113,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2539,
+    "total_tokens": 2633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

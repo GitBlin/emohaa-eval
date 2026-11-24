@@ -1,0 +1,41 @@
+{
+  "id": "f022c3f025bd4f72b9471e3faa5735f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……像一块湿毛巾吧，拧不干，就那么搭在那儿。说出来好像有点可笑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第7轮仍是初期，目标是建立信任与情感联系，并且只针对规则中的一个方面。前面已经试探过边界、模糊描述感受、问过方法。现在可以继续停留在“模糊描述”层面，给出一个比喻但不深入。保持简短，2-3句，带犹豫。）",
+        "reasoning": "（第7轮仍是初期，目标是建立信任与情感联系，并且只针对规则中的一个方面。前面已经试探过边界、模糊描述感受、问过方法。现在可以继续停留在“模糊描述”层面，给出一个比喻但不深入。保持简短，2-3句，带犹豫。）"
+      }
+    }
+  ],
+  "created": 1795154835,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1544,
+    "total_tokens": 1629,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

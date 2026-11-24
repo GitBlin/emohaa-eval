@@ -1,0 +1,41 @@
+{
+  "id": "1b12d5fa0be94fb59c01b91a8259fb26",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕她觉得我变了吧，也怕她那种失望的眼神。可我又不想每次都硬撑着接。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心什么……其实我心里清楚，就是怕我妈觉得我变了，怕她那种失望的眼神。可我又不想再像以前那样，每次接完电话都闷一整天。）\n（少接一次电话，也许能让我喘口气，但我又怕自己是不是太自私了。这种担心好像一直都有，不只是电话的事。）",
+        "reasoning": "（她问我最担心什么……其实我心里清楚，就是怕我妈觉得我变了，怕她那种失望的眼神。可我又不想再像以前那样，每次接完电话都闷一整天。）\n（少接一次电话，也许能让我喘口气，但我又怕自己是不是太自私了。这种担心好像一直都有，不只是电话的事。）"
+      }
+    }
+  ],
+  "created": 1795143118,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2626,
+    "total_tokens": 2721,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

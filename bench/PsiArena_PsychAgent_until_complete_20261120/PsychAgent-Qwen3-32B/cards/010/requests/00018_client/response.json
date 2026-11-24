@@ -1,0 +1,41 @@
+{
+  "id": "a2ec8cf5996b45a8b6f6465998073e35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点烦，也有点……说不上来，像是被比下去了。我家里总说别找借口，别人怎样你就得怎样，所以我可能特别怕自己显得不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我当时的具体感受……我其实有点分不清，但那种感觉确实很堵。可能不只是烦他，还有对自己的一种失望吧。我爸总说别找借口，可能让我觉得连表达不舒服都像在找借口。）",
+        "reasoning": "（咨询师在问我当时的具体感受……我其实有点分不清，但那种感觉确实很堵。可能不只是烦他，还有对自己的一种失望吧。我爸总说别找借口，可能让我觉得连表达不舒服都像在找借口。）"
+      }
+    }
+  ],
+  "created": 1795153782,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1687,
+    "total_tokens": 1779,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

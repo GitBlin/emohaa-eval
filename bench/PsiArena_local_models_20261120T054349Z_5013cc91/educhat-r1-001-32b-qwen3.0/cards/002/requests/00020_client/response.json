@@ -1,0 +1,41 @@
+{
+  "id": "5927228dc4f8469786095a816ecea557",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）写在纸上……听起来有点傻。不过，我确实老是这样。爸妈离婚后，我就特别怕朋友也离开我。现在也是，总觉得自己得做点什么才能留住别人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到情感时间轴和蒲公英的比喻，让我感觉她真的在尝试理解我的感受。她说的“长出翅膀”让我有点触动，但同时又让我想起小时候那种无力感。我其实不太确定把渴望写在纸上会有什么帮助，但至少她愿意听我说这些。）\n（想到爸妈离婚那段时间，我确实总是紧紧抓着朋友不放。现在和朋友相处时也总是小心翼翼，生怕做错什么。也许可以借这个机会说说这些，但又怕说得太多显得自己太脆弱。）",
+        "reasoning": "（心理咨询师提到情感时间轴和蒲公英的比喻，让我感觉她真的在尝试理解我的感受。她说的“长出翅膀”让我有点触动，但同时又让我想起小时候那种无力感。我其实不太确定把渴望写在纸上会有什么帮助，但至少她愿意听我说这些。）\n（想到爸妈离婚那段时间，我确实总是紧紧抓着朋友不放。现在和朋友相处时也总是小心翼翼，生怕做错什么。也许可以借这个机会说说这些，但又怕说得太多显得自己太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795153461,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1838,
+    "total_tokens": 1988,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

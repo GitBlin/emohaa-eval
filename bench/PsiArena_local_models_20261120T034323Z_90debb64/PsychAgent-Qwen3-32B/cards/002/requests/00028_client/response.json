@@ -1,0 +1,41 @@
+{
+  "id": "63d5d07096054e51a78008f5f5f92060",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "如果只能选一个……我可能会选“被看见”吧。可是选完又觉得，我是不是太自私了？维持和谐不是也很重要吗，为什么我非得让别人来回应我？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "“维持表面和谐”更重要，还是“被看见、被回应”的需要更重要？如果只能选一个，我会选哪个？用户会犹豫，可能说“我不知道”，然后倾向选“被看见”，但觉得自私。",
+        "reasoning": "“维持表面和谐”更重要，还是“被看见、被回应”的需要更重要？如果只能选一个，我会选哪个？用户会犹豫，可能说“我不知道”，然后倾向选“被看见”，但觉得自私。"
+      }
+    }
+  ],
+  "created": 1795146280,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2536,
+    "total_tokens": 2626,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

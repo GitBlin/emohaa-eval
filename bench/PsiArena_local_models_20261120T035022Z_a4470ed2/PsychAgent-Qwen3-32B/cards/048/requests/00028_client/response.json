@@ -1,0 +1,41 @@
+{
+  "id": "0d4dc634eec34d19a8c61350ed64d9c0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最靠前的那句……大概是“我又弄丢了，我是不是连日子也过不好”。说出来有点丢脸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把念头写出来。最靠前的那句……其实我心里一直有个声音在说“我又弄丢了东西，我是不是连日子也过不好”。说出来有点难为情，好像承认自己很没用。但既然刚才呼吸练习有点用，也许可以试着说。）",
+        "reasoning": "（咨询师让我把念头写出来。最靠前的那句……其实我心里一直有个声音在说“我又弄丢了东西，我是不是连日子也过不好”。说出来有点难为情，好像承认自己很没用。但既然刚才呼吸练习有点用，也许可以试着说。）"
+      }
+    }
+  ],
+  "created": 1795148863,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 2213,
+    "total_tokens": 2301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

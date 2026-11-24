@@ -1,0 +1,41 @@
+{
+  "id": "2d0a38bc75d944569a558971a0442b0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……其实我有点不好意思说。就是一支眼霜，不见了。你会不会觉得，我为了这个难受很可笑？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好，初期阶段最后一轮了。来访者还在试探和模糊描述。可以稍微透露一点具体的东西，但保持模糊。也可以在这里测试一下界限——比如问咨询师会不会觉得她小题大做。",
+        "reasoning": "好，初期阶段最后一轮了。来访者还在试探和模糊描述。可以稍微透露一点具体的东西，但保持模糊。也可以在这里测试一下界限——比如问咨询师会不会觉得她小题大做。"
+      }
+    }
+  ],
+  "created": 1795155210,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 1513,
+    "total_tokens": 1585,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4eb14a101b1b4079addd484ca6e34582",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯，今天说出来确实松了一点。那我先回去了，下次再聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下，语气比刚来时缓和）好……那我先试试看。今天说出来，好像没那么堵了。下次再聊。",
+        "reasoning": "（停顿了一下，语气比刚来时缓和）好……那我先试试看。今天说出来，好像没那么堵了。下次再聊。"
+      }
+    }
+  ],
+  "created": 1795153494,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3331,
+    "total_tokens": 3381,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

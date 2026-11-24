@@ -1,0 +1,41 @@
+{
+  "id": "2f8d92e87efb4a8f8f16a6dd47c0bf51",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就……开窗吧。我说屋里闷，想开一会儿，婆婆说会吹到孩子，我说医生说可以通风，她就说我不听老人言。（苦笑）我丈夫在旁边，一句话都没说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户应该继续中期阶段，第13轮回应咨询师。需要揭示文化背景，分析根源，但简短2-3句。可以选开窗的小事，带出婆家观念和丈夫沉默。）",
+        "reasoning": "（用户应该继续中期阶段，第13轮回应咨询师。需要揭示文化背景，分析根源，但简短2-3句。可以选开窗的小事，带出婆家观念和丈夫沉默。）"
+      }
+    }
+  ],
+  "created": 1795154132,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2252,
+    "total_tokens": 2342,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

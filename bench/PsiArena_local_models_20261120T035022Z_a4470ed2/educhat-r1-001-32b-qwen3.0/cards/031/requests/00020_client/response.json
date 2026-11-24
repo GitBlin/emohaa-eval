@@ -1,0 +1,41 @@
+{
+  "id": "8d93788e11bf4192939d1c9be97b0c13",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）有一次吧。初中考了班里第一，我爸就“嗯”了一声，然后继续看他的电视。我站在那儿等了一会儿……后来就回房间了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了特别希望得到父母认可的时刻……这让我想起初中那次考了第一名，满心欢喜地拿着成绩单回家，结果他们只是看了一眼就放在桌上。那种期待落空的感觉现在想起来还是有点难受。）\n（不过她好像很理解这种感受，没有像其他人那样说“父母都是为你好”之类的话。也许可以稍微多说一点，但不用讲得太细，毕竟这些事说出来还是有点难为情。）",
+        "reasoning": "（咨询师问到了特别希望得到父母认可的时刻……这让我想起初中那次考了第一名，满心欢喜地拿着成绩单回家，结果他们只是看了一眼就放在桌上。那种期待落空的感觉现在想起来还是有点难受。）\n（不过她好像很理解这种感受，没有像其他人那样说“父母都是为你好”之类的话。也许可以稍微多说一点，但不用讲得太细，毕竟这些事说出来还是有点难为情。）"
+      }
+    }
+  ],
+  "created": 1795149191,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1634,
+    "total_tokens": 1769,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "78bfe3c31913428a8d89fe8f0c6eb840",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……是晚上一个人的时候吧。白天在学校还好，忙起来就顾不上，可一安静下来就特别明显。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次难受是什么时候，这让我有点紧张。我确实记得那种感觉，就是晚上一个人的时候，脑子里会冒出很多念头。但我不太想直接说细节，毕竟还不确定她能不能理解我。也许先模糊地提一下晚上，看看她的反应。）\n（我有点担心说得太多会被看穿，或者显得太依赖。但不说的话又好像对咨询没什么帮助。那就简单提一下晚上和白天工作的事吧，这样既回答了问题，又没暴露太多。）",
+        "reasoning": "（咨询师问我最近一次难受是什么时候，这让我有点紧张。我确实记得那种感觉，就是晚上一个人的时候，脑子里会冒出很多念头。但我不太想直接说细节，毕竟还不确定她能不能理解我。也许先模糊地提一下晚上，看看她的反应。）\n（我有点担心说得太多会被看穿，或者显得太依赖。但不说的话又好像对咨询没什么帮助。那就简单提一下晚上和白天工作的事吧，这样既回答了问题，又没暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795155080,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1051,
+    "total_tokens": 1184,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 107,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

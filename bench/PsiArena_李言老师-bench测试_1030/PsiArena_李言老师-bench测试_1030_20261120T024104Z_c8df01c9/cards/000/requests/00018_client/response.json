@@ -1,0 +1,41 @@
+{
+  "id": "0934ca6f2a3846fdb3f914f0672481d5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天开会吧。如果又没人接话，我就只记下来，不急着怪自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议从最小的事开始记录，这让我稍微松了口气，但马上又有点不安。我平时连这种小事都会反复琢磨，现在要刻意记录下来，反而觉得有点刻意。）\n（不过既然只记事实不评价，也许可以试试。明天开会时如果没人接话，我就只写下来，不急着怪自己。这样至少能让我看清楚到底发生了什么。）",
+        "reasoning": "（咨询师建议从最小的事开始记录，这让我稍微松了口气，但马上又有点不安。我平时连这种小事都会反复琢磨，现在要刻意记录下来，反而觉得有点刻意。）\n（不过既然只记事实不评价，也许可以试试。明天开会时如果没人接话，我就只写下来，不急着怪自己。这样至少能让我看清楚到底发生了什么。）"
+      }
+    }
+  ],
+  "created": 1795142622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2634,
+    "total_tokens": 2735,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8edeed11cf46405a9c17c6c8d9641808",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，睡前挺合适的。不用做得很完美，哪怕就几分钟，能做到多少算多少。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户说想试试睡前做，这是个很具体的行动。需要确认这个时间是否可行，同时提醒练习不用追求完美，简短回应就好。",
+        "reasoning": "用户说想试试睡前做，这是个很具体的行动。需要确认这个时间是否可行，同时提醒练习不用追求完美，简短回应就好。"
+      }
+    }
+  ],
+  "created": 1795148562,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 2485,
+    "total_tokens": 2537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

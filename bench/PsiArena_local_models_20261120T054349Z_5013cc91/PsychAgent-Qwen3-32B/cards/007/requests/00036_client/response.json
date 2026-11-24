@@ -1,0 +1,41 @@
+{
+  "id": "fe08992cf60249d1bbed4d96af16bdf4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕他们嘴上说好，转头还是老样子。那……那我是不是得找辅导员？可我又怕把事情闹大。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把情况分开了……这让我稍微清楚一点。我最怕的其实不是他们敷衍，是那种被当成透明人的感觉。如果连我认真说都没用，我可能又会缩回去。）</br>（不过直接找辅导员……会不会太小题大做了？室友会不会觉得我背后告状。可一直憋着我也快受不了了。）</br>（我得更具体一点，不然下次还是不知道怎么办。）",
+        "reasoning": "（咨询师在帮我把情况分开了……这让我稍微清楚一点。我最怕的其实不是他们敷衍，是那种被当成透明人的感觉。如果连我认真说都没用，我可能又会缩回去。）</br>（不过直接找辅导员……会不会太小题大做了？室友会不会觉得我背后告状。可一直憋着我也快受不了了。）</br>（我得更具体一点，不然下次还是不知道怎么办。）"
+      }
+    }
+  ],
+  "created": 1795153651,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2718,
+    "total_tokens": 2840,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

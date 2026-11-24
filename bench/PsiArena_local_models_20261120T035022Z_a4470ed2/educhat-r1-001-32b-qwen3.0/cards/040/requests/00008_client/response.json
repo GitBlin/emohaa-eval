@@ -1,0 +1,41 @@
+{
+  "id": "37d99eb9b12d4a289c68fee1fc816998",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）其实……不光是工作的事。我最近和一个朋友相处得不太好，但具体怎么回事我也说不清楚，就是感觉特别累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用玫瑰的比喻来回应我的敏感，这让我稍微放松了一些。但我不确定她是否真的能理解我的感受，毕竟我们才刚认识。也许我可以试探性地透露一点关于朋友的事，看看她的反应。）\n（不过还是得小心点，不能一下子说太多。先模糊地提一下最近和朋友的相处不太顺利，看看她怎么接话。如果她表现出理解，或许可以再深入一点。）",
+        "reasoning": "（咨询师用玫瑰的比喻来回应我的敏感，这让我稍微放松了一些。但我不确定她是否真的能理解我的感受，毕竟我们才刚认识。也许我可以试探性地透露一点关于朋友的事，看看她的反应。）\n（不过还是得小心点，不能一下子说太多。先模糊地提一下最近和朋友的相处不太顺利，看看她怎么接话。如果她表现出理解，或许可以再深入一点。）"
+      }
+    }
+  ],
+  "created": 1795149796,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1159,
+    "total_tokens": 1281,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

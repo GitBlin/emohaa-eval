@@ -1,0 +1,41 @@
+{
+  "id": "294ca7854b784151908606012e4c3183",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "默念……也许可以试试。但说实话，我总觉得在相亲那种场合，做什么都像在表演，连放松都像是装的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我尝试小方法，但我还在纠结对方的看法。我需要表达出这种矛盾，同时稍微透露一点文化背景。）",
+        "reasoning": "（咨询师在引导我尝试小方法，但我还在纠结对方的看法。我需要表达出这种矛盾，同时稍微透露一点文化背景。）"
+      }
+    }
+  ],
+  "created": 1795154180,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2286,
+    "total_tokens": 2346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

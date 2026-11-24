@@ -1,0 +1,41 @@
+{
+  "id": "a145dd5a857c4c93903bb405d050198b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实也说不清楚。就是最近总觉得很累，心里乱乱的，好像做什么都不对。但具体是哪里不对，我又讲不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说会陪伴我探索问题，还问我想解决什么...但我其实连自己到底哪里有问题都说不清楚。这种模糊的感觉让我有点不安，不知道该从哪说起。）\n（毕竟我平时就总在自我怀疑，现在面对陌生人更不敢随便暴露脆弱。也许应该先试探性地表达一下混乱的状态，看看对方会怎么反应。说“不知道”和“乱”应该比较安全，既不会太深入又显得真诚。）",
+        "reasoning": "（刚才咨询师说会陪伴我探索问题，还问我想解决什么...但我其实连自己到底哪里有问题都说不清楚。这种模糊的感觉让我有点不安，不知道该从哪说起。）\n（毕竟我平时就总在自我怀疑，现在面对陌生人更不敢随便暴露脆弱。也许应该先试探性地表达一下混乱的状态，看看对方会怎么反应。说“不知道”和“乱”应该比较安全，既不会太深入又显得真诚。）"
+      }
+    }
+  ],
+  "created": 1795148305,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1006,
+    "total_tokens": 1136,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

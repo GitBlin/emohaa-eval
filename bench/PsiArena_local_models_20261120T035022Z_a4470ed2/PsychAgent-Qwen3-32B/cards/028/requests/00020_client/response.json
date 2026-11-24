@@ -1,0 +1,41 @@
+{
+  "id": "7b1c4e90e48c437e9498de2238e7ada8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……像填志愿的时候，我想学设计，他们说要选稳定的，最后就改了。我当时没吵，就是……心里堵了很久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者开始回忆过去，可能想到小时候选兴趣班、大学专业被父母决定的事，情绪有些低落。）",
+        "reasoning": "（来访者开始回忆过去，可能想到小时候选兴趣班、大学专业被父母决定的事，情绪有些低落。）"
+      }
+    }
+  ],
+  "created": 1795147575,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 1740,
+    "total_tokens": 1797,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

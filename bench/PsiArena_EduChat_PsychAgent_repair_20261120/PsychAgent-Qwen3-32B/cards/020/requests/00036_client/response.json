@@ -1,0 +1,41 @@
+{
+  "id": "6a002418c0344f82b293bcfd87472b24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“缓一缓”更自然。担心他不配合也很真实。我们可以先约定：你只负责提出暂停，他是否配合不是你的责任；暂停后你做什么来照顾自己，也可以先想好。比如离开房间喝口水，或给我发消息前先深呼吸三次。你觉得哪个更可行？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……“缓一缓”吧，这个我平时也会说。可我担心我丈夫根本不会配合，到时候又是我一个人尴尬。",
+        "reasoning": "嗯……“缓一缓”吧，这个我平时也会说。可我担心我丈夫根本不会配合，到时候又是我一个人尴尬。"
+      }
+    }
+  ],
+  "created": 1795154147,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 2857,
+    "total_tokens": 2952,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

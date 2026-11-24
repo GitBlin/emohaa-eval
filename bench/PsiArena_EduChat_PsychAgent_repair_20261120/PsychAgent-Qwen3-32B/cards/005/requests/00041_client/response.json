@@ -1,0 +1,41 @@
+{
+  "id": "4276a4da0ca846f8905741c038003b70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，屏幕朝下也算一个小界限。走完一圈回来，如果还是想看，你愿意先等三次呼吸再决定要不要拿手机吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "把手机放远一点……可以，但我会有点不踏实。能不能就放在桌上，屏幕朝下？我试试。",
+        "reasoning": "把手机放远一点……可以，但我会有点不踏实。能不能就放在桌上，屏幕朝下？我试试。"
+      }
+    }
+  ],
+  "created": 1795153642,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2891,
+    "total_tokens": 2950,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

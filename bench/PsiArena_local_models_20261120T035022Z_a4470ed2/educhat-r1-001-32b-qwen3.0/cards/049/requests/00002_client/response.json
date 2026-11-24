@@ -1,0 +1,41 @@
+{
+  "id": "fc92cf6e7fdc4d92bc639ea5bdb25080",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好...嗯，我想先问一下，这种咨询一般是怎么进行的？我不太确定自己该说些什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师刚刚做了自我介绍，看起来挺专业的。但我不确定该不该直接说自己的问题...毕竟第一次见面，谁知道她能不能理解我的处境。我得先试探一下，看看她用什么方法，会不会像以前遇到的那些人一样只会说些空泛的安慰话。）\n（作为从小被教育要理性克制的人，我习惯先观察再行动。而且那些模糊的梦境和情绪波动...我自己都理不清，贸然说出来可能会显得很可笑。不如先问问咨询的具体流程，至少知道该期待什么。）",
+        "reasoning": "（心理咨询师刚刚做了自我介绍，看起来挺专业的。但我不确定该不该直接说自己的问题...毕竟第一次见面，谁知道她能不能理解我的处境。我得先试探一下，看看她用什么方法，会不会像以前遇到的那些人一样只会说些空泛的安慰话。）\n（作为从小被教育要理性克制的人，我习惯先观察再行动。而且那些模糊的梦境和情绪波动...我自己都理不清，贸然说出来可能会显得很可笑。不如先问问咨询的具体流程，至少知道该期待什么。）"
+      }
+    }
+  ],
+  "created": 1795150313,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 869,
+    "total_tokens": 1004,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "36e42e3270604e52b74eac4342380b97",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说我课堂节奏太慢，不够紧凑。（停顿）其实我也知道可以改，可当时就觉得，好像整个人都被否定了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体被指出哪一点不够好……这让我又想起评课那天被当众指出的场景，心里一阵发紧。其实现在回想起来，那些意见本身并不算特别严厉，可当时就是觉得整个人都被否定了。）\n（我好像一直是这样，别人一句普通的评价，到我这里就会变成很大的事。这大概就是我一直不敢太明显表达情绪的原因吧，怕自己反应过度显得矫情。）",
+        "reasoning": "（咨询师在问我具体被指出哪一点不够好……这让我又想起评课那天被当众指出的场景，心里一阵发紧。其实现在回想起来，那些意见本身并不算特别严厉，可当时就是觉得整个人都被否定了。）\n（我好像一直是这样，别人一句普通的评价，到我这里就会变成很大的事。这大概就是我一直不敢太明显表达情绪的原因吧，怕自己反应过度显得矫情。）"
+      }
+    }
+  ],
+  "created": 1795143557,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2245,
+    "total_tokens": 2366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

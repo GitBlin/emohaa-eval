@@ -1,0 +1,30 @@
+- Member cannot open the quilt in front of Jesse's mother because she would ask what it's for and Member would have to say "for our place" when there isn't one.
+- Member rejected giving the quilt to someone else — it is the one thing that is theirs.
+- Member eats lunch at their desk going through a binder of rentals and will not bring the quilt to a coffee shop.
+- Member feels one stitch a day will not get them out of the spare room and that is the point to them.
+- Member dropped a class in June, drives past the campus every morning, saw the lot full on Monday, feels it should have been them in it, and has told no one.
+- Member wanted to say the campus thing to somebody once, not write it down.
+- Member made two double-booking errors on the office schedule this month, told the office manager it was a computer issue, and fears being caught and watched differently at work.
+- Member works the front desk and believes they cannot be the one who cannot keep the calendar straight.
+- Member stopped the session feeling worse than when they started.
+- Jesse's mother asked Jesse how long Member and Jesse are staying; Jesse told Member standing in the doorway with his boots on, Member said "I don't know," then did his mother's dishes, feeling jaw tension and swallowing and sitting on the edge of the couch as if about to get up.
+- Member heard the question as Jesse's mother counting the weeks but cannot ask her what she meant and is deciding her meaning with nothing to go on.
+- Member rejects writing the unspoken thing down because written words sit there and nothing gets said to Jesse.
+- Member rejects naming the tension without confronting Jesse, calling it saying it in a way he can't hear it, and rejects a breath or container because a concrete sentence is needed to say to him tonight or tomorrow.
+- Member's feared outcome is Jesse replying "well what do you want me to do about it," since the deposit isn't there and Member can only say the scary thing with no fix.
+- Member rejects "brave" as a description and objects to the counsellor repeating the same opening sentence each time.
+- Member's sticking point is what comes after Jesse's reply: if he says "fine" and leaves it, Member still has to go second and cannot.
+- Member said the sentence "when your mom asked you that, I went and did the dishes because I didn't know how to sit there" to Jesse, and Jesse said "okay" flatly like she'd told him the weather and offered to talk to his mom.
+- Member cut Jesse off with "no" before he finished offering to talk to his mother, because if Jesse talks to her she will know Member told him and Member could not sit at that table afterward.
+- Member cannot tell whether the "no" was the right thing and reports it felt right for about a second before feeling like she shut the door on the only help Jesse could give.
+- Member does not know what she feels after saying the sentence — it was not a release, and afterward she only thought "that's it?" and wanted Jesse to be bothered by it.
+- Member says Jesse did not understand the fear, only that she was upset, because he went straight to the mother question instead of the weight of "I don't know how to sit there."
+- Member reports two days of silence since Saturday and cannot tell whether nothing happening means she fixed it or ended it, and cannot ask Jesse which.
+- Member was pulled aside by the office manager about a vendor invoice entered twice; it was not Member's entry but Member had signed off on it, and the manager was nice in a careful way that Member finds worse than blame.
+- Member fears the office will find the next thing she signed off on and it will be her rather than the computer, and cannot tell anyone at the office because the job requires she never get the calendar wrong.
+- Member rejects "you're not your mistakes," "surviving is the measure," "just existing," and permission-to-be framing as soft and inapplicable to the room she is actually sleeping in.
+- Member rejects one-task-at-a-time and pre-shift rituals because the tasks are not the problem and nothing anchors her in the parking lot.
+- Member rejects a line to give Jesse's mother such as "it's complicated" because his mother would ask what's complicated and Member would end up explaining their money in her kitchen.
+- Member rejects a glance or "thank you for last week" as a breadcrumb to Jesse because he said okay and went back to his plate and there is nothing to thank him for.
+- Member says waiting and calling it strength is the same as doing the dishes — she goes quiet and everyone gets another ordinary evening.
+- Member ended the session saying it was not what she needed and that at eleven at night she still does not know what to say to her husband.

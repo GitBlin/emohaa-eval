@@ -1,0 +1,41 @@
+{
+  "id": "006d5f07c16d4f8a9fafa4ca08c3f9ab",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想跟他说……别怕，想说话就说吧。可是又觉得说了也没用，那时候的我什么都改变不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我怎么和小时候的自己对话……这让我想起小时候那些被父母打断的瞬间。那时候我其实很想说话，但总被说“别多话”。现在想想，心里有点酸酸的。）\n（我该怎么回答呢？直接说“别怕”好像太简单了，但确实是我最想对那个小孩说的。不过说出来会不会显得我很脆弱……算了，反正都聊到这儿了。）",
+        "reasoning": "（心理咨询师问我怎么和小时候的自己对话……这让我想起小时候那些被父母打断的瞬间。那时候我其实很想说话，但总被说“别多话”。现在想想，心里有点酸酸的。）\n（我该怎么回答呢？直接说“别怕”好像太简单了，但确实是我最想对那个小孩说的。不过说出来会不会显得我很脆弱……算了，反正都聊到这儿了。）"
+      }
+    }
+  ],
+  "created": 1795146783,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2236,
+    "total_tokens": 2350,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f85b0debee9b4a4db73586f44afd55f1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……那我就先信你一次。其实我也说不太清楚，就是最近老是睡不好，心里堵得慌，也不知道为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用“秘密花园的园丁”这种比喻，听起来很温暖，可我还是忍不住想试探一下。毕竟我连自己都理不清，万一说着说着依赖上她了怎么办？这种界限问题不问清楚，我没办法安心开口。）\n（而且她越说安全，我越觉得心里没底。家里那些事压得我喘不过气，可具体是什么我又说不明白。先含糊地提一句最近睡不好吧，看看她怎么接。）",
+        "reasoning": "（咨询师用“秘密花园的园丁”这种比喻，听起来很温暖，可我还是忍不住想试探一下。毕竟我连自己都理不清，万一说着说着依赖上她了怎么办？这种界限问题不问清楚，我没办法安心开口。）\n（而且她越说安全，我越觉得心里没底。家里那些事压得我喘不过气，可具体是什么我又说不明白。先含糊地提一句最近睡不好吧，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1795154046,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1025,
+    "total_tokens": 1153,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

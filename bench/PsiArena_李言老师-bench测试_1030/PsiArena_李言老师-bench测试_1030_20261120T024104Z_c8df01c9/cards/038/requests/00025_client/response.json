@@ -1,0 +1,41 @@
+{
+  "id": "113b50aac6ff4cee9f06a6e7ccc0c296",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就先随便聊聊吧。我最近其实一直绷着，突然让我说最紧张的，我可能反而说不出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有急着推进话题，而是把节奏交给我，这让我稍微放松了一点。可要让我马上说最近最紧张的事，还是有点难开口。）\n（我可能更想先从日常的、不那么重的话题开始，慢慢试探对方是不是真的愿意听。毕竟一下子把心里的事全摊开，对我来说太冒险了。）",
+        "reasoning": "（咨询师没有急着推进话题，而是把节奏交给我，这让我稍微放松了一点。可要让我马上说最近最紧张的事，还是有点难开口。）\n（我可能更想先从日常的、不那么重的话题开始，慢慢试探对方是不是真的愿意听。毕竟一下子把心里的事全摊开，对我来说太冒险了。）"
+      }
+    }
+  ],
+  "created": 1795143555,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3471,
+    "total_tokens": 3569,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

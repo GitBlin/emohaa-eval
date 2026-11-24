@@ -1,0 +1,41 @@
+{
+  "id": "a8be1f7149214e728712e7aca1ac3eec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像都有点吧……说不太清，就是心里空空的，还有点烦。我妈从小就说钱要省着花，可我看着别人有的东西，又觉得自己好像差了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我需要表现来访者在中期阶段逐渐深入，但保持简短、口语化，带点犹豫和情绪。刚才咨询师问的是在那些时刻先出现哪种感觉。我可以说一种混合的感觉，然后联想到家里从小对花钱的态度，揭示文化背景。不要太逻辑化，带点跳跃。",
+        "reasoning": "我需要表现来访者在中期阶段逐渐深入，但保持简短、口语化，带点犹豫和情绪。刚才咨询师问的是在那些时刻先出现哪种感觉。我可以说一种混合的感觉，然后联想到家里从小对花钱的态度，揭示文化背景。不要太逻辑化，带点跳跃。"
+      }
+    }
+  ],
+  "created": 1795147604,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1750,
+    "total_tokens": 1851,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

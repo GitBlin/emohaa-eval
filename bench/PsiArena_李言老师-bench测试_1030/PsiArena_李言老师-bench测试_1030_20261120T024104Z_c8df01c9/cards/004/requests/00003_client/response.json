@@ -1,0 +1,41 @@
+{
+  "id": "e95f2e5c5b3f417b84e0a56b13ce86c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……在操场上，有几个人。他们老是那样，我也不知道为什么。反正一到学校门口，我心里就发慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一次不想去学校时发生了什么……他好像真的想帮我，但我还是有点怕说太多。操场上的事我不敢细说，万一传出去就更糟了。）\n（不过他说不急着讲明白，也许我可以稍微提一点，就一点点。说“他们”应该没关系吧，反正也没说具体是谁。）",
+        "reasoning": "（咨询师问我最近一次不想去学校时发生了什么……他好像真的想帮我，但我还是有点怕说太多。操场上的事我不敢细说，万一传出去就更糟了。）\n（不过他说不急着讲明白，也许我可以稍微提一点，就一点点。说“他们”应该没关系吧，反正也没说具体是谁。）"
+      }
+    }
+  ],
+  "created": 1795142490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1090,
+    "total_tokens": 1188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

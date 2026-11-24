@@ -1,0 +1,41 @@
+{
+  "id": "85e80f6bb572443d9f805305168f48c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你叫我小林吧。不过……我其实还有点犹豫，不知道该说到什么程度，怕说多了不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接回答我关于“敏感”和“适不适合”的担心，反而问起怎么称呼我，这让我有点意外。不过这种被尊重的感觉让我稍微放松了一点，至少他没有急着评判我。也许我可以告诉他一个称呼，但不用太正式，毕竟我们还不太熟。叫“小林”吧，听起来比较自然，也让我觉得距离近一些。）",
+        "reasoning": "（咨询师没有直接回答我关于“敏感”和“适不适合”的担心，反而问起怎么称呼我，这让我有点意外。不过这种被尊重的感觉让我稍微放松了一点，至少他没有急着评判我。也许我可以告诉他一个称呼，但不用太正式，毕竟我们还不太熟。叫“小林”吧，听起来比较自然，也让我觉得距离近一些。）"
+      }
+    }
+  ],
+  "created": 1795155158,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1293,
+    "total_tokens": 1398,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

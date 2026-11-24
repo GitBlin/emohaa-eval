@@ -1,0 +1,41 @@
+{
+  "id": "f26e0e422ded495d96d601a7b7373f53",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……有时候在家里待着，突然就很想出去透口气。我也不知道这算不算什么大问题。你们咨询师平时会不会也有这种时候？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我说一个最近的片段……其实我脑子里很乱，不太想直接说母亲的事。也许先说说那种闷的感觉，或者问问咨询之外的事，看看他会不会像朋友那样回应。我需要试探一下界限，不能太快把心里话都倒出来。）\n（毕竟我是第一次来，对咨询师还不信任。如果直接说母亲病床前的事，我怕自己控制不住情绪。不如先含糊地提一下“家里”，再问他会不会也有这种时候，看看他的反应。）",
+        "reasoning": "（咨询师让我说一个最近的片段……其实我脑子里很乱，不太想直接说母亲的事。也许先说说那种闷的感觉，或者问问咨询之外的事，看看他会不会像朋友那样回应。我需要试探一下界限，不能太快把心里话都倒出来。）\n（毕竟我是第一次来，对咨询师还不信任。如果直接说母亲病床前的事，我怕自己控制不住情绪。不如先含糊地提一下“家里”，再问他会不会也有这种时候，看看他的反应。）"
+      }
+    }
+  ],
+  "created": 1795154180,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1168,
+    "total_tokens": 1305,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

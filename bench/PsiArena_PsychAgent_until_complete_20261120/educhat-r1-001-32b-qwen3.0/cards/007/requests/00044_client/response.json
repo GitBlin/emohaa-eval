@@ -1,0 +1,41 @@
+{
+  "id": "1fd9d612fe3d4f6c88c4d56cdaedd6e3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "模拟对话……现在吗？我有点紧张，不过试试也行。就是希望到时候别太刻意，显得我好像在背台词。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师建议我提前准备和模拟对话，这让我稍微踏实了点。毕竟我确实容易紧张，写下来练习应该能帮到我。不过我还是有点担心自己表现得太刻意，反而让室友觉得奇怪。）\n（也许可以试试看，至少比临场慌乱要好。但我不想显得太正式，搞得像在谈判似的。希望练习的时候能自然一点，别让室友觉得我是在背台词。）",
+        "reasoning": "（心理咨询师建议我提前准备和模拟对话，这让我稍微踏实了点。毕竟我确实容易紧张，写下来练习应该能帮到我。不过我还是有点担心自己表现得太刻意，反而让室友觉得奇怪。）\n（也许可以试试看，至少比临场慌乱要好。但我不想显得太正式，搞得像在谈判似的。希望练习的时候能自然一点，别让室友觉得我是在背台词。）"
+      }
+    }
+  ],
+  "created": 1795153661,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2686,
+    "total_tokens": 2802,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

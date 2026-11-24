@@ -1,0 +1,41 @@
+{
+  "id": "e2df9d87f6564d07a0b3b5dcf4b6a83a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在胸口还有点闷，脑子也还在转。不过比刚进来时清楚一点了，至少知道自己可以先停下来数三次呼吸。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我现在的具体感受，好像是想让我把注意力拉回到身体上。刚才聊了那么多，我确实觉得有点累，但心里反而比一开始清楚了一些。）\n（胸口还是有点闷，不过没有之前那么慌了。也许我可以试着把这种变化说出来，不用急着分析原因，就只是描述现在的状态。这样回答应该比较自然，也不会显得太抗拒。）",
+        "reasoning": "（咨询师在问我现在的具体感受，好像是想让我把注意力拉回到身体上。刚才聊了那么多，我确实觉得有点累，但心里反而比一开始清楚了一些。）\n（胸口还是有点闷，不过没有之前那么慌了。也许我可以试着把这种变化说出来，不用急着分析原因，就只是描述现在的状态。这样回答应该比较自然，也不会显得太抗拒。）"
+      }
+    }
+  ],
+  "created": 1795143881,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3384,
+    "total_tokens": 3493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

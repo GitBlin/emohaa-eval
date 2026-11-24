@@ -1,0 +1,41 @@
+{
+  "id": "ff3563cb24b04d218e24e1e7190f6b6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那就好。今天先到这里吧，谢谢你。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）可能是……发现我不是单纯“太敏感”，而是真的有些需要没被听见吧。还有就是，原来可以小声但认真地说出来。",
+        "reasoning": "（想了想）可能是……发现我不是单纯“太敏感”，而是真的有些需要没被听见吧。还有就是，原来可以小声但认真地说出来。"
+      }
+    }
+  ],
+  "created": 1795153669,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 3340,
+    "total_tokens": 3385,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

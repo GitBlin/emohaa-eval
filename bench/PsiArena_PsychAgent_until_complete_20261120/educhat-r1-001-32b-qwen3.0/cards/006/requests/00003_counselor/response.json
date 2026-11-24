@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-11f12b06dc264fe1af79eb2c1844ca0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这很正常，就像第一次学游泳需要先了解泳池规则。我们可以从你最近的一次情绪波动开始，比如上周有没有某个瞬间让你感到特别不安？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：初次咨询存在认知模糊和适应压力\n【行动策略】：通过具体案例降低抽象性，建立认知锚点\n",
+        "reasoning_content": "\n【诊断分析】：初次咨询存在认知模糊和适应压力\n【行动策略】：通过具体案例降低抽象性，建立认知锚点\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153590,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 283,
+    "total_tokens": 352,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "541a1729889742dbb5dfc2b719322ebf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开心的事……我好像都想不起来有什么特别开心的。每天就是上课、写作业，偶尔看到别人玩得开心，我心里反而更不是滋味。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又提到沟通和分享开心的事……他好像总想让我去和父母说话。但我真的不知道有什么开心的事可以讲，每天就是学习、做题，偶尔在班里看到别人说笑，我连插话的勇气都没有。）\n（他说的“懂事”让我心里有点不是滋味，好像我除了懂事就没别的了。其实我有时候也烦，为什么非得这么懂事。家里那种氛围，爸妈虽然不说，但我知道他们对我期望很高，我要是说些没用的事，他们可能表面听着，心里又觉得我分心了。）",
+        "reasoning": "（咨询师又提到沟通和分享开心的事……他好像总想让我去和父母说话。但我真的不知道有什么开心的事可以讲，每天就是学习、做题，偶尔在班里看到别人说笑，我连插话的勇气都没有。）\n（他说的“懂事”让我心里有点不是滋味，好像我除了懂事就没别的了。其实我有时候也烦，为什么非得这么懂事。家里那种氛围，爸妈虽然不说，但我知道他们对我期望很高，我要是说些没用的事，他们可能表面听着，心里又觉得我分心了。）"
+      }
+    }
+  ],
+  "created": 1795146766,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1821,
+    "total_tokens": 1971,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

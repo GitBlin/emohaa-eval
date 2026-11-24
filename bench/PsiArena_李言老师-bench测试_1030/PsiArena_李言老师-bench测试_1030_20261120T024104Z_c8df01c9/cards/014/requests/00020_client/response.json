@@ -1,0 +1,41 @@
+{
+  "id": "b42dfb8fb3744b8997a4cae2ec5396f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……这句听着还是有点像在问他的心事。我可能更想从家里的小事说起，比如“垃圾我去扔，你还要不要带点什么下去？”这样会不会更自然？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议用轻松的开场白，还举了个例子。可这句话听起来还是有点像在探他的情绪，我怕他立刻竖起防备，觉得我又在绕着弯子问工作。我得让咨询师知道，我更想找个完全不带压力的由头，比如从家里的小事切入，先让他愿意接话。）\n（而且语气上也得再缓和些，不能让他觉得我在引导他谈沉重的话题。也许可以从他平时顺手会做的事说起，这样显得自然，我也没那么紧张。）",
+        "reasoning": "（咨询师建议用轻松的开场白，还举了个例子。可这句话听起来还是有点像在探他的情绪，我怕他立刻竖起防备，觉得我又在绕着弯子问工作。我得让咨询师知道，我更想找个完全不带压力的由头，比如从家里的小事切入，先让他愿意接话。）\n（而且语气上也得再缓和些，不能让他觉得我在引导他谈沉重的话题。也许可以从他平时顺手会做的事说起，这样显得自然，我也没那么紧张。）"
+      }
+    }
+  ],
+  "created": 1795142648,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2864,
+    "total_tokens": 3009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

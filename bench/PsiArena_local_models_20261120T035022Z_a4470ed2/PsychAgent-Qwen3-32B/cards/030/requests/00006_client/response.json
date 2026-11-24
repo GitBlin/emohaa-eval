@@ -1,0 +1,41 @@
+{
+  "id": "8521800e275a4176b3c439abbd2f1f9b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样的话……我稍微放心一点。其实我也说不清自己为什么难受，就是和对象见面时常常没话说，分开后又忍不住乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们刚回应了保密和记录问题。现在第3轮要求模糊描述感受和表面困扰，不深入。可以表达不确定、说不清。也可以试探界限？规则说每轮只针对一个方面，这轮先模糊描述。保持简短2-3句。",
+        "reasoning": "我们刚回应了保密和记录问题。现在第3轮要求模糊描述感受和表面困扰，不深入。可以表达不确定、说不清。也可以试探界限？规则说每轮只针对一个方面，这轮先模糊描述。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795147600,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1170,
+    "total_tokens": 1259,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

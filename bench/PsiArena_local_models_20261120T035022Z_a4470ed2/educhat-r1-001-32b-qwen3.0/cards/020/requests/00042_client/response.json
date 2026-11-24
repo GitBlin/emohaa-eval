@@ -1,0 +1,41 @@
+{
+  "id": "8b39e86492404a69970144fbbfa82207",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担忧挺多的。怕丈夫不同意，怕公婆觉得我不孝，也怕别人说闲话。可再这样下去，我真的撑不住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我对分开住的担忧，这让我想到很多现实问题。分开住听起来简单，但丈夫会同意吗？公婆会不会觉得我不孝顺？这些念头让我心里发紧。）\n（我其实很怕丈夫觉得我在破坏家庭和睦，也怕公婆到处说我的不是。但另一方面，再这样下去我真的撑不住了，总得试试看。）",
+        "reasoning": "（咨询师问我对分开住的担忧，这让我想到很多现实问题。分开住听起来简单，但丈夫会同意吗？公婆会不会觉得我不孝顺？这些念头让我心里发紧。）\n（我其实很怕丈夫觉得我在破坏家庭和睦，也怕公婆到处说我的不是。但另一方面，再这样下去我真的撑不住了，总得试试看。）"
+      }
+    }
+  ],
+  "created": 1795148310,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2627,
+    "total_tokens": 2737,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

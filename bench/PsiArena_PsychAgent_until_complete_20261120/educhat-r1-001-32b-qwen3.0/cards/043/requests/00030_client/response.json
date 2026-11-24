@@ -1,0 +1,41 @@
+{
+  "id": "a6ee1db17dbb476fb130513e042cd690",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "表达情绪……这个我还真没想过。我画画的时候就是随便涂，有时候画着画着心情会好一点。不过画得不好，我也不敢给别人看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到用画画表达情绪，这让我有点意外。我从来没想过可以这样，平时画画都是偷偷摸摸的，而且画得不好还会被妈妈批评。但她说得好像有点道理，那些乱涂乱画的时候确实感觉心里没那么堵了。）\n（不过我还是有点犹豫，因为总觉得画画是浪费时间的事。而且我画得也不怎么样，万一被看到又要被说了。但至少在这里说出来，好像没那么难堪。）",
+        "reasoning": "（咨询师提到用画画表达情绪，这让我有点意外。我从来没想过可以这样，平时画画都是偷偷摸摸的，而且画得不好还会被妈妈批评。但她说得好像有点道理，那些乱涂乱画的时候确实感觉心里没那么堵了。）\n（不过我还是有点犹豫，因为总觉得画画是浪费时间的事。而且我画得也不怎么样，万一被看到又要被说了。但至少在这里说出来，好像没那么难堪。）"
+      }
+    }
+  ],
+  "created": 1795155181,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2184,
+    "total_tokens": 2315,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

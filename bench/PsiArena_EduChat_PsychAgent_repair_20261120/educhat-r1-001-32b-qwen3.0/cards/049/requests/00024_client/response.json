@@ -1,0 +1,41 @@
+{
+  "id": "a1ff069da0154d6895297c28cbd432fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（呼吸变浅）胸口……有点闷。其实我不太想聊这个梦，一说到我爸生病那会儿，我就觉得喘不上气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是身体感受，可我刚才说的其实是那个梦本身。他好像跳过了我提到父亲生病的那个部分，直接问身体反应。这让我有点不舒服，不知道该不该继续说下去。）\n（我本来就不太愿意碰这些回忆，现在被追问身体感受，感觉更想缩回去了。也许我该稍微表达一下这种抗拒，让他知道我不想这么快被推着走。）",
+        "reasoning": "（咨询师问的是身体感受，可我刚才说的其实是那个梦本身。他好像跳过了我提到父亲生病的那个部分，直接问身体反应。这让我有点不舒服，不知道该不该继续说下去。）\n（我本来就不太愿意碰这些回忆，现在被追问身体感受，感觉更想缩回去了。也许我该稍微表达一下这种抗拒，让他知道我不想这么快被推着走。）"
+      }
+    }
+  ],
+  "created": 1795155362,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1840,
+    "total_tokens": 1956,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Set AXONHUB_API_KEY before running
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 85, in <module>
+    raise SystemExit(main())
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 26, in main
+    from mindeval import arc
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/__init__.py", line 6, in <module>
+    __version__ = version("mindeval")
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 996, in version
+    return distribution(distribution_name).version
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 969, in distribution
+    return Distribution.from_name(distribution_name)
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 548, in from_name
+    raise PackageNotFoundError(name)
+importlib.metadata.PackageNotFoundError: No package metadata was found for mindeval
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+mindeval: preflight: the counselor did not answer: counselor (openai/cpsycounx) failed after 1 attempts: ValueError: model output cut off (finish_reason=length) with no closed reasoning trace

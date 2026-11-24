@@ -1,0 +1,41 @@
+{
+  "id": "6d5a338cae024878a2a38c965d058be9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……同事说了一句“没有人能和她交不来”，我听到之后有点懵。不知道她到底什么意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方问我具体场景，但我其实不太想这么快讲细节。先模糊地说说同事那句话吧，看看咨询师会怎么反应。）",
+        "reasoning": "（对方问我具体场景，但我其实不太想这么快讲细节。先模糊地说说同事那句话吧，看看咨询师会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795153437,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 1109,
+    "total_tokens": 1163,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dde5b98bc982468a822a9ef18cae88eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……（停顿）最困扰的，一是跟婆婆，每次见面都紧张，怕再吵起来；二是我自己，明知道憋着不好，可就是改不了，一遇到事又缩回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿，理了理思路）最困扰的……一是跟婆婆，每次见面都紧张，怕再吵；二是我自己，明知道憋着不好，可就是改不了，一遇到事又缩回去了。",
+        "reasoning": "（停顿，理了理思路）最困扰的……一是跟婆婆，每次见面都紧张，怕再吵；二是我自己，明知道憋着不好，可就是改不了，一遇到事又缩回去了。"
+      }
+    }
+  ],
+  "created": 1795154285,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2545,
+    "total_tokens": 2639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

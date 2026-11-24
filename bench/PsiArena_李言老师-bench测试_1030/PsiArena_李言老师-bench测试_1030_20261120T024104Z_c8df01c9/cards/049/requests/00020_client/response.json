@@ -1,0 +1,41 @@
+{
+  "id": "51477e5d3c4b4e4b990520f761f79c94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "60秒……听起来比完全停下来容易一点。我可以在办公室先试，但可能得找个没人注意的地方，比如洗手间。这样会不会有点刻意？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我尝试60秒的停顿，这听起来比完全停下来要容易接受一些。我确实怕一停就失控，但限定时间的话……也许可以试试。不过还是担心在办公室做这个会不会显得奇怪。）\n（我想到可以躲到洗手间去，这样至少没人看见。虽然有点麻烦，但总比硬撑着强。我需要一个具体的计划，比如每天试几次，这样心里才有底。）",
+        "reasoning": "（咨询师建议我尝试60秒的停顿，这听起来比完全停下来要容易接受一些。我确实怕一停就失控，但限定时间的话……也许可以试试。不过还是担心在办公室做这个会不会显得奇怪。）\n（我想到可以躲到洗手间去，这样至少没人看见。虽然有点麻烦，但总比硬撑着强。我需要一个具体的计划，比如每天试几次，这样心里才有底。）"
+      }
+    }
+  ],
+  "created": 1795143842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2860,
+    "total_tokens": 2985,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

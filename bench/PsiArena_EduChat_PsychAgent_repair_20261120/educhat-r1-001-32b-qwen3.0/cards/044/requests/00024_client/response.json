@@ -1,0 +1,41 @@
+{
+  "id": "3a0ea54610144dc9b0b708a3dfc472f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "门铃……（想了想）可能什么声音都没有吧。就像我在家想说点什么，他们总说“别想那么多，好好学习就行”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在问这种想象的问题...门铃的声音。她好像总想让我用比喻来描述感受，但说实话我根本没想过这些。不过她问得这么具体，可能是在帮我找一些能抓住的东西吧。）\n（说到门铃，我突然想到每次想跟爸妈说心里话的时候，他们总是用别的话题岔开。也许我真正希望的是他们能停下来听我说？但直接说这个好像太矫情了，还是简单点回答吧。）",
+        "reasoning": "（咨询师又在问这种想象的问题...门铃的声音。她好像总想让我用比喻来描述感受，但说实话我根本没想过这些。不过她问得这么具体，可能是在帮我找一些能抓住的东西吧。）\n（说到门铃，我突然想到每次想跟爸妈说心里话的时候，他们总是用别的话题岔开。也许我真正希望的是他们能停下来听我说？但直接说这个好像太矫情了，还是简单点回答吧。）"
+      }
+    }
+  ],
+  "created": 1795155207,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1843,
+    "total_tokens": 1972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

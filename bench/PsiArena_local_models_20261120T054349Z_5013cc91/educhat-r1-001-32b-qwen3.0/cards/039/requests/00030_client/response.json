@@ -1,0 +1,41 @@
+{
+  "id": "57f255599f4d4db899001052186630a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点发紧）我怕……一旦说出来，我在他心里的样子就定了。以后不管我做什么，他都会想起那件事。（停顿）而且，他家里人……我还没见过，但听他说，也是挺传统的那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怕的具体是什么……这个问题让我心里一紧。其实刚才说到“自己怎么看自己”的时候，我就有点说不下去了。现在被这么直接地问，我反而不知道该从哪说起。）\n（我确实怕，怕的不是他一个人的反应。如果只是他，我可能还能赌一把。可我脑子里全是爸妈知道后会怎么看我，那种失望的眼神我从小就很怕。还有他家里那些亲戚，逢年过节坐在一起的那种氛围……我好像还没开口就已经被审判了。）",
+        "reasoning": "（咨询师问我怕的具体是什么……这个问题让我心里一紧。其实刚才说到“自己怎么看自己”的时候，我就有点说不下去了。现在被这么直接地问，我反而不知道该从哪说起。）\n（我确实怕，怕的不是他一个人的反应。如果只是他，我可能还能赌一把。可我脑子里全是爸妈知道后会怎么看我，那种失望的眼神我从小就很怕。还有他家里那些亲戚，逢年过节坐在一起的那种氛围……我好像还没开口就已经被审判了。）"
+      }
+    }
+  ],
+  "created": 1795155039,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2275,
+    "total_tokens": 2429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

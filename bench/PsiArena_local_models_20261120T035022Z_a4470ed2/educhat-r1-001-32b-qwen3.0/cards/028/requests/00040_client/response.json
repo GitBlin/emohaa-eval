@@ -1,0 +1,41 @@
+{
+  "id": "304f46630b0c4b3cb2ef7dddac5a8365",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻笑了一下）说给自己听倒是可以。点奶茶的时候，我经常犹豫半天，最后还是点他们觉得健康的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议从小事开始练习诚实，这让我想到平时连点奶茶都要犹豫很久。其实我内心知道这样不对，但就是害怕表达自己的偏好会引发冲突。）\n（或许可以先从这种无关紧要的选择开始，至少不会引起父母太大的反应。不过光是想象要说出“我想喝冰奶茶”这句话，就已经让我感到紧张了。）",
+        "reasoning": "（咨询师建议从小事开始练习诚实，这让我想到平时连点奶茶都要犹豫很久。其实我内心知道这样不对，但就是害怕表达自己的偏好会引发冲突。）\n（或许可以先从这种无关紧要的选择开始，至少不会引起父母太大的反应。不过光是想象要说出“我想喝冰奶茶”这句话，就已经让我感到紧张了。）"
+      }
+    }
+  ],
+  "created": 1795148910,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2614,
+    "total_tokens": 2716,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

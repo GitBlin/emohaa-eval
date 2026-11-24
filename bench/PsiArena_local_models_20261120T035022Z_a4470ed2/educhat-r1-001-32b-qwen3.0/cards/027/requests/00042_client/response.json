@@ -1,0 +1,41 @@
+{
+  "id": "b6206974cda54e7f8649f7dd0bdf3886",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "暂停手势？这倒挺新鲜的。我从来没想过还能这么干。你示范一下？我想看看具体怎么用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了用暂停手势来应对情绪，这让我觉得有点新鲜。以前从没想过还能这样，但心里又有点怀疑，真的能管用吗？毕竟我妈那种说话方式，我光是听着就难受。）\n（不过既然都聊到这儿了，试试也无妨。至少有个具体的东西可以抓一下，总比每次都被情绪带着走要好。而且咨询师愿意示范，说明她是认真在帮我想办法。）",
+        "reasoning": "（咨询师提到了用暂停手势来应对情绪，这让我觉得有点新鲜。以前从没想过还能这样，但心里又有点怀疑，真的能管用吗？毕竟我妈那种说话方式，我光是听着就难受。）\n（不过既然都聊到这儿了，试试也无妨。至少有个具体的东西可以抓一下，总比每次都被情绪带着走要好。而且咨询师愿意示范，说明她是认真在帮我想办法。）"
+      }
+    }
+  ],
+  "created": 1795148900,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2717,
+    "total_tokens": 2836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "67e6affb884948e9a70801f46d3fe35b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那这十分钟里，你想用来做什么？只是感受，还是写下点什么？<第20轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……晚上吧，洗完澡之后。那时候家里安静，没人打扰。",
+        "reasoning": "嗯……晚上吧，洗完澡之后。那时候家里安静，没人打扰。"
+      }
+    }
+  ],
+  "created": 1795157413,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2992,
+    "total_tokens": 3058,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 17,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d3e5255590bd4e1280ae7b68592d6675",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我今年17，还在读高中。生活……就那样吧，每天上学、写作业，没什么特别的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先简单介绍自己，这让我稍微放松了一点，至少不用马上说那些难受的事。但提到生活状态，我又有点紧张，不知道该说到什么程度。也许只说年龄和身份就够了，别的不想多讲。）\n（我有点担心说太多会被评判，或者被追问。先给个最表面的信息吧，看看咨询师会怎么反应。这样也安全一点。）",
+        "reasoning": "（咨询师让我先简单介绍自己，这让我稍微放松了一点，至少不用马上说那些难受的事。但提到生活状态，我又有点紧张，不知道该说到什么程度。也许只说年龄和身份就够了，别的不想多讲。）\n（我有点担心说太多会被评判，或者被追问。先给个最表面的信息吧，看看咨询师会怎么反应。这样也安全一点。）"
+      }
+    }
+  ],
+  "created": 1795153437,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1103,
+    "total_tokens": 1211,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

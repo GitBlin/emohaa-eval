@@ -1,0 +1,41 @@
+{
+  "id": "bab4cc1c40284d748740780bc2c06ad1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我试试。比如“我有点紧张，希望你能看到我的努力，不只是结果”，然后……请求的话，可能是“能不能具体告诉我哪里可以改”。这样会不会太直接了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "(第18轮后期，需探索具体行动计划。咨询师让我练习“感受—需要—请求”的表达。我有点不习惯，但也想试试。可以简短说一句，带点犹豫和自嘲。)\n（先表达感受：有点紧张/不确定；需要：希望被看见努力而不是只被评价结果；请求：希望对方具体说哪里可以改进。不要太多，2-3句。）",
+        "reasoning": "(第18轮后期，需探索具体行动计划。咨询师让我练习“感受—需要—请求”的表达。我有点不习惯，但也想试试。可以简短说一句，带点犹豫和自嘲。)\n（先表达感受：有点紧张/不确定；需要：希望被看见努力而不是只被评价结果；请求：希望对方具体说哪里可以改进。不要太多，2-3句。）"
+      }
+    }
+  ],
+  "created": 1795155167,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2790,
+    "total_tokens": 2918,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

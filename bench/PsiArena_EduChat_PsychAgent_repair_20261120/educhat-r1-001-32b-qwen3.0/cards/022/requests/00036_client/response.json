@@ -1,0 +1,41 @@
+{
+  "id": "40900bca6ef64930bcb2eff699c514d8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "您好像又问了一遍同样的话……（有点无奈）我是说，读给她听我还没准备好，先写下来自己看看，对我来说已经不容易了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像一直在重复同一个建议，是不是没在认真听我说？我明明已经说了读给她听还没准备好，他还在问同样的话，让我有点烦躁。也许我该把话题拉回我自己能做的事上，别老盯着读信这一步。）\n（写下来自己看，对我来说已经是个不小的进步了。我得让他明白，我需要的是先处理自己那部分，而不是急着去面对我妈。这样说出来，应该也能让他知道我的节奏。）",
+        "reasoning": "（咨询师好像一直在重复同一个建议，是不是没在认真听我说？我明明已经说了读给她听还没准备好，他还在问同样的话，让我有点烦躁。也许我该把话题拉回我自己能做的事上，别老盯着读信这一步。）\n（写下来自己看，对我来说已经是个不小的进步了。我得让他明白，我需要的是先处理自己那部分，而不是急着去面对我妈。这样说出来，应该也能让他知道我的节奏。）"
+      }
+    }
+  ],
+  "created": 1795154285,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2451,
+    "total_tokens": 2581,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5aa144a8b730424d801056cda2ca881e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打招呼……感觉很难。课间他们都在聊游戏或者作业，我插不进去。也许我可以先问个作业？又怕人家觉得我烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先跟同学打个招呼……这个想法让我有点紧张。我想到课间的时候，大家好像都在忙自己的事，我要是突然开口会不会很奇怪。而且我爸妈总说别把时间浪费在闲聊上，虽然我知道他们是为我好，但心里还是觉得别扭。）\n（不过咨询师说得对，也许可以从最简单的事情开始。比如问作业什么的，这样至少有个理由。但我还是担心对方会觉得我烦，或者觉得我平时不说话突然搭话很奇怪。这种担心好像一直跟着我。）",
+        "reasoning": "（咨询师建议我先跟同学打个招呼……这个想法让我有点紧张。我想到课间的时候，大家好像都在忙自己的事，我要是突然开口会不会很奇怪。而且我爸妈总说别把时间浪费在闲聊上，虽然我知道他们是为我好，但心里还是觉得别扭。）\n（不过咨询师说得对，也许可以从最简单的事情开始。比如问作业什么的，这样至少有个理由。但我还是担心对方会觉得我烦，或者觉得我平时不说话突然搭话很奇怪。这种担心好像一直跟着我。）"
+      }
+    }
+  ],
+  "created": 1795146267,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1882,
+    "total_tokens": 2026,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ba36fd872b8b481aa29a882fc9857a91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我试试看。如果她说“没什么”，我就先不勉强，可以吗？我有点怕被拒绝。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我从分享感受开始和同桌沟通，这让我稍微有了点方向，但心里还是没底。我担心自己说不好，也怕对方不回应，那种尴尬和失落的感觉让我有点退缩。）\n（不过咨询师说“我们慢慢深入”，这让我觉得不是非要一次就成功，可以给自己留点余地。我想试试，但得先准备好应对最坏的情况，这样心里才踏实点。）",
+        "reasoning": "（咨询师建议我从分享感受开始和同桌沟通，这让我稍微有了点方向，但心里还是没底。我担心自己说不好，也怕对方不回应，那种尴尬和失落的感觉让我有点退缩。）\n（不过咨询师说“我们慢慢深入”，这让我觉得不是非要一次就成功，可以给自己留点余地。我想试试，但得先准备好应对最坏的情况，这样心里才踏实点。）"
+      }
+    }
+  ],
+  "created": 1795150082,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2789,
+    "total_tokens": 2905,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e1ac664d6dc8469f9d067e53bbdf9bc5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被理解？嗯……好像很久没有过了。上个月吧，有个同事私下跟我抱怨了一句，说这摊子事太脏。就那一瞬间，我觉得还有人跟我一样，可也就那一句话，说完大家又都装没事人一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师说我“了不起”，这让我有点意外，也有点不自在。我其实只是随口问问，没想到会被这样评价。他好像很自然地就接住了我的话，没有敷衍，也没有说教。）\n（他问最近一次被理解的时刻……这问题让我心里一动。我想起上个月在办公室，那个刚来的小李看到报销单有问题，私下跟我嘟囔了一句“这不对劲吧”。就这么一句，我当时就觉得，原来不止我一个人这么想。可这种感觉太短暂了，说完也就过去了，谁也没再提。）",
+        "reasoning": "（心理咨询师说我“了不起”，这让我有点意外，也有点不自在。我其实只是随口问问，没想到会被这样评价。他好像很自然地就接住了我的话，没有敷衍，也没有说教。）\n（他问最近一次被理解的时刻……这问题让我心里一动。我想起上个月在办公室，那个刚来的小李看到报销单有问题，私下跟我嘟囔了一句“这不对劲吧”。就这么一句，我当时就觉得，原来不止我一个人这么想。可这种感觉太短暂了，说完也就过去了，谁也没再提。）"
+      }
+    }
+  ],
+  "created": 1795146986,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 166,
+    "prompt_tokens": 1438,
+    "total_tokens": 1604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

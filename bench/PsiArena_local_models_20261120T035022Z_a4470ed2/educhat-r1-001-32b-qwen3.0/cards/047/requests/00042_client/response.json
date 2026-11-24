@@ -1,0 +1,41 @@
+{
+  "id": "f913aa67ee884763ad32adf6991bb748",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……（稍微放松了些）那我先试试每天一句话。如果没做到，是不是也没关系？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我降低写日记的门槛，说可以从简单开始。这让我稍微松了口气，但心里还是有点没底。毕竟我确实容易半途而废，这种自我怀疑不是一下子就能消除的。）\n（不过既然咨询师这么说了，我也可以试着接受这个建议。但我想知道如果没做到会怎样，会不会让咨询师失望。这种担心可能也跟我平时太在意别人看法有关。）",
+        "reasoning": "（咨询师在帮我降低写日记的门槛，说可以从简单开始。这让我稍微松了口气，但心里还是有点没底。毕竟我确实容易半途而废，这种自我怀疑不是一下子就能消除的。）\n（不过既然咨询师这么说了，我也可以试着接受这个建议。但我想知道如果没做到会怎样，会不会让咨询师失望。这种担心可能也跟我平时太在意别人看法有关。）"
+      }
+    }
+  ],
+  "created": 1795150267,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2570,
+    "total_tokens": 2681,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

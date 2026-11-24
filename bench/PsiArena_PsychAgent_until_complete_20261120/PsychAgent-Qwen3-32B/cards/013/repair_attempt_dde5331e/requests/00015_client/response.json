@@ -1,0 +1,41 @@
+{
+  "id": "42e51247937f4ed699269f36457fb04e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句话留了余地，也守住了你的节奏。最后我们收个尾：回顾今天的谈话，你带走的一个觉察和一个小行动分别是什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "比如“我还在想，想清楚了会告诉你们”。这样说，既没顶嘴，也没把自己逼死。",
+        "reasoning": "比如“我还在想，想清楚了会告诉你们”。这样说，既没顶嘴，也没把自己逼死。"
+      }
+    }
+  ],
+  "created": 1795157429,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3477,
+    "total_tokens": 3534,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cbe21717161848f6957e9c53f237f4b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更想先弄清楚自己为什么会那么不安吧。他的原因我猜来猜去也没用，反而越想越乱。也许我该先练习把想说的话写下来，不急着发出去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我区分“他的原因”和“我的不安”，这让我觉得思路清晰了一点。我确实更想先弄明白自己为什么这么容易被沉默影响，而不是一直追着他要答案。）\n（也许我可以试着把想对他说的话写下来，这样既不会在他没回时冲动补消息，也能整理自己的情绪。但真要做的时候，我又有点担心自己坚持不了，或者写了更想发给他。）",
+        "reasoning": "（咨询师在帮我区分“他的原因”和“我的不安”，这让我觉得思路清晰了一点。我确实更想先弄明白自己为什么这么容易被沉默影响，而不是一直追着他要答案。）\n（也许我可以试着把想对他说的话写下来，这样既不会在他没回时冲动补消息，也能整理自己的情绪。但真要做的时候，我又有点担心自己坚持不了，或者写了更想发给他。）"
+      }
+    }
+  ],
+  "created": 1795143277,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2578,
+    "total_tokens": 2710,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

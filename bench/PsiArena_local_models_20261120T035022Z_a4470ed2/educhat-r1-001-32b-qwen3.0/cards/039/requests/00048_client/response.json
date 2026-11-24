@@ -1,0 +1,41 @@
+{
+  "id": "123ce1e962874c38a3d0cd2374d83139",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有点紧张地搓了搓手）现在吗？我……好吧。（停了几秒，小声地）那个……有件事我一直想跟你说，你别急着下结论，听我说完行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说要一起练习开口，这让我有点紧张，但心里也明白这一步迟早要走。我不想再一直拖着这件事了，每次想到要坦白就害怕，可越拖越难受。）\n（也许可以先试着说一句开头，不用一下子把所有事都倒出来。先看看自己能不能把话说出口，哪怕只是“有件事想跟你说”这种开头也好。）",
+        "reasoning": "（咨询师说要一起练习开口，这让我有点紧张，但心里也明白这一步迟早要走。我不想再一直拖着这件事了，每次想到要坦白就害怕，可越拖越难受。）\n（也许可以先试着说一句开头，不用一下子把所有事都倒出来。先看看自己能不能把话说出口，哪怕只是“有件事想跟你说”这种开头也好。）"
+      }
+    }
+  ],
+  "created": 1795149870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 3020,
+    "total_tokens": 3141,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

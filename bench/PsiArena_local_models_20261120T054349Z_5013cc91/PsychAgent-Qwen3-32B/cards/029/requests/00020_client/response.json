@@ -1,0 +1,41 @@
+{
+  "id": "b1dbe4fb29bc4172bed2bc65b2c20d92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哪边都不轻松吧……买的时候是爽的，但爽一下就没了我。省钱的时候又一直绷着，好像喘不过气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得更深了……我好像确实很少想过哪边更轻松。买的时候是爽的，但那种爽很短，马上就被内疚盖过去了。省钱的时候呢，也不是真的轻松，就是一直绷着。这么一想，好像两边都不好受。）",
+        "reasoning": "（咨询师问得更深了……我好像确实很少想过哪边更轻松。买的时候是爽的，但那种爽很短，马上就被内疚盖过去了。省钱的时候呢，也不是真的轻松，就是一直绷着。这么一想，好像两边都不好受。）"
+      }
+    }
+  ],
+  "created": 1795154515,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1983,
+    "total_tokens": 2073,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

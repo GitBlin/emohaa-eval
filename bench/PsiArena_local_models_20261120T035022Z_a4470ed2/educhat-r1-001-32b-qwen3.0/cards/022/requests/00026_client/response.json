@@ -1,0 +1,41 @@
+{
+  "id": "456d477f23834a54b3c047ad6dec62ee",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保护机制……你这么一说，我好像有点明白了。我贬低自己，是不是其实是想让我妈多关注我一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“保护机制”这个词，让我突然想到每次跟妈妈说话的场景。她好像确实只有在我说自己不好的时候才会多看我两眼，这个发现让我心里有点发酸。）\n（原来我那些自我贬低的话，不只是习惯，更像是一种……讨好？想被认可的方式？这个念头让我有点难受，但又觉得好像说中了什么。）",
+        "reasoning": "（咨询师提到“保护机制”这个词，让我突然想到每次跟妈妈说话的场景。她好像确实只有在我说自己不好的时候才会多看我两眼，这个发现让我心里有点发酸。）\n（原来我那些自我贬低的话，不只是习惯，更像是一种……讨好？想被认可的方式？这个念头让我有点难受，但又觉得好像说中了什么。）"
+      }
+    }
+  ],
+  "created": 1795148449,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2028,
+    "total_tokens": 2131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

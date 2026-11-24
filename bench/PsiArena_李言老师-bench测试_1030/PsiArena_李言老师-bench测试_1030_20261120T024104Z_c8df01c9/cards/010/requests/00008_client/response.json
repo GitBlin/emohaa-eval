@@ -1,0 +1,41 @@
+{
+  "id": "e0246558e21b4727ab3cc6423222fa8c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是上次考试完，他一边说自己考砸了，一边又问我考多少。我当时就挺别扭的……好像不管我说什么，最后都显得我不如他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了最近一次具体发生的事，这让我不得不去回想那些让我不舒服的场景。其实每次考完试大家围在一起讨论成绩的时候，我都特别想躲开，但又忍不住去听。那个同学明明考得不错，却总说自己没考好，这种话听多了真的会让我觉得自己的努力像个笑话。）\n（而且在家里也是这样，爸妈总拿我和别人比，好像我永远不够好。所以听到同学那种话，我第一反应就是自己是不是真的不行。这种感觉很矛盾，一方面知道他在装，另一方面又控制不住地怀疑自己。）",
+        "reasoning": "（咨询师问到了最近一次具体发生的事，这让我不得不去回想那些让我不舒服的场景。其实每次考完试大家围在一起讨论成绩的时候，我都特别想躲开，但又忍不住去听。那个同学明明考得不错，却总说自己没考好，这种话听多了真的会让我觉得自己的努力像个笑话。）\n（而且在家里也是这样，爸妈总拿我和别人比，好像我永远不够好。所以听到同学那种话，我第一反应就是自己是不是真的不行。这种感觉很矛盾，一方面知道他在装，另一方面又控制不住地怀疑自己。）"
+      }
+    }
+  ],
+  "created": 1795142510,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 159,
+    "prompt_tokens": 1577,
+    "total_tokens": 1736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

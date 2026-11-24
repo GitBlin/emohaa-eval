@@ -1,0 +1,41 @@
+{
+  "id": "dfc66410a75a4f238cc9d87596f56b93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "前几天医生跟我讲病情，我点头说知道了，回头一个人站在走廊里，脑子一片空白。家里这种事，好像总得我来撑着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是最近一次让我觉得必须完美过关的时刻……这让我想起那天在医院走廊里，医生拿着检查单跟我说话的时候。当时整个人都是懵的，好像所有决定都压在我一个人身上。家里一直是这样，大事小事都得我来拿主意，可我真的能承担吗？）\n（这种压力从我很小的时候就开始了，父母总说“你是家里的顶梁柱”。现在母亲生病了，我更不敢表现出任何犹豫或软弱。但有时候真的觉得喘不过气来，又不知道能跟谁说。）",
+        "reasoning": "（她问的是最近一次让我觉得必须完美过关的时刻……这让我想起那天在医院走廊里，医生拿着检查单跟我说话的时候。当时整个人都是懵的，好像所有决定都压在我一个人身上。家里一直是这样，大事小事都得我来拿主意，可我真的能承担吗？）\n（这种压力从我很小的时候就开始了，父母总说“你是家里的顶梁柱”。现在母亲生病了，我更不敢表现出任何犹豫或软弱。但有时候真的觉得喘不过气来，又不知道能跟谁说。）"
+      }
+    }
+  ],
+  "created": 1795142962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1806,
+    "total_tokens": 1947,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ad072ab34cda46579d73c1b397ef67e1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "体检报告……透支，警告，还有……害怕。对，就是害怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我给身体写体检报告，还让我想三个关键词。这让我有点不舒服，但又不得不承认她说得对。身体确实在报警，糖尿病就是证据。）\n（我想到的第一个词就是透支，这些年拼得太狠了。然后是警告，身体一直在给我信号。最后是害怕，我真的怕哪天突然倒下。这些词说出来，心里反而有点松动。）",
+        "reasoning": "（咨询师让我给身体写体检报告，还让我想三个关键词。这让我有点不舒服，但又不得不承认她说得对。身体确实在报警，糖尿病就是证据。）\n（我想到的第一个词就是透支，这些年拼得太狠了。然后是警告，身体一直在给我信号。最后是害怕，我真的怕哪天突然倒下。这些词说出来，心里反而有点松动。）"
+      }
+    }
+  ],
+  "created": 1795150059,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2393,
+    "total_tokens": 2489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

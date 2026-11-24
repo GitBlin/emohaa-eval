@@ -1,0 +1,41 @@
+{
+  "id": "7f009414990f41b1825929846813980b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天……早上没赖床，算吗？唉，说起来，我妈从小就很少夸我这些，做得好是应该的，做不好才要被说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注那些被我忽略的小事，可我心里还是觉得这些算不上什么成就。不过她这么坚持，我好像有点被触动了。）\n（想到家里的事，那种熟悉的感觉又冒出来了。我妈总是这样，做得好是应该的，做不好就要被说。也许我这种总觉得自己不够好的毛病，就是从那时候开始的吧。）",
+        "reasoning": "（咨询师在引导我关注那些被我忽略的小事，可我心里还是觉得这些算不上什么成就。不过她这么坚持，我好像有点被触动了。）\n（想到家里的事，那种熟悉的感觉又冒出来了。我妈总是这样，做得好是应该的，做不好就要被说。也许我这种总觉得自己不够好的毛病，就是从那时候开始的吧。）"
+      }
+    }
+  ],
+  "created": 1795148353,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1637,
+    "total_tokens": 1748,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

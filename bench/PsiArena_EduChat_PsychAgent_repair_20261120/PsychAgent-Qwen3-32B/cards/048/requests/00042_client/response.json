@@ -1,0 +1,41 @@
+{
+  "id": "f5ec7891037043b1b1a7d678efe50e33",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "顺序有点多，我怕记不住。能不能先只做三次呼吸和碰手背，那句话以后再加？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（内心）这个顺序听起来有点复杂，但拆开每一步都简单。可以问问是不是要写下来，或者先只做前半部分。保持简短，2-3句。",
+        "reasoning": "（内心）这个顺序听起来有点复杂，但拆开每一步都简单。可以问问是不是要写下来，或者先只做前半部分。保持简短，2-3句。"
+      }
+    }
+  ],
+  "created": 1795155251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 3050,
+    "total_tokens": 3113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

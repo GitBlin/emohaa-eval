@@ -1,0 +1,41 @@
+{
+  "id": "8fb929d340a94c208bff9e6ad1bb7334",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……心里沉沉的，晚上也睡不好。家里的事吧，有点乱，我也说不清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我累的感觉，让我描述。我其实不太想这么快就说得太深，毕竟刚来，还不太确定她能不能真的理解我。不过她问得挺温和的，我就稍微说一点吧，别太具体。）\n（家里的事……其实挺多的，但我现在只想含糊地提一下。说“乱”应该就够了，让她知道跟家人有关，但不用马上展开。这样我也好控制一下自己，不至于一下子说得太多收不回来。）",
+        "reasoning": "（咨询师问我累的感觉，让我描述。我其实不太想这么快就说得太深，毕竟刚来，还不太确定她能不能真的理解我。不过她问得挺温和的，我就稍微说一点吧，别太具体。）\n（家里的事……其实挺多的，但我现在只想含糊地提一下。说“乱”应该就够了，让她知道跟家人有关，但不用马上展开。这样我也好控制一下自己，不至于一下子说得太多收不回来。）"
+      }
+    }
+  ],
+  "created": 1795147562,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1235,
+    "total_tokens": 1359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

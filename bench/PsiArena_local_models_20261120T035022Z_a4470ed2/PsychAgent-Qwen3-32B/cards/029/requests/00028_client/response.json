@@ -1,0 +1,41 @@
+{
+  "id": "179507d7f7784e9486dc1ba7d2117629",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身高体重……这个我不太想说。不过买衣服倒是真的，看到好看的就觉得穿上会不一样，结果买回来也没穿几次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这个问题有点奇怪，问身高体重干嘛……不过可能跟买衣服有关？我可以说说买衣服的事，但具体数字不太想说。",
+        "reasoning": "这个问题有点奇怪，问身高体重干嘛……不过可能跟买衣服有关？我可以说说买衣服的事，但具体数字不太想说。"
+      }
+    }
+  ],
+  "created": 1795147626,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2332,
+    "total_tokens": 2392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

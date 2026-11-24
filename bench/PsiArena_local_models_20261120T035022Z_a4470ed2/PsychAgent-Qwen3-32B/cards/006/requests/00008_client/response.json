@@ -1,0 +1,41 @@
+{
+  "id": "d0dfce0e731d497989ae43125dce6f21",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……白天那些破事，还有我做的选择。说不太清楚，反正越想越堵得慌，有时候觉得挺没意思的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是具体念头。我不太想一上来就掏心窝子，还是先含糊点，说说那种说不清的感觉吧。）",
+        "reasoning": "（咨询师问的是具体念头。我不太想一上来就掏心窝子，还是先含糊点，说说那种说不清的感觉吧。）"
+      }
+    }
+  ],
+  "created": 1795146801,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 1241,
+    "total_tokens": 1304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

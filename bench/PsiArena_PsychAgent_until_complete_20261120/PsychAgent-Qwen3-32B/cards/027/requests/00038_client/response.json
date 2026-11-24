@@ -1,0 +1,41 @@
+{
+  "id": "69bdb4c42b8b4e39b518cb7a42aca062",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……我选“工作近况”吧，就聊五分钟，到点我就说我还有事。就是不知道，她要是又阴阳怪气，我能不能忍住不接话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户说“情绪预算……这个说法挺新鲜的。具体怎么弄呢？”咨询师给了具体做法。现在需要用户回应，选一个主题和时长。要自然、简短，2-3句。可以表现出犹豫和思考，选一个安全的主题，比如工作近况，时长3-5分钟。也可以带点担心。）",
+        "reasoning": "（用户说“情绪预算……这个说法挺新鲜的。具体怎么弄呢？”咨询师给了具体做法。现在需要用户回应，选一个主题和时长。要自然、简短，2-3句。可以表现出犹豫和思考，选一个安全的主题，比如工作近况，时长3-5分钟。也可以带点担心。）"
+      }
+    }
+  ],
+  "created": 1795154400,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2869,
+    "total_tokens": 2981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

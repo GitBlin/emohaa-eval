@@ -1,0 +1,41 @@
+{
+  "id": "6366ebe9dfc942a4b1519c3060b3107d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我就在车里坐了很久，也没做什么。其实……我差点想发消息给你，但最后还是没发。我好像总在等别人来拉我一把。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我当时有没有做点什么让自己好受一点……其实我坐在车里呆了很久，什么都没做。我好像一直在等，等那种感觉自己过去，或者……等有人来找我。但没有人会来。也许我可以试试说说我当时的想法，比如想过要联系咨询师，但又觉得这样太越界了。这个说出来会不会显得我很奇怪？但咨询师刚才说不会觉得奇怪……我可以稍微试探一下。）",
+        "reasoning": "（咨询师问我当时有没有做点什么让自己好受一点……其实我坐在车里呆了很久，什么都没做。我好像一直在等，等那种感觉自己过去，或者……等有人来找我。但没有人会来。也许我可以试试说说我当时的想法，比如想过要联系咨询师，但又觉得这样太越界了。这个说出来会不会显得我很奇怪？但咨询师刚才说不会觉得奇怪……我可以稍微试探一下。）"
+      }
+    }
+  ],
+  "created": 1795148725,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1977,
+    "total_tokens": 2103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

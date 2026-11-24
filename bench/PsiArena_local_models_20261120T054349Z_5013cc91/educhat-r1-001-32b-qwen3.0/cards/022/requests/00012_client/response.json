@@ -1,0 +1,41 @@
+{
+  "id": "5e4275fbc927487da71577fb7b5e3e2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）说不用完美……道理我懂，可做起来真不是那么回事。您这么讲，我反倒觉得您可能没太明白我的意思。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“不需要完美”……这句话听起来好像很轻松，但对我来说根本不是这样。从小到大，我早就习惯了用表现来换取认可，哪有那么容易说改就改。）\n（而且他这么讲，让我觉得他可能根本不明白我的处境。我有点想试探他一下，看看他到底能不能理解我，还是只会说这种漂亮话。也许我可以稍微表达一点不满，看看他会怎么回应。）",
+        "reasoning": "（咨询师说“不需要完美”……这句话听起来好像很轻松，但对我来说根本不是这样。从小到大，我早就习惯了用表现来换取认可，哪有那么容易说改就改。）\n（而且他这么讲，让我觉得他可能根本不明白我的处境。我有点想试探他一下，看看他到底能不能理解我，还是只会说这种漂亮话。也许我可以稍微表达一点不满，看看他会怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795154254,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1330,
+    "total_tokens": 1453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

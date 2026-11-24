@@ -1,0 +1,41 @@
+{
+  "id": "b922bdc2da41412a86404f59afcf64ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先稳住呼吸吧，别一被问就马上笑出来或者急着解释。然后我再练那句“我确认后马上回复”，尽量说得正常一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望练习时先稳住哪一步，看来是想帮我把应对拆成具体的小步骤。我确实需要先稳住自己别慌，不然什么话都说不出来。）\n（不过光稳呼吸好像还不够，我还得提前想好一句能接住场面的话，不然一被追问脑子又空了。这两件事得一起练才行。）",
+        "reasoning": "（她问我希望练习时先稳住哪一步，看来是想帮我把应对拆成具体的小步骤。我确实需要先稳住自己别慌，不然什么话都说不出来。）\n（不过光稳呼吸好像还不够，我还得提前想好一句能接住场面的话，不然一被追问脑子又空了。这两件事得一起练才行。）"
+      }
+    }
+  ],
+  "created": 1795142581,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2995,
+    "total_tokens": 3103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "517f2a2940054a3fba4b83892164797f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先锁屏吧，那个简单点。吃饭那个……我怕到时候又退缩了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我先选哪个。我有点犹豫，锁屏提醒好像更简单，不用面对人，但吃饭时开口那个才是真正让我难受的地方。我不想显得太胆小，可又确实怕做不到。）就先锁屏那个吧……吃饭那个，我怕自己到时候又退缩了。",
+        "reasoning": "（咨询师在问我先选哪个。我有点犹豫，锁屏提醒好像更简单，不用面对人，但吃饭时开口那个才是真正让我难受的地方。我不想显得太胆小，可又确实怕做不到。）就先锁屏那个吧……吃饭那个，我怕自己到时候又退缩了。"
+      }
+    }
+  ],
+  "created": 1795153474,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2503,
+    "total_tokens": 2585,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

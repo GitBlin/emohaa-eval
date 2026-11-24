@@ -1,0 +1,41 @@
+{
+  "id": "a2bac1c7aa194aa1916fe6d2af114892",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）这句话我能说出口，不算太假。就是……万一她只“哦”一声就没下文了，我怕自己又会多想，觉得是不是说错话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（在心里默念了一遍）嗯，“我想先自己待一会儿整理一下”……这句话还行，不算太生硬。那如果她什么都不说，只是“哦”一声，我是不是又该难受了？",
+        "reasoning": "（在心里默念了一遍）嗯，“我想先自己待一会儿整理一下”……这句话还行，不算太生硬。那如果她什么都不说，只是“哦”一声，我是不是又该难受了？"
+      }
+    }
+  ],
+  "created": 1795155065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3138,
+    "total_tokens": 3220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

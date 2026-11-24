@@ -1,0 +1,41 @@
+{
+  "id": "c4b26158db4141b191bfb8d23d4eb6cc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）我看不出来。我妈还是像以前一样，该做饭做饭，该照顾他照顾他。有时候我都替她着急，又不敢提醒她，万一是我弄错了呢……我真的不知道该怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我对妈妈信任爸爸的看法，这让我想起妈妈最近的状态。她好像真的没察觉到什么，还是像以前一样照顾爸爸，这让我更难受了。）\n（作为女儿，我既想保护妈妈又不敢告诉她真相。这种矛盾让我很焦虑，但咨询师好像能理解我的感受，也许可以稍微说一点内心真实的想法。）",
+        "reasoning": "（咨询师在问我对妈妈信任爸爸的看法，这让我想起妈妈最近的状态。她好像真的没察觉到什么，还是像以前一样照顾爸爸，这让我更难受了。）\n（作为女儿，我既想保护妈妈又不敢告诉她真相。这种矛盾让我很焦虑，但咨询师好像能理解我的感受，也许可以稍微说一点内心真实的想法。）"
+      }
+    }
+  ],
+  "created": 1795154056,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1764,
+    "total_tokens": 1885,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

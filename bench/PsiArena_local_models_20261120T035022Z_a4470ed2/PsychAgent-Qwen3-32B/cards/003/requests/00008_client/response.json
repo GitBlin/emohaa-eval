@@ -1,0 +1,41 @@
+{
+  "id": "83685657ad2c41d389e252354a1472ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想想……可能是周三吧。中午在茶水间，几个同事聊得挺开心的，我站在旁边，想说点什么，又不知道怎么插进去，就……拿着杯子回工位了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师好像挺有耐心的，没有急着让我说很多。不过我还是有点不确定她是不是真的能理解我。她问最近一周哪一天感觉最明显……其实每天都差不多，但我不想说太多细节，先随便说个场景试试看吧。）\n（公司茶水间那种地方，人一多我就觉得不自在。明明想跟同事聊几句，可就是插不上嘴。说这个应该没关系吧，反正也不是什么大事。）",
+        "reasoning": "（这个咨询师好像挺有耐心的，没有急着让我说很多。不过我还是有点不确定她是不是真的能理解我。她问最近一周哪一天感觉最明显……其实每天都差不多，但我不想说太多细节，先随便说个场景试试看吧。）\n（公司茶水间那种地方，人一多我就觉得不自在。明明想跟同事聊几句，可就是插不上嘴。说这个应该没关系吧，反正也不是什么大事。）"
+      }
+    }
+  ],
+  "created": 1795146712,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1167,
+    "total_tokens": 1303,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

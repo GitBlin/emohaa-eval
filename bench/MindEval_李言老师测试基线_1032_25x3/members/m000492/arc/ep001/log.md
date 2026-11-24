@@ -1,0 +1,29 @@
+- Member's grandmother died in the spring and Member believes they have not been dealing with it.
+- Member was living in the grandmother's spare room until the house was sold and is now sleeping on Kayla's couch.
+- Member buys groceries and does dishes at Kayla's to avoid Kayla having to think about Member being there.
+- Member avoids being idle because stopping brings up feelings they decline to describe.
+- Member stopped painting the week of the funeral and has not touched it since, and declines to describe what happens when they think about picking up a brush.
+- Member finds the counsellor's pattern of accepting a topic change and then circling back unhelpful and said so.
+- Member's priority is finding a place to live, which they call the thing actually ruining their week.
+- Member scrolls housing listings on their phone around 1am and closes the app after doing the math on each one and finding none work.
+- Member is not working, so has no income to show for housing applications.
+- Member's mother believes Member is in campus housing for the summer and Member has not told her otherwise.
+- Member lets the mother's calls ring out and texts something normal later rather than answering.
+- Member avoids answering the mother's calls because she would go quiet and worried and Member would have to make her feel better, which Member cannot do right now.
+- Member has midnight tea with Kayla and tells her the practical side of things only.
+- Member withholds the rest from Kayla because Kayla is already housing Member and Member cannot hand her more.
+- Member says being the one receiving feels like shit and they hate it.
+- Member wants to get out faster because Kayla keeps saying Member can stay as long as they need.
+- Member says Kayla's offer makes the situation feel real and makes them want to cry, which they do not want to do.
+- Member has a box in their car trunk containing the grandmother's apron, the grandmother's good brushes, and a birthday card Member never opened, there since Member moved out.
+- Member declines to discuss the unopened card.
+- The brushes are the ones the grandmother taught Member to paint with at the kitchen table with acrylics and an old jam jar for water.
+- Member recalls the grandmother critiquing their color theory, calling their blues muddy and being right.
+- Member has been going dark for days on the improv people, who text memes and practice logistics.
+- Member sat in the parking lot outside improv unable to go in, with the insurance payment due Friday and no rent money left after it if it goes through.
+- Member says the money is the loud part of not going in, and the other part is the twenty minutes of being known by name by kids at the practice.
+- Member's worst fear about walking in is that the kids will see they haven't slept and ask what's wrong, and Member has no face to hold for that today.
+- Member could walk in if nobody asked, so the barrier is being asked to explain, not being seen.
+- Member's default when asked and having nothing to give is to make a joke and change the subject, a skill from improv that gets them through the moment at a cost they decline to discuss.
+- Member settled on "running on empty, but I'm here" as a true line that isn't a lie and isn't the whole thing, to use if someone asks how they are.
+- Member went into improv with six minutes left before it started.

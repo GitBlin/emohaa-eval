@@ -1,0 +1,41 @@
+{
+  "id": "d9c0d88f90134c0b971b8e3c2b21468d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "担心她真就落下去了……也怕别人觉得是我这个当妈的没教好。说这些你会不会觉得我太较真了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "第7轮是初期阶段的最后一轮，应该还是建立信任和情感联系，不要过早深入。可以表达一种模糊的担忧，然后稍微试探一下咨询师会不会评判自己。",
+        "reasoning": "第7轮是初期阶段的最后一轮，应该还是建立信任和情感联系，不要过早深入。可以表达一种模糊的担忧，然后稍微试探一下咨询师会不会评判自己。"
+      }
+    }
+  ],
+  "created": 1795147377,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 1493,
+    "total_tokens": 1563,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

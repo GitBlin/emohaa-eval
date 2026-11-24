@@ -1,0 +1,41 @@
+{
+  "id": "35d761dad27c492791d048f669e67bb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……比如看电影，我可能会先问他想看什么。如果他说随便，我就更不知道怎么选了，怕选了他不喜欢又不说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户说“怕麻烦别人”，这和她之前提到的“猜别人想要什么”是连着的。她可能习惯把自己的需求放在后面，怕说出来会破坏关系。现在她开始意识到这个模式了，但还不敢直接表达。\n\n我可以顺着这个点，让她看看这种“怕麻烦”是怎么影响她和对象相处的。比如她会不会因为怕麻烦，就不敢提想看什么电影，或者不敢说“我不想聊这个”。这样能帮她看到，沉默不只是对方的问题，也有她自己的部分。\n\n不过不能太直接，得用她自己的话去问。她刚才说“会不会太麻烦别人”，我可以问她，如果她真的说了想要什么，最担心对方会怎么反应。这样能让她把那个害怕具体化，而不是笼统地觉得自己“太作”。",
+        "reasoning": "嗯，用户说“怕麻烦别人”，这和她之前提到的“猜别人想要什么”是连着的。她可能习惯把自己的需求放在后面，怕说出来会破坏关系。现在她开始意识到这个模式了，但还不敢直接表达。\n\n我可以顺着这个点，让她看看这种“怕麻烦”是怎么影响她和对象相处的。比如她会不会因为怕麻烦，就不敢提想看什么电影，或者不敢说“我不想聊这个”。这样能帮她看到，沉默不只是对方的问题，也有她自己的部分。\n\n不过不能太直接，得用她自己的话去问。她刚才说“会不会太麻烦别人”，我可以问她，如果她真的说了想要什么，最担心对方会怎么反应。这样能让她把那个害怕具体化，而不是笼统地觉得自己“太作”。"
+      }
+    }
+  ],
+  "created": 1795154543,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 194,
+    "prompt_tokens": 2030,
+    "total_tokens": 2224,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 164,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b7c136d77b434d12be227363f4720a9f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能先是身体，胸口发闷，然后才意识到心里发慌。我有点担心，如果一直这样下去，会不会影响我工作。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最先注意到的是身体感觉还是情绪变化，这让我稍微松了口气，因为不用一下子讲太多。我确实一停下来就会先感到胸口发闷，然后才意识到心里发慌。）\n（我想试着说得具体一点，但又不想把话题铺得太开。也许可以先承认身体感觉先来，再提一下我担心它会拖累工作，这样既回应了问题，也能把方向引到接下来该怎么办上。）",
+        "reasoning": "（咨询师在问我最先注意到的是身体感觉还是情绪变化，这让我稍微松了口气，因为不用一下子讲太多。我确实一停下来就会先感到胸口发闷，然后才意识到心里发慌。）\n（我想试着说得具体一点，但又不想把话题铺得太开。也许可以先承认身体感觉先来，再提一下我担心它会拖累工作，这样既回应了问题，也能把方向引到接下来该怎么办上。）"
+      }
+    }
+  ],
+  "created": 1795143818,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2574,
+    "total_tokens": 2696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

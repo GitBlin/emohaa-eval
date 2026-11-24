@@ -1,0 +1,41 @@
+{
+  "id": "2e2ec5ff4dfe420b92f9e399b20f08ec",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "丢人……我觉得自己特别丢人。明明被他伤过，还回头找他，我有时候都看不起自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……让我想想。自责的话……可能是“丢人”吧。就是觉得自己怎么这么没骨气，明明受了那些委屈，还回头找他。",
+        "reasoning": "嗯……让我想想。自责的话……可能是“丢人”吧。就是觉得自己怎么这么没骨气，明明受了那些委屈，还回头找他。"
+      }
+    }
+  ],
+  "created": 1795146944,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2034,
+    "total_tokens": 2092,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

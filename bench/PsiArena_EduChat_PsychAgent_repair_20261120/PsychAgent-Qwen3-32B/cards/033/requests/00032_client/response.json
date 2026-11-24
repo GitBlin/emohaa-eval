@@ -1,0 +1,41 @@
+{
+  "id": "8313e917c0b446f5b5a1c19589bb2142",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我先试一次看看。不过说实话，我脑子里还是乱，总觉得光靠呼吸解决不了我们之间的问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有否定我，反而把目标缩小了……这让我稍微松了口气。但“三次呼吸”真的够吗？我脑子里还是乱糟糟的。不过他说得对，我总得先做点什么，不能一直这样下去。也许可以先从一次开始，看看会不会更糟。）",
+        "reasoning": "（咨询师没有否定我，反而把目标缩小了……这让我稍微松了口气。但“三次呼吸”真的够吗？我脑子里还是乱糟糟的。不过他说得对，我总得先做点什么，不能一直这样下去。也许可以先从一次开始，看看会不会更糟。）"
+      }
+    }
+  ],
+  "created": 1795154713,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2645,
+    "total_tokens": 2736,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

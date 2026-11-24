@@ -1,0 +1,41 @@
+{
+  "id": "72ecde9025a04c1a8338f865431faff5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "十分钟……（点头）可以试试。可能就午休的时候，少刷会儿手机，自己待一会儿。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师建议我从每天给自己十分钟“心灵茶歇”开始，这听起来是个具体又温和的行动。我有点犹豫，因为平时习惯了把时间都花在工作和别人身上，突然要留出时间给自己，反而觉得不太自在。）\n（不过，也许这正是我需要的。我可以试着在午休时做这件事，那个时间段相对安静，不会被打扰。虽然不确定能不能坚持，但至少是个开始。）",
+        "reasoning": "（心理咨询师建议我从每天给自己十分钟“心灵茶歇”开始，这听起来是个具体又温和的行动。我有点犹豫，因为平时习惯了把时间都花在工作和别人身上，突然要留出时间给自己，反而觉得不太自在。）\n（不过，也许这正是我需要的。我可以试着在午休时做这件事，那个时间段相对安静，不会被打扰。虽然不确定能不能坚持，但至少是个开始。）"
+      }
+    }
+  ],
+  "created": 1795149765,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2610,
+    "total_tokens": 2722,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a1499e4c04cc4089a20f785688ca851c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那如果我聊到家里的事，您会不会觉得是我太敏感？我有点担心说出来会被评价。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师介绍了咨询的大致流程，说节奏由我决定，还问我最想谈哪方面。听起来倒是挺温和的，但我心里还是有点不踏实。毕竟第一次接触，我还不确定能不能真的信任她。）\n（作为来访者，我本来就不太习惯跟陌生人说家里的事，尤其是婆媳关系这种私密又复杂的问题。而且我平时工作里也接触过一些心理服务，知道有些咨询师会越界，所以我想先试探一下，看看她会不会急着给我建议或者评价我。这样我才能决定要不要继续往下说。）",
+        "reasoning": "（刚才咨询师介绍了咨询的大致流程，说节奏由我决定，还问我最想谈哪方面。听起来倒是挺温和的，但我心里还是有点不踏实。毕竟第一次接触，我还不确定能不能真的信任她。）\n（作为来访者，我本来就不太习惯跟陌生人说家里的事，尤其是婆媳关系这种私密又复杂的问题。而且我平时工作里也接触过一些心理服务，知道有些咨询师会越界，所以我想先试探一下，看看她会不会急着给我建议或者评价我。这样我才能决定要不要继续往下说。）"
+      }
+    }
+  ],
+  "created": 1795142879,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 1029,
+    "total_tokens": 1175,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

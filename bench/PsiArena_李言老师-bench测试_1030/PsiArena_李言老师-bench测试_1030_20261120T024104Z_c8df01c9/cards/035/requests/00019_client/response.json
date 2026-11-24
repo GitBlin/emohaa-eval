@@ -1,0 +1,41 @@
+{
+  "id": "a17ea334c3824b22a293297328fbe3fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "提醒……我可以把便签贴在手机壳里，写“先停一下”。不过这样会不会有点傻？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我选什么小提醒，看来是希望我能把刚才说的“倒水”变成更具体、更容易做到的事。我其实有点怕自己到时候又做不到，但也不想把话说得太满。手机壳里那张便签平时也会看到，写个“先停一下”应该不难，至少比让我记住一整套方法要现实。）\n（不过我还是有点犹豫，这样真能管用吗？会不会到时候看见了也当没看见。先说出来试试吧，反正咨询师也没逼我保证一定做到。）",
+        "reasoning": "（她问我选什么小提醒，看来是希望我能把刚才说的“倒水”变成更具体、更容易做到的事。我其实有点怕自己到时候又做不到，但也不想把话说得太满。手机壳里那张便签平时也会看到，写个“先停一下”应该不难，至少比让我记住一整套方法要现实。）\n（不过我还是有点犹豫，这样真能管用吗？会不会到时候看见了也当没看见。先说出来试试吧，反正咨询师也没逼我保证一定做到。）"
+      }
+    }
+  ],
+  "created": 1795143353,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2738,
+    "total_tokens": 2872,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

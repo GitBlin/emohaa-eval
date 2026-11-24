@@ -1,0 +1,41 @@
+{
+  "id": "e8d7a9becadf4ff7bd9d97c51dd66abe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我前面说了想给我妹打电话，那就具体点，先约个时间跟她通个气，看看她能不能偶尔回来替我两天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又回到家人分担这个话题了，看来他挺坚持的。我其实已经想过打电话给妹妹了，但总觉得光说不够，得有点实际的安排才行。）\n（不过既然他反复提，说明他可能觉得这块对我挺重要。我也确实不想再一个人扛着了，那就把话说具体点吧，先跟妹妹商量个轮流回去的时间，这样心里也有个底。）",
+        "reasoning": "（咨询师又回到家人分担这个话题了，看来他挺坚持的。我其实已经想过打电话给妹妹了，但总觉得光说不够，得有点实际的安排才行。）\n（不过既然他反复提，说明他可能觉得这块对我挺重要。我也确实不想再一个人扛着了，那就把话说具体点吧，先跟妹妹商量个轮流回去的时间，这样心里也有个底。）"
+      }
+    }
+  ],
+  "created": 1795148353,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2816,
+    "total_tokens": 2932,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

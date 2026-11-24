@@ -1,0 +1,41 @@
+{
+  "id": "6bf4d2fb86054dc48d08f7f652d6b8dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通？（声音有点激动）他才几个月大，我跟他说什么他能懂？……对不起，我不是冲你。只是我妈老说带孩子要有规矩，我是不是真的哪里做错了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我不是惯孩子而是爱他，还说要和孩子沟通……可他才几个月大啊，怎么沟通？这让我觉得她好像没真正理解我的处境。不过她提到“引导”这个词，让我想起我妈以前也总说带孩子要有规矩。）\n（我忽然意识到，我好像一直在用我妈那套标准要求自己。她总觉得好妈妈就该把孩子带得服服帖帖的，可我现在连自己都照顾不好。这种想法压得我喘不过气来，也许该跟咨询师说说这个。）",
+        "reasoning": "（咨询师说我不是惯孩子而是爱他，还说要和孩子沟通……可他才几个月大啊，怎么沟通？这让我觉得她好像没真正理解我的处境。不过她提到“引导”这个词，让我想起我妈以前也总说带孩子要有规矩。）\n（我忽然意识到，我好像一直在用我妈那套标准要求自己。她总觉得好妈妈就该把孩子带得服服帖帖的，可我现在连自己都照顾不好。这种想法压得我喘不过气来，也许该跟咨询师说说这个。）"
+      }
+    }
+  ],
+  "created": 1795153788,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1570,
+    "total_tokens": 1721,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

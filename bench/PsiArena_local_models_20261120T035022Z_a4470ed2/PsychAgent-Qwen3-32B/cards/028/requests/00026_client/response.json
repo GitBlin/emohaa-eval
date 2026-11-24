@@ -1,0 +1,41 @@
+{
+  "id": "6965cf7b96d045988e29f8beeda18aae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这听起来很让人疲惫，连“自己想要什么”都变得模糊了。这种混乱感，在哪些情境里最明显？比如工作、关系，还是家里？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（沉默了一会儿）最难受的是……我有时候都分不清，那到底是我自己的想法，还是我猜他们想要的想法。挺乱的。",
+        "reasoning": "（沉默了一会儿）最难受的是……我有时候都分不清，那到底是我自己的想法，还是我猜他们想要的想法。挺乱的。"
+      }
+    }
+  ],
+  "created": 1795147585,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2036,
+    "total_tokens": 2102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

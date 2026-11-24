@@ -1,0 +1,41 @@
+{
+  "id": "1a1c48a8eb59457c985504feb148aad2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，就设一次，下午三点半。响了我先起身倒水，手机放桌上。这样听起来可行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她愿意配合，但还担心提醒会变成新的盯手机理由。我得把提醒设得足够轻，不重复、只响一次，最好再让她自己确认这个边界。）可以，就设一次，下午三点半。响了我先起身倒水，手机放桌上。这样听起来可行吗？",
+        "reasoning": "（她愿意配合，但还担心提醒会变成新的盯手机理由。我得把提醒设得足够轻，不重复、只响一次，最好再让她自己确认这个边界。）可以，就设一次，下午三点半。响了我先起身倒水，手机放桌上。这样听起来可行吗？"
+      }
+    }
+  ],
+  "created": 1795153652,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3335,
+    "total_tokens": 3428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

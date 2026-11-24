@@ -1,0 +1,41 @@
+{
+  "id": "b3fef747e11d445cb99fbd6b0e8a42ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以吧……我就记“轻中重”三个字，不写太多。就是怕我忙起来会忘。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户刚才的回答其实是咨询师在说，现在轮到我作为来访者回应第21轮。需要简短2-3句，后期阶段，探索方案、具体化行动计划。可以表示可行，带一点犹豫和真实感。）",
+        "reasoning": "（用户刚才的回答其实是咨询师在说，现在轮到我作为来访者回应第21轮。需要简短2-3句，后期阶段，探索方案、具体化行动计划。可以表示可行，带一点犹豫和真实感。）"
+      }
+    }
+  ],
+  "created": 1795147973,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 3039,
+    "total_tokens": 3115,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fd6fad908bc04271aaaeee92a2d0b5f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最希望他能说一句“我也着急，但咱们一起想办法”，别一声不吭。可能我从小在家里就习惯了先顾别人的感受，话到嘴边又怕伤他自尊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了我最希望他怎么回应，这让我心里有点酸。其实我一直在等他能主动说一句“别担心，我们一起想办法”，可每次话到嘴边又咽回去了。）\n（想到家里从小教我要顾全大局、别让人看笑话，我就更不敢把这种委屈说透。现在说出来，反而觉得自己有点可怜，又有点不好意思。）",
+        "reasoning": "（咨询师问到了我最希望他怎么回应，这让我心里有点酸。其实我一直在等他能主动说一句“别担心，我们一起想办法”，可每次话到嘴边又咽回去了。）\n（想到家里从小教我要顾全大局、别让人看笑话，我就更不敢把这种委屈说透。现在说出来，反而觉得自己有点可怜，又有点不好意思。）"
+      }
+    }
+  ],
+  "created": 1795142538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 1624,
+    "total_tokens": 1741,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

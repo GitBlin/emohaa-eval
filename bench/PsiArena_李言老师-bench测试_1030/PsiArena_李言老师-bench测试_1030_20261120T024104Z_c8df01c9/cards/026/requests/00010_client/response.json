@@ -1,0 +1,41 @@
+{
+  "id": "338e4dd869ce4e118db82a488ecca862",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她可能更需要我先稳一点，别一上来就否定她。可我很难做到，我总觉得我爸妈当年对我那么严，我现在不盯紧点就像失职。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望女儿从我这得到什么，这让我有点意外。我一直盯着她的错误，好像很少想过她需要什么。可能她需要的是我能先稳住自己，别那么快发火。）\n（说到别人评价，我就想起我妈以前总说“孩子教不好是父母的责任”。这种话听多了，现在自己当了妈，好像也一直在用这个标准要求自己，连带着对女儿也没法放松。）",
+        "reasoning": "（咨询师在问我希望女儿从我这得到什么，这让我有点意外。我一直盯着她的错误，好像很少想过她需要什么。可能她需要的是我能先稳住自己，别那么快发火。）\n（说到别人评价，我就想起我妈以前总说“孩子教不好是父母的责任”。这种话听多了，现在自己当了妈，好像也一直在用这个标准要求自己，连带着对女儿也没法放松。）"
+      }
+    }
+  ],
+  "created": 1795143043,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1842,
+    "total_tokens": 1970,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

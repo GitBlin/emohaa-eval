@@ -1,0 +1,41 @@
+{
+  "id": "a4d8e8282a03438d844561b01bbfd1f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那还好。其实我也不是有什么大问题，就是最近有点烦，说不清楚。你们咨询师是不是都会问很多小时候的事啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密的范围，但我还是有点不放心。她提到安全风险的时候，我脑子里闪过女儿最近情绪低落的样子，但马上又觉得应该不至于。我其实更想确认的是，如果我说了当老师的一些压力，会不会影响我的工作评价。这种担心不太好直接说出口，显得我好像不信任她似的。不过既然她问了感觉如何，我就稍微表达一下自己的顾虑吧。）",
+        "reasoning": "（咨询师解释了保密的范围，但我还是有点不放心。她提到安全风险的时候，我脑子里闪过女儿最近情绪低落的样子，但马上又觉得应该不至于。我其实更想确认的是，如果我说了当老师的一些压力，会不会影响我的工作评价。这种担心不太好直接说出口，显得我好像不信任她似的。不过既然她问了感觉如何，我就稍微表达一下自己的顾虑吧。）"
+      }
+    }
+  ],
+  "created": 1795147368,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1067,
+    "total_tokens": 1186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

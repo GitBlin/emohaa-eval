@@ -1,0 +1,41 @@
+{
+  "id": "2277cf4ceaab4313acd073aa7148888c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就上周吧，在咖啡馆，我提了一句以后怎么打算，他笑了一下就说起别的事，我也没敢追问，就低头喝东西。现在想想，我当时是不是挺没出息的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问得挺具体的……刚才我勉强说了点感受，现在要回忆那个场景，心里还是有点抵触。不过她好像没有评判我，也许可以试着说一点点。就是上周在咖啡馆那次吧，他那种转移话题的样子让我特别难受，可我现在说出来还是觉得有点丢脸，好像我在逼他似的。）",
+        "reasoning": "（心理咨询师问得挺具体的……刚才我勉强说了点感受，现在要回忆那个场景，心里还是有点抵触。不过她好像没有评判我，也许可以试着说一点点。就是上周在咖啡馆那次吧，他那种转移话题的样子让我特别难受，可我现在说出来还是觉得有点丢脸，好像我在逼他似的。）"
+      }
+    }
+  ],
+  "created": 1795148068,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1528,
+    "total_tokens": 1642,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

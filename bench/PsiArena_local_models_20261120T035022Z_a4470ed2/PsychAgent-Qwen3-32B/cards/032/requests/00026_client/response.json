@@ -1,0 +1,41 @@
+{
+  "id": "7d335a6cbba74377b8a3737d2e639842",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意试试，但我怕到时候一急就忘了。能不能给我一个特别简单的提示，就一两步那种？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，继续中期，探索根源/可执行。回应愿意尝试，但表达怀疑和细节询问。",
+        "reasoning": "好的，继续中期，探索根源/可执行。回应愿意尝试，但表达怀疑和细节询问。"
+      }
+    }
+  ],
+  "created": 1795147736,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 2162,
+    "total_tokens": 2209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

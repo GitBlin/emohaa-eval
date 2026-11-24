@@ -1,0 +1,41 @@
+{
+  "id": "2fc44ea798b44f55a181982ae9a95420",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）初一那次考试没考好，我爸当着亲戚面说我不争气，说就知道玩。从那以后我就觉得……可能少说话比较好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师好像一直坚持用“小女孩”这个比喻，虽然我已经纠正过两次了……这让我有点不舒服，但又不想显得太计较。她问是什么让我变得安静，这个问题确实戳到我了。）\n（想起初中那次考试失利，爸爸说的话到现在都记得。也许就是那时候开始，觉得说话、交朋友都是错的。但现在说出来，会不会显得我在怪父母？）",
+        "reasoning": "（心理咨询师好像一直坚持用“小女孩”这个比喻，虽然我已经纠正过两次了……这让我有点不舒服，但又不想显得太计较。她问是什么让我变得安静，这个问题确实戳到我了。）\n（想起初中那次考试失利，爸爸说的话到现在都记得。也许就是那时候开始，觉得说话、交朋友都是错的。但现在说出来，会不会显得我在怪父母？）"
+      }
+    }
+  ],
+  "created": 1795153474,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2030,
+    "total_tokens": 2146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

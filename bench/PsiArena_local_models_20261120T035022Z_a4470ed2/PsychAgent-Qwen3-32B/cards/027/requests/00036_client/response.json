@@ -1,0 +1,41 @@
+{
+  "id": "e82953a045d2467a939b51d1326271d8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会说“我先看看，不着急报”。语气得放软一点，不然她肯定听出我在顶她。……其实我连这话都说不太出口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我打算怎么跟妈妈说……我得想想。其实我根本没想好，但总不能又说不知道。先回个电话是肯定的，不然她肯定要打给我爸，然后全家都知道了。语气得软一点，不能让她觉得我在顶嘴。）\n（“我先看看”这几个字说出来会不会太硬了？或者加一句“不是不报”……唉，算了，先这样吧，到时候看情况。反正别在电话里跟她争，争了也没用。）",
+        "reasoning": "（咨询师问我打算怎么跟妈妈说……我得想想。其实我根本没想好，但总不能又说不知道。先回个电话是肯定的，不然她肯定要打给我爸，然后全家都知道了。语气得软一点，不能让她觉得我在顶嘴。）\n（“我先看看”这几个字说出来会不会太硬了？或者加一句“不是不报”……唉，算了，先这样吧，到时候看情况。反正别在电话里跟她争，争了也没用。）"
+      }
+    }
+  ],
+  "created": 1795147533,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2588,
+    "total_tokens": 2727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

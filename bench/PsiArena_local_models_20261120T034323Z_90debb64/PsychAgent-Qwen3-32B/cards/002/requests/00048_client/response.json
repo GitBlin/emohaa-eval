@@ -1,0 +1,41 @@
+{
+  "id": "5ac1970d4bf64ffabbcaa41d5b32ba2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（顿了顿）好像没那么堵了，至少知道下一步该做什么。谢谢你今天听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）我带走的一点是……我一直在等她发现我的难受，可我自己也从来没让她知道过。还有，就是这周我想试着发那句话，九点发，不许改。",
+        "reasoning": "（想了想）我带走的一点是……我一直在等她发现我的难受，可我自己也从来没让她知道过。还有，就是这周我想试着发那句话，九点发，不许改。"
+      }
+    }
+  ],
+  "created": 1795146335,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3891,
+    "total_tokens": 3953,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

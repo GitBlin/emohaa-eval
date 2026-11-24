@@ -1,0 +1,41 @@
+{
+  "id": "f4a4f8a793cc453886d0e53887f0b927",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你这么一说……好像是有点熟悉。就是那种，明明很想要人回应，又觉得自己不该开口。是不是我从小就这样，才一直放不下他？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把现在的感受和过去的经历连起来……我好像有点明白了。夜里等消息的那种感觉，确实跟小时候一个人憋着害怕很像。但承认这一点让我有点难堪，好像显得我很可怜，又显得我离不开他是因为我太缺爱。我不想被这么看。）",
+        "reasoning": "（咨询师在帮我把现在的感受和过去的经历连起来……我好像有点明白了。夜里等消息的那种感觉，确实跟小时候一个人憋着害怕很像。但承认这一点让我有点难堪，好像显得我很可怜，又显得我离不开他是因为我太缺爱。我不想被这么看。）"
+      }
+    }
+  ],
+  "created": 1795153826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2238,
+    "total_tokens": 2335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

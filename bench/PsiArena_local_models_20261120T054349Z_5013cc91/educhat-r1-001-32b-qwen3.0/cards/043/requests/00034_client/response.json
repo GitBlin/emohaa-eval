@@ -1,0 +1,41 @@
+{
+  "id": "e16a44de8c90489c9dc1b9c863895025",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "用颜色和线条表达情绪……（犹豫了一下）我没试过，感觉有点奇怪。不过……也许可以试试？反正画得难看也没人看见。就是不知道从哪开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我用画画来表达情绪，这个方向好像真的能让我放松一点。但我心里还是有点没底，画画对我来说一直是要画得好才行的事，现在突然说随便画，反而有点不习惯。）\n（不过如果只是画给自己看，不用管好不好，好像确实没那么大压力。也许可以试试，反正也没人知道。就是不知道从哪下手，画什么颜色、什么形状，完全没头绪。）",
+        "reasoning": "（咨询师在引导我用画画来表达情绪，这个方向好像真的能让我放松一点。但我心里还是有点没底，画画对我来说一直是要画得好才行的事，现在突然说随便画，反而有点不习惯。）\n（不过如果只是画给自己看，不用管好不好，好像确实没那么大压力。也许可以试试，反正也没人知道。就是不知道从哪下手，画什么颜色、什么形状，完全没头绪。）"
+      }
+    }
+  ],
+  "created": 1795155186,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2379,
+    "total_tokens": 2511,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

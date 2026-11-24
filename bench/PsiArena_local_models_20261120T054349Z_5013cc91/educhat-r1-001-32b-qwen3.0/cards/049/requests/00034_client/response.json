@@ -1,0 +1,41 @@
+{
+  "id": "3db1571d3879464cba374bbad0a31f5d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）这个听起来不难。我书桌那儿有个角落，我难受的时候会缩在那儿。也许可以放条毯子？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我准备一些能带来安全感的东西，毯子、音乐、小物件……听起来不算难，比直接去面对那些记忆要容易接受。）\n（我想到书桌那个角落，平时心烦的时候确实会缩在那儿。也许可以先从一件小事开始，不用一下子搞得很复杂。）",
+        "reasoning": "（她让我准备一些能带来安全感的东西，毯子、音乐、小物件……听起来不算难，比直接去面对那些记忆要容易接受。）\n（我想到书桌那个角落，平时心烦的时候确实会缩在那儿。也许可以先从一件小事开始，不用一下子搞得很复杂。）"
+      }
+    }
+  ],
+  "created": 1795155373,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2322,
+    "total_tokens": 2413,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

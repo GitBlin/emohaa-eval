@@ -1,0 +1,41 @@
+{
+  "id": "c5a19eb44f9046c9b83dec0cf41f74b4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。我想先问一下，这种咨询一般是怎么进行的？我需要说很多吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在我是第一次见这位心理咨询师，还不确定该信任到什么程度。对方看起来挺专业的，但我得先弄清楚咨询到底是怎么进行的，不然心里没底。也许可以问问具体流程，这样能判断是否值得继续聊下去。）\n（毕竟我平时对陌生人都比较防备，尤其是涉及到内心感受的事情。直接说太多会让我觉得不安全，先试探性地了解一下咨询方式比较稳妥。这样既不会显得太抗拒，也能保护自己。）",
+        "reasoning": "（现在我是第一次见这位心理咨询师，还不确定该信任到什么程度。对方看起来挺专业的，但我得先弄清楚咨询到底是怎么进行的，不然心里没底。也许可以问问具体流程，这样能判断是否值得继续聊下去。）\n（毕竟我平时对陌生人都比较防备，尤其是涉及到内心感受的事情。直接说太多会让我觉得不安全，先试探性地了解一下咨询方式比较稳妥。这样既不会显得太抗拒，也能保护自己。）"
+      }
+    }
+  ],
+  "created": 1795154841,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 895,
+    "total_tokens": 1011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

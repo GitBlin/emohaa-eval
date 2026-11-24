@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-35477b221e2a41b4823ae2b78eafc6a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以理解你的顾虑。当时发生了什么？那个选择对你和他产生了怎样的影响？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对过往经历存在强烈愧疚感，需确认具体事件以理解深层情绪。\n【行动策略】：通过提问引导来访者具体描述经历，建立治疗联盟。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对过往经历存在强烈愧疚感，需确认具体事件以理解深层情绪。\n【行动策略】：通过提问引导来访者具体描述经历，建立治疗联盟。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149807,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 1076,
+    "total_tokens": 1142,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

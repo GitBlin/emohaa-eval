@@ -1,0 +1,41 @@
+{
+  "id": "28252e9b40c040888b8423b19cef333c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧。有一次我跟他们说能不能戴耳机，他们就说“知道了知道了”，结果还是外放。我当时就觉得……好像我说的话没人当回事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是被误解或不被接纳的时刻……这让我想起那次鼓起勇气跟室友说能不能小点声，他们只是“嗯”了一声，然后继续打游戏。那种感觉——好像我说的话根本不重要，他们根本没把我当回事。这跟小时候爸妈说“别管别的，专心学习”有点像，我的感受总是被忽略。）",
+        "reasoning": "（咨询师问的是被误解或不被接纳的时刻……这让我想起那次鼓起勇气跟室友说能不能小点声，他们只是“嗯”了一声，然后继续打游戏。那种感觉——好像我说的话根本不重要，他们根本没把我当回事。这跟小时候爸妈说“别管别的，专心学习”有点像，我的感受总是被忽略。）"
+      }
+    }
+  ],
+  "created": 1795153632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1958,
+    "total_tokens": 2065,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

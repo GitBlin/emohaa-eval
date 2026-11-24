@@ -1,0 +1,41 @@
+{
+  "id": "d32ca9d5cf8e4ae48d8541ba47f10e2e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说得轻巧。愿意不愿意的，病该来还是会来。我外公、我舅舅，还有我妈……这种事我没法选。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师总想让我换个说法，好像换个词就能解决问题似的。可我心里清楚，有些事不是换个说法就能过去的。家里的事，那种压力，是实实在在的。）\n（刚才说到发火和暂停信号，其实我挺怀疑的。现在又让我把“我会”换成“我愿意”，听起来太轻巧了。我真正怕的是，这种病会不会轮到我，还有我妈……我连这些都不敢细想。）",
+        "reasoning": "（这个咨询师总想让我换个说法，好像换个词就能解决问题似的。可我心里清楚，有些事不是换个说法就能过去的。家里的事，那种压力，是实实在在的。）\n（刚才说到发火和暂停信号，其实我挺怀疑的。现在又让我把“我会”换成“我愿意”，听起来太轻巧了。我真正怕的是，这种病会不会轮到我，还有我妈……我连这些都不敢细想。）"
+      }
+    }
+  ],
+  "created": 1795154255,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2056,
+    "total_tokens": 2178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

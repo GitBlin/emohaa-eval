@@ -1,0 +1,41 @@
+{
+  "id": "abb32cb49bbf48b2ad829f93a16f90e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他们一般就走开了……我有时候觉得，是不是我哪里不对。家里我爸妈总说，让我别惹事，忍忍就过去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我他们之后会不会主动找我说话，还是避开我。这让我想起每次课间想靠近他们时那种尴尬的感觉。他们确实很少主动，更多时候是假装没看见我。）\n（其实我心里清楚，不全是我想多了。他们就是不想跟我玩。但我不敢直接这么说，怕显得自己太计较。而且家里爸妈总说让我忍一忍，别惹事，我也不知道该不该把这些事告诉老师。）",
+        "reasoning": "（咨询师问我他们之后会不会主动找我说话，还是避开我。这让我想起每次课间想靠近他们时那种尴尬的感觉。他们确实很少主动，更多时候是假装没看见我。）\n（其实我心里清楚，不全是我想多了。他们就是不想跟我玩。但我不敢直接这么说，怕显得自己太计较。而且家里爸妈总说让我忍一忍，别惹事，我也不知道该不该把这些事告诉老师。）"
+      }
+    }
+  ],
+  "created": 1795142548,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1643,
+    "total_tokens": 1766,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

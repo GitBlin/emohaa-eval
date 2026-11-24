@@ -1,0 +1,41 @@
+{
+  "id": "41e933cc86d2453b9ac6a7a0e4c2d63e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）我这会儿很难受，你愿意看我一眼吗……说出来心里有点酸，也有点怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下，声音低了些）我这会儿很难受，你愿意看我一眼吗……说出来心里有点酸，也有点怕。",
+        "reasoning": "（停顿了一下，声音低了些）我这会儿很难受，你愿意看我一眼吗……说出来心里有点酸，也有点怕。"
+      }
+    }
+  ],
+  "created": 1795153974,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 3069,
+    "total_tokens": 3124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

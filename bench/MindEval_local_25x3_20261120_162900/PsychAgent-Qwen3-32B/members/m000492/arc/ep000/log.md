@@ -1,0 +1,14 @@
+- Member’s grandmother died in the spring and Member does not think they have been dealing with it, describing things as a mess.
+- Member says they are “ok i guess” and frames their days as busy.
+- Member sleeps fine but cannot sit for more than a few minutes before getting up to do something.
+- Member rejects breathing exercises as “the last thing i want right now.”
+- Member already walks everywhere and does not want a list of things to do, only to say how it is.
+- Member has a box in their car trunk containing their grandmother’s apron, brushes, and other belongings; it has been there about two weeks and Member keeps driving around with it.
+- Member did not want to open the box when asked and only wanted to say it was in the trunk.
+- Member says the box is the one thing they own that they actually care about; everything else fits in the back seat and does not matter.
+- Member’s grandmother taught them acrylics at her kitchen table when Member was about seven and let them ruin her good tablecloth without saying anything.
+- Member has not painted since the week their grandmother died and their sketchbook is sitting unused.
+- Member says their grandmother was the person they painted for, the one who would actually look at it, and now there is nobody to show it to.
+- Member objected that the counsellor kept turning what they said into a task, including making a mark in the sketchbook.
+- Member said what they want is for their grandmother to be here.
+- Member said they were done for now and ended the session.

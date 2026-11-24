@@ -1,0 +1,41 @@
+{
+  "id": "7c1e8cf13c4d465599d49e537e740aa0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我愿意试试。不过说实话，我心里还是没底，就怕自己到时候又控制不住。我这种一急就上头的毛病，是不是跟小时候那种紧张感有关系？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户刚才已经回复了。我需要继续。这是第15轮，中期阶段。用户说愿意选一个时段练习。我需要继续深入，或者可以开始过渡到后期。但规则说第8-15轮是中期，目标是深入理解根源。第15轮还是中期。\n\n让我想想：用户已经表达了愿意尝试。我可以继续探索根源，比如她提到从小家里拿成绩说事。可以稍微深入一点。",
+        "reasoning": "用户刚才已经回复了。我需要继续。这是第15轮，中期阶段。用户说愿意选一个时段练习。我需要继续深入，或者可以开始过渡到后期。但规则说第8-15轮是中期，目标是深入理解根源。第15轮还是中期。\n\n让我想想：用户已经表达了愿意尝试。我可以继续探索根源，比如她提到从小家里拿成绩说事。可以稍微深入一点。"
+      }
+    }
+  ],
+  "created": 1795147395,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2306,
+    "total_tokens": 2432,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

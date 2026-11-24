@@ -1,0 +1,41 @@
+{
+  "id": "0ce44296127f43acaaed66842423226b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我可以试试。不过我得找个他们心情好的时候说，不然肯定又变成教育我“学习最重要”了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试和父母分享小进步，这让我有点心动，但又觉得不太现实。我担心父母会立刻把话题转到学习上，反而让我更难受。）\n（不过，如果只是轻描淡写地提一句，或许不会引起太大反应？毕竟他们平时也总说希望我开朗些，但真听到我主动社交，又怕他们觉得我分心。）",
+        "reasoning": "（咨询师在鼓励我尝试和父母分享小进步，这让我有点心动，但又觉得不太现实。我担心父母会立刻把话题转到学习上，反而让我更难受。）\n（不过，如果只是轻描淡写地提一句，或许不会引起太大反应？毕竟他们平时也总说希望我开朗些，但真听到我主动社交，又怕他们觉得我分心。）"
+      }
+    }
+  ],
+  "created": 1795146805,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2785,
+    "total_tokens": 2897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

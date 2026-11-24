@@ -1,0 +1,41 @@
+{
+  "id": "552cc2cd6ed1447e8a16bec9e4e45172",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "脑子里好像就想着“买了就开心了”，也没想那么多……其实我有点不想说太细。那个，我要是说了什么，你不会告诉我家里人吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，这是第6轮，还是初期阶段。咨询师在问我付款前后的念头。我有点不想深挖，感觉被追问细节让我不太舒服。可以表现出一点抵触，模糊回应，同时可以试探一下咨询师的界限，比如问咨询师会不会把我说的话告诉家人。保持简短，2-3句。",
+        "reasoning": "好的，这是第6轮，还是初期阶段。咨询师在问我付款前后的念头。我有点不想深挖，感觉被追问细节让我不太舒服。可以表现出一点抵触，模糊回应，同时可以试探一下咨询师的界限，比如问咨询师会不会把我说的话告诉家人。保持简短，2-3句。"
+      }
+    }
+  ],
+  "created": 1795147592,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 1415,
+    "total_tokens": 1519,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

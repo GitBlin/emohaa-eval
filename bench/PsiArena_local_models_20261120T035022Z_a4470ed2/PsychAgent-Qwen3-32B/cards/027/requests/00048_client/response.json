@@ -1,0 +1,41 @@
+{
+  "id": "7271f84f469446b697accd929096f293",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我先按这个来。深呼吸三次……这个我还能做到。要是真闹起来，我就先照顾自己，不急着解释。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第24轮，后期阶段，探索解决方案。来访者情绪趋稳，需要具体化行动计划，并表达对未来的方向。回答2-3句，口语化，带一点犹豫但接受计划。不能太早说谢谢再见，但可以总结方向。）",
+        "reasoning": "（第24轮，后期阶段，探索解决方案。来访者情绪趋稳，需要具体化行动计划，并表达对未来的方向。回答2-3句，口语化，带一点犹豫但接受计划。不能太早说谢谢再见，但可以总结方向。）"
+      }
+    }
+  ],
+  "created": 1795147553,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 3281,
+    "total_tokens": 3368,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "60dd4f0f162f41dc9c27904c8f09c22c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口有点发紧，肩膀也一直提着。我以前没太注意这些，可能我习惯了先压下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体感受，这让我有点不知道该怎么描述。我平时很少注意这些，只习惯把不舒服压下去。也许这种紧绷感其实一直都在，只是我总告诉自己别太矫情。）\n（想到家里从小对我的要求，好像连难受都要先判断合不合适。现在被他这样问，反而有点说不上来的委屈，但又不想显得太脆弱。）",
+        "reasoning": "（咨询师在问我身体感受，这让我有点不知道该怎么描述。我平时很少注意这些，只习惯把不舒服压下去。也许这种紧绷感其实一直都在，只是我总告诉自己别太矫情。）\n（想到家里从小对我的要求，好像连难受都要先判断合不合适。现在被他这样问，反而有点说不上来的委屈，但又不想显得太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795148359,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1665,
+    "total_tokens": 1768,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

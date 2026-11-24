@@ -1,0 +1,41 @@
+{
+  "id": "6a76ac3d523a4eb495b2a78982e23e63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望……至少能不那么紧张地跟人说话吧。不用多厉害，就是能正常聊几句，别每次都像要出事一样。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我最希望有什么改变……其实这个问题我脑子里转过很多次，但真要说出来又有点难为情。我不想说得太夸张，好像我很可怜似的。可要是不说，又好像一直在原地打转。我想让他知道，我不是不想跟人接触，只是每次一开口就紧张，怕说错话，怕别人觉得我奇怪。也许先希望自己别那么慌，能正常跟人说几句话就够了。这样听起来会不会太简单了？）",
+        "reasoning": "（他问我最希望有什么改变……其实这个问题我脑子里转过很多次，但真要说出来又有点难为情。我不想说得太夸张，好像我很可怜似的。可要是不说，又好像一直在原地打转。我想让他知道，我不是不想跟人接触，只是每次一开口就紧张，怕说错话，怕别人觉得我奇怪。也许先希望自己别那么慌，能正常跟人说几句话就够了。这样听起来会不会太简单了？）"
+      }
+    }
+  ],
+  "created": 1795146263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1795,
+    "total_tokens": 1925,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

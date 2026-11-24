@@ -1,0 +1,41 @@
+{
+  "id": "0e93050cb04449b48f2f988a4a1e45a5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“先别慌”吧……听起来有点可笑，我哪次真做到了。不过，看到名字就呼吸，这个我还能试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“看到名字”这个信号变成暂停的起点，还让我换一句更贴近自己的话。我脑子里冒出来的不是“停一下”，而是更直接、更怕的东西。也许“先别慌”更像我平时会对自己说的，但说出来又觉得有点可笑，我哪次真做到了。）",
+        "reasoning": "（咨询师在帮我把“看到名字”这个信号变成暂停的起点，还让我换一句更贴近自己的话。我脑子里冒出来的不是“停一下”，而是更直接、更怕的东西。也许“先别慌”更像我平时会对自己说的，但说出来又觉得有点可笑，我哪次真做到了。）"
+      }
+    }
+  ],
+  "created": 1795154214,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2380,
+    "total_tokens": 2480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

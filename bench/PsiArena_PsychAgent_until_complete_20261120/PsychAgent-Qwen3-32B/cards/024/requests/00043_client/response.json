@@ -1,0 +1,41 @@
+{
+  "id": "d8df1609d9e848cbbfd08e604b92a6c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）一个人练可能还行，至少没人听见。那我先试试，孩子睡了以后，跟自己说一句。就是不知道能坚持几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）一个人练可能还行，至少没人听见。那我先试试，孩子睡了以后，跟自己说一句。就是不知道能坚持几天。",
+        "reasoning": "（想了想）一个人练可能还行，至少没人听见。那我先试试，孩子睡了以后，跟自己说一句。就是不知道能坚持几天。"
+      }
+    }
+  ],
+  "created": 1795154302,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3204,
+    "total_tokens": 3266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

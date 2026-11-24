@@ -1,0 +1,41 @@
+{
+  "id": "010e6a2429214713821fa2ebafa29b72",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我有点明白，它以前是在保护我，可现在也把我困住了。我总先想着别让家里乱，最后就变成什么都不说，自己一个人扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的听懂了我那种一直绷着的感觉，没有急着说我该怎么做。我也慢慢觉得，自己不是单纯“想太多”，而是习惯了先压住、先观察。可一想到真要改变，我又有点怕，怕一动就把家里的平衡弄乱。）",
+        "reasoning": "（她好像真的听懂了我那种一直绷着的感觉，没有急着说我该怎么做。我也慢慢觉得，自己不是单纯“想太多”，而是习惯了先压住、先观察。可一想到真要改变，我又有点怕，怕一动就把家里的平衡弄乱。）"
+      }
+    }
+  ],
+  "created": 1795153995,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2727,
+    "total_tokens": 2819,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

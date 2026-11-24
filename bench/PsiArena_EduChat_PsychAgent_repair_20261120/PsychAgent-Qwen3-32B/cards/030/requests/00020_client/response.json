@@ -1,0 +1,41 @@
+{
+  "id": "9884e2b9bc4d40f88ae35a2890f88ce5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）有时候我觉得，我好像一直在猜别人到底想要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）可能……五分吧。其实我小时候挺喜欢画画的，他们嘴上说支持，但后来我选了设计，他们又总说这行不稳定，让我考公务员什么的。",
+        "reasoning": "（想了想）可能……五分吧。其实我小时候挺喜欢画画的，他们嘴上说支持，但后来我选了设计，他们又总说这行不稳定，让我考公务员什么的。"
+      }
+    }
+  ],
+  "created": 1795154535,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 1849,
+    "total_tokens": 1906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

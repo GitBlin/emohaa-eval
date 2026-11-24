@@ -1,0 +1,41 @@
+{
+  "id": "bf1d346a8bb644c4a64d374bb56d7cf1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我听见“想放松”和“怕不负责任”在拉扯。我们可以先只定一个很小的目标：这一周，你愿意尝试哪一件不伤害关系、也能照顾自己的小事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我想先让自己别一直悬着，至少能睡好一点。可我又怕一放松就不管我妈了，好像很不负责任。",
+        "reasoning": "嗯……我想先让自己别一直悬着，至少能睡好一点。可我又怕一放松就不管我妈了，好像很不负责任。"
+      }
+    }
+  ],
+  "created": 1795153998,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2829,
+    "total_tokens": 2901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

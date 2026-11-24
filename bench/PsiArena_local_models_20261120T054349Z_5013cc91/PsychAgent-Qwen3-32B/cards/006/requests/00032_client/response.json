@@ -1,0 +1,41 @@
+{
+  "id": "b05b50457f30449c9e30dc6636f54e32",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……可能先试试下班后不马上回家，自己走一段路，缓一缓。就二十分钟吧，不然一进门带着那股气，家里人也难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答用户。注意用户重复了咨询师的话？实际上第16轮需要作为来访者回复。要简短2-3句，后期探索方案，具体化。可能说一件小事，比如下班后不把工作情绪带回家，或找信任的人聊聊。要自然犹豫。不能太有条理。可以选“下班后绕路走二十分钟”或“先跟妻子说一点”。但角色家庭紧张，愧疚。可提“我可能先试着下班后不立刻回家，走一段路，缓一缓”。2-3句。",
+        "reasoning": "我们需要回答用户。注意用户重复了咨询师的话？实际上第16轮需要作为来访者回复。要简短2-3句，后期探索方案，具体化。可能说一件小事，比如下班后不把工作情绪带回家，或找信任的人聊聊。要自然犹豫。不能太有条理。可以选“下班后绕路走二十分钟”或“先跟妻子说一点”。但角色家庭紧张，愧疚。可提“我可能先试着下班后不立刻回家，走一段路，缓一缓”。2-3句。"
+      }
+    }
+  ],
+  "created": 1795153642,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 2672,
+    "total_tokens": 2828,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

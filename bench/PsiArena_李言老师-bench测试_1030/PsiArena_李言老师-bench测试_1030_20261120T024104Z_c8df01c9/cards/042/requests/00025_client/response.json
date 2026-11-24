@@ -1,0 +1,41 @@
+{
+  "id": "9108bc10712a447491613e15cb8b236d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚饭后吧，八点左右，趁还没坐下喝之前出去。我得把酒先收起来，不然怕自己又找借口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把计划具体化，问我几点出门。我本来想说个大概，但心里又觉得不能太虚。想到晚上一个人在家最容易喝，得在饭后就出去，不能等到睡前。）\n（可一想到真要迈出这一步，又有点发虚，怕自己到时候找借口。还是先定在晚饭后吧，把酒收起来，也算给自己一个交代。）",
+        "reasoning": "（咨询师在帮我把计划具体化，问我几点出门。我本来想说个大概，但心里又觉得不能太虚。想到晚上一个人在家最容易喝，得在饭后就出去，不能等到睡前。）\n（可一想到真要迈出这一步，又有点发虚，怕自己到时候找借口。还是先定在晚饭后吧，把酒收起来，也算给自己一个交代。）"
+      }
+    }
+  ],
+  "created": 1795143538,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3389,
+    "total_tokens": 3501,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

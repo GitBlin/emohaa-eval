@@ -1,0 +1,41 @@
+{
+  "id": "022f2f54a66345e2bf439761a636348f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她别急着评价我，哪怕就说“我听见了，你最近挺难的”，我就觉得好一点。是不是我要求太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望同桌怎么回应，这让我有点意外。我本来只想着害怕被挡回来，没想过还能自己先想好期待的样子。）\n（其实我心里是希望她能认真听，不要急着评价我。如果她说“我懂你最近挺难的”，我可能会感觉没那么孤单。但我也担心自己要求太多，毕竟她也不是我的咨询师。）",
+        "reasoning": "（她问我希望同桌怎么回应，这让我有点意外。我本来只想着害怕被挡回来，没想过还能自己先想好期待的样子。）\n（其实我心里是希望她能认真听，不要急着评价我。如果她说“我懂你最近挺难的”，我可能会感觉没那么孤单。但我也担心自己要求太多，毕竟她也不是我的咨询师。）"
+      }
+    }
+  ],
+  "created": 1795143508,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2675,
+    "total_tokens": 2782,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

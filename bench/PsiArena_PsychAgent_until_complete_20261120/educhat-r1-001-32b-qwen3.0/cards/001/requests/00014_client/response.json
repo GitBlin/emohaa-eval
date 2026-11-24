@@ -1,0 +1,41 @@
+{
+  "id": "8859aa3d68ca4a00a0d59dbba4e8d3ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……课间的时候吧。他们都在聊天，我就假装看书。（停顿）其实我也不是不想加入，就是不知道说什么好……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又问了具体情境，但我现在还不想说得太深。刚才已经提到看到别人一起玩时自己一个人待着，这已经够多了。我得先确认他是否真的能理解我，而不是急着分析我。）\n（其实我更想知道他会不会觉得我这样很幼稚，或者会不会像其他人一样说“你应该多交朋友”。现在还不能完全信任他，得看看他接下来的反应再说。）",
+        "reasoning": "（咨询师又问了具体情境，但我现在还不想说得太深。刚才已经提到看到别人一起玩时自己一个人待着，这已经够多了。我得先确认他是否真的能理解我，而不是急着分析我。）\n（其实我更想知道他会不会觉得我这样很幼稚，或者会不会像其他人一样说“你应该多交朋友”。现在还不能完全信任他，得看看他接下来的反应再说。）"
+      }
+    }
+  ],
+  "created": 1795153452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1378,
+    "total_tokens": 1493,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e1a594fe4be9446bb668f165e38c327b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕被否定，怕别人觉得我不行。然后回家又忍不住想，是不是我太敏感了，什么事都往心里去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……怕被否定，怕别人觉得我不行。然后回家又忍不住想，是不是我太敏感了，什么事都往心里去。",
+        "reasoning": "嗯……怕被否定，怕别人觉得我不行。然后回家又忍不住想，是不是我太敏感了，什么事都往心里去。"
+      }
+    }
+  ],
+  "created": 1795153973,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 2072,
+    "total_tokens": 2132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

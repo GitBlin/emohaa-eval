@@ -1,0 +1,41 @@
+{
+  "id": "799afb5da5594dec922ad3fd462116d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，写下来我比较能做得到。那我们下次……还是聊这些吗？我有点怕到时候又不知道从哪儿说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者稍微放松了一点，但听到“下次”时又有些不确定。她愿意继续，但需要确认具体的安排，这符合她谨慎、需要安全感的性格。）",
+        "reasoning": "（来访者稍微放松了一点，但听到“下次”时又有些不确定。她愿意继续，但需要确认具体的安排，这符合她谨慎、需要安全感的性格。）"
+      }
+    }
+  ],
+  "created": 1795148877,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3138,
+    "total_tokens": 3204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

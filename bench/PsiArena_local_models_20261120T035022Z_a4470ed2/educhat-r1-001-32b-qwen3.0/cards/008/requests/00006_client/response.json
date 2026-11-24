@@ -1,0 +1,41 @@
+{
+  "id": "29eb6bff9bb247fe9ce3e750eaa0e768",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周开会吧……我本来挺高兴地提了个想法，结果旁边同事小声说了句“你收敛点”。我当时就……愣住了，后面就一直在想，我是不是表现得太过头了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说具体场景，但我现在还没准备好完全敞开。她问得挺温和的，可我不确定她会不会像别人一样，觉得我太敏感或者想太多。也许先试探一下她的态度比较安全。）\n（我想起上周开会时那种憋着的感觉，但说出来会不会显得我很脆弱？还是先只讲一点点，看看她怎么反应吧。如果她真的能理解，我再多说一些。）",
+        "reasoning": "（咨询师在引导我说具体场景，但我现在还没准备好完全敞开。她问得挺温和的，可我不确定她会不会像别人一样，觉得我太敏感或者想太多。也许先试探一下她的态度比较安全。）\n（我想起上周开会时那种憋着的感觉，但说出来会不会显得我很脆弱？还是先只讲一点点，看看她怎么反应吧。如果她真的能理解，我再多说一些。）"
+      }
+    }
+  ],
+  "created": 1795147205,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1054,
+    "total_tokens": 1186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

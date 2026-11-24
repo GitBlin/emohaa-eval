@@ -1,0 +1,41 @@
+{
+  "id": "55def5419f6c48d2b1214a5d068362a9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（叹气）吃饭没胃口，瘦了好几斤。我妈都问我是不是生病了……（停顿）可我总不能告诉她实话吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在问生活影响，刚才已经说过工作走神、不想见人、看不进书了。她是不是没在认真听我说话？还是想让我说得更具体些？）\n（我有点烦躁，觉得自己在绕圈子。但转念一想，也许她是在帮我理清头绪。不如直接说点实际的，比如吃饭睡觉这些最基本的事，让她知道我已经被这些情绪影响到什么程度了。）",
+        "reasoning": "（咨询师又在问生活影响，刚才已经说过工作走神、不想见人、看不进书了。她是不是没在认真听我说话？还是想让我说得更具体些？）\n（我有点烦躁，觉得自己在绕圈子。但转念一想，也许她是在帮我理清头绪。不如直接说点实际的，比如吃饭睡觉这些最基本的事，让她知道我已经被这些情绪影响到什么程度了。）"
+      }
+    }
+  ],
+  "created": 1795155238,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 2464,
+    "total_tokens": 2583,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

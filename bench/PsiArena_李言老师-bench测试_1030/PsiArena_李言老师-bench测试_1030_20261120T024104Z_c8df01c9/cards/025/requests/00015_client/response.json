@@ -1,0 +1,41 @@
+{
+  "id": "dbb6de9a98594d4b93909bb04492c892",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就安静坐着吧，什么也不干。可我估计真坐那儿又会想家里是不是在等我，心里又过不去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体想怎么利用那几分钟，看来是希望我往行动方向想。可我现在心里有点乱，既觉得这个提议可行，又担心自己真去做了会内疚。）\n（我确实想安静待着，但马上又想到家里人会怎么看。这种矛盾让我有点烦躁，怕自己还没开始改变就先被自己的顾虑绊住。）",
+        "reasoning": "（咨询师在问我具体想怎么利用那几分钟，看来是希望我往行动方向想。可我现在心里有点乱，既觉得这个提议可行，又担心自己真去做了会内疚。）\n（我确实想安静待着，但马上又想到家里人会怎么看。这种矛盾让我有点烦躁，怕自己还没开始改变就先被自己的顾虑绊住。）"
+      }
+    }
+  ],
+  "created": 1795143084,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2399,
+    "total_tokens": 2505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

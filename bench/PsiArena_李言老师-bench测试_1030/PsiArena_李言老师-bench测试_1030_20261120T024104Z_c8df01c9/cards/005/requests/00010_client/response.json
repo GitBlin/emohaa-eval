@@ -1,0 +1,41 @@
+{
+  "id": "51710c45c085483194cce77d7f88b074",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我会想，她是不是觉得我很烦，或者我写得太多了……（停顿）其实这种感觉有点像小时候在家里，没人接我的话，我就会一直猜是不是自己说错了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我最常冒出来的担心是什么，这让我有点紧张。我其实不太想承认自己那么在意别人的回应，但既然已经聊到这里了，也许可以试着说出来。）\n（我想到小时候在家里，爸妈总是很忙，我要是说错话或者表现不好，他们就会沉默很久。那种安静让我特别害怕，好像自己真的做错了什么。现在等消息的时候，那种感觉又回来了。）",
+        "reasoning": "（心理咨询师在问我最常冒出来的担心是什么，这让我有点紧张。我其实不太想承认自己那么在意别人的回应，但既然已经聊到这里了，也许可以试着说出来。）\n（我想到小时候在家里，爸妈总是很忙，我要是说错话或者表现不好，他们就会沉默很久。那种安静让我特别害怕，好像自己真的做错了什么。现在等消息的时候，那种感觉又回来了。）"
+      }
+    }
+  ],
+  "created": 1795142557,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1849,
+    "total_tokens": 1975,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

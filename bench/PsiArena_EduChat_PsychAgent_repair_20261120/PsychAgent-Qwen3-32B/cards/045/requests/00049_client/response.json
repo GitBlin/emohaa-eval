@@ -1,0 +1,41 @@
+{
+  "id": "17402b67a1494664aea71f8caafd214f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我大概知道接下来可以怎么做了。谢谢你今天没有急着给我答案，而是陪我一点点看清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "thinking最有帮助的……可能是发现依赖别人不一定就是添麻烦吧。还有那个小实验，让我觉得有个能具体去做的事，心里没那么悬着了。",
+        "reasoning": "thinking最有帮助的……可能是发现依赖别人不一定就是添麻烦吧。还有那个小实验，让我觉得有个能具体去做的事，心里没那么悬着了。"
+      }
+    }
+  ],
+  "created": 1795155138,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 3423,
+    "total_tokens": 3480,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

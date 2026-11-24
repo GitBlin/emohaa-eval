@@ -1,0 +1,41 @@
+{
+  "id": "be2a69b834684b1084ba03a3e8779ab1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先自己写下来，理一理我到底在怕什么。直接找同事说，我可能还是会紧张。先写，再想下一步。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更想找信任的老师聊聊还是自己整理说明……看来是希望我具体一点。其实我有点怕直接跟同事说，万一被觉得奇怪怎么办。先写下来会让我安心些，至少不用当场组织语言。）\n（不过光写好像也不够，我总得做点什么。也许可以试着在情绪上来时先停一下，别急着压回去。这样听起来不算太难，我好像能试试看。）",
+        "reasoning": "（她问我更想找信任的老师聊聊还是自己整理说明……看来是希望我具体一点。其实我有点怕直接跟同事说，万一被觉得奇怪怎么办。先写下来会让我安心些，至少不用当场组织语言。）\n（不过光写好像也不够，我总得做点什么。也许可以试着在情绪上来时先停一下，别急着压回去。这样听起来不算太难，我好像能试试看。）"
+      }
+    }
+  ],
+  "created": 1795143643,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2667,
+    "total_tokens": 2792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

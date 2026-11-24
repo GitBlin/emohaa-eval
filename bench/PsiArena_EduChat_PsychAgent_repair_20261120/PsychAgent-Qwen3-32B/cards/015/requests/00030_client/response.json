@@ -1,0 +1,41 @@
+{
+  "id": "ccaca4d682454852afe26843a00dd1ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好处就是……至少不会马上吵起来。可憋着憋着，我又觉得自己特别委屈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这一轮仍在中期，需要继续理解根源，但要开始为后期做轻微铺垫。来访者要回答“短期好处”，并自然带出矛盾。）",
+        "reasoning": "（这一轮仍在中期，需要继续理解根源，但要开始为后期做轻微铺垫。来访者要回答“短期好处”，并自然带出矛盾。）"
+      }
+    }
+  ],
+  "created": 1795153978,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 2274,
+    "total_tokens": 2329,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

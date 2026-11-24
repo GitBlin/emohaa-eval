@@ -1,0 +1,41 @@
+{
+  "id": "f6fd285864e4412bb9ea3a1af51eeb86",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "变化……（犹豫）可能不会那么快吧。但至少，我希望在情绪上来的时候，能稍微停一下，别那么慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我坚持两周的期待，这让我有点不确定。我其实没想过能有什么大变化，毕竟这种习惯对我来说太陌生了。但既然他问了，我可能得诚实地说出那种微小的希望。）\n（我想到自己总是被情绪带着走，如果能稍微停一下，哪怕只是喘口气，也许就不会那么慌。但我不敢期待太多，怕又失望。这种矛盾的感觉让我有点紧张。）",
+        "reasoning": "（咨询师在问我坚持两周的期待，这让我有点不确定。我其实没想过能有什么大变化，毕竟这种习惯对我来说太陌生了。但既然他问了，我可能得诚实地说出那种微小的希望。）\n（我想到自己总是被情绪带着走，如果能稍微停一下，哪怕只是喘口气，也许就不会那么慌。但我不敢期待太多，怕又失望。这种矛盾的感觉让我有点紧张。）"
+      }
+    }
+  ],
+  "created": 1795149773,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2767,
+    "total_tokens": 2887,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4aeb4c8b54e84f679e10cf7bee12a145",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我愿意。那我是不是可以定个小目标，比如下次开会，至少试着把想说的话说出来一点，而不是又全部咽回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在提醒我别急，这让我稍微放松一点。我也许可以给自己定个小目标，比如下次开会时，至少试着把想说的话说出来一点，而不是又全部咽回去。）",
+        "reasoning": "（咨询师在提醒我别急，这让我稍微放松一点。我也许可以给自己定个小目标，比如下次开会时，至少试着把想说的话说出来一点，而不是又全部咽回去。）"
+      }
+    }
+  ],
+  "created": 1795153686,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2969,
+    "total_tokens": 3042,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

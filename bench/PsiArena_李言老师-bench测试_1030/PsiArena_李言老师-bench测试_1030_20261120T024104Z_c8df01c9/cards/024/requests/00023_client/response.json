@@ -1,0 +1,41 @@
+{
+  "id": "1bc1f67c2c1d4dfdbb5a2a8eb2e0aca4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像是有一次，孩子在旁边玩，我们说了几句孩子吃饭的事，没吵。可能有事可做的时候，反而没那么僵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次和婆婆轻松聊天的情境，大概是想让我看到关系里还有不那么紧张的时候。我一下子想到的却是孩子，好像只有孩子在中间，我们才能说上几句话。这让我有点感慨，也有点无奈。）\n（我其实不太确定那算不算轻松，但至少没有吵起来。也许我可以从这里开始想，以后能不能多找一些这样自然的小事来搭话，而不是总等着矛盾出现才去面对。）",
+        "reasoning": "（她问我最近一次和婆婆轻松聊天的情境，大概是想让我看到关系里还有不那么紧张的时候。我一下子想到的却是孩子，好像只有孩子在中间，我们才能说上几句话。这让我有点感慨，也有点无奈。）\n（我其实不太确定那算不算轻松，但至少没有吵起来。也许我可以从这里开始想，以后能不能多找一些这样自然的小事来搭话，而不是总等着矛盾出现才去面对。）"
+      }
+    }
+  ],
+  "created": 1795143122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3189,
+    "total_tokens": 3313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

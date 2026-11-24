@@ -1,0 +1,41 @@
+{
+  "id": "be6b57062a454bd79b3a309011d137b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "方法……我试过记账，但坚持不了几天。可能跟我从小的习惯有关吧，我爸妈特别省，可我又……唉，我总想买点好的，又觉得对不起他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不要对自己太苛刻……可我从小就是被这么教育的。爸妈总说钱要花在刀刃上，我这样乱花钱，他们肯定觉得我不懂事。）\n（其实我也知道不该买那些没用的东西，但每次看到朋友晒新包新衣服，就忍不住想跟上。家里条件一般，爸妈省吃俭用供我读书，我却这样，真的挺对不起他们的。）",
+        "reasoning": "（咨询师说不要对自己太苛刻……可我从小就是被这么教育的。爸妈总说钱要花在刀刃上，我这样乱花钱，他们肯定觉得我不懂事。）\n（其实我也知道不该买那些没用的东西，但每次看到朋友晒新包新衣服，就忍不住想跟上。家里条件一般，爸妈省吃俭用供我读书，我却这样，真的挺对不起他们的。）"
+      }
+    }
+  ],
+  "created": 1795154559,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1448,
+    "total_tokens": 1576,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

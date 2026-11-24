@@ -1,0 +1,41 @@
+{
+  "id": "31dccb797e4e49d1b616b5876fdb074b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最近就是……有点提不起劲，也说不上具体为什么。可能说了你也会觉得没什么大不了的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释咨询流程，还问我最想弄清楚什么。我其实不太确定该不该完全信任她，但至少她给了我可以随时暂停的保证，这让我稍微放松一点。我想先试探一下，不要一下子说太多。）\n（我确实不知道该怎么表达自己的感受，好像脑子里很乱。也许可以先模糊地提一下最近的状态，看看她会怎么反应。这样既不会暴露太多，也能观察她是不是真的能理解我。）",
+        "reasoning": "（咨询师在解释咨询流程，还问我最想弄清楚什么。我其实不太确定该不该完全信任她，但至少她给了我可以随时暂停的保证，这让我稍微放松一点。我想先试探一下，不要一下子说太多。）\n（我确实不知道该怎么表达自己的感受，好像脑子里很乱。也许可以先模糊地提一下最近的状态，看看她会怎么反应。这样既不会暴露太多，也能观察她是不是真的能理解我。）"
+      }
+    }
+  ],
+  "created": 1795142482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 969,
+    "total_tokens": 1088,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

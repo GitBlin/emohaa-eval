@@ -1,0 +1,41 @@
+{
+  "id": "a9b8ac6bb5e84f278467df829c987ee8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，先不追求完整。你觉得从哪件小事开始最不容易引发冲突？比如周末安排、买东西，还是工作上的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她开始想具体的场景，语气比之前稳一些）低风险的时刻……比如吃饭的时候聊到周末安排？我可以先试着只说半句，看看会怎么样。",
+        "reasoning": "（她开始想具体的场景，语气比之前稳一些）低风险的时刻……比如吃饭的时候聊到周末安排？我可以先试着只说半句，看看会怎么样。"
+      }
+    }
+  ],
+  "created": 1795147607,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 2812,
+    "total_tokens": 2879,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 37,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

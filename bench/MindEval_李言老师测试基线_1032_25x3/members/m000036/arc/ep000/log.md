@@ -1,0 +1,21 @@
+- Member's rent increased and the shortfall is $325/month, which they have been recalculating nightly for weeks without resolution.
+- Member loops on the same math at 2am hoping it will come out differently, and the repetition is what's wearing them down rather than the arithmetic.
+- Member's identity as "the one who fixes it" makes an unfixable problem feel like a personal failure rather than a circumstance.
+- Member said out loud for the first time that they don't know what to do, and felt lighter rather than stupid afterward.
+- Member says the lightness came from not being told they were being dramatic.
+- Member's goal for counselling is to lay out the options so they can stop circling them.
+- Member posted a roommate listing last week and took it down after one respondent asked if they live alone and what hours they're gone; the other six replies went unread.
+- Member finds a stranger in the apartment unmanageable even with screening, so the roommate option is effectively closed.
+- Member's extra shifts are real income but fall well short of the $325 gap.
+- Member has a folder on the counter with school/training information, unopened since before the rent letter arrived, and fears it will confirm the plan is unaffordable.
+- Member's plan is three years to shift lead and then their own store, written in a notebook by their bed since age 30, and it is the only plan they have that isn't just getting through the month.
+- Member's rule that wanting what the math forbids is foolish traces to doing the electric bill at the kitchen table at age ten.
+- Member rejected "both can be true" as useless for deciding what to do on a Tuesday night with the folder on the counter.
+- Member set two conditions for opening the folder: not at 1am, and not alone.
+- Member named Marisol as the person to call because she wouldn't make it weird.
+- Member's opening sentence to Marisol would be "my rent went up and I don't know what I'm doing," and they consider it stupid to type.
+- Member told Marisol "busy, good busy" on Sunday when she asked how they were.
+- Member says typing the message to Marisol is easy; the barrier is bracing for her reaction, specifically a worried "oh" that would make them feel like a problem.
+- Member's realistic worst case for the call is Marisol offering a few hundred dollars, requiring them to decline without it becoming an issue.
+- Member has not yet opened the folder [open].
+- Member has not yet contacted Marisol [open].

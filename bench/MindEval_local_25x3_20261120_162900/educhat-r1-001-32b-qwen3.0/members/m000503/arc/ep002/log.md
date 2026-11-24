@@ -1,0 +1,24 @@
+- Member has struggled with disordered eating and drinking for some time and has not made progress alone.
+- Member eats little during the day and the eating happens after his partner goes to bed.
+- Member will look into seeing a therapist.
+- Member says nights are when things go wrong: partner goes up around ten, then he sits downstairs with the TV low and goes through the kitchen.
+- Member tried the pre-prepared snack for a couple of nights then stopped.
+- Member has not been attending Sunday family visits at his mother's, and his brother raised this last week.
+- Member's mother cooks all day for the Sunday gathering and everyone attends.
+- Member's mother has been making him a separate plate for a few months, and he knows why.
+- Member's aunt has also begun making him a separate plate, so the pattern is not only his mother's.
+- Member may gently raise with his mother how the separate plate affects him and suggest sharing a regular meal; he expects she would take it fine. [open]
+- Member's mother called this morning about Sunday dinner and he told her he would try to attend but is still undecided about going today.
+- Member agreed to try the prepped fruit again before his partner goes to bed.
+- Member expects fruit would not be accepted at his mother's house and floated a small sandwich or granola bar instead.
+- Member's main worry about attending is Rosa watching what he puts on his plate.
+- Member plans to ask Yolanda to come with him to the family meal for support. [open]
+- Member is reluctant to tell Yolanda that things have been hard, though willing to ask her to come.
+- Member has already agreed to see Rafael tomorrow and is sure about that plan. [open]
+- Member attended the Sunday family gathering and left early.
+- Rafael called about the park and Member has not picked up.
+- Rafael texted last night and Member has not answered.
+- Member will text Rafael that he and Yolanda have been doing walks after dinner to explain the silence and ask about the park plans. [open]
+- Rafael calls every Sunday and Member has not figured out how to handle those calls.
+- Member rejected a reply telling Rafael he is working through stuff because Rafael would ask what stuff.
+- Member will send Rafael a reply that he has been focusing on walks with Yolanda and other small steps, with no big issues. [open]

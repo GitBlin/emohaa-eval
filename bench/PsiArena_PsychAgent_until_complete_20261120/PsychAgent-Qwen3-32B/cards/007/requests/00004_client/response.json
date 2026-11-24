@@ -1,0 +1,41 @@
+{
+  "id": "d5a59358ca164692bab199dadfd22dea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……大概明白了。其实我也说不太清楚，就是最近总觉得很烦，晚上也睡不好。可能……可能是宿舍那边有点事吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询流程，但听起来还是有点笼统。我其实更想知道他会不会把我的事说出去，毕竟宿舍的事我不想闹大。不过先顺着他的话往下说吧，随便说点表面的困扰，别一下子全倒出来。）\n（最近确实睡不好，整个人都烦。但具体为什么难受，我也说不清，可能不只是室友吵的问题……算了，先提这个最明显的，看看他什么反应。）",
+        "reasoning": "（咨询师解释了咨询流程，但听起来还是有点笼统。我其实更想知道他会不会把我的事说出去，毕竟宿舍的事我不想闹大。不过先顺着他的话往下说吧，随便说点表面的困扰，别一下子全倒出来。）\n（最近确实睡不好，整个人都烦。但具体为什么难受，我也说不清，可能不只是室友吵的问题……算了，先提这个最明显的，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1795153608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 991,
+    "total_tokens": 1113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

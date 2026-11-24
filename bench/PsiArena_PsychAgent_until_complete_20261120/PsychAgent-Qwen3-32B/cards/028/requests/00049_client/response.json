@@ -1,0 +1,41 @@
+{
+  "id": "1a78c14117cb4348bdcdbb2dd8a58646",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我试试吧。至少现在……好像没那么慌了，知道可以先说“我先缓一缓”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "thinking如果她追问，你可以重复同一句，或者加一个理由，比如“我先看一下这周安排，等会儿再回你”。关键是在那一刻先照顾自己，不必马上满足对方的追问。",
+        "reasoning": "thinking如果她追问，你可以重复同一句，或者加一个理由，比如“我先看一下这周安排，等会儿再回你”。关键是在那一刻先照顾自己，不必马上满足对方的追问。"
+      }
+    }
+  ],
+  "created": 1795154431,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3793,
+    "total_tokens": 3859,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

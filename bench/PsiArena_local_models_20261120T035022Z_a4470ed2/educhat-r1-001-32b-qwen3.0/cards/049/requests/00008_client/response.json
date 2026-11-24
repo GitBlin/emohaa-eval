@@ -1,0 +1,41 @@
+{
+  "id": "b14e853d949b4bd8b641088bdbb4f98c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱眉想了想）灰色吧……一团乱糟糟的毛线，越扯越紧那种。不过这样描述好像有点傻。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用画画的方式让我描述感受，这让我有点意外。我本来以为会问具体的事情，结果却是这种抽象的问题。我确实不太习惯这样表达，家里从来不会用这种方式谈感受。）\n（不过既然来了，还是试着配合一下吧。灰色毛线团这个比喻好像挺贴切的，那种缠在一起、理不清的感觉。说出来之后，反而觉得有点不好意思，好像暴露了什么。）",
+        "reasoning": "（咨询师用画画的方式让我描述感受，这让我有点意外。我本来以为会问具体的事情，结果却是这种抽象的问题。我确实不太习惯这样表达，家里从来不会用这种方式谈感受。）\n（不过既然来了，还是试着配合一下吧。灰色毛线团这个比喻好像挺贴切的，那种缠在一起、理不清的感觉。说出来之后，反而觉得有点不好意思，好像暴露了什么。）"
+      }
+    }
+  ],
+  "created": 1795150323,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1134,
+    "total_tokens": 1249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

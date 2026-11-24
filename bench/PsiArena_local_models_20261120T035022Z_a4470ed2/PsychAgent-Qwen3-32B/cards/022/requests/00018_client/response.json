@@ -1,0 +1,41 @@
+{
+  "id": "fdd6c6b78af74a97966dc84618091696",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）好像更像是提醒我别出错吧……不过有时候我也觉得，我越说自己不好，我妈反而越愿意听我讲。这算不算有点奇怪？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这个问题让我想想。自责像是在保护我什么吗……（停顿）我觉得更像是提醒我吧，提醒我别出错，别让人失望。但奇怪的是，有时候我明明已经很小心了，还是会忍不住检讨自己。而且我发现，我跟我妈说话的时候特别明显，我越说自己不好，她反而越愿意听。",
+        "reasoning": "嗯，这个问题让我想想。自责像是在保护我什么吗……（停顿）我觉得更像是提醒我吧，提醒我别出错，别让人失望。但奇怪的是，有时候我明明已经很小心了，还是会忍不住检讨自己。而且我发现，我跟我妈说话的时候特别明显，我越说自己不好，她反而越愿意听。"
+      }
+    }
+  ],
+  "created": 1795147245,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1861,
+    "total_tokens": 1966,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

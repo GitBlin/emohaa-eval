@@ -1,0 +1,41 @@
+{
+  "id": "80b75a4c42c249ad834b992bb35499eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，我会的。这周我先把这几件小事做了，做不好也不硬撑。我妈那边……我还是怕，但我想再试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说要随时联系他，这让我感觉有人支持，心里踏实了些。但一想到母亲，那种无力感又冒出来了。我得让他知道我的真实状态，不能光说好听的。）\n（这周先做那几件小事，别贪多。母亲那边，我还是怕自己撑不住，得提前说清楚，免得下次又崩溃了。）",
+        "reasoning": "（咨询师说要随时联系他，这让我感觉有人支持，心里踏实了些。但一想到母亲，那种无力感又冒出来了。我得让他知道我的真实状态，不能光说好听的。）\n（这周先做那几件小事，别贪多。母亲那边，我还是怕自己撑不住，得提前说清楚，免得下次又崩溃了。）"
+      }
+    }
+  ],
+  "created": 1795148364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3086,
+    "total_tokens": 3195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

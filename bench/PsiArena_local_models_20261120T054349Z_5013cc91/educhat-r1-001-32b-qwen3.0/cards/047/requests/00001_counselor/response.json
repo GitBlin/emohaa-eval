@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-4cfd920abdc641f28e8e53affc09f27e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，看到你愿意与我分享你的困扰，这本身就是一种勇敢的表现。我很乐意倾听你的故事，有什么困扰着你的吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：初次接触，需建立信任关系。\n【行动策略】：表达欢迎和关怀，鼓励倾诉。\n",
+        "reasoning_content": "\n【诊断分析】：初次接触，需建立信任关系。\n【行动策略】：表达欢迎和关怀，鼓励倾诉。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155285,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 196,
+    "total_tokens": 256,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

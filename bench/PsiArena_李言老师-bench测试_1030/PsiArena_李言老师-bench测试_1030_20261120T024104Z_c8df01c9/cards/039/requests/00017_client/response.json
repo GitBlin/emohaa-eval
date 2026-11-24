@@ -1,0 +1,41 @@
+{
+  "id": "1ce5955da76c4f2f8f3805bdfae0931d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能更怕自己说不清楚吧。我一紧张就容易绕，最后他听到的重点可能完全不是我想表达的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我更担心哪个，这让我得停下来想一想。其实两个都怕，但好像怕的东西不太一样。我担心他听完的反应，但更怕自己一开口就乱了，把本来在乎他说成别的意思。）\n（也许我该承认这一点。我平时说话就容易绕，一紧张更说不清。如果连自己都表达不好，那还不如先想好到底要说什么，至少别让他误会我是在找借口。）",
+        "reasoning": "（咨询师问我更担心哪个，这让我得停下来想一想。其实两个都怕，但好像怕的东西不太一样。我担心他听完的反应，但更怕自己一开口就乱了，把本来在乎他说成别的意思。）\n（也许我该承认这一点。我平时说话就容易绕，一紧张更说不清。如果连自己都表达不好，那还不如先想好到底要说什么，至少别让他误会我是在找借口。）"
+      }
+    }
+  ],
+  "created": 1795143423,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2567,
+    "total_tokens": 2685,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

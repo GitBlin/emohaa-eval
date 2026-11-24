@@ -1,0 +1,41 @@
+{
+  "id": "2b6d7af9af4e4a5ea95ec1c2c5424942",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "每天少一两……听着好像能做到，但我怕自己坚持不了几天。要不……我先试三天看看？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在进入后期阶段，目标是探索解决方案和行动计划。咨询师提出了一个具体的减酒计划，我需要回应这个建议。考虑到角色是焦虑、自责但又有改变意愿的企业主，我应该表现出对计划的犹豫但愿意尝试的态度。可以提到担心自己坚持不了，但愿意先试几天看看。同时要避免过于积极的承诺，保持真实感。回复要简短，控制在2-3句。",
+        "reasoning": "用户现在进入后期阶段，目标是探索解决方案和行动计划。咨询师提出了一个具体的减酒计划，我需要回应这个建议。考虑到角色是焦虑、自责但又有改变意愿的企业主，我应该表现出对计划的犹豫但愿意尝试的态度。可以提到担心自己坚持不了，但愿意先试几天看看。同时要避免过于积极的承诺，保持真实感。回复要简短，控制在2-3句。"
+      }
+    }
+  ],
+  "created": 1795148499,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2645,
+    "total_tokens": 2753,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

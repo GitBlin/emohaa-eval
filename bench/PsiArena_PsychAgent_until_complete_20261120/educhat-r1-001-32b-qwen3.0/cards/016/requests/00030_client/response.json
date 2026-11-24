@@ -1,0 +1,41 @@
+{
+  "id": "8ddb199171ae40389d53a6abf665db7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟我爸聊？（声音有点发紧）我不敢。我怕我一开口就控制不住，会质问他，然后……然后一切就都摊开了。我还没准备好面对那个结果。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到和爸爸好好聊聊，这让我心里一紧。我其实一直不敢想这个选项，因为光是想象那个场景就让我害怕。我担心自己会控制不住情绪，更怕听到不想听的答案。）\n（作为家里的一员，我总觉得应该维护表面的和谐，但这件事已经压得我喘不过气了。也许咨询师说得对，逃避不是办法，可我真的不知道该怎么开口。）",
+        "reasoning": "（咨询师提到和爸爸好好聊聊，这让我心里一紧。我其实一直不敢想这个选项，因为光是想象那个场景就让我害怕。我担心自己会控制不住情绪，更怕听到不想听的答案。）\n（作为家里的一员，我总觉得应该维护表面的和谐，但这件事已经压得我喘不过气了。也许咨询师说得对，逃避不是办法，可我真的不知道该怎么开口。）"
+      }
+    }
+  ],
+  "created": 1795154066,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2234,
+    "total_tokens": 2359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

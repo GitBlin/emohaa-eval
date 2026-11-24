@@ -1,0 +1,41 @@
+{
+  "id": "c8b279cb2552487192c1f4e2cc09f9fd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "稍微有点怕，但好像也能试试。至少不用马上跟谁摊牌，先自己理一理。",
+        "reasoning": "稍微有点怕，但好像也能试试。至少不用马上跟谁摊牌，先自己理一理。"
+      }
+    }
+  ],
+  "created": 1795157269,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 3013,
+    "total_tokens": 3037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

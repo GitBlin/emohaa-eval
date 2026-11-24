@@ -1,0 +1,41 @@
+{
+  "id": "94badb92b7e94790bed671a2cc9152bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以的。我们强调“可承受”的范围，任何时候如果不适超过承受，就缩短暂停时间，或者改用更温和的方式。你的节奏最重要。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，10秒听起来没那么吓人。那如果10秒可以了，我是不是可以自己慢慢加？不用每次都等到下次咨询吧？",
+        "reasoning": "嗯，10秒听起来没那么吓人。那如果10秒可以了，我是不是可以自己慢慢加？不用每次都等到下次咨询吧？"
+      }
+    }
+  ],
+  "created": 1795148867,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 2844,
+    "total_tokens": 2907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

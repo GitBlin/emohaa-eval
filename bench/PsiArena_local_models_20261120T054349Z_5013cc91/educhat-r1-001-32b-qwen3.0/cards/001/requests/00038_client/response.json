@@ -1,0 +1,41 @@
+{
+  "id": "9dff8448cd4e4ca5a7930b8a54cdc28b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "每天一句……（点头）这个可能做得到。但写完之后呢？我还是不敢和别人说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议每天写一句“我感觉”，这听起来简单但对我来说还是有点难。我担心写了之后还是不敢和别人交流，那写这些又有什么用呢？不过既然咨询师这么说了，也许可以试试看，至少比什么都不做强。）\n（我其实更想知道写完之后该怎么迈出下一步。光是写日记好像解决不了实际的人际交往问题，还是得和人说话才行。但直接说出来会不会显得太着急了？）",
+        "reasoning": "（咨询师建议每天写一句“我感觉”，这听起来简单但对我来说还是有点难。我担心写了之后还是不敢和别人交流，那写这些又有什么用呢？不过既然咨询师这么说了，也许可以试试看，至少比什么都不做强。）\n（我其实更想知道写完之后该怎么迈出下一步。光是写日记好像解决不了实际的人际交往问题，还是得和人说话才行。但直接说出来会不会显得太着急了？）"
+      }
+    }
+  ],
+  "created": 1795153486,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2466,
+    "total_tokens": 2580,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

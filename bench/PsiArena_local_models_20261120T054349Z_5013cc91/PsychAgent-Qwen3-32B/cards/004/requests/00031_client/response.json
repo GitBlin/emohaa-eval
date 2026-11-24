@@ -1,0 +1,41 @@
+{
+  "id": "c84aa9c96d5f46ca8be6150d9654cce1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（抬头看了一眼，又低下去）其实……我也想有个能说话的人。老师，如果我试着跟班主任讲，你会不会觉得我太麻烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了一会儿，声音有点闷）它担心……我要是反抗了，就真的没人管我了。我爸妈不在，老师也帮不上，我就一个人。",
+        "reasoning": "（想了一会儿，声音有点闷）它担心……我要是反抗了，就真的没人管我了。我爸妈不在，老师也帮不上，我就一个人。"
+      }
+    }
+  ],
+  "created": 1795153611,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 2591,
+    "total_tokens": 2658,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

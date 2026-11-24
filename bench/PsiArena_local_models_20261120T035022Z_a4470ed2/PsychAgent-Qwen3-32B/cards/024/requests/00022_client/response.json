@@ -1,0 +1,41 @@
+{
+  "id": "3d90abc88abc4e77b67ff8d6bb6aadc9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“停”可能最难吧……我一停下来就不知道该怎么办，家里从小也没教过怎么好好说。要不……先从“想”那句对自己友好的话试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在是在第11轮，属于中期阶段。我得按照规则，每轮只针对一个方面回复。上一轮咨询师提出了“停—想—选”的练习，并问我想从哪个环节开始。我需要表现出逐渐信任咨询师，开始深入表达，但也要保持简短，2-3句，有犹豫和跳跃。不能太直接，要自然。可以表达对练习的犹豫，同时揭示一点文化背景的影响。比如提到家里习惯忍耐，所以“停”可能最难，因为一停就不知道该怎么办。这样既回应了问题，又带出文化背景，符合中期目标。",
+        "reasoning": "用户现在是在第11轮，属于中期阶段。我得按照规则，每轮只针对一个方面回复。上一轮咨询师提出了“停—想—选”的练习，并问我想从哪个环节开始。我需要表现出逐渐信任咨询师，开始深入表达，但也要保持简短，2-3句，有犹豫和跳跃。不能太直接，要自然。可以表达对练习的犹豫，同时揭示一点文化背景的影响。比如提到家里习惯忍耐，所以“停”可能最难，因为一停就不知道该怎么办。这样既回应了问题，又带出文化背景，符合中期目标。"
+      }
+    }
+  ],
+  "created": 1795147353,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 1889,
+    "total_tokens": 2054,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 130,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

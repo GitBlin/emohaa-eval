@@ -1,0 +1,41 @@
+{
+  "id": "44a02589f8ff4191afc7be9987ec54b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）怕他觉得这么简单都不会吧。（停顿，又补了一句）不过问个题，好像比我瞎想要好一点。要不……我先试一次看看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我更担心被打断还是担心问题太简单。这两个我其实都想过，但更怕的是自己问得太笨，对方会不会觉得我连这个都不会。）\n（不过刚才说从同桌问个题开始，感觉好像真的可以试试。虽然还是有点紧张，但至少知道下一步可以做什么了，不用一直卡在这里。）",
+        "reasoning": "（咨询师问的是我更担心被打断还是担心问题太简单。这两个我其实都想过，但更怕的是自己问得太笨，对方会不会觉得我连这个都不会。）\n（不过刚才说从同桌问个题开始，感觉好像真的可以试试。虽然还是有点紧张，但至少知道下一步可以做什么了，不用一直卡在这里。）"
+      }
+    }
+  ],
+  "created": 1795142692,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3365,
+    "total_tokens": 3475,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5ed335f98cd94a92af9cfaea6ec1ea3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好像没在听我说我妈的事……算了，温度计我会记的。不过我总觉得，丢了东西就是我自己没管好，这种想法是不是不太对劲？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了同样的话，感觉他没在认真听我说。我说我妈的事，他好像只关心那个温度计方法。这让我有点不舒服，好像我的感受被忽略了。）\n（不过，也许他是在坚持那个方法，觉得对我有用？但我还是想说说我自己的感觉。我总觉得丢了东西就特别自责，好像全是我的错，这种想法可能跟我妈有关。我得把这点说出来，看看他这次会不会认真回应。）",
+        "reasoning": "（咨询师又重复了同样的话，感觉他没在认真听我说。我说我妈的事，他好像只关心那个温度计方法。这让我有点不舒服，好像我的感受被忽略了。）\n（不过，也许他是在坚持那个方法，觉得对我有用？但我还是想说说我自己的感觉。我总觉得丢了东西就特别自责，好像全是我的错，这种想法可能跟我妈有关。我得把这点说出来，看看他这次会不会认真回应。）"
+      }
+    }
+  ],
+  "created": 1795150251,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1865,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

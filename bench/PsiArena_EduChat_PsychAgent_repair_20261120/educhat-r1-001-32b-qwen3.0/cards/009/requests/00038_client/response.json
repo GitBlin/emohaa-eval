@@ -1,0 +1,41 @@
+{
+  "id": "1a7161a4082240b5bf3c81e78b3eb549",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）好吧，那我就试试。每天练一次……我尽量。不过您能不能先帮我设想一个具体的小场景？我怕回去又不知道从哪儿下手。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又让我现在试试，可我刚才已经试过两次了，心里有点没底。他说从每天的小练习开始，听起来好像很简单，但我担心自己做不到，或者做了又退回原点。）\n（不过，既然都聊到这儿了，也许可以先想一个具体的小场景，这样回去也知道怎么练。总不能一直光说不练吧，虽然还是有点发怵。）",
+        "reasoning": "（咨询师又让我现在试试，可我刚才已经试过两次了，心里有点没底。他说从每天的小练习开始，听起来好像很简单，但我担心自己做不到，或者做了又退回原点。）\n（不过，既然都聊到这儿了，也许可以先想一个具体的小场景，这样回去也知道怎么练。总不能一直光说不练吧，虽然还是有点发怵。）"
+      }
+    }
+  ],
+  "created": 1795153780,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2633,
+    "total_tokens": 2751,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "85c932cb3a594092ad1bdaf988e5fd5e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（试着感受了一下）呼吸吧……会卡在胸口，吸不深。（停顿）肩膀是后来才觉得酸的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我缩起来的时候身体最先有感觉的地方，是在帮我更具体地觉察紧张时的身体反应。这让我有点犹豫，因为平时很少这么仔细地留意自己，但好像确实能感觉到呼吸会先卡住。）\n（我有点不确定该不该说得这么细，怕显得自己太敏感。不过既然已经聊到这里了，试着描述一下应该没关系吧。肩膀和呼吸好像都有，但呼吸更明显一点。）",
+        "reasoning": "（咨询师在问我缩起来的时候身体最先有感觉的地方，是在帮我更具体地觉察紧张时的身体反应。这让我有点犹豫，因为平时很少这么仔细地留意自己，但好像确实能感觉到呼吸会先卡住。）\n（我有点不确定该不该说得这么细，怕显得自己太敏感。不过既然已经聊到这里了，试着描述一下应该没关系吧。肩膀和呼吸好像都有，但呼吸更明显一点。）"
+      }
+    }
+  ],
+  "created": 1795142639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2772,
+    "total_tokens": 2892,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

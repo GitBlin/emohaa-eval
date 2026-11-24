@@ -1,0 +1,41 @@
+{
+  "id": "bcd6cae11bc64d7584c8b513837958ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "当然可以。卡住不是失败，是我们可以一起继续工作的材料。你已经很努力了，下次见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（轻轻点头，语气里带着一点不确定但比之前坚定）好，那我先试试这十分钟。要是又卡住了……我下次还能来接着聊吗？",
+        "reasoning": "（轻轻点头，语气里带着一点不确定但比之前坚定）好，那我先试试这十分钟。要是又卡住了……我下次还能来接着聊吗？"
+      }
+    }
+  ],
+  "created": 1795154017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 3531,
+    "total_tokens": 3591,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

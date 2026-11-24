@@ -1,0 +1,41 @@
+{
+  "id": "f16f63b00b89426b9edede04688661b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作就是对着电脑做数据，挺忙的。下班回家也就那样吧……嗯，其实我有时候会想，是不是我太在意别人了？但具体说也说不清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我的日常生活，我其实不太想这么快就说得太细。但她问得挺温和的，好像也没有逼我。我可以稍微讲一点工作，但不想说太多家庭的事，毕竟还不熟。先随便说两句应付一下吧，看看她接下来会怎么问。）\n（不过她好像挺关注我的情绪，也许我可以试探一下她，看看到底能聊到什么程度。毕竟咨询师也是人，会不会也像朋友那样关心我？）",
+        "reasoning": "（咨询师问我的日常生活，我其实不太想这么快就说得太细。但她问得挺温和的，好像也没有逼我。我可以稍微讲一点工作，但不想说太多家庭的事，毕竟还不熟。先随便说两句应付一下吧，看看她接下来会怎么问。）\n（不过她好像挺关注我的情绪，也许我可以试探一下她，看看到底能聊到什么程度。毕竟咨询师也是人，会不会也像朋友那样关心我？）"
+      }
+    }
+  ],
+  "created": 1795146953,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1062,
+    "total_tokens": 1201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

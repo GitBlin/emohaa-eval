@@ -1,0 +1,41 @@
+{
+  "id": "8f1cc84b28b147829d8e1fc9316c7f1b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最担心的还是她问“那要等到什么时候”……我根本答不上来，怕她又失望。还有相亲那天，我怕自己表现不好，回来还要被追着问。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像是在帮我把话说得更完整，但“具体要等多久”还是让我有点慌。我确实怕被追着要一个期限，也怕自己答应了又做不到。）\n（不过她问我现在最担心什么，我脑子里最先冒出来的还是相亲那天。我担心自己表现不好，更担心回来以后又被问来问去，那种感觉像没完没了。）",
+        "reasoning": "（她好像是在帮我把话说得更完整，但“具体要等多久”还是让我有点慌。我确实怕被追着要一个期限，也怕自己答应了又做不到。）\n（不过她问我现在最担心什么，我脑子里最先冒出来的还是相亲那天。我担心自己表现不好，更担心回来以后又被问来问去，那种感觉像没完没了。）"
+      }
+    }
+  ],
+  "created": 1795143083,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 3037,
+    "total_tokens": 3157,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

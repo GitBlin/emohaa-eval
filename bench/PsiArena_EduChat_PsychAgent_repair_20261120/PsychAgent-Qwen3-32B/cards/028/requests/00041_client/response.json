@@ -1,0 +1,41 @@
+{
+  "id": "f6dad552dd0541e9952080453ae8a5e8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我听见你担心“到时候想不起来”。我们可以把提醒放在更容易被看到的地方，比如手机锁屏或便签；不必靠临场记忆。你更愿意用哪种方式？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……“我在练习慢下来”，这句话还行，不算太别扭。（停顿）但真到那种时候，我怕自己根本想不起来说。",
+        "reasoning": "嗯……“我在练习慢下来”，这句话还行，不算太别扭。（停顿）但真到那种时候，我怕自己根本想不起来说。"
+      }
+    }
+  ],
+  "created": 1795154421,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 3384,
+    "total_tokens": 3455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

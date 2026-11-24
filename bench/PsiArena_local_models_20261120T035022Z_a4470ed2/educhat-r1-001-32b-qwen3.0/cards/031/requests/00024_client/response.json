@@ -1,0 +1,41 @@
+{
+  "id": "12f882ffc5ad49f9821afcd4ddc3493a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在的我……（想了一会儿）好像比以前好一点，至少能笑出来了。可一碰到她，那些老感觉又全回来了，挡都挡不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到区分过去的我和现在的我，这让我有点措手不及。我确实很少去想现在的自己是什么样，平时光是应付那些自我怀疑就够累了。）\n（不过她这么问，好像是在提醒我，我不该一直被过去困住。我最近确实有些变化，能笑出来了，虽然还是不太习惯。但一想到那个女生，那种配不上的感觉又回来了，好像这些改变根本不算什么。）",
+        "reasoning": "（咨询师提到区分过去的我和现在的我，这让我有点措手不及。我确实很少去想现在的自己是什么样，平时光是应付那些自我怀疑就够累了。）\n（不过她这么问，好像是在提醒我，我不该一直被过去困住。我最近确实有些变化，能笑出来了，虽然还是不太习惯。但一想到那个女生，那种配不上的感觉又回来了，好像这些改变根本不算什么。）"
+      }
+    }
+  ],
+  "created": 1795149201,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1835,
+    "total_tokens": 1960,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

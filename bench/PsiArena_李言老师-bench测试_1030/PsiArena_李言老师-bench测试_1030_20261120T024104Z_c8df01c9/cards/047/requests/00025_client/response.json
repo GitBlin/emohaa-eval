@@ -1,0 +1,41 @@
+{
+  "id": "17c479b98a704e56b1d34a7883eca59c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "今天写下来之后，好像心里没那么堵了。至少我知道自己可以先跟妈妈试着开个头。这样算不算一点放松？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我今天有什么放松的小事，这让我有点意外，因为之前都在谈沉重的感受。我下意识地想说“没什么”，但仔细想想，刚才把那些担心写下来、说出口之后，好像确实没有之前那么堵了。也许可以试着承认这一点，不用再像以前那样把情绪都压着。不过说完之后还是有点不确定，怕自己是不是太容易满足了，所以想问问咨询师这样想对不对。）",
+        "reasoning": "（咨询师在问我今天有什么放松的小事，这让我有点意外，因为之前都在谈沉重的感受。我下意识地想说“没什么”，但仔细想想，刚才把那些担心写下来、说出口之后，好像确实没有之前那么堵了。也许可以试着承认这一点，不用再像以前那样把情绪都压着。不过说完之后还是有点不确定，怕自己是不是太容易满足了，所以想问问咨询师这样想对不对。）"
+      }
+    }
+  ],
+  "created": 1795143681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3258,
+    "total_tokens": 3380,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

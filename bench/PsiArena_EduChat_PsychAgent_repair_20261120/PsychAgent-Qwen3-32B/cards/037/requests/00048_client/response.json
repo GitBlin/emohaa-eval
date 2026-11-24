@@ -1,0 +1,41 @@
+{
+  "id": "164b2c87e2b64637b40c84f537f40c5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能感觉松一点就好，担心还在也正常，不用急着把它赶走。我们下次再看你这一周的记录。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，那我先试一周，有记录下次带来。今天聊完好像没那么堵了，虽然还是有点担心。",
+        "reasoning": "好的，那我先试一周，有记录下次带来。今天聊完好像没那么堵了，虽然还是有点担心。"
+      }
+    }
+  ],
+  "created": 1795154856,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 3125,
+    "total_tokens": 3177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

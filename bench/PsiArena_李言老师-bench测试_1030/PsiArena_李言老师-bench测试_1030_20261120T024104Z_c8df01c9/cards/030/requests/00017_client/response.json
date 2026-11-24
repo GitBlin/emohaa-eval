@@ -1,0 +1,41 @@
+{
+  "id": "173422cfb24a43d98302619005fb899c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能问一句“你想说说吗”就够了。不过我也不想每次都等他猜，我是不是也得试着把话说清楚一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清具体想要什么，而不是笼统地觉得对方不好。这让我觉得可以试着把需求说得更清楚一点，哪怕有点笨拙。）\n（我平时不太习惯直接提要求，但既然在咨询里，可以试着想一个具体的小办法。比如先让他知道我需要他听，而不是马上解决问题。）",
+        "reasoning": "（咨询师在帮我理清具体想要什么，而不是笼统地觉得对方不好。这让我觉得可以试着把需求说得更清楚一点，哪怕有点笨拙。）\n（我平时不太习惯直接提要求，但既然在咨询里，可以试着想一个具体的小办法。比如先让他知道我需要他听，而不是马上解决问题。）"
+      }
+    }
+  ],
+  "created": 1795143122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2508,
+    "total_tokens": 2609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

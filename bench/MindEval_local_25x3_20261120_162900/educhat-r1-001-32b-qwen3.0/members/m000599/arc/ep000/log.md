@@ -1,0 +1,16 @@
+- Member is newly divorced (a few months ago) and sought counselling because she is not through the worst of it and wants help getting back to her normal life.
+- Member has an unanswered message from a friend and has not replied because she does not know what to say.
+- Member rejected drafting or sending a text line in session and rejected a "thank you for checking in" reply as untrue to send; the thank-you phrasing was the closest of the options offered.
+- Member works every weekend and finds the overtime fine and herself good at it — the difficulty is the time away from work, not the workload.
+- Member rejected a "warm hug playlist" suggestion and a 5-minute video call suggestion as not her thing.
+- Member will not set a phone reminder over the text and will not write a journal note to her sister.
+- Member's sister Dana called on Sunday and Member let it ring out; Member's usual reply is a text along the lines of "Crazy week, love you" every Sunday.
+- Member will not tell Dana she is "doing better" because it isn't true, and will not send a message implying recovery.
+- Member fears that if she told Dana she is not okay, Dana would drive over immediately, and Member does not want to spend her sister's Sunday on herself.
+- Member's actual goal is to sit in her chair at book club again without being visibly a mess the whole time.
+- Member says that when someone asks how she is doing, her face reacts before she can stop it; she describes this as not spiralling.
+- Member objected that the counsellor kept handing her sentences to say instead of listening, and said nobody talks like that and she would never say those lines to a person.
+- Member sits with the settlement papers every Sunday night and re-reads them, going back over the last year looking for where she should have caught the divorce coming — the same list every time.
+- Member says catching things is her job (forty hours a week on the phones) and that after twenty-two years she did not see it, so she cannot claim she lacked the tools.
+- Member said the papers were the truest thing she had said in the session and felt the counsellor moved on from it; she restated it when asked.
+- Member rejected the suggestion to "turn the page" on the papers and ended the session early, apologising.

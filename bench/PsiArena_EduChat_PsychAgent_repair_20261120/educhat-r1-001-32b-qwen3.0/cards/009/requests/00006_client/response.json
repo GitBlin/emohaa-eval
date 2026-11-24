@@ -1,0 +1,41 @@
+{
+  "id": "70d4f2c08edf4d82904d73cbd5037738",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）最近……有个同事让我帮忙做个项目，我拒绝了。其实我自己的活也很多，但看到她不太高兴的样子，我心里就一直不舒服。可能是我太敏感了吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我最近一次特别疲惫的时刻，这让我有点犹豫。虽然她看起来很温和，但我还不确定能不能完全信任她。毕竟我们才刚开始对话，我需要先试探一下她是否真的能理解我的处境。）\n（作为社区工作者，我习惯了照顾别人的感受，现在突然要谈论自己的困扰反而有些不自在。不过既然来都来了，或许可以稍微提一下最近拒绝同事的事，但不要说得太详细，先看看她的反应。毕竟这件事让我很内疚，说出来可能会有点难为情。）",
+        "reasoning": "（心理咨询师在问我最近一次特别疲惫的时刻，这让我有点犹豫。虽然她看起来很温和，但我还不确定能不能完全信任她。毕竟我们才刚开始对话，我需要先试探一下她是否真的能理解我的处境。）\n（作为社区工作者，我习惯了照顾别人的感受，现在突然要谈论自己的困扰反而有些不自在。不过既然来都来了，或许可以稍微提一下最近拒绝同事的事，但不要说得太详细，先看看她的反应。毕竟这件事让我很内疚，说出来可能会有点难为情。）"
+      }
+    }
+  ],
+  "created": 1795153736,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1054,
+    "total_tokens": 1203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

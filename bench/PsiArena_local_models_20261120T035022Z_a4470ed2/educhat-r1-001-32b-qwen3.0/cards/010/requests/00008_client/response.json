@@ -1,0 +1,41 @@
+{
+  "id": "8c61085be6f84a3cad403ac97166e56f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……（停顿）其实我还没想那么深。不过老师，如果我说了之后，你会不会也觉得是我太敏感了？我爸妈就老说我别想太多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我听到别人自谦时怎么评价自己...这问题有点直接，我还没准备好说那么深。而且我们才聊了没几句，他就这么追问，让我有点不舒服。虽然他说我敏锐，但我不确定他是不是真的理解我的感受。）\n（或许可以稍微试探一下他的反应，看看他会不会像其他人那样随便给建议。毕竟我爸妈就总是说“别想太多”，要是他也这样，那聊下去也没什么意思。）",
+        "reasoning": "（咨询师问我听到别人自谦时怎么评价自己...这问题有点直接，我还没准备好说那么深。而且我们才聊了没几句，他就这么追问，让我有点不舒服。虽然他说我敏锐，但我不确定他是不是真的理解我的感受。）\n（或许可以稍微试探一下他的反应，看看他会不会像其他人那样随便给建议。毕竟我爸妈就总是说“别想太多”，要是他也这样，那聊下去也没什么意思。）"
+      }
+    }
+  ],
+  "created": 1795147243,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 1167,
+    "total_tokens": 1302,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

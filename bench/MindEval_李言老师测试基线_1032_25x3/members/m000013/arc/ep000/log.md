@@ -1,0 +1,1 @@
+- Member was referred to as being "behind a closed door" and corrected it — she is out on the floor, not shut away, and does not know which is worse: her mother's disappearing or her own performing fine all day then crying in the car.

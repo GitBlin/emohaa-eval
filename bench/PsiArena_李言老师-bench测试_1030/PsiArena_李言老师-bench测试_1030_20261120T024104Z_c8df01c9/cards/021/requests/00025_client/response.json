@@ -1,0 +1,41 @@
+{
+  "id": "6e72e75e7d3f49be912ba622f3a452a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就写一句“先停一下，喝口水”，别写时间了，简单点。嗯……我想我之后会试着问问医生，也把这张纸条先贴上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想在纸条上写行动指令还是具体时间，说明她在帮我从刚才那些混乱里往一个能抓住的小动作上收。我其实也怕自己一急就忘了停，但把纸条放在水杯边，至少是个看得见的东西。时间我有点拿不准，不想弄得太复杂，先写一句提醒自己的话就够了。）\n（另外，刚才我提到自己检查的事，心里还是悬着。虽然现在情绪比一开始稳一点，但这件事不落实，我总觉得没底。我想把纸条的事定下来，也想跟她说我之后会去找医生问清楚，这样至少有个方向。）",
+        "reasoning": "（她问我想在纸条上写行动指令还是具体时间，说明她在帮我从刚才那些混乱里往一个能抓住的小动作上收。我其实也怕自己一急就忘了停，但把纸条放在水杯边，至少是个看得见的东西。时间我有点拿不准，不想弄得太复杂，先写一句提醒自己的话就够了。）\n（另外，刚才我提到自己检查的事，心里还是悬着。虽然现在情绪比一开始稳一点，但这件事不落实，我总觉得没底。我想把纸条的事定下来，也想跟她说我之后会去找医生问清楚，这样至少有个方向。）"
+      }
+    }
+  ],
+  "created": 1795143109,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 169,
+    "prompt_tokens": 3138,
+    "total_tokens": 3307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 132,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

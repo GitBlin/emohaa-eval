@@ -1,0 +1,41 @@
+{
+  "id": "4a66fedf1dca44c9ad16cbf0ab079532",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）可能就是在小组里，别人说话的时候点个头，或者“嗯”一声。那个好像不太难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）可能就是在小组里，别人说话的时候点个头，或者“嗯”一声。那个好像不太难。",
+        "reasoning": "（想了想）可能就是在小组里，别人说话的时候点个头，或者“嗯”一声。那个好像不太难。"
+      }
+    }
+  ],
+  "created": 1795153481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 2990,
+    "total_tokens": 3042,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

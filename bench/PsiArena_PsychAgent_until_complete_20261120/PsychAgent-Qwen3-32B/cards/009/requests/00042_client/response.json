@@ -1,0 +1,41 @@
+{
+  "id": "cc94a18b33884fd8b0abd1e194c218bb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我尽量记。可要是没做到，或者忘了写，会不会影响我们后面的进度？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不用特别准备，只要带一点记录或片段就好。这让我稍微松了口气，可又怕自己到时候什么都想不起来，或者写得太乱。我是不是该问清楚，万一没做到会不会影响什么？可这话问出来，会不会显得我太依赖她的安排。）",
+        "reasoning": "（咨询师说不用特别准备，只要带一点记录或片段就好。这让我稍微松了口气，可又怕自己到时候什么都想不起来，或者写得太乱。我是不是该问清楚，万一没做到会不会影响什么？可这话问出来，会不会显得我太依赖她的安排。）"
+      }
+    }
+  ],
+  "created": 1795153820,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3210,
+    "total_tokens": 3294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

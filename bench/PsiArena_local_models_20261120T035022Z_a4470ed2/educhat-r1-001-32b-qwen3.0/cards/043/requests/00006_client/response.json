@@ -1,0 +1,41 @@
+{
+  "id": "b025410a220f4372a9044ff7d93f4f5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……比如在教室的时候吧，看到同桌一直在做题，我就特别慌，脑子一片空白。我也不知道该怎么跟她说，感觉我们之间越来越远了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我描述具体情境，但我还不太确定要不要说太多。毕竟才刚开始，我连他是否可靠都还不知道。不过既然他问了，我可以说一点表面的情况，但不想太深入。也许可以提一下和同桌的关系，这样既回答了问题，又不会暴露太多内心想法。）\n（我有点担心说太多会被评判，或者显得自己太脆弱。但不说点什么又好像不太配合。那就简单提一下同桌的事吧，这样既能继续对话，又不会让自己太不安。）",
+        "reasoning": "（咨询师在引导我描述具体情境，但我还不太确定要不要说太多。毕竟才刚开始，我连他是否可靠都还不知道。不过既然他问了，我可以说一点表面的情况，但不想太深入。也许可以提一下和同桌的关系，这样既回答了问题，又不会暴露太多内心想法。）\n（我有点担心说太多会被评判，或者显得自己太脆弱。但不说点什么又好像不太配合。那就简单提一下同桌的事吧，这样既能继续对话，又不会让自己太不安。）"
+      }
+    }
+  ],
+  "created": 1795150031,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1065,
+    "total_tokens": 1207,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

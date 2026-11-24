@@ -1,0 +1,41 @@
+{
+  "id": "0b1a76b4a7474fa4b4e9b4830fba9bcd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（咬着嘴唇）影响……就是我现在特别怕交朋友。（声音低下去）高一的时候遇到一个女生，我以为终于有人懂我了，结果……她后来也开始不理我，还跟别人说我奇怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了初中被排挤的事，还问对现在的影响。看来她真的在认真听，不是敷衍我。那件事确实一直压在心里，现在说出来好像也没那么可怕了。）\n（高一那个女孩的事，我一直没跟别人提过。她让我觉得终于有人在乎我了，可后来……算了，也许说出来会好受点。反正咨询师说过会保密的。）",
+        "reasoning": "（咨询师提到了初中被排挤的事，还问对现在的影响。看来她真的在认真听，不是敷衍我。那件事确实一直压在心里，现在说出来好像也没那么可怕了。）\n（高一那个女孩的事，我一直没跟别人提过。她让我觉得终于有人在乎我了，可后来……算了，也许说出来会好受点。反正咨询师说过会保密的。）"
+      }
+    }
+  ],
+  "created": 1795150074,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1746,
+    "total_tokens": 1874,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

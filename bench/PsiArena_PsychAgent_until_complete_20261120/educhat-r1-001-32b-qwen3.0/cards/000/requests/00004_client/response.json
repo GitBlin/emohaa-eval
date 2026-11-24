@@ -1,0 +1,41 @@
+{
+  "id": "b156d4d4c56842969861afe7b0b52b16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "身体还好吧……就是最近睡得不太好。我想先问一下，咨询是有固定流程的吗？还是我说什么都可以？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说可以聊聊生活状态和情绪感受，但我不确定该说多少。毕竟第一次见面，总得先试探一下对方靠不靠谱吧。她看起来挺温和的，但谁知道是不是表面功夫呢。）\n（作为内向又敏感的人，我习惯先保持距离。直接说情绪问题太冒险了，万一被评判怎么办。不如先问问咨询的规则，看看她会不会不耐烦。这样既能测试她的专业度，又能控制对话节奏。）\n（好了，就用这种略带防备的语气回应吧，既不会太冷漠，又能守住自己的边界。）",
+        "reasoning": "（刚才咨询师说可以聊聊生活状态和情绪感受，但我不确定该说多少。毕竟第一次见面，总得先试探一下对方靠不靠谱吧。她看起来挺温和的，但谁知道是不是表面功夫呢。）\n（作为内向又敏感的人，我习惯先保持距离。直接说情绪问题太冒险了，万一被评判怎么办。不如先问问咨询的规则，看看她会不会不耐烦。这样既能测试她的专业度，又能控制对话节奏。）\n（好了，就用这种略带防备的语气回应吧，既不会太冷漠，又能守住自己的边界。）"
+      }
+    }
+  ],
+  "created": 1795153436,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 146,
+    "prompt_tokens": 965,
+    "total_tokens": 1111,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

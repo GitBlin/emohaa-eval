@@ -1,0 +1,41 @@
+{
+  "id": "90a4fd33b72c41beb061dd3631e2c3fa",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，几秒的话……应该可以。那我明天早上出门前，先在自己屋里试一次？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（后期阶段：开始探索解决方案、具体行动计划。情绪趋于稳定。回应上一轮关于“几秒安静”的提议，并开始具体化。保持简短2-3句，口语化，有犹豫。）",
+        "reasoning": "（后期阶段：开始探索解决方案、具体行动计划。情绪趋于稳定。回应上一轮关于“几秒安静”的提议，并开始具体化。保持简短2-3句，口语化，有犹豫。）"
+      }
+    }
+  ],
+  "created": 1795146410,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2368,
+    "total_tokens": 2436,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

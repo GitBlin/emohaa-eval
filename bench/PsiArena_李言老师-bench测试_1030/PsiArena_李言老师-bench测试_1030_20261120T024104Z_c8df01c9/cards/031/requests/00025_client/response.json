@@ -1,0 +1,41 @@
+{
+  "id": "5309fe424d824819bc9db932e0b9d6d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……下次上课碰见她，就正常点个头，打个招呼吧。不刻意找话说，先让自己别那么僵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这几天能做点什么，让接触更自然。这问题让我有点紧张，但好像也给了我一点方向。我不想再像以前那样一开口就僵住，也许从最简单的事开始会好一些。）\n（我想到了上课时点头打招呼，这应该不会太刻意，也能让她知道我不是在躲着她。可说完又有点不踏实，怕自己到时候连这个都做不好。）",
+        "reasoning": "（她问我这几天能做点什么，让接触更自然。这问题让我有点紧张，但好像也给了我一点方向。我不想再像以前那样一开口就僵住，也许从最简单的事开始会好一些。）\n（我想到了上课时点头打招呼，这应该不会太刻意，也能让她知道我不是在躲着她。可说完又有点不踏实，怕自己到时候连这个都做不好。）"
+      }
+    }
+  ],
+  "created": 1795143185,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3248,
+    "total_tokens": 3360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

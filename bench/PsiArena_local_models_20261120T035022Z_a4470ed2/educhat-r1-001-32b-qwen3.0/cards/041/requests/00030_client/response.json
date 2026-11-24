@@ -1,0 +1,41 @@
+{
+  "id": "a432706bb44b4accb29d64acdafa6cce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句话……说起来简单。（有点烦躁）可我真说出口的时候，他要是反驳我怎么办？你能不能告诉我具体怎么应对？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了刚才的建议，让我觉得有点被敷衍。我其实更想知道具体怎么开口，而不是再听一遍同样的话。而且他好像没注意到我提到家里不习惯说感受这个点，让我有点失望。）\n（也许我该直接点问，不然他可能还会继续重复。但我又不想显得太咄咄逼人，毕竟还是需要他的帮助。这种矛盾让我有点烦躁，语气可能也会带出来。）",
+        "reasoning": "（咨询师又重复了刚才的建议，让我觉得有点被敷衍。我其实更想知道具体怎么开口，而不是再听一遍同样的话。而且他好像没注意到我提到家里不习惯说感受这个点，让我有点失望。）\n（也许我该直接点问，不然他可能还会继续重复。但我又不想显得太咄咄逼人，毕竟还是需要他的帮助。这种矛盾让我有点烦躁，语气可能也会带出来。）"
+      }
+    }
+  ],
+  "created": 1795150026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2223,
+    "total_tokens": 2343,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

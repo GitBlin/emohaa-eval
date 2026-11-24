@@ -1,0 +1,41 @@
+{
+  "id": "e1f8d65d81684a8cbb56b1af3e032ef8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次我随口说喜欢某个牌子的咖啡，后来她居然记得，还带给我一包。那一刻我挺感动的……不过现在想想，也许她只是人好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起她做过哪件小事让我确定被在意……这让我想到那次我随口说喜欢某个牌子的咖啡，后来她居然记得，还特意带给我。那时候我真的觉得，她心里是有我的位置的。可这种时刻太少了，每次想起来都又暖又酸。）\n（现在冷静下来想想，也许问题不在于她做没做，而在于我总是盯着那些不够的时刻，把偶尔的温暖放大了当成希望。其实我该问问自己，是不是一直在用这些小事说服自己她对我有特别的感情。）",
+        "reasoning": "（她问起她做过哪件小事让我确定被在意……这让我想到那次我随口说喜欢某个牌子的咖啡，后来她居然记得，还特意带给我。那时候我真的觉得，她心里是有我的位置的。可这种时刻太少了，每次想起来都又暖又酸。）\n（现在冷静下来想想，也许问题不在于她做没做，而在于我总是盯着那些不够的时刻，把偶尔的温暖放大了当成希望。其实我该问问自己，是不是一直在用这些小事说服自己她对我有特别的感情。）"
+      }
+    }
+  ],
+  "created": 1795143504,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 2485,
+    "total_tokens": 2635,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

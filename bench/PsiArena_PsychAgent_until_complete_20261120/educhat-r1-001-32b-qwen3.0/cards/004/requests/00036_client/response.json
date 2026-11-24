@@ -1,0 +1,41 @@
+{
+  "id": "91015b95b3464dc7a03257ff9dc902ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "准备好……也不算吧，但我想试试。那个举报渠道，是在哪里？我要怎么找到它？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到匿名举报渠道，让我觉得稍微安心一点。但心里还是有点打鼓，不知道具体该怎么操作。学校那些地方我平时都不敢靠近，更别说去举报了。）\n（不过既然咨询师说可以一步步来，也许真的能试试。先问问清楚第一步要做什么，心里有个底。要是太复杂的话……可能还是算了。）",
+        "reasoning": "（咨询师提到匿名举报渠道，让我觉得稍微安心一点。但心里还是有点打鼓，不知道具体该怎么操作。学校那些地方我平时都不敢靠近，更别说去举报了。）\n（不过既然咨询师说可以一步步来，也许真的能试试。先问问清楚第一步要做什么，心里有个底。要是太复杂的话……可能还是算了。）"
+      }
+    }
+  ],
+  "created": 1795153629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2422,
+    "total_tokens": 2520,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

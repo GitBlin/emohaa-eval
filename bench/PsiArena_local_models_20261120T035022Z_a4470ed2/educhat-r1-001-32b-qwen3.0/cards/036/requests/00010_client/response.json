@@ -1,0 +1,41 @@
+{
+  "id": "f2e745680cf1437a8104c02f41c69f4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……就是班上有个人，被大家笑话。我看到了，心里就特别不舒服。但我说不清为什么，可能……我就是看不得那种场面吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他刚才说不会评判我，还提到了专业和尊重，这让我稍微放心了一点。但我还是不太敢直接说那个男生的事，毕竟这件事连我自己都觉得有点复杂。）\n（不过既然他问了具体情境，我总得说点什么。班上发生的事确实让我很难受，但我不想一开始就说得太详细，先模糊地提一句好了。这样既回应了他，又不用马上把心里那些纠结全倒出来。）",
+        "reasoning": "（他刚才说不会评判我，还提到了专业和尊重，这让我稍微放心了一点。但我还是不太敢直接说那个男生的事，毕竟这件事连我自己都觉得有点复杂。）\n（不过既然他问了具体情境，我总得说点什么。班上发生的事确实让我很难受，但我不想一开始就说得太详细，先模糊地提一句好了。这样既回应了他，又不用马上把心里那些纠结全倒出来。）"
+      }
+    }
+  ],
+  "created": 1795149438,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1266,
+    "total_tokens": 1392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

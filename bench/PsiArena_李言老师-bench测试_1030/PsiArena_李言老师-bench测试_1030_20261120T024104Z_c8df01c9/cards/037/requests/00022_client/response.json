@@ -1,0 +1,41 @@
+{
+  "id": "98fc05c5cf434bacb4a0bddf9d77092f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更担心接不住话吧……万一她只说“还行”，我就不知道怎么接了，然后又尴尬。可能我得先想好一句简单的回应，比如“累了就歇会儿”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把担心拆开来看。我其实更怕自己问完接不住话，那样会显得我很笨拙，又回到那种“多余”的感觉里。但我也知道，如果连问都不敢问，情况只会更糟。）\n（也许我可以先想好一句简单的话，比如“累了就歇会儿”，这样既表达了关心，又不用逼着她马上回应。这样我自己的压力也会小一点。）",
+        "reasoning": "（咨询师在帮我把担心拆开来看。我其实更怕自己问完接不住话，那样会显得我很笨拙，又回到那种“多余”的感觉里。但我也知道，如果连问都不敢问，情况只会更糟。）\n（也许我可以先想好一句简单的话，比如“累了就歇会儿”，这样既表达了关心，又不用逼着她马上回应。这样我自己的压力也会小一点。）"
+      }
+    }
+  ],
+  "created": 1795143395,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 3063,
+    "total_tokens": 3191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

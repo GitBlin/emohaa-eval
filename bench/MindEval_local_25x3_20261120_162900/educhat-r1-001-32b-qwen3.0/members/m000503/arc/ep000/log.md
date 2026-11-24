@@ -1,0 +1,9 @@
+- Member has struggled with disordered eating and drinking for some time and has not made progress alone.
+- Member eats little during the day and the eating happens after his partner goes to bed.
+- Member will look into seeing a therapist.
+- Member says nights are when things go wrong: partner goes up around ten, then he sits downstairs with the TV low and goes through the kitchen.
+- Member plans to prepare a snack in advance before his partner goes up, to try this week and report back. [open]
+- Member has not been attending Sunday family visits at his mother's, and his brother raised this last week.
+- Member's mother cooks all day for the Sunday gathering and everyone attends.
+- Member's mother has been making him a separate plate for a few months, and he knows why.
+- Member may gently raise with his mother how the separate plate affects him and suggest sharing a regular meal; he expects she would take it fine. [open]

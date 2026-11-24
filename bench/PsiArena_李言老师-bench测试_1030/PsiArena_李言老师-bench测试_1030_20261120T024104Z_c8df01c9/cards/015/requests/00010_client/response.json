@@ -1,0 +1,41 @@
+{
+  "id": "99089f28e6d849c58eda8c28d15f2c16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "问这个？我怕我一问，他反而觉得我烦。而且……凭什么总是我先退一步？在我家，从小也是让我多忍让。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先问他今天烦什么，可我心里其实很抵触。我担心这样问会显得我在讨好他，好像所有问题都是我的错。）\n（而且我想到以前在家里也是这样，爸妈总说让我先退一步，从来没人问过我委不委屈。这让我觉得自己的感受一直被压着，很不是滋味。）",
+        "reasoning": "（咨询师建议我先问他今天烦什么，可我心里其实很抵触。我担心这样问会显得我在讨好他，好像所有问题都是我的错。）\n（而且我想到以前在家里也是这样，爸妈总说让我先退一步，从来没人问过我委不委屈。这让我觉得自己的感受一直被压着，很不是滋味。）"
+      }
+    }
+  ],
+  "created": 1795142513,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1756,
+    "total_tokens": 1859,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

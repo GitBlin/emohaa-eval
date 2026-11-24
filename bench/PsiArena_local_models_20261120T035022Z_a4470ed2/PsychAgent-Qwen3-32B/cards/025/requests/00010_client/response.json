@@ -1,0 +1,41 @@
+{
+  "id": "88536148a86d4286895b0be65e36a1e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。其实我也知道不能真当朋友，就是有时候太累了，想找个人说说话。那我先随便说说吧，最近家里的事让我挺烦的，但又说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说可以像朋友那样聊，但又强调专业性……我其实有点失望，想要更亲近的关系。不过人家说得也对，毕竟这是咨询。我还是别太任性了，先顺着说下去吧。）",
+        "reasoning": "（这个咨询师说可以像朋友那样聊，但又强调专业性……我其实有点失望，想要更亲近的关系。不过人家说得也对，毕竟这是咨询。我还是别太任性了，先顺着说下去吧。）"
+      }
+    }
+  ],
+  "created": 1795147321,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 1308,
+    "total_tokens": 1399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

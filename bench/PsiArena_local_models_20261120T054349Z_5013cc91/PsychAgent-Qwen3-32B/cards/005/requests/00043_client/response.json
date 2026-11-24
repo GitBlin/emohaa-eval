@@ -1,0 +1,41 @@
+{
+  "id": "0198060eee524eff9e497a222a2cd4bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喝一口水，这个简单，我应该能做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "“3次呼吸”可以简化成只做1次，或者把它换成喝一口水。你更愿意保留哪一个？",
+        "reasoning": "“3次呼吸”可以简化成只做1次，或者把它换成喝一口水。你更愿意保留哪一个？"
+      }
+    }
+  ],
+  "created": 1795153644,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 3009,
+    "total_tokens": 3047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

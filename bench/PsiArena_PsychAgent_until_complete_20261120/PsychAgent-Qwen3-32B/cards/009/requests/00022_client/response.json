@@ -1,0 +1,41 @@
+{
+  "id": "7ed936ef22194de0be6f8a6fa6f0f1bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "它可能想说……“你怎么总是把我放最后。”说出来有点想哭，又觉得这样说是不是太矫情了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者此时可能停顿，情绪有些波动，不太习惯表达委屈，需要自然口语化）",
+        "reasoning": "（来访者此时可能停顿，情绪有些波动，不太习惯表达委屈，需要自然口语化）"
+      }
+    }
+  ],
+  "created": 1795153789,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 48,
+    "prompt_tokens": 2082,
+    "total_tokens": 2130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

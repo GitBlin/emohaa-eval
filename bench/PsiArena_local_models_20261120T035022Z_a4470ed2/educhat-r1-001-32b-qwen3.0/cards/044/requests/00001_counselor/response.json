@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-061145a7228e40aaade8bf9af35f0897",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，听到你的声音让我感到安心。你提到最近有些事情让你感到困扰，能和我具体说说吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到来访者可能存在焦虑和自我怀疑，需要建立安全感。\n【行动策略】：通过开放性问题引导来访者表达具体困扰。\n",
+        "reasoning_content": "\n【诊断分析】：识别到来访者可能存在焦虑和自我怀疑，需要建立安全感。\n【行动策略】：通过开放性问题引导来访者表达具体困扰。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795150046,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 196,
+    "total_tokens": 261,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

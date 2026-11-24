@@ -1,0 +1,41 @@
+{
+  "id": "b6e7f61c5d4b47eb8a4d868ad8e3f0b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我尽量不给自己太大压力。就是有点担心，万一我又卡住了，会不会又回到原样？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才的回应很温和，也给了我明确的节奏感。我注意到自己心里那种“必须马上做好”的紧张稍微松了一点，但还是有点不确定自己能不能坚持。我想把这种不确定说出来，而不是像以前那样先压下去。也许可以问问，如果中途又卡住了该怎么办，这样我会觉得更安全一些。）",
+        "reasoning": "（咨询师刚才的回应很温和，也给了我明确的节奏感。我注意到自己心里那种“必须马上做好”的紧张稍微松了一点，但还是有点不确定自己能不能坚持。我想把这种不确定说出来，而不是像以前那样先压下去。也许可以问问，如果中途又卡住了该怎么办，这样我会觉得更安全一些。）"
+      }
+    }
+  ],
+  "created": 1795155284,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3528,
+    "total_tokens": 3624,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

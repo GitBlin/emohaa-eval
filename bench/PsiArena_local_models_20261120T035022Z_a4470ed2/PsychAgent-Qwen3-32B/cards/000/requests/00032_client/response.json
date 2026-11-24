@@ -1,0 +1,41 @@
+{
+  "id": "82ce61fd147d46e6a25cc193b8692494",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我试了，说“我在想‘果然不行’”，好像能拉开一点点距离。不过我还是会担心，万一真做不好怎么办。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我试了，说“我在想‘果然不行’”，好像能拉开一点点距离。不过我还是会担心，万一真做不好怎么办。",
+        "reasoning": "嗯……我试了，说“我在想‘果然不行’”，好像能拉开一点点距离。不过我还是会担心，万一真做不好怎么办。"
+      }
+    }
+  ],
+  "created": 1795146781,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2749,
+    "total_tokens": 2815,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 33,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

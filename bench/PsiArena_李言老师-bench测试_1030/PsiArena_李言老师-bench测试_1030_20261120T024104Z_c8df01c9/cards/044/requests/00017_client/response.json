@@ -1,0 +1,41 @@
+{
+  "id": "5d37c1d81dff4fa2bda06490ba50c13b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我有点怕说出来会更难受……不过，可能一直憋着也不对。你能教我怎么开始说吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有急着给我建议，而是让我选听歌还是说出来，这让我觉得被尊重。但“最难受的那一小段”这个说法让我有点害怕，因为那感觉太深了，我怕说出来会控制不住。）\n（可是她之前说情绪不是错，也许我可以试着说一点点。我不想再一个人憋着了，但又不知道从哪里开始，也许可以问问她我该怎么说。）",
+        "reasoning": "（咨询师没有急着给我建议，而是让我选听歌还是说出来，这让我觉得被尊重。但“最难受的那一小段”这个说法让我有点害怕，因为那感觉太深了，我怕说出来会控制不住。）\n（可是她之前说情绪不是错，也许我可以试着说一点点。我不想再一个人憋着了，但又不知道从哪里开始，也许可以问问她我该怎么说。）"
+      }
+    }
+  ],
+  "created": 1795143507,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2572,
+    "total_tokens": 2680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

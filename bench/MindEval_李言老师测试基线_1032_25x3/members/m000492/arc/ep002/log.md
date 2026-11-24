@@ -1,0 +1,30 @@
+- Member withholds the rest from Kayla because Kayla is already housing Member and Member cannot hand her more.
+- Member says being the one receiving feels like shit and they hate it.
+- Member wants to get out faster because Kayla keeps saying Member can stay as long as they need.
+- Member says Kayla's offer makes the situation feel real and makes them want to cry, which they do not want to do.
+- Member has a box in their car trunk containing the grandmother's apron, the grandmother's good brushes, and a birthday card Member never opened, there since Member moved out.
+- Member declines to discuss the unopened card.
+- The brushes are the ones the grandmother taught Member to paint with at the kitchen table with acrylics and an old jam jar for water.
+- Member recalls the grandmother critiquing their color theory, calling their blues muddy and being right.
+- Member has been going dark for days on the improv people, who text memes and practice logistics.
+- Member sat in the parking lot outside improv unable to go in, with the insurance payment due Friday and no rent money left after it if it goes through.
+- Member says the money is the loud part of not going in, and the other part is the twenty minutes of being known by name by kids at the practice.
+- Member's worst fear about walking in is that the kids will see they haven't slept and ask what's wrong, and Member has no face to hold for that today.
+- Member could walk in if nobody asked, so the barrier is being asked to explain, not being seen.
+- Member's default when asked and having nothing to give is to make a joke and change the subject, a skill from improv that gets them through the moment at a cost they decline to discuss.
+- Member settled on "running on empty, but I'm here" as a true line that isn't a lie and isn't the whole thing, to use if someone asks how they are.
+- Member went into improv with six minutes left before it started.
+- Member's aunt Deb drove past the sold house and reported it to the mother, who left a voicemail asking where Member is actually living.
+- Member stayed for the whole improv workshop and told Marcus, who asked about their shaking hands, that it was too much coffee.
+- Member's hands shook in the parking lot after the workshop when the mother's voicemail came through.
+- Member expects the call with the mother to become Member's job of talking her down, and expects the mother's silence to be her calculating how bad things are.
+- Member rejects a limit like "I'm not getting into the rest on the phone" because the mother would hear it as being shut out and would be right, and every version Member tries sounds like asking her permission to end the conversation.
+- Member says the pattern of taking it well regardless of cost dates to Pop Pop's death, when everyone praised how well Member was taking it.
+- Member says the dorm lie costs them nothing in guilt; the cost is that the truth puts the mother in it and makes managing her worry a second job.
+- Member says Kayla is the one person allowed in, but does the dishes before Kayla is up so Kayla does not have to think about Member.
+- Member says usefulness is the proof of why they are there, and without it they cannot tell when Kayla's niceness runs out.
+- Member agreed a week ago to call the mother, then joked to change the subject, and Kayla dropped it and has not raised it again.
+- Member's feared outcome of Kayla asking how they are is an honest 3am conversation ending in Member crying on her couch, and the morning after is worse because it cannot be taken back and Kayla would have to be normal about it.
+- Member says grief at fifteen had a house to be sad in, and now the sadness and the couch are the same fact, so grief has become logistics.
+- Member says they do not get far enough to be sad without something else coming up first or without cleaning Kayla's kitchen.
+- Member's voicemail from the mother is unanswered. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "14caa15fcea74053b76c9549fe79a35c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……唉，其实也没什么大事，就是一些小事堆在一起。比如孩子的事上，我总觉得自己怎么做都不对，心里特别憋屈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在问我具体事件，但我现在还没完全信任她。毕竟第一次见面，直接说家里的事还是有点难为情。不过她问得挺温和的，也许可以稍微说一点表面上的情况。）\n（我想到和婆婆吵架的事，但不想说得太详细。先模糊地提一下育儿方面的分歧好了，这样既回应了她，又不会暴露太多。其实我也说不清自己为什么这么难受，可能说出来会好受点吧。）",
+        "reasoning": "（心理咨询师在问我具体事件，但我现在还没完全信任她。毕竟第一次见面，直接说家里的事还是有点难为情。不过她问得挺温和的，也许可以稍微说一点表面上的情况。）\n（我想到和婆婆吵架的事，但不想说得太详细。先模糊地提一下育儿方面的分歧好了，这样既回应了她，又不会暴露太多。其实我也说不清自己为什么这么难受，可能说出来会好受点吧。）"
+      }
+    }
+  ],
+  "created": 1795154364,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1125,
+    "total_tokens": 1255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

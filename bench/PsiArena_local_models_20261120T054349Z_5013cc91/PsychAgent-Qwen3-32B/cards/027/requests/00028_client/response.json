@@ -1,0 +1,41 @@
+{
+  "id": "0e12ea7332bd42c9a24304e5418fdec0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像一直在提醒自己，别太张扬，别让人不舒服……尤其是别让我妈觉得我在跟她比。唉，说出来才发现，我连高兴都要先掂量一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我对自己有什么要求……让我想想。其实我从来没认真想过这个，好像一直都是下意识地那么做。每次想说什么之前，心里就会先冒出我妈的声音，让我别太张扬。这种感觉很熟悉，从小就是这样，妈妈和奶奶都这么说。我好像一直在用她们的标准来要求自己，连高兴都要先掂量掂量。嗯……这个发现让我有点意外，也有点难过。）",
+        "reasoning": "（咨询师问的是我对自己有什么要求……让我想想。其实我从来没认真想过这个，好像一直都是下意识地那么做。每次想说什么之前，心里就会先冒出我妈的声音，让我别太张扬。这种感觉很熟悉，从小就是这样，妈妈和奶奶都这么说。我好像一直在用她们的标准来要求自己，连高兴都要先掂量掂量。嗯……这个发现让我有点意外，也有点难过。）"
+      }
+    }
+  ],
+  "created": 1795154385,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2235,
+    "total_tokens": 2362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

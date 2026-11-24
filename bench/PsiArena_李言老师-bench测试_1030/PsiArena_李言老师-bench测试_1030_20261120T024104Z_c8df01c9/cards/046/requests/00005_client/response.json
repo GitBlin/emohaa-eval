@@ -1,0 +1,41 @@
+{
+  "id": "49feca13a23c4bf2b5e31708b715d9fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概……一两个星期吧，记不太清了。其实我更想知道，你问这些细节，是想帮我找出什么原因吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺细的，连睡不好持续多久都要问清楚。我其实不太想这么快就交代这些，感觉像在查户口。不过刚才也说了考核期绷得紧，不说又显得我在敷衍。）\n（可我真的记不太清具体几天，脑子里就是一团乱。要不先含糊带过去，顺便看看他会不会逼我。而且我也有点想知道，他问这些到底是为了什么，是不是每个来访者都得先被问一堆问题。）",
+        "reasoning": "（他问得挺细的，连睡不好持续多久都要问清楚。我其实不太想这么快就交代这些，感觉像在查户口。不过刚才也说了考核期绷得紧，不说又显得我在敷衍。）\n（可我真的记不太清具体几天，脑子里就是一团乱。要不先含糊带过去，顺便看看他会不会逼我。而且我也有点想知道，他问这些到底是为了什么，是不是每个来访者都得先被问一堆问题。）"
+      }
+    }
+  ],
+  "created": 1795143491,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1282,
+    "total_tokens": 1410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

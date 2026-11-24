@@ -1,0 +1,41 @@
+{
+  "id": "ec9f388a2a3b4ba790111e063df4f9be",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第二天就有点没精神，睡不踏实，早上不太想吃东西。上班能撑，但开会时容易走神，回家又觉得累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了具体影响，这让我稍微松了口气，不再只是反复纠结那些说不清的感受。我得想一下，第二天确实会有些变化，比如睡不好、早上没精神，但也不能说得太夸张，不然显得我好像很严重。也许可以提一下工作和胃口，但别一下子全倒出来，先挑一两个具体的点说，看看咨询师怎么接。）",
+        "reasoning": "（咨询师问到了具体影响，这让我稍微松了口气，不再只是反复纠结那些说不清的感受。我得想一下，第二天确实会有些变化，比如睡不好、早上没精神，但也不能说得太夸张，不然显得我好像很严重。也许可以提一下工作和胃口，但别一下子全倒出来，先挑一两个具体的点说，看看咨询师怎么接。）"
+      }
+    }
+  ],
+  "created": 1795154108,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2463,
+    "total_tokens": 2577,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

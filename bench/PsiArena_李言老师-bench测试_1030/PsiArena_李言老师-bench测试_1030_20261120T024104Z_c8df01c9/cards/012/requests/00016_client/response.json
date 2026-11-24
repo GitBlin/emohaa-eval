@@ -1,0 +1,41 @@
+{
+  "id": "36fc9de45d684a6ebbbc5df7a439cd12",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先冒出来的，好像还是孩子怎么办、爸妈会怎么说……然后就是我自己到底该怎么办。翻来覆去，怎么想都没有答案。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是独处时最先冒出来的事，这让我想到那些晚上一个人坐着的时候。其实我总在反复想孩子怎么办，爸妈会怎么说，还有自己到底该怎么办。这些念头搅在一起，让我觉得怎么选都不对。）\n（也许我可以试着说出来，但不用讲得太清楚。就说主要是孩子和爸妈吧，再加上自己不知道该怎么选。这样既回应了问题，也表达出那种纠结的感觉。）",
+        "reasoning": "（咨询师问的是独处时最先冒出来的事，这让我想到那些晚上一个人坐着的时候。其实我总在反复想孩子怎么办，爸妈会怎么说，还有自己到底该怎么办。这些念头搅在一起，让我觉得怎么选都不对。）\n（也许我可以试着说出来，但不用讲得太清楚。就说主要是孩子和爸妈吧，再加上自己不知道该怎么选。这样既回应了问题，也表达出那种纠结的感觉。）"
+      }
+    }
+  ],
+  "created": 1795142602,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2409,
+    "total_tokens": 2530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

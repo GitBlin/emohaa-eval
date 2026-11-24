@@ -1,0 +1,41 @@
+{
+  "id": "b1272d7b87db46c99ba33dbd0aff4614",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我明白了……那咨询里说的话，会保密吗？会不会被记录、告诉别人？我有点怕说多了收不回来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师看起来还算温和，没有急着让我说很多。但我还是有点不放心，想先弄清楚咨询的规矩，比如会不会保密、会不会记录什么。毕竟家里的事太敏感了，我不能随便说出去。）\n（而且我也在试探她，看她会怎么回应。如果她太急着追问，我可能反而会退缩。先问清楚这些，我才能决定要不要稍微多说一点。）",
+        "reasoning": "（这个咨询师看起来还算温和，没有急着让我说很多。但我还是有点不放心，想先弄清楚咨询的规矩，比如会不会保密、会不会记录什么。毕竟家里的事太敏感了，我不能随便说出去。）\n（而且我也在试探她，看她会怎么回应。如果她太急着追问，我可能反而会退缩。先问清楚这些，我才能决定要不要稍微多说一点。）"
+      }
+    }
+  ],
+  "created": 1795142813,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1010,
+    "total_tokens": 1124,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

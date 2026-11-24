@@ -1,0 +1,41 @@
+{
+  "id": "71bf4781868841189eca65b13e43a6c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "合适……我想先把“慢呼吸和默念”练熟，不急着马上跟她谈。就先从一次开始，不逼自己做到多好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们需要回复，针对规则中的一个方面：后期探索解决方案并明确未来行动计划。用户已经给出了小练习三点，问合不合适。回答要简短2-3句，口语化，有情绪但趋稳。可以确认合适，并补充自己可以做到的一点，比如先只练一次，不追求完美。避免感谢再见。）",
+        "reasoning": "（我们需要回复，针对规则中的一个方面：后期探索解决方案并明确未来行动计划。用户已经给出了小练习三点，问合不合适。回答要简短2-3句，口语化，有情绪但趋稳。可以确认合适，并补充自己可以做到的一点，比如先只练一次，不追求完美。避免感谢再见。）"
+      }
+    }
+  ],
+  "created": 1795147383,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 3170,
+    "total_tokens": 3274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

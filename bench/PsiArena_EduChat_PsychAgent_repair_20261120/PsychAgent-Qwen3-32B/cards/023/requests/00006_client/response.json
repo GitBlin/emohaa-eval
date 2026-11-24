@@ -1,0 +1,41 @@
+{
+  "id": "f5565c28301145a69b9f8e85f2a0ad94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近……也说不上哪一件，就是心里老是堵得慌，动不动就烦。有时候明明没什么大事，我也会突然想发火，然后又觉得特别累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不会下结论，还问我最近最难受的事。我心里有点不确定，不知道该不该真的说。她看起来还算认真，但我还是得再试探一下，不能一下子全交底。）\n（家里那些事……太乱了，我自己都理不清。先含糊地说说情绪上的难受吧，别直接提具体的人，看看她怎么接。）",
+        "reasoning": "（咨询师说不会下结论，还问我最近最难受的事。我心里有点不确定，不知道该不该真的说。她看起来还算认真，但我还是得再试探一下，不能一下子全交底。）\n（家里那些事……太乱了，我自己都理不清。先含糊地说说情绪上的难受吧，别直接提具体的人，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1795154198,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1102,
+    "total_tokens": 1213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

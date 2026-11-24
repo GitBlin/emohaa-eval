@@ -1,0 +1,41 @@
+{
+  "id": "fe572669e6f04504bda1548a71088235",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我会……提前想好穿什么、说什么，尽量别出错。但越想越累，到最后反而更紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这个来访者用“永远不够”来形容自己从小被要求的模式，现在咨询师问她会怎么保护自己。她可能会说自己会努力表现、提前准备，但内心很累。回答要简短，两到三句，带点犹豫和自嘲。",
+        "reasoning": "嗯，这个来访者用“永远不够”来形容自己从小被要求的模式，现在咨询师问她会怎么保护自己。她可能会说自己会努力表现、提前准备，但内心很累。回答要简短，两到三句，带点犹豫和自嘲。"
+      }
+    }
+  ],
+  "created": 1795154165,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 1998,
+    "total_tokens": 2081,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

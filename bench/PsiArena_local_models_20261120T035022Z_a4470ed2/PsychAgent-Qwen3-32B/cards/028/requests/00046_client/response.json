@@ -1,0 +1,41 @@
+{
+  "id": "4873c240e3d34f37babae397ed1d12b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想周末我妈再提安排的时候，试一次。先暂停，呼吸，然后再看要不要说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户重复了23轮，我继续按后期规则，聚焦行动计划具体化，简短2-3句，口语自然。）\n",
+        "reasoning": "（用户重复了23轮，我继续按后期规则，聚焦行动计划具体化，简短2-3句，口语自然。）\n"
+      }
+    }
+  ],
+  "created": 1795147614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3163,
+    "total_tokens": 3213,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

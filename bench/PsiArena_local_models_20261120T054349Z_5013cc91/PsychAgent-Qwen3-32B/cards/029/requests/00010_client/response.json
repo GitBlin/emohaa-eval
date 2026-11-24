@@ -1,0 +1,41 @@
+{
+  "id": "10c23e31296c4b428e61d75702cb3c50",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……觉得自己很没用吧，赚那么点钱还乱花。其实我也知道不该这样，但当时就是忍不住。你会不会觉得我这样挺幼稚的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我那一刻脑子里最先冒出来的念头。我其实有点不想说得太深，但刚才他问得挺温和的，不像要评判我。我想说又有点犹豫，感觉说出来挺丢人的，好像自己很没用。可能先含糊一点，说不太清楚，再带一句怕被觉得幼稚。）",
+        "reasoning": "（咨询师在问我那一刻脑子里最先冒出来的念头。我其实有点不想说得太深，但刚才他问得挺温和的，不像要评判我。我想说又有点犹豫，感觉说出来挺丢人的，好像自己很没用。可能先含糊一点，说不太清楚，再带一句怕被觉得幼稚。）"
+      }
+    }
+  ],
+  "created": 1795154455,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1372,
+    "total_tokens": 1477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

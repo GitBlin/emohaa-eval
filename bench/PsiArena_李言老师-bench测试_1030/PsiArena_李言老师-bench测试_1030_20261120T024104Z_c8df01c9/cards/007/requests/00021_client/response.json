@@ -1,0 +1,41 @@
+{
+  "id": "5c3abb3109894924bacfc61c116a5975",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是那种慢慢铺开的感觉吧……不急着讲明白，反而让人能喘口气。说起来，我好像也可以试着跟室友提一句，不指望他们喜欢，就说我最近在看这个。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我是喜欢电影的哪个部分，这下我得认真想想了。其实我很少跟人聊这些，但刚才她说不奇怪，让我稍微放松了点。）\n（我确实喜欢那种慢慢渗进来的感觉，不急着讲明白，就像现在这样，一点点说，也许我也可以试着跟室友提一句？但又觉得说这些有点矫情。）",
+        "reasoning": "（她问我是喜欢电影的哪个部分，这下我得认真想想了。其实我很少跟人聊这些，但刚才她说不奇怪，让我稍微放松了点。）\n（我确实喜欢那种慢慢渗进来的感觉，不急着讲明白，就像现在这样，一点点说，也许我也可以试着跟室友提一句？但又觉得说这些有点矫情。）"
+      }
+    }
+  ],
+  "created": 1795142653,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2895,
+    "total_tokens": 3011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f1298e3f91084807a2d9b666d26f086a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿）有时候会想，要不算了吧，别耽误人家。可又不甘心，就……很矛盾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）会想到以后吧……想到要是真在一起，怎么跟家里说。我妈身体不好，我爸那个脾气……他们连提都不愿意提这种事。",
+        "reasoning": "（想了想）会想到以后吧……想到要是真在一起，怎么跟家里说。我妈身体不好，我爸那个脾气……他们连提都不愿意提这种事。"
+      }
+    }
+  ],
+  "created": 1795154848,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 2077,
+    "total_tokens": 2138,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

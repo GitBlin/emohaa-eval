@@ -1,0 +1,41 @@
+{
+  "id": "a0bf69f8885a4daca4c32e0412c30c4f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望他先问我一句吧……不过说起来，这种事我在家里也遇到过，我爸妈从来都是直接替我做决定，说什么“为你好”。我好像从小就不太习惯被问意见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说不会觉得我敏感，还说在意边界是正常的，这让我稍微放松了一点。但紧接着问我希望对方下次怎么做，我脑子里第一反应不是同事，而是我爸妈。）\n（小时候在家里，我的意见好像从来都不重要，他们总说“为你好”，直接替我做决定。现在别人动我的东西，我火气那么大，可能不只是因为方案本身。我有点说不清楚这种联系，但好像确实和从小到大的感觉有关。）",
+        "reasoning": "（刚才咨询师说不会觉得我敏感，还说在意边界是正常的，这让我稍微放松了一点。但紧接着问我希望对方下次怎么做，我脑子里第一反应不是同事，而是我爸妈。）\n（小时候在家里，我的意见好像从来都不重要，他们总说“为你好”，直接替我做决定。现在别人动我的东西，我火气那么大，可能不只是因为方案本身。我有点说不清楚这种联系，但好像确实和从小到大的感觉有关。）"
+      }
+    }
+  ],
+  "created": 1795143518,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1589,
+    "total_tokens": 1729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

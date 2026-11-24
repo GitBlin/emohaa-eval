@@ -1,0 +1,30 @@
+- Member fears that if they told their sister they are not fine, she would drive the hour and a half out on a work night and Member would have to sit with her looking at them.
+- Member believes their sister would notice the empty garden beds before reaching the door; the beds are bare dirt this year.
+- Member planted tomatoes for nineteen years and did not plant this year; they consider it too late now that it is July.
+- Member planted in May previously; this year's May came shortly after the divorce papers were signed in March.
+- Member filled the gap that May by picking up weekend overtime, especially Saturdays, because nobody asks what you are doing with a Saturday if you are at work.
+- Member's Saturdays off feel long: they wake early regardless and have finished everything in the house by nine.
+- Member has had the settlement paperwork out on the table most Sundays since March, re-reading it.
+- Member re-reads the year before their ex left, checking for something they should have picked up on, and it comes out the same every time.
+- Member's harshest conclusion is that they should have seen it coming, because catching things is their job and they did not catch this one.
+- Member acknowledges a marriage is not a call queue but cannot square twenty-two years with having noticed nothing.
+- Member replays their own last real conversation with their ex, near word for word, more than what the ex said.
+- Member is certain what they said back was the wrong thing, but declined to go back into what they were feeling at that moment and set that as a limit for now.
+- Member asked how short a reply can be before it is rude, given Marisol texted them individually rather than the group.
+- Member says the two-line reply thanking Marisol, stating Thursday can't be committed to, and asking to be kept in the loop is one they could actually send.
+- Member is torn between wanting to send the reply immediately to be done with it and leaving the phone face down. [open]
+- Member's sister texted Monday that she will be in Corvallis Friday for work and wants to swing by; Member said yes immediately without thinking and has been staring at the message since.
+- Member's first thought is the bare garden beds the sister will see on arrival, and that the sister will say "oh, no tomatoes this year?" lightly and then wait for Member to fill the silence.
+- Member is considering suggesting coffee near the sister's job instead, to keep the house out of the picture entirely.
+- Member says coffee would be a different kind of hard, not easier: the sister stops talking, asks how Member is doing, and does not fill the pause, leaving Member to find something true enough to pass and boring enough to drop.
+- Member has run this deflection on the sister for about a year and is good at it, but the sister asks once more, lets it go, and calls every Sunday regardless.
+- Member cannot argue with the sister because she won't quit, and deflected when asked what they feel toward her instead of annoyance.
+- Member notes the sister only said she could swing by Member's side of town, and that Member is the one who turned it into her standing in the yard.
+- Member's fear about suggesting coffee is that the sister will hear "don't come to my house," wonder what is wrong with the house, and drive home with her own version of it that Member gets no say in.
+- Member declined to name the version of themselves they fear the sister would drive home with, saying it isn't nice and isn't true.
+- Member says rereading a message twice turns it into a draft they sit on for a week, so sending before rereading is what would make hitting send easier.
+- Member was pulled in to coach a new hire on the phones on Saturday and their supervisor said they made the whole floor better that afternoon; Member has thought about it more than the sister's text.
+- Member found the praise weird and did not know what to do with their face, then said thanks and credited the trainee with doing all the real work.
+- Member was raised that you say thank you and move on rather than stand there and take praise, and cannot tell from the inside whether accepting praise or handing it back feels different.
+- Member chose the sister's reply as the thing to test first because Friday is coming regardless, and plans to type it at the desk during tomorrow's lunch break. [open]
+- Member declined a reminder for the lunch break because it would make them spend the morning dreading it and be sick of it by noon. [open]

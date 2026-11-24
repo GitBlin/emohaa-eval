@@ -1,0 +1,41 @@
+{
+  "id": "24e523cf102e42b8abb4148415bf2c8a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿，声音很小）我自己的声音……可能是想说，我不想再这样了。可这念头一出来我就觉得害怕，好像不该这么想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（沉默了一会儿，声音很小）我自己的声音……可能是想说，我不想再这样了。可这念头一出来我就觉得害怕，好像不该这么想。",
+        "reasoning": "（沉默了一会儿，声音很小）我自己的声音……可能是想说，我不想再这样了。可这念头一出来我就觉得害怕，好像不该这么想。"
+      }
+    }
+  ],
+  "created": 1795153603,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2233,
+    "total_tokens": 2301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

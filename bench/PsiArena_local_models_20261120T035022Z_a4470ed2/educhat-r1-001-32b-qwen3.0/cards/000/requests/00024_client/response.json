@@ -1,0 +1,41 @@
+{
+  "id": "5c28a33ca3014507ba2f27abdf949e1d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我知道你说得对……可是“表达出来”这四个字对我来说好难。我甚至不知道我到底想表达什么，就是闷着。那……我是不是该跟那个同事聊聊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了“不需要完美、试着放松”这句话。我心里有点烦躁，好像他并没有真的听懂我说的“从小被要求”是什么意思。我不是不想放松，是根本不知道该怎么做。也许我该再具体一点，说说那种“先想对不对”是怎么来的，让他明白这跟家庭有关，而不是我故意绷着。）\n（而且我确实有点怀疑，光靠深呼吸这种办法，能解决我跟同事之间那种说不清的别扭吗？我想把话题拉回到那句话上，因为那才是我最在意、最堵的地方。）",
+        "reasoning": "（咨询师又重复了“不需要完美、试着放松”这句话。我心里有点烦躁，好像他并没有真的听懂我说的“从小被要求”是什么意思。我不是不想放松，是根本不知道该怎么做。也许我该再具体一点，说说那种“先想对不对”是怎么来的，让他明白这跟家庭有关，而不是我故意绷着。）\n（而且我确实有点怀疑，光靠深呼吸这种办法，能解决我跟同事之间那种说不清的别扭吗？我想把话题拉回到那句话上，因为那才是我最在意、最堵的地方。）"
+      }
+    }
+  ],
+  "created": 1795146770,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 155,
+    "prompt_tokens": 1872,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

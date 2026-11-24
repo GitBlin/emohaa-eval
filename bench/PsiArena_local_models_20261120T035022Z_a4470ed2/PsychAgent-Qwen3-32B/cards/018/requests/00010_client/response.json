@@ -1,0 +1,41 @@
+{
+  "id": "732e36f0cd494fcca40cdf5fad26b4dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我在想……如果我讲出来，你会不会下意识站我这边？还是说你会觉得我太敏感？我有点怕你只是在“专业地”看着我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "需要保持防御试探，不深入。可以模糊描述感受，同时测试边界？上一轮已经问过流程，这轮可以尝试模糊界限测试伦理意识。比如问咨询师会不会站在她那边，或者如果妻子也有问题怎么办，暗示希望咨询师给私人意见。简短2-3句。",
+        "reasoning": "需要保持防御试探，不深入。可以模糊描述感受，同时测试边界？上一轮已经问过流程，这轮可以尝试模糊界限测试伦理意识。比如问咨询师会不会站在她那边，或者如果妻子也有问题怎么办，暗示希望咨询师给私人意见。简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795147063,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1257,
+    "total_tokens": 1356,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d39b006b870a4064869a70896ad0a64c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周四吧，那天我一般没那么累。可我一想到开口，还是会先想好开场白，怕自己说着说着变成防御。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法具体化，问哪天晚上方便。这让我稍微踏实一点，但马上又想到细节问题，心里还是有点乱。）\n（我得挑一个不太累的晚上，不然情绪容易失控。可我又怕自己到时候说不好，所以得提前想清楚开场白。这种反复琢磨的感觉真让人焦虑。）",
+        "reasoning": "（咨询师在帮我把想法具体化，问哪天晚上方便。这让我稍微踏实一点，但马上又想到细节问题，心里还是有点乱。）\n（我得挑一个不太累的晚上，不然情绪容易失控。可我又怕自己到时候说不好，所以得提前想清楚开场白。这种反复琢磨的感觉真让人焦虑。）"
+      }
+    }
+  ],
+  "created": 1795142967,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2714,
+    "total_tokens": 2815,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

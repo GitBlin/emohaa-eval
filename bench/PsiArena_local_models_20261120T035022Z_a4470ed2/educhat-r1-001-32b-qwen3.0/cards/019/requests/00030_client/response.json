@@ -1,0 +1,41 @@
+{
+  "id": "41e428723683416fb9b33bf7b63241a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我觉得，每次提到相亲，我心里都特别紧张，好像自己做错了什么一样。”这样说，会不会显得我很矫情？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着用“我觉得”开头和父母沟通，这让我有点紧张。我从来没这样表达过，以前要么憋着要么直接吵起来。但既然咨询师这么耐心地引导，我或许该试试看。）\n（我想到每次相亲前那种被审视的感觉，心里就发紧。也许说出来会好受点，可又怕说出来显得自己很矫情。父母总觉得相亲是为我好，我这样表达会不会让他们觉得我不领情？）",
+        "reasoning": "（咨询师让我试着用“我觉得”开头和父母沟通，这让我有点紧张。我从来没这样表达过，以前要么憋着要么直接吵起来。但既然咨询师这么耐心地引导，我或许该试试看。）\n（我想到每次相亲前那种被审视的感觉，心里就发紧。也许说出来会好受点，可又怕说出来显得自己很矫情。父母总觉得相亲是为我好，我这样表达会不会让他们觉得我不领情？）"
+      }
+    }
+  ],
+  "created": 1795148121,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2225,
+    "total_tokens": 2355,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e48155b5e41c42d29d99401312f47b71",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你可以把心里的想法慢慢说出来，我在这里认真听。你希望先聊聊什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程存在疑问，需要建立安全感。\n【行动策略】：用开放式提问引导来访者表达需求，保持简洁。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程存在疑问，需要建立安全感。\n【行动策略】：用开放式提问引导来访者表达需求，保持简洁。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153610,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 282,
+    "total_tokens": 338,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

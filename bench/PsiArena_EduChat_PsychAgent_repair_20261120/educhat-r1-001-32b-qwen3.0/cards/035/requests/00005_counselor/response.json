@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-1791a403feb541b786284942bcaecab3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "每次咨询大概45分钟左右。你可以从你最困扰的事情开始，比如最近有什么让你特别困扰的事情吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程有疑问，同时表现出焦虑情绪。\n【行动策略】：明确咨询时长，引导来访者从具体问题开始。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程有疑问，同时表现出焦虑情绪。\n【行动策略】：明确咨询时长，引导来访者从具体问题开始。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154845,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 387,
+    "total_tokens": 451,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7dce24b5e2b8420992f40d2fcf1fde09",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "家里……就挺安静的。我爸妈不太吵架，但也基本不聊什么心里话。我有时候觉得，他们更关心我成绩怎么样，其他的好像不太在意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我小时候家里的氛围……这个问题让我有点不舒服，但又好像确实和现在的问题有关。家里的事我平时不太愿意提，总觉得说出来也没什么用。不过刚才他确实在认真听，也许可以稍微说一点。）",
+        "reasoning": "（咨询师问我小时候家里的氛围……这个问题让我有点不舒服，但又好像确实和现在的问题有关。家里的事我平时不太愿意提，总觉得说出来也没什么用。不过刚才他确实在认真听，也许可以稍微说一点。）"
+      }
+    }
+  ],
+  "created": 1795147658,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1773,
+    "total_tokens": 1858,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

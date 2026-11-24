@@ -1,0 +1,41 @@
+{
+  "id": "988eb305c78f426fa9439a71ec087794",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有，她后来跟我说笔记挺有用的，还笑了一下。我当时心里有点高兴，但又马上想，会不会她只是客气一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注具体事实，而不是被自己的想象吓住。她借完笔记后确实有回应，这让我有点意外，也有点小高兴。）\n（但我还是忍不住往坏处想，怕自己把普通的客气当成特别的信号。也许我该说出来，让她帮我看看这到底算不算好迹象。）",
+        "reasoning": "（咨询师在引导我关注具体事实，而不是被自己的想象吓住。她借完笔记后确实有回应，这让我有点意外，也有点小高兴。）\n（但我还是忍不住往坏处想，怕自己把普通的客气当成特别的信号。也许我该说出来，让她帮我看看这到底算不算好迹象。）"
+      }
+    }
+  ],
+  "created": 1795143154,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2687,
+    "total_tokens": 2786,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

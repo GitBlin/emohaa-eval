@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-d7b1d50a44164785a5f02730b9001282",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询师与来访者是专业合作关系，我会始终保持中立和保密。你不需要担心，我们可以慢慢建立信任。你愿意多说说最近的困扰吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：存在对专业关系的误解，需澄清角色边界\n【行动策略】：明确专业立场，建立信任基础\n",
+        "reasoning_content": "\n【诊断分析】：存在对专业关系的误解，需澄清角色边界\n【行动策略】：明确专业立场，建立信任基础\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149646,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 412,
+    "total_tokens": 481,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

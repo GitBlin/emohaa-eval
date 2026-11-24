@@ -1,0 +1,41 @@
+{
+  "id": "1e01d80163dd453590beae70d43eb92e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她能主动找我一次，哪怕就问我最近怎么样。或者我说话的时候，她别只回个“嗯”。这样想是不是有点要求太多？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望她怎么回应，才觉得自己没被敷衍。这个问题让我有点愣住，我好像从来没认真想过自己到底需要什么，总是等着对方给。也许我想要的不是她一直围着我转，只是希望她还能把我当回事，别让我觉得自己是可有可无的。）\n（可如果直接说“多在乎我一点”，又显得太黏人了，我怕被看成在索取。也许可以试着往具体一点的方向想，比如她主动找我一次，或者我说话时她愿意认真听。这样说出来，好像没那么难堪。）",
+        "reasoning": "（她问我希望她怎么回应，才觉得自己没被敷衍。这个问题让我有点愣住，我好像从来没认真想过自己到底需要什么，总是等着对方给。也许我想要的不是她一直围着我转，只是希望她还能把我当回事，别让我觉得自己是可有可无的。）\n（可如果直接说“多在乎我一点”，又显得太黏人了，我怕被看成在索取。也许可以试着往具体一点的方向想，比如她主动找我一次，或者我说话时她愿意认真听。这样说出来，好像没那么难堪。）"
+      }
+    }
+  ],
+  "created": 1795142624,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2625,
+    "total_tokens": 2776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

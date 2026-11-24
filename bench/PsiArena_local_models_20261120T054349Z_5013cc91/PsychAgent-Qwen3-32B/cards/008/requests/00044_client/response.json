@@ -1,0 +1,41 @@
+{
+  "id": "99d41133fd8f4f05abbdd5ba36a279b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个提醒很关键。我们把它写成一句小卡片：“我不是在挑事，我是在表达。”练习前看一眼。你觉得放在哪里最容易被你看到？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像很自然地就假设还有“下次”了……我其实有点不确定自己会不会坚持，也不知道该不该这么早答应。不过她问得挺温和的，我就先顺着说说看吧。）嗯……可以加一句提醒自己的话，比如“我不是在挑事，我是在表达”。这样我心里会踏实点。",
+        "reasoning": "（咨询师好像很自然地就假设还有“下次”了……我其实有点不确定自己会不会坚持，也不知道该不该这么早答应。不过她问得挺温和的，我就先顺着说说看吧。）嗯……可以加一句提醒自己的话，比如“我不是在挑事，我是在表达”。这样我心里会踏实点。"
+      }
+    }
+  ],
+  "created": 1795153695,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3342,
+    "total_tokens": 3447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

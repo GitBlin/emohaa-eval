@@ -1,0 +1,41 @@
+{
+  "id": "565653b7d0204046af3b922cf72f2f16",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀吧，下巴好像也咬着。我有时候在家里也这样，明明没什么事，却总觉得不能松下来，好像一松就会出问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注身体感受，这让我稍微放松了一点。但刚才提到小时候不能多说的气氛，让我又想起家里的事。也许可以顺着这个方向说下去，但不用太深入。）\n（我确实一直绷着，连自己都没意识到。肩膀和下巴都紧，但更让我在意的是那种习惯性的克制。家里总是这样，情绪不能随便表露，连放松都觉得不自在。）",
+        "reasoning": "（咨询师在引导我关注身体感受，这让我稍微放松了一点。但刚才提到小时候不能多说的气氛，让我又想起家里的事。也许可以顺着这个方向说下去，但不用太深入。）\n（我确实一直绷着，连自己都没意识到。肩膀和下巴都紧，但更让我在意的是那种习惯性的克制。家里总是这样，情绪不能随便表露，连放松都觉得不自在。）"
+      }
+    }
+  ],
+  "created": 1795143772,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1936,
+    "total_tokens": 2057,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

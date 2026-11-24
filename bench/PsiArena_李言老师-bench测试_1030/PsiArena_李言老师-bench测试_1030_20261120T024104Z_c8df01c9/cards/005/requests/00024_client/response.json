@@ -1,0 +1,41 @@
+{
+  "id": "85f19539ade842489cbf04161b26b897",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我试试打7分吧。（停顿）如果分数太高，我是不是就只做倒水这一件事，别再继续刷手机？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我给慌的程度打分，这个好像比写一大段容易。0到10分……我大概会打7分吧，那种一直悬着的感觉。）\n（不过光打分好像还是有点空，我想知道如果分数很高的话，我能做点什么，不然又只能干等着。）",
+        "reasoning": "（她让我给慌的程度打分，这个好像比写一大段容易。0到10分……我大概会打7分吧，那种一直悬着的感觉。）\n（不过光打分好像还是有点空，我想知道如果分数很高的话，我能做点什么，不然又只能干等着。）"
+      }
+    }
+  ],
+  "created": 1795142682,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 3407,
+    "total_tokens": 3500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

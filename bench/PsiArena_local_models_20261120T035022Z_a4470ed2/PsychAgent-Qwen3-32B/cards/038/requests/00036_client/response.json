@@ -1,0 +1,41 @@
+{
+  "id": "b0eb95359cf24f7a8e72c6a0d63d349b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "念一遍的话，喉咙好像松一点，没那么堵。但真到他面前，我可能还是会紧张，怕他听出来我在试探。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着把话说得更中性一点。我照着在心里念了一遍，感觉喉咙没那么紧了，但马上又想到，真到了他面前，我可能还是会紧张，会怕他听出我在试探。这种担心好像一直都在。）\n（不过，我也隐约觉得，这句话至少没把“你是不是不够喜欢我”直接扔出去，像给自己留了点余地。也许可以先从这种不那么逼人的说法开始。）",
+        "reasoning": "（咨询师让我试着把话说得更中性一点。我照着在心里念了一遍，感觉喉咙没那么紧了，但马上又想到，真到了他面前，我可能还是会紧张，会怕他听出我在试探。这种担心好像一直都在。）\n（不过，我也隐约觉得，这句话至少没把“你是不是不够喜欢我”直接扔出去，像给自己留了点余地。也许可以先从这种不那么逼人的说法开始。）"
+      }
+    }
+  ],
+  "created": 1795148122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 2664,
+    "total_tokens": 2782,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

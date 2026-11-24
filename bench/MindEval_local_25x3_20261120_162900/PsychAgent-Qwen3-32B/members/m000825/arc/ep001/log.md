@@ -1,0 +1,28 @@
+- Member's marriage ended last fall and things have not settled.
+- Member lives in a room over somebody's garage with one chair, a bed, and a bird feeder in the window.
+- Member stays at the office until 7 most nights to avoid being in the room.
+- Member's feet burn at night, diagnosed as neuropathy from diabetes, going on a few years, and nothing tried has done much.
+- Member sees a neurologist for the neuropathy.
+- Member said the neuropathy is what stopped them standing at the workbench.
+- Member has been bailing on Thursday nights at friend Ed's place for five weeks, where Ed has the member's whole train layout in his garage and keeps texting that the table is clear.
+- Member backs out on Thursdays because by then it has been a long day and it is easier not to go.
+- Member would be more likely to go if Ed called instead of texting, since a text is easy to dodge.
+- Member reacted against being asked about blood sugar numbers, saying they did not come to be lectured on numbers.
+- Member is willing to try a small adjustment for the feet if there is something to try, but has been through a few already.
+- Member said a chair that isn't the bed would make the room more bearable and that getting one is not the hard part.
+- Member said the real problem is getting from the parking lot to Ed's door, not staying once inside, since once the soldering iron is in hand they are fine and do not leave early.
+- Member said the phone is the whole problem: they sit with it in hand and twenty minutes later are driving home.
+- Member agreed to leave the phone in the car until inside with the soldering iron in hand.
+- Member rejected a text and said they need to hear Ed's voice and say it out loud or it won't stick.
+- Member made the call to Ed on Thursday night but still did not go in, sitting in the lot seventeen minutes with feet burning before driving home.
+- Member said turning the phone off would not have changed the outcome because they would have just sat there with their hands empty.
+- Member said the phone-in-the-car plan was already agreed last time and they never got that far, so agreeing again feels pointless.
+- Member rejected a pre-recorded voice message from Ed as "still a recording," and rejected a pre-written note to hand Ed as treating a fifteen-year friend like a child with a permission slip.
+- Member said Ed calling on the way is more like it, "at least it's him and not me," and agreed to go in if Ed calls.
+- Member said cooling the feet helps for maybe ten minutes.
+- Member said they have tried just about everything for the feet.
+- Member refused to involve the neurologist, saying they have been down that road and it is not what they are there for.
+- Member said the hard part is asking Ed to call, and that they have had the phone in hand twice this week and put it down.
+- Member rejected texts outright, saying six weeks of texts is why Ed no longer believes them.
+- Member said they never got as far as stepping out of the car — they sat with their hand on the door and did not open it.
+- Member ended the session at past two in the morning, feet still burning, saying they had no further answer.

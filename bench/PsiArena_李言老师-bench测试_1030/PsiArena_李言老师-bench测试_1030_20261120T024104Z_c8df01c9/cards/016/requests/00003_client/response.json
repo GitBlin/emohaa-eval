@@ -1,0 +1,41 @@
+{
+  "id": "fb7402700ac141558242a330548097c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……不太想被家里人知道，尤其是同事那边。其实我也说不清，就是怕别人觉得我家里很乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最担心哪部分被谁知道……这让我有点紧张。虽然她解释了保密原则，但我还是不敢直接说父亲的事。毕竟家丑不可外扬，而且万一传出去对母亲也不好。我担心别人会觉得我们家有问题，或者觉得我这个当老师的连自己家都管不好。）\n（其实我更想试探她会不会像朋友一样给我出主意，但又怕这样越界。现在心里很乱，只能先含糊地说怕别人觉得我家里乱，这样既表达了担忧，又没暴露太多细节。）",
+        "reasoning": "（她问我最担心哪部分被谁知道……这让我有点紧张。虽然她解释了保密原则，但我还是不敢直接说父亲的事。毕竟家丑不可外扬，而且万一传出去对母亲也不好。我担心别人会觉得我们家有问题，或者觉得我这个当老师的连自己家都管不好。）\n（其实我更想试探她会不会像朋友一样给我出主意，但又怕这样越界。现在心里很乱，只能先含糊地说怕别人觉得我家里乱，这样既表达了担忧，又没暴露太多细节。）"
+      }
+    }
+  ],
+  "created": 1795142819,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1110,
+    "total_tokens": 1248,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 111,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

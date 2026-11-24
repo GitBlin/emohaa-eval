@@ -1,0 +1,41 @@
+{
+  "id": "f857ec0cc12c45729d27598d5ffe6077",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "可以说成“我们先别急着回答，等会儿再聊也行”。这样我不会逼自己马上圆场。",
+        "reasoning": "可以说成“我们先别急着回答，等会儿再聊也行”。这样我不会逼自己马上圆场。"
+      }
+    }
+  ],
+  "created": 1795156396,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 3204,
+    "total_tokens": 3227,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "84d2188232e24930bad5b63ead045c90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一下，语气有些低落）您一直重复这句，让我有点不舒服……就像我说的话没被听见一样。算了，我们能不能先聊点别的，比如我平时怎么跟朋友相处？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师怎么还在重复同样的话，我都说了三遍了还没准备好。这让我想起我妈，我说什么她都不当回事，只顾着按她的想法来。心里有点堵，又有点委屈，好像我的感受根本不重要。）\n（不过也许我不该直接发火，毕竟是在咨询里。我得让他知道这样重复让我不舒服，就像被忽视一样。但我也不能一直僵在这儿，得找个台阶，说说别的能做的事。）",
+        "reasoning": "（咨询师怎么还在重复同样的话，我都说了三遍了还没准备好。这让我想起我妈，我说什么她都不当回事，只顾着按她的想法来。心里有点堵，又有点委屈，好像我的感受根本不重要。）\n（不过也许我不该直接发火，毕竟是在咨询里。我得让他知道这样重复让我不舒服，就像被忽视一样。但我也不能一直僵在这儿，得找个台阶，说说别的能做的事。）"
+      }
+    }
+  ],
+  "created": 1795154291,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2628,
+    "total_tokens": 2764,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

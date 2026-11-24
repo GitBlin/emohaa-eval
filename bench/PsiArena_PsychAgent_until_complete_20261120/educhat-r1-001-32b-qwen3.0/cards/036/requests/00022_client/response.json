@@ -1,0 +1,41 @@
+{
+  "id": "6bcec913374b41faa99dcbedfe302824",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "专属时间……（轻轻叹气）可就算有时间，我也不知道该想些什么。有时候我觉得，我这么在意他的事，是不是因为我自己也不敢站出来说话？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“给自己的声音找安放的地方”，这让我想到平时在学校里连表达自己感受都很难。她说的“专属时间”听起来不错，但现实里我连十分钟都很难安静下来，总是被各种事情打断。）\n（我其实更想知道的是，为什么我看到他被欺负会这么难受。这好像不只是因为喜欢他，可能还跟我自己总是不敢说话有关。但直接问这个会不会太奇怪了？）",
+        "reasoning": "（咨询师提到“给自己的声音找安放的地方”，这让我想到平时在学校里连表达自己感受都很难。她说的“专属时间”听起来不错，但现实里我连十分钟都很难安静下来，总是被各种事情打断。）\n（我其实更想知道的是，为什么我看到他被欺负会这么难受。这好像不只是因为喜欢他，可能还跟我自己总是不敢说话有关。但直接问这个会不会太奇怪了？）"
+      }
+    }
+  ],
+  "created": 1795154878,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1844,
+    "total_tokens": 1971,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "acd647c8834c4e66812ee26190cdfdc3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这个我能记住。只是我担心万一做完还是很难受，我是不是又会忍不住去翻他的聊天记录？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了很具体的办法，让我写便签放枕边。我其实有点心动，但又怕自己做不到，或者做了也没用，反而更失望。不过现在至少有个能试的东西，比晚上干等着强。我想再确认一下，如果还是很难受，是不是也能接受。）",
+        "reasoning": "（咨询师给了很具体的办法，让我写便签放枕边。我其实有点心动，但又怕自己做不到，或者做了也没用，反而更失望。不过现在至少有个能试的东西，比晚上干等着强。我想再确认一下，如果还是很难受，是不是也能接受。）"
+      }
+    }
+  ],
+  "created": 1795147741,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2270,
+    "total_tokens": 2360,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

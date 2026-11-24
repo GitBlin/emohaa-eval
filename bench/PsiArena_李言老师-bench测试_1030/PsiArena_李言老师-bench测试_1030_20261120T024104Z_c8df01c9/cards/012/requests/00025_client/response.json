@@ -1,0 +1,41 @@
+{
+  "id": "9efea218042c43b19ab43753c799d621",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想设一个朋友，但又怕她问太多……要不先设一个不太会追问的同事？我这样说是不是有点矛盾。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我希望把谁设为紧急联系人……这让我有点犹豫。朋友虽然亲近，但把这种事告诉她，总觉得难为情，怕她追问太多。而且万一被丈夫看到，又是个麻烦。可要是设成爸妈，他们知道了肯定担心，说不定还会怪我小题大做。）\n（还是先设一个不常联系的人吧，至少不会有人一直追问。这样既有个准备，又不会闹得大家都知道。只是……真到那时候，我真的会拨出去吗？）",
+        "reasoning": "（她问我希望把谁设为紧急联系人……这让我有点犹豫。朋友虽然亲近，但把这种事告诉她，总觉得难为情，怕她追问太多。而且万一被丈夫看到，又是个麻烦。可要是设成爸妈，他们知道了肯定担心，说不定还会怪我小题大做。）\n（还是先设一个不常联系的人吧，至少不会有人一直追问。这样既有个准备，又不会闹得大家都知道。只是……真到那时候，我真的会拨出去吗？）"
+      }
+    }
+  ],
+  "created": 1795142683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3342,
+    "total_tokens": 3474,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

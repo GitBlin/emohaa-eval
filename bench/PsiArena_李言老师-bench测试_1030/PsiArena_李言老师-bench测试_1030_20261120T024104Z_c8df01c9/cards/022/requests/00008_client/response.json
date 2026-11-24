@@ -1,0 +1,41 @@
+{
+  "id": "bd6b56b7a9604562a4ef201fa863c812",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "让我想想……可能是上周跟我妈打电话吧。她问我工作怎么样，我说有点压力，她就说“那说明你还不够努力”。（苦笑）挂了以后我一直在想，是不是我真的不够努力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问起最近哪件事让我最强烈地觉得自己不够好，这句话一下子戳到了我心里。其实我平时不太愿意提这些，但既然已经聊到这儿了，也许该说点什么。）\n（我想到的总是我妈。每次跟她通完电话，那种不够好的感觉就特别重。可要说具体是哪件事，又好像不是一件事，而是那种反复出现的、被审视的感觉。我不知道该怎么讲清楚，可能说出来会显得我在怪她。）",
+        "reasoning": "（刚才咨询师问起最近哪件事让我最强烈地觉得自己不够好，这句话一下子戳到了我心里。其实我平时不太愿意提这些，但既然已经聊到这儿了，也许该说点什么。）\n（我想到的总是我妈。每次跟她通完电话，那种不够好的感觉就特别重。可要说具体是哪件事，又好像不是一件事，而是那种反复出现的、被审视的感觉。我不知道该怎么讲清楚，可能说出来会显得我在怪她。）"
+      }
+    }
+  ],
+  "created": 1795142949,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1656,
+    "total_tokens": 1798,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

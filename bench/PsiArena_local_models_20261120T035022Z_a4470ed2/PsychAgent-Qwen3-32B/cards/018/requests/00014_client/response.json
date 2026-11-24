@@ -1,0 +1,41 @@
+{
+  "id": "6547735970f6432f8a5b9582aaac5d68",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你这么说我稍微松一点。但具体困扰我也说不太明白，就是她有些想法让我又好奇又不安，我脑子里来回打架。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要只针对一个方面回复。当前第7轮，初期建立信任与试探。用户问的是关于咨询师对开放关系的看法，前面咨询师已经回应保持开放不评判，并问具体困扰。现在作为来访者，应该继续模糊描述感受和表面困扰，不深入。可以表达“我也说不清”或者“就是她有些想法让我又好奇又不安”。简短2-3句，口语化，有犹豫。不要谢或再见。",
+        "reasoning": "我们需要只针对一个方面回复。当前第7轮，初期建立信任与试探。用户问的是关于咨询师对开放关系的看法，前面咨询师已经回应保持开放不评判，并问具体困扰。现在作为来访者，应该继续模糊描述感受和表面困扰，不深入。可以表达“我也说不清”或者“就是她有些想法让我又好奇又不安”。简短2-3句，口语化，有犹豫。不要谢或再见。"
+      }
+    }
+  ],
+  "created": 1795147071,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1478,
+    "total_tokens": 1609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -35,7 +35,8 @@ def credentials():
 
 
 class AiRoleSession:
-    def __init__(self, directory, label):
+    def __init__(self, directory, label, *, embed_system_prompt=True):
+        self.embed_system_prompt = embed_system_prompt
         from .config import get_settings
         self.directory = Path(directory)
         self.directory.mkdir(parents=True, exist_ok=True)
@@ -49,7 +50,7 @@ class AiRoleSession:
             'at': now(), 'label': label, 'user_id': self.user_id, 'bot_id': self.bot_id,
             'memory': 'new user; clear+verify once at start; retain server context within session',
             'context_policy': 'platform-managed full session; not upstream sliding counselor window',
-            'system_prompt_delivery': 'user content on first turn; platform hidden prompt unchanged',
+            'system_prompt_delivery': ('user content on first turn' if embed_system_prompt else 'no harness instructions'),
             'retry': 'none; ambiguous failures require fresh session',
         })
 
@@ -80,7 +81,7 @@ class AiRoleSession:
                 raise ProtocolError('ai_role expects the next user turn')
             self.audit(f'turn_{self.turn+1:02d}_before', self.turn)
             content = messages[-1]['content']
-            if self.turn == 0:
+            if self.turn == 0 and self.embed_system_prompt:
                 system = '\n'.join(m['content'] for m in messages if m['role'] == 'system')
                 content = f'<咨询行为要求>\n{system}\n</咨询行为要求>\n{content}'
             reply, metadata = self.client.call('POST', '/open/chat/completions', self.directory,

@@ -1,0 +1,41 @@
+{
+  "id": "f48d453b140646189a3208af0a0e4d6a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安静聊天吧，活动太多我反而会紧张。找个不太吵的地方，先看看他愿不愿意认真聊。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把周末的见面想得更具体，这让我稍微安心了一点。不过带活动的话，我可能会更紧张，反而没法自然聊天。安静一点的地方，至少能让我慢慢说，也方便观察他的反应。）\n（我也意识到，自己不能又把这次见面当成一次考试。也许先定一个简单、不给自己太大压力的安排，比什么都重要。）",
+        "reasoning": "（咨询师在帮我把周末的见面想得更具体，这让我稍微安心了一点。不过带活动的话，我可能会更紧张，反而没法自然聊天。安静一点的地方，至少能让我慢慢说，也方便观察他的反应。）\n（我也意识到，自己不能又把这次见面当成一次考试。也许先定一个简单、不给自己太大压力的安排，比什么都重要。）"
+      }
+    }
+  ],
+  "created": 1795143548,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 3364,
+    "total_tokens": 3469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

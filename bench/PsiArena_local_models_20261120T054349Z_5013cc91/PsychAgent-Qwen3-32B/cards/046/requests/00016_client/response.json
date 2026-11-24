@@ -1,0 +1,41 @@
+{
+  "id": "45f5fba17a9b491883e4bb4b11352c83",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "小时候……我爸妈其实也不是对我不好，就是他们特别在意成绩。考好了是应该的，考差了就会说“你怎么这么不努力”。我好像很早就知道，不能让他们失望。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了小时候的事……这让我有点不舒服，但刚才聊下来，他好像不是在评判我。家里那些事，我平时很少跟人提，总觉得说出来像是在抱怨父母。可他说“担心不够好”的时候，我心里确实被戳了一下。也许可以试着说一点，不用一下子全倒出来。）",
+        "reasoning": "（咨询师问到了小时候的事……这让我有点不舒服，但刚才聊下来，他好像不是在评判我。家里那些事，我平时很少跟人提，总觉得说出来像是在抱怨父母。可他说“担心不够好”的时候，我心里确实被戳了一下。也许可以试着说一点，不用一下子全倒出来。）"
+      }
+    }
+  ],
+  "created": 1795155141,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1620,
+    "total_tokens": 1731,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,15 @@
+- Member reports work has been overwhelming for six weeks since taking on more responsibilities at the store, with weeks blurring together and persistent tiredness.
+- Member experiences back pain that has been ongoing for a couple of years and intensifies with long hours.
+- Member manages back pain with a heating pad in the evenings, ibuprofen on bad days, and Epsom salts.
+- Member maintains focus at work and customers request them by name, which Member cites as evidence of doing well.
+- Member cooks a large pot of greens with music on Sundays as a roughly one-hour self-care ritual.
+- Member finds Sunday cooking helps briefly but by Monday night the effect is gone and the pot is still in the sink by Thursday.
+- Member feels they are already doing the things people recommend for self-care and does not know what else to try.
+- Member went to a clinic about their back once; the visit lasted ten minutes, they received a stretch sheet, and were told there is nothing on the scan to fix.
+- Member would settle for getting to Friday without feeling wrung out.
+- Member already takes a minute to themselves in the bathroom at work with cold water.
+- Member sent the district office receiving numbers for the month on Wednesday and has not heard back.
+- Member's log had a three-day gap from being pulled onto the floor during receiving, which they filled in from memory before sending.
+- Member believes the district office likely will not match up the numbers and that it is probably fine.
+- Member checks their phone for a reply before bed and again at 2 a.m. when they wake.
+- Member agreed to leave their phone in the kitchen instead of on the nightstand tonight. [open]

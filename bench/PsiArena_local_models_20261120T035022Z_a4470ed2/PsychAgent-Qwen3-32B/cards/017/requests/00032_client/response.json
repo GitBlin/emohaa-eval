@@ -1,0 +1,41 @@
+{
+  "id": "5b872215e4fa48749dc8dd8b264c4b27",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "害怕的时候，整个人是缩起来的，有点发冷。不甘心……好像胸口会热一点，像被什么顶着，不太服气那种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我区分这两种感受……害怕的时候，身体是缩起来的，发冷。不甘心……好像有点不一样，胸口会热一点，像被什么顶着。嗯，这倒是让我有点意外，原来这两种情绪在身体里的感觉真的不同。）",
+        "reasoning": "（咨询师在引导我区分这两种感受……害怕的时候，身体是缩起来的，发冷。不甘心……好像有点不一样，胸口会热一点，像被什么顶着。嗯，这倒是让我有点意外，原来这两种情绪在身体里的感觉真的不同。）"
+      }
+    }
+  ],
+  "created": 1795147106,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 2657,
+    "total_tokens": 2746,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

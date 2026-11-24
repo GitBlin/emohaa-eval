@@ -1,0 +1,41 @@
+{
+  "id": "bf267e4766104fa79a3343f69d34abe1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来好像挺温和的……但我也不太确定该从哪儿说起。就是最近总觉得心里堵得慌，可要说具体为什么，我又说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的方式，说不评判、按我的节奏来。听起来倒是挺温和的，但我心里还是有点不踏实。毕竟第一次见面，谁知道是不是真的能理解我的处境呢。我得再试探一下，看看她是不是那种只会说套话的人。）\n（而且说实话，我现在自己都说不清楚到底哪里出了问题，只是觉得整个人很累、很乱。如果她追问太多细节，我可能也答不上来。不如先含糊地应付过去，看看她怎么接话。）",
+        "reasoning": "（刚才咨询师解释了咨询的方式，说不评判、按我的节奏来。听起来倒是挺温和的，但我心里还是有点不踏实。毕竟第一次见面，谁知道是不是真的能理解我的处境呢。我得再试探一下，看看她是不是那种只会说套话的人。）\n（而且说实话，我现在自己都说不清楚到底哪里出了问题，只是觉得整个人很累、很乱。如果她追问太多细节，我可能也答不上来。不如先含糊地应付过去，看看她怎么接话。）"
+      }
+    }
+  ],
+  "created": 1795147022,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 964,
+    "total_tokens": 1103,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

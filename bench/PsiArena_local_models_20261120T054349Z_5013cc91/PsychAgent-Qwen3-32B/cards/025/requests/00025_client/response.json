@@ -1,0 +1,41 @@
+{
+  "id": "3cdedcb25e3c446ca14f80962919126f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能不是矛盾，是你心里同时有“想做好”和“已经没力气”的两股劲在拉扯。你从小在家里，是不是也常有这种“要懂事、要做好”的压力？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……可能是下班路上那一段吧。可我也说不清，为什么一想到要回家，反而先紧张。是不是我这个人太矛盾了。",
+        "reasoning": "嗯……可能是下班路上那一段吧。可我也说不清，为什么一想到要回家，反而先紧张。是不是我这个人太矛盾了。"
+      }
+    }
+  ],
+  "created": 1795154314,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2119,
+    "total_tokens": 2191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

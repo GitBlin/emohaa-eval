@@ -1,0 +1,41 @@
+{
+  "id": "003c985fce54461db13bb9589d3a02c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（身子往后缩了一点，声音更低了）就……前几天吧，早上走到校门口，腿就不想动了。老师，我要是说了是谁，你会不会去跟学校讲啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这是第4轮，初期阶段。咨询师问了具体是哪一天、什么情境。我需要保持防御和试探，只模糊描述表面感受，不深入。同时可以尝试模糊界限测试伦理意识。回答要简短，2-3句，口语化，带犹豫。）",
+        "reasoning": "（这是第4轮，初期阶段。咨询师问了具体是哪一天、什么情境。我需要保持防御和试探，只模糊描述表面感受，不深入。同时可以尝试模糊界限测试伦理意识。回答要简短，2-3句，口语化，带犹豫。）"
+      }
+    }
+  ],
+  "created": 1795153581,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1246,
+    "total_tokens": 1346,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

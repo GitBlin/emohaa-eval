@@ -1,0 +1,41 @@
+{
+  "id": "cbbdb7173f304e8ea11e2ab1faacd446",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有……上个月我想报个设计课，犹豫了好几天，最后还是没报。她根本没说什么，是我自己先替她想了一堆理由。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我一个具体的例子……我脑子里最先冒出来的就是那个周末的事。我本来想报个设计课，犹豫了好几天，最后还是没报名。我妈根本不知道这件事，可我就是自己先把她那套话在心里过了一遍。这种感觉很熟悉，好像我做什么都得先经过她那一关，哪怕她人不在场。）",
+        "reasoning": "（咨询师在问我一个具体的例子……我脑子里最先冒出来的就是那个周末的事。我本来想报个设计课，犹豫了好几天，最后还是没报名。我妈根本不知道这件事，可我就是自己先把她那套话在心里过了一遍。这种感觉很熟悉，好像我做什么都得先经过她那一关，哪怕她人不在场。）"
+      }
+    }
+  ],
+  "created": 1795147518,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 1988,
+    "total_tokens": 2093,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-994c490b51aa46c6a17ae9d2c4d021eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没关系，心理咨询是一个非正式的谈话，我会在倾听的基础上给予建议。那么你有什么具体的问题想和我聊一聊吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者表现出对咨询流程的不熟悉和不确定感，需要明确咨询的基本框架。\n【行动策略】：通过提问引导来访者表达具体困扰，建立初步信任。\n",
+        "reasoning_content": "\n【诊断分析】：来访者表现出对咨询流程的不熟悉和不确定感，需要明确咨询的基本框架。\n【行动策略】：通过提问引导来访者表达具体困扰，建立初步信任。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148568,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 280,
+    "total_tokens": 355,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

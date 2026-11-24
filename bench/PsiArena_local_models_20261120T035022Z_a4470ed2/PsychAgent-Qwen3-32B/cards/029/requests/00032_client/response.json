@@ -1,0 +1,41 @@
+{
+  "id": "45cb03838314428a9427c0a9292893d9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有的……跟朋友出去，她们都聊新买的东西，我要是什么都没有，就插不上话。有时候明明不想买，也会跟着买一点，好像这样才合群。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把这些线索串起来，还问到了朋友之间的事。确实，跟朋友出去的时候，大家都有新东西，我要是没有，就觉得自己格格不入，哪怕只是喝杯奶茶、买个小玩意儿。）\n（可问题是，我好像一直在用买东西来换那种“被接纳”的感觉，结果钱花了，东西堆着，心里反而更空。这种话我以前根本不敢承认，现在说出来，有点难堪，但也好像松了一点。）",
+        "reasoning": "（咨询师在帮我把这些线索串起来，还问到了朋友之间的事。确实，跟朋友出去的时候，大家都有新东西，我要是没有，就觉得自己格格不入，哪怕只是喝杯奶茶、买个小玩意儿。）\n（可问题是，我好像一直在用买东西来换那种“被接纳”的感觉，结果钱花了，东西堆着，心里反而更空。这种话我以前根本不敢承认，现在说出来，有点难堪，但也好像松了一点。）"
+      }
+    }
+  ],
+  "created": 1795147634,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2579,
+    "total_tokens": 2718,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

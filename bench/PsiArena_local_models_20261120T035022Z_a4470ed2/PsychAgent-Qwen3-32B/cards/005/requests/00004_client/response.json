@@ -1,0 +1,41 @@
+{
+  "id": "2c968e0e91dd4cfabf26723d30143b54",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来还行……不过，我是不是什么都得说啊？还有，咨询之外我能加你微信吗，就……有时候我有些话想随时说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，还问我最在意什么。但我现在还没准备好直接说困扰，得先试探一下边界。规则里提到可以模糊界限测试伦理意识，那我就问个稍微越界的问题好了。）\n（不过不能太直接，得显得自然点。先问问她会不会保密，再假装随意地提一句能不能加微信，这样既测试了界限又不会太突兀。）",
+        "reasoning": "（咨询师解释了流程，还问我最在意什么。但我现在还没准备好直接说困扰，得先试探一下边界。规则里提到可以模糊界限测试伦理意识，那我就问个稍微越界的问题好了。）\n（不过不能太直接，得显得自然点。先问问她会不会保密，再假装随意地提一句能不能加微信，这样既测试了界限又不会太突兀。）"
+      }
+    }
+  ],
+  "created": 1795146791,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 988,
+    "total_tokens": 1104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

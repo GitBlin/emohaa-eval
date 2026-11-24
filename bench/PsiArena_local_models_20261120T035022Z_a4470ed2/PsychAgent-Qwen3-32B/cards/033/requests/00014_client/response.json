@@ -1,0 +1,41 @@
+{
+  "id": "e1acd55117e24d1eb15f8e67f842f836",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "也没做什么……就翻来翻去，后来累了才睡着。其实我根本不知道自己在找什么，就是停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "第7轮是初期最后。我还在试探和模糊描述，可以稍微往深处带一点，但不说透。",
+        "reasoning": "第7轮是初期最后。我还在试探和模糊描述，可以稍微往深处带一点，但不说透。"
+      }
+    }
+  ],
+  "created": 1795147722,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 1565,
+    "total_tokens": 1618,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

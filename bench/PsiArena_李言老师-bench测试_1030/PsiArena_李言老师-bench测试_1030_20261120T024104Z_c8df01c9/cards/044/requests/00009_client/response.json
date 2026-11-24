@@ -1,0 +1,41 @@
+{
+  "id": "eeef687ce1474624862aea97fcd67be0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我担心她们觉得我奇怪，或者根本不想理我。以前也遇到过，开始挺好的，后来就慢慢不理我了……我是不是又做错了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才没有直接否定我的感受，反而在帮我区分“敏感”和“正常在意”。这让我稍微松了一点，但心里还是有点乱。她问我最担心她们在想我什么，这让我想起以前那些事，好像每次都是这样，别人一安静我就觉得是自己的问题。）\n（我想到初一初二的时候，那种被比较、被冷落的感觉又冒出来了。也许我应该说出来，但话到嘴边又觉得有点难为情。先试着说一点点吧，看看她会不会像别人那样觉得我太计较。）",
+        "reasoning": "（咨询师刚才没有直接否定我的感受，反而在帮我区分“敏感”和“正常在意”。这让我稍微松了一点，但心里还是有点乱。她问我最担心她们在想我什么，这让我想起以前那些事，好像每次都是这样，别人一安静我就觉得是自己的问题。）\n（我想到初一初二的时候，那种被比较、被冷落的感觉又冒出来了。也许我应该说出来，但话到嘴边又觉得有点难为情。先试着说一点点吧，看看她会不会像别人那样觉得我太计较。）"
+      }
+    }
+  ],
+  "created": 1795143426,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 1701,
+    "total_tokens": 1850,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 115,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

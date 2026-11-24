@@ -1,0 +1,41 @@
+{
+  "id": "a6eb4a2ba7134378a70bb92307dd1703",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "勇敢……也许吧。可我最近老想一件事，我们家好几代都有人得这个病，我会不会……以后也这样？一想到这个，我就更不知道该怎么办了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我向家人求助，可我心里还是觉得别扭。她说寻求帮助是勇敢的，但在我从小受的教育里，这更像是推卸责任。我妹妹确实有她的难处，可我一想到要开口，就觉得自己在示弱。）\n（而且最近我总会想到更远的事，家族里那么多人得过癌症，我是不是也逃不掉？这种害怕一直压着我，连说都不太敢说出口。）",
+        "reasoning": "（咨询师在鼓励我向家人求助，可我心里还是觉得别扭。她说寻求帮助是勇敢的，但在我从小受的教育里，这更像是推卸责任。我妹妹确实有她的难处，可我一想到要开口，就觉得自己在示弱。）\n（而且最近我总会想到更远的事，家族里那么多人得过癌症，我是不是也逃不掉？这种害怕一直压着我，连说都不太敢说出口。）"
+      }
+    }
+  ],
+  "created": 1795148313,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2021,
+    "total_tokens": 2152,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "07ea0db44c87458b96e037a6e1319f9d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实希望他能主动一点，不用我去提醒。可我又怕自己要求太多。在我家那边，很多话都是忍着不说，好像说出来就是不懂事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望丈夫具体怎么做。这个问题让我心里有点乱，因为我自己都没想清楚过。我确实希望他能主动站出来，但直接说“你去跟你妈讲”又好像显得我太计较。而且在我们家，这种事本来就不太能摊开说，我从小看父母处理矛盾都是忍着、绕着的。）\n（其实我更怕的是，就算他真去说了，婆婆会不会觉得是我在背后挑唆。这种担心让我一直不敢开口要求他。所以现在被问到这个，我既想说又觉得为难，好像怎么都不对。）",
+        "reasoning": "（咨询师在问我希望丈夫具体怎么做。这个问题让我心里有点乱，因为我自己都没想清楚过。我确实希望他能主动站出来，但直接说“你去跟你妈讲”又好像显得我太计较。而且在我们家，这种事本来就不太能摊开说，我从小看父母处理矛盾都是忍着、绕着的。）\n（其实我更怕的是，就算他真去说了，婆婆会不会觉得是我在背后挑唆。这种担心让我一直不敢开口要求他。所以现在被问到这个，我既想说又觉得为难，好像怎么都不对。）"
+      }
+    }
+  ],
+  "created": 1795142907,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 1745,
+    "total_tokens": 1901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3deb2399119b498d863db3eeaf4373a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……这个周末先试试吧。可能先从我妈开始，她虽然传统，但有时候还能听进去一点。不过我真的不知道该怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的行动计划了，这让我有点紧张。和父母谈这件事我想了很久，但一直拖着，总觉得还没准备好。不过现在好像确实该有个时间点了，不能一直逃避。）\n（也许可以先从妈妈开始试探，她虽然传统但至少愿意听我说。但具体说什么、怎么说，我还是很没底。万一他们反应很激烈，我可能又会退缩了。）",
+        "reasoning": "（咨询师在问我具体的行动计划了，这让我有点紧张。和父母谈这件事我想了很久，但一直拖着，总觉得还没准备好。不过现在好像确实该有个时间点了，不能一直逃避。）\n（也许可以先从妈妈开始试探，她虽然传统但至少愿意听我说。但具体说什么、怎么说，我还是很没底。万一他们反应很激烈，我可能又会退缩了。）"
+      }
+    }
+  ],
+  "created": 1795153956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2803,
+    "total_tokens": 2916,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3b0643d2bf9a44a291b74463a39436ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实也不知道该从哪儿开始……最近就是一直很累，孩子白天不怎么睡，我几乎没得休息。可要说具体哪里不对，我又说不上来，先说这些可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回答。需要保持角色，第2轮初期，目标建立信任与情感联系，表现出防御试探，询问咨询内容方法后模糊描述感受表面困扰。每轮只针对规则中一个方面。上一轮角色问了咨询如何进行、需要说很多吗、不确定说清楚。咨询师回答一般先了解最在意事情等，问希望从什么开始。现在角色回复。需要简短2-3句，自然犹豫。可以表达“我也不知道从哪开始……最近就是很累，孩子白天不睡，我几乎没得休息。可要说具体哪里不对，我又说不上来。” 这模糊描述感受和表面困扰。注意不要深入。只针对一个方面。不要问太多。可以带一点防御：“先说这些可以吗？” 2-3句。保持口语。",
+        "reasoning": "我们需要回答。需要保持角色，第2轮初期，目标建立信任与情感联系，表现出防御试探，询问咨询内容方法后模糊描述感受表面困扰。每轮只针对规则中一个方面。上一轮角色问了咨询如何进行、需要说很多吗、不确定说清楚。咨询师回答一般先了解最在意事情等，问希望从什么开始。现在角色回复。需要简短2-3句，自然犹豫。可以表达“我也不知道从哪开始……最近就是很累，孩子白天不睡，我几乎没得休息。可要说具体哪里不对，我又说不上来。” 这模糊描述感受和表面困扰。注意不要深入。只针对一个方面。不要问太多。可以带一点防御：“先说这些可以吗？” 2-3句。保持口语。"
+      }
+    }
+  ],
+  "created": 1795153767,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 209,
+    "prompt_tokens": 981,
+    "total_tokens": 1190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 167,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

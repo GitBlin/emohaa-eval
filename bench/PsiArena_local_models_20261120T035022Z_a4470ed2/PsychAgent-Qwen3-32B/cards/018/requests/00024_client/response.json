@@ -1,0 +1,41 @@
+{
+  "id": "3df60818f3d74058a227df45f895d1cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般会跟自己说别想太多，先看看再说。但说实话，不太管用，有时候我反而会更想问她，又怕一问她觉得我不信任她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到这个，我有点被戳中了。我平时确实会跟自己说“先别想太多”，可那更像在压着，不是真能安抚。也许该老实说，我有时候会拿工作忙来岔开，或者干脆装没事。）",
+        "reasoning": "（咨询师问到这个，我有点被戳中了。我平时确实会跟自己说“先别想太多”，可那更像在压着，不是真能安抚。也许该老实说，我有时候会拿工作忙来岔开，或者干脆装没事。）"
+      }
+    }
+  ],
+  "created": 1795147086,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2011,
+    "total_tokens": 2105,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 57,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "8c7998eb73b04215b4410a1cac7c628c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我表姐就不太一样，她结婚好几年没要孩子，家里说她也顶回去。我有时候挺羡慕她，但又觉得我做不到，好像那样就太自私了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身边有没有人不一样……这个问题让我想到我表姐。她好像从来不管家里怎么说，自己想做什么就做什么。可我每次想到她，又觉得那不像我。也许我太习惯当那个“懂事”的人了，连怎么表达需要都快忘了。不过，我好像也说不清自己到底需不需要像她那样。）",
+        "reasoning": "（咨询师在问我身边有没有人不一样……这个问题让我想到我表姐。她好像从来不管家里怎么说，自己想做什么就做什么。可我每次想到她，又觉得那不像我。也许我太习惯当那个“懂事”的人了，连怎么表达需要都快忘了。不过，我好像也说不清自己到底需不需要像她那样。）"
+      }
+    }
+  ],
+  "created": 1795153977,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1880,
+    "total_tokens": 1994,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

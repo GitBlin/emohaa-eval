@@ -1,0 +1,41 @@
+{
+  "id": "9a506ed9635a45099fa6016edd291454",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“今天我感到”……好，我回去试试。其实聊到这儿，我心里好像没那么乱了，虽然问题还在。明天，我打算先给我妈梳梳头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我用书写来梳理情绪，这让我想起以前写日记时那种断断续续的感觉。虽然不确定能不能坚持，但至少这是个具体能做的事。）\n（想到明天要陪母亲，心里又有点发紧。不过这次好像没那么慌了，可能因为有了这些具体的小计划，感觉没那么无力了。）",
+        "reasoning": "（咨询师在引导我用书写来梳理情绪，这让我想起以前写日记时那种断断续续的感觉。虽然不确定能不能坚持，但至少这是个具体能做的事。）\n（想到明天要陪母亲，心里又有点发紧。不过这次好像没那么慌了，可能因为有了这些具体的小计划，感觉没那么无力了。）"
+      }
+    }
+  ],
+  "created": 1795154280,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2947,
+    "total_tokens": 3053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

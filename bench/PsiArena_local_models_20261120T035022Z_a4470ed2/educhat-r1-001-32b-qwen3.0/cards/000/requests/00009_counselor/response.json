@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-8d3ec6c2b6b642f59605195fead397ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个情境确实容易让人感到不舒服。可以和我具体说说当时的感受吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对同事的言语感到困惑和不适，需要探索背后的情感和认知。\n【行动策略】：通过提问引导来访者表达更多细节，帮助其理解自身感受。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对同事的言语感到困惑和不适，需要探索背后的情感和认知。\n【行动策略】：通过提问引导来访者表达更多细节，帮助其理解自身感受。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146715,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 583,
+    "total_tokens": 648,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

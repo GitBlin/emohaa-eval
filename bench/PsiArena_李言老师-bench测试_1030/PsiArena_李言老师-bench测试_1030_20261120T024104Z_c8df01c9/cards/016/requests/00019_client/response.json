@@ -1,0 +1,41 @@
+{
+  "id": "7c7d2e4a0d764bbfa51264886f93d48d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我注意到你最近睡得不太好，有点担心；你不用现在解释。”……说出来好像没那么吓人，但我还是会紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她这是在给我一个很具体的表达方式，让我既能把担心说出来，又不用立刻面对妈妈的追问。我其实需要这样一个“台阶”，不然我总觉得自己一开口就会失控。）\n（可是真要我照着说，我又怕自己说得太生硬，反而让妈妈觉得我在试探她。我得先在心里过一遍，看看这句话能不能真的从我嘴里自然地说出来。）",
+        "reasoning": "（她这是在给我一个很具体的表达方式，让我既能把担心说出来，又不用立刻面对妈妈的追问。我其实需要这样一个“台阶”，不然我总觉得自己一开口就会失控。）\n（可是真要我照着说，我又怕自己说得太生硬，反而让妈妈觉得我在试探她。我得先在心里过一遍，看看这句话能不能真的从我嘴里自然地说出来。）"
+      }
+    }
+  ],
+  "created": 1795142949,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2748,
+    "total_tokens": 2857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

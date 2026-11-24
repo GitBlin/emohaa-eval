@@ -1,0 +1,41 @@
+{
+  "id": "1635b89c33454ef2b1f34e93ae1f1511",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会写……“爸、妈，我在学校过得不好，你们能不能回来一次”。可是写了也没用吧，他们打工走不开，我说了也是白说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个老师好像真的在认真听我说话……刚才她问我写信的事，我一下子想到爸妈，心里有点堵。我从来没跟任何人说过这些，连奶奶都没有。写信……要是写了，他们会不会觉得我不懂事？可是老师说不求回复，那也许可以试试。）\n（不过我还是有点怕，万一他们看了觉得我在抱怨怎么办。但老师问最先写什么，我脑子里就是那句话，好像憋了很久了。说出来的时候，心里有点酸酸的，又有点松。）",
+        "reasoning": "（这个老师好像真的在认真听我说话……刚才她问我写信的事，我一下子想到爸妈，心里有点堵。我从来没跟任何人说过这些，连奶奶都没有。写信……要是写了，他们会不会觉得我不懂事？可是老师说不求回复，那也许可以试试。）\n（不过我还是有点怕，万一他们看了觉得我在抱怨怎么办。但老师问最先写什么，我脑子里就是那句话，好像憋了很久了。说出来的时候，心里有点酸酸的，又有点松。）"
+      }
+    }
+  ],
+  "created": 1795147031,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2160,
+    "total_tokens": 2300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

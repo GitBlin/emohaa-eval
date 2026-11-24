@@ -1,0 +1,41 @@
+{
+  "id": "7639c697e1c442c689bb46e905f7637a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "沟通……我不太敢。他们肯定会说“你现在最重要的就是学习”。而且我也不想让他们觉得我不懂事，他们工作已经很累了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到父母用矛盾的方式表达爱，这让我想起他们平时对我的期望和限制。他们确实很关心我，但那种关心有时候让我觉得喘不过气来。特别是每次我想和朋友出去玩，他们总说“先把作业写完”，好像社交是种罪过似的。）\n（我其实很怕跟他们谈这个，因为每次提到朋友的事，他们就会说“现在不是玩的时候”。但咨询师说得对，也许他们没意识到这种矛盾给我带来的困扰。我是不是应该试着跟他们说说我的感受？可万一他们觉得我不懂事怎么办……）",
+        "reasoning": "（咨询师提到父母用矛盾的方式表达爱，这让我想起他们平时对我的期望和限制。他们确实很关心我，但那种关心有时候让我觉得喘不过气来。特别是每次我想和朋友出去玩，他们总说“先把作业写完”，好像社交是种罪过似的。）\n（我其实很怕跟他们谈这个，因为每次提到朋友的事，他们就会说“现在不是玩的时候”。但咨询师说得对，也许他们没意识到这种矛盾给我带来的困扰。我是不是应该试着跟他们说说我的感受？可万一他们觉得我不懂事怎么办……）"
+      }
+    }
+  ],
+  "created": 1795146761,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 1732,
+    "total_tokens": 1880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

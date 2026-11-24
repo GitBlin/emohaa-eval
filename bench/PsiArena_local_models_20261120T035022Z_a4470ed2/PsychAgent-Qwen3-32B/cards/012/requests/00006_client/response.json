@@ -1,0 +1,41 @@
+{
+  "id": "91c7978472a1437cb170edf1421581f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……稍微好一点吧。其实我也说不上来，就是最近老是睡不好，心里堵得慌，也不知道为什么会这么难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她先解释了保密的事，还说不会评判我……这让我稍微松了口气。可我还是不太敢直接说丈夫的事，万一被看出来是我，或者被劝着离婚怎么办。先绕一点，说最近总睡不好、心里堵得慌，看她会不会追问太多。）",
+        "reasoning": "（她先解释了保密的事，还说不会评判我……这让我稍微松了口气。可我还是不太敢直接说丈夫的事，万一被看出来是我，或者被劝着离婚怎么办。先绕一点，说最近总睡不好、心里堵得慌，看她会不会追问太多。）"
+      }
+    }
+  ],
+  "created": 1795146920,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1077,
+    "total_tokens": 1166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

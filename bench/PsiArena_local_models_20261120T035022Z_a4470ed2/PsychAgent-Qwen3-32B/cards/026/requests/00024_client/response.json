@@ -1,0 +1,41 @@
+{
+  "id": "d99259f271c044be8baa1040374e5821",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试。我总觉得分数不好就说明我不够好，可能跟我从小家里老拿成绩说事有关，到现在都没摆脱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，可以试试……但我怕自己到时候一急又忘了。还有，我这么在意成绩，是不是也跟从小家里老拿成绩说事有关？我好像一直觉得分数不好就说明我不够好。",
+        "reasoning": "嗯，可以试试……但我怕自己到时候一急又忘了。还有，我这么在意成绩，是不是也跟从小家里老拿成绩说事有关？我好像一直觉得分数不好就说明我不够好。"
+      }
+    }
+  ],
+  "created": 1795147390,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2038,
+    "total_tokens": 2115,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

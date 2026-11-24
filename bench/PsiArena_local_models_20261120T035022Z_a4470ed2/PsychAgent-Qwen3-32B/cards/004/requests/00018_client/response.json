@@ -1,0 +1,41 @@
+{
+  "id": "fda711f1c1b04c39b46b1f2bfdf3d532",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低低的）就自己待着呗。晚上躺床上，有时候会哭，但不敢出声，怕奶奶听见。她要是知道了，肯定又说我瞎想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我孤单的时候怎么办……其实我哪有什么办法。就是晚上自己躺着，有时候会哭，但又不敢出声，怕奶奶听见。这些说出来有点丢人。）嗯……就自己待着呗。晚上躺床上，有时候会哭，但不敢出声，怕奶奶听见。她要是知道了，肯定又说我瞎想。",
+        "reasoning": "（他问我孤单的时候怎么办……其实我哪有什么办法。就是晚上自己躺着，有时候会哭，但又不敢出声，怕奶奶听见。这些说出来有点丢人。）嗯……就自己待着呗。晚上躺床上，有时候会哭，但不敢出声，怕奶奶听见。她要是知道了，肯定又说我瞎想。"
+      }
+    }
+  ],
+  "created": 1795146775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1764,
+    "total_tokens": 1873,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

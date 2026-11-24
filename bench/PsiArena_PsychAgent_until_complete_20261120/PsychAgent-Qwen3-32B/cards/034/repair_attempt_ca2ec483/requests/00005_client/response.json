@@ -1,0 +1,41 @@
+{
+  "id": "868f7d7186cb432d9d42c96c92ff75a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样安排更稳一些。我们可以把“时机”也当成练习的一部分：你愿意给自己定一个小目标，比如这周找一个轻松的时刻，只说那一句“我有点紧张，想慢一点”，不追加解释，可以吗？<第23轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，够用了。至少我不会觉得自己被困在那儿。我想试试先挑一个他心情比较放松的时候说，别在气氛紧张的时候硬来。",
+        "reasoning": "嗯，够用了。至少我不会觉得自己被困在那儿。我想试试先挑一个他心情比较放松的时候说，别在气氛紧张的时候硬来。"
+      }
+    }
+  ],
+  "created": 1795156829,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3396,
+    "total_tokens": 3508,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

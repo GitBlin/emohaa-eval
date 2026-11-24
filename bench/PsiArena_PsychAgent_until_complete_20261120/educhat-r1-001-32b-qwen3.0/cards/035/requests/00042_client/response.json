@@ -1,0 +1,41 @@
+{
+  "id": "5a533eb3cba043bb8eb40dfe4b8ca9ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我刚才说过了……被重视。但你好像一直在绕圈子，我都不知道还能不能指望这次咨询了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在重复之前的问题……这让我有点烦躁。刚才明明已经说过最需要的是被重视，可ta好像根本没记住。也许ta觉得我还没说清楚？但反复问同样的问题只会让我更不想开口。）\n（这种重复让我想起和男友吵架时的感觉，说了半天对方还是听不懂。不过咨询师至少还在努力理解，虽然方式让我有点不舒服。或许我可以试着再强调一次，但这次说得更直接些？）",
+        "reasoning": "（咨询师又在重复之前的问题……这让我有点烦躁。刚才明明已经说过最需要的是被重视，可ta好像根本没记住。也许ta觉得我还没说清楚？但反复问同样的问题只会让我更不想开口。）\n（这种重复让我想起和男友吵架时的感觉，说了半天对方还是听不懂。不过咨询师至少还在努力理解，虽然方式让我有点不舒服。或许我可以试着再强调一次，但这次说得更直接些？）"
+      }
+    }
+  ],
+  "created": 1795154903,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2488,
+    "total_tokens": 2609,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

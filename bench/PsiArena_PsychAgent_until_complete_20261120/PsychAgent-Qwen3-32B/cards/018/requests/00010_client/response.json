@@ -1,0 +1,41 @@
+{
+  "id": "d7da10cb40f44d418a10409eda9bd4da",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那，我先问个有点冒犯的问题，你会不会把我们聊的内容跟别人说？或者……如果我在咨询之外想找你聊，可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会保密、不会评判，让我稍微松了口气。但我还是不太确定该不该把这么私密的事说出来。也许可以先含糊地提一点，看看她怎么反应。毕竟现在只是初期，我还没法完全信任她。不过她语气挺温和的，或许可以试探性地多说一点点，但不要说得太具体。）",
+        "reasoning": "（咨询师说会保密、不会评判，让我稍微松了口气。但我还是不太确定该不该把这么私密的事说出来。也许可以先含糊地提一点，看看她怎么反应。毕竟现在只是初期，我还没法完全信任她。不过她语气挺温和的，或许可以试探性地多说一点点，但不要说得太具体。）"
+      }
+    }
+  ],
+  "created": 1795154077,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1254,
+    "total_tokens": 1361,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c280d885e6614c36bbd7825607d9a40a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（听到咨询师说“今天先到这里”，心里有点不舍，但也知道自己确实需要把这些带回去慢慢试。想确认一下后续怎么联系，又怕显得太依赖。）嗯……好。那这三天我就按这个来试试。下次我还能接着聊这些吗？",
+        "reasoning": "（听到咨询师说“今天先到这里”，心里有点不舍，但也知道自己确实需要把这些带回去慢慢试。想确认一下后续怎么联系，又怕显得太依赖。）嗯……好。那这三天我就按这个来试试。下次我还能接着聊这些吗？"
+      }
+    }
+  ],
+  "created": 1795154356,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3717,
+    "total_tokens": 3776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

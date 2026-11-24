@@ -1,0 +1,41 @@
+{
+  "id": "1770c21bde064623aec7ddea06cd6c98",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "需要多练几遍很正常。我们可以把练习分成三步：先在心里默念“暂停”，再做一次缓慢呼吸，最后决定是继续表达还是先退一步。你觉得这个顺序适合你吗？<第23轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个“暂停词”听起来简单，也许真的能给我一点缓冲。我有点担心自己会忘记用，但总比什么都不做强。）可以试试……默念“暂停”，然后呼吸一下。我可能得多练几遍才记得住。",
+        "reasoning": "（这个“暂停词”听起来简单，也许真的能给我一点缓冲。我有点担心自己会忘记用，但总比什么都不做强。）可以试试……默念“暂停”，然后呼吸一下。我可能得多练几遍才记得住。"
+      }
+    }
+  ],
+  "created": 1795147612,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 3030,
+    "total_tokens": 3156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 53,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

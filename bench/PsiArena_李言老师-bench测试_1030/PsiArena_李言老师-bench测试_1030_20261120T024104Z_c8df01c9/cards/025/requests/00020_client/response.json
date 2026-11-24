@@ -1,0 +1,41 @@
+{
+  "id": "61abb725fdfc478dab68d299d8f68910",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先冒出来的……是怕二宝又哭，我一急又吼他。然后我婆婆在旁边看着，我就更觉得自己做得不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我说回家时最先冒出来的担心……其实我脑子里一下就想到二宝哭的样子，还有自己可能又控制不住脾气。可这些说出来会不会显得我很没用？）\n（不过肩膀刚才确实松了一点，她也没急着评价我。要不就试着说一点点吧，就说怕自己又吼孩子，别的先不提。）",
+        "reasoning": "（她让我说回家时最先冒出来的担心……其实我脑子里一下就想到二宝哭的样子，还有自己可能又控制不住脾气。可这些说出来会不会显得我很没用？）\n（不过肩膀刚才确实松了一点，她也没急着评价我。要不就试着说一点点吧，就说怕自己又吼孩子，别的先不提。）"
+      }
+    }
+  ],
+  "created": 1795143115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2910,
+    "total_tokens": 3011,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

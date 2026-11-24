@@ -1,0 +1,15 @@
+- Member has been stuck since grandmother died in February, affecting personal creative work and a certification exam, though work functioning is intact.
+- Member's grandmother used to watch over their shoulder while they painted; member links this to why painting has stalled.
+- Member has a twelve-week exam study plan with a chart, but the chart shows zero hours for six weeks — planning is not the problem, follow-through is.
+- Member gets watercolours out on a Saturday and then ends up scrubbing the stove instead — not tired, just finds something else to do.
+- Member declined body-based emotional work, wanting something concrete to try tomorrow instead.
+- Member would count twenty minutes of paint on paper as a win but doubts it would count because it "would look like nothing".
+- Member anticipates deciding they need a real stretch of time first as the obstacle to painting.
+- Member's mother asked for a picture of the member's abuela for the memorial table on Sunday, and member has not sent it.
+- The photos are the last ones Member ever took of her — her hands in the dough, the yellow bowl — never seen by her, sitting on the laptop since last fall.
+- Member opened the photo folder Sunday night and shut the laptop without picking one; does not want the photo to be the first test.
+- Member rejects a study buddy or accountability partner because it would mean telling someone — has not told anyone, including sister Daniela, who gets "work's busy".
+- Member agreed to a scheduled 10-minute exam session at 9:00 AM tomorrow at the kitchen table, phone in another room, since a calendar time doesn't depend on being in the mood.
+- Member asked the counsellor not to offer "if not, that's okay too" — it's the exact sentence Member uses to let themselves off, and asked to be told directly to do it.
+- Member agreed to a 10-minute no-pressure sketch with materials if they get to the paper later, but not both in one morning.
+- Member expects to have it done before Sunday dinner. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "6a0fbb7f0eb049adb10417ad4c6e1f4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）都有吧……说不上来。就是觉得委屈，又有点生气，后来还有点后悔。唉，我是不是讲得太乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我的感受……其实我不太想这么早说太深，毕竟还不熟。她好像挺温和的，但我还是有点防备。先笼统说一下吧，别一下子全倒出来。）",
+        "reasoning": "（咨询师在问我的感受……其实我不太想这么早说太深，毕竟还不熟。她好像挺温和的，但我还是有点防备。先笼统说一下吧，别一下子全倒出来。）"
+      }
+    }
+  ],
+  "created": 1795154250,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 1196,
+    "total_tokens": 1273,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

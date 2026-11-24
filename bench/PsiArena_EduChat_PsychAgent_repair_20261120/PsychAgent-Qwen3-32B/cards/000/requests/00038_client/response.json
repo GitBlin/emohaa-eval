@@ -1,0 +1,41 @@
+{
+  "id": "7bea9882b04544f59b7ad0f592cdc1dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "把情绪收起来吧。在家里说那些好像也没什么用，久而久之就不太说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师突然问起小时候的事，我有点……不太想马上说。不过既然之前已经聊到父母的要求，这好像也是绕不开的。我脑子里第一个冒出来的就是“把情绪收起来”这件事，因为在家里说感受好像没什么用，久了就习惯了。但说出来还是有点不自在，怕显得自己太脆弱。）",
+        "reasoning": "（咨询师突然问起小时候的事，我有点……不太想马上说。不过既然之前已经聊到父母的要求，这好像也是绕不开的。我脑子里第一个冒出来的就是“把情绪收起来”这件事，因为在家里说感受好像没什么用，久了就习惯了。但说出来还是有点不自在，怕显得自己太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795153475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2715,
+    "total_tokens": 2807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

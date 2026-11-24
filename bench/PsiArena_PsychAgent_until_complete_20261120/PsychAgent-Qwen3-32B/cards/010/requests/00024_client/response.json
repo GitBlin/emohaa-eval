@@ -1,0 +1,41 @@
+{
+  "id": "12af879d6eee415a9c854461d2627440",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是“他们会不会觉得我装”。还有一句更难听，“你就是不够好”。我知道这不一定对，但当时就是会冒出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是课间插不上话时脑子里的念头，我想到的是别人会不会觉得我装、觉得自己不够好，还有家里比较成绩的压力。可以稍微深入一点，但不要一下子全说完，保持犹豫和简短。）",
+        "reasoning": "（咨询师问的是课间插不上话时脑子里的念头，我想到的是别人会不会觉得我装、觉得自己不够好，还有家里比较成绩的压力。可以稍微深入一点，但不要一下子全说完，保持犹豫和简短。）"
+      }
+    }
+  ],
+  "created": 1795153790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2036,
+    "total_tokens": 2118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

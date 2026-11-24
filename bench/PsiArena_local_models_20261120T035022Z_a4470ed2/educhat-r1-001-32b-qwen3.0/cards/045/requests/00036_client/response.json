@@ -1,0 +1,41 @@
+{
+  "id": "da4174fa2d924c1eb36f20f80b39ae60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（叹气）都有吧。焦虑的时候觉得自己连情绪都管不好，自责的时候又觉得太矫情。（停顿）其实我知道这样想不对，但就是改不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如何看待自己的状态，是焦虑还是自责...这让我有点不知道该怎么回答。其实两种都有吧，但更强烈的可能是自责，觉得自己连情绪都控制不好。）\n（我想到最近总是莫名其妙地烦躁，明明知道不该这样，却停不下来。也许可以试着承认这种自责的感觉，毕竟咨询师一直在引导我面对真实的情绪。不过说完之后可能又会觉得暴露太多，需要稍微掩饰一下。）",
+        "reasoning": "（咨询师在问我如何看待自己的状态，是焦虑还是自责...这让我有点不知道该怎么回答。其实两种都有吧，但更强烈的可能是自责，觉得自己连情绪都控制不好。）\n（我想到最近总是莫名其妙地烦躁，明明知道不该这样，却停不下来。也许可以试着承认这种自责的感觉，毕竟咨询师一直在引导我面对真实的情绪。不过说完之后可能又会觉得暴露太多，需要稍微掩饰一下。）"
+      }
+    }
+  ],
+  "created": 1795150181,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2595,
+    "total_tokens": 2722,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

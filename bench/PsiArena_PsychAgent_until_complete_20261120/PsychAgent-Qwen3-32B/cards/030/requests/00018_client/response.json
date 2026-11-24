@@ -1,0 +1,41 @@
+{
+  "id": "d2bb9c1d4e374b738d61cea781fba75e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（慢慢呼吸了几下）嗯……好像稍微松了一点。不过说到这个，我突然想到，我爸妈以前总说“你自己决定就好”，但每次我做完决定，他们又会露出那种不太满意的表情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我放松呼吸……我试了一下，好像确实能感觉到一点变化。但坐下来之后，脑子里马上又冒出了别的事。我想到小时候爸妈总说“你自己决定就好”，听起来很自由，可每次我真的做了决定，他们又会用那种失望的表情看着我。我好像一直在这种“自由”里找方向，结果反而更不知道该怎么办了。）",
+        "reasoning": "（咨询师让我放松呼吸……我试了一下，好像确实能感觉到一点变化。但坐下来之后，脑子里马上又冒出了别的事。我想到小时候爸妈总说“你自己决定就好”，听起来很自由，可每次我真的做了决定，他们又会用那种失望的表情看着我。我好像一直在这种“自由”里找方向，结果反而更不知道该怎么办了。）"
+      }
+    }
+  ],
+  "created": 1795154532,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1709,
+    "total_tokens": 1831,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

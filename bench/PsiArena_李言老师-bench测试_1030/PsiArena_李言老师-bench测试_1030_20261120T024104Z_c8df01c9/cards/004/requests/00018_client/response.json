@@ -1,0 +1,41 @@
+{
+  "id": "d87d688621814eb08b3127acf1437e0a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“奶奶好”吧……这个我说得出口。要不先从打招呼开始，别的以后再说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我哪句话说起来最自然……我其实有点怕说错话，但奶奶看起来挺和善的。要是说“今天忙吗”会不会太突然了？不过她主动跟我打招呼的时候，我回一句“奶奶好”应该不会奇怪吧。）\n（我想先试试最简单的，就打个招呼。要是奶奶愿意多聊，我再多说一点。这样应该不会太紧张。）",
+        "reasoning": "（她问我哪句话说起来最自然……我其实有点怕说错话，但奶奶看起来挺和善的。要是说“今天忙吗”会不会太突然了？不过她主动跟我打招呼的时候，我回一句“奶奶好”应该不会奇怪吧。）\n（我想先试试最简单的，就打个招呼。要是奶奶愿意多聊，我再多说一点。这样应该不会太紧张。）"
+      }
+    }
+  ],
+  "created": 1795142624,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2522,
+    "total_tokens": 2626,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

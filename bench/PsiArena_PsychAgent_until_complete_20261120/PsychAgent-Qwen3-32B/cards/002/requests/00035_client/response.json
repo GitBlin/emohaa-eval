@@ -1,0 +1,41 @@
+{
+  "id": "c3b29e6651fd47f69ce6b288350256f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口闷、喉咙发紧，这些信号一出现，“小警报”大概就开始拉响了。下次它响的时候，我们可以先做一件很小的事：比如慢慢呼气，然后对自己说“我注意到你了”。你觉得这个做法你能试吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……最明显的是胸口，会闷闷的，像被压住一样。有时候喉咙也会发紧，说不出话。",
+        "reasoning": "嗯……最明显的是胸口，会闷闷的，像被压住一样。有时候喉咙也会发紧，说不出话。"
+      }
+    }
+  ],
+  "created": 1795153476,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 2600,
+    "total_tokens": 2680,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

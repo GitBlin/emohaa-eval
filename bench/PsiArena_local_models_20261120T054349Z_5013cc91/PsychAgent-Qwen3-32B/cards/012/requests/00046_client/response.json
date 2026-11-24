@@ -1,0 +1,41 @@
+{
+  "id": "d46bc1acd82246a4b29d0420806c8697",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句“先对自己开口”是一种新的方向。你愿意把它写下来，放在晚上容易看到的地方吗？比如手机旁或床头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我带走的是“我难受的时候，可以开口”这句话。以前总觉得开口很丢人。现在想想，也许可以先对自己开口。",
+        "reasoning": "我带走的是“我难受的时候，可以开口”这句话。以前总觉得开口很丢人。现在想想，也许可以先对自己开口。"
+      }
+    }
+  ],
+  "created": 1795153851,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3173,
+    "total_tokens": 3232,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

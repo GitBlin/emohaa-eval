@@ -1,0 +1,41 @@
+{
+  "id": "9f3ad9f961144f2cb02f1674cda08c9c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来是个很轻的起点。你打算什么时候做这件“只是看看”的小事？<第16轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……也许我可以先把那个设计课的资料找出来看看，不报名，就看看。这样好像没那么大压力。",
+        "reasoning": "嗯……也许我可以先把那个设计课的资料找出来看看，不报名，就看看。这样好像没那么大压力。"
+      }
+    }
+  ],
+  "created": 1795147526,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 2272,
+    "total_tokens": 2348,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

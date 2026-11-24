@@ -1,0 +1,41 @@
+{
+  "id": "28edb32582b44a959ccab8789f1de6cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那就好。其实我也说不上来自己到底怎么了，就是最近总觉得很累，但又好像没什么大事。你会不会觉得我这样有点小题大做？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了保密原则，还提到了例外情况，这让我稍微安心了一点。不过我还是不太确定咨询到底能帮我到什么程度，毕竟我连自己具体的问题都说不清楚。也许可以试探性地问问咨询师会怎么处理我的情况，看看他是不是真的能理解我的困扰。）",
+        "reasoning": "（咨询师解释了保密原则，还提到了例外情况，这让我稍微安心了一点。不过我还是不太确定咨询到底能帮我到什么程度，毕竟我连自己具体的问题都说不清楚。也许可以试探性地问问咨询师会怎么处理我的情况，看看他是不是真的能理解我的困扰。）"
+      }
+    }
+  ],
+  "created": 1795146608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1068,
+    "total_tokens": 1166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

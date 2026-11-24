@@ -1,0 +1,41 @@
+{
+  "id": "24e70793ebce4aac9ba24a144757b42c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我有点怕……他会说“我也很累啊”或者“你怎么这么矫情”。我妈以前也总说，女人当了妈就该把孩子放第一位，别老想自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我完整地说，还问最怕听到什么。我脑子里马上冒出我妈的声音，说“我们那时候哪有这么娇气”。）最怕听到“别人都行，怎么就你不行”。我可能当场就不说了，还会笑一下，装作没事。好像从小就是这样，家里不太允许我喊累。",
+        "reasoning": "（咨询师让我完整地说，还问最怕听到什么。我脑子里马上冒出我妈的声音，说“我们那时候哪有这么娇气”。）最怕听到“别人都行，怎么就你不行”。我可能当场就不说了，还会笑一下，装作没事。好像从小就是这样，家里不太允许我喊累。"
+      }
+    }
+  ],
+  "created": 1795153790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1903,
+    "total_tokens": 2010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

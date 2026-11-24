@@ -1,0 +1,41 @@
+{
+  "id": "f881ae04000e4a81a0da275330fa0d90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来是个很温柔的安排。不管见面怎样，你都在照顾自己。我们回顾一下，你觉得今天最有用的一点是什么？<第24轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……可能买杯喜欢的奶茶，回家看会儿剧吧。就当是给自己的一个小奖励。",
+        "reasoning": "嗯……可能买杯喜欢的奶茶，回家看会儿剧吧。就当是给自己的一个小奖励。"
+      }
+    }
+  ],
+  "created": 1795156150,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 3256,
+    "total_tokens": 3334,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

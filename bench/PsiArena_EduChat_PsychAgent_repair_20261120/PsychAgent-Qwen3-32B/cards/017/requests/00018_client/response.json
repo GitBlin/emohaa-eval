@@ -1,0 +1,41 @@
+{
+  "id": "9d8a08d86c3842b281c8711f3079ac8b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我记得有一次考试没考好，我妈没骂我，只是叹气说“我们这么辛苦都是为了你”。那种叹气比骂我还难受。后来我就很少让他们操心了，什么都自己憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起小时候的事……我有点想回避，可刚才已经说了“懂事”这个词。也许可以讲一个不那么重要的片段，比如考砸了那次。那件事确实让我一直记着，但说出来又怕显得太计较。先慢慢试试吧，看她会不会像我爸妈那样觉得我不该翻旧账。）",
+        "reasoning": "（她问起小时候的事……我有点想回避，可刚才已经说了“懂事”这个词。也许可以讲一个不那么重要的片段，比如考砸了那次。那件事确实让我一直记着，但说出来又怕显得太计较。先慢慢试试吧，看她会不会像我爸妈那样觉得我不该翻旧账。）"
+      }
+    }
+  ],
+  "created": 1795153975,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1760,
+    "total_tokens": 1871,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

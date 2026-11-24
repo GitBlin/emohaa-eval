@@ -1,0 +1,41 @@
+{
+  "id": "d291d4f07a534ba18bcac631d0553e37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有吧……可能就是在医院陪我妈的时候。她最近身体不太好，我有时候真不知道该怎么面对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在认真听我说，没有急着给建议或者安慰我。这种被关注的感觉有点陌生，但也让我稍微放松了一点。不过我还是不太确定该不该继续说下去，毕竟家里的事……说起来心里就堵得慌。）\n（母亲那边最近又不太好，我其实很想有人能听我说说，但又怕说多了显得自己太脆弱。也许可以稍微提一下，看看她怎么回应。）",
+        "reasoning": "（她好像真的在认真听我说，没有急着给建议或者安慰我。这种被关注的感觉有点陌生，但也让我稍微放松了一点。不过我还是不太确定该不该继续说下去，毕竟家里的事……说起来心里就堵得慌。）\n（母亲那边最近又不太好，我其实很想有人能听我说说，但又怕说多了显得自己太脆弱。也许可以稍微提一下，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795142934,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1430,
+    "total_tokens": 1540,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

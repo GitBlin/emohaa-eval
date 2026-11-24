@@ -1,0 +1,41 @@
+{
+  "id": "a2f6915623ed4504940539799641e4f0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那就好……其实我也说不清楚自己到底怎么了，就是最近心里挺乱的，学习的时候老觉得不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应咨询师关于保密的问题，并且按照规则，初期阶段第3轮，只针对对话规则中的一个方面。目前我们在初期阶段，目标是建立信任与情感联系，表现出防御性和试探。之前已经询问了咨询内容和方法，也问了保密。现在可以继续模糊描述感受和表面困扰，不要深入。可以表达“其实我也说不清楚”之类的。注意简短2-3句。可以适当测试界限？但每轮只针对一个方面。这一轮可以就保密回应后，模糊描述困扰。不要深入。",
+        "reasoning": "我们需要回应咨询师关于保密的问题，并且按照规则，初期阶段第3轮，只针对对话规则中的一个方面。目前我们在初期阶段，目标是建立信任与情感联系，表现出防御性和试探。之前已经询问了咨询内容和方法，也问了保密。现在可以继续模糊描述感受和表面困扰，不要深入。可以表达“其实我也说不清楚”之类的。注意简短2-3句。可以适当测试界限？但每轮只针对一个方面。这一轮可以就保密回应后，模糊描述困扰。不要深入。"
+      }
+    }
+  ],
+  "created": 1795146881,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1070,
+    "total_tokens": 1209,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

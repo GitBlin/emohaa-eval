@@ -1,0 +1,30 @@
+- Member identifies the non-negotiable difference from the loud guy: his work is loud the whole way through and he doesn't look at it, whereas the member's would have the looking in it somewhere.
+- Member's image for showing "looking" in a 10-second clip is a road with light going flat on a fence line and nothing else happening in the frame.
+- Member knows a road past the county line, about twenty minutes away, but going out there feels like picking a side, like deciding the studio stuff wasn't it.
+- Member's main fear about showing the road clip is being called safe again, because then they couldn't tell themselves it was just a sketch.
+- Member rejected calling the work a "study" as another way of hedging so it hurts less.
+- Member rejected the scouting-trip-without-gear idea, knowing they would just stand on the road angry at themselves for not bringing the camera.
+- Member rejected the 20-minute review window, predicting they would sit on the clip until 3 a.m. regardless.
+- Member rejected the scheduled-revisit plan, saying the problem isn't the schedule: going means they decided the other thing wasn't good enough.
+- Member named the conflict as being caught between staying in the studio feeling like giving up and going out feeling like admitting the studio wasn't enough.
+- Member rejected comparing the road clip against a studio still, saying comparison is the loop they already run all night.
+- Member rejected setting a single question for each piece, saying they now have about six such plans in their head and none touch the problem; they are fried and ended the session.
+- Member came online at 2 a.m. after a Walmart trip with their mom, not tired, mind circling the "competent but safe" label.
+- Member can no longer tell whether "competent but safe" is the loud guy's label or their own description, saying it started as his and is now how they describe it.
+- Member said yes to their mom's Sunday breakfast without thinking, and bought eggs, because nothing about eggs can be judged wrong.
+- Member wants company to keep the loop from bouncing back on itself, not problem-solving, and asked for someone in the room.
+- Member ate crackers from the car cup holder on the way home, the first food all day, and had not said so until asked.
+- Member has been skipping lunch in the dining hall for weeks, eating in their car and barely eating then either.
+- Member refused to make the eating pattern or anything else into a project, saying everything turns into something they are supposed to work on.
+- Member keeps almost showing a weeks-old phone clip of the county-line road, light flat on a fence, and pulling back for fear someone calls ten seconds of fence safe.
+- Member rejected a title or note on the clip as a fix, saying that is just putting a hat on it and does not change what someone says.
+- Member said no rule or off-the-record plan has traction at 2:30 a.m., every question becoming another thing to figure out.
+- Member's nights end with phone puzzles and old records until 3, the only part of the day where they stop grading themselves.
+- Member turned in the Tuesday thing and has not looked at the feedback, which they say is a relief because nothing has happened yet.
+- Member's mom asked if they wanted to bring someone to Sunday breakfast; the member said they'd think about it and is stuck between wanting company and not wanting to explain school over breakfast, and reports that a friend's presence would not quiet the "safe" worry and would make watching their mom look at them worse.
+- Member rejected keeping the breakfast decision open as a strategy, saying it is what they have been doing since Monday and it is making them nuts, and rejected a counsellor-suggested text update as useless because their mom won't text about school with them sitting there.
+- Member drove to the county line Monday, sat on the hood in good light, and did not take the camera out; the sitting was fine but the drive home turned it into another thing they did wrong, so a smaller version of the sitting would not help because the problem is the drive home.
+- Member rejected a 10-minute feedback window and a timer, saying a timer doesn't stop them thinking about it and they'll do it in their head at 2 a.m. anyway, and rejected "I don't know, and that's okay" as what they've been doing for six weeks with no gain.
+- Member rejected another rule such as a 24-hour-then-delete or 30-second skim, saying they already have about six such plans in their head and none touch it; the actual avoided part is reading what the loud guy wrote, not the click.
+- Member ended the session when the counsellor proposed protecting the reading by timing it away from night or solitude, saying they didn't know and leaving.
+- [open] Member said "maybe" to a one-time 30-second open-and-skim of the feedback with no promises beyond that, and has not reported back.

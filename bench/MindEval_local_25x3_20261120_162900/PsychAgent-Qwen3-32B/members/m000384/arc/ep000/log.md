@@ -1,0 +1,17 @@
+- Member has been in an unstable housing situation for months, sleeping across a friend's couch, a cousin's spare room, and motels.
+- Member slept in their car last night for the first time instead of booking a motel, because the cousin needed the spare room back.
+- Member's housing arrangements were always temporary and the motel price increase of 40 a week is the new change this week.
+- Member lost a studio they had watched for three weeks when someone else took it before they checked their phone on break.
+- Member's savings are depleted from motel weeks and a deposit on a place they did not get, leaving nothing for more nights.
+- Member already paid for this week's motel and has not checked what money remains.
+- Member does not want shelter or housing resource lists and does not want help with a budget, as they already budget nightly.
+- Member came to counseling because they cannot sleep, not for housing resources.
+- Member lies down around 11 and does not fall asleep until 2 or later, cycling through money, listings, and texts they sent.
+- Member has tried 4-7-8 breathing from yoga; it works when they do it but they usually do not make themselves start.
+- Member rejects a written worry list because writing it down just moves the same rumination onto paper.
+- Money is the first thing that comes up every night when the worry list starts.
+- Member used to knit for hours and it quieted their mind, but has not touched it since the summer; the knitting bags are in their trunk.
+- Member pulled the knitting out once in the motel room, looked at it, and put it back.
+- Member finds knitting in a motel room painful because it signals that this is not their life.
+- Member reacted strongly to being told to knit in a Walmart parking lot, saying the car is the parking lot and they have already slept in one this week.
+- Member ended the session by saying they were going to leave.

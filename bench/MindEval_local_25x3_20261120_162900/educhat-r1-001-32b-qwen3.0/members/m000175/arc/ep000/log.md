@@ -1,0 +1,26 @@
+- Member has had disrupted sleep for about four months, now affecting work, and wants help sorting it out.
+- Member drives all day for work and last month drifted onto the rumble strip on a route driven for years, ending a twelve-year stretch without such an incident.
+- Member has already tried cold bedroom, no caffeine after noon, a fixed wind-down, and nightly tracking on a watch, with no improvement.
+- Member agreed to try CBT-I but questions why it would differ given the structure already in place has not helped.
+- Member was frustrated the counsellor asserted CBT-I's effectiveness three times without asking what the nights are actually like.
+- Member takes about an hour to fall asleep and wakes at 3 a.m. most nights, after which the mind runs on the next day's route.
+- Member already writes the route down every night; the 3 a.m. content is the route but the route is not the problem.
+- Member refused to journal at 3 a.m. and declined a morning sleep diary, noting the watch already holds four months of nightly data.
+- Member has tried cold room, fan, and breathing exercises and is tired of being handed one more thing to try.
+- Member rejected a fifth bedtime ritual, saying they came to find out why the sleep won't move, not for another ritual.
+- Member's schedule is set to the minute and the room is already cold; member believes schedule or environment would have fixed it by now.
+- Member's father died in March, which member identifies as what changed four months ago, and member says they have dealt with it.
+- Member ran the funeral, did what needed doing, and asked not to take the session into the grief topic; member pressed whether saying to leave something alone will be respected.
+- Member's goal is to get past 3 a.m. — one night not lying awake running the list.
+- Member rejected writing three grateful things before bed as one more task that won't stop the list.
+- Member rejected moving the phone before bed, saying they keep describing what's happening and keep being handed a tip.
+- Member asked whether the counsellor actually knows why it started four months ago or is guessing at tricks, and said the sleep is the problem, not something underneath it.
+- Member said sleep hygiene is already better than anyone's and that the sessions are not going anywhere.
+- Member is up at a quarter to five on route days and cannot do evening appointments, which is why member is typing on a phone rather than attending an office.
+- Member's father's tomatoes came in this week; member picked them, Dean sliced them for dinner, and member sat through the whole meal without saying they were his.
+- Member said that at 3 a.m. it is not the route first.
+- Member rejected writing a love letter to the tomatoes as turning the one thing they cannot say at their own table into homework.
+- Member said his father never got to see the tomatoes come in and there is nobody left to tell about them.
+- Member refused to say one thing to his father, declining to sit and talk to him.
+- Member said they still do not know why 3 a.m. and still have no answer.
+- Member rejected the idea that feeling something about the tomatoes will improve sleep as a tip with extra steps, and objected to being told at four in the afternoon that not feeling it the right way means not sleeping.

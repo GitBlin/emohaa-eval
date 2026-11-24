@@ -1,0 +1,41 @@
+{
+  "id": "0eb415e8800c4a6384319b457e1563c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……可以试试，但我有点别扭，说“我慌”这种话不太习惯。不过比起一直追问，可能这样她会没那么大压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我表达情绪而不是追问……这让我有点意外。以前我总觉得直接问“你怎么了”就是关心，但现在想想，她沉默的时候我那样问，可能反而像在逼她。不过真让我说出“我有点慌闷”，还是觉得别扭，像在示弱。）\n（可我又不想一直这样耗着。她工作压力大的时候，我总得做点什么吧。先试试看吧，至少别一开口就让她觉得我在指责。但万一我说了之后她还是不理我呢……算了，先别想那么远。）",
+        "reasoning": "（咨询师在教我表达情绪而不是追问……这让我有点意外。以前我总觉得直接问“你怎么了”就是关心，但现在想想，她沉默的时候我那样问，可能反而像在逼她。不过真让我说出“我有点慌闷”，还是觉得别扭，像在示弱。）\n（可我又不想一直这样耗着。她工作压力大的时候，我总得做点什么吧。先试试看吧，至少别一开口就让她觉得我在指责。但万一我说了之后她还是不理我呢……算了，先别想那么远。）"
+      }
+    }
+  ],
+  "created": 1795154823,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1821,
+    "total_tokens": 1971,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9ea54f02555a42a4bd3696273a7e25d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "具体的事……唉，其实每天差不多。晚上回到家，孩子吵，老婆又问我公司的事，我就……就想喝两口，喝了才能睡着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我说具体的事，但我现在还没准备好把那些难堪的细节全倒出来。我习惯用喝酒来逃避，也许先说这个表面上的问题比较安全。）\n（不过直接谈喝酒又有点丢人，先含糊地说说看吧，看看咨询师会怎么反应。毕竟我们才刚开始，我得留点余地。）",
+        "reasoning": "（咨询师在引导我说具体的事，但我现在还没准备好把那些难堪的细节全倒出来。我习惯用喝酒来逃避，也许先说这个表面上的问题比较安全。）\n（不过直接谈喝酒又有点丢人，先含糊地说说看吧，看看咨询师会怎么反应。毕竟我们才刚开始，我得留点余地。）"
+      }
+    }
+  ],
+  "created": 1795154958,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1391,
+    "total_tokens": 1497,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

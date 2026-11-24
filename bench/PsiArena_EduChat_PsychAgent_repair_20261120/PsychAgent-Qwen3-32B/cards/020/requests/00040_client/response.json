@@ -1,0 +1,41 @@
+{
+  "id": "9c67ffcf3ab54e80abd0eac37fee18ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点难……我怕他说“你又来这套”。不过比起吵到收不了场，好像还是先说出来更好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户在这个阶段问的是“这句话说出口难吗”，需要回答自己的感受。保持简短，2-3句，犹豫、口语化。可以说有一点难，但比吵起来好。也可以提到怕他说我又来这套。",
+        "reasoning": "用户在这个阶段问的是“这句话说出口难吗”，需要回答自己的感受。保持简短，2-3句，犹豫、口语化。可以说有一点难，但比吵起来好。也可以提到怕他说我又来这套。"
+      }
+    }
+  ],
+  "created": 1795154152,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3122,
+    "total_tokens": 3196,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 49,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

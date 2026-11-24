@@ -1,0 +1,41 @@
+{
+  "id": "e11e0aac59ff40cb9a8963979bd71ba3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最怕……查出来以后我连照顾我妈的力气都没了。可一直这么拖着，好像也不是办法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最担心查出什么，这让我一下子想到很多。她好像是在帮我理清恐惧的源头，而不是逼我马上做决定。我确实怕，怕自己倒下，怕家里没人管。）\n（可我也知道，光怕下去不是办法。也许可以先把最坏的情况想清楚，再决定怎么走。这样至少不是干等着。）",
+        "reasoning": "（咨询师问我最担心查出什么，这让我一下子想到很多。她好像是在帮我理清恐惧的源头，而不是逼我马上做决定。我确实怕，怕自己倒下，怕家里没人管。）\n（可我也知道，光怕下去不是办法。也许可以先把最坏的情况想清楚，再决定怎么走。这样至少不是干等着。）"
+      }
+    }
+  ],
+  "created": 1795143044,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2293,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "c2f1e42f2f9c4aca93a9265f6a0a4313",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）好像是胸口吧，还有喉咙，堵堵的。（犹豫了一下）那个……我想问一下，我们聊的这些，你不会跟我家里人说吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）好像是胸口，还有喉咙吧，有点堵。（稍微犹豫）那个……我想问一下，我们聊的这些，你会跟别人说吗？比如我家里人？",
+        "reasoning": "（停顿）好像是胸口，还有喉咙吧，有点堵。（稍微犹豫）那个……我想问一下，我们聊的这些，你会跟别人说吗？比如我家里人？"
+      }
+    }
+  ],
+  "created": 1795147237,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 1537,
+    "total_tokens": 1608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 37,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

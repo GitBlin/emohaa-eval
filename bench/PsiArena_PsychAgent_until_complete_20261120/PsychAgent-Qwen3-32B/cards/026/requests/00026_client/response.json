@@ -1,0 +1,41 @@
+{
+  "id": "bc9da64d49714df6a67b00fbacef2ea9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以试试，但我怕到时候又忘了。而且我总觉得，我不管她，她就会更松懈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在建议我尝试一个小练习，这让我觉得有点压力，但又好像看到了一点点方向。我确实需要改变，可又怕自己做不到，心里有点矛盾。）可以试试，但我怕我到时候又忘了。而且我总觉得，我不管她，她就会更松懈。",
+        "reasoning": "（咨询师在建议我尝试一个小练习，这让我觉得有点压力，但又好像看到了一点点方向。我确实需要改变，可又怕自己做不到，心里有点矛盾。）可以试试，但我怕我到时候又忘了。而且我总觉得，我不管她，她就会更松懈。"
+      }
+    }
+  ],
+  "created": 1795154357,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2217,
+    "total_tokens": 2304,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

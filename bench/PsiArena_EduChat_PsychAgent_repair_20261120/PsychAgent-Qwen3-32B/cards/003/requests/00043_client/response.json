@@ -1,0 +1,41 @@
+{
+  "id": "6a068f5b586246fab4544e2c7968a2ed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我就用这句吧。听起来……好像没那么别扭，反而有点安心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "后面咨询师说这句话很温和也很有力，传递的是照顾和允许，而不是妥协。还问我这句话对我来说很合适。我需要回应觉得合适，然后可以结合自己性格直爽的特点稍微调整一下。",
+        "reasoning": "后面咨询师说这句话很温和也很有力，传递的是照顾和允许，而不是妥协。还问我这句话对我来说很合适。我需要回应觉得合适，然后可以结合自己性格直爽的特点稍微调整一下。"
+      }
+    }
+  ],
+  "created": 1795153483,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 2766,
+    "total_tokens": 2827,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

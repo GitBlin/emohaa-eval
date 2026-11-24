@@ -1,0 +1,41 @@
+{
+  "id": "ab3818ca83574be485e78080757cc72b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还好，就是有点想哭。这么一说我才发现，好像从小到大，我都在看别人脸色，怕他们不高兴。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说得对，我确实一直在担心被丢下。他问我现在身体感觉怎么样……我试着感受了一下，胸口还是有点紧，但好像比刚才好一点。他让我可以停一下，反而让我觉得可以说下去。）",
+        "reasoning": "（咨询师说得对，我确实一直在担心被丢下。他问我现在身体感觉怎么样……我试着感受了一下，胸口还是有点紧，但好像比刚才好一点。他让我可以停一下，反而让我觉得可以说下去。）"
+      }
+    }
+  ],
+  "created": 1795146762,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 1764,
+    "total_tokens": 1841,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

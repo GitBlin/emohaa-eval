@@ -1,0 +1,41 @@
+{
+  "id": "4cbcaabed49b4930bb58bddd3927b719",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "处理？我那时候能怎么处理，只能装作什么都没发生。我爸妈都觉得小孩子不该管大人的事，我也就学会了什么都不说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是怎么处理情绪的……这让我想起小时候那种无力感。那时候我只会躲起来，假装什么都没发生，因为家里从来不会公开谈这种事。我爸妈总是说“小孩子别管大人的事”，可那些画面和声音根本忘不掉。）\n（现在作为老师，我天天教孩子们要表达情绪，可自己却做不到。这种矛盾让我更难受了，好像我连自己都教不好，怎么去教别人呢。）",
+        "reasoning": "（咨询师问我是怎么处理情绪的……这让我想起小时候那种无力感。那时候我只会躲起来，假装什么都没发生，因为家里从来不会公开谈这种事。我爸妈总是说“小孩子别管大人的事”，可那些画面和声音根本忘不掉。）\n（现在作为老师，我天天教孩子们要表达情绪，可自己却做不到。这种矛盾让我更难受了，好像我连自己都教不好，怎么去教别人呢。）"
+      }
+    }
+  ],
+  "created": 1795147845,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1729,
+    "total_tokens": 1853,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

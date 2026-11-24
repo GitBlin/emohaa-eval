@@ -1,0 +1,11 @@
+- Member was referred by her doctor and reports not having felt like herself since an incident at her house last November.
+- Member was home alone on a Tuesday in the last week of November when two men with a clipboard claimed to be there about the meter and entered when she opened the door.
+- Member was pushed into the kitchen, put on a chair, and had her wrists tied to the counter with an extension cord by the two men.
+- Member wakes at about 4 a.m. nearly every night and begins checking the locks before she has consciously decided to get out of bed.
+- Member's hypervigilance also occurs during the day; at her daughter's house on a Wednesday, the doorbell rang and she found herself in the dark hallway with a screwdriver from the kitchen drawer before she knew what she was doing.
+- Member has not told her daughter about the incident.
+- Member says she could tell her daughter about the incident in one minute using a humorous version, but cannot say the real thing and watch her daughter's face while she carries it.
+- Member manages the urge to tell by asking her daughter about her day or claiming something is burning in the kitchen and going to stand at the stove.
+- Member has counted her breaths for thirty years; it steadies her hands for an hour but does not get her past 4 a.m., and she declined another grounding exercise, saying she did not come for that.
+- Member rejected a suggested short phrase for mentioning the meter men as the humorous version with the joke removed, describing it as handing her daughter a tidy parcel and hoping she does not open it.
+- Member ended the session when asked whether having someone nearby for a few nights might help.

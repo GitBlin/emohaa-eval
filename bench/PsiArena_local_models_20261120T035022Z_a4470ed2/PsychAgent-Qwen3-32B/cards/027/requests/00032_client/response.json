@@ -1,0 +1,41 @@
+{
+  "id": "91d5df4e59584e2198ccd70e05fd51e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "周末吧，晚上她一般会打电话来……我可能先不接，等看完再说。这样想还是有点心虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎在帮我把行动落到具体时间上，这样确实比空想更踏实。但我还是有点犹豫，怕自己到时候又退缩，所以想先问清楚如果做不到会怎样。）",
+        "reasoning": "（咨询师似乎在帮我把行动落到具体时间上，这样确实比空想更踏实。但我还是有点犹豫，怕自己到时候又退缩，所以想先问清楚如果做不到会怎样。）"
+      }
+    }
+  ],
+  "created": 1795147528,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 2385,
+    "total_tokens": 2454,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "03afba453e4c47a2a822e426f6581b1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，设个时间点吧，比如晚上九点，到点就发，不许再改。就是……真到那时候我估计手还是会抖。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把行动具体化……设个时间点好像更有用，不然我肯定改来改去没完。不过真到点的时候，我可能还是会手抖。）嗯，设个时间点吧，比如晚上九点，到点就发，不许再改。就是……真到那时候我估计手还是会抖。",
+        "reasoning": "（咨询师在帮我把行动具体化……设个时间点好像更有用，不然我肯定改来改去没完。不过真到点的时候，我可能还是会手抖。）嗯，设个时间点吧，比如晚上九点，到点就发，不许再改。就是……真到那时候我估计手还是会抖。"
+      }
+    }
+  ],
+  "created": 1795146327,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3639,
+    "total_tokens": 3747,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

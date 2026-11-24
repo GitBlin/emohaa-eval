@@ -1,0 +1,41 @@
+{
+  "id": "d42e508019594c829aec61b763ca5f17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "心跳快了一点，但好像也没那么可怕。至少我说出来了，不像以前只在心里憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "“心跳快了一点，但好像也没那么可怕。至少我说出来了。”",
+        "reasoning": "“心跳快了一点，但好像也没那么可怕。至少我说出来了。”"
+      }
+    }
+  ],
+  "created": 1795147175,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 2354,
+    "total_tokens": 2392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 16,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

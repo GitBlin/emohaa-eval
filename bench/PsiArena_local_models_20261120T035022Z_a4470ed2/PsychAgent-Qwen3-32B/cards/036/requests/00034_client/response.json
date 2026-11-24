@@ -1,0 +1,41 @@
+{
+  "id": "008067779c9e4b0992a265e79036cfd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意试试……不过我有点怕自己到时候又僵住。这个“先照顾好自己”会不会太自私了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，用户说愿意试试，但语气有点犹豫。我需要确认这个行动是否可行，同时保持简短。用户可能担心自己做不到，或者觉得这个行动太简单。我应该鼓励他，并询问他是否觉得这个行动可行，或者需要调整。这样既符合后期阶段探索解决方案的目标，又不会太深入。",
+        "reasoning": "好的，用户说愿意试试，但语气有点犹豫。我需要确认这个行动是否可行，同时保持简短。用户可能担心自己做不到，或者觉得这个行动太简单。我应该鼓励他，并询问他是否觉得这个行动可行，或者需要调整。这样既符合后期阶段探索解决方案的目标，又不会太深入。"
+      }
+    }
+  ],
+  "created": 1795147956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 2564,
+    "total_tokens": 2656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

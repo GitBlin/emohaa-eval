@@ -1,0 +1,41 @@
+{
+  "id": "11d33b1289824d719aa32252ee737b94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好……（稍微停顿）我其实不太确定该怎么开始。想先问问，你们一般是怎么做咨询的？会不会要我说很多很私人的事？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系。说明咨询师在尝试用友好的方式开场，但作为来访者，我还不确定是否该完全信任对方。）\n（毕竟我是敏感又内向的人，对专业关系既渴望又警惕。在这样的情境下，我应该先试探咨询师的专业性，而不是直接表露真实感受。我需要确认咨询方式是否安全，才能决定要不要继续深入。）\n（好了，那么现在就像这样对咨询师说吧。我的回复要表现出适度的防御性，同时用肢体语言传递不安感。）",
+        "reasoning": "（我们刚刚开始对话，现在心理咨询师对我说“你好，我是你今天的心理咨询师”，意思可能是想先建立初步联系。说明咨询师在尝试用友好的方式开场，但作为来访者，我还不确定是否该完全信任对方。）\n（毕竟我是敏感又内向的人，对专业关系既渴望又警惕。在这样的情境下，我应该先试探咨询师的专业性，而不是直接表露真实感受。我需要确认咨询方式是否安全，才能决定要不要继续深入。）\n（好了，那么现在就像这样对咨询师说吧。我的回复要表现出适度的防御性，同时用肢体语言传递不安感。）"
+      }
+    }
+  ],
+  "created": 1795150133,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 163,
+    "prompt_tokens": 857,
+    "total_tokens": 1020,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 129,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

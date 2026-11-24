@@ -1,0 +1,41 @@
+{
+  "id": "6012d97785c74a0788e0a60f3f8056bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我有点紧张。对自己说“我不是多余的”？然后对外……“你们聊什么呢，我也想听听。”这样说会不会太直接了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "让我想想怎么回应。咨询师让我做微演练，在茶水间场景里先对自己说一句支持的话，再对外说一句“我”的表达。这有点难，因为平时根本不会这么做。我可以表现出一点犹豫和紧张，然后试着说出来。不要太完美，要自然。",
+        "reasoning": "让我想想怎么回应。咨询师让我做微演练，在茶水间场景里先对自己说一句支持的话，再对外说一句“我”的表达。这有点难，因为平时根本不会这么做。我可以表现出一点犹豫和紧张，然后试着说出来。不要太完美，要自然。"
+      }
+    }
+  ],
+  "created": 1795146775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2326,
+    "total_tokens": 2417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ebd2eb84c95b43d78687ed0c4ce07d85",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最先冒出来的……是“他会不会就不要我了”。说出来有点丢脸，像我把自己的价值都押在他一句话上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是“那一刻心里最先冒出的担心”，这让我想到每次他沉默时那种被悬空的感觉。我其实很清楚自己最怕的不是他发火，而是那种被慢慢疏远、被放弃的恐惧。）\n（但说出“怕他离开”好像太直白了，会显得我很依赖、很没安全感。可这确实是我最真实的感受，而且现在咨询已经进行到后期，我好像可以试着更坦白一点。）",
+        "reasoning": "（咨询师问的是“那一刻心里最先冒出的担心”，这让我想到每次他沉默时那种被悬空的感觉。我其实很清楚自己最怕的不是他发火，而是那种被慢慢疏远、被放弃的恐惧。）\n（但说出“怕他离开”好像太直白了，会显得我很依赖、很没安全感。可这确实是我最真实的感受，而且现在咨询已经进行到后期，我好像可以试着更坦白一点。）"
+      }
+    }
+  ],
+  "created": 1795143490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 3243,
+    "total_tokens": 3366,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

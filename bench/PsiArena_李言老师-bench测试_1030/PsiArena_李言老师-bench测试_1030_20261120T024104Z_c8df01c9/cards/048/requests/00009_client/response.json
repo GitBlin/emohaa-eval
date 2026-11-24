@@ -1,0 +1,41 @@
+{
+  "id": "42ff7208a57b4415ae74032b4e7f7fd3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "意味着什么……（想了很久）可能不只是眼霜本身吧。我不太会讲，就是觉得东西在我手里丢了，好像证明我这个人不够仔细、不够靠谱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我丢的东西对我意味着什么，这让我想到妈妈和家里那些规矩。我有点不想承认自己这么在意，但好像又不得不面对。）\n（其实那只眼霜本身没那么重要，可它代表的是我有没有好好管自己。我从小被要求东西归位、珍惜物品，现在一丢东西就像在证明我没做到。这种念头压得我很难受，但又说不清楚。）",
+        "reasoning": "（咨询师问我丢的东西对我意味着什么，这让我想到妈妈和家里那些规矩。我有点不想承认自己这么在意，但好像又不得不面对。）\n（其实那只眼霜本身没那么重要，可它代表的是我有没有好好管自己。我从小被要求东西归位、珍惜物品，现在一丢东西就像在证明我没做到。这种念头压得我很难受，但又说不清楚。）"
+      }
+    }
+  ],
+  "created": 1795143674,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1779,
+    "total_tokens": 1902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "844335b908144272ada58b5ce112ba03",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大部分时候……我就忍着，翻个身，或者戴上耳机。偶尔会再说一次，但声音很小，自己都觉得没什么底气。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体会怎么做……我其实试过好几种，但每次开口都像在跟自己打架。先说说最常做的吧，就是忍着，因为怕说了又像之前那样被敷衍。不过有时候实在受不了，也会试着再说一次，但声音很小，可能他们都没听见。还有点想戴耳机，但心里又觉得凭什么是我躲。）",
+        "reasoning": "（咨询师问我具体会怎么做……我其实试过好几种，但每次开口都像在跟自己打架。先说说最常做的吧，就是忍着，因为怕说了又像之前那样被敷衍。不过有时候实在受不了，也会试着再说一次，但声音很小，可能他们都没听见。还有点想戴耳机，但心里又觉得凭什么是我躲。）"
+      }
+    }
+  ],
+  "created": 1795153637,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2169,
+    "total_tokens": 2275,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

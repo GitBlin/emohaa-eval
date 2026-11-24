@@ -1,0 +1,41 @@
+{
+  "id": "a95acfd679d046f3867818f6be39ec49",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是小时候吧。我爸妈不太骂我，但他们那种“你应该懂事”的期待，我一直记得。现在一遇到孩子哭，我就自动觉得是我没做好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了这个信念的来源……我心里其实有点数，但说出来还是有点难。小时候父母总说“自己的事自己负责”，我考好了他们夸我懂事，考不好他们不骂，只是那种失望的眼神，让我觉得不够努力就是我的错。所以现在一看到孩子哭，我第一反应就是“是我没做好”。）",
+        "reasoning": "（咨询师问到了这个信念的来源……我心里其实有点数，但说出来还是有点难。小时候父母总说“自己的事自己负责”，我考好了他们夸我懂事，考不好他们不骂，只是那种失望的眼神，让我觉得不够努力就是我的错。所以现在一看到孩子哭，我第一反应就是“是我没做好”。）"
+      }
+    }
+  ],
+  "created": 1795147398,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2923,
+    "total_tokens": 3034,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "029decc04308406098d513030721e8ae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会……会有点紧张，像被人盯着看。然后心里就发虚，觉得自己是不是又说错话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这轮是第7轮，初期结束。需要回应咨询师关于“被评判”时身体和心里发生什么，保持简短2-3句，带犹豫，不深入根源，只针对一个方面。可以表达紧张、防御稍缓，但仍模糊。不要谢谢再见。",
+        "reasoning": "这轮是第7轮，初期结束。需要回应咨询师关于“被评判”时身体和心里发生什么，保持简短2-3句，带犹豫，不深入根源，只针对一个方面。可以表达紧张、防御稍缓，但仍模糊。不要谢谢再见。"
+      }
+    }
+  ],
+  "created": 1795153956,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1470,
+    "total_tokens": 1555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

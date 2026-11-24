@@ -1,0 +1,54 @@
+--- 2026-11-23T07:51:29+00:00
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/scripts/generate_interactions.py", line 271, in one
+    arc = run_arc(cfg, row, counselor, patient=patient, sessions=sessions, max_turns=max_turns,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/arc.py", line 380, in run_arc
+    record = run_session(cfg, row, situation, knobs, counselor, patient=patient, max_turns=max_turns,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 51, in run
+    return fn(*a, **kw)
+           ^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/session.py", line 201, in run_session
+    text, cmeta = counselor.respond(counselor_prompt, transcript)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 63, in respond
+    reply = local.session.chat([
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role.py", line 87, in chat
+    reply, metadata = self.client.call('POST', '/open/chat/completions', self.directory,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role_transport.py", line 166, in call
+    return parse_sse(lines(), lambda event: append_json(directory / f"{name}.events.jsonl", event))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role_transport.py", line 98, in parse_sse
+    raise APIError(str(delta.get("content") or obj.get("message") or obj.get("error") or "SSE error"))
+psiarena.ai_role_transport.APIError: 内容生成状态失败，请稍后重试
+
+--- 2026-11-23T11:11:08+00:00
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/scripts/generate_interactions.py", line 271, in one
+    arc = run_arc(cfg, row, counselor, patient=patient, sessions=sessions, max_turns=max_turns,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/arc.py", line 380, in run_arc
+    record = run_session(cfg, row, situation, knobs, counselor, patient=patient, max_turns=max_turns,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 51, in run
+    return fn(*a, **kw)
+           ^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/session.py", line 201, in run_session
+    text, cmeta = counselor.respond(counselor_prompt, transcript)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 63, in respond
+    reply = local.session.chat([
+            ^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role.py", line 87, in chat
+    reply, metadata = self.client.call('POST', '/open/chat/completions', self.directory,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role_transport.py", line 166, in call
+    return parse_sse(lines(), lambda event: append_json(directory / f"{name}.events.jsonl", event))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena/psiarena/ai_role_transport.py", line 98, in parse_sse
+    raise APIError(str(delta.get("content") or obj.get("message") or obj.get("error") or "SSE error"))
+psiarena.ai_role_transport.APIError: 内容生成状态失败，请稍后重试
+

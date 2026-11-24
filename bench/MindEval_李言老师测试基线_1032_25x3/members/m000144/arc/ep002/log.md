@@ -1,0 +1,30 @@
+- Member says she can't picture finishing the bookcase right now.
+- Finishing the bookcase would require going to her mother's house, where the manuals are.
+- Member dreads the garage because her father's tools and tackle box are there; the tackle box is the hardest to imagine seeing.
+- Member missed this spring's fishing opener, the first since age eight.
+- Member's opening-day memory: out before light, father with coffee in a thermos, handing her a rod, saying little.
+- What Member misses most is her father simply sitting there not saying anything.
+- Member has not gone near the water since her father died and feels stupid saying so.
+- Member imagines standing at the water alone and thinks she would just end up leaving.
+- Member's kitchen sink has dripped since Wednesday; a bucket under it is nearly full, and Member stayed up rather than sleep.
+- Member's mother replied to something Member sent; Member saw only the lock-screen preview and left it unopened, phone face down.
+- Member sat in the quiet with the message unopened rather than reading it.
+- Member used to fix things like the sink the same night and notices the gap between that self and now.
+- Member describes her own apartment as feeling like somebody else's.
+- Member wants to get through tomorrow without calling her mother back.
+- Member feels the pull to call her mother strongest on Sunday mornings and on the drive home from work.
+- Member's last call with her father was him asking her to look at the trailer bearings that Saturday; she said she had inventory count.
+- Member carries that refusal as the last thing she said to him, heaviest on the drive home.
+- Member sometimes puts the radio on during the drive but isn't listening to it.
+- Member agreed to wonder what would make the drive home feel less like something to get through. [open]
+- Member went to empty the bucket before bed. [open]
+- Member has now left a second message from her mother unopened, reading it only on the lock screen, and calls herself a jerk for it.
+- Member identifies the tackle box on the garage bench as the specific object she cannot face picking up, because carrying it out would make her father's death final.
+- Member has not told her mother why she won't come, believing her mother has enough going on and that they don't talk about such things.
+- Member says the weight has been heavier since her father died in March and that no one has seen how heavy it has gotten.
+- Member has Ray messaging her on off nights, values that he wants nothing from her, but has not logged on for Thursday this week.
+- Member says she has been telling Ray work is busy rather than the real thing, and cannot picture telling him more because kindness would make her unable to hold it together.
+- Member describes the underlying state as no floor rather than collapse, constant and at a distance rather than a wave.
+- Member cannot picture any step toward the garage smaller than the whole drive and the whole garage at once.
+- Member settled on a reply to her mother — "I don't know how to put it yet" — as true, sendable, and not requiring her to say more. [open]
+- Member deferred any plan for if her mother asks a follow-up, calling it a bridge for later. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "6f2a91cc952e4a8792ac90f4bef82579",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个要求很具体，也很合理。听你说完、不急着给建议，是我们可以一起约定的方式。你愿意把它当作咨询里的一次小尝试吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）我希望你……不要急着给建议，先听我说完。可我又怕这样是在要求你，是不是不太好？",
+        "reasoning": "（停顿）我希望你……不要急着给建议，先听我说完。可我又怕这样是在要求你，是不是不太好？"
+      }
+    }
+  ],
+  "created": 1795155115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 63,
+    "prompt_tokens": 2415,
+    "total_tokens": 2478,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

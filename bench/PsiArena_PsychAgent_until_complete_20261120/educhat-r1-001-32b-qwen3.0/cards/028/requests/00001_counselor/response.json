@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-e86d099cd5c342bdb95407b777b1c7d0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，很高兴为你提供咨询服务。请问你有什么困扰需要帮助吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者主动求助，说明存在心理困扰，但尚未具体说明问题。\n【行动策略】：建立信任关系，通过开放式提问引导来访者表达。\n",
+        "reasoning_content": "\n【诊断分析】：来访者主动求助，说明存在心理困扰，但尚未具体说明问题。\n【行动策略】：建立信任关系，通过开放式提问引导来访者表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154506,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 196,
+    "total_tokens": 253,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

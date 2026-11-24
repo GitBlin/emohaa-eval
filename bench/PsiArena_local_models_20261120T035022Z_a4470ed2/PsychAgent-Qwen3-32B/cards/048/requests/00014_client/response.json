@@ -1,0 +1,41 @@
+{
+  "id": "da7e9fc1022e487c971eb9b0599f2096",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺频繁的……有时候一天好几次。嗯，我能问一下吗，如果我说得特别琐碎，你会不会觉得烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种被反复勾住的经历有多频繁。他好像没有觉得我小题大做，还愿意继续听。可我现在还不太想直接回答“多久了”这种像下诊断一样的问题。我有点想试探他，如果我说得多了，他会不会真的在意我，还是只是按流程走。也许我可以先反问一句，看看他会不会不耐烦。）",
+        "reasoning": "（咨询师在问我这种被反复勾住的经历有多频繁。他好像没有觉得我小题大做，还愿意继续听。可我现在还不太想直接回答“多久了”这种像下诊断一样的问题。我有点想试探他，如果我说得多了，他会不会真的在意我，还是只是按流程走。也许我可以先反问一句，看看他会不会不耐烦。）"
+      }
+    }
+  ],
+  "created": 1795148810,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1490,
+    "total_tokens": 1599,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

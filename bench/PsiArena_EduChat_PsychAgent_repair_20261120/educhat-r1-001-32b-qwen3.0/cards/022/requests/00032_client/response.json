@@ -1,0 +1,41 @@
+{
+  "id": "52667cda66954526a706d57de9c8b667",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写信……这个我还真没想过。不过写下来可能比直接说容易点，至少不会一紧张就说不出口。我可以先写一封，不一定要给她看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我写信读给妈妈听，这个方式听起来比直接打电话更有准备空间。不过读信会不会太正式了，我妈可能会觉得奇怪。但至少写下来能让我理清思路，不会说着说着又变成自我检讨。）\n（其实我有点担心她听到这些会不耐烦，但也许可以试试先写一封不寄出去的信，就当是练习表达。这样就算她反应冷淡，我也不至于太受伤。）",
+        "reasoning": "（咨询师建议我写信读给妈妈听，这个方式听起来比直接打电话更有准备空间。不过读信会不会太正式了，我妈可能会觉得奇怪。但至少写下来能让我理清思路，不会说着说着又变成自我检讨。）\n（其实我有点担心她听到这些会不耐烦，但也许可以试试先写一封不寄出去的信，就当是练习表达。这样就算她反应冷淡，我也不至于太受伤。）"
+      }
+    }
+  ],
+  "created": 1795154280,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2266,
+    "total_tokens": 2395,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

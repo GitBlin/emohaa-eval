@@ -1,0 +1,41 @@
+{
+  "id": "13bbd409661246bfb125b43f98119b30",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（在门口停了一下，声音比来时清楚些）那我先走了。下周……我会试试那个点头的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（走到门口，回头）嗯……谢谢。今天说这些，好像没我想的那么难。",
+        "reasoning": "（走到门口，回头）嗯……谢谢。今天说这些，好像没我想的那么难。"
+      }
+    }
+  ],
+  "created": 1795153505,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 4053,
+    "total_tokens": 4100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3840
+    }
+  }
+}

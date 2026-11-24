@@ -1,0 +1,41 @@
+{
+  "id": "ed147fa1558e4156a1f9c2a26c6545d4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕她发现我其实很差，连情绪都管不好。她一直都挺稳的，我不想在她面前显得那么脆弱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像真的在试着理解我，不是随便问问。我有点想说，又有点怕说出来显得自己太脆弱。可如果不说，她大概也不知道我每天在学校有多累。）\n（同桌那种一直很稳的样子，让我觉得自己连难受都得藏着。我怕她发现我其实已经快撑不住了，那会让我更没脸待在她旁边。）",
+        "reasoning": "（她好像真的在试着理解我，不是随便问问。我有点想说，又有点怕说出来显得自己太脆弱。可如果不说，她大概也不知道我每天在学校有多累。）\n（同桌那种一直很稳的样子，让我觉得自己连难受都得藏着。我怕她发现我其实已经快撑不住了，那会让我更没脸待在她旁边。）"
+      }
+    }
+  ],
+  "created": 1795143480,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2380,
+    "total_tokens": 2482,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

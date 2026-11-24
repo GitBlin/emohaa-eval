@@ -1,0 +1,41 @@
+{
+  "id": "e30bbb6f41544e44815e67187ec71e2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "特别的事情……好像也没有吧。就是，嗯，上课的时候学生稍微出点状况，我眼泪就上来了。我也知道这样很不好……（声音变小）真的没什么特别的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来挺温和的，没有急着给我下结论。但我不确定该说多少，毕竟我们才刚认识。提到情绪背后的原因让我有点紧张，因为我自己都没想明白。）\n（作为小学教师，我平时在别人面前都要保持专业形象，现在要承认自己控制不住情绪真的很难。说“没什么特别的”可能有点敷衍，但确实不知道从何说起。也许先含糊地回应一下，看看咨询师会怎么接话。）",
+        "reasoning": "（这位咨询师看起来挺温和的，没有急着给我下结论。但我不确定该说多少，毕竟我们才刚认识。提到情绪背后的原因让我有点紧张，因为我自己都没想明白。）\n（作为小学教师，我平时在别人面前都要保持专业形象，现在要承认自己控制不住情绪真的很难。说“没什么特别的”可能有点敷衍，但确实不知道从何说起。也许先含糊地回应一下，看看咨询师会怎么接话。）"
+      }
+    }
+  ],
+  "created": 1795150191,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 1020,
+    "total_tokens": 1159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

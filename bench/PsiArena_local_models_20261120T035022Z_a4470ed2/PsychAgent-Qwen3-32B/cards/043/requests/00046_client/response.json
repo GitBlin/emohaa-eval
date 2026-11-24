@@ -1,0 +1,41 @@
+{
+  "id": "e97a2dfc0b6741fcba041ecfc23360a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，下次我就说说这两个哪个做到了、哪个卡住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（继续后期阶段，聚焦具体化和总结。）接下来可以约定下次怎么回顾：睡前练习和桌角卡片，哪个更容易做到，哪个卡住了。你愿意下次聊聊这些吗？",
+        "reasoning": "（继续后期阶段，聚焦具体化和总结。）接下来可以约定下次怎么回顾：睡前练习和桌角卡片，哪个更容易做到，哪个卡住了。你愿意下次聊聊这些吗？"
+      }
+    }
+  ],
+  "created": 1795148580,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 3048,
+    "total_tokens": 3102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

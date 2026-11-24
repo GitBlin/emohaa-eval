@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-2b238cf072db4b32a766cb3fdb0ab243",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think>\n</think>\n\n这是关键点。我们加一个“自我提醒卡”：写上“紧绷→停一下→喝水/呼吸→再决定”。把卡片放在包里或冰箱上，看到就停30秒，再决定是继续安抚还是短暂离场。这样的小工具，你觉得合适吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154334,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2721,
+    "total_tokens": 2789,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

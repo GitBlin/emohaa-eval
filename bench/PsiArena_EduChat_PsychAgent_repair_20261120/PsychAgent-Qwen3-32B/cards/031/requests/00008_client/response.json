@@ -1,0 +1,41 @@
+{
+  "id": "88f84feddbe14cbdb4238f64f9098f8a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有时候是突然想到什么事，有时候也没发生什么，就莫名其妙地难受。嗯……这种情况正常吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问得挺细的……我其实不太想这么快就说那些具体的事，但好像也不能一直绕圈子。先随便说个大概吧，别显得太防备。）\n（晚上那种感觉，有时候是突然想到某个人，有时候又好像什么也没发生。我不太确定该怎么讲，说多了怕被看穿，说少了又显得不配合……先含糊带过去好了。）",
+        "reasoning": "（他问得挺细的……我其实不太想这么快就说那些具体的事，但好像也不能一直绕圈子。先随便说个大概吧，别显得太防备。）\n（晚上那种感觉，有时候是突然想到某个人，有时候又好像什么也没发生。我不太确定该怎么讲，说多了怕被看穿，说少了又显得不配合……先含糊带过去好了。）"
+      }
+    }
+  ],
+  "created": 1795154547,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1201,
+    "total_tokens": 1307,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

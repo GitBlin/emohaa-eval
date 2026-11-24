@@ -1,0 +1,41 @@
+{
+  "id": "5af6682642514a24bec9a69f5f2c52ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这句话我好像能说出口，至少不用马上解释。我可以先记着，下次她那样说时试试看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我练习用“我需要点时间想清楚”来稳住自己，这让我觉得有点意外。我从来没试过这样回应我妈，以前都是立刻解释或者妥协。心里有点紧张，但好像也有一丝希望，也许真的可以试试。）\n（不过我还是担心，如果这么说，我妈会不会觉得我在敷衍她，或者更生气。但既然咨询师建议了，也许可以先记下来，至少给自己一个缓冲的机会。这样想的话，好像没那么可怕了。）",
+        "reasoning": "（咨询师让我练习用“我需要点时间想清楚”来稳住自己，这让我觉得有点意外。我从来没试过这样回应我妈，以前都是立刻解释或者妥协。心里有点紧张，但好像也有一丝希望，也许真的可以试试。）\n（不过我还是担心，如果这么说，我妈会不会觉得我在敷衍她，或者更生气。但既然咨询师建议了，也许可以先记下来，至少给自己一个缓冲的机会。这样想的话，好像没那么可怕了。）"
+      }
+    }
+  ],
+  "created": 1795143165,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3315,
+    "total_tokens": 3442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

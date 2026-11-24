@@ -1,0 +1,41 @@
+{
+  "id": "a73198f1c29247e6907ac6988524562b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我觉得已经接近强烈了，还没去就开始想东想西，晚上也睡不踏实。有时候我也怀疑，是不是我太在意别人怎么看我了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我觉得已经接近强烈了。就是还没去就开始想东想西，晚上也睡不踏实。有时候我会想，是不是我太在意别人怎么看我了。",
+        "reasoning": "嗯……我觉得已经接近强烈了。就是还没去就开始想东想西，晚上也睡不踏实。有时候我会想，是不是我太在意别人怎么看我了。"
+      }
+    }
+  ],
+  "created": 1795147156,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 1755,
+    "total_tokens": 1826,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

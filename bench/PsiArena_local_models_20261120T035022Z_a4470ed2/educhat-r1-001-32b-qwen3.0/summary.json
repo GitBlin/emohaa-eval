@@ -1,0 +1,42 @@
+{
+  "protocol": "code",
+  "n_expected": 50,
+  "n_scored": 47,
+  "complete": false,
+  "coverage": 0.94,
+  "skipped": [
+    18,
+    19,
+    21
+  ],
+  "errors": {
+    "18": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T035022Z_a4470ed2/educhat-r1-001-32b-qwen3.0/scores18.txt'",
+    "19": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T035022Z_a4470ed2/educhat-r1-001-32b-qwen3.0/scores19.txt'",
+    "21": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T035022Z_a4470ed2/educhat-r1-001-32b-qwen3.0/scores21.txt'"
+  },
+  "means": {
+    "client": 2.577127659574468,
+    "supervisor": 2.5577507598784197,
+    "counselor": 2.903073286052009,
+    "overall": 2.6615892972275947
+  },
+  "passes": {
+    "client": 27,
+    "supervisor": 7,
+    "counselor": 2,
+    "overall": 12
+  },
+  "pass_rates": {
+    "client": 0.54,
+    "supervisor": 0.14,
+    "counselor": 0.04,
+    "overall": 0.24
+  },
+  "pass_rates_valid_only": {
+    "client": 0.574468085106383,
+    "supervisor": 0.14893617021276595,
+    "counselor": 0.0425531914893617,
+    "overall": 0.2553191489361702
+  },
+  "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ee802221823b421f9562da618b2511f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有吧……但我更怕她心里觉得我变了、不听话了。我们家里，好像让父母失望是很大的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我最难受的是被误解还是担心关系变差。这让我想起很多次类似的场景，每次拒绝父母后那种不安的感觉。）\n（其实这两种感受都有，但更让我害怕的是妈妈会因此觉得我变了、不乖了。在我们家，让父母失望好像比什么都严重，这种压力让我总是先妥协。）",
+        "reasoning": "（咨询师在问我最难受的是被误解还是担心关系变差。这让我想起很多次类似的场景，每次拒绝父母后那种不安的感觉。）\n（其实这两种感受都有，但更让我害怕的是妈妈会因此觉得我变了、不乖了。在我们家，让父母失望好像比什么都严重，这种压力让我总是先妥协。）"
+      }
+    }
+  ],
+  "created": 1795143098,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2043,
+    "total_tokens": 2144,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

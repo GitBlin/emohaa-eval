@@ -1,0 +1,41 @@
+{
+  "id": "ec393eb8567f49ce8feacb8fbedf62df",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "应该是……别人怎么看我吧。我怕他们觉得我这人很怪。其实我平时也不是这样，就是……唉，算了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是担心说错话还是担心别人怎么看我，这让我有点不知道该怎么回答。其实两个都有，但更怕的是别人觉得我奇怪吧。毕竟我一直都是这样，在别人面前总觉得自己不够好。）\n（不过现在好像稍微能多说一点了，虽然还是不太想承认。也许可以试着说说那个女生的事，反正都聊到这儿了。但说完又有点后悔，怕自己讲太多。）",
+        "reasoning": "（咨询师问我是担心说错话还是担心别人怎么看我，这让我有点不知道该怎么回答。其实两个都有，但更怕的是别人觉得我奇怪吧。毕竟我一直都是这样，在别人面前总觉得自己不够好。）\n（不过现在好像稍微能多说一点了，虽然还是不太想承认。也许可以试着说说那个女生的事，反正都聊到这儿了。但说完又有点后悔，怕自己讲太多。）"
+      }
+    }
+  ],
+  "created": 1795143086,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1485,
+    "total_tokens": 1605,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

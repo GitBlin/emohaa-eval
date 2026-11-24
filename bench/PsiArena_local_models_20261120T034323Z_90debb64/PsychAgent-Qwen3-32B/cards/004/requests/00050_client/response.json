@@ -1,0 +1,41 @@
+{
+  "id": "14a97ec61d914ddfa786320cf11f3b23",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……下次见。那个，我走之前想问一句，要是这三天我一次都没做到，你会不会觉得我没用？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方说期待下次，我该收尾了。但我突然有点慌，怕这一周自己撑不住，也怕下次来的时候不知道说什么。还是把担心说出来吧，别让这个约定变成空话。）",
+        "reasoning": "（对方说期待下次，我该收尾了。但我突然有点慌，怕这一周自己撑不住，也怕下次来的时候不知道说什么。还是把担心说出来吧，别让这个约定变成空话。）"
+      }
+    }
+  ],
+  "created": 1795146507,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3237,
+    "total_tokens": 3312,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

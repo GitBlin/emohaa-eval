@@ -1,0 +1,41 @@
+{
+  "id": "d1ecb15cd540407e850ee1ba030bdbcb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是吧……我好像总在接一些本来可以分出去的事。可让我开口说“这个不该我管”，我又觉得像在推卸责任。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说“怎么又是我”不是小心眼，是压力大时的自然反应，还问我是不是承担了太多不该我承担的事。我心里有点被戳中的感觉，确实最近好像什么活都往我身上堆，我明明累得不行还硬接。）\n（可我又不太敢承认，怕一承认就显得我在抱怨别人。但想想，也许我该试着不总是把错往自己身上揽，先看看实际情况是不是真的分得太多了。）",
+        "reasoning": "（咨询师说“怎么又是我”不是小心眼，是压力大时的自然反应，还问我是不是承担了太多不该我承担的事。我心里有点被戳中的感觉，确实最近好像什么活都往我身上堆，我明明累得不行还硬接。）\n（可我又不太敢承认，怕一承认就显得我在抱怨别人。但想想，也许我该试着不总是把错往自己身上揽，先看看实际情况是不是真的分得太多了。）"
+      }
+    }
+  ],
+  "created": 1795142631,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2655,
+    "total_tokens": 2788,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

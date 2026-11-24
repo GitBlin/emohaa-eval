@@ -1,0 +1,41 @@
+{
+  "id": "807dc1d0131a449ea672186f98461aeb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写下来……这个办法我倒是没想过。可是万一被他看见，那不是更糟吗？我总觉得怎么做都不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先写下来，这个提议让我觉得有点意外。写下来确实比当面说容易些，至少不用担心他立刻发火。但我又担心写出来的东西被他看到，那后果可能更糟。）\n（作为一直依赖别人、害怕冲突的人，我其实很怕自己的真实想法被暴露。可另一方面，咨询师似乎理解我的恐惧，这让我稍微放松了一点。也许可以试试，但得想个安全的办法。）",
+        "reasoning": "（咨询师建议我先写下来，这个提议让我觉得有点意外。写下来确实比当面说容易些，至少不用担心他立刻发火。但我又担心写出来的东西被他看到，那后果可能更糟。）\n（作为一直依赖别人、害怕冲突的人，我其实很怕自己的真实想法被暴露。可另一方面，咨询师似乎理解我的恐惧，这让我稍微放松了一点。也许可以试试，但得想个安全的办法。）"
+      }
+    }
+  ],
+  "created": 1795147531,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2049,
+    "total_tokens": 2170,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

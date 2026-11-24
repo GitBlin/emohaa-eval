@@ -1,0 +1,41 @@
+{
+  "id": "7d7601492a344dbea14ea407416b873b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧。我数学没考好，本来想跟她说我最近有点学不进去，她第一句就问“那谁谁考多少”。我当时一下就……不想说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近哪一次让我觉得妈妈只在乎分数……这让我一下子想起上周的事。其实我本来不想提的，但既然她问了，而且刚才我说了那么多，好像也没被评判，那说说应该没关系吧。）\n（那天我明明已经很努力了，数学还是没考好，心里本来就难受。我本来想跟妈妈说说我最近状态不好，可她看到成绩单第一句话就是问那个女生考多少。我当时真的特别委屈，好像我这个人根本不重要，只有分数才重要。这种感觉太难受了，说出来都觉得自己很可怜。）",
+        "reasoning": "（她问我最近哪一次让我觉得妈妈只在乎分数……这让我一下子想起上周的事。其实我本来不想提的，但既然她问了，而且刚才我说了那么多，好像也没被评判，那说说应该没关系吧。）\n（那天我明明已经很努力了，数学还是没考好，心里本来就难受。我本来想跟妈妈说说我最近状态不好，可她看到成绩单第一句话就是问那个女生考多少。我当时真的特别委屈，好像我这个人根本不重要，只有分数才重要。这种感觉太难受了，说出来都觉得自己很可怜。）"
+      }
+    }
+  ],
+  "created": 1795143433,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 1836,
+    "total_tokens": 1993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

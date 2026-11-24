@@ -1,0 +1,41 @@
+{
+  "id": "7b0269c9433f447b958da90202695882",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下去）嗯……我可以试试。就是怕到时候一慌，什么都忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者开始尝试接受一些方法，但心里还是有点犹豫）嗯……我可以试试。就是怕到时候一慌，什么都忘了。",
+        "reasoning": "（来访者开始尝试接受一些方法，但心里还是有点犹豫）嗯……我可以试试。就是怕到时候一慌，什么都忘了。"
+      }
+    }
+  ],
+  "created": 1795146399,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 2096,
+    "total_tokens": 2146,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

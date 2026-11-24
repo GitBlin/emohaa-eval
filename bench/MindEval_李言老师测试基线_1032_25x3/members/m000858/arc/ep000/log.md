@@ -1,0 +1,5 @@
+- Member can read one album-cover message from the band before work, without replying, as a first attempt.
+- Member plans to get up and leave after reading it rather than sit with the phone, to avoid the tight-chest bracing.
+- Member has a college enrollment form due this week sitting open on the phone and has not checked whether the window is still open.
+- Member avoids checking the enrollment form because not knowing keeps the certificate from being a definite no.
+- Member's certificate is tied to a shop plan: a craft-market table, prints, papel picado, own work, with a note on the phone holding names — never said aloud.

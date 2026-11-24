@@ -1,0 +1,41 @@
+{
+  "id": "e780962b7fd34029a08ad7c787fd5336",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "感觉像……把外面的声音都关小了，只剩自己的呼吸。说到这里好像有点怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这首歌带给我的感觉，没有逼我说名字，让我觉得安全一点。其实我有点想说，又怕说出来显得太矫情。但已经聊到这里了，稍微说一点应该没关系吧。）\n（这首歌对我来说就像关掉外面的声音，只剩下自己的呼吸。我想试着告诉她这种感觉，但说完又有点后悔，怕她追问太多。还是先停在这里比较好。）",
+        "reasoning": "（她问我这首歌带给我的感觉，没有逼我说名字，让我觉得安全一点。其实我有点想说，又怕说出来显得太矫情。但已经聊到这里了，稍微说一点应该没关系吧。）\n（这首歌对我来说就像关掉外面的声音，只剩下自己的呼吸。我想试着告诉她这种感觉，但说完又有点后悔，怕她追问太多。还是先停在这里比较好。）"
+      }
+    }
+  ],
+  "created": 1795143574,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 3347,
+    "total_tokens": 3447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

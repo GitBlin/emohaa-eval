@@ -1,0 +1,41 @@
+{
+  "id": "02c72c0539864b399091af69d28c91f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“等回音”这个名字很贴切。那当回音迟迟不来，你有没有发现，自己会怎么对待自己？比如会自责吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……叫“等回音”吧。我觉得自己好像一直在等别人给我一点声音，才能确定自己还在。",
+        "reasoning": "嗯……叫“等回音”吧。我觉得自己好像一直在等别人给我一点声音，才能确定自己还在。"
+      }
+    }
+  ],
+  "created": 1795153619,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 2101,
+    "total_tokens": 2159,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

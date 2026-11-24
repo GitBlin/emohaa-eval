@@ -1,0 +1,41 @@
+{
+  "id": "4ccba28988de476aa8b00145e8946be4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（站起身，语气比之前轻松了些）嗯，我回去试试。谢谢你今天听我说这些……虽然问题还在，但好像没那么沉重了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在最后阶段给了我具体的情绪应对方法，还表达了持续的支持。这让我感到被接纳，但内心仍有些不确定——毕竟长期压抑情绪的习惯很难立刻改变。不过至少现在有了可操作的方向，比如深呼吸和觉察情绪。）\n（作为习惯理性思考的人，我需要把建议转化成可执行的步骤。虽然对效果存疑，但愿意尝试总比继续逃避好。最后应该表达感谢，但保持适度距离感，毕竟信任需要时间建立。）",
+        "reasoning": "（心理咨询师在最后阶段给了我具体的情绪应对方法，还表达了持续的支持。这让我感到被接纳，但内心仍有些不确定——毕竟长期压抑情绪的习惯很难立刻改变。不过至少现在有了可操作的方向，比如深呼吸和觉察情绪。）\n（作为习惯理性思考的人，我需要把建议转化成可执行的步骤。虽然对效果存疑，但愿意尝试总比继续逃避好。最后应该表达感谢，但保持适度距离感，毕竟信任需要时间建立。）"
+      }
+    }
+  ],
+  "created": 1795149889,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 3282,
+    "total_tokens": 3414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

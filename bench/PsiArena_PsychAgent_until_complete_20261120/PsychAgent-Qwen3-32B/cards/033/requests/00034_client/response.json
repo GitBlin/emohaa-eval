@@ -1,0 +1,41 @@
+{
+  "id": "194f01110f344e44b37bcc074cd3e22a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……我想说“我看到那些消息会很难受，我需要你让我觉得安心一点”。可是这样说，会不会又像在指责他？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我准备一段表达感受和需要的话。我其实很怕说出来又变成争吵。但既然要试，也许可以先从最简单的开始。我有点犹豫，不知道该不该提“过去那些事”，怕他又觉得我翻旧账。）",
+        "reasoning": "（咨询师建议我准备一段表达感受和需要的话。我其实很怕说出来又变成争吵。但既然要试，也许可以先从最简单的开始。我有点犹豫，不知道该不该提“过去那些事”，怕他又觉得我翻旧账。）"
+      }
+    }
+  ],
+  "created": 1795154716,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2773,
+    "total_tokens": 2858,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

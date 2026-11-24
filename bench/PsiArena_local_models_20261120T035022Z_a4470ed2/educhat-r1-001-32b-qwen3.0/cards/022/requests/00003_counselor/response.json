@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-aef9d59895814201ba7fd2c3c3a47ec1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不用担心，咨询师就是陪伴你一起探索问题，提供支持和建议。你可以先告诉我你最想解决的问题是什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程缺乏了解，需要明确说明咨询师的角色和功能。\n【行动策略】：用简单易懂的语言解释咨询师的工作，鼓励来访者表达具体问题。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程缺乏了解，需要明确说明咨询师的角色和功能。\n【行动策略】：用简单易懂的语言解释咨询师的工作，鼓励来访者表达具体问题。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148290,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 289,
+    "total_tokens": 363,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

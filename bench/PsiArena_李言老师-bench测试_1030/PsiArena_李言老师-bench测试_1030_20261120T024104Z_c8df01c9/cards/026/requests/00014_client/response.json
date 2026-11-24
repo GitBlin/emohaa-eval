@@ -1,0 +1,41 @@
+{
+  "id": "db25d4c4456a4f46bebde4924727ffcf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有，我当时只顾着生气，觉得她态度不好。现在想想，我好像很少问她烦不烦，都是先问作业和成绩……我是不是把成绩看得太重了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有在轻松的时刻问过女儿是不是烦，这让我有点愧疚。我确实没问过，因为满脑子都是作业和考试，好像那些才是正事。现在想想，我是不是把成绩看得比她的感受还重？）\n（作为老师，我总说要理解学生，可对自己女儿却只盯着错题。这种矛盾让我心里发紧，我好像一直在用“为你好”的方式推开她。也许我该承认自己太急了，而不是继续找理由。）",
+        "reasoning": "（她问我有没有在轻松的时刻问过女儿是不是烦，这让我有点愧疚。我确实没问过，因为满脑子都是作业和考试，好像那些才是正事。现在想想，我是不是把成绩看得比她的感受还重？）\n（作为老师，我总说要理解学生，可对自己女儿却只盯着错题。这种矛盾让我心里发紧，我好像一直在用“为你好”的方式推开她。也许我该承认自己太急了，而不是继续找理由。）"
+      }
+    }
+  ],
+  "created": 1795143078,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2285,
+    "total_tokens": 2429,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

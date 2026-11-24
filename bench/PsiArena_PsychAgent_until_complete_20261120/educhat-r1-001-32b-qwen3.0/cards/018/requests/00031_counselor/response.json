@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-4ef473ae0ae946d785883cd850e236a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样循序渐进很好。比如电影里有类似情节时，可以说这部电影让我想到我们的关系，你觉得呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：咨询师肯定来访者的沟通策略，并鼓励实践。\n【行动建议】：通过具体例子（电影情节）帮助来访者建立信心，逐步推进沟通。\n",
+        "reasoning_content": "\n【诊断分析】：咨询师肯定来访者的沟通策略，并鼓励实践。\n【行动建议】：通过具体例子（电影情节）帮助来访者建立信心，逐步推进沟通。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154098,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 67,
+    "prompt_tokens": 1755,
+    "total_tokens": 1822,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

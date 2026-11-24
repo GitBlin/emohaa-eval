@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-04b9759d0cf7417dafdbf82b3b4b13de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没关系，我们可以慢慢来。你愿意具体说说最近工作上的事情吗？比如最近的工作内容和感受？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到情绪疲劳和压力积累，需要探索具体压力源。\n【行动策略】：引导来访者具体描述工作内容和感受。\n",
+        "reasoning_content": "\n【诊断分析】：识别到情绪疲劳和压力积累，需要探索具体压力源。\n【行动策略】：引导来访者具体描述工作内容和感受。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795155239,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 403,
+    "total_tokens": 465,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

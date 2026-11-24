@@ -1,0 +1,41 @@
+{
+  "id": "e8df9421a9034e6d9e15d203f1ad31a1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口吧……有点闷，肩膀也总是绷着。不过这些应该还好，我主要是不知道她到底怎么了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应，这让我有点不舒服。我本来只是想随便说说，没想到要往这么细的方向走。胸口确实会闷，肩膀也会绷着，但说出来总觉得怪怪的。也许我可以稍微提一点，但不想展开太多。）",
+        "reasoning": "（咨询师在问我身体反应，这让我有点不舒服。我本来只是想随便说说，没想到要往这么细的方向走。胸口确实会闷，肩膀也会绷着，但说出来总觉得怪怪的。也许我可以稍微提一点，但不想展开太多。）"
+      }
+    }
+  ],
+  "created": 1795148005,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 1192,
+    "total_tokens": 1272,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

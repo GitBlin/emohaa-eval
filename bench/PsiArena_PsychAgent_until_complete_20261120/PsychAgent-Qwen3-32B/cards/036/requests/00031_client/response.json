@@ -1,0 +1,41 @@
+{
+  "id": "ebd3255a67b7468ab96b8bfddf43ac5a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "唔……好像先想到他，然后又想到我自己。有点乱，我也说不清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我脑子里会出现谁的脸……我第一反应是那个男生低着头的背影，可再往下想，好像还有我自己。但说出来会不会显得太矫情？还是先说得含糊一点吧。）",
+        "reasoning": "（她问到我脑子里会出现谁的脸……我第一反应是那个男生低着头的背影，可再往下想，好像还有我自己。但说出来会不会显得太矫情？还是先说得含糊一点吧。）"
+      }
+    }
+  ],
+  "created": 1795154784,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2158,
+    "total_tokens": 2222,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

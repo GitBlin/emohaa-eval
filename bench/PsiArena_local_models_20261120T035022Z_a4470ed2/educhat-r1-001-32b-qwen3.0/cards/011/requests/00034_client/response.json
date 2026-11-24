@@ -1,0 +1,41 @@
+{
+  "id": "ceaaf460b5c64abaaa529e341b1b0e17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "充电时间……嗯，这个说法好一点，听起来像是为了孩子才休息的。（停顿）其实想想，我累垮了，对孩子也不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我想办法让这个休息时间更容易被家人接受。充电时间这个说法确实比喘口气听起来正当一些，不会让人觉得我在偷懒。但我还是有点担心，就算换了名字，家里人会不会还是觉得我做得不够。）\n（不过既然咨询师这么建议，也许可以试试看。至少比什么都不做强。先从小事开始吧，每天五分钟，应该不会太难。）",
+        "reasoning": "（咨询师在帮我想办法让这个休息时间更容易被家人接受。充电时间这个说法确实比喘口气听起来正当一些，不会让人觉得我在偷懒。但我还是有点担心，就算换了名字，家里人会不会还是觉得我做得不够。）\n（不过既然咨询师这么建议，也许可以试试看。至少比什么都不做强。先从小事开始吧，每天五分钟，应该不会太难。）"
+      }
+    }
+  ],
+  "created": 1795147339,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2327,
+    "total_tokens": 2442,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "6ea1a143cc61475a93032c9ac8e14a9a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我希望有人能主动想到我。”这样说，行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用“我”来表达，不评价别人。我有点紧张，怕说得太矫情。“我希望有人能看到我”……太直白了，会不会显得很可怜？但好像也只能这么说。）",
+        "reasoning": "（咨询师让我用“我”来表达，不评价别人。我有点紧张，怕说得太矫情。“我希望有人能看到我”……太直白了，会不会显得很可怜？但好像也只能这么说。）"
+      }
+    }
+  ],
+  "created": 1795146771,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2228,
+    "total_tokens": 2290,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1bd8003a4bd34928981cb053802a6a63",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……比如中午大家一起吃饭聊天的时候吧。我在旁边听着，想插话又怕说错什么。感觉他们聊得挺开心的，我好像插不进去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在引导我说具体场景，但我现在还不太想深入讲自己的事。毕竟刚接触，我还不太确定她靠不靠谱。而且她问得这么直接，我有点犹豫要不要说太多。）\n（不过她态度还算温和，没有逼我。我可能稍微提一点表面的事情，比如跟同事相处这种不痛不痒的，看看她会怎么反应。但也不能说太细，先试探一下。）",
+        "reasoning": "（心理咨询师在引导我说具体场景，但我现在还不太想深入讲自己的事。毕竟刚接触，我还不太确定她靠不靠谱。而且她问得这么直接，我有点犹豫要不要说太多。）\n（不过她态度还算温和，没有逼我。我可能稍微提一点表面的事情，比如跟同事相处这种不痛不痒的，看看她会怎么反应。但也不能说太细，先试探一下。）"
+      }
+    }
+  ],
+  "created": 1795153440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1170,
+    "total_tokens": 1297,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

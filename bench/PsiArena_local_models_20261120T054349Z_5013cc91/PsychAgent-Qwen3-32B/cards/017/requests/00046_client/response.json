@@ -1,0 +1,41 @@
+{
+  "id": "9b75583036184d6d851ed839c8f559c6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那接下来我想试试先跟丈夫谈十分钟，不吵，就说我的害怕和需要。希望我能做到吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "最有帮助的是……我好像第一次把“别再催我”说出口了，虽然只是在你这里说。还有发现我一直怕拖累别人，连我丈夫都算在里面。",
+        "reasoning": "最有帮助的是……我好像第一次把“别再催我”说出口了，虽然只是在你这里说。还有发现我一直怕拖累别人，连我丈夫都算在里面。"
+      }
+    }
+  ],
+  "created": 1795154012,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 3408,
+    "total_tokens": 3474,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

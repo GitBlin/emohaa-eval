@@ -1,0 +1,41 @@
+{
+  "id": "c5562ebd0cba4e2aa169ff3cd225ddbc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "舒服多了，没那么像任务。那我……先不求做得多好，能记得停一下、呼吸两次，是不是也算进步了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师把卡片改温和了，确实没那么像任务了。可我还是有点不放心，怕自己做不到，又回到老样子。也许我该先承认这一点，再问问能不能把目标定得更小一点，先从一次呼吸、一句话开始。）",
+        "reasoning": "（咨询师把卡片改温和了，确实没那么像任务了。可我还是有点不放心，怕自己做不到，又回到老样子。也许我该先承认这一点，再问问能不能把目标定得更小一点，先从一次呼吸、一句话开始。）"
+      }
+    }
+  ],
+  "created": 1795153700,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 3558,
+    "total_tokens": 3642,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

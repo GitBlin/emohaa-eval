@@ -1,0 +1,41 @@
+{
+  "id": "358ab5ec3f084c91950cb667854171ce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微松了口气）好，那我就放心一点了。嗯……其实我也不知道该从哪里说起，就是感觉很多事堆在一起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这是第7轮，初期阶段最后一个回应。咨询师刚说明了保密原则，我需要表现出听到这个回答后稍微放松一点，但还不能完全信任。要简短，带点试探性的释然，同时保留防御。）",
+        "reasoning": "（这是第7轮，初期阶段最后一个回应。咨询师刚说明了保密原则，我需要表现出听到这个回答后稍微放松一点，但还不能完全信任。要简短，带点试探性的释然，同时保留防御。）"
+      }
+    }
+  ],
+  "created": 1795147239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 1643,
+    "total_tokens": 1718,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

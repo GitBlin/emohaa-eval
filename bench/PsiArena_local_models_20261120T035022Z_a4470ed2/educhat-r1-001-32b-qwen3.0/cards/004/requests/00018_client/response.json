@@ -1,0 +1,41 @@
+{
+  "id": "5d35e506a4cc4bb9af7cec551519fe2b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能……就拍拍我肩膀吧，不用说话也行。可是……我是不是太软弱了？村里人都说男孩子要硬气点，别动不动就哭。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我希望支持我的人会怎么做……这让我想起我爸妈，他们总说别惹事，好像是我做错了什么一样。其实我只是想有人能站在我这边，不用说话也行。）\n（但是……说出来会不会显得我很软弱？村里人都说男孩子要坚强，不能哭哭啼啼的。可我真的好累，每天装没事人一样。要是说了，咨询师会不会也觉得我太矫情？）",
+        "reasoning": "（咨询师在问我希望支持我的人会怎么做……这让我想起我爸妈，他们总说别惹事，好像是我做错了什么一样。其实我只是想有人能站在我这边，不用说话也行。）\n（但是……说出来会不会显得我很软弱？村里人都说男孩子要坚强，不能哭哭啼啼的。可我真的好累，每天装没事人一样。要是说了，咨询师会不会也觉得我太矫情？）"
+      }
+    }
+  ],
+  "created": 1795146970,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1586,
+    "total_tokens": 1714,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

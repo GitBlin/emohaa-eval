@@ -1,0 +1,41 @@
+{
+  "id": "c8503d8433c948a28c4b3ec94490d3bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……同事或者朋友开口的时候吧，尤其对方看起来挺为难的，我就开不了口拒绝。前几天我还因为拒绝了一个同事，心里一直过不去……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎注意到了我答应别人后又后悔的矛盾心情，还问我在什么情境下最容易脱口答应。这让我有点紧张，因为其实我自己也说不清楚，但最近确实有件让我特别难受的事。）\n（我犹豫要不要说那件事，毕竟才刚开始咨询，还不确定对方会怎么看我。但既然咨询师问起来了，也许可以稍微提一下，看看ta的反应。我担心说得太多会被评判，但又实在憋得慌。）",
+        "reasoning": "（咨询师似乎注意到了我答应别人后又后悔的矛盾心情，还问我在什么情境下最容易脱口答应。这让我有点紧张，因为其实我自己也说不清楚，但最近确实有件让我特别难受的事。）\n（我犹豫要不要说那件事，毕竟才刚开始咨询，还不确定对方会怎么看我。但既然咨询师问起来了，也许可以稍微提一下，看看ta的反应。我担心说得太多会被评判，但又实在憋得慌。）"
+      }
+    }
+  ],
+  "created": 1795142520,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1371,
+    "total_tokens": 1502,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

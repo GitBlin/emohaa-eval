@@ -1,0 +1,41 @@
+{
+  "id": "f3dafa8315a242769cb307fe7cc3822f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我先试着记那两句话。今天说这些的时候有点乱，但好像没那么堵了，下次我想接着聊我是不是总把责任往自己身上揽。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说今天先到这里，让我允许自己慢下来。我心里有点松，又有点舍不得停，好像刚说顺一点就要收住了。但我还是得回应，不能显得太依赖。也许该说我会试着记那两句话，下次再接着聊，不要说得太满。）",
+        "reasoning": "（咨询师说今天先到这里，让我允许自己慢下来。我心里有点松，又有点舍不得停，好像刚说顺一点就要收住了。但我还是得回应，不能显得太依赖。也许该说我会试着记那两句话，下次再接着聊，不要说得太满。）"
+      }
+    }
+  ],
+  "created": 1795147122,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3532,
+    "total_tokens": 3633,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

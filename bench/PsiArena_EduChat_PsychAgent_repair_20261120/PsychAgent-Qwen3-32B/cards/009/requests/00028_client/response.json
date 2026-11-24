@@ -1,0 +1,41 @@
+{
+  "id": "095ff92f44664f21a6fc1af10f40a781",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不算失败，那只是旧习惯又出现了，我们可以一起看看当时发生了什么。你愿意把这周的一次尝试记下来，下次带来聊聊吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我想一个很小的改变……我有点想试，但又担心做不到。先答应下来，也许可以。）嗯，我可以试试……但要是又马上答应了，是不是就算失败了？",
+        "reasoning": "（咨询师在引导我想一个很小的改变……我有点想试，但又担心做不到。先答应下来，也许可以。）嗯，我可以试试……但要是又马上答应了，是不是就算失败了？"
+      }
+    }
+  ],
+  "created": 1795153799,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 2414,
+    "total_tokens": 2487,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

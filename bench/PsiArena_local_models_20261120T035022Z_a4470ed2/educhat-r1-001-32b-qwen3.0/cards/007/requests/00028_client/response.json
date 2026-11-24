@@ -1,0 +1,41 @@
+{
+  "id": "e2fc77b38c1e4448b19a7c5bdc2fc96a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安全感……可能是吧。我一直觉得自己挺矛盾的，想跟室友好好相处，又怕被拒绝，最后干脆躲着他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师似乎真的理解我的感受，没有像其他人那样觉得我小题大做。她说这是保护自己的方式，让我觉得没那么难堪了。不过我还是有点犹豫，不知道该不该完全相信她。）\n（想到宿舍的事情，其实我真的很想跟室友们好好相处，但又怕被拒绝。这种矛盾的感觉一直压在心里，说出来反而轻松了一点。）",
+        "reasoning": "（咨询师似乎真的理解我的感受，没有像其他人那样觉得我小题大做。她说这是保护自己的方式，让我觉得没那么难堪了。不过我还是有点犹豫，不知道该不该完全相信她。）\n（想到宿舍的事情，其实我真的很想跟室友们好好相处，但又怕被拒绝。这种矛盾的感觉一直压在心里，说出来反而轻松了一点。）"
+      }
+    }
+  ],
+  "created": 1795147026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2073,
+    "total_tokens": 2177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

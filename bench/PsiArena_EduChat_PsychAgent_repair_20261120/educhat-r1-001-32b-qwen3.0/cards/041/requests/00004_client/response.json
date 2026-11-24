@@ -1,0 +1,41 @@
+{
+  "id": "00ae239ced5847a788446599d506b7b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样啊……那，咨询里说的东西你会保密吗？我是说，会不会跟我学校或者家里人有什么关系？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说不用有压力，可以轻松交流……但说实话我确实有点紧张，毕竟第一次见面。他好像很专业，但我不确定该信任到什么程度。也许该先试探一下，看看他会不会像朋友那样随便给建议。）\n（毕竟我是比较内向敏感的人，对陌生人需要时间建立信任。而且我父母都是教师，从小就被教育要谨慎对待权威人士。现在这种模糊地表达困扰的方式比较安全，既不会暴露太多，也能观察咨询师的反应。）",
+        "reasoning": "（刚才咨询师说不用有压力，可以轻松交流……但说实话我确实有点紧张，毕竟第一次见面。他好像很专业，但我不确定该信任到什么程度。也许该先试探一下，看看他会不会像朋友那样随便给建议。）\n（毕竟我是比较内向敏感的人，对陌生人需要时间建立信任。而且我父母都是教师，从小就被教育要谨慎对待权威人士。现在这种模糊地表达困扰的方式比较安全，既不会暴露太多，也能观察咨询师的反应。）"
+      }
+    }
+  ],
+  "created": 1795155026,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 992,
+    "total_tokens": 1121,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

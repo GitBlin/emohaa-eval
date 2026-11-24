@@ -1,0 +1,41 @@
+{
+  "id": "cfad952dc78e48188b73f652a588850d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……其实有点生气吧。就觉得她凭什么这么说，但又不确定是不是自己太敏感了。你不会也觉得我难相处吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得有点直接，我心里一下紧了。我不想这么快就承认自己在意，也不习惯把“难相处”这种话摊开说。可刚才已经漏了一点情绪，现在收回去又显得太刻意。也许我该反问一句，看看她是不是也在给我下判断。）",
+        "reasoning": "（她问得有点直接，我心里一下紧了。我不想这么快就承认自己在意，也不习惯把“难相处”这种话摊开说。可刚才已经漏了一点情绪，现在收回去又显得太刻意。也许我该反问一句，看看她是不是也在给我下判断。）"
+      }
+    }
+  ],
+  "created": 1795146715,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1306,
+    "total_tokens": 1396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

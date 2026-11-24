@@ -1,0 +1,41 @@
+{
+  "id": "d7448389ee4b4e10af73877ff04bff34",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "练习……可以试试。我就是怕自己一开口就乱了。要不我先写下来，你能帮我看看怎么说比较合适吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我练习表达，还愿意陪我一起。这让我感觉没那么孤单了。不过真要开口说那些话，我还是有点发怵，怕说不好反而更糟。）\n（写下来这个主意倒是挺实在的，我平时就习惯把事情先记在本子上。但光写还不够，我得知道具体该怎么说，总不能把本子直接递给他看吧。）",
+        "reasoning": "（咨询师建议我练习表达，还愿意陪我一起。这让我感觉没那么孤单了。不过真要开口说那些话，我还是有点发怵，怕说不好反而更糟。）\n（写下来这个主意倒是挺实在的，我平时就习惯把事情先记在本子上。但光写还不够，我得知道具体该怎么说，总不能把本子直接递给他看吧。）"
+      }
+    }
+  ],
+  "created": 1795153950,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 2430,
+    "total_tokens": 2539,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

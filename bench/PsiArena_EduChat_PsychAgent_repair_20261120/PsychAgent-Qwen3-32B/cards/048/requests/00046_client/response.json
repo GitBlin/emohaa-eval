@@ -1,0 +1,41 @@
+{
+  "id": "532aa445d1184c53869fd2d18cdf436b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最想带走的是……东西丢了，不代表我这个人不行。还有那个三次呼吸碰手背，好像真的能让我缓一缓。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户问的是回顾一个要点，需要简短回应。想到“眼霜只是眼霜，不等于我不好”和“三次呼吸碰手背”这两个点。应该选一个最核心的带走。用户之前对那句话有点虚，但练习有用。可以提呼吸和碰手背作为可操作的要点。保持简短，1-2句。不要分点。",
+        "reasoning": "用户问的是回顾一个要点，需要简短回应。想到“眼霜只是眼霜，不等于我不好”和“三次呼吸碰手背”这两个点。应该选一个最核心的带走。用户之前对那句话有点虚，但练习有用。可以提呼吸和碰手背作为可操作的要点。保持简短，1-2句。不要分点。"
+      }
+    }
+  ],
+  "created": 1795155254,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3217,
+    "total_tokens": 3325,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

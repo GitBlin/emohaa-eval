@@ -1,0 +1,41 @@
+{
+  "id": "0b020c92147141c2b9000a762943497e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我试着数三次呼吸，不逼自己马上平静。这样听起来比“想开点”实际一些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了我具体的应对方法，让我先试试点数三次呼吸再回到当下。这听起来比完全赶走回忆要温和一些，至少不会让我觉得自己在失败。但我也在想，我是不是真的能做到不分析自己？）\n（不过，既然已经聊到这里，我好像可以试着接受这个小步骤。我需要一个能坚持下去的起点，而不是继续纠结要不要面对过去。也许先从这个练习开始，慢慢来会好一些。）",
+        "reasoning": "（咨询师给了我具体的应对方法，让我先试试点数三次呼吸再回到当下。这听起来比完全赶走回忆要温和一些，至少不会让我觉得自己在失败。但我也在想，我是不是真的能做到不分析自己？）\n（不过，既然已经聊到这里，我好像可以试着接受这个小步骤。我需要一个能坚持下去的起点，而不是继续纠结要不要面对过去。也许先从这个练习开始，慢慢来会好一些。）"
+      }
+    }
+  ],
+  "created": 1795143873,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 3297,
+    "total_tokens": 3416,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

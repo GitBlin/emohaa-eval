@@ -1,0 +1,41 @@
+{
+  "id": "192dcf5bfb4e493d89355bd44ad13716",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那句话……我说出来会不会很别扭？她可能看我一眼，也不理我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体行动，但我首先想到的是女儿的反应，这很真实。我担心万一她还是不理我，我的努力就白费了，会感到更挫败。不过，咨询师说的“只改变我这一侧的节奏”这个点，好像让我压力小了一点，不用立刻去解决孩子的问题。）",
+        "reasoning": "（咨询师在引导我具体行动，但我首先想到的是女儿的反应，这很真实。我担心万一她还是不理我，我的努力就白费了，会感到更挫败。不过，咨询师说的“只改变我这一侧的节奏”这个点，好像让我压力小了一点，不用立刻去解决孩子的问题。）"
+      }
+    }
+  ],
+  "created": 1795154370,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 2655,
+    "total_tokens": 2743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

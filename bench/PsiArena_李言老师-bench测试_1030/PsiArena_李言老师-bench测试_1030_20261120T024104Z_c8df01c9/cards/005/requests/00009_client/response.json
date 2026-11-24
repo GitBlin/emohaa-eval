@@ -1,0 +1,41 @@
+{
+  "id": "fc3895c99120416db24eff6805bd085f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近是一个笔友吧，我发了一大段，她隔了两天才回，我这两天几乎什么都做不好。（声音低下来）我知道她可能只是忙，可我还是忍不住反复看聊天框。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说要把“对方没空”和“我不重要”分开，这让我觉得她好像真的理解那种等待里的不安。可我还是忍不住去想，为什么别人能那么轻易地让我觉得自己不重要。）\n（最近那次等笔友回信的事，我本来不想提的，但也许说出来会好受一点。只是我又怕自己讲得太细，显得太计较，所以还是简单带过吧。）",
+        "reasoning": "（咨询师说要把“对方没空”和“我不重要”分开，这让我觉得她好像真的理解那种等待里的不安。可我还是忍不住去想，为什么别人能那么轻易地让我觉得自己不重要。）\n（最近那次等笔友回信的事，我本来不想提的，但也许说出来会好受一点。只是我又怕自己讲得太细，显得太计较，所以还是简单带过吧。）"
+      }
+    }
+  ],
+  "created": 1795142549,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1730,
+    "total_tokens": 1861,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b64a20d08c65433a88d16123c5d4fb45",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会在手机备忘录里写一句“先停一下”，或者心里默数三秒。这样比当场跟他硬顶着说，感觉更容易做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，一个词或者小动作……我想想。用户问用什么提醒自己，我得回答具体一点。也许可以用手机备忘录写一句“先停一下”，或者深呼吸。但别太长，2-3句。可以说“我可能会在手机备忘录里写一句‘先停一下’，或者心里默数三秒。”然后补一句“这样比跟他硬顶着说更容易做到。”",
+        "reasoning": "嗯，一个词或者小动作……我想想。用户问用什么提醒自己，我得回答具体一点。也许可以用手机备忘录写一句“先停一下”，或者深呼吸。但别太长，2-3句。可以说“我可能会在手机备忘录里写一句‘先停一下’，或者心里默数三秒。”然后补一句“这样比跟他硬顶着说更容易做到。”"
+      }
+    }
+  ],
+  "created": 1795154990,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2721,
+    "total_tokens": 2835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

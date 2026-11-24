@@ -1,0 +1,41 @@
+{
+  "id": "5fce5e2539f1477fb7f6f05acfc5583e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "班主任吧……可他平时挺忙的，我怕他觉得我事多。上次我提了一句，他就说让我别太计较。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最先想到谁……我脑子里第一个冒出来的是班主任，可马上又想到上次他让我别太计较的样子。也许我该说，但说出来又怕她追问更多。）\n（我顿了一下，还是把班主任说出来了。说完又有点后悔，怕她觉得我太胆小，连老师都不敢找。其实不是不敢找，是找了也没用。）",
+        "reasoning": "（她问我最先想到谁……我脑子里第一个冒出来的是班主任，可马上又想到上次他让我别太计较的样子。也许我该说，但说出来又怕她追问更多。）\n（我顿了一下，还是把班主任说出来了。说完又有点后悔，怕她觉得我太胆小，连老师都不敢找。其实不是不敢找，是找了也没用。）"
+      }
+    }
+  ],
+  "created": 1795142563,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 1855,
+    "total_tokens": 1961,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

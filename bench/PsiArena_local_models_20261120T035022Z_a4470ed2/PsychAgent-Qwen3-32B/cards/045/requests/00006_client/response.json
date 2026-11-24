@@ -1,0 +1,41 @@
+{
+  "id": "7ea709ef37ed4f12b542e617da945f2c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一定要说具体的事吗……我其实更想知道，如果我在咨询之外特别想找你说话，可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近具体的焦虑场景……但我还不太想直接说细节，感觉有点太快了。而且我其实更在意的是，在这种咨询关系里，是不是可以稍微多依赖一点？我想试探一下边界，看看如果我问一些私人化的问题，他会怎么回应。也许这样能让我更安心一点，但又怕自己显得很奇怪。）",
+        "reasoning": "（咨询师问我最近具体的焦虑场景……但我还不太想直接说细节，感觉有点太快了。而且我其实更在意的是，在这种咨询关系里，是不是可以稍微多依赖一点？我想试探一下边界，看看如果我问一些私人化的问题，他会怎么回应。也许这样能让我更安心一点，但又怕自己显得很奇怪。）"
+      }
+    }
+  ],
+  "created": 1795148681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1054,
+    "total_tokens": 1151,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

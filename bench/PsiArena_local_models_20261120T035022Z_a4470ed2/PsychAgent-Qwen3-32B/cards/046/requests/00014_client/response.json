@@ -1,0 +1,41 @@
+{
+  "id": "d1eae84944ad4511949ffb4cf6dbcff2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "紧……对，就是胸口发紧。好像还有点酸，但我不确定那算不算委屈。反正就是不想再想了，可脑子又停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "初期阶段最后一轮，目标仍是建立信任，模糊描述感受，不深入。可以稍微回应咨询师的问题，但保持不确定和试探。",
+        "reasoning": "初期阶段最后一轮，目标仍是建立信任，模糊描述感受，不深入。可以稍微回应咨询师的问题，但保持不确定和试探。"
+      }
+    }
+  ],
+  "created": 1795148733,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 1566,
+    "total_tokens": 1631,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

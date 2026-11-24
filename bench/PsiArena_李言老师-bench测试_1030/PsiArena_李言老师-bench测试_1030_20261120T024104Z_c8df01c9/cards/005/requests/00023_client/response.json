@@ -1,0 +1,41 @@
+{
+  "id": "b5052065d8944567be21a519f3fbd093",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就倒水吧，简单点。（轻轻呼了口气）我也可以顺便记一下当时有多慌，但不想搞得太复杂。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我选一个具体的小动作，好像是在把那种慌的感觉拆成能做的事。我其实有点怕自己连这个都做不到，但又觉得倒水比洗杯子更顺手，至少不用站在水池边一直想。）\n（我想先选一个最容易的，这样心里没那么大压力。也许可以顺手记一下当时慌的程度，但不用搞得太复杂，不然我又会盯着数字较劲。）",
+        "reasoning": "（咨询师在帮我选一个具体的小动作，好像是在把那种慌的感觉拆成能做的事。我其实有点怕自己连这个都做不到，但又觉得倒水比洗杯子更顺手，至少不用站在水池边一直想。）\n（我想先选一个最容易的，这样心里没那么大压力。也许可以顺手记一下当时慌的程度，但不用搞得太复杂，不然我又会盯着数字较劲。）"
+      }
+    }
+  ],
+  "created": 1795142673,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3317,
+    "total_tokens": 3433,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

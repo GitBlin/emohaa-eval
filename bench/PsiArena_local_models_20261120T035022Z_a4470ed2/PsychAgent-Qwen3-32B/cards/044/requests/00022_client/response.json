@@ -1,0 +1,41 @@
+{
+  "id": "bfb6e1b1baae48e785ec51f2416db283",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那我试试。情境就是关灯后，自动想法是“是不是我太依赖她了”，情绪是难过、自责，身体是心跳快、胸口闷。写出来好像更明显了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我用口语写，还给了例子，感觉没那么难。但“是不是我太依赖她了”这种话写出来，总觉得有点丢人。不过既然都说到这了，就试试吧。情境就按昨晚关灯后，后面……情绪那里我有点犹豫，是写难过还是写害怕呢？算了，先写最明显的吧。）",
+        "reasoning": "（咨询师让我用口语写，还给了例子，感觉没那么难。但“是不是我太依赖她了”这种话写出来，总觉得有点丢人。不过既然都说到这了，就试试吧。情境就按昨晚关灯后，后面……情绪那里我有点犹豫，是写难过还是写害怕呢？算了，先写最明显的吧。）"
+      }
+    }
+  ],
+  "created": 1795148626,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2024,
+    "total_tokens": 2145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a3d89d5e6fa649d2893765702b65a430",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，我刚刚试了一下，喉咙确实松了一点点。可一想到说完之后他沉默，我还是会慌，怕气氛变得很怪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我试了，喉咙好像没那么紧了。不过还是会有点怕，怕说完之后气氛变奇怪。",
+        "reasoning": "我试了，喉咙好像没那么紧了。不过还是会有点怕，怕说完之后气氛变奇怪。"
+      }
+    }
+  ],
+  "created": 1795156390,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 3037,
+    "total_tokens": 3090,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 22,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

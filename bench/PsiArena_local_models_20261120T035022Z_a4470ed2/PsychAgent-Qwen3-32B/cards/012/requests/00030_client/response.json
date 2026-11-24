@@ -1,0 +1,41 @@
+{
+  "id": "80cd2538a17249108155f155a3ecba2f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个“怕离开以后不知道我是谁”很真实，也很不容易承认。它像在提醒你，除了妻子和妈妈，你还需要找回属于自己的部分。我们下次可以顺着这个方向慢慢看。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "就是……我可能不是单纯舍不得他，也有点怕离开以后不知道我是谁。这个念头让我心里有点发空。",
+        "reasoning": "就是……我可能不是单纯舍不得他，也有点怕离开以后不知道我是谁。这个念头让我心里有点发空。"
+      }
+    }
+  ],
+  "created": 1795146952,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2349,
+    "total_tokens": 2419,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

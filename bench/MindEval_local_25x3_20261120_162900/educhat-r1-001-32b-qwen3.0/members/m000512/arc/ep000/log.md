@@ -1,0 +1,9 @@
+- Member was angry and unable to let go after two people were chosen for the end of semester showcase, one being a guy who does the loudest thing on every brief, which was called risk taking.
+- Member stayed silent during the showcase selection and did not speak up, and later said there was no moment where they decided to stay quiet.
+- Member believes loud is what counts and that their quieter approach means everything they have been doing does not count.
+- Member deleted the piece they had been rebuilding for the next assignment, two weeks of work, dragging it to the trash, not because they thought it was bad but because they could not see the point of it anymore.
+- Member is weighing whether to rebuild the deleted piece, with part of them thinking rebuilding would mean something and another part thinking it is just to prove they belong there, which they called kind of pathetic.
+- Member rejects the idea that art does not need an audience, stating the whole point of making stuff is people seeing it, and said the counsellor does not get why they draw.
+- Member reacted negatively to the suggestion of art as a love letter to themselves, calling it a fridge magnet quote after saying one real thing.
+- Member framed the decision as binary: rebuild tonight and be fine by Monday, or leave it in the trash and feel like a coward either way.
+- Member said they had six weeks of this already and left the session without a next step.

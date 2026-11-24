@@ -1,0 +1,41 @@
+{
+  "id": "4a650d8413cf482988193eb152344555",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "睡前可能行吧……不过他有时候很晚才回房间。要不周末白天？又怕一开口就聊到那些老问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提的这个建议听起来挺具体的，每天睡前五分钟……但我不确定我们真的能做到。他最近总是很累，我也怕自己又变成那个要求太多的人。）\n（不过，如果只是几分钟的话，也许可以试试。可万一他连这点时间都不愿意给，那我是不是会更难受。我得先想个最可能实现的时间，但又不能显得我太主动。）",
+        "reasoning": "（咨询师提的这个建议听起来挺具体的，每天睡前五分钟……但我不确定我们真的能做到。他最近总是很累，我也怕自己又变成那个要求太多的人。）\n（不过，如果只是几分钟的话，也许可以试试。可万一他连这点时间都不愿意给，那我是不是会更难受。我得先想个最可能实现的时间，但又不能显得我太主动。）"
+      }
+    }
+  ],
+  "created": 1795142560,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2702,
+    "total_tokens": 2812,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

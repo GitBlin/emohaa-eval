@@ -1,0 +1,41 @@
+{
+  "id": "1d58beea3cfe449d94857d40f567522d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想让我老公晚上帮我带一会儿，哪怕半小时。我总怕他上班累，就自己全包了，结果越包越觉得自己快撑不住了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最想先让谁分担哪件事，我脑子里第一个冒出来的就是老公。他其实不是不想帮，是我总怕他白天上班累，晚上孩子一哭我就自己先起来了，好像让他多睡会儿才是对的。可这样下去我真的快撑不住了。）\n（我想让他知道我不是嫌弃他做得不好，只是需要他在我快崩溃的时候接一下手。哪怕就半小时，让我能关上门躺一会儿，不用听着孩子哭还得撑着。）",
+        "reasoning": "（咨询师问我最想先让谁分担哪件事，我脑子里第一个冒出来的就是老公。他其实不是不想帮，是我总怕他白天上班累，晚上孩子一哭我就自己先起来了，好像让他多睡会儿才是对的。可这样下去我真的快撑不住了。）\n（我想让他知道我不是嫌弃他做得不好，只是需要他在我快崩溃的时候接一下手。哪怕就半小时，让我能关上门躺一会儿，不用听着孩子哭还得撑着。）"
+      }
+    }
+  ],
+  "created": 1795142564,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 2744,
+    "total_tokens": 2878,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

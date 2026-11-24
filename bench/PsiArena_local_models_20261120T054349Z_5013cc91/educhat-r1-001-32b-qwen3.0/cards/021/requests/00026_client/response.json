@@ -1,0 +1,41 @@
+{
+  "id": "f08ba1870d9c494e963c3ac513ff9020",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "暂停信号……可能有用吧，但我怕到时候根本想不起来。其实我更想知道，我这样是不是跟家里那些病有关，我是不是也会……算了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到用拍手当暂停信号，这听起来有点幼稚，但可能她是想帮我找到控制情绪的方法。我其实更在意的是自己为什么会这样，是不是跟家里那些事有关。）\n（说到家族遗传病，我一直不敢细想，但现在母亲病了，这个问题越来越压在我心上。也许该问问咨询师怎么看，毕竟这种事憋着更难受。）",
+        "reasoning": "（咨询师提到用拍手当暂停信号，这听起来有点幼稚，但可能她是想帮我找到控制情绪的方法。我其实更在意的是自己为什么会这样，是不是跟家里那些事有关。）\n（说到家族遗传病，我一直不敢细想，但现在母亲病了，这个问题越来越压在我心上。也许该问问咨询师怎么看，毕竟这种事憋着更难受。）"
+      }
+    }
+  ],
+  "created": 1795154253,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1963,
+    "total_tokens": 2075,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

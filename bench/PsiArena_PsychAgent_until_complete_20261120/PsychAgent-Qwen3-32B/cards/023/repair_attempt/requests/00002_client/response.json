@@ -1,0 +1,41 @@
+{
+  "id": "b7d9e78fe8cb4c0d9172bdebe696234d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "别等到快吵起来才用，胸口一紧、肩膀一缩的时候就该启动了。不然我肯定又忍着忍着就爆了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这轮是第24轮，后期阶段，按规则只针对一个方面回复。咨询师问使用“等一下”的强度条件，我该简短回应，体现情绪趋于稳定、开始具体化行动计划。可以表达别等到快爆发才用，而是胸口一紧、肩膀一缩时就启动，只回一个问题或一个具体化点，不总结不道谢。）",
+        "reasoning": "（这轮是第24轮，后期阶段，按规则只针对一个方面回复。咨询师问使用“等一下”的强度条件，我该简短回应，体现情绪趋于稳定、开始具体化行动计划。可以表达别等到快爆发才用，而是胸口一紧、肩膀一缩时就启动，只回一个问题或一个具体化点，不总结不道谢。）"
+      }
+    }
+  ],
+  "created": 1795156377,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3861,
+    "total_tokens": 3972,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

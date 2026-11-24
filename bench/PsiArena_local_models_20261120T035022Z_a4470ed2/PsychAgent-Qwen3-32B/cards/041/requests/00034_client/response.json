@@ -1,0 +1,41 @@
+{
+  "id": "4348802630684c2a9de0d26c14195fc1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我担心他会觉得我小题大做，然后觉得我烦。或者……更糟，他会觉得我确实不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我担心他会觉得我小题大做，然后觉得我烦。或者……更糟，他会觉得我确实不够好。",
+        "reasoning": "我担心他会觉得我小题大做，然后觉得我烦。或者……更糟，他会觉得我确实不够好。"
+      }
+    }
+  ],
+  "created": 1795148469,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 2585,
+    "total_tokens": 2639,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

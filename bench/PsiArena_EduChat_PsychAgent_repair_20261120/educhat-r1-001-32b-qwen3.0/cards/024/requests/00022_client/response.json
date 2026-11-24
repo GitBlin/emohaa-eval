@@ -1,0 +1,41 @@
+{
+  "id": "a94ca127e96a4b77acec3a9f3e11df70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟朋友在一起时，她们不会随便评判我，我说什么都可以。（犹豫了一下）其实……我婆婆也不是坏人，她就是太传统了，总觉得她那套带孩子的方法才是对的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我跟朋友相处时的具体感受，这让我想起和朋友在一起确实轻松很多。但提到被接纳，又让我联想到家里那种压抑的氛围，特别是婆婆总用传统观念要求我。）\n（我有点犹豫要不要说太多家里的事，但既然已经聊到这里了，也许可以稍微提一下。毕竟咨询师看起来是在认真听我说，不像婆婆那样总是批评我。不过我还是得小心点，不能说得太直接。）",
+        "reasoning": "（咨询师在问我跟朋友相处时的具体感受，这让我想起和朋友在一起确实轻松很多。但提到被接纳，又让我联想到家里那种压抑的氛围，特别是婆婆总用传统观念要求我。）\n（我有点犹豫要不要说太多家里的事，但既然已经聊到这里了，也许可以稍微提一下。毕竟咨询师看起来是在认真听我说，不像婆婆那样总是批评我。不过我还是得小心点，不能说得太直接。）"
+      }
+    }
+  ],
+  "created": 1795154385,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1775,
+    "total_tokens": 1908,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

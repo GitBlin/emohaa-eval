@@ -1,0 +1,41 @@
+{
+  "id": "3b20aa65bc264a2c8a75ec3b1c92cdd6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "可行吧……但十分钟会不会让我更焦虑？我怕越想越乱。",
+        "reasoning": "可行吧……但十分钟会不会让我更焦虑？我怕越想越乱。"
+      }
+    }
+  ],
+  "created": 1795157160,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 3002,
+    "total_tokens": 3018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 17,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

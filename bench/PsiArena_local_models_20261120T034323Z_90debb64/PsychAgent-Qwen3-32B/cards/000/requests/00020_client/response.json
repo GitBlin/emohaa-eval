@@ -1,0 +1,41 @@
+{
+  "id": "b848d84f3f4c4a00abe94f90a987b0b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "被认可吧。被喜欢……好像太虚了，我抓不住。从小我就知道，得做出点什么，家里人才会多看我一眼。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我在意被喜欢还是被认可……其实我从来没仔细想过这个。被喜欢？我好像不敢奢望。被认可……对，那是我从小就在追的东西。但我这么拼命，是不是就是因为心里清楚，被喜欢这件事，我根本抓不住。）",
+        "reasoning": "（她问我在意被喜欢还是被认可……其实我从来没仔细想过这个。被喜欢？我好像不敢奢望。被认可……对，那是我从小就在追的东西。但我这么拼命，是不是就是因为心里清楚，被喜欢这件事，我根本抓不住。）"
+      }
+    }
+  ],
+  "created": 1795146259,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 1810,
+    "total_tokens": 1900,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

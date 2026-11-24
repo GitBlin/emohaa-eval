@@ -1,0 +1,41 @@
+{
+  "id": "36363f6331b240678c4a0ee635fffe4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试“接电话前先停三秒”吧，别一上来就顶回去。不过说实话，我可能还是会忍不住，到时候又得觉得自己失败。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把大目标拆成小步骤，这让我觉得没那么有压力。但我心里还是有点不踏实，怕自己连这么小的动作都做不好，又陷入自责。）\n（想到跟家里打电话的场景，那种熟悉的烦躁和紧张就冒出来了。我得承认自己确实会慌，但也许可以先从接电话前做准备开始，这样至少有个缓冲。）",
+        "reasoning": "（咨询师在帮我把大目标拆成小步骤，这让我觉得没那么有压力。但我心里还是有点不踏实，怕自己连这么小的动作都做不好，又陷入自责。）\n（想到跟家里打电话的场景，那种熟悉的烦躁和紧张就冒出来了。我得承认自己确实会慌，但也许可以先从接电话前做准备开始，这样至少有个缓冲。）"
+      }
+    }
+  ],
+  "created": 1795143111,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2991,
+    "total_tokens": 3107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

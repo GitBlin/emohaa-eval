@@ -1,0 +1,41 @@
+{
+  "id": "80b367cbf3c648c890b5c0f34ac3c9c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这种时候挺多的，隔三差五就来一回，弄得我上班都有点心不在焉。对了，我要是说了太多家里的事，您不会觉得我太矫情吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是频率和影响，但我心里其实有点乱。我不太想直接回答这些，反而更想试探一下，如果我说了太多家里的事，会不会被评判。毕竟我爸妈从小就教我要顾面子，不能把家里的事往外说。我有点担心咨询师会不会觉得我太矫情，或者觉得我不该这样想。）",
+        "reasoning": "（咨询师问的是频率和影响，但我心里其实有点乱。我不太想直接回答这些，反而更想试探一下，如果我说了太多家里的事，会不会被评判。毕竟我爸妈从小就教我要顾面子，不能把家里的事往外说。我有点担心咨询师会不会觉得我太矫情，或者觉得我不该这样想。）"
+      }
+    }
+  ],
+  "created": 1795146994,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 1543,
+    "total_tokens": 1657,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

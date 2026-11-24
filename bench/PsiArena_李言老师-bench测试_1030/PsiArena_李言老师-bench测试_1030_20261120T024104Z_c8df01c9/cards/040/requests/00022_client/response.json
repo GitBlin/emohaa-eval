@@ -1,0 +1,41 @@
+{
+  "id": "04062df94fdf42689b805f6bca48a7c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能又会觉得自己很傻，说了一堆没用的话。但……也许会好一点，至少不用一直猜。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是如果我说出口后她没回应，我会怎么想。这个问题让我有点发紧，因为那正是我最怕的场面。我大概会觉得自己很傻，把心里话掏出来却没人接，像个笑话。可我又不想再像以前那样，把什么都憋回去，然后反复琢磨。）\n（也许我该承认，那种没回应的沉默会让我很难受，但至少比一直猜来猜去强。我想试着把话说得短一点，别又绕进去。）",
+        "reasoning": "（她问的是如果我说出口后她没回应，我会怎么想。这个问题让我有点发紧，因为那正是我最怕的场面。我大概会觉得自己很傻，把心里话掏出来却没人接，像个笑话。可我又不想再像以前那样，把什么都憋回去，然后反复琢磨。）\n（也许我该承认，那种没回应的沉默会让我很难受，但至少比一直猜来猜去强。我想试着把话说得短一点，别又绕进去。）"
+      }
+    }
+  ],
+  "created": 1795143543,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 3112,
+    "total_tokens": 3243,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

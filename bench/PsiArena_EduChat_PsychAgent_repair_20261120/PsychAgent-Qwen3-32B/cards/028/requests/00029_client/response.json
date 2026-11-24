@@ -1,0 +1,41 @@
+{
+  "id": "ce50787c434546958754e0296f12ecd3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低了些）推掉之后我特别后悔，也有点生自己的气。可当时就是……开不了口拒绝我妈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）就上个月吧，我朋友约我周末去周边玩两天，我其实挺想去的。结果我妈知道了，说“跑那么远干嘛，回家来”，最后我就没去，还跟朋友找借口推掉了。",
+        "reasoning": "（想了想）就上个月吧，我朋友约我周末去周边玩两天，我其实挺想去的。结果我妈知道了，说“跑那么远干嘛，回家来”，最后我就没去，还跟朋友找借口推掉了。"
+      }
+    }
+  ],
+  "created": 1795154395,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2318,
+    "total_tokens": 2399,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

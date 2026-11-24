@@ -1,0 +1,30 @@
+- Member says nobody calls — the quiet itself is the stress, waiting for the thing that hasn't happened yet.
+- Member declined a grounding exercise; Member wants to understand why, as the calm one, Member can't sit still anymore.
+- At thirteen Member found an error in the parents' taxes; the father still tells that story, and catching what was wrong was Member's role in the family.
+- Member says guilt isn't what stops rest — rest feels like the interval before the thing Member hasn't caught yet.
+- Member says the spreadsheet was never the problem; the problem is that Member is the one holding it up and nobody picks it up if Member puts it down.
+- Member handed the brother the Saturday PT appointment fully written down and he still called from the waiting room.
+- Member rejects task-splitting suggestions because checking the brother's work would just mean looking elsewhere while waiting to look back.
+- Member says shared accountability doesn't help because when something goes wrong the brother is on a plane and Member is the one driving.
+- Member's problem is the checking itself: even in a completely clean week Member calls the pharmacy two days early just to hear a person say it's fine.
+- Member says no one else can do the checking for Member because it happens in Member's head whether Member wants it to or not.
+- Member rejects framing the pharmacy calls as self-compassion; Member says calling out of fear is the opposite of that.
+- Member said every suggestion offered had been breathe, break, or hand something off, and that Member still doesn't know why this is happening now.
+- Member's mother had the stroke at the kitchen table on a Sunday in March; nobody saw it coming, including the doctor afterward.
+- Member has gone back over the week before the stroke many times and found nothing in it.
+- Member ended the session early.
+- Member's stomach dropped at the nurse's name on the phone Wednesday despite the news being good; Member answered already bracing before saying hello.
+- Member left the phone in the kitchen through most of dinner Wednesday without planning to; Marcus pointed it out.
+- Member felt only a second of relief at the phone-free dinner and mostly did not trust it, expecting to find out later that something had been missed.
+- Member says a clean week should feel better than it did and that noticing the calm more is not the problem — Member already noticed it plenty.
+- Member dismissed the counsellor's reframing attempts ("lens," "feather," a small experiment) as not describing what is actually happening to Member, and said five months of clean data has not dented the fear.
+- Member says Member named the fear five months ago and could give the whole model, and rejected naming it again as useless.
+- Member found the furnace weekend calmer than clean weeks because the bad thing had already happened, leaving nothing to wait for.
+- Member's father called during the furnace weekend about the pharmacy shorting the mother's pills by six; Member fixed it in ten minutes from the driveway between hold music and felt sick the rest of the day.
+- Member has not opened the care calendar since Friday and is waiting to find out what that cost.
+- Member says the furnace weekend was calm because everyone was occupied with the furnace and nobody was asking Member for anything — not because anyone stepped in.
+- Member said the quiet is not proof the system is working but the waiting itself, and that five months of nothing going wrong has left Member exactly the same.
+- Member says Member is not worried the system is weak but about the thing nobody sees coming, like March.
+- Member rejected the counsellor's bridge and fortress reframings and rest-in-the-trying framing, and ended the session saying the one question asked — why the worst weekend felt calmer than a clean one — went unanswered.
+- Member said there is nothing left to give to a bridge, citing being on hold with the oil company, the father's call about pills, and a model review Thursday.
+- Member said maybe to a five-minute walk or breathing session before the model review. [open]

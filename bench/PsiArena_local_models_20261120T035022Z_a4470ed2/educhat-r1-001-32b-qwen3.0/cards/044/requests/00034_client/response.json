@@ -1,0 +1,41 @@
+{
+  "id": "6cd9676a3b384c3790d50bb40d7e4e8a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低下头，声音有点闷）可是……撑伞的人自己也会冷啊。（停顿）有时候我在想，是不是我太在意别人了，才把自己弄得这么累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我替别人着想是很珍贵的品质，还用了雨天撑伞的比喻。这让我有点意外，因为以前从没觉得自己这样有什么好的。但他说淋湿了自己，好像也看到了我为此付出的代价。我确实总是先想别人，可结果呢？）\n（也许我可以试着说说这种矛盾的感觉。毕竟现在稍微信任他了，可以表达得更真实一些。虽然还是有点不确定，但我想让他知道，这种“好品质”有时候让我很累。）",
+        "reasoning": "（咨询师说我替别人着想是很珍贵的品质，还用了雨天撑伞的比喻。这让我有点意外，因为以前从没觉得自己这样有什么好的。但他说淋湿了自己，好像也看到了我为此付出的代价。我确实总是先想别人，可结果呢？）\n（也许我可以试着说说这种矛盾的感觉。毕竟现在稍微信任他了，可以表达得更真实一些。虽然还是有点不确定，但我想让他知道，这种“好品质”有时候让我很累。）"
+      }
+    }
+  ],
+  "created": 1795150094,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 2527,
+    "total_tokens": 2665,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

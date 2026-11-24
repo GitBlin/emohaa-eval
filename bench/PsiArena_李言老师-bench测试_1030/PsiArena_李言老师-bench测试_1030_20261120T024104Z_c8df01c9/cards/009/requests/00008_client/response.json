@@ -1,0 +1,41 @@
+{
+  "id": "71a702f7bceb421ab6fe68e27e0ba201",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我怕她觉得我变了，变得冷漠、只顾自己。其实拒绝她之后，她这几天对我都淡淡的，我就更觉得是不是我做错了……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最担心她怎么看我……这让我想起小时候爸妈总说做人要厚道，不能让人说闲话。我确实很怕同事觉得我变了，变得冷漠自私。）\n（其实那次拒绝之后，她虽然没说什么，但之后几天对我明显冷淡了。这让我更难受，好像我做什么都弥补不了。我是不是真的做错了？）",
+        "reasoning": "（咨询师问我最担心她怎么看我……这让我想起小时候爸妈总说做人要厚道，不能让人说闲话。我确实很怕同事觉得我变了，变得冷漠自私。）\n（其实那次拒绝之后，她虽然没说什么，但之后几天对我明显冷淡了。这让我更难受，好像我做什么都弥补不了。我是不是真的做错了？）"
+      }
+    }
+  ],
+  "created": 1795142540,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1586,
+    "total_tokens": 1696,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

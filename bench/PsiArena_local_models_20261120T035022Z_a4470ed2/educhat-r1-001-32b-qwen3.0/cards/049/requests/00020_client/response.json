@@ -1,0 +1,41 @@
+{
+  "id": "3d99e76664504861ba76d54cd5f454f2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）大概是……很工整的直线吧，一笔一划都规规矩矩的。不过这么说我爸妈好像有点过分，他们也是为我好。（语气有点不确定）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么描绘父母的教育方式，这让我想到家里那些规矩和克制。用“直线”这个词，是因为我确实觉得一切都得按部就班，不能有偏差。但说完又有点不安，怕自己说得太直白，像是在抱怨他们。）\n（其实我并不是想指责父母，只是那种压抑的感觉太真实了。每次想表达情绪，都会被“想清楚再说”挡回去。我犹豫是因为不知道这样描述会不会显得我不懂事，毕竟他们也是为我好。）",
+        "reasoning": "（咨询师问我怎么描绘父母的教育方式，这让我想到家里那些规矩和克制。用“直线”这个词，是因为我确实觉得一切都得按部就班，不能有偏差。但说完又有点不安，怕自己说得太直白，像是在抱怨他们。）\n（其实我并不是想指责父母，只是那种压抑的感觉太真实了。每次想表达情绪，都会被“想清楚再说”挡回去。我犹豫是因为不知道这样描述会不会显得我不懂事，毕竟他们也是为我好。）"
+      }
+    }
+  ],
+  "created": 1795150340,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 1719,
+    "total_tokens": 1863,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

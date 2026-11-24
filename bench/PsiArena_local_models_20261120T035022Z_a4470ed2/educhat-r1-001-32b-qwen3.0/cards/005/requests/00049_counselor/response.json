@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-05d7f746080844a49e123acf34d78a1e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你做得很好！改变需要时间，不要给自己太大压力。如果过程中遇到困难，随时可以来找我聊聊。祝你好运！",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者已经认识到问题的根源，并开始尝试改变，需要巩固新的行为模式。\n【行动策略】：肯定来访者的努力，并鼓励其持续实践，同时保持开放的沟通渠道。\n",
+        "reasoning_content": "\n【诊断分析】：来访者已经认识到问题的根源，并开始尝试改变，需要巩固新的行为模式。\n【行动策略】：肯定来访者的努力，并鼓励其持续实践，同时保持开放的沟通渠道。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147033,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2864,
+    "total_tokens": 2941,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

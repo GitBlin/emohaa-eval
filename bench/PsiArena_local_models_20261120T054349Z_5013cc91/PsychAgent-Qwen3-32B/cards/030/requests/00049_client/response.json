@@ -1,0 +1,41 @@
+{
+  "id": "8673625eca1742a29150b13737c18a5b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点点头）好，我可以试试。就是先开个头，看看他什么反应，再决定要不要继续讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点点头）好，我可以试试。就是先开个头，看看他什么反应，再决定要不要继续讲。",
+        "reasoning": "（点点头）好，我可以试试。就是先开个头，看看他什么反应，再决定要不要继续讲。"
+      }
+    }
+  ],
+  "created": 1795154576,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 3395,
+    "total_tokens": 3445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 25,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

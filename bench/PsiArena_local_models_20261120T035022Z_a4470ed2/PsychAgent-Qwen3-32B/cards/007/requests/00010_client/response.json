@@ -1,0 +1,41 @@
+{
+  "id": "0710d5cbf4734d5e8004848ca566700b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "挺久的了……从上大学开始就断断续续的。我也不太清楚为什么会这么难受，就是感觉整个人很累。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我睡不好的情况持续多久了……我该说多少呢？其实从上大学开始就这样了，但我不想一下子说太多。也许先含糊一点，说“挺久了”，看看他会不会追问。毕竟我还不太确定这个咨询师能不能真的理解我的处境。）",
+        "reasoning": "（咨询师问我睡不好的情况持续多久了……我该说多少呢？其实从上大学开始就这样了，但我不想一下子说太多。也许先含糊一点，说“挺久了”，看看他会不会追问。毕竟我还不太确定这个咨询师能不能真的理解我的处境。）"
+      }
+    }
+  ],
+  "created": 1795146818,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 1338,
+    "total_tokens": 1424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

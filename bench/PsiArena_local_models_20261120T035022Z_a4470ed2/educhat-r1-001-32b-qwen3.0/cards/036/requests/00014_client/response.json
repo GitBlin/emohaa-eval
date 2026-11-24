@@ -1,0 +1,41 @@
+{
+  "id": "de1334fd2cc34f97a7af40fef825e828",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "处理？我一般就自己憋着。也不会写日记，怕被人看到。找朋友聊……（犹豫）这种事我不太敢跟别人说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我平时怎么处理这种情绪……还提到写日记、找朋友。其实我根本不会跟任何人说这些，连日记都怕被人看到。他好像觉得我有办法排解，但我没有。）\n（我有点想反驳他，又有点不好意思。毕竟他是在关心我。不过我真的不想让他觉得我有很多朋友可以倾诉，那太假了。也许该让他知道，我其实一直憋着，而且那个被笑话的人……对我来说不是随便什么人。）",
+        "reasoning": "（咨询师问我平时怎么处理这种情绪……还提到写日记、找朋友。其实我根本不会跟任何人说这些，连日记都怕被人看到。他好像觉得我有办法排解，但我没有。）\n（我有点想反驳他，又有点不好意思。毕竟他是在关心我。不过我真的不想让他觉得我有很多朋友可以倾诉，那太假了。也许该让他知道，我其实一直憋着，而且那个被笑话的人……对我来说不是随便什么人。）"
+      }
+    }
+  ],
+  "created": 1795149445,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1466,
+    "total_tokens": 1600,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

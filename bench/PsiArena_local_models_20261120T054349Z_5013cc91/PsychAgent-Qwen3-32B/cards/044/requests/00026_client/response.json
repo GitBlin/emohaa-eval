@@ -1,0 +1,41 @@
+{
+  "id": "53785165abdd448ab76624078ba0f53d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（吸了吸鼻子）我想要的……就是他们能问一句“你累不累”，别老问分数。（停顿）可我不敢说，说了他们要么嫌我矫情，要么就说“给你吃给你穿还想怎样”。所以我就干脆什么都不说了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（吸了吸鼻子）想要的东西……我就想他们问一句“你累不累”，别老问分数。（停顿）可我不敢说，说了他们要么说我矫情，要么就说“我们给你吃给你穿还想怎样”。所以我就干脆不说了。",
+        "reasoning": "（吸了吸鼻子）想要的东西……我就想他们问一句“你累不累”，别老问分数。（停顿）可我不敢说，说了他们要么说我矫情，要么就说“我们给你吃给你穿还想怎样”。所以我就干脆不说了。"
+      }
+    }
+  ],
+  "created": 1795155043,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2377,
+    "total_tokens": 2489,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

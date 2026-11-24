@@ -1,0 +1,41 @@
+{
+  "id": "d0ba49e67ec64c1a8807ace49425e196",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我记得小时候，有次考试没考好，我妈什么都没说，就是叹了口气。那个叹气……比骂我还难受。后来我就觉得，只有自己够好，才值得被喜欢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问到我小时候的事了……好像确实有些画面一下子涌上来。爸妈都是老师，家里总有一种“应该做得更好”的气氛。我记得有一次考了第二名，他们没骂我，但那种失望的眼神让我特别难受，好像我让他们丢了脸。从那以后我就觉得，只有自己足够好才值得被喜欢，稍微依赖别人一点，就会变成负担。）",
+        "reasoning": "（她问到我小时候的事了……好像确实有些画面一下子涌上来。爸妈都是老师，家里总有一种“应该做得更好”的气氛。我记得有一次考了第二名，他们没骂我，但那种失望的眼神让我特别难受，好像我让他们丢了脸。从那以后我就觉得，只有自己足够好才值得被喜欢，稍微依赖别人一点，就会变成负担。）"
+      }
+    }
+  ],
+  "created": 1795155101,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1792,
+    "total_tokens": 1910,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

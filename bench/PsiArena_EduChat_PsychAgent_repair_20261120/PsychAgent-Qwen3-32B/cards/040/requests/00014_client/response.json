@@ -1,0 +1,41 @@
+{
+  "id": "2217bae4f37e4cb3bfccf5997fc7945e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……跟一个人有关吧。我也知道想这些没什么用，可就是控制不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第7轮是初期最后阶段，目标是建立信任和试探。咨询师问的是反复想的是哪方面的事，我可以用模糊的方式回应，表现出犹豫和不安，不深入细节，同时保持防御性。可以说跟一个人有关，但不想说太多，表现出丢人的感觉。）",
+        "reasoning": "（第7轮是初期最后阶段，目标是建立信任和试探。咨询师问的是反复想的是哪方面的事，我可以用模糊的方式回应，表现出犹豫和不安，不深入细节，同时保持防御性。可以说跟一个人有关，但不想说太多，表现出丢人的感觉。）"
+      }
+    }
+  ],
+  "created": 1795154940,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1459,
+    "total_tokens": 1541,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

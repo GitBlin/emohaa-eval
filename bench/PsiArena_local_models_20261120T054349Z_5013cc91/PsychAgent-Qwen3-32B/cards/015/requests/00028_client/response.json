@@ -1,0 +1,41 @@
+{
+  "id": "899a0d0e35054c0d91ba1f3911142b55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "如果……如果我能不那么怕，我会直接问他到底怎么想的。可话到嘴边，我又咽回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要继续中期阶段，第14轮，只针对一个方面。来访者要表达冲动或想说的话，用“如果……我会……”句式。简短2-3句。可以带出犹豫、重复、情绪。不要跳太快。",
+        "reasoning": "我们需要继续中期阶段，第14轮，只针对一个方面。来访者要表达冲动或想说的话，用“如果……我会……”句式。简短2-3句。可以带出犹豫、重复、情绪。不要跳太快。"
+      }
+    }
+  ],
+  "created": 1795153976,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 2181,
+    "total_tokens": 2256,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

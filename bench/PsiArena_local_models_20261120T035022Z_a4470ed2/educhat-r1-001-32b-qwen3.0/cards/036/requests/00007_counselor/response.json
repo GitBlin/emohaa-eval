@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-cb02a1152df8414f9a2d4509c2b5c498",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这种突然的情绪波动很常见。能回忆下最近一次出现这种感觉的情境吗？比如和谁在一起，发生了什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：识别到情绪波动与情境相关，需探索具体事件。\n【行动策略】：引导回忆具体情境以明确情绪触发点。\n",
+        "reasoning_content": "\n【诊断分析】：识别到情绪波动与情境相关，需探索具体事件。\n【行动策略】：引导回忆具体情境以明确情绪触发点。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149430,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 519,
+    "total_tokens": 583,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

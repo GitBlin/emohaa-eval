@@ -1,0 +1,41 @@
+{
+  "id": "cc44ce61cbf548e1ac89faef4999dd0d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不太确定……可能三四个小时？有时候躺着很久也睡不着，脑子里乱糟糟的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问我睡几个小时……我确实没仔细算过。好像每天都是迷迷糊糊的，躺下了也睡不着。室友打游戏的声音一直在耳边响，越想睡越清醒。说“很少”应该够了吧，我不想说得太具体，感觉怪怪的。）",
+        "reasoning": "（他问我睡几个小时……我确实没仔细算过。好像每天都是迷迷糊糊的，躺下了也睡不着。室友打游戏的声音一直在耳边响，越想睡越清醒。说“很少”应该够了吧，我不想说得太具体，感觉怪怪的。）"
+      }
+    }
+  ],
+  "created": 1795146814,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 76,
+    "prompt_tokens": 1206,
+    "total_tokens": 1282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

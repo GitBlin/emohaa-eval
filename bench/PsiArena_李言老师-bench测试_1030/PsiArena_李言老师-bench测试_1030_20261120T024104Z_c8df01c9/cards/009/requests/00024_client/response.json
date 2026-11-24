@@ -1,0 +1,41 @@
+{
+  "id": "17aca8a591fd4dbf9da67bd20a7429fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想明天上班见到她的时候说吧，拖太久我自己也会一直惦记。就是不知道到时候我能不能真的说出口……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我什么时候回复，这让我有点紧张。我其实还没想好具体怎么开口，但至少现在知道不能立刻答应。明天上班见面时说吧，这样不用在微信上反复纠结，也能给自己一点缓冲。）\n（不过我还是担心，万一明天她又来问，我会不会又心软。我是不是该先练一下那句话，让自己更稳一点。这样至少不会一看到她为难就动摇。）",
+        "reasoning": "（她问我什么时候回复，这让我有点紧张。我其实还没想好具体怎么开口，但至少现在知道不能立刻答应。明天上班见面时说吧，这样不用在微信上反复纠结，也能给自己一点缓冲。）\n（不过我还是担心，万一明天她又来问，我会不会又心软。我是不是该先练一下那句话，让自己更稳一点。这样至少不会一看到她为难就动摇。）"
+      }
+    }
+  ],
+  "created": 1795142681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3265,
+    "total_tokens": 3377,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

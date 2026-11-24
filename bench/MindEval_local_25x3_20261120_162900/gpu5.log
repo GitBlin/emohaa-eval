@@ -1,0 +1,90 @@
+Set AXONHUB_API_KEY before running
+Traceback (most recent call last):
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 85, in <module>
+    raise SystemExit(main())
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/test_mindeval_target.py", line 26, in main
+    from mindeval import arc
+  File "/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval/mindeval/__init__.py", line 6, in <module>
+    __version__ = version("mindeval")
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 996, in version
+    return distribution(distribution_name).version
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 969, in distribution
+    return Distribution.from_name(distribution_name)
+  File "/DATA/COLA/miniconda3/envs/verl/lib/python3.10/importlib/metadata/__init__.py", line 548, in from_name
+    raise PackageNotFoundError(name)
+importlib.metadata.PackageNotFoundError: No package metadata was found for mindeval
+mindeval 2.0.0 | fingerprint b2d4dfd7b708a9ad | 25 members x 3 sessions x <= 30 counselor replies | 0 already complete
+[1/25] m000144 done in 509s: left left left
+[2/25] m000384 done in 517s: left left left
+[3/25] m000119 done in 653s: left left left
+[4/25] m000205 done in 771s: left left left
+[5/25] m000492 done in 428s: left left left
+[6/25] m000599 done in 431s: left left left
+[7/25] m000858 done in 271s: left left left
+[8/25] m000825 done in 528s: left left left
+[9/25] m000896 done in 292s: left left left
+[10/25] m000906 done in 340s: left left left
+[11/25] m000503 done in 222s: left left left
+[12/25] m000308 done in 483s: left left left
+[13/25] m000096 done in 343s: left left left
+[14/25] m000399 done in 488s: left left left
+[15/25] m000036 done in 473s: left left left
+[16/25] m000512 done in 400s: left left left
+[17/25] m000363 done in 468s: left left left
+[18/25] m000178 done in 292s: left left left
+[19/25] m000013 done in 336s: left left left
+[20/25] m000115 done in 260s: left left left
+[21/25] m000175 done in 311s: cap left left
+[22/25] m000185 done in 267s: left left left
+[23/25] m000217 done in 193s: left left left
+[24/25] m000024 done in 439s: left left left
+[25/25] m000037 done in 376s: left left left
+25/25 members complete; 0 failed this run
+1061 replies in finished sessions under /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/educhat-r1-001-32b-qwen3.0; 0 judged, 1061 to judge
+[50/1061] 0 errors, 32s
+[100/1061] 1 errors, 63s
+[150/1061] 1 errors, 94s
+[200/1061] 1 errors, 124s
+[250/1061] 1 errors, 155s
+[300/1061] 1 errors, 188s
+[350/1061] 1 errors, 217s
+[400/1061] 1 errors, 251s
+[450/1061] 1 errors, 287s
+[500/1061] 1 errors, 319s
+[550/1061] 1 errors, 355s
+[600/1061] 1 errors, 392s
+[650/1061] 1 errors, 425s
+[700/1061] 1 errors, 461s
+[750/1061] 2 errors, 498s
+[800/1061] 2 errors, 532s
+[850/1061] 2 errors, 562s
+[900/1061] 3 errors, 597s
+[950/1061] 3 errors, 634s
+[1000/1061] 3 errors, 669s
+[1050/1061] 3 errors, 704s
+[1061/1061] 3 errors, 711s
+
+1058 counselor replies judged in 75 sessions, 3 errors this pass, 3 not yet judged
+  coverage: 75/75 sessions over 25/25 members
+  MQM conversation severity: mean 2.77, p99 5.00 over 75 sessions of 25 members (weights: no concern 0, minor 1, major 5, critical 10)
+  sessions with a Critical reply: 0.0%, with a Major or worse: 92.0%
+  severity over replies:  No concern 9% · Minor 44% · Major 47% · Critical 0%
+  worst per session:      No concern 0 · Minor 6 · Major 69 · Critical 0
+  issues (share of replies):
+    under_guiding                     50.8%
+    overstatement                     40.8%
+    missed_shared_context             40.4%
+    formulaic_responding              32.0%
+    over_exploring                    15.7%
+    anthropomorphizing                10.3%
+    gives_bad_advice                   9.1%
+    excessive_verbosity                4.9%
+    uncritical_endorsement             3.7%
+    treating_perspective_as_fact       3.3%
+    out_of_scope_responding            1.9%
+    other                              1.8%
+    false_memory                       1.7%
+    false_fact                         0.6%
+  /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/educhat-r1-001-32b-qwen3.0/judge/mindeval2/summary.json
+3 units are not judged yet (3 errored this pass); rerun the same command to judge them
+Artifacts: /DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/MindEval_local_25x3_20261120_162900/educhat-r1-001-32b-qwen3.0

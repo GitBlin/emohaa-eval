@@ -1,0 +1,41 @@
+{
+  "id": "f579402b9e5c4b49809ab149fb5a302c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想……大概是那种不用我解释太多，也不会马上被纠正的关系吧。可以在难受的时候说一句“我现在不太好”，对方不用给答案。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我想象一种理想的关系状态……这让我有点不确定，因为好像从来没仔细想过这个。不过现在情绪没之前那么紧了，可以试着说说看。也许可以提一下“不用解释太多”这个点，因为平时总是要解释好多，很累。）\n（嗯，还应该加上“不会马上被纠正”，因为在家里总被讲道理，那种感觉挺憋的。这样回答应该能表达出我想要的，但又不会说得太深。）",
+        "reasoning": "（咨询师在引导我想象一种理想的关系状态……这让我有点不确定，因为好像从来没仔细想过这个。不过现在情绪没之前那么紧了，可以试着说说看。也许可以提一下“不用解释太多”这个点，因为平时总是要解释好多，很累。）\n（嗯，还应该加上“不会马上被纠正”，因为在家里总被讲道理，那种感觉挺憋的。这样回答应该能表达出我想要的，但又不会说得太深。）"
+      }
+    }
+  ],
+  "created": 1795155258,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 2432,
+    "total_tokens": 2563,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

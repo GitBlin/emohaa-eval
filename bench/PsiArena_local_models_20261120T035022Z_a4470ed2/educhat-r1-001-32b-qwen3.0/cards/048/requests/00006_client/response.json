@@ -1,0 +1,41 @@
+{
+  "id": "429372337b2f4e67b0bb31d6e9233ad8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录情绪……听起来有点麻烦。我也不知道，可能就是些小事吧，比如我最近找不到一支眼霜，明明记得放在那儿的。说这些是不是有点小题大做？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师提到记录情绪变化的方法，还问我对哪种方式感兴趣。其实我根本没想好要不要做这些记录，现在心里乱糟糟的，连具体烦什么都不太说得清。不过她好像挺专业的，至少没让我觉得被冒犯。）\n（作为来访者，我还在试探阶段，不能一下子暴露太多。但可以稍微提一下眼霜的事，看看她会怎么反应。毕竟那确实是我最近最在意的小事，虽然说出来可能显得有点小题大做。我得用模糊的方式表达，既让她知道我的困扰，又不至于显得太脆弱。）",
+        "reasoning": "（刚才咨询师提到记录情绪变化的方法，还问我对哪种方式感兴趣。其实我根本没想好要不要做这些记录，现在心里乱糟糟的，连具体烦什么都不太说得清。不过她好像挺专业的，至少没让我觉得被冒犯。）\n（作为来访者，我还在试探阶段，不能一下子暴露太多。但可以稍微提一下眼霜的事，看看她会怎么反应。毕竟那确实是我最近最在意的小事，虽然说出来可能显得有点小题大做。我得用模糊的方式表达，既让她知道我的困扰，又不至于显得太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795150199,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 160,
+    "prompt_tokens": 1087,
+    "total_tokens": 1247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

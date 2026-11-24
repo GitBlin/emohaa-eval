@@ -1,0 +1,41 @@
+{
+  "id": "497e67d6d13940f4b5dc980b13551adc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点点头）好，我试试……（闭上眼睛几秒后睁开）好像还行。不过我心里还是有点打鼓，总觉得这么简单的方法真能管用吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我做一个具体的练习，这让我既有点紧张又觉得可以试试。闭气5秒听起来很简单，但我知道自己容易想太多，可能连这种小事都会做不好。）\n（不过刚才聊了这么多，我确实想看看自己能不能做到一点改变。虽然心里还是没底，但至少可以试试看，也许真的能像咨询师说的那样，慢慢接近自由。）",
+        "reasoning": "（咨询师在引导我做一个具体的练习，这让我既有点紧张又觉得可以试试。闭气5秒听起来很简单，但我知道自己容易想太多，可能连这种小事都会做不好。）\n（不过刚才聊了这么多，我确实想看看自己能不能做到一点改变。虽然心里还是没底，但至少可以试试看，也许真的能像咨询师说的那样，慢慢接近自由。）"
+      }
+    }
+  ],
+  "created": 1795154223,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2872,
+    "total_tokens": 2993,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

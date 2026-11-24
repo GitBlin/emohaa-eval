@@ -1,0 +1,41 @@
+{
+  "id": "016d6c4c31454f28bbdaf2ae4b067a31",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我更怕他忽略我的感受吧。请求没做到还能再说，可感受被忽略，我就觉得自己像一个人。其实他也不是完全不管，就是总沉默。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更担心被忽略感受还是具体请求……这让我得停下来想想。其实这两样都怕，但如果非要选，感受被忽略更让我难受。因为请求没被答应还能再商量，可感受被忽略就像整个人被推开了。）\n（不过先生那种沉默，有时候也不是完全不管，至少人在那儿。我不想把他想得太坏，只是那种不回应真的让人心里发空。）",
+        "reasoning": "（她问我更担心被忽略感受还是具体请求……这让我得停下来想想。其实这两样都怕，但如果非要选，感受被忽略更让我难受。因为请求没被答应还能再商量，可感受被忽略就像整个人被推开了。）\n（不过先生那种沉默，有时候也不是完全不管，至少人在那儿。我不想把他想得太坏，只是那种不回应真的让人心里发空。）"
+      }
+    }
+  ],
+  "created": 1795142981,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2898,
+    "total_tokens": 3019,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

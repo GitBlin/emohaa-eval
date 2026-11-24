@@ -1,0 +1,41 @@
+{
+  "id": "ee5b9f677e9c4b8ba5c7392e6cffad47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧……公司聚会，大家都在聊天，我就坐在旁边，也不知道该插什么话。其实那种场合我总觉得自己像个局外人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体场景，看来是想帮我理清情绪的来源。但说实话，我还没完全信任他，不太想这么快就暴露太多细节。不过既然他问了，我稍微说一点应该没关系吧，毕竟我也确实想弄清楚自己为什么总在热闹场合感到孤单。）\n（上周聚会的事让我印象很深，那种被晾在一边的感觉特别难受。但我不想说得太详细，免得显得自己很可怜。而且我有点担心说太多会被评判，还是含糊点带过去比较好。）",
+        "reasoning": "（咨询师在引导我回忆具体场景，看来是想帮我理清情绪的来源。但说实话，我还没完全信任他，不太想这么快就暴露太多细节。不过既然他问了，我稍微说一点应该没关系吧，毕竟我也确实想弄清楚自己为什么总在热闹场合感到孤单。）\n（上周聚会的事让我印象很深，那种被晾在一边的感觉特别难受。但我不想说得太详细，免得显得自己很可怜。而且我有点担心说太多会被评判，还是含糊点带过去比较好。）"
+      }
+    }
+  ],
+  "created": 1795153440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1061,
+    "total_tokens": 1199,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

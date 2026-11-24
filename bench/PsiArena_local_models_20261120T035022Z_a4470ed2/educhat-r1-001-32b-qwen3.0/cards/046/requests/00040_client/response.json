@@ -1,0 +1,41 @@
+{
+  "id": "8cf166f8c6f844afa534e3ff1e7d5d40",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "从明天吧。（顿了顿）不过我想先只记一句话，别搞太复杂，不然我肯定坚持不了几天。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我把坚持的概念具体化，用浇花来比喻，还问从哪天开始。这让我觉得有点压力，好像又要被安排任务了。我其实不太确定自己能不能做到每天记录，但又不想直接拒绝，毕竟前面聊得还算有进展。）\n（也许可以先从明天开始试试，但得给自己留点余地，比如只记一句话就行。这样既回应了咨询师的建议，又不会让自己觉得太沉重。毕竟我本来就容易因为做不到而自责，所以得把门槛放低一点。）",
+        "reasoning": "（咨询师在引导我把坚持的概念具体化，用浇花来比喻，还问从哪天开始。这让我觉得有点压力，好像又要被安排任务了。我其实不太确定自己能不能做到每天记录，但又不想直接拒绝，毕竟前面聊得还算有进展。）\n（也许可以先从明天开始试试，但得给自己留点余地，比如只记一句话就行。这样既回应了咨询师的建议，又不会让自己觉得太沉重。毕竟我本来就容易因为做不到而自责，所以得把门槛放低一点。）"
+      }
+    }
+  ],
+  "created": 1795150253,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2723,
+    "total_tokens": 2862,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

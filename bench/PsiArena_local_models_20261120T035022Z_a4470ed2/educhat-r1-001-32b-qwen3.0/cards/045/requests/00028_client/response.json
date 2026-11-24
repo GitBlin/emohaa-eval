@@ -1,0 +1,41 @@
+{
+  "id": "6a18924600754df481d571666733879d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）就是……很矛盾。一方面特别想抓住那种被理解的感觉，另一方面又觉得自己很可笑。（声音有些哽咽）有时候晚上躺在床上，会突然觉得特别委屈，也不知道在委屈什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体的情绪，这让我有点紧张。她好像真的在认真听我说话，不像其他人那样敷衍。但提到具体情绪，我又觉得很难开口，因为连我自己都理不清这些感受。）\n（也许可以试着说一点，毕竟她看起来不会评判我。那种空落落的感觉，还有对自己的失望，应该算是比较安全的表达吧。但说完之后又有点后悔，怕自己显得太脆弱。）",
+        "reasoning": "（咨询师在问我具体的情绪，这让我有点紧张。她好像真的在认真听我说话，不像其他人那样敷衍。但提到具体情绪，我又觉得很难开口，因为连我自己都理不清这些感受。）\n（也许可以试着说一点，毕竟她看起来不会评判我。那种空落落的感觉，还有对自己的失望，应该算是比较安全的表达吧。但说完之后又有点后悔，怕自己显得太脆弱。）"
+      }
+    }
+  ],
+  "created": 1795150172,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2209,
+    "total_tokens": 2344,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

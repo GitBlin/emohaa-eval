@@ -1,0 +1,41 @@
+{
+  "id": "b6e72e86c3814555a306a051194a9a60",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "倒杯水或者洗个杯子吧，短一点，我可能还能做到。（顿了顿）不过我还是会想看手机，只是希望没那么慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把“发完消息后不马上等回复”具体化，这个方向让我稍微踏实了一点。但我还是有点担心自己做不到，或者坚持不了几天。）\n（我得想一个真的容易做到的动作，不能太复杂。倒水、洗杯子、整理桌面这些小事应该可以，至少比干坐着刷手机好。不过我也得说清楚，我可能还是会看手机，只是希望不要那么慌。）",
+        "reasoning": "（咨询师在帮我把“发完消息后不马上等回复”具体化，这个方向让我稍微踏实了一点。但我还是有点担心自己做不到，或者坚持不了几天。）\n（我得想一个真的容易做到的动作，不能太复杂。倒水、洗杯子、整理桌面这些小事应该可以，至少比干坐着刷手机好。不过我也得说清楚，我可能还是会看手机，只是希望不要那么慌。）"
+      }
+    }
+  ],
+  "created": 1795142663,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3214,
+    "total_tokens": 3336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

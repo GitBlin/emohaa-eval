@@ -1,0 +1,41 @@
+{
+  "id": "fe81c9c34d724411b32262f66d477bc1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "怕忘很正常。我们可以把它写在一张小卡片上，放在桌角，当作提醒。你愿意这周试试吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）三次呼吸……这个我可以试。就是怕到时候一慌就忘了。",
+        "reasoning": "（想了想）三次呼吸……这个我可以试。就是怕到时候一慌就忘了。"
+      }
+    }
+  ],
+  "created": 1795148577,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 2964,
+    "total_tokens": 3010,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 19,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

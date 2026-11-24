@@ -1,0 +1,41 @@
+{
+  "id": "551a2fadb14547528d244469f4c1b126",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一次考试没考好，我回家想说说难受，我爸就让我先反省哪里没做好。那一刻我就觉得……好像难过是不该的，得先证明自己没问题。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我小时候的事……这让我有点不舒服，但好像也不是不能说的那种。他问的是印象最深的体验，我脑子里一下就冒出来那次考砸了回家的时候。我爸那个表情我到现在都记得，不是骂我，就是那种失望，让我觉得自己连难过都不该有。可能就是从那时候开始，我习惯先找自己的错吧。）",
+        "reasoning": "（咨询师在问我小时候的事……这让我有点不舒服，但好像也不是不能说的那种。他问的是印象最深的体验，我脑子里一下就冒出来那次考砸了回家的时候。我爸那个表情我到现在都记得，不是骂我，就是那种失望，让我觉得自己连难过都不该有。可能就是从那时候开始，我习惯先找自己的错吧。）"
+      }
+    }
+  ],
+  "created": 1795148036,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1933,
+    "total_tokens": 2049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

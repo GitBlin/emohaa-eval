@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-dbdd18016ff64667a3ce15bba1b23da2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，看到你愿意寻求帮助，这本身就是很勇敢的一步。可以和我分享一下你最近的生活状态吗？比如工作、学习或者家庭方面的情况？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户首次咨询，需建立信任并了解基本情况。\n【行动策略】：运用开放式提问收集背景信息，保持中立态度。\n",
+        "reasoning_content": "\n【诊断分析】：用户首次咨询，需建立信任并了解基本情况。\n【行动策略】：运用开放式提问收集背景信息，保持中立态度。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147477,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 196,
+    "total_tokens": 268,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

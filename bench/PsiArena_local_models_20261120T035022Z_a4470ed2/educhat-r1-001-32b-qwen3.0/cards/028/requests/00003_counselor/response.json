@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-12d80b6b796849ecb03fb4b0751946f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询师会引导你分享感受和想法，就像朋友聊天。你可以随时暂停或调整话题。现在你愿意说说最近困扰你的事吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：初次咨询需建立信任基础。\n【行动策略】：说明咨询流程，鼓励开放表达。\n",
+        "reasoning_content": "\n【诊断分析】：初次咨询需建立信任基础。\n【行动策略】：说明咨询流程，鼓励开放表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148834,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 287,
+    "total_tokens": 348,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

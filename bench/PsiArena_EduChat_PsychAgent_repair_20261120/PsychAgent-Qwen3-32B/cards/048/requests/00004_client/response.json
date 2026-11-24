@@ -1,0 +1,41 @@
+{
+  "id": "f7dd7512a33345f9a3723cb12096c9dd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……那，你会做记录吗？我有点担心说出来的东西被记下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询方式，说会以我关心的内容为主，还会做记录……听起来倒是挺常规的。不过我还是有点不确定，记录的话会不会写很多私人的东西？毕竟有些事我还没想好要不要说。）\n（作为比较敏感的人，我对这种细节会格外在意。而且第一次见面，总得先试探一下对方的界限在哪里，看看是不是可以放心。直接问会不会太冒犯了……但如果不问清楚，我心里会一直悬着。）",
+        "reasoning": "（咨询师解释了咨询方式，说会以我关心的内容为主，还会做记录……听起来倒是挺常规的。不过我还是有点不确定，记录的话会不会写很多私人的东西？毕竟有些事我还没想好要不要说。）\n（作为比较敏感的人，我对这种细节会格外在意。而且第一次见面，总得先试探一下对方的界限在哪里，看看是不是可以放心。直接问会不会太冒犯了……但如果不问清楚，我心里会一直悬着。）"
+      }
+    }
+  ],
+  "created": 1795155198,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 988,
+    "total_tokens": 1107,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

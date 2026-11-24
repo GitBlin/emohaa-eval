@@ -1,0 +1,41 @@
+{
+  "id": "2188614bfa0b469b942256bf7625f524",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好像一直在重复这句话……（有点不满）我是说，具体怎么开头，总不能一上来就说“我受伤了”吧，那也太奇怪了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了之前的话，让我觉得有点被敷衍了。他好像没注意到我刚才在认真思考怎么开头，只是机械地重复建议。这让我有点烦躁，也怀疑他是不是真的在听我说话。）\n（不过转念一想，也许是我太敏感了。毕竟他是在帮我梳理思路，只是方式让我不太舒服。我需要让他知道我的真实感受，但又不能太冲，毕竟我是来寻求帮助的。或许可以稍微表达一下我的不满，同时继续推进话题。）",
+        "reasoning": "（咨询师又重复了之前的话，让我觉得有点被敷衍了。他好像没注意到我刚才在认真思考怎么开头，只是机械地重复建议。这让我有点烦躁，也怀疑他是不是真的在听我说话。）\n（不过转念一想，也许是我太敏感了。毕竟他是在帮我梳理思路，只是方式让我不太舒服。我需要让他知道我的真实感受，但又不能太冲，毕竟我是来寻求帮助的。或许可以稍微表达一下我的不满，同时继续推进话题。）"
+      }
+    }
+  ],
+  "created": 1795150032,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2398,
+    "total_tokens": 2538,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

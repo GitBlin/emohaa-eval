@@ -1,0 +1,41 @@
+{
+  "id": "b7e82a868ec44a32bfd19fa21cab559c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……你们这里会保密吗？我怕说多了，万一被学校或者家里人知道，会不会不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要只针对一个方面：防御性和试探，询问咨询内容和方法。已经问过怎么进行，咨询师回答了。现在可以继续试探，比如保密、会不会评价我。保持简短2-3句。表现出不太确定。不要深入。",
+        "reasoning": "我们需要只针对一个方面：防御性和试探，询问咨询内容和方法。已经问过怎么进行，咨询师回答了。现在可以继续试探，比如保密、会不会评价我。保持简短2-3句。表现出不太确定。不要深入。"
+      }
+    }
+  ],
+  "created": 1795154324,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 957,
+    "total_tokens": 1032,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

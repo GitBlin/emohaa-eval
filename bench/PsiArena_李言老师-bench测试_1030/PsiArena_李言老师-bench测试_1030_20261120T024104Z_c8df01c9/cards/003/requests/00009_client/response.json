@@ -1,0 +1,41 @@
+{
+  "id": "76b54aaa84af49aa860f81e1bbb9219d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一个念头就是……是不是我又做错什么了。唉，其实我知道人家可能只是忙，可心里那个声音就是停不下来，好像又回到小时候，怎么努力都换不来爸妈多看我一眼。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我被拒绝时最先冒出的念头，这让我想起那些不太舒服的回忆。我确实在那种时候会特别容易否定自己，觉得是不是自己哪里做得不对。）\n（而且这种感觉好像和小时候有关，爸妈总是很忙，很少关注我的感受。现在被同事拒绝，那种被忽视的感觉又回来了，让我忍不住想是不是自己不够好。）",
+        "reasoning": "（咨询师问我被拒绝时最先冒出的念头，这让我想起那些不太舒服的回忆。我确实在那种时候会特别容易否定自己，觉得是不是自己哪里做得不对。）\n（而且这种感觉好像和小时候有关，爸妈总是很忙，很少关注我的感受。现在被同事拒绝，那种被忽视的感觉又回来了，让我忍不住想是不是自己不够好。）"
+      }
+    }
+  ],
+  "created": 1795142548,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 1743,
+    "total_tokens": 1865,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

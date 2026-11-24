@@ -1,0 +1,41 @@
+{
+  "id": "9aca0507b06a4f6eb7c94bc0cb6b6a01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "准备几句话……（有点紧张）我怕我一开口，她就又扯到钱上面去了。不过……先试试吧，至少比什么都不说强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我准备几句话跟妈妈沟通，这让我有点紧张。我其实一直害怕跟妈妈谈这些，因为每次都会变成争吵。但咨询师说得对，倾诉就像打开窗户，也许我该试试。）\n（不过我还是很担心，妈妈会不会又觉得我在浪费钱。我准备的话可能根本说不出口，或者说了也白说。但至少咨询师给了我一个具体的方向，让我知道该怎么开口。）",
+        "reasoning": "（咨询师建议我准备几句话跟妈妈沟通，这让我有点紧张。我其实一直害怕跟妈妈谈这些，因为每次都会变成争吵。但咨询师说得对，倾诉就像打开窗户，也许我该试试。）\n（不过我还是很担心，妈妈会不会又觉得我在浪费钱。我准备的话可能根本说不出口，或者说了也白说。但至少咨询师给了我一个具体的方向，让我知道该怎么开口。）"
+      }
+    }
+  ],
+  "created": 1795149088,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3006,
+    "total_tokens": 3128,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

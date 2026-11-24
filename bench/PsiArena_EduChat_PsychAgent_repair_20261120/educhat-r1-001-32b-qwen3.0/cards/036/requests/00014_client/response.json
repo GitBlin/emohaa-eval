@@ -1,0 +1,41 @@
+{
+  "id": "f2a44504a15d4d33a61c0593a457b844",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "调节音量……怎么调呢？我一想到他被人欺负的样子，心里就乱糟糟的，可我又怕自己去帮他，反而被大家孤立。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说我的心像敏感的琴弦，这让我觉得她好像真的理解我那种又开心又难受的感觉。但她说要学会调节情绪的音量，我却不知道该怎么做，反而更担心自己是不是太在意别人的看法了。）\n（想到每次看到他被欺负时那种无力感，胸口就闷闷的。我害怕如果去帮他，自己也会被孤立，这种矛盾让我特别自责。也许咨询师能告诉我该怎么面对这种害怕。）",
+        "reasoning": "（咨询师说我的心像敏感的琴弦，这让我觉得她好像真的理解我那种又开心又难受的感觉。但她说要学会调节情绪的音量，我却不知道该怎么做，反而更担心自己是不是太在意别人的看法了。）\n（想到每次看到他被欺负时那种无力感，胸口就闷闷的。我害怕如果去帮他，自己也会被孤立，这种矛盾让我特别自责。也许咨询师能告诉我该怎么面对这种害怕。）"
+      }
+    }
+  ],
+  "created": 1795154867,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1432,
+    "total_tokens": 1558,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

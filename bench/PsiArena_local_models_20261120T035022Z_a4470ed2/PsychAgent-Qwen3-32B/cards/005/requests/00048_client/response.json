@@ -1,0 +1,41 @@
+{
+  "id": "160f00fb4218416cb0b347b4576885c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，可以……不过我有点担心，下次我会不会又绕回手机这件事上。我可以带点具体的情况来聊吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问下次继续，还提到边界和节奏，我心里其实有点松，又有点不踏实。怕自己回去又忍不住一直看手机，也怕下次说得太乱。先应下来，顺便问问能不能带点具体的来。）",
+        "reasoning": "（她问下次继续，还提到边界和节奏，我心里其实有点松，又有点不踏实。怕自己回去又忍不住一直看手机，也怕下次说得太乱。先应下来，顺便问问能不能带点具体的来。）"
+      }
+    }
+  ],
+  "created": 1795146870,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3515,
+    "total_tokens": 3594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

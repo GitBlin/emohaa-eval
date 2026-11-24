@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-a9925f476a454bb18bd55c687bcb454b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，很高兴为你提供帮助。我注意到你有些困扰，可以和我分享一下发生了什么吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者主动寻求帮助，但未直接说明具体困扰，需通过开放式提问引导其表达。\n【行动策略】：以温暖的态度建立信任，鼓励来访者分享。\n",
+        "reasoning_content": "\n【诊断分析】：来访者主动寻求帮助，但未直接说明具体困扰，需通过开放式提问引导其表达。\n【行动策略】：以温暖的态度建立信任，鼓励来访者分享。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149969,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 196,
+    "total_tokens": 264,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

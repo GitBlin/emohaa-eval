@@ -1,0 +1,41 @@
+{
+  "id": "c71e63e535af48cebe3956e568bcc1ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这个好一点。我可以说是在网上看到有人讨论，问问他的看法。这样他应该不会多想吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我调整问法，让我觉得没那么有压力了。他是在替我想办法，不是评判我，这让我稍微安心一点。不过我还是担心男朋友会多想，毕竟他平时对这类话题很敏感。）\n（我得想个更自然的问法，不能让他觉得我是在试探他。也许可以假装是看到网上讨论或者朋友的事，这样他会更容易说出真实想法。但我又怕编得太假被看穿，反而更尴尬。）",
+        "reasoning": "（咨询师在帮我调整问法，让我觉得没那么有压力了。他是在替我想办法，不是评判我，这让我稍微安心一点。不过我还是担心男朋友会多想，毕竟他平时对这类话题很敏感。）\n（我得想个更自然的问法，不能让他觉得我是在试探他。也许可以假装是看到网上讨论或者朋友的事，这样他会更容易说出真实想法。但我又怕编得太假被看穿，反而更尴尬。）"
+      }
+    }
+  ],
+  "created": 1795154770,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2619,
+    "total_tokens": 2743,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

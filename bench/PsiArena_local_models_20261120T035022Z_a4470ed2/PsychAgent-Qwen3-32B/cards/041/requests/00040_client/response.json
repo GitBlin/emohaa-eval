@@ -1,0 +1,41 @@
+{
+  "id": "92b464ff9ac54bbaa3135a2b46b7351f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……这样听起来没那么像指责了。我可以试试，不过我可能还是会紧张，怕一开口就变成道歉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议加一句自我负责的话……我有点犹豫。这样会不会显得我太敏感，好像把责任都揽到自己身上？但他说得对，我确实最近状态不好，容易较真。可我又不想完全退让，好像他那样说我完全没问题似的。我得试试把这两层都放进去，既表达我的难受，也不让他觉得我在指责他。）",
+        "reasoning": "（咨询师建议加一句自我负责的话……我有点犹豫。这样会不会显得我太敏感，好像把责任都揽到自己身上？但他说得对，我确实最近状态不好，容易较真。可我又不想完全退让，好像他那样说我完全没问题似的。我得试试把这两层都放进去，既表达我的难受，也不让他觉得我在指责他。）"
+      }
+    }
+  ],
+  "created": 1795148481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2903,
+    "total_tokens": 3009,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

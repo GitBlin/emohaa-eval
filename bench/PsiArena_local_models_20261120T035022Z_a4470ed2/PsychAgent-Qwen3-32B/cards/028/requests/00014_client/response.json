@@ -1,0 +1,41 @@
+{
+  "id": "1958994d422f457485baf6d28c985fc1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不上来……有点闷，好像还有点怪自己。不去才是对的，这种想法一直冒出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是那一刻的情绪，我需要回应这个。但第7轮是初期最后阶段，应该开始往深一点走，不过还是不能太快，得留点犹豫。可以说有点闷、说不上来，然后带出“好像不去才是对的”这种模糊感受，试探性地露出一点家庭影响，但不要展开。）",
+        "reasoning": "（咨询师问的是那一刻的情绪，我需要回应这个。但第7轮是初期最后阶段，应该开始往深一点走，不过还是不能太快，得留点犹豫。可以说有点闷、说不上来，然后带出“好像不去才是对的”这种模糊感受，试探性地露出一点家庭影响，但不要展开。）"
+      }
+    }
+  ],
+  "created": 1795147567,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 1418,
+    "total_tokens": 1512,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a121fefe30934376825890420336f011",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是前天晚上吧，本来想早点睡，结果我妈打电话过来，说了一堆我工作的事，挂了之后我就一直睡不着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我说具体时刻……可我脑子里乱糟糟的，好像很多事都堵在一起，分不清哪个才是关键。我不想这么快就讲太多家里的事，怕被评判，也怕自己说着说着就控制不住情绪。）\n（那就挑个最表面的说吧，工作上的事总比家里的好开口。反正那种烦躁感确实经常出现在工作的时候，也不算撒谎。）",
+        "reasoning": "（咨询师想让我说具体时刻……可我脑子里乱糟糟的，好像很多事都堵在一起，分不清哪个才是关键。我不想这么快就讲太多家里的事，怕被评判，也怕自己说着说着就控制不住情绪。）\n（那就挑个最表面的说吧，工作上的事总比家里的好开口。反正那种烦躁感确实经常出现在工作的时候，也不算撒谎。）"
+      }
+    }
+  ],
+  "created": 1795154373,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1432,
+    "total_tokens": 1545,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

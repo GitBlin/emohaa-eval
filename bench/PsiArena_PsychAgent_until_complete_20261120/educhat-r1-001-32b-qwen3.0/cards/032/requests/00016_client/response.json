@@ -1,0 +1,41 @@
+{
+  "id": "e761e9b09eb1497c9484331532ebebb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想问他……到底还喜不喜欢我。可是我不敢问，我怕听到不想听的答案。在我家，大家都说感情要互相体谅，可我体谅他，谁来体谅我呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问我想对他说什么，这让我想起很多次想开口却咽回去的话。其实我真的很想问他到底在不在乎，但又怕问出来显得自己太卑微。）\n（在我家，爸妈总说感情要互相体谅，可我现在连他是不是在体谅我都不知道。有时候我觉得自己像在对着空气说话，越说越觉得自己没价值。）",
+        "reasoning": "（心理咨询师问我想对他说什么，这让我想起很多次想开口却咽回去的话。其实我真的很想问他到底在不在乎，但又怕问出来显得自己太卑微。）\n（在我家，爸妈总说感情要互相体谅，可我现在连他是不是在体谅我都不知道。有时候我觉得自己像在对着空气说话，越说越觉得自己没价值。）"
+      }
+    }
+  ],
+  "created": 1795154710,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1564,
+    "total_tokens": 1684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

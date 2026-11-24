@@ -1,0 +1,41 @@
+{
+  "id": "f04e34ed752145b6890d9d2776df1733",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）你好像一直在重复这句话……是不是我说什么，你都觉得我应该去“沟通”？可问题是我试过了，根本没用。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了这句话……好像根本没在听我说什么。我明明已经说了沟通没用，他还是让我去沟通。这让我觉得有点烦躁，甚至有点被敷衍的感觉。可能他也不知道该怎么帮我吧。）\n（不过也许我该换个角度想想。我一直在说害怕被抛弃，但好像从来没直接跟男朋友说过这个。我总是用吵架的方式表达，他可能真的不明白我在怕什么。但直接说出来……会不会显得我很软弱？）",
+        "reasoning": "（咨询师又重复了这句话……好像根本没在听我说什么。我明明已经说了沟通没用，他还是让我去沟通。这让我觉得有点烦躁，甚至有点被敷衍的感觉。可能他也不知道该怎么帮我吧。）\n（不过也许我该换个角度想想。我一直在说害怕被抛弃，但好像从来没直接跟男朋友说过这个。我总是用吵架的方式表达，他可能真的不明白我在怕什么。但直接说出来……会不会显得我很软弱？）"
+      }
+    }
+  ],
+  "created": 1795154874,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1762,
+    "total_tokens": 1888,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

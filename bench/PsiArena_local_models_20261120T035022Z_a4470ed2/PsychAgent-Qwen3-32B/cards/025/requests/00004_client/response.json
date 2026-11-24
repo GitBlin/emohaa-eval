@@ -1,0 +1,41 @@
+{
+  "id": "218a45fe91304358bd042abbeacafe91",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……我最近总觉得很累，也说不上来具体哪里不对。家里孩子的事吧，有点烦。不过我不太确定该从哪儿说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师看起来挺专业的，但一上来就问最困扰的事，让我有点紧张。我还没完全信任她，不想这么快就暴露太多。得先试探一下，看看她会不会像普通朋友那样给我直接建议，或者会不会太急于推进。）\n（我其实不太清楚自己到底怎么了，就是觉得累，但又说不明白。先含糊地提一下孩子的事，看她怎么反应。如果她太着急让我说细节，我可能会更防备。）",
+        "reasoning": "（这位咨询师看起来挺专业的，但一上来就问最困扰的事，让我有点紧张。我还没完全信任她，不想这么快就暴露太多。得先试探一下，看看她会不会像普通朋友那样给我直接建议，或者会不会太急于推进。）\n（我其实不太清楚自己到底怎么了，就是觉得累，但又说不明白。先含糊地提一下孩子的事，看她怎么反应。如果她太着急让我说细节，我可能会更防备。）"
+      }
+    }
+  ],
+  "created": 1795147312,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1020,
+    "total_tokens": 1150,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

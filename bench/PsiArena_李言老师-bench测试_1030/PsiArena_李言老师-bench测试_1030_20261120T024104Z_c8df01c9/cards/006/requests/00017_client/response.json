@@ -1,0 +1,41 @@
+{
+  "id": "af262ea268314a9983454aa5d32ca5f8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "固定入睡时间吧，至少别每天都熬到脑子停不下来。工作上……我也想试着下班后不再一直想那些事，但可能没那么容易。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到从小处调整，这让我觉得有点方向了。但我确实不想再像以前那样，一焦虑就整夜翻来覆去，第二天更没精神。固定入睡时间听起来可行，至少是我自己能控制的事。不过我也清楚，光靠这个解决不了根本问题，只是先给自己一个喘息的余地。）\n（至于工作上的事，我还是很犹豫。设暂停点会不会又变成逃避？可我现在确实需要一点界限，不能整天被那些看不惯的事压着。也许先试着从晚上不碰工作消息开始，看看能不能让自己稍微松一点。）",
+        "reasoning": "（咨询师提到从小处调整，这让我觉得有点方向了。但我确实不想再像以前那样，一焦虑就整夜翻来覆去，第二天更没精神。固定入睡时间听起来可行，至少是我自己能控制的事。不过我也清楚，光靠这个解决不了根本问题，只是先给自己一个喘息的余地。）\n（至于工作上的事，我还是很犹豫。设暂停点会不会又变成逃避？可我现在确实需要一点界限，不能整天被那些看不惯的事压着。也许先试着从晚上不碰工作消息开始，看看能不能让自己稍微松一点。）"
+      }
+    }
+  ],
+  "created": 1795142616,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 2578,
+    "total_tokens": 2734,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

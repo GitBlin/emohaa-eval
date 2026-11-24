@@ -1,0 +1,41 @@
+{
+  "id": "f67a31cf70ca4647a7edeaf4b52e6f6b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我试试……“我今天有点累，下次一起。”……声音有点小，听起来是不是很假？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我先在心里演练，我有点紧张，但可以试试。先小声说一遍吧，虽然可能听起来有点生硬。不过我得先想好，万一她们追问原因，我该怎么回答。也许就说“今天状态不太好”，不用解释太多。）\n（其实说出口的时候，心里还是有点打鼓，怕她们觉得我找借口。但咨询师说会陪我，那就先练这一句，看看感觉怎么样。可能多练几次会自然一点。）",
+        "reasoning": "（咨询师让我先在心里演练，我有点紧张，但可以试试。先小声说一遍吧，虽然可能听起来有点生硬。不过我得先想好，万一她们追问原因，我该怎么回答。也许就说“今天状态不太好”，不用解释太多。）\n（其实说出口的时候，心里还是有点打鼓，怕她们觉得我找借口。但咨询师说会陪我，那就先练这一句，看看感觉怎么样。可能多练几次会自然一点。）"
+      }
+    }
+  ],
+  "created": 1795146779,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 2215,
+    "total_tokens": 2337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

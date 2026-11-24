@@ -1,0 +1,41 @@
+{
+  "id": "ec281bf7a3ec435eb91ceb4a8077ce4d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……（抠着手指）那保密是啥意思，就是不管我说啥你都不会跟老师讲吗？我……我也说不太清楚自己咋了，就是有时候心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师说会保密，还说我随时可以决定聊什么。听起来好像还行……但真的能保密吗？他会不会也像其他人一样，嘴上说得好听，其实根本不当回事？我有点想问他会不会觉得我烦，但又怕问了显得自己很奇怪。还是先随便说点表面的吧，别一下子说太多。）",
+        "reasoning": "（这个咨询师说会保密，还说我随时可以决定聊什么。听起来好像还行……但真的能保密吗？他会不会也像其他人一样，嘴上说得好听，其实根本不当回事？我有点想问他会不会觉得我烦，但又怕问了显得自己很奇怪。还是先随便说点表面的吧，别一下子说太多。）"
+      }
+    }
+  ],
+  "created": 1795146727,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 998,
+    "total_tokens": 1113,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

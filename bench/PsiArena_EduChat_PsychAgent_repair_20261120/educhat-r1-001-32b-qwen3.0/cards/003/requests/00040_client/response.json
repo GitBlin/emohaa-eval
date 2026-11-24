@@ -1,0 +1,41 @@
+{
+  "id": "604e286c91474f84824738f23a940844",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "互相发现……我好像有点明白了。那我试着先从约一个同事吃饭开始，不搞那么多人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我把交流当作互相发现的乐趣，而不是表演。这让我稍微放松了一点，但心里还是有点打鼓。）\n（想到要主动约同事，又担心被拒绝。之前被拒绝的经历让我有点害怕，但也许可以换个方式试试？比如先找一个人，而不是一群人。）",
+        "reasoning": "（咨询师在鼓励我把交流当作互相发现的乐趣，而不是表演。这让我稍微放松了一点，但心里还是有点打鼓。）\n（想到要主动约同事，又担心被拒绝。之前被拒绝的经历让我有点害怕，但也许可以换个方式试试？比如先找一个人，而不是一群人。）"
+      }
+    }
+  ],
+  "created": 1795153481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 2449,
+    "total_tokens": 2537,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

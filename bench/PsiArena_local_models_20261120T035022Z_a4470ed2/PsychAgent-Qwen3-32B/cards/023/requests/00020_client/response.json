@@ -1,0 +1,41 @@
+{
+  "id": "b119fdaa272644288bda113e02b6d3ef",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了几秒，声音低下去）怕他发火……以前有次吵得厉害，他摔东西，还推过我。我到现在一听见人大声说话，心里就发慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细，我反而有点说不出口。家里那些事不是一句两句能讲清的，尤其提到我爸，我就觉得心口发紧。可她又没催我，只是问“怕发生什么”，这让我想到以前那些场面，脑子有点乱。）",
+        "reasoning": "（她问得挺细，我反而有点说不出口。家里那些事不是一句两句能讲清的，尤其提到我爸，我就觉得心口发紧。可她又没催我，只是问“怕发生什么”，这让我想到以前那些场面，脑子有点乱。）"
+      }
+    }
+  ],
+  "created": 1795147274,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 1894,
+    "total_tokens": 1996,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

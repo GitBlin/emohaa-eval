@@ -1,0 +1,41 @@
+{
+  "id": "629b76400c7548cbb5bad48dce32aff1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我可以试试，不过我不确定当时能不能想起来做。你说的“我在猜测”，是让我自己心里默念就行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "好的，用户愿意尝试这个练习，但可能还在犹豫。需要先确认她是否理解具体怎么做，同时保持支持性语气。她之前提到“想太多”和“猜测”，可以呼应这一点。练习要简单，避免增加负担。可以说“不用做得很完美，只是试试看”。然后询问她是否愿意在下次咨询前记录一次尝试的情况。这样既聚焦行动，又为后续讨论留出空间。保持简短，2-3句。",
+        "reasoning": "好的，用户愿意尝试这个练习，但可能还在犹豫。需要先确认她是否理解具体怎么做，同时保持支持性语气。她之前提到“想太多”和“猜测”，可以呼应这一点。练习要简单，避免增加负担。可以说“不用做得很完美，只是试试看”。然后询问她是否愿意在下次咨询前记录一次尝试的情况。这样既聚焦行动，又为后续讨论留出空间。保持简短，2-3句。"
+      }
+    }
+  ],
+  "created": 1795154690,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2248,
+    "total_tokens": 2374,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

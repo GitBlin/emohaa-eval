@@ -1,0 +1,41 @@
+{
+  "id": "e6f72deb78914cc1bdedabb61940d965",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我觉得它一开始是保护吧，让我别太崩。可后来好像变成习惯了，我连自己到底在难受什么都说不上来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（被打断后停顿）嗯……我觉得它一开始是保护吧，让我别太崩。可后来好像变成习惯了，我连自己到底在难受什么都说不上来。",
+        "reasoning": "（被打断后停顿）嗯……我觉得它一开始是保护吧，让我别太崩。可后来好像变成习惯了，我连自己到底在难受什么都说不上来。"
+      }
+    }
+  ],
+  "created": 1795155265,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 2715,
+    "total_tokens": 2785,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

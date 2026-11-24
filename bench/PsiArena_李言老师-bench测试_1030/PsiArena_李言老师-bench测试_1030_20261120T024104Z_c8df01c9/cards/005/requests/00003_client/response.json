@@ -1,0 +1,41 @@
+{
+  "id": "11060d546ccc4b17a3fd096b2342ae8b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是会想，是不是我哪里说错了，或者对方突然不想理我了……（停顿）不过，我想先问一下，如果咨询之外我情绪上来了，可以给你发消息吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我手机安静时的念头，这让我有点紧张。我还没完全信任她，不想这么快就暴露太多内心想法。而且她问得这么直接，让我有点防备。）\n（我想先试探一下她的专业界限，看看她是不是那种会过度介入的咨询师。如果我问她会不会私下联系我，也许能看出她是不是会保持适当的距离。这样既能保护自己，又能测试她的反应。）",
+        "reasoning": "（咨询师在问我手机安静时的念头，这让我有点紧张。我还没完全信任她，不想这么快就暴露太多内心想法。而且她问得这么直接，让我有点防备。）\n（我想先试探一下她的专业界限，看看她是不是那种会过度介入的咨询师。如果我问她会不会私下联系我，也许能看出她是不是会保持适当的距离。这样既能保护自己，又能测试她的反应。）"
+      }
+    }
+  ],
+  "created": 1795142490,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 1072,
+    "total_tokens": 1203,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

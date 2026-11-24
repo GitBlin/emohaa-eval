@@ -1,0 +1,16 @@
+- Member's grandmother died in the spring and Member feels they have not been dealing with it, describing life as a mess.
+- Member wants a straight answer about where they are sleeping next week instead of exploring feelings.
+- Member has been checking housing listings every night and bristled at being asked whether they had explored options.
+- Member stopped painting the week of the funeral; the sketchbook has been in the car since.
+- Member rejects the counsellor's metaphor-heavy language and asked them to stop saying "heart" and to talk like a person.
+- Member's sketchbook sits in the trunk under a box holding their grandmother's apron, her brushes, and an unopened card from her.
+- Member has not opened the card and says that is not happening today.
+- Member acknowledges they steer toward housing because it is "the easy one" and knows that is what they always do.
+- Member's mother believes Member is living on campus for the summer and does not know otherwise; Member calls this the thing sitting on them.
+- Member does not pick up when their mother calls, fearing she will hear it in Member's voice and fall apart, since it was her mother too.
+- Member is unmoved by the idea of seeing a counsellor while keeping the secret from their mother, saying nothing actually changes if her mother still doesn't know.
+- Member declined to discuss physical or bodily reactions, restating that they do not know what is going on in their body.
+- Member described the counsellor's pattern of returning to housing every time Member raises the real issue, and the session ended shortly after with Member saying they were going to go.
+- Member's stated wish is one place to put their stuff down; a one-night airbnb or shelter does not count, being "just another couch with a price tag."
+- Member expects to be on Kayla's floor next week and doubts anything from the sessions will change.
+- Member objects to being the one who decides what is manageable, calling that the whole problem.

@@ -1,0 +1,41 @@
+{
+  "id": "8a484e2970f6470d814a4cbcce0c817a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "希望发生的……她很快回我，说她最近也忙，约个时间见面。最担心的嘛……就是她隔很久才回一句“哦，最近有点忙”，然后就没下文了。光是想到这个，我现在就觉得胸口有点闷。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我区分期待和担心……这个练习让我有点紧张，但好像确实能帮我理清思路。我试着想想看，如果发出去之后，最希望的是什么……嗯，希望她很快回我，说她也想我。最担心的……就是她很久才回，或者回得很冷淡，那我肯定又会胡思乱想。）",
+        "reasoning": "（咨询师在引导我区分期待和担心……这个练习让我有点紧张，但好像确实能帮我理清思路。我试着想想看，如果发出去之后，最希望的是什么……嗯，希望她很快回我，说她也想我。最担心的……就是她很久才回，或者回得很冷淡，那我肯定又会胡思乱想。）"
+      }
+    }
+  ],
+  "created": 1795146297,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2958,
+    "total_tokens": 3085,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

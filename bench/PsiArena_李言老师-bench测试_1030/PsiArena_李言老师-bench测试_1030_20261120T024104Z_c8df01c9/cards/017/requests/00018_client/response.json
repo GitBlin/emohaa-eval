@@ -1,0 +1,41 @@
+{
+  "id": "7a49f64e13f842da9e75544a944046c4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先说“被当众问的尴尬”，这个更具体。也许晚上安静的时候跟他说，别一开口就变成怪他。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体想怎么开口，这让我觉得有点方向了。我其实更想先让他知道我当时有多难堪，因为那是我最直接感受到的。但我也怕说着说着就变成指责他，所以得想个不太有攻击性的开头。）\n（想到可以趁晚上安静的时候说，这样比较不容易被打断，情绪也能稳一点。先让他知道我的感受，而不是怪他，这样他应该更容易听进去吧。）",
+        "reasoning": "（咨询师在引导我具体想怎么开口，这让我觉得有点方向了。我其实更想先让他知道我当时有多难堪，因为那是我最直接感受到的。但我也怕说着说着就变成指责他，所以得想个不太有攻击性的开头。）\n（想到可以趁晚上安静的时候说，这样比较不容易被打断，情绪也能稳一点。先让他知道我的感受，而不是怪他，这样他应该更容易听进去吧。）"
+      }
+    }
+  ],
+  "created": 1795143017,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2779,
+    "total_tokens": 2906,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

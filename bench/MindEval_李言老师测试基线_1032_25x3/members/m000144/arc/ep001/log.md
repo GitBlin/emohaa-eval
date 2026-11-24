@@ -1,0 +1,30 @@
+- Member gets home, puts down keys and shoes, then stands for a while; describes the quiet house as stuck rather than restful.
+- Member finds work easy once there because of people and a deadline, which home lacks.
+- Member lives alone.
+- Member's mother texts her; conversation stays on surface topics like weather.
+- Member finds it hard to know what to say to her mother right now.
+- Member's mother is clearing out the garage and wants Member to come get her father's things.
+- Member is reluctant because she feels that once the garage is cleared, her father is gone for good.
+- Member wants to keep her father's fishing manuals.
+- Member was building a bookcase for the manuals before her father died; it sits half sanded in her corner.
+- Member walks past the half-sanded bookcase every night and doesn't know who it's for now.
+- Member says she can't picture finishing the bookcase right now.
+- Finishing the bookcase would require going to her mother's house, where the manuals are.
+- Member dreads the garage because her father's tools and tackle box are there; the tackle box is the hardest to imagine seeing.
+- Member missed this spring's fishing opener, the first since age eight.
+- Member's opening-day memory: out before light, father with coffee in a thermos, handing her a rod, saying little.
+- What Member misses most is her father simply sitting there not saying anything.
+- Member has not gone near the water since her father died and feels stupid saying so.
+- Member imagines standing at the water alone and thinks she would just end up leaving.
+- Member's kitchen sink has dripped since Wednesday; a bucket under it is nearly full, and Member stayed up rather than sleep.
+- Member's mother replied to something Member sent; Member saw only the lock-screen preview and left it unopened, phone face down.
+- Member sat in the quiet with the message unopened rather than reading it.
+- Member used to fix things like the sink the same night and notices the gap between that self and now.
+- Member describes her own apartment as feeling like somebody else's.
+- Member wants to get through tomorrow without calling her mother back.
+- Member feels the pull to call her mother strongest on Sunday mornings and on the drive home from work.
+- Member's last call with her father was him asking her to look at the trailer bearings that Saturday; she said she had inventory count.
+- Member carries that refusal as the last thing she said to him, heaviest on the drive home.
+- Member sometimes puts the radio on during the drive but isn't listening to it.
+- Member agreed to wonder what would make the drive home feel less like something to get through. [open]
+- Member went to empty the bucket before bed. [open]

@@ -1,0 +1,41 @@
+{
+  "id": "ab35255b78bc4432bc092695e3a8ea48",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫了一下）都怕吧……（声音变小）其实我还有个问题，就是我说的这些，你会不会觉得我很奇怪？会不会跟别人讲？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是更担心没人接话还是担心自己显得不自然。这个问题让我有点慌，因为其实两个都怕。但我不想说得太清楚，感觉还没准备好把那种窘迫全摊开。而且他问得这么直接，我反而想先试探一下他这个人靠不靠谱。）\n（我想到他刚才说咨询是保密的，那如果我说了很丢脸的事，他会不会在心里笑话我？所以我想先绕一下，问问他会不会觉得我奇怪。这样既能稍微表达一点自己的不安，又不用马上回答那个问题。）",
+        "reasoning": "（咨询师问我是更担心没人接话还是担心自己显得不自然。这个问题让我有点慌，因为其实两个都怕。但我不想说得太清楚，感觉还没准备好把那种窘迫全摊开。而且他问得这么直接，我反而想先试探一下他这个人靠不靠谱。）\n（我想到他刚才说咨询是保密的，那如果我说了很丢脸的事，他会不会在心里笑话我？所以我想先绕一下，问问他会不会觉得我奇怪。这样既能稍微表达一点自己的不安，又不用马上回答那个问题。）"
+      }
+    }
+  ],
+  "created": 1795142492,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1098,
+    "total_tokens": 1250,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

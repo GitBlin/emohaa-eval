@@ -1,0 +1,41 @@
+{
+  "id": "ce74b259016c42769900e24218f25f90",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧……开会的时候，领导看了我的方案，没说什么，但我就是觉得不太对劲。那天回家以后一直想着这事，也说不上来是烦还是什么，就是心里有点刺。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我具体说一个最近的时刻……但我有点犹豫，不太确定该说多少。他会不会像其他人一样，觉得我太敏感？还是先随便说个大概吧，别一下子全讲出来。）\n（上周开会那件事……其实我到现在想起来还有点不舒服。但说“有点刺”应该就够了，不用细说。看看他接下来怎么问。）",
+        "reasoning": "（咨询师想让我具体说一个最近的时刻……但我有点犹豫，不太确定该说多少。他会不会像其他人一样，觉得我太敏感？还是先随便说个大概吧，别一下子全讲出来。）\n（上周开会那件事……其实我到现在想起来还有点不舒服。但说“有点刺”应该就够了，不用细说。看看他接下来怎么问。）"
+      }
+    }
+  ],
+  "created": 1795155126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1065,
+    "total_tokens": 1186,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "301e011249ab49b48dd5a42ccb1fcfe9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "情绪日记……听着有点麻烦。不过，我最近确实总因为一些事烦躁，可能跟……跟男朋友有点关系吧，但也不全是。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到情绪日记和规律，感觉是想帮我找到情绪变化的线索。但我不太想直接承认自己情绪有问题，好像显得我很脆弱似的。不过最近确实总因为他的事烦躁，也许可以稍微提一下这个方向，看看咨询师会怎么接。）\n（作为敏感又保守的人，我习惯把真实想法藏得很深。直接说“因为男友”太暴露了，得用模糊的说法试探一下。如果咨询师能理解这种隐晦的表达，或许可以再往下聊一点点。）",
+        "reasoning": "（咨询师提到情绪日记和规律，感觉是想帮我找到情绪变化的线索。但我不太想直接承认自己情绪有问题，好像显得我很脆弱似的。不过最近确实总因为他的事烦躁，也许可以稍微提一下这个方向，看看咨询师会怎么接。）\n（作为敏感又保守的人，我习惯把真实想法藏得很深。直接说“因为男友”太暴露了，得用模糊的说法试探一下。如果咨询师能理解这种隐晦的表达，或许可以再往下聊一点点。）"
+      }
+    }
+  ],
+  "created": 1795154720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1478,
+    "total_tokens": 1618,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

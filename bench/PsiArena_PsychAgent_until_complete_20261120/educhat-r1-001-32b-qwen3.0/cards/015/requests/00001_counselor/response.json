@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-1b173f4472d0475c85f178293d7340bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，我是你的心理咨询师。可以告诉我你最近有什么困扰吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：初次接触，建立信任关系。\n【行动策略】：自我介绍并鼓励来访者表达。\n",
+        "reasoning_content": "\n【诊断分析】：初次接触，建立信任关系。\n【行动策略】：自我介绍并鼓励来访者表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153940,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 44,
+    "prompt_tokens": 196,
+    "total_tokens": 240,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

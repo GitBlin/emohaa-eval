@@ -1,0 +1,41 @@
+{
+  "id": "bc8877acdb4c4f6c97947cea9cc6ec47",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，我试试……（停顿）三次，是吧。做完之后，好像没那么顶着了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我再做三次呼吸。我其实有点想快点结束这个练习，不太习惯一直盯着身体的感觉。但他说“陪着这块紧”，不是要把它赶走，这让我没那么抗拒。也许我可以试试，反正就三次。）",
+        "reasoning": "（咨询师让我再做三次呼吸。我其实有点想快点结束这个练习，不太习惯一直盯着身体的感觉。但他说“陪着这块紧”，不是要把它赶走，这让我没那么抗拒。也许我可以试试，反正就三次。）"
+      }
+    }
+  ],
+  "created": 1795148859,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2123,
+    "total_tokens": 2195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

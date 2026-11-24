@@ -1,0 +1,41 @@
+{
+  "id": "49e3260336574e77ac8077d2da509d08",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头抠着手指）嗯……大概听懂了。那，那我是不是得说很多事啊？我……我也不太清楚自己为啥这么难受，就是有时候不想说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会保密，只有危险的时候才例外……听起来好像还行。但是我还是不太懂，咨询到底要做什么呢？她会不会一直问我很多问题，让我说那些我不想说的事情。我得先问问清楚，不能随便就相信她。）",
+        "reasoning": "（咨询师说会保密，只有危险的时候才例外……听起来好像还行。但是我还是不太懂，咨询到底要做什么呢？她会不会一直问我很多问题，让我说那些我不想说的事情。我得先问问清楚，不能随便就相信她。）"
+      }
+    }
+  ],
+  "created": 1795153575,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 990,
+    "total_tokens": 1082,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

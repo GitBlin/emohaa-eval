@@ -1,0 +1,41 @@
+{
+  "id": "1f921466f13e488d8adfd6e581efc499",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了一会儿）小时候家里聚会，我爸总爱当着别人面说我成绩怎么样，考得好就笑，考不好就摇头。那时候我就觉得，好像我这个人怎么样，全看那个分数。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户角色：17岁男生，内向敏感，传统中产家庭。咨询师问“最早从父母的哪些话或做法里最明显感受到这种被量的感觉”。需要回答中揭示文化背景和过去经历，但保持简短、犹豫、口语化。可以提到小时候家庭聚会、父母拿他和别人比、或者父母和朋友亲密互动让他羡慕又无奈。要自然，不要一次说太多。）",
+        "reasoning": "（用户角色：17岁男生，内向敏感，传统中产家庭。咨询师问“最早从父母的哪些话或做法里最明显感受到这种被量的感觉”。需要回答中揭示文化背景和过去经历，但保持简短、犹豫、口语化。可以提到小时候家庭聚会、父母拿他和别人比、或者父母和朋友亲密互动让他羡慕又无奈。要自然，不要一次说太多。）"
+      }
+    }
+  ],
+  "created": 1795153455,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1873,
+    "total_tokens": 2002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

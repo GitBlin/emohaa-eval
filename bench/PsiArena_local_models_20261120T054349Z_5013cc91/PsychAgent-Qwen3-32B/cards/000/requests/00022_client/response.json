@@ -1,0 +1,41 @@
+{
+  "id": "34fc6e0336b14752992bcef608a00e57",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会更努力吧，工作上尽量不出错。跟人相处时就……先观察，不太敢主动，怕说错话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我面对“不够好”的担心时会怎么做……这让我想起小时候，好像只有把事情做得完美才能让爸妈满意。现在在同事面前，我也总是先观察别人怎么反应，再决定自己该说什么，特别累。可这种“藏起来”的方式好像又让我更孤独了。）",
+        "reasoning": "（咨询师在问我面对“不够好”的担心时会怎么做……这让我想起小时候，好像只有把事情做得完美才能让爸妈满意。现在在同事面前，我也总是先观察别人怎么反应，再决定自己该说什么，特别累。可这种“藏起来”的方式好像又让我更孤独了。）"
+      }
+    }
+  ],
+  "created": 1795153456,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1885,
+    "total_tokens": 1981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

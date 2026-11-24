@@ -1,0 +1,41 @@
+{
+  "id": "449de7c07cfa470aa77a50025085f4ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "递纸巾……（声音变小）我怕别人看到会说什么。而且，万一他觉得我多管闲事呢？我们平时也不怎么说话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到递纸巾这样的小举动，让我觉得好像有点可行，但又觉得没那么简单。我想到班里那些同学的眼神，他们可能会笑我多管闲事。）\n（而且我其实更在意的是他会不会觉得我奇怪，毕竟我们平时也没怎么说过话。这种担心让我有点退缩，但又不想完全否定这个建议。）",
+        "reasoning": "（咨询师提到递纸巾这样的小举动，让我觉得好像有点可行，但又觉得没那么简单。我想到班里那些同学的眼神，他们可能会笑我多管闲事。）\n（而且我其实更在意的是他会不会觉得我奇怪，毕竟我们平时也没怎么说过话。这种担心让我有点退缩，但又不想完全否定这个建议。）"
+      }
+    }
+  ],
+  "created": 1795154880,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1950,
+    "total_tokens": 2053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

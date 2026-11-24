@@ -1,0 +1,41 @@
+{
+  "id": "3aeb7979dff74d1a8a7c6dacba996892",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "对……特别累。而且奇怪的是，我好像只有先把自己说得很差，她才愿意多听我说几句。要是我就说“最近挺好的”，她反而很快就没话了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这次直接点出了“替对方想批评”这个模式……我从来没这样想过。他说得对，我确实总在提前预演最坏的情况。这让我想起小时候，每次考试前我妈都会说“别考砸了”，虽然她可能只是提醒，但我听着就像是在说“你肯定会考砸”。现在跟同事相处也这样，总觉得别人在等着看我出错。但这样活着真的好累啊，好像永远在准备接受审判。）",
+        "reasoning": "（咨询师这次直接点出了“替对方想批评”这个模式……我从来没这样想过。他说得对，我确实总在提前预演最坏的情况。这让我想起小时候，每次考试前我妈都会说“别考砸了”，虽然她可能只是提醒，但我听着就像是在说“你肯定会考砸”。现在跟同事相处也这样，总觉得别人在等着看我出错。但这样活着真的好累啊，好像永远在准备接受审判。）"
+      }
+    }
+  ],
+  "created": 1795154212,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1932,
+    "total_tokens": 2070,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

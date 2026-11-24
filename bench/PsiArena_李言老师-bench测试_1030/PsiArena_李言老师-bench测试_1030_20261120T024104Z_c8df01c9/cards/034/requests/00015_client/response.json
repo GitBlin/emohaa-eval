@@ -1,0 +1,41 @@
+{
+  "id": "b212013c3e38420db5ecf035dbe6a303",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最怕他听完后觉得我“变了”，不是我原来那个样子了。那我会特别羞耻，好像我之前都在装。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像真的理解了我的害怕，不是简单地劝我勇敢，而是点出了我怕被远离。这让我稍微敢往深处想一点，但又觉得说出来很羞耻。）\n（我可能还是太在意他的评价了，尤其是怕被说“变了”，好像那会证明我确实有问题。这种害怕让我连具体怎么看他都不敢细想。）",
+        "reasoning": "（咨询师好像真的理解了我的害怕，不是简单地劝我勇敢，而是点出了我怕被远离。这让我稍微敢往深处想一点，但又觉得说出来很羞耻。）\n（我可能还是太在意他的评价了，尤其是怕被说“变了”，好像那会证明我确实有问题。这种害怕让我连具体怎么看他都不敢细想。）"
+      }
+    }
+  ],
+  "created": 1795143315,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2426,
+    "total_tokens": 2529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

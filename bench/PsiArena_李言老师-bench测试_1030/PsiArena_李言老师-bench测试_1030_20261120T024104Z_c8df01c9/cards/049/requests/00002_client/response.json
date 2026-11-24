@@ -1,0 +1,41 @@
+{
+  "id": "5a7620bef3b34204b0a639721a508955",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我明白了……那咨询师会不会对我说的东西有评判？我家里一直比较强调理性，我不太习惯把情绪拿出来讲。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的基本流程，还问我想先聊困扰还是了解具体运作。这说明她确实在按专业方式引导，但我还是有点不确定该不该完全信任这个环境。毕竟家里从小就不太谈情绪，突然要跟陌生人说这些，总觉得不太自在。）\n（作为习惯理性思考的人，我需要先确认咨询的边界在哪里。虽然她说了可以随时喊停，但我想知道更具体的东西——比如咨询师会不会对我的想法有评判。这种试探可能有点冒犯，但如果不问清楚，我可能很难真正敞开心扉。）",
+        "reasoning": "（刚才咨询师解释了咨询的基本流程，还问我想先聊困扰还是了解具体运作。这说明她确实在按专业方式引导，但我还是有点不确定该不该完全信任这个环境。毕竟家里从小就不太谈情绪，突然要跟陌生人说这些，总觉得不太自在。）\n（作为习惯理性思考的人，我需要先确认咨询的边界在哪里。虽然她说了可以随时喊停，但我想知道更具体的东西——比如咨询师会不会对我的想法有评判。这种试探可能有点冒犯，但如果不问清楚，我可能很难真正敞开心扉。）"
+      }
+    }
+  ],
+  "created": 1795143681,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 966,
+    "total_tokens": 1114,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

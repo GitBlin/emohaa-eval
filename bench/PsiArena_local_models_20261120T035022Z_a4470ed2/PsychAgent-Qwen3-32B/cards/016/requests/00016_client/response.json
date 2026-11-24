@@ -1,0 +1,41 @@
+{
+  "id": "abf84e059cc24ee4a47609dbc50c8d76",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我大多数时候都憋着，偶尔跟妈妈提一点，又马上后悔。家里从小就说要懂事、顾全大局，我好像习惯了先忍着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到习惯憋着还是偶尔说出来，这让我想起小时候家里那种“别多问”的气氛。其实我挺想说的，但又怕说出来就收不住，尤其现在父亲那些迹象让我更不敢开口。）\n（妈妈一直教我懂事，要顾全大局，所以我习惯了先忍着。可越忍心里越堵，有时候晚上翻来覆去都在想这些事。）",
+        "reasoning": "（咨询师问到习惯憋着还是偶尔说出来，这让我想起小时候家里那种“别多问”的气氛。其实我挺想说的，但又怕说出来就收不住，尤其现在父亲那些迹象让我更不敢开口。）\n（妈妈一直教我懂事，要顾全大局，所以我习惯了先忍着。可越忍心里越堵，有时候晚上翻来覆去都在想这些事。）"
+      }
+    }
+  ],
+  "created": 1795147064,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 1741,
+    "total_tokens": 1857,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

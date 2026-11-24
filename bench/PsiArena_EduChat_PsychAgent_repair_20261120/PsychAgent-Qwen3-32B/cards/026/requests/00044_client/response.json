@@ -1,0 +1,41 @@
+{
+  "id": "ab21ad65295244b0ad4793cd2686f130",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录一次……行，我试试。不过我不想写太多，就简单记一下当时停没停下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我记录一次尝试，我有点犹豫。写下来会不会太刻意了？但她说得挺温和的，而且只记一次，应该不会太麻烦。我担心自己做不到，可又觉得试试也无妨。先答应下来，看看这周能不能做到。）",
+        "reasoning": "（咨询师让我记录一次尝试，我有点犹豫。写下来会不会太刻意了？但她说得挺温和的，而且只记一次，应该不会太麻烦。我担心自己做不到，可又觉得试试也无妨。先答应下来，看看这周能不能做到。）"
+      }
+    }
+  ],
+  "created": 1795154384,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 3167,
+    "total_tokens": 3249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

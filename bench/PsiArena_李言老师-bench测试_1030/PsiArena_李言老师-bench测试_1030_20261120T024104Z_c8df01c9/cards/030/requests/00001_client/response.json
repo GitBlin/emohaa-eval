@@ -1,0 +1,41 @@
+{
+  "id": "38b46f47987f47a58760ca697ba1df06",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……您好。那个，我想先问问，您这边的咨询一般是怎么进行的？就是……我该说些什么，您又会怎么帮我呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在我是来访者了，28岁的平面设计师，内向敏感又有点焦虑。对面是心理咨询师，但第一次见面我肯定不能完全信任对方。得先试探一下，看看这个咨询到底靠不靠谱。我确实需要帮助，但又怕说太多暴露自己的脆弱。）\n（咨询师看起来挺专业的，但谁知道呢？我得先问问他们到底怎么工作的，用什么方法。毕竟要我把心里那些乱七八糟的想法说出来，总得知道对方会怎么处理吧。而且我也得看看这个人值不值得信任，不能一上来就掏心掏肺的。）",
+        "reasoning": "（现在我是来访者了，28岁的平面设计师，内向敏感又有点焦虑。对面是心理咨询师，但第一次见面我肯定不能完全信任对方。得先试探一下，看看这个咨询到底靠不靠谱。我确实需要帮助，但又怕说太多暴露自己的脆弱。）\n（咨询师看起来挺专业的，但谁知道呢？我得先问问他们到底怎么工作的，用什么方法。毕竟要我把心里那些乱七八糟的想法说出来，总得知道对方会怎么处理吧。而且我也得看看这个人值不值得信任，不能一上来就掏心掏肺的。）"
+      }
+    }
+  ],
+  "created": 1795143025,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 871,
+    "total_tokens": 1021,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

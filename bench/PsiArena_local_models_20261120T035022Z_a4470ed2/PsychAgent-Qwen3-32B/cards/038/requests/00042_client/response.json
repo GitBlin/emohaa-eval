@@ -1,0 +1,41 @@
+{
+  "id": "28cc0dbb9b994deda7ad99f89adfdb7d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "喉咙没那么紧了，差不多吧……心里还是有点悬着，毕竟只是练习，真到那时候不知道会不会又缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我身体和情绪的变化……刚才练习的时候确实比想象中好一点，至少没有卡住。但我还是有点不习惯被这样仔细地问感受，好像要把自己拆开来看。不过既然都说到这儿了，就老实说吧，喉咙没那么紧了，但心里还是悬着，毕竟练习和真到那时候不一样。）",
+        "reasoning": "（咨询师问我身体和情绪的变化……刚才练习的时候确实比想象中好一点，至少没有卡住。但我还是有点不习惯被这样仔细地问感受，好像要把自己拆开来看。不过既然都说到这儿了，就老实说吧，喉咙没那么紧了，但心里还是悬着，毕竟练习和真到那时候不一样。）"
+      }
+    }
+  ],
+  "created": 1795148134,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2969,
+    "total_tokens": 3068,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

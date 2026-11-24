@@ -1,0 +1,41 @@
+{
+  "id": "62af5e2b52914ef9b6a21a2b877ef7ad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我试试……“我今天按时起床了，感觉还不错”。说出来还是怪怪的，但好像也没那么可怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我用更积极的方式表达需求，这让我想起小时候只有表现不好才能得到妈妈注意的无奈。但直接说“我正在进步”还是觉得别扭，好像承认自己需要被关注是件羞耻的事。）\n（不过刚才讨论的保护机制让我意识到，这种自我贬低确实和家庭有关。也许可以试着表达一下这种矛盾感，既想改变又害怕改变。）",
+        "reasoning": "（咨询师在引导我用更积极的方式表达需求，这让我想起小时候只有表现不好才能得到妈妈注意的无奈。但直接说“我正在进步”还是觉得别扭，好像承认自己需要被关注是件羞耻的事。）\n（不过刚才讨论的保护机制让我意识到，这种自我贬低确实和家庭有关。也许可以试着表达一下这种矛盾感，既想改变又害怕改变。）"
+      }
+    }
+  ],
+  "created": 1795148453,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2125,
+    "total_tokens": 2233,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

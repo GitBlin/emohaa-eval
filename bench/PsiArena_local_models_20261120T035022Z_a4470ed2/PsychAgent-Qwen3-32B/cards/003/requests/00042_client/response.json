@@ -1,0 +1,41 @@
+{
+  "id": "cb0f199ca9854162851b2587a2e0271e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，那我写。不过我有点担心，写了之后过两天又忘了，又回到原来的样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（对方说得很温和，让我心里松了一点。但我还是有点不放心，怕自己写下来之后做不到，或者又变回原来那样。得问清楚一点，不能光说“试试”就完了。）",
+        "reasoning": "（对方说得很温和，让我心里松了一点。但我还是有点不放心，怕自己写下来之后做不到，或者又变回原来那样。得问清楚一点，不能光说“试试”就完了。）"
+      }
+    }
+  ],
+  "created": 1795146794,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 2969,
+    "total_tokens": 3037,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

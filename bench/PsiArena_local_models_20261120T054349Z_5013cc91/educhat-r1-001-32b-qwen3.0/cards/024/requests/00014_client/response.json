@@ -1,0 +1,41 @@
+{
+  "id": "5bc50f029ad4432890a7fa52fd1f615e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说实话，我也不太确定……就是觉得心里很乱，又不知道从哪儿说起。您觉得我这种情况，能通过咨询改善吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师似乎注意到了我的情绪压抑问题，还问我想怎么被帮助。但说实话，我连自己到底需要什么都搞不清楚。她提到“长期压抑会耗尽心力”，这句话让我心里一紧，好像被说中了什么。）\n（作为从小被教育要忍耐的人，我其实不太习惯直接表达需求。现在突然被问希望怎么被帮助，反而有点不知所措。可能先承认自己混乱的状态比较安全，毕竟连我自己都理不清这些乱糟糟的情绪。）",
+        "reasoning": "（这位咨询师似乎注意到了我的情绪压抑问题，还问我想怎么被帮助。但说实话，我连自己到底需要什么都搞不清楚。她提到“长期压抑会耗尽心力”，这句话让我心里一紧，好像被说中了什么。）\n（作为从小被教育要忍耐的人，我其实不太习惯直接表达需求。现在突然被问希望怎么被帮助，反而有点不知所措。可能先承认自己混乱的状态比较安全，毕竟连我自己都理不清这些乱糟糟的情绪。）"
+      }
+    }
+  ],
+  "created": 1795154373,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 1388,
+    "total_tokens": 1521,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

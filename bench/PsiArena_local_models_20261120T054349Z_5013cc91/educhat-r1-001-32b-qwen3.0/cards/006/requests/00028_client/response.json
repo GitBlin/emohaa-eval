@@ -1,0 +1,41 @@
+{
+  "id": "d7d81a886f454cf38e735e29cd748b01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（皱眉）安全网……（想了一下）可能更像家里那张旧沙发吧，塌下去也不会摔疼。……不过说真的，现实里哪有这种东西。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用“安全网”这个比喻，是想让我把“犯错”从可怕的东西变成可以接住的东西。我想到家里的沙发，是因为那是我唯一能稍微放松的地方，但后面又觉得藤条更真实——毕竟现实里没人会真的接住我，只能自己硬扛。这种矛盾感让我有点烦躁，不想把话说得太理想化。）",
+        "reasoning": "（咨询师用“安全网”这个比喻，是想让我把“犯错”从可怕的东西变成可以接住的东西。我想到家里的沙发，是因为那是我唯一能稍微放松的地方，但后面又觉得藤条更真实——毕竟现实里没人会真的接住我，只能自己硬扛。这种矛盾感让我有点烦躁，不想把话说得太理想化。）"
+      }
+    }
+  ],
+  "created": 1795153629,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2233,
+    "total_tokens": 2347,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

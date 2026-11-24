@@ -1,0 +1,41 @@
+{
+  "id": "aeec25fd1246443fa98428fb132ce007",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“先停一下”……听起来简单，但做起来难。我有时候会一直转，停不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我想一个暂停信号……其实我脑子里已经习惯了一直转，停下来反而更慌。但他说得对，我总得试试。不过，光靠想个信号真的有用吗？我有点怀疑，又不想直接泼冷水。）",
+        "reasoning": "（咨询师让我想一个暂停信号……其实我脑子里已经习惯了一直转，停下来反而更慌。但他说得对，我总得试试。不过，光靠想个信号真的有用吗？我有点怀疑，又不想直接泼冷水。）"
+      }
+    }
+  ],
+  "created": 1795154829,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 2104,
+    "total_tokens": 2183,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 55,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b9f9badc12a749bab0f69126b7acd59e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）对，先吸一口气再开口，这个我能记住。那……要是停下来了，可我还是忍不住想说“是我不好”，怎么办？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（继续想）吸气好像比较自然。我可以在心里数一下，吸一口气，再说话。这样应该能提醒自己别急着认错。",
+        "reasoning": "（继续想）吸气好像比较自然。我可以在心里数一下，吸一口气，再说话。这样应该能提醒自己别急着认错。"
+      }
+    }
+  ],
+  "created": 1795147269,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2854,
+    "total_tokens": 2918,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

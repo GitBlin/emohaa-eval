@@ -1,0 +1,41 @@
+{
+  "id": "771a4aa56b904ea79c00cf7ec0fa5eb2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我不确定……可能她只是随口一说。但我就是会往自己身上想，好像总怕别人觉得我难相处。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我是不是把同事的话往自己身上套……其实我也分不清。她那么随口一说，我却记了这么久，可能确实是我自己太敏感了。但直接承认又有点难堪，好像显得我很在意别人看法似的。）",
+        "reasoning": "（咨询师在问我是不是把同事的话往自己身上套……其实我也分不清。她那么随口一说，我却记了这么久，可能确实是我自己太敏感了。但直接承认又有点难堪，好像显得我很在意别人看法似的。）"
+      }
+    }
+  ],
+  "created": 1795153452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 1682,
+    "total_tokens": 1763,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

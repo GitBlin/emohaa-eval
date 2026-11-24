@@ -1,0 +1,41 @@
+{
+  "id": "6d8fef8fcbc54608beffe3644a2a1358",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻吸一口气）行，我试试。你突然说“为你好”，我可能会先愣一下……然后拇指碰一下，心里说“又来了，等一下”。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍作停顿）行，我试试。你突然说“为你好”，我可能会先愣一下……然后拇指碰一下，心里说“又来了，等一下”。",
+        "reasoning": "（稍作停顿）行，我试试。你突然说“为你好”，我可能会先愣一下……然后拇指碰一下，心里说“又来了，等一下”。"
+      }
+    }
+  ],
+  "created": 1795154269,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 74,
+    "prompt_tokens": 3728,
+    "total_tokens": 3802,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 37,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

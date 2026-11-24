@@ -1,0 +1,41 @@
+{
+  "id": "e5f2972bb6d242ad87ab7150dac6dd13",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（摇头）试过……但去了几次就不想去了。总觉得别人给不了那种被完全理解的感觉。（咬了咬嘴唇）说出来有点难为情，我好像对那个咨询师产生了不该有的感情，明知道这样不对……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到了寻找其他支持，但我现在满脑子都是之前那位咨询师的事。他好像没理解我说的重点，我不是在找普通社交支持，而是那种被完全理解的感觉。其他人根本给不了。）\n（也许我该更直接地表达这种矛盾。毕竟现在已经开始信任咨询师了，可以稍微说深一点。但提到“喜欢”这个词还是有点难为情，得委婉点说出来。）",
+        "reasoning": "（咨询师提到了寻找其他支持，但我现在满脑子都是之前那位咨询师的事。他好像没理解我说的重点，我不是在找普通社交支持，而是那种被完全理解的感觉。其他人根本给不了。）\n（也许我该更直接地表达这种矛盾。毕竟现在已经开始信任咨询师了，可以稍微说深一点。但提到“喜欢”这个词还是有点难为情，得委婉点说出来。）"
+      }
+    }
+  ],
+  "created": 1795150160,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1682,
+    "total_tokens": 1820,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

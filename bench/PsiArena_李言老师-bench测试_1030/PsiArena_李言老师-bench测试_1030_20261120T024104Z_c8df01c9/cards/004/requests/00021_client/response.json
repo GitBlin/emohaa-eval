@@ -1,0 +1,41 @@
+{
+  "id": "8088d0def9b940c7ac891a09031f5c8f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "还没试呢……我还没敢说。要不我先在家练两遍，明天路过的时候再试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像没明白我还没试过呢。我还在担心怎么说这件事，她就问我奶奶有没有回应，这让我有点慌。我是不是得先告诉她我还没去说？）\n（不过她说的靠近一点、看着奶奶说，好像也没那么难。我想先自己练一练，这样真说的时候可能不会那么紧张。至少先把这个小计划定下来。）",
+        "reasoning": "（她好像没明白我还没试过呢。我还在担心怎么说这件事，她就问我奶奶有没有回应，这让我有点慌。我是不是得先告诉她我还没去说？）\n（不过她说的靠近一点、看着奶奶说，好像也没那么难。我想先自己练一练，这样真说的时候可能不会那么紧张。至少先把这个小计划定下来。）"
+      }
+    }
+  ],
+  "created": 1795142646,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2764,
+    "total_tokens": 2867,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

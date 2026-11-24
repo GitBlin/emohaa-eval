@@ -1,0 +1,41 @@
+{
+  "id": "b72ec936108141c98e0655671618f71e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安全的环境……（犹豫）在这儿算吗？我发现自己老是把人往外推，推完又觉得孤单。挺矛盾的，对吧？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用“雨天的房子”这个比喻，好像一下子说中了我心里的感觉。长期绷着，确实连放松是什么滋味都快忘了。但“安全的环境”这几个字让我有点犹豫，哪里才算安全呢？）\n（我想到平时跟人相处，总是先竖起刺来，生怕别人看出我的紧张。可这样下去，好像把所有人都推远了。也许可以试着说说看，哪怕只是一点点。）",
+        "reasoning": "（咨询师用“雨天的房子”这个比喻，好像一下子说中了我心里的感觉。长期绷着，确实连放松是什么滋味都快忘了。但“安全的环境”这几个字让我有点犹豫，哪里才算安全呢？）\n（我想到平时跟人相处，总是先竖起刺来，生怕别人看出我的紧张。可这样下去，好像把所有人都推远了。也许可以试着说说看，哪怕只是一点点。）"
+      }
+    }
+  ],
+  "created": 1795148546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2071,
+    "total_tokens": 2191,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

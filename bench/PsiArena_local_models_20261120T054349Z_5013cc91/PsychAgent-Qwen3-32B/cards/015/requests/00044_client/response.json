@@ -1,0 +1,41 @@
+{
+  "id": "f36017315d7342509ee01341b3e5b0ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "散步吧，或者写两句。其实我有点怕一个人待着，一安静下来就乱想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿了一下）嗯……可以试试。那如果他拒绝，我做什么能让自己安定一点呢？我好像除了刷手机，也没别的办法。",
+        "reasoning": "（停顿了一下）嗯……可以试试。那如果他拒绝，我做什么能让自己安定一点呢？我好像除了刷手机，也没别的办法。"
+      }
+    }
+  ],
+  "created": 1795153998,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 3063,
+    "total_tokens": 3118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

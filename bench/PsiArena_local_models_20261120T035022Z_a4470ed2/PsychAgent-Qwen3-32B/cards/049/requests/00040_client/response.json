@@ -1,0 +1,41 @@
+{
+  "id": "01fee617123341ec9a897846063799f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，从10秒开始，这个我能接受。不过“给自己耐心”这话，我听着有点别扭……我好像一直都不太会对自己耐心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才好像重复了我上一轮说的话……不过没关系，她是在强调可以按我的节奏来。我确实需要这个确认——我太容易逼自己了。但“给自己耐心”这话我听着有点别扭，好像我一直在逼自己，又好像我根本做不到不逼自己。也许我该问问，怎么才算给自己耐心？）",
+        "reasoning": "（咨询师刚才好像重复了我上一轮说的话……不过没关系，她是在强调可以按我的节奏来。我确实需要这个确认——我太容易逼自己了。但“给自己耐心”这话我听着有点别扭，好像我一直在逼自己，又好像我根本做不到不逼自己。也许我该问问，怎么才算给自己耐心？）"
+      }
+    }
+  ],
+  "created": 1795148871,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2941,
+    "total_tokens": 3048,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

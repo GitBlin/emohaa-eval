@@ -1,0 +1,41 @@
+{
+  "id": "7b5dcca9f62746849c2352a561921096",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "安全……嗯，好吧。其实我也说不太清楚，就是最近心里挺乱的，有时候会……唉，我不知道从哪说起。就是感觉自己老是控制不住一些事情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说这里很安全，可我还是不太敢完全相信。他让我直接说烦恼，但我连咨询到底怎么进行都还没搞清楚，心里有点防备。也许先随便说点表面的东西，看看他会不会评判我。）\n（我确实最近心里很乱，但要说清楚又觉得很难。一开口就有点卡住了，不知道从哪讲起，只能先含糊地提一下“控制不住”这件事。）",
+        "reasoning": "（咨询师说这里很安全，可我还是不太敢完全相信。他让我直接说烦恼，但我连咨询到底怎么进行都还没搞清楚，心里有点防备。也许先随便说点表面的东西，看看他会不会评判我。）\n（我确实最近心里很乱，但要说清楚又觉得很难。一开口就有点卡住了，不知道从哪讲起，只能先含糊地提一下“控制不住”这件事。）"
+      }
+    }
+  ],
+  "created": 1795154539,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 956,
+    "total_tokens": 1083,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

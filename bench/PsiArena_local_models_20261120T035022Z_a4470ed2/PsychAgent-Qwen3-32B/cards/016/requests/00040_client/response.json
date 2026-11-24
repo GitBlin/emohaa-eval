@@ -1,0 +1,41 @@
+{
+  "id": "f776c9726fdf48fd98b38464dd089a3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，不过我有点紧张，怕做不好。你是说让我现在就说几个词吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议做一个小练习，把今天的要点放好。我其实有点犹豫，因为平时不太习惯这种“标记情绪”的方式，但刚才聊下来，感觉她不是要逼我立刻做决定，而是让我先稳住自己。我想试试看，可又怕自己说得太乱，反而更焦虑。也许我该先问问具体怎么做，别一下子答应太多。）",
+        "reasoning": "（咨询师建议做一个小练习，把今天的要点放好。我其实有点犹豫，因为平时不太习惯这种“标记情绪”的方式，但刚才聊下来，感觉她不是要逼我立刻做决定，而是让我先稳住自己。我想试试看，可又怕自己说得太乱，反而更焦虑。也许我该先问问具体怎么做，别一下子答应太多。）"
+      }
+    }
+  ],
+  "created": 1795147104,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 3021,
+    "total_tokens": 3123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

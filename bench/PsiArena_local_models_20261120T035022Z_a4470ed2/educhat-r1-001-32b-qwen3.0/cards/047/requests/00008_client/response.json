@@ -1,0 +1,41 @@
+{
+  "id": "7837d0f4c2534925b5d2695234e4fcd9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……（犹豫）我说了你会不会觉得我太敏感？其实我想先问一下，我们聊的这些，你会不会告诉别人，或者记录到什么地方去？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体情境，但我现在还没准备好说那么细。而且我也想知道，如果我在这里说了什么，会不会被记录下来给别人看……这让我有点不安。）\n（作为来访者，我还在试探阶段，需要先确认自己的隐私是否安全。直接问这个可能有点冒犯，但我真的在意。也许可以稍微绕一下，先表达我的担心，看看咨询师怎么回应。）",
+        "reasoning": "（咨询师在问我具体情境，但我现在还没准备好说那么细。而且我也想知道，如果我在这里说了什么，会不会被记录下来给别人看……这让我有点不安。）\n（作为来访者，我还在试探阶段，需要先确认自己的隐私是否安全。直接问这个可能有点冒犯，但我真的在意。也许可以稍微绕一下，先表达我的担心，看看咨询师怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795150195,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1110,
+    "total_tokens": 1230,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

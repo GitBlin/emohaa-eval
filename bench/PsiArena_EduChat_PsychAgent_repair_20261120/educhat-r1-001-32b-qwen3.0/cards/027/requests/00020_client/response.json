@@ -1,0 +1,41 @@
+{
+  "id": "48a2dc4c24fe4ca5becc1db1a5d0f30e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "朋友……有几个关系还行的，但我不太想拿家里的事去烦他们。而且说实话，有时候同事夸我做得好的时候，我反而更慌，因为我妈知道了肯定又要说风凉话。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到寻找其他支持系统，这让我想起朋友和同事其实给过我不少鼓励。但每次想到这些支持，心里反而更矛盾——因为家里尤其是妈妈的态度总是像一盆冷水浇下来。）\n（我意识到自己其实一直在两种声音之间拉扯：一边是外界对我的认可，一边是妈妈不断的否定。这种拉扯让我特别困惑，好像我永远没法让所有人满意，尤其是妈妈。也许这就是我焦虑的根源之一吧。）",
+        "reasoning": "（心理咨询师提到寻找其他支持系统，这让我想起朋友和同事其实给过我不少鼓励。但每次想到这些支持，心里反而更矛盾——因为家里尤其是妈妈的态度总是像一盆冷水浇下来。）\n（我意识到自己其实一直在两种声音之间拉扯：一边是外界对我的认可，一边是妈妈不断的否定。这种拉扯让我特别困惑，好像我永远没法让所有人满意，尤其是妈妈。也许这就是我焦虑的根源之一吧。）"
+      }
+    }
+  ],
+  "created": 1795154551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 1674,
+    "total_tokens": 1814,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

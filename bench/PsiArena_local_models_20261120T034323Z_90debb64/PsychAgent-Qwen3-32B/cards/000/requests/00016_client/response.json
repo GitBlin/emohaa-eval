@@ -1,0 +1,41 @@
+{
+  "id": "a36a1ac5549f49e0a9475edefe9744c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "别扭吧……被夸的话我应该高兴才对，可我没有。我们家里也不太夸人，做得好是应该的，做不好才会被说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像注意到了我卡在这句话上的那种别扭。她问我是被夸还是被点出问题……其实我自己也分不清。可能两个都有吧。我想到在家里，爸妈从来不会直接夸我，总是先说我哪里做得不够好。那种感觉和现在很像，好像不管怎么做都差一点。）",
+        "reasoning": "（咨询师好像注意到了我卡在这句话上的那种别扭。她问我是被夸还是被点出问题……其实我自己也分不清。可能两个都有吧。我想到在家里，爸妈从来不会直接夸我，总是先说我哪里做得不够好。那种感觉和现在很像，好像不管怎么做都差一点。）"
+      }
+    }
+  ],
+  "created": 1795146252,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1588,
+    "total_tokens": 1688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 68,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

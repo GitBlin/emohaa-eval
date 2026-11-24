@@ -1,0 +1,18 @@
+- Member has an album cover due to a client by the end of the month and fears losing the client if it is late.
+- Member has repeatedly opened and closed the album cover file for weeks without drawing anything, and their chest tightens when they approach the file.
+- Member used to draw for six hours straight without needing to break tasks down, but now cannot produce anything even with an hour set aside.
+- Member rejected breathing exercises and scribbles as unhelpful, saying breathing will not draw the thing and they do not know what they are supposed to get from the sessions.
+- Member needs to send the client something rather than find meaning in the work, given the deadline this month.
+- Member has a college enrollment form open on their phone, unfilled, with enrollment closing this week.
+- Member says the college task feels more manageable than the album cover but fears it is already closed and has not checked.
+- Member declined to check the enrollment status during the session.
+- Member said "maybe" to trying a change of environment or sketching on paper first for the album cover.
+- Member's client went with someone else, so the album cover fell through.
+- Member never filled in the enrollment form and enrollment closed yesterday.
+- Member describes feeling flat about both losses, saying it already happened.
+- Member stopped a voicemail from their mom about Sunday after two seconds.
+- Member says the voicemail is not about anxiety because they already know what their mom will say.
+- Member's routine is work and home only, with nothing else in it.
+- Member said "small moments" are not the problem given losing the job and the school thing in the same week.
+- Member rejected "honoring resilience" as not a real thing to do and ended the session.
+- Member has lost their job, in addition to the album cover and college enrollment.

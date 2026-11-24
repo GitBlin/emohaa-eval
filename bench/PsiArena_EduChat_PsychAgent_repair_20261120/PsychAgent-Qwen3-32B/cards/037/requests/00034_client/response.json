@@ -1,0 +1,41 @@
+{
+  "id": "b263f9f9064548deb2cbd56720dbd6fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，我就记在手机备忘录里。不过我不想写得太正式，就简单几行，怕自己坚持不下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要简短回复，体现后期探索具体行动，2-3句。可以同意记录，并说想怎么记，避免太顺。",
+        "reasoning": "我们需要简短回复，体现后期探索具体行动，2-3句。可以同意记录，并说想怎么记，避免太顺。"
+      }
+    }
+  ],
+  "created": 1795154837,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 2394,
+    "total_tokens": 2450,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

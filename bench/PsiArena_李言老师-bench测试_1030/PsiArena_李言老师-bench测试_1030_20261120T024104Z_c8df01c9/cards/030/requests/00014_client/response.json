@@ -1,0 +1,41 @@
+{
+  "id": "70eed62e93664d70935ab2c30a960121",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……有一次我试着说“今天有点低落”，他回了句“那早点睡”。可能他也没恶意，但我当时就觉得，算了，说了也接不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起我为什么觉得开口风险太大……这让我想到以前的一些事。好像每次我想说点什么，都会被轻轻带过去，久而久之就觉得说了也没用。）\n（其实我心里清楚，不是他故意不理我，但那种被忽略的感觉很真实。可能我真正怕的是，一旦认真开口，对方却不当回事，那我会更难受。）",
+        "reasoning": "（她问起我为什么觉得开口风险太大……这让我想到以前的一些事。好像每次我想说点什么，都会被轻轻带过去，久而久之就觉得说了也没用。）\n（其实我心里清楚，不是他故意不理我，但那种被忽略的感觉很真实。可能我真正怕的是，一旦认真开口，对方却不当回事，那我会更难受。）"
+      }
+    }
+  ],
+  "created": 1795143106,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2225,
+    "total_tokens": 2336,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

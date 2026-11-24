@@ -1,0 +1,41 @@
+{
+  "id": "cc5ea2319a4c4d3591ea946f47695744",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我第一反应是……她是不是觉得我不够？是不是我在她心里没那么重要了。可我又觉得自己这样想挺小气的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我关注那个瞬间的念头……看来是希望我别停在表面，再往里走一点。刚才说了刺激又害怕，其实我真正怕的是被比较，怕自己不够，这个念头一直压着我。）\n（可这种想法又让我觉得自己很可笑，明明平时挺能接受新观念的，怎么一到自己身上就转不过弯来。也许可以顺着这个矛盾往下讲一点，但别一下子全摊开。）",
+        "reasoning": "（咨询师在引导我关注那个瞬间的念头……看来是希望我别停在表面，再往里走一点。刚才说了刺激又害怕，其实我真正怕的是被比较，怕自己不够，这个念头一直压着我。）\n（可这种想法又让我觉得自己很可笑，明明平时挺能接受新观念的，怎么一到自己身上就转不过弯来。也许可以顺着这个矛盾往下讲一点，但别一下子全摊开。）"
+      }
+    }
+  ],
+  "created": 1795154085,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1551,
+    "total_tokens": 1674,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

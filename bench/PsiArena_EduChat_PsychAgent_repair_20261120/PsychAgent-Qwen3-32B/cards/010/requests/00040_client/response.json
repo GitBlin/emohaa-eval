@@ -1,0 +1,41 @@
+{
+  "id": "da9f76a8f36441b5b90839fc9e54d7bf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "课间他自嘲时，我胸口会闷，脑子里冒出“你就是不够好”；我想先停一下，不急着接话。这样说，好像清楚了一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们刚才已经走到后期阶段第20轮了。用户要求第21轮，但我这里需要按轮次对应。上一轮咨询师问的是“用一句很短的话连起来说”。我需要简短回应，2-3句，符合后期稳定、具体化。可以尝试连接：课间他自嘲时我胸口闷，脑子里冒出“不够好”，我想要停一下不跟着自嘲。然后可以问一个具体行动？但规则说每次提出一个问题。回答要简短。可以表达我试着说：课间他自嘲时，我胸口闷，还冒出“你就是不够好”；我想先停一下，不急着接话。这样行吗？",
+        "reasoning": "我们刚才已经走到后期阶段第20轮了。用户要求第21轮，但我这里需要按轮次对应。上一轮咨询师问的是“用一句很短的话连起来说”。我需要简短回应，2-3句，符合后期稳定、具体化。可以尝试连接：课间他自嘲时我胸口闷，脑子里冒出“不够好”，我想要停一下不跟着自嘲。然后可以问一个具体行动？但规则说每次提出一个问题。回答要简短。可以表达我试着说：课间他自嘲时，我胸口闷，还冒出“你就是不够好”；我想先停一下，不急着接话。这样行吗？"
+      }
+    }
+  ],
+  "created": 1795153819,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 177,
+    "prompt_tokens": 3100,
+    "total_tokens": 3277,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 141,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

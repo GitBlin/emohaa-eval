@@ -1,0 +1,41 @@
+{
+  "id": "3b346ef589e2494abf2d9cc4c2863ab4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口发紧，喉咙像堵着什么。其实这种感觉不是第一次了，小时候我爸妈吵架，我躲在房间里也是这种感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问身体感觉……她好像没有觉得我幼稚，反而认真在问。我稍微放松了一点。胸口发紧，喉咙像被堵住，这种感觉其实我很熟悉，不只是那次聚会，好像每次觉得自己被落下都会有。我想多说一点，但又怕说得太多显得自己很可怜。）",
+        "reasoning": "（咨询师在问身体感觉……她好像没有觉得我幼稚，反而认真在问。我稍微放松了一点。胸口发紧，喉咙像被堵住，这种感觉其实我很熟悉，不只是那次聚会，好像每次觉得自己被落下都会有。我想多说一点，但又怕说得太多显得自己很可怜。）"
+      }
+    }
+  ],
+  "created": 1795146756,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 92,
+    "prompt_tokens": 1577,
+    "total_tokens": 1669,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 65,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7755cb4a17854327ae94710c8f6a15d3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……听歌吧，或者躲在被子里哭一会儿。哭累了就睡了，第二天继续装没事。其实我也知道这样不太好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我怎么熬过难受的时候……她好像真的在关心我的感受，而不是像爸妈那样只在乎成绩。这让我稍微放松了一点，但想到那些晚上还是很难受。）\n（也许可以告诉她一点真实的情况，比如听歌和哭，但又怕说得太惨会让她觉得我太脆弱。不过她刚才说情绪不是错，让我有点想试着多说一点。）",
+        "reasoning": "（咨询师在问我怎么熬过难受的时候……她好像真的在关心我的感受，而不是像爸妈那样只在乎成绩。这让我稍微放松了一点，但想到那些晚上还是很难受。）\n（也许可以告诉她一点真实的情况，比如听歌和哭，但又怕说得太惨会让她觉得我太脆弱。不过她刚才说情绪不是错，让我有点想试着多说一点。）"
+      }
+    }
+  ],
+  "created": 1795143497,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2462,
+    "total_tokens": 2575,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

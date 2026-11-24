@@ -1,0 +1,41 @@
+{
+  "id": "96bf2382e9194b4c9d9cbf11748c67c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你问得挺细的……我还没想好从哪说起。对了，我能不能问一下，你平时会不会把来访者的事讲给别人听啊？就是那种……随便聊聊的时候。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又追问具体事例了……他好像很希望我能说得更清楚些。但我现在真的还没准备好把那些细节都摊开来说，心里有点抵触。不过他说保密的时候倒是挺认真的，也许可以稍微试探一下他？）\n（毕竟我本来就不太信任这种咨询，谁知道他会不会转头就把我的事当谈资。但直接问又显得太不礼貌了……不如换个方式，看看他会不会不耐烦或者回避。如果他连这种问题都接不住，那我也没必要继续说下去了。）",
+        "reasoning": "（咨询师又追问具体事例了……他好像很希望我能说得更清楚些。但我现在真的还没准备好把那些细节都摊开来说，心里有点抵触。不过他说保密的时候倒是挺认真的，也许可以稍微试探一下他？）\n（毕竟我本来就不太信任这种咨询，谁知道他会不会转头就把我的事当谈资。但直接问又显得太不礼貌了……不如换个方式，看看他会不会不耐烦或者回避。如果他连这种问题都接不住，那我也没必要继续说下去了。）"
+      }
+    }
+  ],
+  "created": 1795147502,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1293,
+    "total_tokens": 1444,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 109,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

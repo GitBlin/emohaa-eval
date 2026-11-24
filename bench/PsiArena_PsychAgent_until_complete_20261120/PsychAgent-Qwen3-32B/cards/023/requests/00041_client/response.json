@@ -1,0 +1,41 @@
+{
+  "id": "e71dedc4e0e24c05b04911278554e9e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟家里通电话的时候吧，尤其是听到“为你好”那种话。我可能先试着在挂电话前用一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户问的是“什么时候最可能用上‘等一下’”。我作为来访者，应该结合自己的情境来回答。最可能触发的是跟家里通电话或听到“为我好”的时候。回答要简短，2-3句，口语化，带一点不确定。",
+        "reasoning": "用户问的是“什么时候最可能用上‘等一下’”。我作为来访者，应该结合自己的情境来回答。最可能触发的是跟家里通电话或听到“为我好”的时候。回答要简短，2-3句，口语化，带一点不确定。"
+      }
+    }
+  ],
+  "created": 1795154260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3357,
+    "total_tokens": 3443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

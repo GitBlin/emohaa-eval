@@ -1,0 +1,41 @@
+{
+  "id": "89e49a7aaabd4546a344e0be744101f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听你这么说，我放心多了。那这周我就试试先停一下，不逼自己一定做到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说不会影响进度，这让我松了口气。之前总担心做得不好会被评判，现在觉得他好像真的不是那种会失望的人。不过我还是有点不确定，怕自己下次又回到老样子。）",
+        "reasoning": "（咨询师说不会影响进度，这让我松了口气。之前总担心做得不好会被评判，现在觉得他好像真的不是那种会失望的人。不过我还是有点不确定，怕自己下次又回到老样子。）"
+      }
+    }
+  ],
+  "created": 1795153822,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 3293,
+    "total_tokens": 3362,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

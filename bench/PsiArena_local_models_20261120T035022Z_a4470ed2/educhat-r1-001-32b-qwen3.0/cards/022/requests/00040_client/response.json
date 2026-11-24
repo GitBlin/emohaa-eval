@@ -1,0 +1,41 @@
+{
+  "id": "6b908d42a90b4f0b986734457f8f05bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "跟朋友说的话……我可以试试说“我最近在学怎么肯定自己”。不过说完他们会不会觉得我怪怪的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我慢慢来，先从朋友开始练习，这让我觉得没那么大压力。想到要跟朋友分享自己的进步，心里有点紧张，但又觉得可以试试看。）\n（毕竟我平时总是贬低自己，突然要正面表达，确实需要适应。不过咨询师说得对，朋友之间分享进步应该是温暖的，也许我可以先挑一件小事说说看。）",
+        "reasoning": "（咨询师在鼓励我慢慢来，先从朋友开始练习，这让我觉得没那么大压力。想到要跟朋友分享自己的进步，心里有点紧张，但又觉得可以试试看。）\n（毕竟我平时总是贬低自己，突然要正面表达，确实需要适应。不过咨询师说得对，朋友之间分享进步应该是温暖的，也许我可以先挑一件小事说说看。）"
+      }
+    }
+  ],
+  "created": 1795148478,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2655,
+    "total_tokens": 2761,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

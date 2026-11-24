@@ -1,0 +1,41 @@
+{
+  "id": "27d792c6879c424bac24c7d542550987",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那次聚会之后，我回宿舍一直在想她们是不是觉得我无聊。后来上课也总走神，老想着自己是不是哪里不对。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近有没有特别明显的时刻……其实我每天都在想这件事，但最难受的还是那次聚会。她提到“安全绳”这个词，让我突然觉得有点难为情，好像我真的很依赖朋友。不过她好像没有觉得我奇怪，还愿意继续问下去。）\n（我是不是应该说得更具体一点？可是说太多会不会显得我很计较？但那次聚会之后，我确实连课都听不进去，总在想她们是不是觉得我无聊。也许说出来会好受一点吧。）",
+        "reasoning": "（她问我最近有没有特别明显的时刻……其实我每天都在想这件事，但最难受的还是那次聚会。她提到“安全绳”这个词，让我突然觉得有点难为情，好像我真的很依赖朋友。不过她好像没有觉得我奇怪，还愿意继续问下去。）\n（我是不是应该说得更具体一点？可是说太多会不会显得我很计较？但那次聚会之后，我确实连课都听不进去，总在想她们是不是觉得我无聊。也许说出来会好受一点吧。）"
+      }
+    }
+  ],
+  "created": 1795142551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 1820,
+    "total_tokens": 1957,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

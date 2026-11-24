@@ -1,0 +1,41 @@
+{
+  "id": "3a19a7c3b98242ff9c67cf2ff37ceb5f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……家里气氛不太好，有时候会觉得喘不过气。但说出来又觉得是不是自己太矫情了……对了，您会不会认识我周围的人啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在引导我描述具体场景，但我不确定该透露多少。现在才刚开始，我还不太信任她，而且家里的事说出来总觉得难堪。也许先模糊地提一下家里气氛不好，看看她的反应。她会不会追问细节？会不会觉得我小题大做？我得小心点试探。）\n（其实我有点想问她会不会认识我身边的人，但又怕显得太奇怪。不过这也是个测试，看她怎么处理这种越界的问题。如果她反应不好，我可能就不想继续说了。）",
+        "reasoning": "（心理咨询师在引导我描述具体场景，但我不确定该透露多少。现在才刚开始，我还不太信任她，而且家里的事说出来总觉得难堪。也许先模糊地提一下家里气氛不好，看看她的反应。她会不会追问细节？会不会觉得我小题大做？我得小心点试探。）\n（其实我有点想问她会不会认识我身边的人，但又怕显得太奇怪。不过这也是个测试，看她怎么处理这种越界的问题。如果她反应不好，我可能就不想继续说了。）"
+      }
+    }
+  ],
+  "created": 1795153882,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 141,
+    "prompt_tokens": 1037,
+    "total_tokens": 1178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 108,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

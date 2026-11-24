@@ -1,0 +1,41 @@
+{
+  "id": "4c0ac95bae9e43c1a7748ef3a8e4d940",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我担心她听了觉得我在拒绝她。要是她脸色变了，我可能又马上改口……这种情况我该怎么稳住？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这种说法我能说出口，比我预想的没那么难。我可能会先挑个周末下午，不太赶时间的时候。那如果她听了不高兴呢？",
+        "reasoning": "嗯，这种说法我能说出口，比我预想的没那么难。我可能会先挑个周末下午，不太赶时间的时候。那如果她听了不高兴呢？"
+      }
+    }
+  ],
+  "created": 1795154126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3200,
+    "total_tokens": 3262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

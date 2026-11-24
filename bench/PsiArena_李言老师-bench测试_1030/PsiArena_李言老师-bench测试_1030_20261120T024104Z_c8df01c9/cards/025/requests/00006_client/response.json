@@ -1,0 +1,41 @@
+{
+  "id": "544c1756857a404491510cf56541f28d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能更想彻底安静一会儿吧。可一想到这个，又觉得自己挺自私的，好像当妈的不该有这种念头。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想独处还是有人在旁边不用操心……我其实也不知道该怎么选。每次想安静一会儿，心里就冒出“当妈的不该这样”的声音。）\n（也许我真正害怕的不是没人帮忙，而是自己一放松就会被说自私。可这种话又不好直接讲出来，显得我太计较。）",
+        "reasoning": "（她问我想独处还是有人在旁边不用操心……我其实也不知道该怎么选。每次想安静一会儿，心里就冒出“当妈的不该这样”的声音。）\n（也许我真正害怕的不是没人帮忙，而是自己一放松就会被说自私。可这种话又不好直接讲出来，显得我太计较。）"
+      }
+    }
+  ],
+  "created": 1795142962,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1458,
+    "total_tokens": 1554,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

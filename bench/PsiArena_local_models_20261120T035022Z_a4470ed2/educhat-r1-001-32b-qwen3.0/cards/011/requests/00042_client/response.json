@@ -1,0 +1,41 @@
+{
+  "id": "db33df44f5244d15b3ff416ff10d756a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "开头……（沉默了一会儿，声音有点闷）大概会写“你怎么又没做到”。不过这么一说，感觉对自己挺凶的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我面对“做不到”时的自己，这让我有点紧张。写信这种事，我平时根本不会做，总觉得太矫情了。但他说进度条可以像云朵，这让我稍微放松了一点。）\n（想到要给自己写信，第一反应还是想责备自己。可话到嘴边又觉得，这样写好像太苛刻了。我其实知道不该这样对自己，但真要写点温柔的话，又觉得别扭，好像不配似的。）",
+        "reasoning": "（咨询师在引导我面对“做不到”时的自己，这让我有点紧张。写信这种事，我平时根本不会做，总觉得太矫情了。但他说进度条可以像云朵，这让我稍微放松了一点。）\n（想到要给自己写信，第一反应还是想责备自己。可话到嘴边又觉得，这样写好像太苛刻了。我其实知道不该这样对自己，但真要写点温柔的话，又觉得别扭，好像不配似的。）"
+      }
+    }
+  ],
+  "created": 1795147359,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2680,
+    "total_tokens": 2809,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

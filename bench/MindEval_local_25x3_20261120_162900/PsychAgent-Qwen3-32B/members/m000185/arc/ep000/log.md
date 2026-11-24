@@ -1,0 +1,25 @@
+- Member picked up the lead role after someone quit and is still doing their own shifts, working six days with some open-to-close.
+- Member's energy is fine in the mornings but depleted by Friday; exhaustion hits home life, not work performance.
+- Member does scheduling and receiving around their own shifts, using the quiet morning before open and a notebook for receiving.
+- Member says no help is possible because the store is short-staffed and there is nobody to ask.
+- Member cooks on Sundays — greens in a big pot with music for about 90 minutes — as their one reliable respite.
+- Member says the Sunday calm is gone by Monday night and the pot is still in the sink by Thursday.
+- Member asked the counsellor for a concrete answer on how to carry rest into the week.
+- Member rejected a 10–15 minute breathing wind-down as insufficient for a six-day schedule.
+- Member used to draw on Saturdays but hasn't opened the sketchbook in a while.
+- Member's back pain prevents sitting at the table long enough to sketch, so 15 minutes is not the obstacle.
+- Member has had two years of purchased back remedies (stretch sheet, heating pad) with no relief.
+- Member saw a doctor once; a scan showed nothing actionable and they were given a stretch sheet.
+- Member rejected a weekly schedule/load check-in, saying two years of scheduling around this has not changed anything.
+- Member declined movement/awareness exercises, saying exercises aren't what they came for.
+- Member's core fear is that their body will quit mid-shift, and they won't know until it happens.
+- Member says they can sense when their body is winding down but knowing doesn't let them leave the floor.
+- Member says swapping or delegating is impossible: five staff, two out, and every change forces rebuilding the whole schedule.
+- District requested four weeks of receiving figures; Member's log had a gap and they filled it from memory before sending.
+- Member says filling in figures from memory is normal practice and they did not make numbers up.
+- Member fears that going down now would stop the reset and cost them the lead role.
+- Member accepted the lead role because it is the next step toward assistant manager and said yes before thinking it through.
+- Member expects the load to get harder, not easier, since nobody is being hired and the reset isn't going away.
+- Member agreed to try writing one task to hand off or simplify 5 minutes before one shift ends this week.
+- Member agreed to try a daily high/medium/low energy log with one helping or draining thing, but said tracking one more thing is the last thing they need.
+- Member has four unopened bags from the art store by their front door and called them "nothing."

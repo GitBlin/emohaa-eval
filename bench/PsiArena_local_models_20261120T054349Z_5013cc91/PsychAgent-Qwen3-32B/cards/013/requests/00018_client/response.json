@@ -1,0 +1,41 @@
+{
+  "id": "55f9b7b0266e4efb96915751fb07a585",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "都有一点吧……主要是怕。怕自己选错了，以后后悔。我爸妈从小就让我做事要稳妥，现在这事，我怎么想都觉得不稳妥。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我情绪最突出的感受，我其实有点乱。内疚肯定有，但好像不只是这个……我想到爸妈催婚的样子，又想到两个男生，心里就堵得慌。我可能更怕的是自己选错，然后后悔一辈子。这种害怕压得我喘不过气来。）",
+        "reasoning": "（咨询师问到我情绪最突出的感受，我其实有点乱。内疚肯定有，但好像不只是这个……我想到爸妈催婚的样子，又想到两个男生，心里就堵得慌。我可能更怕的是自己选错，然后后悔一辈子。这种害怕压得我喘不过气来。）"
+      }
+    }
+  ],
+  "created": 1795153934,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1795,
+    "total_tokens": 1895,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

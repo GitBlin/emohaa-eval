@@ -1,0 +1,41 @@
+{
+  "id": "8287c01c00fe41588e0af4413e8b52c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想看看他平时怎么评价别人，尤其是遇到跟他想法不一样的人时，是尊重还是轻蔑。还有，我如果试探着说一点，他会不会先急着下判断。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户提出观察迹象来分辨假设，这符合后期探索行动。我需要以角色身份回应，表现出犹豫但逐渐具体化，同时保持简短。可以提到观察男友对相关话题的态度或反应，比如他是否尊重他人选择。避免直接说“谢谢”或结束。",
+        "reasoning": "用户提出观察迹象来分辨假设，这符合后期探索行动。我需要以角色身份回应，表现出犹豫但逐渐具体化，同时保持简短。可以提到观察男友对相关话题的态度或反应，比如他是否尊重他人选择。避免直接说“谢谢”或结束。"
+      }
+    }
+  ],
+  "created": 1795148103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 2591,
+    "total_tokens": 2689,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "54de371d4fd748a788dfa36f63c21eed",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点点头，表情认真了些）五分钟……那应该可以试试。（停顿，抬头看向咨询师）谢谢你今天听我说这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我制定具体的行动计划，还用了跳舞的比喻来鼓励我。这让我觉得有点被理解，但又担心自己做不到。毕竟以前也尝试过改变，最后都失败了。）\n（想到要开始尝试，心里其实很矛盾。一方面觉得散步五分钟听起来不难，另一方面又怕自己连这么小的事都坚持不了。不过咨询师说可以从这么短的时间开始，也许真的可以试试看。）",
+        "reasoning": "（咨询师在帮我制定具体的行动计划，还用了跳舞的比喻来鼓励我。这让我觉得有点被理解，但又担心自己做不到。毕竟以前也尝试过改变，最后都失败了。）\n（想到要开始尝试，心里其实很矛盾。一方面觉得散步五分钟听起来不难，另一方面又怕自己连这么小的事都坚持不了。不过咨询师说可以从这么短的时间开始，也许真的可以试试看。）"
+      }
+    }
+  ],
+  "created": 1795150115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 3278,
+    "total_tokens": 3394,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 88,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

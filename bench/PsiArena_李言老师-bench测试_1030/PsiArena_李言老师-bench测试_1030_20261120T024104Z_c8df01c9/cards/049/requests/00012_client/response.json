@@ -1,0 +1,41 @@
+{
+  "id": "3315955f94654333b337054f568a855b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是……和父母通电话的时候。他们总说“你要调整好状态”，可我一听到这种话就更紧，觉得自己不该有情绪。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师问到了“一松就会出问题”的感觉最近一次特别明显的场景。这让我想起上周和父母通电话的事——他们总是用那种很理性的语气说“你要调整好状态”，可其实我需要的不是建议。但直接说出来又怕显得我不懂事，毕竟他们也是关心我。）\n（也许可以试着提一下这个场景，但不用说得太细。毕竟现在还在慢慢建立信任，说太多家里的事会让我有点不安。不过咨询师好像真的在认真听，不是那种急着给结论的人。）",
+        "reasoning": "（心理咨询师问到了“一松就会出问题”的感觉最近一次特别明显的场景。这让我想起上周和父母通电话的事——他们总是用那种很理性的语气说“你要调整好状态”，可其实我需要的不是建议。但直接说出来又怕显得我不懂事，毕竟他们也是关心我。）\n（也许可以试着提一下这个场景，但不用说得太细。毕竟现在还在慢慢建立信任，说太多家里的事会让我有点不安。不过咨询师好像真的在认真听，不是那种急着给结论的人。）"
+      }
+    }
+  ],
+  "created": 1795143780,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2036,
+    "total_tokens": 2180,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

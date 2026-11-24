@@ -1,0 +1,41 @@
+{
+  "id": "9cf043039cd1462cb07abab53ed89eb4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "观察—感受—需要……比如“刚才我们靠得很近，我有点紧张，想慢一点，先抱一会儿”。这样说会不会太生硬？我平时不太会这么讲。",
+        "reasoning": "观察—感受—需要……比如“刚才我们靠得很近，我有点紧张，想慢一点，先抱一会儿”。这样说会不会太生硬？我平时不太会这么讲。"
+      }
+    }
+  ],
+  "created": 1795154728,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 2806,
+    "total_tokens": 2846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

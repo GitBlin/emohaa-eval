@@ -1,0 +1,41 @@
+{
+  "id": "f0d0bed66fc142eb814ca6e626446d1b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "大概是从调到财务部门那三年开始吧，每天看到的、听到的，慢慢就积在心里了。家里……我爸妈一直觉得我这工作挺稳的，我也不太敢跟他们说想辞职。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我这种闷的状态是从什么时候开始的……我想想，应该是调到财务部门之后吧。那时候每天看到的那些事，让我越来越不想说话。不过家里的事……其实也挺累的，父母总觉得我的工作稳定就好，可他们不明白我在里面有多难受。每次想跟他们说点什么，最后都变成“别想太多”。）\n（现在坐在这儿，说这些好像有点乱。我是不是把工作上的事和家里的压力搅在一起了？但确实就是这种感觉，两头都憋着，也不知道该从哪头说起。）",
+        "reasoning": "（咨询师在问我这种闷的状态是从什么时候开始的……我想想，应该是调到财务部门之后吧。那时候每天看到的那些事，让我越来越不想说话。不过家里的事……其实也挺累的，父母总觉得我的工作稳定就好，可他们不明白我在里面有多难受。每次想跟他们说点什么，最后都变成“别想太多”。）\n（现在坐在这儿，说这些好像有点乱。我是不是把工作上的事和家里的压力搅在一起了？但确实就是这种感觉，两头都憋着，也不知道该从哪头说起。）"
+      }
+    }
+  ],
+  "created": 1795153632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 2247,
+    "total_tokens": 2404,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

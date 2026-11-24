@@ -1,0 +1,41 @@
+{
+  "id": "8efef79216bf473e8462bd1b41c87577",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会先带走“我会紧张，但我想听你说”这句，短一点，没那么像审问。至于别的……我可能还得再练。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最想带走哪一句……其实前面练的那几句里，最让我心里有底的是那句“我知道你可能只是随口，但对我影响挺大的，我会有点慌”。不过直接说这句好像有点太软了，我怕她真觉得我在扫兴。可要是我先练“我会紧张，但我想听你说”，又好像更安全一点，至少不是一上来就否定她。我到底更想用哪句呢……感觉还是得先把自己稳住，不然一开口就变味了。）",
+        "reasoning": "（她问我最想带走哪一句……其实前面练的那几句里，最让我心里有底的是那句“我知道你可能只是随口，但对我影响挺大的，我会有点慌”。不过直接说这句好像有点太软了，我怕她真觉得我在扫兴。可要是我先练“我会紧张，但我想听你说”，又好像更安全一点，至少不是一上来就否定她。我到底更想用哪句呢……感觉还是得先把自己稳住，不然一开口就变味了。）"
+      }
+    }
+  ],
+  "created": 1795147115,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 2887,
+    "total_tokens": 3030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

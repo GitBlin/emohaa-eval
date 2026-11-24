@@ -1,0 +1,41 @@
+{
+  "id": "e51b436b805148f1a55f1d374b4a19f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "会议前准备吧……我每次都准备得很细，但心里还是怕。您这么一问，我倒是觉得，可能问题不在准备上，是我太怕被说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像注意到我散步和看视频能稍微放松了。他问我想从哪个小环节着手……说实话，我有点懵。会议前准备我每次都做得很细，可还是怕被否定。也许问题不在准备，而在我怎么看待那些否定。但他这么问，让我觉得可以试试具体的事，而不是光在脑子里打转。）",
+        "reasoning": "（咨询师好像注意到我散步和看视频能稍微放松了。他问我想从哪个小环节着手……说实话，我有点懵。会议前准备我每次都做得很细，可还是怕被否定。也许问题不在准备，而在我怎么看待那些否定。但他这么问，让我觉得可以试试具体的事，而不是光在脑子里打转。）"
+      }
+    }
+  ],
+  "created": 1795148775,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2592,
+    "total_tokens": 2706,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1a1aca0a802f44d9a19e00bd5741e58d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上吧……下班回家以后特别明显，一个人待着就容易一直刷。周末更严重，有时候一整天都在等消息。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到作息和看手机的高峰时段……这让我想起自己每天晚上躺在床上刷手机的样子。白天还能用工作分散注意力，但一到晚上，那种空落落的感觉就特别明显，好像全世界都在忙着跟别人聊天，只有我一个人在等消息。这种规律其实我自己也察觉到了，但说出来还是有点难为情，毕竟听起来挺矫情的。）",
+        "reasoning": "（咨询师问到作息和看手机的高峰时段……这让我想起自己每天晚上躺在床上刷手机的样子。白天还能用工作分散注意力，但一到晚上，那种空落落的感觉就特别明显，好像全世界都在忙着跟别人聊天，只有我一个人在等消息。这种规律其实我自己也察觉到了，但说出来还是有点难为情，毕竟听起来挺矫情的。）"
+      }
+    }
+  ],
+  "created": 1795146821,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 1994,
+    "total_tokens": 2101,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

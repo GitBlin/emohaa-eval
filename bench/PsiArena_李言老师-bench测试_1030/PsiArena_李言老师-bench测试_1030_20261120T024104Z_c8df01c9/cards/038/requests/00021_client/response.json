@@ -1,0 +1,41 @@
+{
+  "id": "34ef6d21b14a4b66a0f02a1925599839",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "日常小事吧，比如他最近提过的那家店。我可以问他要不要一起去，顺便看看他愿不愿意多聊一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议从小事试探，这让我稍微松了口气。共同兴趣可能太刻意，日常小事反而自然些，比如他最近总提起的那家店。不过我还是有点担心，万一他连这种小事都敷衍，我该怎么面对。）\n（也许可以先试一次，看看他愿不愿意多聊几句。如果他还是回避，我至少能更清楚他的态度，而不是一直自己猜。）",
+        "reasoning": "（咨询师建议从小事试探，这让我稍微松了口气。共同兴趣可能太刻意，日常小事反而自然些，比如他最近总提起的那家店。不过我还是有点担心，万一他连这种小事都敷衍，我该怎么面对。）\n（也许可以先试一次，看看他愿不愿意多聊几句。如果他还是回避，我至少能更清楚他的态度，而不是一直自己猜。）"
+      }
+    }
+  ],
+  "created": 1795143529,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3090,
+    "total_tokens": 3202,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "25db23e770fd43899b5b5a844ab82bcf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想安静坐一会儿……但你在旁边就行。这样我会踏实一点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说可以安静待着，不催我。这让我稍微松了口气，不用马上组织语言。但我还是有点不放心，怕她只是客气一下，等会儿又忍不住问东问西。）\n（我想告诉她我想安静坐一会儿，可又怕这样显得太闷、太不配合。不过她之前说过不会觉得我闷，也许我可以试着相信她一次。就简单说一句，让她知道我在，但不用说话。）",
+        "reasoning": "（她刚才说可以安静待着，不催我。这让我稍微松了口气，不用马上组织语言。但我还是有点不放心，怕她只是客气一下，等会儿又忍不住问东问西。）\n（我想告诉她我想安静坐一会儿，可又怕这样显得太闷、太不配合。不过她之前说过不会觉得我闷，也许我可以试着相信她一次。就简单说一句，让她知道我在，但不用说话。）"
+      }
+    }
+  ],
+  "created": 1795143571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3328,
+    "total_tokens": 3438,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

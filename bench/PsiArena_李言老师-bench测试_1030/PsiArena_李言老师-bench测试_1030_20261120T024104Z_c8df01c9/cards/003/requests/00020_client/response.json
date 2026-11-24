@@ -1,0 +1,41 @@
+{
+  "id": "706686c8f48842bb9bed6d13f032db21",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实挺能吃辣的，就是平时跟同事吃饭，我总说“都行”，怕显得太有主意。这么一想，好像连点菜我都在先看别人脸色。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问起口味，其实是在帮我找个轻松的话题练手。我想到自己平时确实喜欢辣，但总怕别人觉得太冲，所以总说随便。）\n（不过现在想想，连点菜都先想着别人怎么看，好像又绕回老毛病了。我得试着说一次自己真实的想法，哪怕只是口味这种小事。）",
+        "reasoning": "（她问起口味，其实是在帮我找个轻松的话题练手。我想到自己平时确实喜欢辣，但总怕别人觉得太冲，所以总说随便。）\n（不过现在想想，连点菜都先想着别人怎么看，好像又绕回老毛病了。我得试着说一次自己真实的想法，哪怕只是口味这种小事。）"
+      }
+    }
+  ],
+  "created": 1795142647,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2874,
+    "total_tokens": 2987,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

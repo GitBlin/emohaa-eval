@@ -1,0 +1,41 @@
+{
+  "id": "e231743ca8fd460ea2aa8a834009a105",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最近有次回家，我看到我爸手机响了他马上扣过去，还躲到阳台接电话。我妈在厨房忙，我站在那儿突然特别难受，又不敢问她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我试着说一件具体的事……但我脑子里很乱。父亲手机里那些信息、他躲着接电话的样子，还有妈妈什么都不知道还在操心家里。我说出来会不会像在指控他？可不说的话，我每天看着妈妈都觉得喘不过气。）\n（我得小心一点，不能说得太绝对，毕竟我也没有证据。先提一下那些“不对劲”的地方，看看咨询师怎么反应。也许说出来会轻松一点，也可能更难受。）",
+        "reasoning": "（咨询师让我试着说一件具体的事……但我脑子里很乱。父亲手机里那些信息、他躲着接电话的样子，还有妈妈什么都不知道还在操心家里。我说出来会不会像在指控他？可不说的话，我每天看着妈妈都觉得喘不过气。）\n（我得小心一点，不能说得太绝对，毕竟我也没有证据。先提一下那些“不对劲”的地方，看看咨询师怎么反应。也许说出来会轻松一点，也可能更难受。）"
+      }
+    }
+  ],
+  "created": 1795147068,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 1856,
+    "total_tokens": 1992,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

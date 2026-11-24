@@ -1,0 +1,41 @@
+{
+  "id": "e86426a6618c430c82fbf56fbb378f9f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "识别……是指留意我什么时候开始发紧吗？可我一忙起来，或者我妈一打电话，我根本顾不上这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才说先不急着弄明白，先学会识别和暂停……这让我觉得或许不用一下子把所有事都搞懂。但“识别”具体指什么？我有点模糊。）\n（想到家里那些事，我总觉得自己应该扛住，不能表现得太脆弱。可越是这样想，越觉得心里堵得慌，好像连怎么表达都忘了。）",
+        "reasoning": "（咨询师刚才说先不急着弄明白，先学会识别和暂停……这让我觉得或许不用一下子把所有事都搞懂。但“识别”具体指什么？我有点模糊。）\n（想到家里那些事，我总觉得自己应该扛住，不能表现得太脆弱。可越是这样想，越觉得心里堵得慌，好像连怎么表达都忘了。）"
+      }
+    }
+  ],
+  "created": 1795154208,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2143,
+    "total_tokens": 2249,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

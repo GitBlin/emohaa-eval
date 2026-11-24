@@ -1,0 +1,41 @@
+{
+  "id": "685e428faed2417d879c28cb1ed07f69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "像朋友一样啊……（停顿）可我平时跟朋友也不太聊这些。那，你觉得我这种情况，你一般会怎么帮呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师说可以像朋友一样聊天，还说要提供帮助和建议……这话听起来挺温和的，但我其实不太确定该不该真的像朋友那样说话。毕竟我们才刚认识，而且我平时也不太习惯跟人聊这些。不过既然来了，还是先试探一下比较好吧。）\n（作为图书编辑，我习惯先弄清楚规则再行动。咨询师说会提供建议，但具体怎么帮到我呢？我需要更明确一点，不然总觉得心里没底。也许可以问问他们具体会怎么做，这样我也能判断要不要继续往下说。）",
+        "reasoning": "（刚才咨询师说可以像朋友一样聊天，还说要提供帮助和建议……这话听起来挺温和的，但我其实不太确定该不该真的像朋友那样说话。毕竟我们才刚认识，而且我平时也不太习惯跟人聊这些。不过既然来了，还是先试探一下比较好吧。）\n（作为图书编辑，我习惯先弄清楚规则再行动。咨询师说会提供建议，但具体怎么帮到我呢？我需要更明确一点，不然总觉得心里没底。也许可以问问他们具体会怎么做，这样我也能判断要不要继续往下说。）"
+      }
+    }
+  ],
+  "created": 1795155333,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 148,
+    "prompt_tokens": 950,
+    "total_tokens": 1098,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 118,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

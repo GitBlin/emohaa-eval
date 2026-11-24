@@ -1,0 +1,41 @@
+{
+  "id": "8688c72ce7c34be0a45d2974747c8e6d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "如果临到开口又想缩回去，可以先在心里说一句：“这是小实验，不是考试。”然后只问一个最简单的问题，做完就停。你觉得这样能帮你开始吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把想法变成具体行动……有点紧张，但也觉得可行。只是我担心自己临时又退缩，得先想好怎么应对。）嗯，可以的。那如果我又临时想缩回去，我该怎么提醒自己？",
+        "reasoning": "（咨询师在帮我把想法变成具体行动……有点紧张，但也觉得可行。只是我担心自己临时又退缩，得先想好怎么应对。）嗯，可以的。那如果我又临时想缩回去，我该怎么提醒自己？"
+      }
+    }
+  ],
+  "created": 1795155123,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2803,
+    "total_tokens": 2893,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 51,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

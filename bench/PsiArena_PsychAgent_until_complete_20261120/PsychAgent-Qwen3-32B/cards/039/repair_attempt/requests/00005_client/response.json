@@ -1,0 +1,41 @@
+{
+  "id": "615c00fe044647548872f9aa8e3528b3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）最大的发现是……原来我一直在逼自己马上做决定，好像不说就是错的。接下来一周，我想先做睡前那个练习，只练“停一下”，不急着跟他开口。",
+        "reasoning": "（想了想）最大的发现是……原来我一直在逼自己马上做决定，好像不说就是错的。接下来一周，我想先做睡前那个练习，只练“停一下”，不急着跟他开口。"
+      }
+    }
+  ],
+  "created": 1795156408,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 3638,
+    "total_tokens": 3681,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3584
+    }
+  }
+}

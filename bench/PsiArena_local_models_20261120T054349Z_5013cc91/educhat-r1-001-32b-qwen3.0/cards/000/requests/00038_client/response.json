@@ -1,0 +1,41 @@
+{
+  "id": "46ad9a4a17f5418181654c4e7d9b5178",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点低）你这样我真的撑不太住。我需要你回应我一下，哪怕就一句“嗯”。不然我会觉得我是不是说错了什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又只回了一个问号，这种沉默让我很不舒服。我刚才已经鼓起勇气说了具体的打算，却得不到任何回应，感觉像被晾在一边。也许他是想让我自己继续，但我现在更需要一点确认，哪怕只是简单的一句“嗯”。）\n（我有点怀疑他是不是根本不在意我说了什么，或者觉得我做得不对。这种被忽视的感觉让我想退缩，甚至怀疑这次咨询到底有没有用。不过我还是想把话说清楚，让他知道我需要回应，而不是继续沉默。）",
+        "reasoning": "（咨询师又只回了一个问号，这种沉默让我很不舒服。我刚才已经鼓起勇气说了具体的打算，却得不到任何回应，感觉像被晾在一边。也许他是想让我自己继续，但我现在更需要一点确认，哪怕只是简单的一句“嗯”。）\n（我有点怀疑他是不是根本不在意我说了什么，或者觉得我做得不对。这种被忽视的感觉让我想退缩，甚至怀疑这次咨询到底有没有用。不过我还是想把话说清楚，让他知道我需要回应，而不是继续沉默。）"
+      }
+    }
+  ],
+  "created": 1795153475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 139,
+    "prompt_tokens": 2271,
+    "total_tokens": 2410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

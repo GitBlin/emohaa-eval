@@ -1,0 +1,41 @@
+{
+  "id": "a776e5d94bf04b369cb1f83f3b0db117",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……觉察是，我好像一直在“听话”和“自己的心”之间拔河。小行动就是，这十天先不急着选，每天留十分钟，记记身体的感觉。",
+        "reasoning": "嗯……觉察是，我好像一直在“听话”和“自己的心”之间拔河。小行动就是，这十天先不急着选，每天留十分钟，记记身体的感觉。"
+      }
+    }
+  ],
+  "created": 1795157437,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 3560,
+    "total_tokens": 3601,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 42,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

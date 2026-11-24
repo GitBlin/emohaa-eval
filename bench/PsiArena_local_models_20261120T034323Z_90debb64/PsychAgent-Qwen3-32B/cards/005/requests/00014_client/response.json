@@ -1,0 +1,41 @@
+{
+  "id": "daee8969b0764e03b6489eb42b739ab4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能就是晚上吧……一个人待着的时候。白天忙起来还好，一停下来就觉得好像没人理我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得有点细，我有点不舒服，但又说不上来为什么。可能晚上一个人待着的时候最明显吧。）",
+        "reasoning": "（咨询师问得有点细，我有点不舒服，但又说不上来为什么。可能晚上一个人待着的时候最明显吧。）"
+      }
+    }
+  ],
+  "created": 1795146575,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 52,
+    "prompt_tokens": 1595,
+    "total_tokens": 1647,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

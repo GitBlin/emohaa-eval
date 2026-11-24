@@ -1,0 +1,41 @@
+{
+  "id": "dca4d33a3051486bafa8c54354bf8d92",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我担心……别人会觉得我变了，不像以前那么好说话了。可我又真的累了，不想再什么都硬撑着。我这样是不是很矛盾？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我如果先照顾自己会担心什么……这让我一下子想到小时候家里总说“别光想着自己”。我其实很怕一旦开始考虑自己，就会变成那种自私的人，别人也会觉得我变了。）\n（可另一方面，我确实累了，不想再总是硬撑着答应所有事。这种矛盾让我有点不知道该怎么回答，好像怎么说都不太对。）",
+        "reasoning": "（她问我如果先照顾自己会担心什么……这让我一下子想到小时候家里总说“别光想着自己”。我其实很怕一旦开始考虑自己，就会变成那种自私的人，别人也会觉得我变了。）\n（可另一方面，我确实累了，不想再总是硬撑着答应所有事。这种矛盾让我有点不知道该怎么回答，好像怎么说都不太对。）"
+      }
+    }
+  ],
+  "created": 1795142565,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 1924,
+    "total_tokens": 2033,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

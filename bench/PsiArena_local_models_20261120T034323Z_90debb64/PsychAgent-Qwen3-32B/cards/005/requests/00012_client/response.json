@@ -1,0 +1,41 @@
+{
+  "id": "39a8862cf73d49f6ab0bf0fec107183f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这……我也没数过。反正就是有空就看一下，有时候开会也会偷偷瞄一眼。问这个干嘛啊？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像没直接回答我，而是又抛了个问题过来……还问得这么细。我有点不想被数着次数，感觉像被盯着看一样。不过她语气还算温和，我也不是不能答，就是心里有点别扭。）",
+        "reasoning": "（咨询师好像没直接回答我，而是又抛了个问题过来……还问得这么细。我有点不想被数着次数，感觉像被盯着看一样。不过她语气还算温和，我也不是不能答，就是心里有点别扭。）"
+      }
+    }
+  ],
+  "created": 1795146571,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 1450,
+    "total_tokens": 1530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

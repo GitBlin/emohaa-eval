@@ -1,0 +1,41 @@
+{
+  "id": "b6289306b44848e7adccb44774119cb8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）嗯……谢谢你。那我想问，如果我真的试了，别人问“你今天怎么怪怪的”，我该怎么回啊？总不能说我在做咨询作业吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在鼓励我尝试三秒钟的微笑练习，还让我对自己说谢谢。这让我感觉被接纳了，好像搞砸也没那么可怕。但心里还是有点不踏实，毕竟之前因为情绪外露吃过亏，我得问问具体怎么应对别人的反应。）\n（现在好像可以聊点实际的了。我想到下周就有团队会议，那是个练习的好机会，但又怕同事觉得我奇怪。不如先问问咨询师，如果真有人问起来该怎么回应，这样我也有个准备。）",
+        "reasoning": "（咨询师在鼓励我尝试三秒钟的微笑练习，还让我对自己说谢谢。这让我感觉被接纳了，好像搞砸也没那么可怕。但心里还是有点不踏实，毕竟之前因为情绪外露吃过亏，我得问问具体怎么应对别人的反应。）\n（现在好像可以聊点实际的了。我想到下周就有团队会议，那是个练习的好机会，但又怕同事觉得我奇怪。不如先问问咨询师，如果真有人问起来该怎么回应，这样我也有个准备。）"
+      }
+    }
+  ],
+  "created": 1795153757,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 2328,
+    "total_tokens": 2472,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

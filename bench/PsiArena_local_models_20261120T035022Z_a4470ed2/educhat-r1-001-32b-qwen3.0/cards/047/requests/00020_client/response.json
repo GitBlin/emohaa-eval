@@ -1,0 +1,41 @@
+{
+  "id": "979894f444ec467099c882b8c2a38a3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……（停顿）其实我有时候觉得，我哭不完全是难过。比如看到学生委屈的样子，我就特别心疼，然后自己也跟着难受。这是不是有点太过了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在帮我梳理表达情绪的场合，这让我想起更多具体的事。我从小被鼓励表达，但现在工作环境好像不太一样，这种矛盾让我很困惑。而且我发现自己不只是因为学生的事哭，连看到别人难过也会忍不住，这让我更怀疑自己是不是太脆弱了。）\n（也许可以顺着这个思路多说一点，把那种控制不住的感觉描述得更具体些。毕竟现在对咨询师已经有了一些信任，可以稍微深入一点谈自己的困扰了。）",
+        "reasoning": "（心理咨询师在帮我梳理表达情绪的场合，这让我想起更多具体的事。我从小被鼓励表达，但现在工作环境好像不太一样，这种矛盾让我很困惑。而且我发现自己不只是因为学生的事哭，连看到别人难过也会忍不住，这让我更怀疑自己是不是太脆弱了。）\n（也许可以顺着这个思路多说一点，把那种控制不住的感觉描述得更具体些。毕竟现在对咨询师已经有了一些信任，可以稍微深入一点谈自己的困扰了。）"
+      }
+    }
+  ],
+  "created": 1795150242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 138,
+    "prompt_tokens": 1636,
+    "total_tokens": 1774,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

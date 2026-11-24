@@ -1,0 +1,41 @@
+{
+  "id": "97b3bbb7d5c9444bad47638cb0ff1fc3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先说我感受吧，不然我很容易又变成顶嘴。比如“你一问我就紧张，像被查账一样”，后面再补一句我希望她怎么问。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我这句话是想先表达感受还是先说需要。我其实更想让她知道我被那样问的时候心里难受，但又不想说得太软，好像我在求她似的。可要是只说需要，又怕听起来像在命令她。）\n（那就先表达感受吧，至少能让她明白我不是故意乱花钱。不过说完之后，我也得把需要带出来，不然话就断在那儿了，还是得告诉她我想让她别一上来就审问。）",
+        "reasoning": "（她问我这句话是想先表达感受还是先说需要。我其实更想让她知道我被那样问的时候心里难受，但又不想说得太软，好像我在求她似的。可要是只说需要，又怕听起来像在命令她。）\n（那就先表达感受吧，至少能让她明白我不是故意乱花钱。不过说完之后，我也得把需要带出来，不然话就断在那儿了，还是得告诉她我想让她别一上来就审问。）"
+      }
+    }
+  ],
+  "created": 1795143153,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 3141,
+    "total_tokens": 3274,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

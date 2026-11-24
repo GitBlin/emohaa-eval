@@ -1,0 +1,41 @@
+{
+  "id": "54e2d3c5e7f14f2a8abdcdc5e21d9aa8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "揭开……说得轻巧。医生，我问一句，我跟你说的这些，你会不会往外说？我不想让家里人知道，尤其是我老婆。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他提到揭开绷带……这让我有点慌。我不确定自己真的准备好了，而且这个咨询师值得信任吗？他会不会像其他人一样，听完就说些大道理，然后让我更难受？）\n（我得先试探一下他。毕竟这种事，万一传出去，对我公司、对家里都不好。我得问清楚他会不会保密，这样我心里才有底。）",
+        "reasoning": "（他提到揭开绷带……这让我有点慌。我不确定自己真的准备好了，而且这个咨询师值得信任吗？他会不会像其他人一样，听完就说些大道理，然后让我更难受？）\n（我得先试探一下他。毕竟这种事，万一传出去，对我公司、对家里都不好。我得问清楚他会不会保密，这样我心里才有底。）"
+      }
+    }
+  ],
+  "created": 1795155049,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1206,
+    "total_tokens": 1316,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 79,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

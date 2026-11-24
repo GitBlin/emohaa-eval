@@ -1,0 +1,41 @@
+{
+  "id": "6eef73cc706d461b916b208ef21461b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "问候啊……我平时跟同事打招呼都挺客气的，但总觉得隔着一层。也许我该试试不那么“标准”，说点真实的？可我又怕一真实就露怯。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说从简单问候开始，慢慢建立信任关系……这让我想到自己平时确实太紧绷了，连跟同事打招呼都像在完成任务。也许我该试着放松一点？）\n（不过一放松又担心会不会显得不专业，毕竟在职场里我一直要求自己表现得很得体。这种矛盾感让我有点不安，但或许可以先从承认自己的紧张开始试试看。）",
+        "reasoning": "（咨询师说从简单问候开始，慢慢建立信任关系……这让我想到自己平时确实太紧绷了，连跟同事打招呼都像在完成任务。也许我该试着放松一点？）\n（不过一放松又担心会不会显得不专业，毕竟在职场里我一直要求自己表现得很得体。这种矛盾感让我有点不安，但或许可以先从承认自己的紧张开始试试看。）"
+      }
+    }
+  ],
+  "created": 1795146777,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2054,
+    "total_tokens": 2177,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2db9cbec723e478a83a48708a24b0236",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我希望他们吃饭的时候别那么安静，随便聊点别的也行。别一开口就是成绩，我可能就没那么紧张了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望爸妈先做哪件小事，这让我有点意外。以前总觉得他们改变不了，但这么一问，好像可以试着想一个很小的点。我想到饭桌上如果别那么安静，或者随便聊点别的，可能我就不会那么紧张了。这个要求不算过分吧，只是别一开口就提成绩。）\n（不过，我又有点犹豫，怕自己提了也没用，或者显得我在抱怨。但既然是在咨询里，说出来也许能帮我理清一点，至少知道自己想要什么。）",
+        "reasoning": "（咨询师问我希望爸妈先做哪件小事，这让我有点意外。以前总觉得他们改变不了，但这么一问，好像可以试着想一个很小的点。我想到饭桌上如果别那么安静，或者随便聊点别的，可能我就不会那么紧张了。这个要求不算过分吧，只是别一开口就提成绩。）\n（不过，我又有点犹豫，怕自己提了也没用，或者显得我在抱怨。但既然是在咨询里，说出来也许能帮我理清一点，至少知道自己想要什么。）"
+      }
+    }
+  ],
+  "created": 1795142551,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 140,
+    "prompt_tokens": 2360,
+    "total_tokens": 2500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

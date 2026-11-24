@@ -1,0 +1,56 @@
+{
+  "protocol": "code",
+  "n_expected": 50,
+  "n_scored": 40,
+  "complete": false,
+  "coverage": 0.8,
+  "skipped": [
+    4,
+    13,
+    19,
+    20,
+    23,
+    25,
+    34,
+    39,
+    41,
+    48
+  ],
+  "errors": {
+    "4": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores4.txt'",
+    "13": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores13.txt'",
+    "19": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores19.txt'",
+    "20": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores20.txt'",
+    "23": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores23.txt'",
+    "25": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores25.txt'",
+    "34": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores34.txt'",
+    "39": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores39.txt'",
+    "41": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores41.txt'",
+    "48": "[Errno 2] No such file or directory: '/DATA/COLA/wangaoyun/emohaa-eval-upload.UBlCGt/bench/PsiArena_local_models_20261120T054349Z_5013cc91/PsychAgent-Qwen3-32B/scores48.txt'"
+  },
+  "means": {
+    "client": 2.715625,
+    "supervisor": 3.1745535714285715,
+    "counselor": 3.9111111111111114,
+    "overall": 3.1521780303030305
+  },
+  "passes": {
+    "client": 27,
+    "supervisor": 28,
+    "counselor": 26,
+    "overall": 32
+  },
+  "pass_rates": {
+    "client": 0.54,
+    "supervisor": 0.56,
+    "counselor": 0.52,
+    "overall": 0.64
+  },
+  "pass_rates_valid_only": {
+    "client": 0.675,
+    "supervisor": 0.7,
+    "counselor": 0.65,
+    "overall": 0.8
+  },
+  "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+}

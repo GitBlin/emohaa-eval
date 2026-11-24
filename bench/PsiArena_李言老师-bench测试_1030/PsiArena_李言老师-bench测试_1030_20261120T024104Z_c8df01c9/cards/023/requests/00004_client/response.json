@@ -1,0 +1,41 @@
+{
+  "id": "d8df34c7443049c08c81334595769a21",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "多半是跟家里有关吧……一接电话就容易烦躁。我也不确定是不是自己想多了。你结婚了吗？你会不会也碰到这种被家里管得喘不过气的时候？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我情绪波动的情境，看来她确实想理解我，而不是急着下结论。但我还没准备好完全敞开心扉，得先试探一下她会不会像家人那样评判我。）\n（毕竟我习惯了别人用“为我好”来干涉我，所以想看看她会不会也越过界限。先模糊地提一下家里的事，再反问她的看法，这样既能保持距离，又能观察她的反应。）",
+        "reasoning": "（咨询师在问我情绪波动的情境，看来她确实想理解我，而不是急着下结论。但我还没准备好完全敞开心扉，得先试探一下她会不会像家人那样评判我。）\n（毕竟我习惯了别人用“为我好”来干涉我，所以想看看她会不会也越过界限。先模糊地提一下家里的事，再反问她的看法，这样既能保持距离，又能观察她的反应。）"
+      }
+    }
+  ],
+  "created": 1795142942,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 1208,
+    "total_tokens": 1335,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

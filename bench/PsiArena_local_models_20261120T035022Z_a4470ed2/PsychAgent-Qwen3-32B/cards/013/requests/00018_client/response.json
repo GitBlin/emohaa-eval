@@ -1,0 +1,41 @@
+{
+  "id": "1bbb5419fb9144fb91d059556a423862",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "画面啊……大概就是按部就班吧，工作稳定，房子，周末去看看双方父母。听起来挺好的，可我一想就觉得……好像少了点什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是“安稳”的具体画面。我想想……爸妈总说的那种日子，大概就是按部就班吧。但真让我描述，我脑子里冒出来的却是另一个人的脸，这让我有点乱。）",
+        "reasoning": "（咨询师问的是“安稳”的具体画面。我想想……爸妈总说的那种日子，大概就是按部就班吧。但真让我描述，我脑子里冒出来的却是另一个人的脸，这让我有点乱。）"
+      }
+    }
+  ],
+  "created": 1795147037,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1815,
+    "total_tokens": 1897,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

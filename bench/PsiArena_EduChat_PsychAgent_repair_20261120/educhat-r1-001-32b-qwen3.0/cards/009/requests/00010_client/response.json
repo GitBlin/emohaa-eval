@@ -1,0 +1,41 @@
+{
+  "id": "72fb39387eaf4a95ab46e75d05344db9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。（停顿片刻）其实我也就是随口问问。嗯，说到拒绝那件事之后，我总是不停地想，是不是自己太冷漠了，晚上都睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才说可以随时联系他，但又提到咨询时间有限，这让我有点困惑。他是不是在暗示我不该总依赖他？还是说这是职业规范？我本来想试探一下能不能多得到些支持，现在反而更不确定界限在哪里了。）\n（不过至少他态度挺温和的，没有直接拒绝我。也许我不该太着急，先顺着这个话题说说自己的感受吧。拒绝同事那件事之后，我确实总是反复想，越想越觉得自己可能做错了。这种内疚感压得我喘不过气来，但又说不清楚到底为什么这么在意。）",
+        "reasoning": "（咨询师刚才说可以随时联系他，但又提到咨询时间有限，这让我有点困惑。他是不是在暗示我不该总依赖他？还是说这是职业规范？我本来想试探一下能不能多得到些支持，现在反而更不确定界限在哪里了。）\n（不过至少他态度挺温和的，没有直接拒绝我。也许我不该太着急，先顺着这个话题说说自己的感受吧。拒绝同事那件事之后，我确实总是反复想，越想越觉得自己可能做错了。这种内疚感压得我喘不过气来，但又说不清楚到底为什么这么在意。）"
+      }
+    }
+  ],
+  "created": 1795153744,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 1260,
+    "total_tokens": 1424,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 124,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

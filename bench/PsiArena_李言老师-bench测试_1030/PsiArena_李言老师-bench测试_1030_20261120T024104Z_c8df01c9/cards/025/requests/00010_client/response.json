@@ -1,0 +1,41 @@
+{
+  "id": "355e86bd974e47d18cd169b832c3084f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望他自然察觉吧……可我也知道这不太现实。我从小家里就强调独立，别太麻烦别人，所以我一示弱就浑身不自在。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我更希望丈夫自然察觉还是我露一点疲惫。这让我想到自己从小被要求独立懂事，好像示弱就是不够好。其实我心里是希望他能主动看见的，但又怕说出来显得矫情。）\n（可我又觉得，如果我不说，他可能永远不知道我多累。这让我很矛盾，也想到父母以前总说“自己的事自己处理好”，我好像一直在按这个标准要求自己。）",
+        "reasoning": "（咨询师在问我更希望丈夫自然察觉还是我露一点疲惫。这让我想到自己从小被要求独立懂事，好像示弱就是不够好。其实我心里是希望他能主动看见的，但又怕说出来显得矫情。）\n（可我又觉得，如果我不说，他可能永远不知道我多累。这让我很矛盾，也想到父母以前总说“自己的事自己处理好”，我好像一直在按这个标准要求自己。）"
+      }
+    }
+  ],
+  "created": 1795143043,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1874,
+    "total_tokens": 2002,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

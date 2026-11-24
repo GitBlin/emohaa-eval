@@ -1,0 +1,41 @@
+{
+  "id": "975d02ac342e4e2387534a21b9ca5b8f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说成：“我也还在想，不是要你现在给答案，我就是想先让你知道。”这样说我会没那么慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户似乎重复了我的话。我需要回应。保持2-3句，口语化。可以帮她把备用句改成她自己的话。",
+        "reasoning": "用户似乎重复了我的话。我需要回应。保持2-3句，口语化。可以帮她把备用句改成她自己的话。"
+      }
+    }
+  ],
+  "created": 1795156385,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 2926,
+    "total_tokens": 2981,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

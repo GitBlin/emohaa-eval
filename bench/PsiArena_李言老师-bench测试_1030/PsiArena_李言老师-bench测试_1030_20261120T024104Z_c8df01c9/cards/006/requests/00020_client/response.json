@@ -1,0 +1,41 @@
+{
+  "id": "48bebed85f9b4d8bb9acfe056689b310",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试，写十分钟，不展开。还有……我想找个机会跟家里谈谈工作的事，但不知道该从哪开口。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我细化睡眠计划，还提议睡前写一写。这确实是个具体可行的办法，但我有点担心写下来会不会反而让那些烦心事更清晰，更睡不着。不过总比躺着干想好，至少有个出口。）\n（另外，关于工作的事，我其实一直没完全放弃跟家里人沟通的念头。也许可以趁这个机会问问，如果真开口，该怎么表达才不至于让他们觉得我在闹情绪。毕竟光调睡眠，工作那边还是压着。）",
+        "reasoning": "（咨询师在帮我细化睡眠计划，还提议睡前写一写。这确实是个具体可行的办法，但我有点担心写下来会不会反而让那些烦心事更清晰，更睡不着。不过总比躺着干想好，至少有个出口。）\n（另外，关于工作的事，我其实一直没完全放弃跟家里人沟通的念头。也许可以趁这个机会问问，如果真开口，该怎么表达才不至于让他们觉得我在闹情绪。毕竟光调睡眠，工作那边还是压着。）"
+      }
+    }
+  ],
+  "created": 1795142640,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 2888,
+    "total_tokens": 3018,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 103,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

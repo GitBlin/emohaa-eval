@@ -1,0 +1,41 @@
+{
+  "id": "1a6bfca91271404d99722c67019d6801",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来，这个“小实验”让你没那么怕了。我们把它定得再具体一点：这周你打算在哪个场景、对谁试一次？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（语气稍微松了一点，但还有点犹豫）嗯……我可以试试。就是“小实验，不是考试”，只问一个问题，做完就停。听起来好像没那么吓人了。",
+        "reasoning": "（语气稍微松了一点，但还有点犹豫）嗯……我可以试试。就是“小实验，不是考试”，只问一个问题，做完就停。听起来好像没那么吓人了。"
+      }
+    }
+  ],
+  "created": 1795155126,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2913,
+    "total_tokens": 2985,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

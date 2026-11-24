@@ -1,0 +1,41 @@
+{
+  "id": "fb0db878ba524bd48e5a35faf0250748",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我没忍住，又补了一句“你到底想不想找”，说完就后悔了。后来两个人更僵了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我当时是继续开口还是让安静过去，这让我想起上周客厅里那阵让人窒息的沉默。我其实很怕那种安静，好像每多停一秒，关系就更冷一点。）\n（我确实没忍住又补了一句，可那话一出口就带着刺，现在想起来还有点后悔。可能我真正想说的是“我陪着你”，但说出来却变成了催促和责怪。）",
+        "reasoning": "（咨询师在问我当时是继续开口还是让安静过去，这让我想起上周客厅里那阵让人窒息的沉默。我其实很怕那种安静，好像每多停一秒，关系就更冷一点。）\n（我确实没忍住又补了一句，可那话一出口就带着刺，现在想起来还有点后悔。可能我真正想说的是“我陪着你”，但说出来却变成了催促和责怪。）"
+      }
+    }
+  ],
+  "created": 1795142683,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 3259,
+    "total_tokens": 3370,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

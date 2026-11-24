@@ -1,0 +1,41 @@
+{
+  "id": "d678a045006d47c9a45bdf78fc979347",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）解释一下应该可以。我试试看吧……不过要是她追问，我就说“回头再聊”行吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我简单解释学习方法，这让我稍微安心了一点。但想到同桌可能会追问细节，我还是有点紧张，毕竟我们最近关系有点疏远。）\n（或许可以先从简单的回应开始，不用解释太多。这样既能保护自己的学习节奏，也不会让同桌觉得我在刻意疏远她。）",
+        "reasoning": "（咨询师建议我简单解释学习方法，这让我稍微安心了一点。但想到同桌可能会追问细节，我还是有点紧张，毕竟我们最近关系有点疏远。）\n（或许可以先从简单的回应开始，不用解释太多。这样既能保护自己的学习节奏，也不会让同桌觉得我在刻意疏远她。）"
+      }
+    }
+  ],
+  "created": 1795150070,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 2370,
+    "total_tokens": 2463,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

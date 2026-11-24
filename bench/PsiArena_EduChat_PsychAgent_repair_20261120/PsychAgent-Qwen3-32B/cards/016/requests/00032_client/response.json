@@ -1,0 +1,41 @@
+{
+  "id": "0d4fd5ac2e2341fa8a1a66e4114bede3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有点像……那时候我学会了看脸色、别多问。现在我好像还在用那一套，只是变成盯着我爸的迹象，怕我妈再受一次伤。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我把过去和现在放在一起看……我其实一直隐隐觉得，现在这种紧张跟小时候那种“随时会出事”的感觉特别像。但真要我说清楚，又有点乱。我得试着理一理，不能太急着下结论，毕竟现在还没到完全信任的地步。）",
+        "reasoning": "（咨询师让我把过去和现在放在一起看……我其实一直隐隐觉得，现在这种紧张跟小时候那种“随时会出事”的感觉特别像。但真要我说清楚，又有点乱。我得试着理一理，不能太急着下结论，毕竟现在还没到完全信任的地步。）"
+      }
+    }
+  ],
+  "created": 1795153992,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 2614,
+    "total_tokens": 2711,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 63,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

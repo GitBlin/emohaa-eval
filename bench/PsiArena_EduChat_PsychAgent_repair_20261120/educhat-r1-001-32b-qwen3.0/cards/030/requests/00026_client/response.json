@@ -1,0 +1,41 @@
+{
+  "id": "1e3cb3d8278d41339acb3863f690594e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）主要是情绪吧。工作上的事、还有和他之间那种尴尬的沉默，堆在一起就特别累。（叹气）有时候改稿改到半夜，就想找个人说说话，但又觉得这么晚了，打扰别人不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我具体是哪些情况撑不住，这让我有点不知道该从哪儿说起。情绪和体力确实都累，但好像还夹杂着别的东西。我想到工作里那些改来改去的方案，还有和他在一起时那种沉默的尴尬，这些好像都连在一起。）\n（也许可以试着说一点具体的，但又不想一下子全摊开。毕竟这些事平时我都不太愿意承认，怕显得自己太脆弱。不过既然刚才已经说了那么多，稍微提一下应该没关系吧。）",
+        "reasoning": "（咨询师问我具体是哪些情况撑不住，这让我有点不知道该从哪儿说起。情绪和体力确实都累，但好像还夹杂着别的东西。我想到工作里那些改来改去的方案，还有和他在一起时那种沉默的尴尬，这些好像都连在一起。）\n（也许可以试着说一点具体的，但又不想一下子全摊开。毕竟这些事平时我都不太愿意承认，怕显得自己太脆弱。不过既然刚才已经说了那么多，稍微提一下应该没关系吧。）"
+      }
+    }
+  ],
+  "created": 1795154617,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 2070,
+    "total_tokens": 2226,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 106,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

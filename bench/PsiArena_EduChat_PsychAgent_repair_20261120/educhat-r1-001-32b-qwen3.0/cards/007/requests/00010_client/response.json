@@ -1,0 +1,41 @@
+{
+  "id": "8c024a235c0443da8a7007683bc3255c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "书面……我没想过。这样会不会显得太正式了，搞得大家更尴尬？我其实不太想让他们觉得我很难相处。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我用更明确的方式表达需求，这让我有点犹豫。我从小就不太敢直接跟人提要求，总觉得会给人添麻烦。而且室友们看起来关系很好，我怕自己太直接会被他们排斥。）\n（不过咨询师说的书面形式……或许可以试试？至少不用面对面说，压力会小一点。但我还是担心他们觉得我小题大做，毕竟在他们看来熬夜打游戏是很正常的事。）",
+        "reasoning": "（咨询师建议我用更明确的方式表达需求，这让我有点犹豫。我从小就不太敢直接跟人提要求，总觉得会给人添麻烦。而且室友们看起来关系很好，我怕自己太直接会被他们排斥。）\n（不过咨询师说的书面形式……或许可以试试？至少不用面对面说，压力会小一点。但我还是担心他们觉得我小题大做，毕竟在他们看来熬夜打游戏是很正常的事。）"
+      }
+    }
+  ],
+  "created": 1795153622,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1218,
+    "total_tokens": 1337,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

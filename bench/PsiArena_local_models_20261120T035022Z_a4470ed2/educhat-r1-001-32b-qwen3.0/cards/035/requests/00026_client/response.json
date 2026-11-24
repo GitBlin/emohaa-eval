@@ -1,0 +1,41 @@
+{
+  "id": "3f86fc6681bf4bfe9a1722ed38509955",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“我需要”……听起来好陌生。我好像一直觉得，提需要就是软弱，会被看不起。这大概也是我爸妈教我的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我尝试新的表达方式，把指责性的“你该给我”换成表达需求的“我需要”。这确实戳中了我的痛处，因为我从小就被教育不能随便提要求，总觉得提要求就是软弱的表现。）\n（但另一方面，我又觉得这种改变很可怕，万一我说出“我需要”之后对方根本不在意呢？那不就证明我真的不值得被爱吗？这种恐惧让我本能地想要退缩。）",
+        "reasoning": "（咨询师在引导我尝试新的表达方式，把指责性的“你该给我”换成表达需求的“我需要”。这确实戳中了我的痛处，因为我从小就被教育不能随便提要求，总觉得提要求就是软弱的表现。）\n（但另一方面，我又觉得这种改变很可怕，万一我说出“我需要”之后对方根本不在意呢？那不就证明我真的不值得被爱吗？这种恐惧让我本能地想要退缩。）"
+      }
+    }
+  ],
+  "created": 1795149452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1965,
+    "total_tokens": 2085,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

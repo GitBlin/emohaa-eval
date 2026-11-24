@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-1e6f9bd9fbba4d0886c096e64ee8a99b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我们不需要一下子解决所有问题。你愿意和我分享一下你最近遇到的具体困难吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询流程存在认知模糊，需要明确咨询目标和步骤。\n【行动策略】：通过提问引导来访者具体描述问题，以建立初步的治疗方向。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询流程存在认知模糊，需要明确咨询目标和步骤。\n【行动策略】：通过提问引导来访者具体描述问题，以建立初步的治疗方向。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153898,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 303,
+    "total_tokens": 369,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

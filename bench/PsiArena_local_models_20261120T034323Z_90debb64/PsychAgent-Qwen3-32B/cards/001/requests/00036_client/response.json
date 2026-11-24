@@ -1,0 +1,41 @@
+{
+  "id": "6ddc5d4373b74569a879f52f000346c1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……（深呼吸）那个，我这道数学题卡住了，你方便看一下吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说演同学，让我自然开口。我有点紧张，但之前练过那句话，应该能说出来。先停一下再问，别太急。）",
+        "reasoning": "（咨询师说演同学，让我自然开口。我有点紧张，但之前练过那句话，应该能说出来。先停一下再问，别太急。）"
+      }
+    }
+  ],
+  "created": 1795146286,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 2413,
+    "total_tokens": 2469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

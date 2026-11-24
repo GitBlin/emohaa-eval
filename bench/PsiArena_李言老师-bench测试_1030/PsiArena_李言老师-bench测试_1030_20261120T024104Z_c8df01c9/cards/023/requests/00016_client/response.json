@@ -1,0 +1,41 @@
+{
+  "id": "4f854a70e5ba477cad69130ec0647033",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先是脸发热，心跳特别快，脑子里就一个念头——赶紧结束。现在想想，好像每次一怕被否定，身体就先绷起来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我当时身体最先的反应，看来是想帮我更具体地觉察那个紧张瞬间。现在到了后期，我得试着把感受说清楚，不能像之前那样模糊带过。）\n（我回忆起那种脸热、心跳快、想躲的感觉，这应该和长期害怕被否定有关。说出来反而没那么慌了，也许可以顺着这个方向想想下次怎么应对。）",
+        "reasoning": "（咨询师问我当时身体最先的反应，看来是想帮我更具体地觉察那个紧张瞬间。现在到了后期，我得试着把感受说清楚，不能像之前那样模糊带过。）\n（我回忆起那种脸热、心跳快、想躲的感觉，这应该和长期害怕被否定有关。说出来反而没那么慌了，也许可以顺着这个方向想想下次怎么应对。）"
+      }
+    }
+  ],
+  "created": 1795143082,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2522,
+    "total_tokens": 2632,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-27c356037f694ac0960401463a0eb33a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来你很累。这种感觉什么时候开始的？是每天都会这样吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者描述了身心疲惫和兴趣减退，提示可能存在情绪耗竭或抑郁倾向。\n【行动策略】：通过具体化问题，了解情绪波动的具体情境。\n",
+        "reasoning_content": "\n【诊断分析】：来访者描述了身心疲惫和兴趣减退，提示可能存在情绪耗竭或抑郁倾向。\n【行动策略】：通过具体化问题，了解情绪波动的具体情境。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154881,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 499,
+    "total_tokens": 561,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

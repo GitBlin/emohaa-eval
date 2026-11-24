@@ -1,0 +1,41 @@
+{
+  "id": "ee9095546d8f443993ce560268b980ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她最近好像老在看一些关于情感关系的片子……我以前都没留意。也许我可以陪她看看，顺便问问她怎么想的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我去观察妻子的兴趣爱好，这让我意识到自己确实很少关注她最近喜欢什么。我平时光顾着焦虑了，连她看什么电影都不知道，这让我有点愧疚。不过她提到电影和音乐，我倒是想起妻子最近好像总在看些关于情感关系的片子，也许可以从这里入手？）\n（但转念一想，如果直接问她看这些是不是跟那个想法有关，会不会显得太刻意了？我得找个自然点的方式，先陪她看看，再慢慢聊。这样至少能让她感觉到我是愿意去理解她的，而不是一味回避。）",
+        "reasoning": "（咨询师在引导我去观察妻子的兴趣爱好，这让我意识到自己确实很少关注她最近喜欢什么。我平时光顾着焦虑了，连她看什么电影都不知道，这让我有点愧疚。不过她提到电影和音乐，我倒是想起妻子最近好像总在看些关于情感关系的片子，也许可以从这里入手？）\n（但转念一想，如果直接问她看这些是不是跟那个想法有关，会不会显得太刻意了？我得找个自然点的方式，先陪她看看，再慢慢聊。这样至少能让她感觉到我是愿意去理解她的，而不是一味回避。）"
+      }
+    }
+  ],
+  "created": 1795148064,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 2354,
+    "total_tokens": 2505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 123,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

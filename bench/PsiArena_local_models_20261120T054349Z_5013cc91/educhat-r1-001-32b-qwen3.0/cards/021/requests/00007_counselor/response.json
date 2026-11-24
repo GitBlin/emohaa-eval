@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-7a4eed17e2bb405f83369da117d436eb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来你可能承受了不少压力。这些感受是不是和某些特定的事情有关呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者描述“心里堵得慌”，可能是情绪积压或压力导致的。\n【行动策略】：引导来访者探索具体的压力源，以明确问题。\n",
+        "reasoning_content": "\n【诊断分析】：来访者描述“心里堵得慌”，可能是情绪积压或压力导致的。\n【行动策略】：引导来访者探索具体的压力源，以明确问题。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154224,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 502,
+    "total_tokens": 563,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

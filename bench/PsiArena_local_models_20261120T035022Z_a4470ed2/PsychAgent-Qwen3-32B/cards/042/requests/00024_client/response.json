@@ -1,0 +1,41 @@
+{
+  "id": "9cd084291cae4727be64bf4272b6317d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胸口发紧，喘不上气那种。胃里也不舒服，空空的又有点恶心……说这些感觉挺没出息的，我平时根本不会跟人讲这些。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我身体反应……我确实一想起那句“男人得扛住”就胃里发紧，像有东西堵着。可这种话我平时根本不会跟人说，说出来好像显得我很软弱。不过她问得挺具体，我或许可以试着描述一下那种感觉，但别说得太深。）",
+        "reasoning": "（咨询师在问我身体反应……我确实一想起那句“男人得扛住”就胃里发紧，像有东西堵着。可这种话我平时根本不会跟人说，说出来好像显得我很软弱。不过她问得挺具体，我或许可以试着描述一下那种感觉，但别说得太深。）"
+      }
+    }
+  ],
+  "created": 1795148482,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2080,
+    "total_tokens": 2188,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

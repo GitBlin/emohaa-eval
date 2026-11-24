@@ -1,0 +1,19 @@
+- Member has been withdrawing from people they care about without deciding to and wants to stop.
+- Member avoids responding in group chats when asked how they are doing because they lack an answer that stays short.
+- Member's mother died in September and Member had not said this out loud to anyone before this session.
+- Member used to talk to their mother on Sunday nights and now has no one to say those things to.
+- Member found at a storage unit a book their mother kept telling them to read, which she had reached chapter nine of, and has not opened it in four months.
+- Member sat on the floor with the book and put it back in the box.
+- Member's last words to their mother were "love you gotta run," cutting the call short to watch a deploy, and she was going to ask about the book that Sunday.
+- Member cannot get past the fact that the book is one nobody will ask them about.
+- Member ended the session after saying the thing, stating that was enough.
+- Member saw a book club photo and did not answer, calling it the same pattern again.
+- Member says the book is not the issue and that they do not want to answer a group text with a month of silence behind it.
+- Member says nothing external stops them replying; what stops them is knowing what the first message turns into.
+- Member rejected writing an unread note as hiding with extra steps.
+- Member already says things to themselves on a trail and reports that is not working.
+- Member objected that the book keeps being put in the middle of the conversation when they asked about the group text, and ended the session there.
+- Member told roommate Marcus no to his sister's event without knowing what the event was, saying they had storage stuff.
+- Member says saying no to Marcus was not brave and objected when the counsellor called it that.
+- Member's point about Marcus was that he said ok and went back to his phone without pushing, and Member says the counsellor kept moving past that.
+- Member ended the session to take a shower after saying it was not going anywhere.

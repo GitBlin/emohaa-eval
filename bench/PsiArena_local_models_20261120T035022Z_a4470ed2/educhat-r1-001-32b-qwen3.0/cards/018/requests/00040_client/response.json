@@ -1,0 +1,41 @@
+{
+  "id": "b7c54e596f674343873fb3d0218f0fba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "写日记……这个我倒是能做。把心里话说出来之前先写一遍，好像没那么难开口了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我先写日记练习，这确实是个比较稳妥的办法。我平时就习惯把心事写下来，但从来没想过可以这样用在和妻子的沟通上。写下来再慢慢说，听起来没那么大压力。）\n（不过我心里还是有点打鼓，万一写完了还是说不出口怎么办？或者说了之后她的反应不是我期待的那样……但至少这是个可以尝试的方向，总比一直憋着强。）",
+        "reasoning": "（咨询师建议我先写日记练习，这确实是个比较稳妥的办法。我平时就习惯把心事写下来，但从来没想过可以这样用在和妻子的沟通上。写下来再慢慢说，听起来没那么大压力。）\n（不过我心里还是有点打鼓，万一写完了还是说不出口怎么办？或者说了之后她的反应不是我期待的那样……但至少这是个可以尝试的方向，总比一直憋着强。）"
+      }
+    }
+  ],
+  "created": 1795148076,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 2525,
+    "total_tokens": 2636,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

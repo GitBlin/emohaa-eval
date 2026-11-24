@@ -1,0 +1,30 @@
+- Member says knitting feels pointless because Member's brain keeps going; knowing Member could do a few rows does not help.
+- Member slept in their car last night.
+- Member had to clear out because their cousin's partner came back early.
+- Member paid for the motel for the week this morning and the rate went up again.
+- The studio Member was watching got taken the same day Member paid the motel.
+- Member has looked into shelters and housing support: the lists are full, and the ones that are not are places Member cannot get to and work at the same time.
+- Member rejects being treated as a case: Member has a job that pays, but it does not pay enough for a one bedroom anymore.
+- Member called three housing places last month, sat on hold for an hour, and was told they were full and to call back in thirty days.
+- Member's parents live twenty minutes away, call every Sunday, and believe Member is basically sorted and just finalizing a place; Member's dad has a guest room.
+- Member cannot tell their dad the truth because he will ask what Member did with the money and he will be right to ask.
+- Member had fifteen hundred saved and it is gone; Member says that conversation is worse than the car.
+- Member's weekly pattern: rates go up, Member does the math at midnight and comes out short, does it until 2 a.m., then gets up and makes beds for strangers and acts fine.
+- Member said "no" to calling a 24-hour hotline with the counsellor.
+- Member ended the session with "im gonna go."
+- Deshawn is Member's friend, not their cousin; Deshawn hung up on Member Friday after Member gave him the usual "basically sorted," and Member has not called him back.
+- Member is supposed to stay on Deshawn's couch tomorrow night and believes the couch may already be lost.
+- Member has four days of motel left, then it is Deshawn's couch or the car.
+- Member rejected writing talking points down and asked for the actual words to say to Deshawn, specifically what to open with in the first ten seconds.
+- Member rejected a suggested script line ("I'd really appreciate your support") as sounding like a form and like begging, which Deshawn would laugh at.
+- Member approved a script shape that leads with honesty about the motel ending in four days and asks whether they can still work something out, no apology up front, and said they would probably say it worse than written.
+- Member rejected "you've got this" and stated the housing support line is not a fallback because it told Member to call back in thirty days and does not pick up.
+- Member paid eight more dollars a night for the motel this week and did not look at the total.
+- Member planned to call Deshawn tonight after their shift because tomorrow is either knocking on his door or sitting in a parking lot.
+- Member called Deshawn and Deshawn said come through Tuesday; Member is now on Deshawn's couch.
+- Member's mom texted tonight asking whether Member is any closer to a place and mentioned the guest room's old bed frame is still in it; Member has not answered.
+- Member says the pressure is not off because it is a different couch and their bags are still packed in the corner.
+- Member has the motel money sitting in their account, has opened the app four times today, and does not know what it is for.
+- Member sleeps on the couch with a knot between the shoulder blades and still wakes at 2 a.m. going over the room; dismissed breathing and hot-shower suggestions as unusable at Deshawn's.
+- Member rejected the "I've got my own plan" line to their mom as the same "basically sorted" lie, and said any vague update will draw follow-ups until their mom gets the number, citing that she found six missing points on a 94.
+- Member ended the session with "im gonna go."

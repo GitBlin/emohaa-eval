@@ -1,0 +1,41 @@
+{
+  "id": "43cbe912f0e444eea3456aec69612f3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "愿意。我打算这周末饭后、他心情还行的时候说。要是他又说“知道了”，我就先停一下，提醒自己别马上缩回去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我确认具体行动的时间，这让我稍微踏实了一点。但一想到要真的开口，我又忍不住担心他的反应。我得先想好怎么应对，不能让自己太被动。）\n（也许可以先从比较平静的时候说起，这样我情绪不会太激动。如果他只是随便应付，我也得提醒自己别又缩回去，至少要把话说完。）",
+        "reasoning": "（咨询师在帮我确认具体行动的时间，这让我稍微踏实了一点。但一想到要真的开口，我又忍不住担心他的反应。我得先想好怎么应对，不能让自己太被动。）\n（也许可以先从比较平静的时候说起，这样我情绪不会太激动。如果他只是随便应付，我也得提醒自己别又缩回去，至少要把话说完。）"
+      }
+    }
+  ],
+  "created": 1795143065,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 3391,
+    "total_tokens": 3500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

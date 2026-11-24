@@ -1,0 +1,41 @@
+{
+  "id": "1ac0f76acd624028bf66485758879ad6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……那这里说的话，你会保密吗？我有点担心，万一被认识的人知道。其实我也说不清最近怎么了，就是总觉得累、心里堵得慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在解释咨询流程，语气很温和，也给了我控制权。但我还是不太确定该从哪里开始，毕竟第一次见面，总得先试探一下对方靠不靠谱。他会不会把我的事说出去？这种担心其实挺真实的，毕竟职场里已经够多流言蜚语了。）\n（而且我确实说不清自己到底怎么了，就是觉得累，心里堵得慌。也许先问清楚保密的事，再随便说点表面的困扰，这样比较安全。我不想一上来就暴露太多。）",
+        "reasoning": "（咨询师在解释咨询流程，语气很温和，也给了我控制权。但我还是不太确定该从哪里开始，毕竟第一次见面，总得先试探一下对方靠不靠谱。他会不会把我的事说出去？这种担心其实挺真实的，毕竟职场里已经够多流言蜚语了。）\n（而且我确实说不清自己到底怎么了，就是觉得累，心里堵得慌。也许先问清楚保密的事，再随便说点表面的困扰，这样比较安全。我不想一上来就暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795142475,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 147,
+    "prompt_tokens": 976,
+    "total_tokens": 1123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 110,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

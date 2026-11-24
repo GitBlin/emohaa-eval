@@ -1,0 +1,41 @@
+{
+  "id": "304b24713ba1405a8db8ea924da1305e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（站起身，又停了一下）下周还是这个时间吗？我怕自己到时候又不想来了……不过我会尽量来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（轻轻呼出一口气）好，那我先写下来，下次带给你看。（停顿了一下）今天……谢谢你没有一直追问，我好像能喘口气了。",
+        "reasoning": "（轻轻呼出一口气）好，那我先写下来，下次带给你看。（停顿了一下）今天……谢谢你没有一直追问，我好像能喘口气了。"
+      }
+    }
+  ],
+  "created": 1795155079,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 3680,
+    "total_tokens": 3742,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

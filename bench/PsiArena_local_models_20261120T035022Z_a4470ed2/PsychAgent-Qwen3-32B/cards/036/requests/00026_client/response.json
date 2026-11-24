@@ -1,0 +1,41 @@
+{
+  "id": "4292108e340d414f972a5bfd5e3c2ce6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "内疚吧……我觉得自己什么都没做，就只是看着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我选一个词……我好像一直在意别人怎么看我，现在要说出自己的感受，反而有点不确定了。是难过吗？还是担心？其实每次看到他被围着笑，我更多的是内疚，觉得自己什么也没做。但说出来会不会显得我太软弱了……算了，还是说实话吧。）",
+        "reasoning": "（咨询师让我选一个词……我好像一直在意别人怎么看我，现在要说出自己的感受，反而有点不确定了。是难过吗？还是担心？其实每次看到他被围着笑，我更多的是内疚，觉得自己什么也没做。但说出来会不会显得我太软弱了……算了，还是说实话吧。）"
+      }
+    }
+  ],
+  "created": 1795147939,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2120,
+    "total_tokens": 2201,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "4b750ead1a8d40aabdd50a5e09d9f44f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音有点发紧）在我家，成绩好像就是一切。考不好，爸妈虽然不骂我，但那个失望的样子……我特别受不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（皱眉想了想）可能是想法吧……可我总觉得我的想法也不是完全没道理啊。在我家，成绩不好真的会被说很久，爸妈嘴上不说，但那个眼神……（声音变小）我挺怕的。",
+        "reasoning": "（皱眉想了想）可能是想法吧……可我总觉得我的想法也不是完全没道理啊。在我家，成绩不好真的会被说很久，爸妈嘴上不说，但那个眼神……（声音变小）我挺怕的。"
+      }
+    }
+  ],
+  "created": 1795154987,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 1740,
+    "total_tokens": 1819,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 46,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

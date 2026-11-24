@@ -1,0 +1,30 @@
+- Member set rules (weekdays off, a jigger, a count in the back of the notebook) and held them nine days before a Thursday client dinner ended the streak.
+- Member says client dinners drive drinking because rounds get ordered for the table and not drinking makes Member look strange, and there is nobody at work Member would bring this to.
+- Member's brother calls on Sundays; Member rejects using that call as a scheduled check-in and does not want the brother monitoring Member.
+- Member states plans are not what is missing — Member already has rules, a plan and a notebook count, so further planning suggestions do not address the problem.
+- Member says the first drink at a dinner is easy social participation, but the second is where self-monitoring stops because nobody is counting and Member has stopped counting too.
+- Member says a self-sent reminder text would be ignored and the second drink poured anyway, as Member does not follow the rules in Member's own notebook.
+- Member says the retest result is already determined after six weeks of drinking and a week of abstinence will not change it, so the test is not a motivator.
+- Member rejects a strict no-alcohol week before the retest as another rule Member would break by Thursday.
+- Member rejects a harm-reduction log of 0–1 drinks at dinners as another column in the same notebook, which Member has twice stopped writing in.
+- Member rejects a pre-dinner walk plus phone reminder as a further plan, saying there is no version of a plan Member has not already tried, and finds that worrying.
+- Member declines a confidential peer support line, noting this counselling is already that kind of support.
+- Member has no dinner this week; the difficulty is ordinary nights, when cooking feels like too much work and by nine Member is on the couch with a glass.
+- Member says the problem after nine is not cooking but the quiet apartment, that the glass is for the quiet, and that Member has nothing to put in its place.
+- Member rejects a 10-minute walk after nine as another plan handed over instead of addressing the problem, and ended the session there.
+- Member reports the retest was moved to the next morning after a cancellation, leaving Member unsure what to do between then and the test.
+- Member rejected both a supervised pre-9 PM phone call and arriving at the lab 30 minutes early with water, and objected that the counsellor again handed over two things to do after Member had said no plan remains untried.
+- Member counted the bottles in the recycling twice after the office called, wanting the number before the blood draw so Member would know what the test was already going to say.
+- Member declined to state the bottle count, saying only that it was more than expected but not by much.
+- Member reports the count felt worse than hoped; when the counsellor proposed a 12-hour no-drinks-after-8 PM window, Member objected that it was a rule with a time on it and a broken promise not to ask Member to do anything.
+- Member's concern for the appointment is what to say when the doctor asks how much Member drinks, having last time given a number that was half the truth and knowing it while saying it.
+- Member rejects memorizing a suggested line, saying it would come out the way it did last time, and rejects a range or hedge as the same hedge with better manners.
+- Member states the goal is to say a number Member actually believes, and that taking a breath or a rule tonight does not make the number true.
+- Member says the count is the part Member would have to stand behind and Member no longer has one, having stopped writing it down, so the bin number is a guess done twice.
+- Member says the last hedge was because Member did not want the number to be the thing the doctor saw when he looked at Member, but now does not care how the doctor looks at Member — only that Member walks out having said a true thing once.
+- Member accepted saying the bin number and telling the doctor it is rough because Member stopped tracking, though Member expects to round it down in the chair anyway.
+- Member wrote the best current count plus a note that it is rough since tracking stopped on a card and put it in a coat pocket, but said "eight or nine" to the doctor anyway with the card in the pocket the whole time, and calls the result bad.
+- Member says the smaller number comes out half-decided, before Member has chosen anything, and that having the number written in the pocket is not the part that fails — Member is, at the moment Member opens his mouth.
+- Member rejects a placeholder line like "let me check my note" and a single keyword on the card as scripts that mean the decision against the true number is already made; Member repeated that the pocket is not the problem.
+- Member says the counsellor keeps handing over tools, but that the counsellor is also the only person Member has told about saying eight or nine, and that nobody can tell Member what to do Friday.
+- Member's stated aim for Friday is to leave without having lied twice in the same chart, which Member says requires wanting the true thing more than the easy number — something Member does not most days and does not trust today. [open]

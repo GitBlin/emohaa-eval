@@ -1,0 +1,41 @@
+{
+  "id": "0c5a427975924387a0087a7e621fbe5c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……这样啊。其实我也说不太清楚，就是最近总觉得很累，脑子里一直在想事情，停不下来。嗯……但具体为什么，我也讲不明白。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师看起来挺温和的，说不用准备，按我的节奏来。但我还是有点不确定，不知道该说到什么程度。先随便说点表面的吧，别一下子把自己全暴露出来。）\n（最近确实总是很累，脑子里停不下来。但具体为什么，我也说不清楚。也许先这样模糊地提一下，看看对方会怎么反应。）",
+        "reasoning": "（咨询师看起来挺温和的，说不用准备，按我的节奏来。但我还是有点不确定，不知道该说到什么程度。先随便说点表面的吧，别一下子把自己全暴露出来。）\n（最近确实总是很累，脑子里停不下来。但具体为什么，我也说不清楚。也许先这样模糊地提一下，看看对方会怎么反应。）"
+      }
+    }
+  ],
+  "created": 1795142918,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1023,
+    "total_tokens": 1134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0fb141381ccc48af878c79dbd1bdf4d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧，我知道了。其实聊到这儿，我心里好像没那么堵了。我打算这周先去把瑜伽班报上，然后找个时间，心平气和地跟他谈一次。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师怎么又重复这句话……是不是没在认真听我说？不过刚才聊了那么多，我好像确实没那么慌了。也许她只是想强调这个点吧。）\n（我现在情绪比之前稳定多了，也想到了几个实际能做的事，比如去上瑜伽课、找个合适的时间跟他谈谈。虽然心里还是有点没底，但至少不像一开始那样一团乱麻了。）",
+        "reasoning": "（这个咨询师怎么又重复这句话……是不是没在认真听我说？不过刚才聊了那么多，我好像确实没那么慌了。也许她只是想强调这个点吧。）\n（我现在情绪比之前稳定多了，也想到了几个实际能做的事，比如去上瑜伽课、找个合适的时间跟他谈谈。虽然心里还是有点没底，但至少不像一开始那样一团乱麻了。）"
+      }
+    }
+  ],
+  "created": 1795154756,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2966,
+    "total_tokens": 3086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

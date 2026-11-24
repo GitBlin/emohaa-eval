@@ -1,0 +1,41 @@
+{
+  "id": "e545cfb6dd344f5592f5eab9f354baf5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……你好。其实我不太确定该从哪儿说起。想先问问，你们这边咨询一般是怎么进行的？我……我之前没做过这种。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师刚刚自我介绍，看起来是个温和的人。但我不确定该不该相信她，毕竟第一次见面。家里那些事...还有检查结果...现在说出来会不会太早了？我得先知道她到底怎么工作的，会不会像上次那个医生一样只会说“放松心情”。）\n（作为敏感又容易焦虑的人，我需要先试探她的专业性。但也不能表现得太防备，毕竟是我自己预约的咨询。也许可以问问咨询方式，看看她是不是那种只会讲大道理的类型。要是她让我不舒服，我随时可以结束对话。）",
+        "reasoning": "（心理咨询师刚刚自我介绍，看起来是个温和的人。但我不确定该不该相信她，毕竟第一次见面。家里那些事...还有检查结果...现在说出来会不会太早了？我得先知道她到底怎么工作的，会不会像上次那个医生一样只会说“放松心情”。）\n（作为敏感又容易焦虑的人，我需要先试探她的专业性。但也不能表现得太防备，毕竟是我自己预约的咨询。也许可以问问咨询方式，看看她是不是那种只会讲大道理的类型。要是她让我不舒服，我随时可以结束对话。）"
+      }
+    }
+  ],
+  "created": 1795142831,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 852,
+    "total_tokens": 997,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 113,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

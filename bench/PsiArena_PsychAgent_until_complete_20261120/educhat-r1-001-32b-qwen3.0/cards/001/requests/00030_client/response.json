@@ -1,0 +1,41 @@
+{
+  "id": "c9e0eeb23b054271be4a1bfad6e4ff34",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（眼眶有点红）我想说……考不好不代表你不好。（停顿）可是现在说这些又有什么用呢……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到那次批评像小刀，让我想起初一那次被当众指责的场景。她问我想对当时的自己说什么，这让我有点难受，因为那段记忆一直压在心底。）\n（作为内向敏感的高中生，我其实很想安慰那个受伤的自己，但又觉得说这些矫情的话很别扭。不过既然咨询师问起来了，或许可以试着表达一下，毕竟她看起来是真心想帮我。）",
+        "reasoning": "（心理咨询师提到那次批评像小刀，让我想起初一那次被当众指责的场景。她问我想对当时的自己说什么，这让我有点难受，因为那段记忆一直压在心底。）\n（作为内向敏感的高中生，我其实很想安慰那个受伤的自己，但又觉得说这些矫情的话很别扭。不过既然咨询师问起来了，或许可以试着表达一下，毕竟她看起来是真心想帮我。）"
+      }
+    }
+  ],
+  "created": 1795153477,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2122,
+    "total_tokens": 2234,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "68fddc457c164fdeb9c6acb6cd83767f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好吧。其实我也不是非要找你，就是有时候会觉得心里空空的。最近上课的时候，我老是走神，学生叫我好几声我才反应过来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接回应我关于咨询外联系的试探，而是温和地把话题引回我的困扰。这让我有点失落，但也能感觉到他在维护边界。我犹豫要不要继续追问，可又怕显得太依赖。还是先顺着他的意思，试着说一点表面的感受吧，但不要讲太深。）",
+        "reasoning": "（咨询师没有直接回应我关于咨询外联系的试探，而是温和地把话题引回我的困扰。这让我有点失落，但也能感觉到他在维护边界。我犹豫要不要继续追问，可又怕显得太依赖。还是先顺着他的意思，试着说一点表面的感受吧，但不要讲太深。）"
+      }
+    }
+  ],
+  "created": 1795148687,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1154,
+    "total_tokens": 1255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

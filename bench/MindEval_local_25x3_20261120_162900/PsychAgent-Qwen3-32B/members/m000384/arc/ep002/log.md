@@ -1,0 +1,30 @@
+- Member already paid for this week's motel and has not checked what money remains.
+- Member does not want shelter or housing resource lists and does not want help with a budget, as they already budget nightly.
+- Member came to counseling because they cannot sleep, not for housing resources.
+- Member lies down around 11 and does not fall asleep until 2 or later, cycling through money, listings, and texts they sent.
+- Member has tried 4-7-8 breathing from yoga; it works when they do it but they usually do not make themselves start.
+- Member rejects a written worry list because writing it down just moves the same rumination onto paper.
+- Money is the first thing that comes up every night when the worry list starts.
+- Member used to knit for hours and it quieted their mind, but has not touched it since the summer; the knitting bags are in their trunk.
+- Member pulled the knitting out once in the motel room, looked at it, and put it back.
+- Member finds knitting in a motel room painful because it signals that this is not their life.
+- Member reacted strongly to being told to knit in a Walmart parking lot, saying the car is the parking lot and they have already slept in one this week.
+- Member ended the session by saying they were going to leave.
+- Member's friend Deshawn told them he is tired of being the fallback and wants a yes or no; Member has not answered since Sunday.
+- Member's motel runs out Wednesday and they have no money for another week, so "no" to Deshawn means sleeping in the car again and pretending to everyone they are fine.
+- Member says "temporary" has no end date — they have been telling themselves "six more weeks" since June.
+- Member saved 1500 for a certification that went to motel weeks and a deposit on a place they did not get.
+- Member's dad has a guest room and calls every Sunday without knowing any of this; Member refuses to call him because telling him the plan failed would define how he sees them for life, and will not discuss how they would phrase it.
+- Member's trunk holds everything they own including clean shirts and they open it every morning, so opening it is not a usable task.
+- Member says a date on the couch stay is what makes it different from "six more weeks of sounding fine," and wants an actual date — the 3rd — rather than "two weeks."
+- Member is afraid that moving to Deshawn's couch means giving up the nightly listings search and having to just be a person on a couch.
+- Member's cousin texted twice about a hoodie left in the spare room; Member has not opened either, and believes responding means owing the whole story, which the cousin would pass to the aunt.
+- Member says in their family you get asked what you got done, not how you are doing — a 94 came back as a question about the missing six points — so they do not know how to put "I'm on somebody's couch" into a sentence.
+- Member accepted the text "I'll take the couch for the next two weeks while I regroup. I'll keep looking and update you if anything changes," with an actual date of the 3rd substituted for "two weeks," as the first wording that does not sound like begging or lying.
+- Member sent Deshawn the couch text with the 3rd as the date and Deshawn replied "ok".
+- Member is sitting with the option to book a motel room tonight and cannot tell whether they want it because they need a bed or because they cannot stand the couch part.
+- Member says the specific thing a room protects them from is having to be fine in Deshawn's living room at 5am before work, where a room lets them be a mess unseen for one night.
+- Member says the room is the only place they get to not be a guest, and has no other place to have a feeling.
+- Member rejected the counsellor's scaled-down suggestions (a 30-minute window, an added check-in on the 3rd) as more assignments on the list that keeps them up.
+- Member fears that booking the room means the 3rd turns into another 3rd, and that they will not show up at Deshawn's door.
+- Member ended the session saying they were going to go because it was late and they were only answering questions.

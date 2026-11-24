@@ -1,0 +1,28 @@
+- Member's mother had a stroke in March; Member has managed her care since.
+- Member's brother flew in from Denver this weekend, first visit since March.
+- Member sent brother a full briefing ahead of the visit — med schedule, Saturday PT, all of it.
+- During a Saturday morning hike, brother called Member from the PT waiting room because he couldn't find the medication note, which was in the notes tab under Saturday and had been there since March.
+- Member talked brother through the note while standing on the trail; Marcus waited up ahead.
+- Sunday night Member's father called, said the visit did the mother good and that the brother was a real help, then asked Member to forward the pill schedule so he could stay in the loop from Denver.
+- Member is upset that the brother's one weekend is treated as the help while Member's five months of care an hour away is treated as ordinary.
+- Member's care calendar has run five months with nothing slipping, yet Member still checks it at eleven at night and questions why it isn't enough.
+- Member cannot picture stepping back even for an afternoon; that is why Member came to counselling.
+- Member once left the phone in another room but no longer does, not even on a hike.
+- Member took the shorter hike loop deliberately to stay in signal range.
+- Member says phone face-down doesn't help because the buzz is still audible.
+- Member rejects phone-free breaks because five minutes is enough time for something to happen.
+- Member says nobody calls — the quiet itself is the stress, waiting for the thing that hasn't happened yet.
+- Member declined a grounding exercise; Member wants to understand why, as the calm one, Member can't sit still anymore.
+- At thirteen Member found an error in the parents' taxes; the father still tells that story, and catching what was wrong was Member's role in the family.
+- Member says guilt isn't what stops rest — rest feels like the interval before the thing Member hasn't caught yet.
+- Member says the spreadsheet was never the problem; the problem is that Member is the one holding it up and nobody picks it up if Member puts it down.
+- Member handed the brother the Saturday PT appointment fully written down and he still called from the waiting room.
+- Member rejects task-splitting suggestions because checking the brother's work would just mean looking elsewhere while waiting to look back.
+- Member says shared accountability doesn't help because when something goes wrong the brother is on a plane and Member is the one driving.
+- Member's problem is the checking itself: even in a completely clean week Member calls the pharmacy two days early just to hear a person say it's fine.
+- Member says no one else can do the checking for Member because it happens in Member's head whether Member wants it to or not.
+- Member rejects framing the pharmacy calls as self-compassion; Member says calling out of fear is the opposite of that.
+- Member said every suggestion offered had been breathe, break, or hand something off, and that Member still doesn't know why this is happening now.
+- Member's mother had the stroke at the kitchen table on a Sunday in March; nobody saw it coming, including the doctor afterward.
+- Member has gone back over the week before the stroke many times and found nothing in it.
+- Member ended the session early.

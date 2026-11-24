@@ -1,0 +1,41 @@
+{
+  "id": "d61436c608f844c6b23397a1fc9c4030",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她能主动找我一次吧。可要我真去跟她说“你多关心我一点”，我又怕显得很黏人。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我更希望朋友先做到哪一点，这让我有点纠结。其实我心里清楚，主动关心对我来说太重要了，但直接说出来又怕显得自己太黏人。不过既然咨询师问得这么具体，或许可以试着说一个具体的小行动，这样听起来不会太贪心。）\n（我想选“主动找我一次”这个点，因为那是我最在意的。但如果直接说“她应该主动找我”，好像又变成要求了。所以得加一句怕显得黏人，这样既表达了真实想法，又保留了我一贯的犹豫和不安。）",
+        "reasoning": "（她问我更希望朋友先做到哪一点，这让我有点纠结。其实我心里清楚，主动关心对我来说太重要了，但直接说出来又怕显得自己太黏人。不过既然咨询师问得这么具体，或许可以试着说一个具体的小行动，这样听起来不会太贪心。）\n（我想选“主动找我一次”这个点，因为那是我最在意的。但如果直接说“她应该主动找我”，好像又变成要求了。所以得加一句怕显得黏人，这样既表达了真实想法，又保留了我一贯的犹豫和不安。）"
+      }
+    }
+  ],
+  "created": 1795142633,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 149,
+    "prompt_tokens": 2739,
+    "total_tokens": 2888,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 121,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

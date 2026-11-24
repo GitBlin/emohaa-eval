@@ -1,0 +1,30 @@
+- Member sees no point in writing the number down now, since it does not change what next week's bloodwork will say.
+- Member is not hoping for much from the retest, believing the enzymes are already determined and the two-week window closed two weeks ago.
+- Member is on a regional director list and fears that a worse result reaching senior management would end that prospect.
+- Member says losing the list would mean he hit every number they gave him and it still was not what counted, leaving him at fifty-five with the same title he had at forty-five.
+- Member dismisses his career dissatisfaction by noting plenty of people would take his job and be glad of it.
+- Member wakes at four in the morning doing arithmetic — weekly units, what the panel might look like, days until the appointment — until his alarm, then runs a meeting in that state.
+- Member's brother calls every Sunday from Queens and would be the one to notice something, but Member has not told him because he would worry and Member would end up talking him through it.
+- Member wants his evenings back: he used to cook and read, but now sits down with a glass and finds it is eleven and the bottle is empty.
+- Member describes cooking as the end of his day — chopping, pan, twenty minutes, then eating — with nothing to review the next morning.
+- Member is skeptical of plans because every plan this month came apart by day ten, and asks what makes one evening different from a system.
+- Member plans one evening this week with no rules attached: buy something from the market on the way home, cook it, eat at the table instead of in front of the TV, and go to bed at a decent hour.
+- Member chose Thursday for the evening because nothing is on his calendar after work and there is no client stuff.
+- Member plans to cook chicken thighs with lemon and potatoes on Thursday, a Sunday dish he says is hard to get wrong.
+- Member said he feels better than he did an hour ago and that Thursday is the first thing in weeks without a number attached to it.
+- Member agreed to come back after Thursday and report how the evening went.
+- Member's retest was moved up to the next morning, and he was given a form to complete before the appointment declaring weekly units, which he left blank for an hour because once typed the number enters a record he does not control.
+- Member fears a bad number reaching senior management would end his regional director shortlist, and admitted he was inventing an HR file that probably does not exist rather than calling the front desk to ask who reads the form.
+- Member told his doctor half the real number five weeks ago when she asked point blank, wanting a figure he could fix alone with a jigger and a notebook.
+- Member fears the doctor's reaction is a flat, quiet look and a private note reading "he said one thing and it's another thing," but said the worse outcome is her writing it down and moving to the next question as if it were routine.
+- Member said "just a man who drinks too much" now sounds less like a fear of her judgment and more like an accurate description, and cannot identify when that changed.
+- Member stated his real intake as thirty-five units a week, give or take, with no week lower — the "none less," every night with no dry day, being the detail he had not said aloud before.
+- Member committed to filling the form in honestly and telling the doctor the number himself before she reads it, preferring to say it first rather than be found out.
+- Member will tell his brother Rubén on Sunday after the retest rather than before, so he hands him the result and not a bare scare, and will ask only that Rubén know it without treating it as a project or checking in daily.
+- Member noted Rubén has already said his answers are getting short, so the silence has not protected Rubén from guessing at the shape of it.
+- Member said he would close the session and type the number before finding a reason not to.
+- Member reported the appointment: the doctor read his number and said alcohol use disorder flatly, then moved his follow-up to two weeks instead of six; Member read the shortened interval as her bracing for a bad result and now expects the retest to be worse, seeing no point in the sober night or the notebook.
+- Member has been carrying the referral sheet folded in his jacket unopened since the appointment because opening it converts it from an object into a task he can fail, and he fears the homework of a nightly program and the doctor asking whether he did it.
+- Member's feared answer to the doctor is "I don't know if I'll do it," which he believes has no slot in her room and lands as a no or a yes that curdles into a no-show; he wants to ask her how a stated not-knowing gets recorded.
+- Member plans to read the folded referral in the morning with coffee before the phone starts, and declined to plan the ten minutes after reading it because scheduling everything is what has him running schedules at four in the morning.
+- [open] Member agreed to come back after reading the referral and to report what it says and how the morning went.

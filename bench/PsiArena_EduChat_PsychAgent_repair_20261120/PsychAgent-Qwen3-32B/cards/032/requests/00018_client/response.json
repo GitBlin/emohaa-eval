@@ -1,0 +1,41 @@
+{
+  "id": "e01fbbb461c44259a8d6709351053d3e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "胃口挺差的，有时候一天就吃一顿。体重……没称过，但裤子好像松了点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到食欲和体重，让我觉得他好像更关心身体上的变化。可我真正难受的是心里那种被晾着的感觉……不过既然他问了，我也只能先回答。）\n（最近确实没什么胃口，吃东西都尝不出味道。想到他可能根本不在意我吃没吃饭，就更不想吃了。）",
+        "reasoning": "（咨询师问到食欲和体重，让我觉得他好像更关心身体上的变化。可我真正难受的是心里那种被晾着的感觉……不过既然他问了，我也只能先回答。）\n（最近确实没什么胃口，吃东西都尝不出味道。想到他可能根本不在意我吃没吃饭，就更不想吃了。）"
+      }
+    }
+  ],
+  "created": 1795154676,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1716,
+    "total_tokens": 1805,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

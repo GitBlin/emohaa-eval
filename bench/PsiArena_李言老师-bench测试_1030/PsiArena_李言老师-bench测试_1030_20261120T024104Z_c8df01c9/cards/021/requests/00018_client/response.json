@@ -1,0 +1,41 @@
+{
+  "id": "15e86e6f8b8347398162620ec2409ba3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "请假倒还好，学校那边能协调。主要是我妈那边，我一走开就心里不踏实，别人照顾我又不放心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是请假和照顾母亲哪个更让我犯难。我其实更担心的是母亲那边，请假倒还好说。学校那边可以协调，但母亲现在这样，我实在不放心让别人来照顾她。她眼神空空的，有时候连我都不太认得，换别人来我怕她更不安。这种时候离开她，我心里过不去。）\n（可我也知道，自己一直这么撑着不是办法。也许得先弄清楚母亲那边到底能怎么安排，我才能安心去问自己的事。但这话说出来，好像又显得我在推卸责任似的。心里有点乱，不知道该怎么表达才不显得自私。）",
+        "reasoning": "（咨询师问的是请假和照顾母亲哪个更让我犯难。我其实更担心的是母亲那边，请假倒还好说。学校那边可以协调，但母亲现在这样，我实在不放心让别人来照顾她。她眼神空空的，有时候连我都不太认得，换别人来我怕她更不安。这种时候离开她，我心里过不去。）\n（可我也知道，自己一直这么撑着不是办法。也许得先弄清楚母亲那边到底能怎么安排，我才能安心去问自己的事。但这话说出来，好像又显得我在推卸责任似的。心里有点乱，不知道该怎么表达才不显得自私。）"
+      }
+    }
+  ],
+  "created": 1795143060,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 162,
+    "prompt_tokens": 2494,
+    "total_tokens": 2656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 133,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e5376ecfeb6b41b6b981cd09a5671e69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "打分啊……学习的话，中等吧，还撑得住。人际……可能更重一点，但我也说不上来具体是什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师直接问压力来源，还让我打分……感觉有点被推着走。我本来只是试探一下他会不会评判我，现在他倒好，直接要我说具体的。不过，他好像确实没有觉得我矫情。学习压力……其实还好，主要是宿舍里的事让我烦。但我不想这么快就说室友，好像显得我在背后说人坏话。先含糊一点吧。）",
+        "reasoning": "（咨询师直接问压力来源，还让我打分……感觉有点被推着走。我本来只是试探一下他会不会评判我，现在他倒好，直接要我说具体的。不过，他好像确实没有觉得我矫情。学习压力……其实还好，主要是宿舍里的事让我烦。但我不想这么快就说室友，好像显得我在背后说人坏话。先含糊一点吧。）"
+      }
+    }
+  ],
+  "created": 1795146826,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1591,
+    "total_tokens": 1704,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

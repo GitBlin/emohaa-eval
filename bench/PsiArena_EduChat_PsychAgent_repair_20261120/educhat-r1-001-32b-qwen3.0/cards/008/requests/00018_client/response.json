@@ -1,0 +1,41 @@
+{
+  "id": "4e3d45f86d7b4defa3d3ee59067ab9ba",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）收纳盒……我小时候，爸妈总说在外面要沉住气，别让人看出你在想什么。（抬头）现在同事也这么说，我都快分不清这是为我好，还是……让我憋着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用伞和收纳盒的比喻让我觉得她好像真的在试着理解我。她说压抑情绪会像伞破了一样溅到身上，这让我想起小时候……那时候家里确实不能随便表达情绪。）\n（我爸妈总说在外面要沉稳，可他们自己在家也从来不吵架，好像所有不开心的事都被藏起来了。我从小就觉得，情绪露出来是件危险的事。现在职场里同事也这么说，我就更不敢了。）",
+        "reasoning": "（咨询师用伞和收纳盒的比喻让我觉得她好像真的在试着理解我。她说压抑情绪会像伞破了一样溅到身上，这让我想起小时候……那时候家里确实不能随便表达情绪。）\n（我爸妈总说在外面要沉稳，可他们自己在家也从来不吵架，好像所有不开心的事都被藏起来了。我从小就觉得，情绪露出来是件危险的事。现在职场里同事也这么说，我就更不敢了。）"
+      }
+    }
+  ],
+  "created": 1795153737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 142,
+    "prompt_tokens": 1602,
+    "total_tokens": 1744,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

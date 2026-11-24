@@ -1,0 +1,41 @@
+{
+  "id": "330275873a95472e9dc08e1adb57a43c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能理解，我们不是要“赶走”乱想，而是练习在乱想出现时有个落脚点。接下来，我们商量一个这周能做的小计划：每天固定一次3分钟呼吸，加上一次“我在猜测”的标注，可以吗？<第20轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）嗯……吸气-呼气……吸气-呼气……好像确实能稳住一点。不过我还是有点怕，怕一停下来又回到那种乱想的状态。",
+        "reasoning": "（停顿）嗯……吸气-呼气……吸气-呼气……好像确实能稳住一点。不过我还是有点怕，怕一停下来又回到那种乱想的状态。"
+      }
+    }
+  ],
+  "created": 1795154703,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2722,
+    "total_tokens": 2842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

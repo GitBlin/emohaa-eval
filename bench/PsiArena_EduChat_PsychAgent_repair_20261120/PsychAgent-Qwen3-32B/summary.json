@@ -1,0 +1,46 @@
+{
+  "protocol": "code",
+  "n_expected": 50,
+  "n_scored": 45,
+  "complete": false,
+  "coverage": 0.9,
+  "skipped": [
+    13,
+    20,
+    25,
+    34,
+    39
+  ],
+  "errors": {
+    "13": "[Errno 2] No such file or directory: '../PsiArena_EduChat_PsychAgent_repair_20261120/PsychAgent-Qwen3-32B/scores13.txt'",
+    "20": "[Errno 2] No such file or directory: '../PsiArena_EduChat_PsychAgent_repair_20261120/PsychAgent-Qwen3-32B/scores20.txt'",
+    "25": "[Errno 2] No such file or directory: '../PsiArena_EduChat_PsychAgent_repair_20261120/PsychAgent-Qwen3-32B/scores25.txt'",
+    "34": "[Errno 2] No such file or directory: '../PsiArena_EduChat_PsychAgent_repair_20261120/PsychAgent-Qwen3-32B/scores34.txt'",
+    "39": "[Errno 2] No such file or directory: '../PsiArena_EduChat_PsychAgent_repair_20261120/PsychAgent-Qwen3-32B/scores39.txt'"
+  },
+  "means": {
+    "client": 2.7111111111111112,
+    "supervisor": 3.185714285714286,
+    "counselor": 3.9086419753086408,
+    "overall": 3.1521043771043775
+  },
+  "passes": {
+    "client": 30,
+    "supervisor": 32,
+    "counselor": 28,
+    "overall": 37
+  },
+  "pass_rates": {
+    "client": 0.6,
+    "supervisor": 0.64,
+    "counselor": 0.56,
+    "overall": 0.74
+  },
+  "pass_rates_valid_only": {
+    "client": 0.6666666666666666,
+    "supervisor": 0.7111111111111111,
+    "counselor": 0.6222222222222222,
+    "overall": 0.8222222222222222
+  },
+  "pass_rate_denominator": "all planned dialogues; invalid/missing are not passes"
+}

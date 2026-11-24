@@ -1,0 +1,41 @@
+{
+  "id": "11ad1fe96ad44584b81d790bb5f8c682",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "不算失败。那句话是提醒，不是魔法。难受出现时，能记得给自己一点缓冲，本身就是进步。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我想确认一下，如果我用了这句话，可还是觉得难受，那算失败吗？",
+        "reasoning": "嗯……我想确认一下，如果我用了这句话，可还是觉得难受，那算失败吗？"
+      }
+    }
+  ],
+  "created": 1795153485,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 2846,
+    "total_tokens": 2891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 21,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

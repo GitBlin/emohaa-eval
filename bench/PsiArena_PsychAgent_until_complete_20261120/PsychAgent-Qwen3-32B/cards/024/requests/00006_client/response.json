@@ -1,0 +1,41 @@
+{
+  "id": "9bf74258da304feea95fb8c247b6b43e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（犹豫）就……上周吧，跟婆婆因为孩子的事说了几句，后来我就一直不舒服。不过我也不太清楚这算不算什么大事，是不是我太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户是来访者，第3轮初期，需要继续防御和试探，模糊描述。可以提到一个场景但不深入。也可以测试界限。第3轮只针对一个方面，可能模糊描述感受。",
+        "reasoning": "用户是来访者，第3轮初期，需要继续防御和试探，模糊描述。可以提到一个场景但不深入。也可以测试界限。第3轮只针对一个方面，可能模糊描述感受。"
+      }
+    }
+  ],
+  "created": 1795154248,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 1094,
+    "total_tokens": 1176,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

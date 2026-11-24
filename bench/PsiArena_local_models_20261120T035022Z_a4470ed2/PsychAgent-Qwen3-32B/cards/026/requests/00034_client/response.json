@@ -1,0 +1,41 @@
+{
+  "id": "eadae25325cc47f7959679bde3105200",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想找个她心情好的时候，就说“妈妈最近在练习先听你说完，再讲我的看法”。你觉得这样说会不会太正式了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我在想怎么跟女儿开口，怎么说才不会让她觉得我又在找借口或者要求她什么。可能得挑个她心情好的时候，简单说一句。",
+        "reasoning": "我在想怎么跟女儿开口，怎么说才不会让她觉得我又在找借口或者要求她什么。可能得挑个她心情好的时候，简单说一句。"
+      }
+    }
+  ],
+  "created": 1795147403,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 65,
+    "prompt_tokens": 2644,
+    "total_tokens": 2709,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

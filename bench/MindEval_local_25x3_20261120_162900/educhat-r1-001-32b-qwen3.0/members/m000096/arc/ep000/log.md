@@ -1,0 +1,28 @@
+- Member's doctor flagged elevated liver enzymes at an annual physical and asked Member to cut back on drinking before a retest next week; Member has not managed the reduction as instructed.
+- Member set rules for drinking — weekdays only, measured pours, keeping a tally in the back of a notebook — and held to them for about nine days.
+- A Thursday client dinner with rounds of drinks ended Member's adherence to the rules; Member stopped keeping the tally and the count rose over the following two weeks.
+- Member rejects building another version of the rules system, saying the system broke and a new version would do nothing different.
+- Member rejects a "sobriety bank" as a tally under another name, saying the tally never stopped drinking, only recorded it afterwards.
+- Member rejects reframing the tally as a pattern-spotting tool, saying whatever is written before the retest isn't read until after it and the numbers are already fixed.
+- Member says the retest panel reflects what Member drank regardless of effort, and that effort is irrelevant to the result.
+- Member is on a shortlist for regional director and believes a worse result on paper would end that conversation before it starts.
+- Member wakes at four most mornings calculating units per week, days until the appointment, and prior enzyme numbers, and has the whole argument with himself before the alarm.
+- Member rejects journaling one sentence in the morning as a way to ease the four-in-the-morning arithmetic.
+- Member does not know what being kind to himself means, has never done it, and wouldn't know where to start.
+- Member says a walk is manageable but not the problem; the problem is evenings, when Member used to cook and read and now drinks and is in bed before doing either.
+- Member is considering making dinner on Thursday to see if it holds, and doubts it will, expecting to report back that it didn't. [open]
+- Member rejects drinking a glass of water in the morning as addressing the hard part, which is 9pm when the day is done, the bottle is there, and Member has nothing else to do.
+- Member rejects a distraction toolkit such as podcasts, puzzle apps, or a playlist, saying a podcast doesn't turn his head off the way drink does and that he has a dozen ways to not drink for an hour before he is still wound up at ten thirty.
+- Member rejects stretching and journaling as ways to unwind.
+- Member rejects the suggestion of seeing a therapist, saying he has done this before and would just report back that it didn't work either.
+- Member pulled back from drinking for a year on his own at 47, and says this time it is not going that way and he doesn't see what is different now.
+- Member rejects picking an accountability buddy, mindfulness practice, or small habit off the counsellor's list, saying none of those are what's wrong.
+- Member says at 47 he fixed it and the numbers went the way he wanted, and that this time a number is coming back he can't work on; he doesn't know what to do with a number he can't improve.
+- Member says in his job the number is the value and has been for forty years, and he can't switch that off for this one result.
+- Member refuses to bring his team into the situation, saying they work for him and don't need to know what he does at night.
+- Member rejects naming any small step, saying every step he names he has already tried and it didn't hold, leaving him reporting the failure back.
+- Member rejects being told to breathe, saying waking at four in the morning is the deep breath.
+- Member rejects letting his mind wander, saying that is the whole problem — it is what his mind does at four in the morning and he drinks so it stops.
+- Member refuses to describe what is in his body to a screen, saying that is not something he does.
+- Member says he has nothing left to try tonight and lists the suggestions already given — candles, tea, walks, podcasts, water, a bank, a buddy, stretching, breathing — saying none of it lands and it keeps coming.
+- Member says "go find someone who understands" is the answer he has been getting for years and does not think there is an answer in this.

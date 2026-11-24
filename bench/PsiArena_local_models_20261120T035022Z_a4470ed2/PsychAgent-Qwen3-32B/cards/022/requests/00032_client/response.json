@@ -1,0 +1,41 @@
+{
+  "id": "42cc37b87a114f2cbca030a524e04b70",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（思考）我想想……比如她说我这做得不好，我可以先停一下，然后说“我听到了，我再看看怎么改”，而不是马上说“是我不好”。这样说……好像没那么憋屈。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（思考）我想想……比如她说我这做得不好，我可以先停一下，然后说“我听到了，我再看看怎么改”，而不是马上说“是我不好”。这样说……好像没那么憋屈。",
+        "reasoning": "（思考）我想想……比如她说我这做得不好，我可以先停一下，然后说“我听到了，我再看看怎么改”，而不是马上说“是我不好”。这样说……好像没那么憋屈。"
+      }
+    }
+  ],
+  "created": 1795147266,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 2724,
+    "total_tokens": 2810,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 43,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "04aac06c011042b0b9eeadedda082d94",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……朋友聊天啊。其实我也说不太清楚，就是最近工作还行，但心里有点闷闷的，不知道怎么说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他刚才说咨询像朋友聊天，但我还是不太确定该怎么开口。毕竟我不习惯跟陌生人说太多私事，而且同事那句话让我一直很在意。也许我可以先模糊地提一下最近的状态，看看他会不会追问细节。）\n（不过我还是有点防备，不想一下子说太多。先简单说工作还行但心里不太舒服，看他怎么反应吧。这样既不会显得太封闭，也能试探一下他是不是真的能理解我的感受。）",
+        "reasoning": "（他刚才说咨询像朋友聊天，但我还是不太确定该怎么开口。毕竟我不习惯跟陌生人说太多私事，而且同事那句话让我一直很在意。也许我可以先模糊地提一下最近的状态，看看他会不会追问细节。）\n（不过我还是有点防备，不想一下子说太多。先简单说工作还行但心里不太舒服，看他怎么反应吧。这样既不会显得太封闭，也能试探一下他是不是真的能理解我的感受。）"
+      }
+    }
+  ],
+  "created": 1795153440,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1047,
+    "total_tokens": 1170,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

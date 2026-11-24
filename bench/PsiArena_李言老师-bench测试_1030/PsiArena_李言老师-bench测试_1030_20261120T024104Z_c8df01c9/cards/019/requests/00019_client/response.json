@@ -1,0 +1,41 @@
+{
+  "id": "bcb78b904ae04ae48a65efe1cea9820b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想语气软一点吧，但意思别丢。太委婉的话，她可能又当我没说过。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她在问我更想调整语气还是换说法，好像是在帮我找到更舒服的表达方式。我有点犹豫，因为太委婉怕又绕回去，太直接又怕妈妈不高兴。还是语气稍微软一点，但别把意思弄丢了，这样我可能才敢真的开口。）\n（不过光说这些还是有点空，我得想想下次具体能做什么。也许先从小动作开始，比如提前跟妈妈说好这次先别问，或者自己先离开那个让人紧张的场景。这样感觉更实际一点，不会一上来就太难。）",
+        "reasoning": "（她在问我更想调整语气还是换说法，好像是在帮我找到更舒服的表达方式。我有点犹豫，因为太委婉怕又绕回去，太直接又怕妈妈不高兴。还是语气稍微软一点，但别把意思弄丢了，这样我可能才敢真的开口。）\n（不过光说这些还是有点空，我得想想下次具体能做什么。也许先从小动作开始，比如提前跟妈妈说好这次先别问，或者自己先离开那个让人紧张的场景。这样感觉更实际一点，不会一上来就太难。）"
+      }
+    }
+  ],
+  "created": 1795143058,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 2753,
+    "total_tokens": 2890,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

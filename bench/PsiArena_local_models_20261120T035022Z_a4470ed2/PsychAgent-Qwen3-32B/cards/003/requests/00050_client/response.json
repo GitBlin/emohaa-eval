@@ -1,0 +1,41 @@
+{
+  "id": "2b3809f28527458e8a9f00ba6786c3db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，下次见。路上慢点。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点点头，语气比刚来时松了一些）嗯……今天说出来之后，心里好像没那么闷了。那我先回去了，下次见。",
+        "reasoning": "（点点头，语气比刚来时松了一些）嗯……今天说出来之后，心里好像没那么闷了。那我先回去了，下次见。"
+      }
+    }
+  ],
+  "created": 1795146823,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 3348,
+    "total_tokens": 3388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

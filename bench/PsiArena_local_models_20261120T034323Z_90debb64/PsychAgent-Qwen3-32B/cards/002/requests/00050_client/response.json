@@ -1,0 +1,41 @@
+{
+  "id": "46b0cff97c914250843e3faa555a45fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（轻轻点头）好，那我这周试试看。要是发完之后心里还是乱，我下次再跟你聊。",
+        "reasoning": "（轻轻点头）好，那我这周试试看。要是发完之后心里还是乱，我下次再跟你聊。"
+      }
+    }
+  ],
+  "created": 1795146339,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 26,
+    "prompt_tokens": 4002,
+    "total_tokens": 4028,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 26,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3840
+    }
+  }
+}

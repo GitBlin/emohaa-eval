@@ -1,0 +1,19 @@
+- Member filed intake form weeks ago but delayed attending until a triggering event this week.
+- Member's mentoring session at the computer lab ended after the kid was pulled from the program, leaving no mentoring until fall.
+- Member valued the mentoring hour as the one thing in the week that felt like their own.
+- Member left salsa before ten on Thursday and has not told anyone about the lab cancellation, including people who would ask.
+- Member avoids naming sadness aloud because it would make it real and require someone to act.
+- Member rejects "avoidance" as a label: they are around people all week but ensure nobody has to look after them.
+- Member preempts needing support by fixing things, cooking and sending photos to their mom, and answering "living the dream."
+- Member was the one who handled things for everybody back home and describes self-reliance as what they know how to do.
+- Member cannot recall anyone ever asking what they wanted and says the muscle for wanting is absent.
+- Member fears that asking for support would yield politeness and then being filed as a work friend.
+- Member has been in the city eleven months and has no one who would notice if they went quiet for a week.
+- Member joined three activities in the first month and scheduled salsa and rec league like meetings but never shared a true thing about themselves in any of them.
+- Member describes the mentoring connection as lightness, chest loosening, nothing to manage; Tuesday's empty room was just chairs and monitors.
+- Member says the week previously felt full because of that one hour and now has nothing ahead until fall.
+- Member cannot tell whether the isolation is self-caused or normal for being twenty-three and new to the city, and distrusts their own read.
+- Member cooks for people as their reliable method of connection but notes it yields a hundred people who like the cooking and none who know them.
+- Member states they have never asked anyone for anything in their life and does not know how to start at twenty-three.
+- Member identified Diego from salsa as the only person who asks how they are actually doing and planned to ask him for a ride on Thursday and stay past ten to hear his answer. [open]
+- Member has salsa tonight and will decide what to wear before going.

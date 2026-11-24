@@ -1,0 +1,41 @@
+{
+  "id": "1f51daf96af648b4ac1a8c3d0ddf95b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，差不多。家里基本就是问我成绩怎么样，钱够不够花。要说心里的事……我妈可能会觉得想那么多干嘛，我爸就更不说了。",
+        "reasoning": "嗯，差不多。家里基本就是问我成绩怎么样，钱够不够花。要说心里的事……我妈可能会觉得想那么多干嘛，我爸就更不说了。"
+      }
+    }
+  ],
+  "created": 1795154569,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 2048,
+    "total_tokens": 2081,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

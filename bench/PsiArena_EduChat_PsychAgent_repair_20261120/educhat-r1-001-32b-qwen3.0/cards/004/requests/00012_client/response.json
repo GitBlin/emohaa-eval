@@ -1,0 +1,41 @@
+{
+  "id": "c156c12e199d4d889c8d56d903d78a76",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个……我就是想问问，如果我说了，你会不会觉得是我自己的问题？是不是我哪里做得不好才这样的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又追问细节了……虽然他说可以不说太细，但还是问他们做了什么。这让我有点紧张，不太想直接说操场上的事。也许先试探一下他会不会觉得是我自己的问题，这样我才能判断能不能继续说下去。毕竟以前跟别人说的时候，他们总说“为什么就欺负你”。）",
+        "reasoning": "（咨询师又追问细节了……虽然他说可以不说太细，但还是问他们做了什么。这让我有点紧张，不太想直接说操场上的事。也许先试探一下他会不会觉得是我自己的问题，这样我才能判断能不能继续说下去。毕竟以前跟别人说的时候，他们总说“为什么就欺负你”。）"
+      }
+    }
+  ],
+  "created": 1795153596,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 1291,
+    "total_tokens": 1387,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

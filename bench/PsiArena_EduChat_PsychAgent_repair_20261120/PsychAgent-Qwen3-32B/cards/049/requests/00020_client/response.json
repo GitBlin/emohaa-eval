@@ -1,0 +1,41 @@
+{
+  "id": "6cceaf17bcca4a6e952dc9d31986e650",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我好像记得喉咙发紧，像有什么堵着。手也一直攥着，指甲都掐进去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回到那个场景的身体感受……这让我有点紧张，但又觉得他问得挺细的。我确实记得当时喉咙像被什么堵住了，好像想说话但发不出声。手也记得，攥得紧紧的，指甲都掐进掌心了。这些身体记忆比画面更清楚，说出来反而没那么难。）",
+        "reasoning": "（咨询师在引导我回到那个场景的身体感受……这让我有点紧张，但又觉得他问得挺细的。我确实记得当时喉咙像被什么堵住了，好像想说话但发不出声。手也记得，攥得紧紧的，指甲都掐进掌心了。这些身体记忆比画面更清楚，说出来反而没那么难。）"
+      }
+    }
+  ],
+  "created": 1795155242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1825,
+    "total_tokens": 1923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

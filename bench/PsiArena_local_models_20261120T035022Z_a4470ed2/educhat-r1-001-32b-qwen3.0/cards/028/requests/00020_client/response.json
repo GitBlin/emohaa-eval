@@ -1,0 +1,41 @@
+{
+  "id": "b33fa438630b4031859b9498a7904704",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "15分钟……我爸妈肯定会问我在干嘛。在他们眼里，我发呆都算浪费时间。有时候我真想跟他们吵一架，但又不敢。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师提到独处是心灵的呼吸孔，还建议每天留15分钟给自己。这个说法让我有点触动，但立刻想到父母会怎么反应。他们总是觉得我的时间应该用在“正事”上，连发呆都会被说浪费时间。）\n（我其实很想试试，但心里又很矛盾。一方面觉得这或许能让我喘口气，另一方面又担心这会被父母发现，然后引发更多干涉。这种纠结让我有点烦躁，甚至想直接放弃这个念头。）",
+        "reasoning": "（心理咨询师提到独处是心灵的呼吸孔，还建议每天留15分钟给自己。这个说法让我有点触动，但立刻想到父母会怎么反应。他们总是觉得我的时间应该用在“正事”上，连发呆都会被说浪费时间。）\n（我其实很想试试，但心里又很矛盾。一方面觉得这或许能让我喘口气，另一方面又担心这会被父母发现，然后引发更多干涉。这种纠结让我有点烦躁，甚至想直接放弃这个念头。）"
+      }
+    }
+  ],
+  "created": 1795148868,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1676,
+    "total_tokens": 1806,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 100,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

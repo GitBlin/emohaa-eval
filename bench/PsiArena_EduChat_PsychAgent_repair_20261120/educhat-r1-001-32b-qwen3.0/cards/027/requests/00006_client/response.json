@@ -1,0 +1,41 @@
+{
+  "id": "8d179303b53240dba71e55c10408b013",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……工作上的事吧，还有家里的一些事。唉，我也说不太清楚，反正就是觉得挺烦的，但又说不上来到底哪里不对。（停顿）是不是我太矫情了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体发生了什么，但我现在还不想说得太深。毕竟才刚开始，我还不确定能不能信任她。而且她问得这么直接，让我有点不舒服，好像必须马上把所有事情都倒出来似的。）\n（不过既然来都来了，也许可以稍微说一点表面的东西。就说工作上的事吧，这个比较安全，不会暴露太多家庭问题。而且用“没什么大事”这种说法，既能回答她的问题，又不会显得太严重。）",
+        "reasoning": "（咨询师在问我具体发生了什么，但我现在还不想说得太深。毕竟才刚开始，我还不确定能不能信任她。而且她问得这么直接，让我有点不舒服，好像必须马上把所有事情都倒出来似的。）\n（不过既然来都来了，也许可以稍微说一点表面的东西。就说工作上的事吧，这个比较安全，不会暴露太多家庭问题。而且用“没什么大事”这种说法，既能回答她的问题，又不会显得太严重。）"
+      }
+    }
+  ],
+  "created": 1795154523,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1052,
+    "total_tokens": 1195,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

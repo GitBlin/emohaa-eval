@@ -1,0 +1,19 @@
+- Member's doctor flagged elevated liver enzymes at an annual physical and asked Member to cut back on drinking before a retest next week, which Member has not managed as instructed.
+- Member set rules of weekdays only, measured pours, and a tally in the back of a notebook, which held for nine days.
+- Member's rules collapsed at a Thursday client dinner when someone ordered a round; Member told himself it was one dinner and he would restart tomorrow.
+- Member stopped writing in the notebook about a week after the client dinner, and felt he already knew the number and did not want to see it written down because writing it makes it a fact.
+- Member sees no point in writing the number down now, since it does not change what next week's bloodwork will say.
+- Member is not hoping for much from the retest, believing the enzymes are already determined and the two-week window closed two weeks ago.
+- Member is on a regional director list and fears that a worse result reaching senior management would end that prospect.
+- Member says losing the list would mean he hit every number they gave him and it still was not what counted, leaving him at fifty-five with the same title he had at forty-five.
+- Member dismisses his career dissatisfaction by noting plenty of people would take his job and be glad of it.
+- Member wakes at four in the morning doing arithmetic — weekly units, what the panel might look like, days until the appointment — until his alarm, then runs a meeting in that state.
+- Member's brother calls every Sunday from Queens and would be the one to notice something, but Member has not told him because he would worry and Member would end up talking him through it.
+- Member wants his evenings back: he used to cook and read, but now sits down with a glass and finds it is eleven and the bottle is empty.
+- Member describes cooking as the end of his day — chopping, pan, twenty minutes, then eating — with nothing to review the next morning.
+- Member is skeptical of plans because every plan this month came apart by day ten, and asks what makes one evening different from a system.
+- Member plans one evening this week with no rules attached: buy something from the market on the way home, cook it, eat at the table instead of in front of the TV, and go to bed at a decent hour.
+- Member chose Thursday for the evening because nothing is on his calendar after work and there is no client stuff.
+- Member plans to cook chicken thighs with lemon and potatoes on Thursday, a Sunday dish he says is hard to get wrong.
+- Member said he feels better than he did an hour ago and that Thursday is the first thing in weeks without a number attached to it.
+- [open] Member agreed to come back after Thursday and report how the evening went.

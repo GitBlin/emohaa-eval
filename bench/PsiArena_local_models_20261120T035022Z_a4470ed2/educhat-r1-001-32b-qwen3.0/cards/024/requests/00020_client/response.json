@@ -1,0 +1,41 @@
+{
+  "id": "d13d3f73cb7d4cfda815b42dcb203ba4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "您说的道理我都懂，可一到真要说的时候，我就……就想起小时候，我爸妈从来不许我顶嘴。好像表达自己，就是不懂事似的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又在鼓励我去沟通，可我心里其实很矛盾。她说不能把别人的想法当作自己的想法，这话听起来有道理，但在我家那种环境里，表达自己好像就是顶撞长辈。）\n（我想起小时候的事，那时候我就学会了把话咽回去。现在面对婆婆，那种感觉又回来了，好像说什么都是错的。也许我该让咨询师知道，这种憋着不说的习惯不是一天两天了。）",
+        "reasoning": "（咨询师又在鼓励我去沟通，可我心里其实很矛盾。她说不能把别人的想法当作自己的想法，这话听起来有道理，但在我家那种环境里，表达自己好像就是顶撞长辈。）\n（我想起小时候的事，那时候我就学会了把话咽回去。现在面对婆婆，那种感觉又回来了，好像说什么都是错的。也许我该让咨询师知道，这种憋着不说的习惯不是一天两天了。）"
+      }
+    }
+  ],
+  "created": 1795148624,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 1657,
+    "total_tokens": 1783,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

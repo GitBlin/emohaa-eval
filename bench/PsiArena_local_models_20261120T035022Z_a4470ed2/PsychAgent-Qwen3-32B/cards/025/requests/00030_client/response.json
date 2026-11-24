@@ -1,0 +1,41 @@
+{
+  "id": "caf5816509ee497690f23058da6a306a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "中间点……我有点怕自己做不到。要是我先跟家里人说，我下班后需要十分钟缓一缓，这算中间点吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到“中间点”，听起来是想帮我找到折中的办法。可我心里有点乱，不知道具体该怎么做。也许……可以先从一件小事开始试试？但又怕自己做不到，反而更焦虑。）",
+        "reasoning": "（咨询师提到“中间点”，听起来是想帮我找到折中的办法。可我心里有点乱，不知道具体该怎么做。也许……可以先从一件小事开始试试？但又怕自己做不到，反而更焦虑。）"
+      }
+    }
+  ],
+  "created": 1795147363,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 2407,
+    "total_tokens": 2484,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 45,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

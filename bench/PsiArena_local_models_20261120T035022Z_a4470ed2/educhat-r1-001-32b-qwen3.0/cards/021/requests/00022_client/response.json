@@ -1,0 +1,41 @@
+{
+  "id": "f1da3452c1774cc1a8558bdb3cb35761",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "找别人帮忙？那怎么行，别人哪能照顾得好我妈。再说了，让外人来照顾，街坊邻居怎么看我？这事……唉，还是得我自己来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我找志愿者或社区机构帮忙，这让我心里有点抵触。在我们家，照顾父母是子女天经地义的责任，怎么能交给外人呢？街坊邻居会怎么看我？）\n（而且说实话，我总觉得别人照顾不好我妈。她病得这么重，只有我最清楚她的习惯和需要。虽然累，但至少我能确保她得到最好的照顾。）",
+        "reasoning": "（咨询师建议我找志愿者或社区机构帮忙，这让我心里有点抵触。在我们家，照顾父母是子女天经地义的责任，怎么能交给外人呢？街坊邻居会怎么看我？）\n（而且说实话，我总觉得别人照顾不好我妈。她病得这么重，只有我最清楚她的习惯和需要。虽然累，但至少我能确保她得到最好的照顾。）"
+      }
+    }
+  ],
+  "created": 1795148299,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1716,
+    "total_tokens": 1836,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "f5647b81d3b8435b884fddfea82754f3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听起来好像挺自由的。说实话我最近确实有件烦心事，就是家里又给我安排相亲了，我一想到这个就……唉，也说不太清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会陪伴我，让我按自己的节奏来...听起来倒是挺温和的，但我还是不太确定能不能真的信任这种关系。毕竟第一次见面，谁知道对方会不会像其他人一样评判我。）\n（不过既然来了，总得说点什么。最近确实有件事让我很烦，但我不想一下子全倒出来，先含糊地提一下相亲的事好了，看看对方什么反应。）",
+        "reasoning": "（咨询师说会陪伴我，让我按自己的节奏来...听起来倒是挺温和的，但我还是不太确定能不能真的信任这种关系。毕竟第一次见面，谁知道对方会不会像其他人一样评判我。）\n（不过既然来了，总得说点什么。最近确实有件事让我很烦，但我不想一下子全倒出来，先含糊地提一下相亲的事好了，看看对方什么反应。）"
+      }
+    }
+  ],
+  "created": 1795154174,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 971,
+    "total_tokens": 1090,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

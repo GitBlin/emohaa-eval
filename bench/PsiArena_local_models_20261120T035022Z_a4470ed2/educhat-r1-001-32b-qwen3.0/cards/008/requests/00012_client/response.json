@@ -1,0 +1,41 @@
+{
+  "id": "d741b3d6f0c5404596fb928446bd69e5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哪个声音更贴近……（停顿）我好像从来没认真想过这个问题。就是觉得两边都有道理，所以才更乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我分辨内心的声音……这让我有点不知所措。我其实还没想那么深，而且一下子要面对这么直接的问题，心里有点慌。我下意识想回避，因为现在还没准备好把那些矛盾摊开来看。）\n（不过她问得挺温和的，没有逼我的意思。也许我可以先含糊地承认一下，把话题稍微带过去一点，不用现在就给出答案。毕竟我才刚开始信任她，还不能完全敞开。）",
+        "reasoning": "（咨询师在引导我分辨内心的声音……这让我有点不知所措。我其实还没想那么深，而且一下子要面对这么直接的问题，心里有点慌。我下意识想回避，因为现在还没准备好把那些矛盾摊开来看。）\n（不过她问得挺温和的，没有逼我的意思。也许我可以先含糊地承认一下，把话题稍微带过去一点，不用现在就给出答案。毕竟我才刚开始信任她，还不能完全敞开。）"
+      }
+    }
+  ],
+  "created": 1795147219,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 1350,
+    "total_tokens": 1471,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

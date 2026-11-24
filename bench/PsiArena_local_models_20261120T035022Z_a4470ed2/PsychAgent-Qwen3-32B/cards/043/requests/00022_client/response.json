@@ -1,0 +1,41 @@
+{
+  "id": "409781ef7ebc4fb293b6745fd206ac59",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "桌子凉凉的……笔有点滑，还有我衣服的袖子，椅子扶手。嗯，好像确实……没那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "(刚才找看到的东西还挺容易的，现在要摸……桌面的感觉，笔的触感，还有衣服袖子……有点傻，不过好像真的没在想别的了。)",
+        "reasoning": "(刚才找看到的东西还挺容易的，现在要摸……桌面的感觉，笔的触感，还有衣服袖子……有点傻，不过好像真的没在想别的了。)"
+      }
+    }
+  ],
+  "created": 1795148546,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 1882,
+    "total_tokens": 1946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

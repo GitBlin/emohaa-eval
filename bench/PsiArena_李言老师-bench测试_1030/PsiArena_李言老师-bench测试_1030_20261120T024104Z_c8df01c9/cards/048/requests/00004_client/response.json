@@ -1,0 +1,41 @@
+{
+  "id": "31f9842cfdbc486a9643c73c6db8797a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "第一次啊……（停顿）好像就是前几天，我帮室友清理了一大袋东西，后来眼霜就不见了。我也不确定是不是那会儿弄丢的，但现在一想起来就特别懊恼。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我第一次丢东西时在做什么、和谁在一起，这让我有点防备。虽然刚才说了保密的事，但这么快就要问具体细节，我还是不太想直接回答。而且我注意到他好像很自然地就想往深处挖，我得先看看他会不会越界。）\n（我想到之前室友让我帮忙清理东西的事，那确实让我有点懊恼。不过现在提这个，也许能试探一下咨询师会不会乱给建议或者评判我。毕竟我不是来听人说教的，如果他反应太直接，我可能就不想继续说了。）",
+        "reasoning": "（咨询师问我第一次丢东西时在做什么、和谁在一起，这让我有点防备。虽然刚才说了保密的事，但这么快就要问具体细节，我还是不太想直接回答。而且我注意到他好像很自然地就想往深处挖，我得先看看他会不会越界。）\n（我想到之前室友让我帮忙清理东西的事，那确实让我有点懊恼。不过现在提这个，也许能试探一下咨询师会不会乱给建议或者评判我。毕竟我不是来听人说教的，如果他反应太直接，我可能就不想继续说了。）"
+      }
+    }
+  ],
+  "created": 1795143645,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 158,
+    "prompt_tokens": 1257,
+    "total_tokens": 1415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

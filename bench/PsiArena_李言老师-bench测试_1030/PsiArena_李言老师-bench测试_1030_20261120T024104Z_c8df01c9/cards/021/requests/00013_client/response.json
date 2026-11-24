@@ -1,0 +1,41 @@
+{
+  "id": "b014f45471a44ce3813b8a03a3352f9f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，好像都是癌症。家里大人以前提过，说要注意。我一直不太敢往深里想，现在我妈这样，我就更乱了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，外公和舅舅是不是同一种病……我其实心里一直有数，但说出来还是觉得沉。家里那些事，我平时不太跟人提，现在她这么问，我反而有点不知道从哪儿说起。）\n（不过她没急着安慰我，也没说“别想太多”，这让我稍微放松一点。我确实怕，怕自己也会像他们那样。既然她问了，我就照实说吧，反正这些事压在心里也够久了。）",
+        "reasoning": "（她问得挺细的，外公和舅舅是不是同一种病……我其实心里一直有数，但说出来还是觉得沉。家里那些事，我平时不太跟人提，现在她这么问，我反而有点不知道从哪儿说起。）\n（不过她没急着安慰我，也没说“别想太多”，这让我稍微放松一点。我确实怕，怕自己也会像他们那样。既然她问了，我就照实说吧，反正这些事压在心里也够久了。）"
+      }
+    }
+  ],
+  "created": 1795143023,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 136,
+    "prompt_tokens": 2006,
+    "total_tokens": 2142,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 104,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3a303830fe564e558ffa015523ee5a69",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一下）其实……我最近老在想那次拒绝同事的事。你说，我是不是真的做错了？还是说，我只是太怕别人不高兴了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又重复了那句话，感觉他好像没太听进去我真正在说什么。我有点烦躁，每次说到“懂事”这个词，心里就堵得慌，可他却总是用那种标准的话回应我。）\n（也许我该把话题拉回具体的事情上，不然这样绕来绕去也没用。上次拒绝同事那件事，其实我到现在都没想明白，正好可以问问他怎么看，这样至少能回到实际问题。）",
+        "reasoning": "（咨询师又重复了那句话，感觉他好像没太听进去我真正在说什么。我有点烦躁，每次说到“懂事”这个词，心里就堵得慌，可他却总是用那种标准的话回应我。）\n（也许我该把话题拉回具体的事情上，不然这样绕来绕去也没用。上次拒绝同事那件事，其实我到现在都没想明白，正好可以问问他怎么看，这样至少能回到实际问题。）"
+      }
+    }
+  ],
+  "created": 1795147249,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1899,
+    "total_tokens": 2027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

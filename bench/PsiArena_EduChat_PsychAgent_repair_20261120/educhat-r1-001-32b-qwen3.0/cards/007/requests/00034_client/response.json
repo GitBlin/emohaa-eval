@@ -1,0 +1,41 @@
+{
+  "id": "ea3b1abcb1e143dfa9715dcdf86e18f6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "聊天……我好像不太会主动找话题。平时他们聊游戏我也插不上嘴。我是不是应该先试着多听听他们在聊什么？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我准备轻松话题来缓解尴尬，这确实是个办法。但我更担心的是自己根本不知道该怎么自然地开启对话，平时就很少主动跟人聊天。也许可以问问咨询师具体怎么操作，毕竟我在这方面真的很笨拙。）\n（不过提到“日常趣事”，我连最近宿舍里发生了什么都不知道，因为总是躲着他们。这种疏离感让我更焦虑了，是不是该先试着多观察一下室友们的互动？）",
+        "reasoning": "（咨询师建议我准备轻松话题来缓解尴尬，这确实是个办法。但我更担心的是自己根本不知道该怎么自然地开启对话，平时就很少主动跟人聊天。也许可以问问咨询师具体怎么操作，毕竟我在这方面真的很笨拙。）\n（不过提到“日常趣事”，我连最近宿舍里发生了什么都不知道，因为总是躲着他们。这种疏离感让我更焦虑了，是不是该先试着多观察一下室友们的互动？）"
+      }
+    }
+  ],
+  "created": 1795153650,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2268,
+    "total_tokens": 2396,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

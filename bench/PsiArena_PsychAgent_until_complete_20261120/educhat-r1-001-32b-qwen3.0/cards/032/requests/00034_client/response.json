@@ -1,0 +1,41 @@
+{
+  "id": "6ef700b4db274b88a49a14e32e02b4fc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸试过，但坚持不了几天就忘了。找点喜欢的事做……我好像除了刷手机，也没什么特别爱干的事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我尝试放松的方法，比如深呼吸和转移注意力。这些听起来好像有点用，但我以前试过类似的方法，总是坚持不下来。也许这次可以具体一点，问问她怎么才能真的做到。）\n（作为来访者，我其实有点担心这些方法会不会又像以前一样半途而废。但既然现在情绪稳定一些了，不如问问实际的步骤，看看有没有更适合我的方式。）",
+        "reasoning": "（咨询师建议我尝试放松的方法，比如深呼吸和转移注意力。这些听起来好像有点用，但我以前试过类似的方法，总是坚持不下来。也许这次可以具体一点，问问她怎么才能真的做到。）\n（作为来访者，我其实有点担心这些方法会不会又像以前一样半途而废。但既然现在情绪稳定一些了，不如问问实际的步骤，看看有没有更适合我的方式。）"
+      }
+    }
+  ],
+  "created": 1795154737,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2394,
+    "total_tokens": 2510,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

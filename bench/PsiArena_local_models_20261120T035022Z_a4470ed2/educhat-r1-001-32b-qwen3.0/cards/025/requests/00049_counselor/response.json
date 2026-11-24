@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-0b7bf60fa0fc475482493d75fd1697f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你可以尝试每天记录自己的感受，和家人沟通，保持积极的心态。记得，改变是一个过程，不需要急于求成。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者已经认识到情绪问题的根源，需要巩固改变。\n【行动策略】：建议持续使用自我反思和沟通技巧，并保持积极心态。\n",
+        "reasoning_content": "\n【诊断分析】：来访者已经认识到情绪问题的根源，需要巩固改变。\n【行动策略】：建议持续使用自我反思和沟通技巧，并保持积极心态。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795148704,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2896,
+    "total_tokens": 2962,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

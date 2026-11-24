@@ -1,0 +1,41 @@
+{
+  "id": "8cceaa4cb9f04d90ab3d987cdf19286f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "明天早上就开始吧。（想了想）不过我还有个问题，要是哪天忘了记，是不是就算失败了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我简化行动计划，用手机便签记录暂停时间确实比写本子更不容易半途而废。但我心里还是有点打鼓，担心自己连这么简单的事都做不到，到时候又该自责了。）\n（不过既然咨询师这么耐心地帮我拆解步骤，或许可以试着接受这个建议。毕竟从明天开始的话，至少今晚还能有点心理准备的时间。）",
+        "reasoning": "（咨询师在帮我简化行动计划，用手机便签记录暂停时间确实比写本子更不容易半途而废。但我心里还是有点打鼓，担心自己连这么简单的事都做不到，到时候又该自责了。）\n（不过既然咨询师这么耐心地帮我拆解步骤，或许可以试着接受这个建议。毕竟从明天开始的话，至少今晚还能有点心理准备的时间。）"
+      }
+    }
+  ],
+  "created": 1795150256,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2818,
+    "total_tokens": 2923,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

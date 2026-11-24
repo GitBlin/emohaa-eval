@@ -1,0 +1,41 @@
+{
+  "id": "c665b8cd74b54185acdd20842e5f60b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……我好像有点紧张，刚才写的步骤都乱了。（停了一下）要不我重新写一遍，你帮我看看哪里不对？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才演练里对方没有拒绝我，还继续问了我怎么算，我有点意外，也稍微没那么慌了。但是突然让我说具体怎么算，我脑子又有点空，怕自己说错显得很笨。先承认一下，别硬撑，也别把人家推开。）",
+        "reasoning": "（刚才演练里对方没有拒绝我，还继续问了我怎么算，我有点意外，也稍微没那么慌了。但是突然让我说具体怎么算，我脑子又有点空，怕自己说错显得很笨。先承认一下，别硬撑，也别把人家推开。）"
+      }
+    }
+  ],
+  "created": 1795146291,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 2566,
+    "total_tokens": 2656,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 61,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

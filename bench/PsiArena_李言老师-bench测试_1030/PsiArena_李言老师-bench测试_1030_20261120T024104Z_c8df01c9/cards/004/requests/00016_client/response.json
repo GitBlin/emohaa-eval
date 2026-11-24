@@ -1,0 +1,41 @@
+{
+  "id": "94c90c8fe94c47aba3fd15329027883b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "晚上写作业的时候吧……屋子里太静了。我有时候会想，能不能找点事做，别让自己一直瞎想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近一个人做什么的时候这种念头最常冒出来，看来她是想帮我找到具体的情境，好一起想办法。我想了想，晚上写作业和躺床上那会儿最明显，因为周围太安静了，家里就我一个人。）\n（我是不是可以试着跟她说说，能不能找点事情做，比如听听广播或者找同学说说话，这样也许能不那么空。不过我也不太确定这样有没有用，毕竟以前也没试过。）",
+        "reasoning": "（咨询师问我最近一个人做什么的时候这种念头最常冒出来，看来她是想帮我找到具体的情境，好一起想办法。我想了想，晚上写作业和躺床上那会儿最明显，因为周围太安静了，家里就我一个人。）\n（我是不是可以试着跟她说说，能不能找点事情做，比如听听广播或者找同学说说话，这样也许能不那么空。不过我也不太确定这样有没有用，毕竟以前也没试过。）"
+      }
+    }
+  ],
+  "created": 1795142608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2328,
+    "total_tokens": 2455,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

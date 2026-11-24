@@ -1,0 +1,41 @@
+{
+  "id": "c10871d5ba5b4f8b82968465e6eb8b1d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "朋友间的对话啊……（停顿）说实话我最近是有点难受，但我也说不清楚为什么。就是上课老走神，心情很低落。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说像朋友间的对话...这让我稍微放松了一点，但朋友这个词又让我想起最近的事。她说不评判不打断，听起来挺温和的，但我还是有点担心她会不会只是客套。毕竟我连自己都说不清楚为什么这么难受，她真的能理解吗？）\n（也许可以先说一点点表面上的困扰试试看，但不用讲太深。最近确实总是心情低落，上课也集中不了注意力，但具体原因...还是先别说得太清楚比较好。）",
+        "reasoning": "（咨询师说像朋友间的对话...这让我稍微放松了一点，但朋友这个词又让我想起最近的事。她说不评判不打断，听起来挺温和的，但我还是有点担心她会不会只是客套。毕竟我连自己都说不清楚为什么这么难受，她真的能理解吗？）\n（也许可以先说一点点表面上的困扰试试看，但不用讲太深。最近确实总是心情低落，上课也集中不了注意力，但具体原因...还是先别说得太清楚比较好。）"
+      }
+    }
+  ],
+  "created": 1795146701,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 137,
+    "prompt_tokens": 963,
+    "total_tokens": 1100,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 105,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

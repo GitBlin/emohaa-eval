@@ -1,0 +1,41 @@
+{
+  "id": "9836e35114be46c29569686c56e56e37",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可以试试。不过“低落”这个词我可能说不出口，换成“我现在有点紧，先慢一点”会不会更自然？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在进入后期阶段，需要探索解决方案和行动计划。刚才咨询师建议准备一句情绪自语，用户需要思考这句话是否贴切或者如何修改。作为角色，应该表现出情绪趋于稳定，开始具体化思考解决方案。可以表示愿意尝试，但需要调整语言更自然。同时要体现角色敏感内向的性格，可能对自我对话有点不习惯。回复要简短，2-3句，带点犹豫但积极。",
+        "reasoning": "用户现在进入后期阶段，需要探索解决方案和行动计划。刚才咨询师建议准备一句情绪自语，用户需要思考这句话是否贴切或者如何修改。作为角色，应该表现出情绪趋于稳定，开始具体化思考解决方案。可以表示愿意尝试，但需要调整语言更自然。同时要体现角色敏感内向的性格，可能对自我对话有点不习惯。回复要简短，2-3句，带点犹豫但积极。"
+      }
+    }
+  ],
+  "created": 1795148809,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2830,
+    "total_tokens": 2951,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

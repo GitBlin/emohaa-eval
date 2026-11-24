@@ -1,0 +1,41 @@
+{
+  "id": "f733721d3fc54a5da95ceab4c94da676",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我通常很快就讲答案，或者忍不住说“这有什么难的”。现在想想，她可能不是不会，是怕一开口就被我否定。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么回应她回避难题，这让我想起自己平时的做法。我其实心里清楚，很多时候我根本没耐心去听她卡在哪里，直接就开始讲题了。）\n（我有点不好意思说出口，因为知道自己急躁，可又觉得说出来会被批评。但既然要探索改变，我得承认自己确实太急着给答案了，好像她不会就是我的错一样。）",
+        "reasoning": "（咨询师问我怎么回应她回避难题，这让我想起自己平时的做法。我其实心里清楚，很多时候我根本没耐心去听她卡在哪里，直接就开始讲题了。）\n（我有点不好意思说出口，因为知道自己急躁，可又觉得说出来会被批评。但既然要探索改变，我得承认自己确实太急着给答案了，好像她不会就是我的错一样。）"
+      }
+    }
+  ],
+  "created": 1795143116,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 2964,
+    "total_tokens": 3076,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

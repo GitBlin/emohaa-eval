@@ -1,0 +1,41 @@
+{
+  "id": "d5bbc750be5c4e17bfd3c692db7ddb36",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，麻烦帮我改短一点吧，我紧张的时候记不住太长的话。最好短到我能一慌就顺口说出来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想帮我把这句话改得更顺口，这确实是我需要的。我平时一紧张就容易说长句，结果越说越乱。短一点我才能记住，也更容易在那种被追问的场合用出来。）\n（不过我又有点担心，太短会不会显得敷衍或者不够专业。但转念一想，现在最重要的是先能稳住自己，不急着解释也不急着笑。短句至少能让我有个缓冲，不至于当场就慌掉。）",
+        "reasoning": "（咨询师想帮我把这句话改得更顺口，这确实是我需要的。我平时一紧张就容易说长句，结果越说越乱。短一点我才能记住，也更容易在那种被追问的场合用出来。）\n（不过我又有点担心，太短会不会显得敷衍或者不够专业。但转念一想，现在最重要的是先能稳住自己，不急着解释也不急着笑。短句至少能让我有个缓冲，不至于当场就慌掉。）"
+      }
+    }
+  ],
+  "created": 1795142598,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 3290,
+    "total_tokens": 3417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

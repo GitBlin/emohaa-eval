@@ -1,0 +1,41 @@
+{
+  "id": "8ecf442dcea0464b9c62af419ab016a7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想选……今晚早点睡吧。最近老是熬夜想那些事，搞得上课都没精神。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想选哪个来照顾自己……说实话我有点不习惯想这种事。不过刚才聊下来，心里好像没那么堵了。“等我一下”那句话我还记得，挺顺口的。也许今晚可以试试早点睡？最近因为那些事老是熬夜，搞得上课都没精神。嗯……这个好像真的能做到。）",
+        "reasoning": "（她问我想选哪个来照顾自己……说实话我有点不习惯想这种事。不过刚才聊下来，心里好像没那么堵了。“等我一下”那句话我还记得，挺顺口的。也许今晚可以试试早点睡？最近因为那些事老是熬夜，搞得上课都没精神。嗯……这个好像真的能做到。）"
+      }
+    }
+  ],
+  "created": 1795153500,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 3468,
+    "total_tokens": 3556,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

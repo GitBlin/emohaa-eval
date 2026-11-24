@@ -1,0 +1,41 @@
+{
+  "id": "f4f9fad804054bb3a8bcf5da3396cc57",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就……有时候想哭又哭不出来吧。家里的事，说多了怕别人笑话。我也不知道从哪儿说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说保密，还问我具体的感受...她好像挺温和的，但我还是有点不放心。她会不会觉得我太啰嗦？毕竟这种事说出来挺丢人的。）\n（我其实想说又不敢说，家里的事太复杂了。先随便说点表面的吧，反正她也看不出来我真正的问题是什么。要是她追问太多，我就转移话题。）",
+        "reasoning": "（咨询师说保密，还问我具体的感受...她好像挺温和的，但我还是有点不放心。她会不会觉得我太啰嗦？毕竟这种事说出来挺丢人的。）\n（我其实想说又不敢说，家里的事太复杂了。先随便说点表面的吧，反正她也看不出来我真正的问题是什么。要是她追问太多，我就转移话题。）"
+      }
+    }
+  ],
+  "created": 1795147489,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 1032,
+    "total_tokens": 1135,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

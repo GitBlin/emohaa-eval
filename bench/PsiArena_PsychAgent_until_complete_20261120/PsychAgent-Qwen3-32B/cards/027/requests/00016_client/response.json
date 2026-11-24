@@ -1,0 +1,41 @@
+{
+  "id": "6114ae73a6e64bf9b883a1d7925d43a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就那种……阴阳怪气的。她说“哟，你现在厉害了嘛”，听着像夸，其实不是。在我家好像一直这样，谁过得好一点，别人心里就不舒服。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是我妈的语气，看来是想了解具体细节。我其实一直憋着这些事，现在稍微有点信任她了，可以说说看。但一想起我妈那种带着刺的话，心里还是揪得慌。）\n（在我家，什么都要比。我妈总拿我和表姐比，好像我好了她就输了似的。这种比较让我从小就觉得自己不够好，现在更不知道该怎么面对她了。）",
+        "reasoning": "（咨询师问的是我妈的语气，看来是想了解具体细节。我其实一直憋着这些事，现在稍微有点信任她了，可以说说看。但一想起我妈那种带着刺的话，心里还是揪得慌。）\n（在我家，什么都要比。我妈总拿我和表姐比，好像我好了她就输了似的。这种比较让我从小就觉得自己不够好，现在更不知道该怎么面对她了。）"
+      }
+    }
+  ],
+  "created": 1795154367,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 1592,
+    "total_tokens": 1717,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

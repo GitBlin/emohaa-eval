@@ -1,0 +1,41 @@
+{
+  "id": "6bde893c42d3436f90aabd203432aa93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录或者练习……是要我平时也做很多事吗？我怕自己坚持不下来，反而更焦虑。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了流程，但我还是有点不确定。她说的记录和练习会不会很麻烦？我平时已经够累了……不过至少她看起来愿意听我说。先问问那些练习具体要做什么吧，免得答应了自己做不到的事。）",
+        "reasoning": "（咨询师解释了流程，但我还是有点不确定。她说的记录和练习会不会很麻烦？我平时已经够累了……不过至少她看起来愿意听我说。先问问那些练习具体要做什么吧，免得答应了自己做不到的事。）"
+      }
+    }
+  ],
+  "created": 1795153762,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 73,
+    "prompt_tokens": 972,
+    "total_tokens": 1045,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

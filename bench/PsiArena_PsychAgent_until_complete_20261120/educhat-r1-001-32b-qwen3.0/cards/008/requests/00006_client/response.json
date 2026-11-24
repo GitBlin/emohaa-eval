@@ -1,0 +1,41 @@
+{
+  "id": "0fbb3583e57044b5a977cfd2b1bddb24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保密……那好吧。（停顿）不过我想问，如果咨询里我说了些很私人的事，你私下会不会……比如跟别人聊起我？这个我有点在意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会保密、不评判，听起来挺真诚的。但我还是不太确定，毕竟这种事说出去万一被传开怎么办。我得先试探一下，看看他是不是真的能守住界限。）\n（而且他说“像朋友聊天”，我反而有点不安。如果只是朋友，那我干嘛还来这里？我想知道他的专业界限在哪里，这样我才敢放心说一点。）",
+        "reasoning": "（咨询师说会保密、不评判，听起来挺真诚的。但我还是不太确定，毕竟这种事说出去万一被传开怎么办。我得先试探一下，看看他是不是真的能守住界限。）\n（而且他说“像朋友聊天”，我反而有点不安。如果只是朋友，那我干嘛还来这里？我想知道他的专业界限在哪里，这样我才敢放心说一点。）"
+      }
+    }
+  ],
+  "created": 1795153720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 1054,
+    "total_tokens": 1172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

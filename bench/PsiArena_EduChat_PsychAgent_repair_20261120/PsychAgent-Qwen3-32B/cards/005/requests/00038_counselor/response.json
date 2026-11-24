@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-d10f0b952ebe47f988056b628e3ebe35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<think><think>\n</think>\n\n很好，我们就把“先起来走一圈”作为你的分心行为。为了更稳地执行，你愿意为它加一个清晰的触发提示吗？比如“消息等待超过3分钟就先起身走一圈”，这样安排对你合适吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": null,
+        "reasoning_content": null
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153636,
+  "model": "default",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 2391,
+    "total_tokens": 2450,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

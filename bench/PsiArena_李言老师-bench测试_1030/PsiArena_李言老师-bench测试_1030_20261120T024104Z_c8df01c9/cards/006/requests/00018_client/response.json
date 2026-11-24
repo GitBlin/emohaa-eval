@@ -1,0 +1,41 @@
+{
+  "id": "d2a1f596a0194cc893bd377b3224fc6e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先固定上床时间吧，这个更具体。下班后的切换……我怕自己做不到，又变成给自己添压力。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我理清行动步骤，问我更愿意从哪一步开始。我确实觉得固定上床时间更实际，因为反刍很难控制。不过我也担心自己坚持不了，这种焦虑让我有点犹豫。）\n（但既然要改变，总得先迈出一步。我选固定上床时间，也想把担心说出来，这样咨询师能帮我一起想办法，而不是让我一个人面对。）",
+        "reasoning": "（咨询师在帮我理清行动步骤，问我更愿意从哪一步开始。我确实觉得固定上床时间更实际，因为反刍很难控制。不过我也担心自己坚持不了，这种焦虑让我有点犹豫。）\n（但既然要改变，总得先迈出一步。我选固定上床时间，也想把担心说出来，这样咨询师能帮我一起想办法，而不是让我一个人面对。）"
+      }
+    }
+  ],
+  "created": 1795142624,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 2698,
+    "total_tokens": 2808,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9aab300889944f4985b5a8389b8f2e29",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "深呼吸……开会的时候做，会不会被同事看出来？我有点担心显得奇怪。不过，我可以低头假装看文件的时候试一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用“小猴子”和“香蕉”的比喻来帮我理解注意力，这个说法挺形象的，让我觉得没那么沉重了。不过听到这些方法，我心里还是有点打鼓，不知道真的做起来会不会有用。）\n（想到要在开会前做深呼吸，我有点犹豫，毕竟同事都在旁边，动作太明显会显得奇怪。但既然咨询师这么建议，我或许可以试试更隐蔽的方式，比如低头整理一下文件的时候顺便调整呼吸。）",
+        "reasoning": "（咨询师用“小猴子”和“香蕉”的比喻来帮我理解注意力，这个说法挺形象的，让我觉得没那么沉重了。不过听到这些方法，我心里还是有点打鼓，不知道真的做起来会不会有用。）\n（想到要在开会前做深呼吸，我有点犹豫，毕竟同事都在旁边，动作太明显会显得奇怪。但既然咨询师这么建议，我或许可以试试更隐蔽的方式，比如低头整理一下文件的时候顺便调整呼吸。）"
+      }
+    }
+  ],
+  "created": 1795155363,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2211,
+    "total_tokens": 2338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

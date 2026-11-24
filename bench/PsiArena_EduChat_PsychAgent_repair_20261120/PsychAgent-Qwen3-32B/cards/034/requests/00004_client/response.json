@@ -1,0 +1,41 @@
+{
+  "id": "9b58a7fbb4554119b0abc3ed9a35e0d5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……其实我也说不太清楚，就是最近总觉得心里堵得慌，晚上也睡不好。可能是感情方面的事吧，但具体怎么讲，我自己都理不太顺。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师看起来挺温和的，没有一上来就追问太多细节，这让我稍微放松了一点。但直接说困扰还是有点难开口，我不确定该说到什么程度。先含糊地表达一下最近的状态吧，看看对方会怎么接。）",
+        "reasoning": "（咨询师看起来挺温和的，没有一上来就追问太多细节，这让我稍微放松了一点。但直接说困扰还是有点难开口，我不确定该说到什么程度。先含糊地表达一下最近的状态吧，看看对方会怎么接。）"
+      }
+    }
+  ],
+  "created": 1795154686,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 970,
+    "total_tokens": 1063,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d97ad2e9874f4c99aaca7b5cea65b09f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）我通常会说……“太黏”“想太多”“不够好”。说是想让自己清醒点吧，但每次说完反而更难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这问题问得有点戳心）我通常会……说自己“太黏”“想太多”“不够好”。（停顿）说是想让自己清醒点吧，但每次说完更难受。",
+        "reasoning": "（这问题问得有点戳心）我通常会……说自己“太黏”“想太多”“不够好”。（停顿）说是想让自己清醒点吧，但每次说完更难受。"
+      }
+    }
+  ],
+  "created": 1795154865,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 2814,
+    "total_tokens": 2886,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

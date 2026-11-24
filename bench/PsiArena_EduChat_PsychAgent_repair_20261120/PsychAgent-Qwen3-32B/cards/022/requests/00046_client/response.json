@@ -1,0 +1,41 @@
+{
+  "id": "a4599cf1afe34b33bd07cb1a2b563801",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最低限度的话……一天一次吧。哪怕只是在睡前说一句“又来了”，也比什么都不做强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，用户刚才在问“最低限度”的练习，我回应了，现在需要把收获整理一下并问最有用的一点。但这是第23轮，规则说后期，每轮只针对一个方面。我上一轮已经问过“最低限度”了，现在应该顺着整理并提问。保持简短。",
+        "reasoning": "嗯，用户刚才在问“最低限度”的练习，我回应了，现在需要把收获整理一下并问最有用的一点。但这是第23轮，规则说后期，每轮只针对一个方面。我上一轮已经问过“最低限度”了，现在应该顺着整理并提问。保持简短。"
+      }
+    }
+  ],
+  "created": 1795154248,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 3321,
+    "total_tokens": 3412,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

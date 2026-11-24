@@ -1,0 +1,41 @@
+{
+  "id": "c93c1cb614764b988457428164cc469b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想他先理解我的尴尬，可光理解好像也不够。我可能得接着说，希望他下次能先接一句，别让我一个人应付。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我区分“理解”和“明确态度”的需求，这让我有点犹豫。我确实希望他能先理解我的感受，但光理解不够，我还需要他有所行动。可我又怕直接提要求会显得太强硬，或者让他觉得我在逼他。）\n（也许我可以试着把这两个需求连起来说，先让他明白我的感受，再提出一个具体的小请求。这样既不会太生硬，也能让他知道我需要什么。比如先说我当时的尴尬，再补一句希望他下次能先接话。这样应该比较自然。）",
+        "reasoning": "（咨询师在引导我区分“理解”和“明确态度”的需求，这让我有点犹豫。我确实希望他能先理解我的感受，但光理解不够，我还需要他有所行动。可我又怕直接提要求会显得太强硬，或者让他觉得我在逼他。）\n（也许我可以试着把这两个需求连起来说，先让他明白我的感受，再提出一个具体的小请求。这样既不会太生硬，也能让他知道我需要什么。比如先说我当时的尴尬，再补一句希望他下次能先接话。这样应该比较自然。）"
+      }
+    }
+  ],
+  "created": 1795143035,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 153,
+    "prompt_tokens": 2996,
+    "total_tokens": 3149,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 120,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

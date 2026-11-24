@@ -1,0 +1,41 @@
+{
+  "id": "20f83570b9944dad9df88565b8c81c28",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那就用水杯吧，别弄便签了，省得她多想。我试试看到杯子就先起身，不过真到那时候可能还是会忍不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们已经在中期第15轮了，需要为后期做铺垫。来访者前面提到怕被女儿看到便签，放水杯可行。我要回应她的顾虑，选一个方式，并稍微推进到行动计划，但不要总结太多。保持2-3句、口语化、犹豫。",
+        "reasoning": "我们已经在中期第15轮了，需要为后期做铺垫。来访者前面提到怕被女儿看到便签，放水杯可行。我要回应她的顾虑，选一个方式，并稍微推进到行动计划，但不要总结太多。保持2-3句、口语化、犹豫。"
+      }
+    }
+  ],
+  "created": 1795154363,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 2435,
+    "total_tokens": 2529,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

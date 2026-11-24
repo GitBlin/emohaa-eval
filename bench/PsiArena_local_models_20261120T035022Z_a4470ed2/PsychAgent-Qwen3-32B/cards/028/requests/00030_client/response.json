@@ -1,0 +1,41 @@
+{
+  "id": "1c16a43fad6240bfbcf76dfb27648c4e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作里我也容易这样，领导说什么我就照着做，很少提自己的想法。有时候明明觉得不对，话到嘴边又咽回去了，事后又挺烦自己的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我在第15轮，已经中期快结束了。规则说每轮只针对一个方面，问工作影响。但我刚才已经问了类似的问题？用户说“你愿意说说，它对你在工作中的状态有什么影响吗？”我需要回应工作影响，同时带一点文化背景反思。保持简短2-3句。不要太快解决方案。",
+        "reasoning": "我在第15轮，已经中期快结束了。规则说每轮只针对一个方面，问工作影响。但我刚才已经问了类似的问题？用户说“你愿意说说，它对你在工作中的状态有什么影响吗？”我需要回应工作影响，同时带一点文化背景反思。保持简短2-3句。不要太快解决方案。"
+      }
+    }
+  ],
+  "created": 1795147590,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2279,
+    "total_tokens": 2383,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "002a45eeec5a48188e81ab7dbca64c35",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀这块，还有脖子，有点僵。平时也没太注意，现在一说才发现一直绷着。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我感受身体哪里最绷住……刚才说到胸口闷的时候，我确实觉得肩膀和脖子特别紧。她好像真的在认真听我说话，不是随便问问。但我还是有点不习惯这样关注自己的身体，总觉得怪怪的。）\n（不过既然她问了，我就照实说吧。肩膀这块确实一直僵着，可能跟我平时总低着头学习有关。但我不想说太多，免得显得我太矫情。）",
+        "reasoning": "（咨询师让我感受身体哪里最绷住……刚才说到胸口闷的时候，我确实觉得肩膀和脖子特别紧。她好像真的在认真听我说话，不是随便问问。但我还是有点不习惯这样关注自己的身体，总觉得怪怪的。）\n（不过既然她问了，我就照实说吧。肩膀这块确实一直僵着，可能跟我平时总低着头学习有关。但我不想说太多，免得显得我太矫情。）"
+      }
+    }
+  ],
+  "created": 1795142525,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 1904,
+    "total_tokens": 2017,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dc93732aa0974e76a48506303dbb2c93",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "说不好……有时候忙起来还好，一停下来就特别重。可能是家里的事吧，我也不太想细说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我石头是一直沉在那儿还是突然变重，好像是在试着帮我分辨情绪的状态。我其实也说不清楚，只是觉得最近特别累，好像什么都提不起劲。可能跟家里的事有关，但又不想一下子说太多。）\n（不过她这么问，让我觉得可以稍微透露一点。说“家里的事”应该不算太深入吧，先看看她怎么反应。毕竟我也不知道她能不能理解这种家里有病人、心里又乱糟糟的感觉。）",
+        "reasoning": "（她问我石头是一直沉在那儿还是突然变重，好像是在试着帮我分辨情绪的状态。我其实也说不清楚，只是觉得最近特别累，好像什么都提不起劲。可能跟家里的事有关，但又不想一下子说太多。）\n（不过她这么问，让我觉得可以稍微透露一点。说“家里的事”应该不算太深入吧，先看看她怎么反应。毕竟我也不知道她能不能理解这种家里有病人、心里又乱糟糟的感觉。）"
+      }
+    }
+  ],
+  "created": 1795142906,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1065,
+    "total_tokens": 1189,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

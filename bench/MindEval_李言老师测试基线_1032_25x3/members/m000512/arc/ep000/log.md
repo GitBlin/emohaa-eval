@@ -1,0 +1,8 @@
+- Member believes the school showcase selection rewarded loudness over care, calling into question whether the careful work they value counts.
+- Member deleted two weeks of work after the showcase announcement, saying they could no longer see what they were making it for.
+- Member is undecided whether to restart the deleted piece; the announcement landing the same week made the work lose its meaning.
+- Member reports a standing split: the question of whether the work is worth anything is silent while drawing but piles on during the forty-minute drive home.
+- Member has replayed a reviewer's October comment — "competent but safe" — ever since, hearing it as the work having nothing worth a second look.
+- Member wants someone to see the thinking in the work, not just that it looks fine, and names Miss Doretha as the one who comments on exactly that.
+- Member discounts Miss Doretha's praise as obligation because she has known them since age twelve, though Member concedes she isn't just being nice.
+- Member identifies the risk that taking Miss Doretha seriously would mean the reviewer could be wrong, and that if the thinking were fully in the work and still called safe, there would be nothing left to blame but themselves.

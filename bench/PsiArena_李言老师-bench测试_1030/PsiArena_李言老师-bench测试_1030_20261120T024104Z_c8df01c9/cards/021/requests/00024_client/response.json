@@ -1,0 +1,41 @@
+{
+  "id": "f0c52c378cb647a2bfc493009987d7a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "贴纸条吧，放在我常用水杯旁边。这样可能比手机提醒更看得见。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师在帮我找具体的提醒方式，这让我觉得他是真的在想办法。手机提醒可能太刻意，我本来就不太爱看手机。贴纸条的话，放在水杯旁边，每次倒水都能看到，这样比较自然。）\n（我平时确实经常倒水，这个动作已经习惯了。把纸条贴在那里，不用特意去记，也许真能提醒自己先停一下。虽然还是有点不确定能不能做到，但至少是个具体的开始。）",
+        "reasoning": "（心理咨询师在帮我找具体的提醒方式，这让我觉得他是真的在想办法。手机提醒可能太刻意，我本来就不太爱看手机。贴纸条的话，放在水杯旁边，每次倒水都能看到，这样比较自然。）\n（我平时确实经常倒水，这个动作已经习惯了。把纸条贴在那里，不用特意去记，也许真能提醒自己先停一下。虽然还是有点不确定能不能做到，但至少是个具体的开始。）"
+      }
+    }
+  ],
+  "created": 1795143104,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3056,
+    "total_tokens": 3174,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 97,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

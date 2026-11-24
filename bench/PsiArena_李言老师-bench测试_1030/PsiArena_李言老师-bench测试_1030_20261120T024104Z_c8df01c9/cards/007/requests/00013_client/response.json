@@ -1,0 +1,41 @@
+{
+  "id": "1854342bfad740ac9468dd1b79ae7c15",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "具体一点……是说时间吗？比如十一点以后戴耳机？但我一想到要跟他们提要求，就有点发怵，怕气氛变得很僵。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像想帮我找到更具体的说法，而不是让我一直忍着。可我一想到要跟室友提要求，心里就发紧，总觉得那是在给别人添麻烦。）\n（我从小在家里就习惯了先看父母的脸色，话到嘴边总要先掂量会不会让人不高兴。现在面对室友，这种感觉又冒出来了，我其实不是不想说，是怕说了之后气氛变僵，自己更像个外人。）",
+        "reasoning": "（她好像想帮我找到更具体的说法，而不是让我一直忍着。可我一想到要跟室友提要求，心里就发紧，总觉得那是在给别人添麻烦。）\n（我从小在家里就习惯了先看父母的脸色，话到嘴边总要先掂量会不会让人不高兴。现在面对室友，这种感觉又冒出来了，我其实不是不想说，是怕说了之后气氛变僵，自己更像个外人。）"
+      }
+    }
+  ],
+  "created": 1795142581,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2091,
+    "total_tokens": 2212,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

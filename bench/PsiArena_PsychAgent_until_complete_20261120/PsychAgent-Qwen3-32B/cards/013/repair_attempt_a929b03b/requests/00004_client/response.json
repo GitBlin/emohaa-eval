@@ -1,0 +1,41 @@
+{
+  "id": "af8ceadb38f44802a99cb6bdea6ce522",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……晚上九点吧，手机放远一点。就……不刷视频，坐着待一会儿。",
+        "reasoning": "嗯……晚上九点吧，手机放远一点。就……不刷视频，坐着待一会儿。"
+      }
+    }
+  ],
+  "created": 1795157242,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 3020,
+    "total_tokens": 3043,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

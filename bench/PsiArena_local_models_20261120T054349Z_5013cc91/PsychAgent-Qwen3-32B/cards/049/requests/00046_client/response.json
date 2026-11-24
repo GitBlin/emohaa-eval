@@ -1,0 +1,41 @@
+{
+  "id": "1024736f5bfc4e92bdda529715813659",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，这样总结下来，我好像能抓住一点头绪了。那我这周先按两次、五分钟试试，下次再和你说说写的时候是什么感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应咨询师的总结。要简短2-3句，口语化，后期阶段，情绪稳定，探索解决方案和未来方向。可以表达记住要点、愿意尝试、下次继续。避免太早谢谢再见。第23轮只针对一个方面：总结并确定未来方向。",
+        "reasoning": "我们需要回应咨询师的总结。要简短2-3句，口语化，后期阶段，情绪稳定，探索解决方案和未来方向。可以表达记住要点、愿意尝试、下次继续。避免太早谢谢再见。第23轮只针对一个方面：总结并确定未来方向。"
+      }
+    }
+  ],
+  "created": 1795155281,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3419,
+    "total_tokens": 3515,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 60,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

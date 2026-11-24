@@ -1,0 +1,41 @@
+{
+  "id": "20e26269fdf74187af5e6c0fe98052e3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（低头）可能是吧……我也说不好。好像是从人际关系上开始的，但具体怎么变成这样，我自己也理不清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问的是不是像失去安全感或成就感，这让我想到最近和朋友之间那种疏远的感觉。但我不太想这么快就说到具体的事，毕竟才刚开始谈，而且我也还没完全信任他。也许可以稍微提一下和朋友有关，但不说太深，看看他的反应。）\n（感觉有点矛盾，一方面想说点什么让对话继续，另一方面又怕说多了暴露太多。还是先含糊地提一下人际关系吧，这样既回应了他，又不会太深入。）",
+        "reasoning": "（咨询师问的是不是像失去安全感或成就感，这让我想到最近和朋友之间那种疏远的感觉。但我不太想这么快就说到具体的事，毕竟才刚开始谈，而且我也还没完全信任他。也许可以稍微提一下和朋友有关，但不说太深，看看他的反应。）\n（感觉有点矛盾，一方面想说点什么让对话继续，另一方面又怕说多了暴露太多。还是先含糊地提一下人际关系吧，这样既回应了他，又不会太深入。）"
+      }
+    }
+  ],
+  "created": 1795146724,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 130,
+    "prompt_tokens": 1343,
+    "total_tokens": 1473,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

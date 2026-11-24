@@ -1,0 +1,41 @@
+{
+  "id": "361017a51e8c4ecc8305ef8d0c94cc3c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "关键词……“停一下”吧。提醒自己不用马上接话，也不用证明什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "可以选“停一下”或“不必马上接话”。用户可能觉得别扭，但能接受。",
+        "reasoning": "可以选“停一下”或“不必马上接话”。用户可能觉得别扭，但能接受。"
+      }
+    }
+  ],
+  "created": 1795153825,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 43,
+    "prompt_tokens": 3357,
+    "total_tokens": 3400,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

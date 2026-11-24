@@ -1,0 +1,41 @@
+{
+  "id": "8a3e61250ae04cd7a29554809ed811bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（深吸一口气）好，我回去试试。（停顿）今天……谢谢你了。虽然我还是有点怕，但至少知道该怎么开始了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我找具体的方法，让我觉得好像真的可以试试。虽然还是有点担心父母会反对，但至少有了个说法。）\n（想到要结束这次咨询了，心里有点没底。虽然聊了这么多，但回去之后真的能像说的那样做吗？不过至少现在没那么迷茫了。）",
+        "reasoning": "（咨询师在帮我找具体的方法，让我觉得好像真的可以试试。虽然还是有点担心父母会反对，但至少有了个说法。）\n（想到要结束这次咨询了，心里有点没底。虽然聊了这么多，但回去之后真的能像说的那样做吗？不过至少现在没那么迷茫了。）"
+      }
+    }
+  ],
+  "created": 1795153500,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2891,
+    "total_tokens": 2987,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 67,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

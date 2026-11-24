@@ -1,0 +1,41 @@
+{
+  "id": "f82ad975174442db9e53f193a5d260bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "模拟……现在吗？我有点紧张。不过，也好，也许我确实该学学怎么好好说话，而不是每次都憋着，最后自己难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到非暴力沟通，还问我要不要模拟练习。这让我有点紧张，因为平时和爸妈说话总是容易起冲突。不过她说的用“我觉得”开头，好像确实比直接指责要柔和一些。）\n（我想试试看，但又怕自己说不好，或者爸妈根本不听。这种矛盾的感觉让我有点犹豫，但既然咨询师愿意陪我练习，也许可以稍微放下一点防备。）",
+        "reasoning": "（咨询师提到非暴力沟通，还问我要不要模拟练习。这让我有点紧张，因为平时和爸妈说话总是容易起冲突。不过她说的用“我觉得”开头，好像确实比直接指责要柔和一些。）\n（我想试试看，但又怕自己说不好，或者爸妈根本不听。这种矛盾的感觉让我有点犹豫，但既然咨询师愿意陪我练习，也许可以稍微放下一点防备。）"
+      }
+    }
+  ],
+  "created": 1795148118,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 2135,
+    "total_tokens": 2255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

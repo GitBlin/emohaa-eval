@@ -1,0 +1,25 @@
+- Member believes the school showcase selection rewarded loudness over care, calling into question whether the careful work they value counts.
+- Member deleted two weeks of work after the showcase announcement, saying they could no longer see what they were making it for.
+- Member is undecided whether to restart the deleted piece; the announcement landing the same week made the work lose its meaning.
+- Member reports a standing split: the question of whether the work is worth anything is silent while drawing but piles on during the forty-minute drive home.
+- Member has replayed a reviewer's October comment — "competent but safe" — ever since, hearing it as the work having nothing worth a second look.
+- Member wants someone to see the thinking in the work, not just that it looks fine, and names Miss Doretha as the one who comments on exactly that.
+- Member discounts Miss Doretha's praise as obligation because she has known them since age twelve, though Member concedes she isn't just being nice.
+- Member identifies the risk that taking Miss Doretha seriously would mean the reviewer could be wrong, and that if the thinking were fully in the work and still called safe, there would be nothing left to blame but themselves.
+- Member sits in the car in the driveway before going inside, and told their mother twice that they were tired rather than explain the feeling.
+- Member describes the feeling as being behind on something they can't catch up to, tied to having opened no file since deleting the piece in October.
+- Member pictures any new file as bad before starting, hearing "competent but safe" in their own head as a blanket rule over everything, including work not yet made.
+- Member says the internal verdict is meaner and vaguer than the reviewer's actual words: "what's the point of this" and "this isn't any good."
+- Member finds the question silent when out with the camera on a back road in good light, because they are looking rather than being looked at.
+- Member says being seen feels like something could be found wrong, but not with their mother or Doretha.
+- Member says believing Doretha would mean the reviewer is simply wrong, leaving no one to be angry at but themselves.
+- Member finds the prospect of the work being good and still not picked worse than a fixable flaw, because there would be nothing to fix.
+- Member describes the loss as the reason for doing any of it being pulled out, and rejects reasons they would have to talk themselves into as fake.
+- Member names Thursday tutoring at the community center as the place that needs no convincing, because no one grades them there and the kids just need them to show up and know the thing.
+- Member says the good part of the work is 2 a.m. with a record on and no one looking, and that this predates any verdict at the wall.
+- Member has killed the deleted piece and now faces a blank file, where the verdict arrives before anything is drawn.
+- Member says the verdict starts on the drive home and gets louder when they sit down, and has been that way since October.
+- Member was already eating lunch in their car before the crit, hiding from being looked at in the dining hall.
+- Member says being looked at in the dining hall is too much exposure in itself, not a fear of a specific flaw being clocked.
+- Member insists the verdict about the art and the exposure of being seen are both true at once and cannot be separated.
+- Member says drawing was sometimes the one safe place and sometimes always a place to be looked at, and that the safe version ends the moment the work might be seen; the sketchbook stays in the drawer.

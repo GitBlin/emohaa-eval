@@ -1,0 +1,41 @@
+{
+  "id": "9dfb514e7e2f4c95ab917146f5670f9e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好吧……我试过跟他们说过一次，让他们声音小点，可他们好像没当回事。我也不知道是不是我说话的方式有问题……反正后来就没再提了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又一次强调保密，但我还是有点不放心。他好像很坚持让我说自己的问题，可我连自己到底怎么了都说不清楚。室友的事……其实我试过跟他们提，但没什么用。也许咨询师会觉得我小题大做吧。）\n（我是不是该试探一下他？如果我说了实话，他会不会像室友那样，嘴上说理解，其实根本不当回事？算了，先随便说一点，看看他的反应再说。）",
+        "reasoning": "（咨询师又一次强调保密，但我还是有点不放心。他好像很坚持让我说自己的问题，可我连自己到底怎么了都说不清楚。室友的事……其实我试过跟他们提，但没什么用。也许咨询师会觉得我小题大做吧。）\n（我是不是该试探一下他？如果我说了实话，他会不会像室友那样，嘴上说理解，其实根本不当回事？算了，先随便说一点，看看他的反应再说。）"
+      }
+    }
+  ],
+  "created": 1795146991,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1332,
+    "total_tokens": 1464,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 96,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

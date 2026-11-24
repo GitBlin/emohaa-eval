@@ -1,0 +1,41 @@
+{
+  "id": "cbe3e3a60a16446ca6416348088f8be7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "“眼霜只是眼霜，它的消失不等于我不好”……说出来有点别扭，但也不是完全说不出口。就是说到“不等于我不好”的时候，心里还是有点虚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户需要按规则回复，角色是来访者，后期阶段，简短2-3句，探索解决方案。需要回应咨询师让重复那句话，并表达一点犹豫/真实感，不要直接说谢谢再见。可以承认说出来有点别扭，但愿意试。然后可以提到梳子的事，带一点思维跳跃。保持口语化。不要提问太多，一次一个问题可以没有。要自然。）",
+        "reasoning": "（用户需要按规则回复，角色是来访者，后期阶段，简短2-3句，探索解决方案。需要回应咨询师让重复那句话，并表达一点犹豫/真实感，不要直接说谢谢再见。可以承认说出来有点别扭，但愿意试。然后可以提到梳子的事，带一点思维跳跃。保持口语化。不要提问太多，一次一个问题可以没有。要自然。）"
+      }
+    }
+  ],
+  "created": 1795155246,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 2822,
+    "total_tokens": 2946,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2375b2bf77514e339d7dbf8f3a1dd9cd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那我试试……“你们聊什么呢？我能不能也听听。”这样说好像没那么冲了，但会不会又太客气，显得很生分？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我调整表达方式，语气比之前温和多了。我确实担心太直接会让人不舒服，但也许可以试试加个缓冲词……不过这样会不会又显得太客气、太小心翼翼了？）",
+        "reasoning": "（咨询师在引导我调整表达方式，语气比之前温和多了。我确实担心太直接会让人不舒服，但也许可以试试加个缓冲词……不过这样会不会又显得太客气、太小心翼翼了？）"
+      }
+    }
+  ],
+  "created": 1795146779,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 2439,
+    "total_tokens": 2518,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

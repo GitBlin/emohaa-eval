@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-30a38eb3904c4d9f860b7ef52711016f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "咨询就像朋友聊天一样，你想说什么都可以。我会全程陪伴你，有什么心事尽管说，我会认真倾听。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者存在安全感不足，需要建立信任关系。\n【行动策略】：强化咨询师的陪伴角色，鼓励开放表达。\n",
+        "reasoning_content": "\n【诊断分析】：来访者存在安全感不足，需要建立信任关系。\n【行动策略】：强化咨询师的陪伴角色，鼓励开放表达。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795153436,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 394,
+    "total_tokens": 455,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

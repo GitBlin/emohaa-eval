@@ -1,0 +1,26 @@
+- Member filed intake form weeks ago but delayed attending until a triggering event this week.
+- Member's mentoring session at the computer lab ended after the kid was pulled from the program, leaving no mentoring until fall.
+- Member valued the mentoring hour as the one thing in the week that felt like their own.
+- Member left salsa before ten on Thursday and has not told anyone about the lab cancellation, including people who would ask.
+- Member avoids naming sadness aloud because it would make it real and require someone to act.
+- Member rejects "avoidance" as a label: they are around people all week but ensure nobody has to look after them.
+- Member preempts needing support by fixing things, cooking and sending photos to their mom, and answering "living the dream."
+- Member was the one who handled things for everybody back home and describes self-reliance as what they know how to do.
+- Member cannot recall anyone ever asking what they wanted and says the muscle for wanting is absent.
+- Member fears that asking for support would yield politeness and then being filed as a work friend.
+- Member has been in the city eleven months and has no one who would notice if they went quiet for a week.
+- Member joined three activities in the first month and scheduled salsa and rec league like meetings but never shared a true thing about themselves in any of them.
+- Member describes the mentoring connection as lightness, chest loosening, nothing to manage; Tuesday's empty room was just chairs and monitors.
+- Member says the week previously felt full because of that one hour and now has nothing ahead until fall.
+- Member cannot tell whether the isolation is self-caused or normal for being twenty-three and new to the city, and distrusts their own read.
+- Member cooks for people as their reliable method of connection but notes it yields a hundred people who like the cooking and none who know them.
+- Member states they have never asked anyone for anything in their life and does not know how to start at twenty-three.
+- Member asked Diego for a ride on Thursday and stayed past ten; Diego said yes but spent the whole drive talking about a woman he is seeing, and nothing happened as the place emptied.
+- Member sat in the parked car with the engine off before going in, and read the stillness as not knowing what they expected to happen in a parking lot.
+- Member concluded from Diego having someone that they may be the one not built for this.
+- Member does not count the ride request as asking for anything, calling it logistics that cost nothing and required Diego to know nothing about them; the real ask would be telling him they have had a rough month.
+- Member's feared outcome of telling Diego the true thing is that he is nice, asks one follow-up, returns to talking about her, and Member becomes the guy who said a sad thing once.
+- Member said that if Diego nodded and moved on after hearing "not great," they would go home worse than they are now.
+- Member acknowledged Diego asks how they are doing every time and that they answer "living the dream," so Diego may not be the one shutting the door.
+- Member rejected framing the goal as small victories, stating they want to tell Diego the true thing and have him still be there after.
+- Member committed to answering "not great" instead of "living the dream" the next time Diego asks how they are doing. [open]

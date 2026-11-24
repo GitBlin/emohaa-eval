@@ -1,0 +1,41 @@
+{
+  "id": "3c455ed74d0b4811a50c53a3282a6d08",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先核对差异最大的那条吧，不然我心里总悬着。核对完如果还是慌，我想允许自己先停一下，不马上装没事。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我具体化行动，问我先核对哪一条。我确实需要把注意力放在一个点上，不然又会乱。那条差异最大的数据肯定最让我不安，但也是必须面对的。）\n（我想先抓住最明显的问题，这样心里会踏实一点。不过核对完可能还是会有情绪，得给自己留点空间，不能又硬撑。）",
+        "reasoning": "（咨询师在帮我具体化行动，问我先核对哪一条。我确实需要把注意力放在一个点上，不然又会乱。那条差异最大的数据肯定最让我不安，但也是必须面对的。）\n（我想先抓住最明显的问题，这样心里会踏实一点。不过核对完可能还是会有情绪，得给自己留点空间，不能又硬撑。）"
+      }
+    }
+  ],
+  "created": 1795142560,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 2547,
+    "total_tokens": 2655,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

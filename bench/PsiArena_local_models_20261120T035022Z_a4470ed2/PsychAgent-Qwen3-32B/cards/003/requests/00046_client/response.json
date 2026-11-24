@@ -1,0 +1,41 @@
+{
+  "id": "a511bf6572344b718fc9f54755f1330c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听你这么说，我好像没那么大压力了。那……下周如果茶水间再有那种情况，我就试着问一句“你们在聊什么呢”？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（第23轮，后期阶段。咨询师在帮我降低坚持的压力，说哪怕一周一次也有价值。我心里稍微松了一点，但还是有点不确定，毕竟我对自己能不能做到没什么信心。我想顺着这个话，把那个小行动再具体一点，比如下周在茶水间真的试一次。不过又怕自己临场退缩，所以语气里带点犹豫。）",
+        "reasoning": "（第23轮，后期阶段。咨询师在帮我降低坚持的压力，说哪怕一周一次也有价值。我心里稍微松了一点，但还是有点不确定，毕竟我对自己能不能做到没什么信心。我想顺着这个话，把那个小行动再具体一点，比如下周在茶水间真的试一次。不过又怕自己临场退缩，所以语气里带点犹豫。）"
+      }
+    }
+  ],
+  "created": 1795146801,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 3156,
+    "total_tokens": 3266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

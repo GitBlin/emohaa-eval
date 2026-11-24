@@ -1,0 +1,41 @@
+{
+  "id": "7e18c839ee554b6b94482ff5ce8a1621",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来“先不选”反而让你松了一点。我们把这十天的节奏再具体化：如果中途又被人催问，你打算用哪一句简单的话先回应？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我试试。其实这么一想，好像没那么慌了。之前总觉得自己必须马上给个答案。",
+        "reasoning": "嗯……我试试。其实这么一想，好像没那么慌了。之前总觉得自己必须马上给个答案。"
+      }
+    }
+  ],
+  "created": 1795157427,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 3379,
+    "total_tokens": 3440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 23,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

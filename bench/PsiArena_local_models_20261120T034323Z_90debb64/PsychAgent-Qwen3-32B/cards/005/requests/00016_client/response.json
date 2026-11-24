@@ -1,0 +1,41 @@
+{
+  "id": "6e720adb6aee4190a86ca3a4ed0bc698",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "工作其实还行……就是有点烦，我总忍不住看手机，效率特别低。有时候领导在群里发消息，我回得慢一点就会特别紧张，怕人家觉得我不上心。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "用户现在进入中期阶段，开始愿意深入表达。咨询师问的是白天工作情况。我需要回答工作状态，同时可以稍微带出一点根源线索，但不要一次说太多。保持简短，2-3句。",
+        "reasoning": "用户现在进入中期阶段，开始愿意深入表达。咨询师问的是白天工作情况。我需要回答工作状态，同时可以稍微带出一点根源线索，但不要一次说太多。保持简短，2-3句。"
+      }
+    }
+  ],
+  "created": 1795146578,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 1719,
+    "total_tokens": 1808,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

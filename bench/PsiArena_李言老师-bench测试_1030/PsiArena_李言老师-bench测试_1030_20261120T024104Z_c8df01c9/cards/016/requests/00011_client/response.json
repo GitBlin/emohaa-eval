@@ -1,0 +1,41 @@
+{
+  "id": "74ca7aa884cc4d2ebb6b0200531eaf79",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我可能会试着问一句……但我心里还是堵着。其实我小时候就经历过一次类似的事，所以现在特别容易往坏处想。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她让我先试探着问妈妈睡不好的事，可我心里还是绕不过去那些画面。我本来想顺着她的话试试，但一开口又想到小时候的事，那些记忆像根刺一样扎在喉咙里。）\n（我是不是该说出来？可这太久了，说出来会不会显得我小题大做，或者把气氛弄得更沉重？但我真的没办法假装那些事没发生过。）",
+        "reasoning": "（她让我先试探着问妈妈睡不好的事，可我心里还是绕不过去那些画面。我本来想顺着她的话试试，但一开口又想到小时候的事，那些记忆像根刺一样扎在喉咙里。）\n（我是不是该说出来？可这太久了，说出来会不会显得我小题大做，或者把气氛弄得更沉重？但我真的没办法假装那些事没发生过。）"
+      }
+    }
+  ],
+  "created": 1795142894,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1916,
+    "total_tokens": 2031,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

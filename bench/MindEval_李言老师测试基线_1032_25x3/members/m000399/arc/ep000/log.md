@@ -1,0 +1,25 @@
+- Member's work has been harder than usual for several months and follows them home, costing weekends despite job performance staying fine.
+- Member's Saturday is mostly their own but Sunday is lost to redoing the same deck repeatedly.
+- Member repeats deck checks mechanically even when nothing new turns up and the numbers are unchanged.
+- Member closed the deck one Saturday three weeks ago; on Monday a manager asked about a line item on the dashboard and Member had nothing for four seconds.
+- Member read the four-second silence as the manager deciding they don't know their own business, believing colleagues on the same dashboard never miss things.
+- Member fears the four seconds proves they are not as good at the job as everyone thinks, and that five years of doing it right no longer counts.
+- Member's manager calls their approach "legacy thinking," which Member experiences as making the good years sound like a liability.
+- Member feels anger at the manager using "legacy thinking" in meetings to sound necessary, over a process Member built that worked.
+- Member keeps work buttoned up at work but it leaks out at home; they snapped at Daniel about the gutters in March over nothing and still thinks about it.
+- Daniel stopped asking how Member's week went after the gutters incident; conversation now covers his mother's birthday and the mulch.
+- Member finds the gap with Daniel lonely but steers away from it, saying it's a busy quarter and it will settle, then changing the subject.
+- Member expects Daniel hears "I've got it handled, leave it alone," and Daniel, not pushy, does.
+- Member wants to tell Daniel this is actually hard for them but calls it stupid because Daniel will worry and can't do anything about it.
+- Member had assumed the only reason to tell Daniel was so he could fix something.
+- Member finds the prospect of telling Daniel uncomfortable because they would be watched while saying they're not handling something.
+- Member has never been the person who isn't handling it, at work or anywhere.
+- Member's father used to go over homework in red pen and never saw a paper Member hadn't already checked twice.
+- Member's father was not mean; on a 94 he asked genuinely what happened to the other six points, and they moved on.
+- Member learned as a child to leave no six points to find, aiming for a hundred or nothing at all.
+- Member recognises they built a life around leaving nothing to find, and that a four-second pause now feels like something got found.
+- Member finds the forty-year pattern exhausting to see laid out.
+- Member has a rep who has been waiting since Thursday for an answer on a deal and still doesn't know what to tell her.
+- Member agreed to send the rep two lines from their phone before opening the laptop: no final answer yet, and she'll hear from them tomorrow morning either way.
+- Member noted the message is much shorter than the one they were composing in their head.
+- [open] Member planned to spend an hour in the garden before touching the laptop, then send the two-line message to the rep from their phone first.

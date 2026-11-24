@@ -1,0 +1,41 @@
+{
+  "id": "bf2567188bc14dd0989d44da9d1dc566",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先愣了一下，然后闷着头把邮件补发了，什么都没说。其实我挺想试着做点什么，别老让那句话直接压下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我是立刻回应还是先愣住，这让我想起当时那种僵住的感觉。我确实不是那种会当场发作的人，更多是闷在心里。）\n（不过现在回想起来，我好像可以试着做点什么，而不是像以前那样完全被这句话压住。也许我可以试着说出那个“等一下”的念头。）",
+        "reasoning": "（咨询师在问我是立刻回应还是先愣住，这让我想起当时那种僵住的感觉。我确实不是那种会当场发作的人，更多是闷在心里。）\n（不过现在回想起来，我好像可以试着做点什么，而不是像以前那样完全被这句话压住。也许我可以试着说出那个“等一下”的念头。）"
+      }
+    }
+  ],
+  "created": 1795143597,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 2600,
+    "total_tokens": 2702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

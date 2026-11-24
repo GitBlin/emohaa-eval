@@ -1,0 +1,41 @@
+{
+  "id": "51dad8178d504451a435da3d598701e0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "视频……他们打工的地方信号不好，说不了几句就断了。而且，我怕我说了这些，他们会觉得我不懂事，给他们添麻烦。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师建议我用视频或语音留言给爸妈……这让我想起上次打电话时，我刚说两句学校的事，他们就说长途电话费贵，匆匆挂断了。他们总是这样，好像除了成绩和钱，别的都不重要。）\n（我有点想试试，但又怕说了他们也不当回事。要是他们觉得我小题大做，或者反过来怪我不好好学习怎么办？这种话憋在心里好久了，说出来会不会反而更难受……）",
+        "reasoning": "（咨询师建议我用视频或语音留言给爸妈……这让我想起上次打电话时，我刚说两句学校的事，他们就说长途电话费贵，匆匆挂断了。他们总是这样，好像除了成绩和钱，别的都不重要。）\n（我有点想试试，但又怕说了他们也不当回事。要是他们觉得我小题大做，或者反过来怪我不好好学习怎么办？这种话憋在心里好久了，说出来会不会反而更难受……）"
+      }
+    }
+  ],
+  "created": 1795153619,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2045,
+    "total_tokens": 2171,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 95,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "7c6afe4baa4f4b60b23574fb26c9e3a8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（松了口气）好，那我先自己看一遍，再带过来。（停顿）其实说到现在，我心里好像没那么堵了。就是不知道这种状态能维持多久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）嗯，这样好像可以。至少我不用一个人在脑子里绕来绕去了。那……我记下来之后，下次是直接拿给你看吗？还是我先自己看一遍？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "（想了想）嗯，这样好像可以。至少我不用一个人在脑子里绕来绕去了。那……我记下来之后，下次是直接拿给你看吗？还是我先自己看一遍？<第21轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795155068,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 3257,
+    "total_tokens": 3364,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

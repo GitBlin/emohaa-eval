@@ -1,0 +1,41 @@
+{
+  "id": "bc12f4ef3f0f4150badbf3c428b28735",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样清楚多了，我今晚就写这两行。只是我有点担心，万一我连“我在害怕什么”都答不上来，会不会又觉得自己很失败。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把便签精简成两行，感觉比之前那一大堆步骤好记多了。我其实还是有点担心到时候脑子一片空白，什么都想不起来。不过“我在害怕什么”这个小问句，好像能在乱的时候把我拉回来一点。也许我可以先接受这个简化版，今晚试试看。）",
+        "reasoning": "（咨询师在帮我把便签精简成两行，感觉比之前那一大堆步骤好记多了。我其实还是有点担心到时候脑子一片空白，什么都想不起来。不过“我在害怕什么”这个小问句，好像能在乱的时候把我拉回来一点。也许我可以先接受这个简化版，今晚试试看。）"
+      }
+    }
+  ],
+  "created": 1795147797,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 3334,
+    "total_tokens": 3440,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

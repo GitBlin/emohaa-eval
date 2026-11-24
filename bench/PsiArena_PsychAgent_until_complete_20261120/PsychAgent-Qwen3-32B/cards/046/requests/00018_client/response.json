@@ -1,0 +1,41 @@
+{
+  "id": "df719b45a55b420f8d418063e882882f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是紧张吧，但也不完全是。我记得有一次考了第二名，回家都不敢说话，吃饭的时候一直低着头。那种感觉……好像不是怕被骂，是怕看到他们失望的样子。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我小时候最常出现的情绪……这让我想起很多事。那时候好像确实总是绷着一根弦，但具体是什么感觉又很难说清。可能不只是紧张，还有一种……说不出的压抑？）",
+        "reasoning": "（咨询师在问我小时候最常出现的情绪……这让我想起很多事。那时候好像确实总是绷着一根弦，但具体是什么感觉又很难说清。可能不只是紧张，还有一种……说不出的压抑？）"
+      }
+    }
+  ],
+  "created": 1795155143,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 1730,
+    "total_tokens": 1817,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

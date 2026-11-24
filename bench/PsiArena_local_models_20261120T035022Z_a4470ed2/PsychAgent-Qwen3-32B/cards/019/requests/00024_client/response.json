@@ -1,0 +1,41 @@
+{
+  "id": "f76f3630c1f249bcab3532a1d10fc239",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想说……“能不能先等等，我真的有点怕。”说出来又觉得挺没出息的，好像我连这个都扛不住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我想对推我的人说什么……我第一反应是有点堵，不想直接怪我妈。可那个画面一出来，心里就发酸。好像不是想吵架，只是想让她知道我不是不想，是我真的怕。说“等等”会不会显得太软弱？可这确实是我最想说的。）",
+        "reasoning": "（她问我想对推我的人说什么……我第一反应是有点堵，不想直接怪我妈。可那个画面一出来，心里就发酸。好像不是想吵架，只是想让她知道我不是不想，是我真的怕。说“等等”会不会显得太软弱？可这确实是我最想说的。）"
+      }
+    }
+  ],
+  "created": 1795147162,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1964,
+    "total_tokens": 2059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 66,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

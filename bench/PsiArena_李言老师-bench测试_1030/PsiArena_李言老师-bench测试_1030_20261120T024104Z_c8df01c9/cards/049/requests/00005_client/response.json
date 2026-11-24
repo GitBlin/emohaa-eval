@@ -1,0 +1,41 @@
+{
+  "id": "161a7560b8f946dcbbdb2100ae0829c9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……有时候改稿子，明明是很小的修改，我也会突然很没耐心。然后就会觉得自己怎么连这个都处理不好。我是不是有点太敏感了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体触发烦躁的小事，但我不太想这么快就深入细节。我还在试探阶段，需要先确认咨询师是否真的能理解我，而不是急着分析我。也许可以模糊地提一下注意力问题，看看对方的反应。毕竟家里从小就不鼓励表达情绪，我习惯先观察对方是否安全。这样回答既不会完全回避，又能保持一点距离感。）",
+        "reasoning": "（咨询师在问我具体触发烦躁的小事，但我不太想这么快就深入细节。我还在试探阶段，需要先确认咨询师是否真的能理解我，而不是急着分析我。也许可以模糊地提一下注意力问题，看看对方的反应。毕竟家里从小就不鼓励表达情绪，我习惯先观察对方是否安全。这样回答既不会完全回避，又能保持一点距离感。）"
+      }
+    }
+  ],
+  "created": 1795143710,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 120,
+    "prompt_tokens": 1282,
+    "total_tokens": 1402,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

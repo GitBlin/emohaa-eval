@@ -1,0 +1,41 @@
+{
+  "id": "2cc056bf45c74ad7b6bdedae1576f9e2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我希望她问“你最近累不累”，别一开口就是孩子。其实我也知道她不是坏心，我就是……有时候连开口求助都觉得难，怕被说矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她好像终于明白我想要的不是指责谁，而是有人先看见我这个人。可我马上又有点心虚，觉得自己是不是在要求太多。毕竟家里人都觉得照顾孩子是母亲的本分，我这样说出来会不会显得很不懂事。）\n（但转念一想，我只是希望她先问一句我累不累，这真的过分吗？也许我该让她知道，我连开口求助都觉得难，因为怕被说矫情。）",
+        "reasoning": "（她好像终于明白我想要的不是指责谁，而是有人先看见我这个人。可我马上又有点心虚，觉得自己是不是在要求太多。毕竟家里人都觉得照顾孩子是母亲的本分，我这样说出来会不会显得很不懂事。）\n（但转念一想，我只是希望她先问一句我累不累，这真的过分吗？也许我该让她知道，我连开口求助都觉得难，因为怕被说矫情。）"
+      }
+    }
+  ],
+  "created": 1795142545,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 133,
+    "prompt_tokens": 2383,
+    "total_tokens": 2516,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

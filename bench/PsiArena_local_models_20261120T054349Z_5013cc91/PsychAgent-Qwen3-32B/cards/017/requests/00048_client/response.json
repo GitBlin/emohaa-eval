@@ -1,0 +1,41 @@
+{
+  "id": "1f4db53859c744f6a6ab18db7be216b6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微放松了一点，但还有点不确定）好，那我先试试。要是中间又卡住了……我下次还能接着聊这个吗？",
+        "reasoning": "（稍微放松了一点，但还有点不确定）好，那我先试试。要是中间又卡住了……我下次还能接着聊这个吗？"
+      }
+    }
+  ],
+  "created": 1795154015,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 30,
+    "prompt_tokens": 3531,
+    "total_tokens": 3561,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

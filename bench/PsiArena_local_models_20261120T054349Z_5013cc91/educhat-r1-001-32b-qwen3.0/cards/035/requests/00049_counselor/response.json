@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-4c69af0d0c4c4871bcb25d266cde3d4c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好的，感谢你的信任。希望你能找到适合自己的解决方法。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者对咨询效果感到失望，可能存在咨询关系建立不足的问题。\n【行动策略】：结束本次咨询，为后续咨询留下空间。\n",
+        "reasoning_content": "\n【诊断分析】：来访者对咨询效果感到失望，可能存在咨询关系建立不足的问题。\n【行动策略】：结束本次咨询，为后续咨询留下空间。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795154909,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 53,
+    "prompt_tokens": 2529,
+    "total_tokens": 2582,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

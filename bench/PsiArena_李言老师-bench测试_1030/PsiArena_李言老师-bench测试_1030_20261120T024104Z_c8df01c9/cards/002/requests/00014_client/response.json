@@ -1,0 +1,41 @@
+{
+  "id": "21a74f9298cd479b8f2a92c6e80d2ccd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好像挺久了……最近见面都是很多人一起，单独说话很少。我有时候想开口，又怕显得我在计较。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近一次和她好好说话是什么时候……这让我想起我们之间越来越少的交流。我其实很怀念以前那种无话不谈的感觉，但现在每次想开口都觉得别扭。）\n（也许我该承认自己一直在回避这个问题。明明心里有很多话想说，却总担心说出来会显得太计较或者太依赖。这种矛盾让我更难受了。）",
+        "reasoning": "（她问我最近一次和她好好说话是什么时候……这让我想起我们之间越来越少的交流。我其实很怀念以前那种无话不谈的感觉，但现在每次想开口都觉得别扭。）\n（也许我该承认自己一直在回避这个问题。明明心里有很多话想说，却总担心说出来会显得太计较或者太依赖。这种矛盾让我更难受了。）"
+      }
+    }
+  ],
+  "created": 1795142583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 2240,
+    "total_tokens": 2340,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

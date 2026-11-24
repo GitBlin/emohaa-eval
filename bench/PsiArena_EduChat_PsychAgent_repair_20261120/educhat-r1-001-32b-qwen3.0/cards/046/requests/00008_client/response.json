@@ -1,0 +1,41 @@
+{
+  "id": "a02e2ece446c4b6ca5709de0a2cb83c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿了一下）那次……算了，说不上哪次最严重。倒是想问下，你们做咨询的，会不会……嗯，如果我说了些很私人的事，你会保密吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体的考核场景，但我现在还不想说太多细节。这种被追问的感觉让我有点不自在，好像他在急着挖出我的问题。而且我注意到他好像很专业的样子，这让我想试探一下他会不会太死板。）\n（也许我可以先反问一下关于保密的事情，看看他会不会紧张或者回避。这样既能转移话题，又能测试他是不是真的可靠。毕竟我还不确定能不能信任这个人。）",
+        "reasoning": "（咨询师在引导我回忆具体的考核场景，但我现在还不想说太多细节。这种被追问的感觉让我有点不自在，好像他在急着挖出我的问题。而且我注意到他好像很专业的样子，这让我想试探一下他会不会太死板。）\n（也许我可以先反问一下关于保密的事情，看看他会不会紧张或者回避。这样既能转移话题，又能测试他是不是真的可靠。毕竟我还不确定能不能信任这个人。）"
+      }
+    }
+  ],
+  "created": 1795155246,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 134,
+    "prompt_tokens": 1113,
+    "total_tokens": 1247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "5a50c86ae27a49fd9a6bbbd37ed2b4f5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哪怕就一个字也行……只要他回了，我就觉得自己还在他的世界里，没被丢下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "就是一句回应吧，哪怕很短的。有了回应，我就觉得自己还在他的世界里，没被丢下。",
+        "reasoning": "就是一句回应吧，哪怕很短的。有了回应，我就觉得自己还在他的世界里，没被丢下。"
+      }
+    }
+  ],
+  "created": 1795153614,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 1870,
+    "total_tokens": 1915,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 24,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

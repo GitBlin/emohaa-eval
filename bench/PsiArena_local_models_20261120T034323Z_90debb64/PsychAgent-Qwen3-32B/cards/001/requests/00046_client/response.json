@@ -1,0 +1,41 @@
+{
+  "id": "3d4bd605e22649eb9921a65aff98875e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微放松）我想先试一次，就一次。下次课间问一道数学题，说完就结束也行，不逼自己马上变熟。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）我最想带走的是……或许可以先从问一道题开始，不用一下子变外向。这样想好像没那么压人了。",
+        "reasoning": "（想了想）我最想带走的是……或许可以先从问一道题开始，不用一下子变外向。这样想好像没那么压人了。"
+      }
+    }
+  ],
+  "created": 1795146310,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 2834,
+    "total_tokens": 2896,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 29,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

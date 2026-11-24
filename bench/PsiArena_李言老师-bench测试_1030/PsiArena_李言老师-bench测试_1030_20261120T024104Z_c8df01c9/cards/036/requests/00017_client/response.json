@@ -1,0 +1,41 @@
+{
+  "id": "d1ac727d8543440ca08dda1812f30227",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "她好像挺喜欢喝奶茶的，之前说过哪家好喝。我想先拿这个开头试试，不过也怕她只是随便应付我。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得挺细的，我其实平时也没太留意小然喜欢什么。不过奶茶好像是个安全的话题，她之前说过喜欢喝。如果我先从这种小事开始，应该不会太突兀吧。）\n（但我心里还是有点打鼓，万一她只是客气接一下，其实并不想跟我多聊呢。算了，先不想那么远，至少有个能开口的由头。）",
+        "reasoning": "（她问得挺细的，我其实平时也没太留意小然喜欢什么。不过奶茶好像是个安全的话题，她之前说过喜欢喝。如果我先从这种小事开始，应该不会太突兀吧。）\n（但我心里还是有点打鼓，万一她只是客气接一下，其实并不想跟我多聊呢。算了，先不想那么远，至少有个能开口的由头。）"
+      }
+    }
+  ],
+  "created": 1795143348,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2488,
+    "total_tokens": 2604,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 84,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

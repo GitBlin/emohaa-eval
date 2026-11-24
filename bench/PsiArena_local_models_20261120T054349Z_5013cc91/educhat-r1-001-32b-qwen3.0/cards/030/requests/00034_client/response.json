@@ -1,0 +1,41 @@
+{
+  "id": "7cb36efe20e847f1be6bdb43f9575f7a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（想了想）他可能会问“怎么了”，或者就简单说句“辛苦了”。（稍微放松）其实哪怕就一句，也比两个人干坐着强。我打算这周找个机会试试。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我预想他的反应，看来是想帮我把计划具体化。我其实心里没底，但试着想想，也许他至少会问一句“怎么了”吧。）\n（不过光靠想也没用，不如给自己定个小目标，比如这周先试着开一次口。这样至少不会一直停在原地纠结。）",
+        "reasoning": "（咨询师在引导我预想他的反应，看来是想帮我把计划具体化。我其实心里没底，但试着想想，也许他至少会问一句“怎么了”吧。）\n（不过光靠想也没用，不如给自己定个小目标，比如这周先试着开一次口。这样至少不会一直停在原地纠结。）"
+      }
+    }
+  ],
+  "created": 1795154627,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2481,
+    "total_tokens": 2594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

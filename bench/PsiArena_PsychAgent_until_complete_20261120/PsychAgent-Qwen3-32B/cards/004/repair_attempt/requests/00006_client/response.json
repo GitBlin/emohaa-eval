@@ -1,0 +1,41 @@
+{
+  "id": "14f116bd40c44a01a0634bf66f5e82e3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻点头，语气比开始放松些）好像没那么乱了。至少知道可以先写纸条，还有体育老师可以试着说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（来访者刚才其实是在回应第22轮，我误把总结当成第22轮了。现在需要按第22轮的要求回应，保持简短，只针对一个方面：对咨询过程的总结和未来方向。）",
+        "reasoning": "（来访者刚才其实是在回应第22轮，我误把总结当成第22轮了。现在需要按第22轮的要求回应，保持简短，只针对一个方面：对咨询过程的总结和未来方向。）"
+      }
+    }
+  ],
+  "created": 1795156077,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 3665,
+    "total_tokens": 3740,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 47,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

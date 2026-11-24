@@ -1,0 +1,41 @@
+{
+  "id": "bb88dcef1f8d4f388952d5cd52e43b2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "能说出这句话已经很不容易。空的感觉也许是因为还没落到行动。我们先从很小的一步开始：下次有人请你帮忙时，你愿意先给自己几分钟再回答吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我对“委屈”说句话……我有点不习惯这样对自己说话，感觉怪怪的。但刚才那句“你怎么总是把我放最后”还在心里转，我不想再敷衍它了。）嗯……我想说“我知道你在，我不会再假装没听见”。不过说完又有点空，不知道明天还能不能做到。",
+        "reasoning": "（咨询师让我对“委屈”说句话……我有点不习惯这样对自己说话，感觉怪怪的。但刚才那句“你怎么总是把我放最后”还在心里转，我不想再敷衍它了。）嗯……我想说“我知道你在，我不会再假装没听见”。不过说完又有点空，不知道明天还能不能做到。"
+      }
+    }
+  ],
+  "created": 1795153793,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 107,
+    "prompt_tokens": 2206,
+    "total_tokens": 2313,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

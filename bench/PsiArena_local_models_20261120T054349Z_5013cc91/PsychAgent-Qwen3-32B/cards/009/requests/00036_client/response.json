@@ -1,0 +1,41 @@
+{
+  "id": "f7beb1ad85cf4abc9dec231fd7b7e3a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "手机备忘吧，我每天都会看手机。嗯……那如果我说了“我需要几分钟”，对方还是不高兴呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们把这个提醒词放在一个你能看到的地方，比如手机备忘或电脑贴纸。你觉得放在哪里最不容易忽略？<第19轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>",
+        "reasoning": "我们把这个提醒词放在一个你能看到的地方，比如手机备忘或电脑贴纸。你觉得放在哪里最不容易忽略？<第19轮:当前是后期阶段，请遵循对应的对话规则进行回复，每轮只针对对话规则中的一个方面进行回复。>"
+      }
+    }
+  ],
+  "created": 1795153810,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 2866,
+    "total_tokens": 2948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

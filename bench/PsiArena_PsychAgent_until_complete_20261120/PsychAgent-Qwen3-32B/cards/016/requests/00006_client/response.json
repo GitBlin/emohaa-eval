@@ -1,0 +1,41 @@
+{
+  "id": "c8aafa8d33e5480baea985e5124ceff5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "稍微安心一点吧……不过我也说不准。最近就是总觉得心里压着事情，睡不好，上班也容易走神，可要说到底怎么了，我又不知道该怎么讲清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这位咨询师说会保密，也解释了联系的方式，没有直接答应私下加微信，这让我稍微放心一点。但心里还是有点不确定，不知道能不能真的信任她。现在不想一下子说太多家里的事，还是先模糊地表达一下最近的感受吧，看看她怎么回应。）",
+        "reasoning": "（这位咨询师说会保密，也解释了联系的方式，没有直接答应私下加微信，这让我稍微放心一点。但心里还是有点不确定，不知道能不能真的信任她。现在不想一下子说太多家里的事，还是先模糊地表达一下最近的感受吧，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795153954,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1117,
+    "total_tokens": 1218,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

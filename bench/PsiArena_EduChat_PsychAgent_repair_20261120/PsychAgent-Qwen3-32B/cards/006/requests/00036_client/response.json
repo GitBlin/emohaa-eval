@@ -1,0 +1,41 @@
+{
+  "id": "d521fd7e37404cb9b4cb85e154a79fcf",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "薄荷糖吧，简单点。摸到它就提醒自己，先别急着回家。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他建议加个配套，比如听歌或薄荷糖。我想选一个简单的，不要太刻意。听歌可能会让我更沉浸，但薄荷糖更轻便，不容易被同事注意到。就选薄荷糖吧，放在口袋里，下班时摸到就知道该走了。）",
+        "reasoning": "（他建议加个配套，比如听歌或薄荷糖。我想选一个简单的，不要太刻意。听歌可能会让我更沉浸，但薄荷糖更轻便，不容易被同事注意到。就选薄荷糖吧，放在口袋里，下班时摸到就知道该走了。）"
+      }
+    }
+  ],
+  "created": 1795153648,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 2887,
+    "total_tokens": 2965,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

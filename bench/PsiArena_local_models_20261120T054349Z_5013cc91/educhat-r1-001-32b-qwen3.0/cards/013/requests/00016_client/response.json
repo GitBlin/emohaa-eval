@@ -1,0 +1,41 @@
+{
+  "id": "44ef821a26654d218f367c16bf041d1a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我同时和两个男生在接触……（声音变小）我知道这听起来很不好。一个对我特别包容，让我觉得温暖，另一个条件更稳定，让我有安全感。我不知道自己到底要什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师想让我具体说说感情上的事，看来是希望我开始深入谈困扰了。虽然有点难开口，但前面聊下来感觉她确实不会评判我。）\n（我其实一直卡在两个选择里，心里很乱。一个让我觉得温暖，另一个让我觉得安稳。但真正让我难受的是，我老觉得自己这样挑来挑去特别不好，好像很自私。）",
+        "reasoning": "（咨询师想让我具体说说感情上的事，看来是希望我开始深入谈困扰了。虽然有点难开口，但前面聊下来感觉她确实不会评判我。）\n（我其实一直卡在两个选择里，心里很乱。一个让我觉得温暖，另一个让我觉得安稳。但真正让我难受的是，我老觉得自己这样挑来挑去特别不好，好像很自私。）"
+      }
+    }
+  ],
+  "created": 1795153919,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 1578,
+    "total_tokens": 1702,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

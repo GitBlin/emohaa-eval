@@ -1,0 +1,41 @@
+{
+  "id": "b72a702cbcce49b38dec2a8e085719f1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我可能会在心里说“可以紧张，别为难自己”。虽然有点像口号，但总比逼自己完美要好吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师提的建议挺具体的……让我在紧张的时候默念那句话。说实话，我有点怀疑自己能不能做到，但至少听起来比“表现好”容易些。我想试着把这句话缩短一点，变成自己好记的版本。）",
+        "reasoning": "（这个咨询师提的建议挺具体的……让我在紧张的时候默念那句话。说实话，我有点怀疑自己能不能做到，但至少听起来比“表现好”容易些。我想试着把这句话缩短一点，变成自己好记的版本。）"
+      }
+    }
+  ],
+  "created": 1795156146,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 3054,
+    "total_tokens": 3134,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

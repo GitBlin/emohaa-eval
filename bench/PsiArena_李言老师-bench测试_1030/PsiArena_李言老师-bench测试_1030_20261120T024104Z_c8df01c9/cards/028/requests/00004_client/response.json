@@ -1,0 +1,41 @@
+{
+  "id": "76cb9e0fe3b74a8c82e485e165019762",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是周末的安排吧，我想跟朋友出去，他们就会不高兴。我说不上来，就是很累。对了，你们咨询里说的话，真的不会告诉我家里人吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我具体哪件事最难受……但我其实还没完全信任她。她看起来是认真在听，可我不确定她会不会像别人一样觉得我小题大做。而且她刚才说“你的感受该不该被重视”，这句话让我有点想试探她，看她是不是真的会站在我这边。）\n（也许我可以先模糊地提一下周末安排的事，但不用说得太细。顺便看看如果我试探性地问“你会不会替我保密”，她会怎么回应。这样既能稍微表达一点困扰，又不会太快暴露太多。）",
+        "reasoning": "（咨询师在问我具体哪件事最难受……但我其实还没完全信任她。她看起来是认真在听，可我不确定她会不会像别人一样觉得我小题大做。而且她刚才说“你的感受该不该被重视”，这句话让我有点想试探她，看她是不是真的会站在我这边。）\n（也许我可以先模糊地提一下周末安排的事，但不用说得太细。顺便看看如果我试探性地问“你会不会替我保密”，她会怎么回应。这样既能稍微表达一点困扰，又不会太快暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795143033,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 1168,
+    "total_tokens": 1320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "36e28873bbb54402950c8da4c1a751d8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好像没直接回答我……算了。身体反应嘛，我刚才说了，就是闷、静不下来。其实我最近老是这样，一件小事能想很久。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师好像在回避我的问题，没有直接回答自己有没有类似经历，反而又绕回身体反应上。这让我有点不太舒服，感觉像是在被套话。不过她说注意力集中在具体事物上能发现情绪波动，这倒是让我想到自己总是盯着丢东西这件事不放。）\n（我其实更想知道她是不是真的理解我这种感受，而不是用专业术语来应付我。既然她不愿意分享自己的经历，那我也没必要继续追问了。还是说点别的吧，也许可以提一下我最近总是这样，看看她怎么回应。）",
+        "reasoning": "（心理咨询师好像在回避我的问题，没有直接回答自己有没有类似经历，反而又绕回身体反应上。这让我有点不太舒服，感觉像是在被套话。不过她说注意力集中在具体事物上能发现情绪波动，这倒是让我想到自己总是盯着丢东西这件事不放。）\n（我其实更想知道她是不是真的理解我这种感受，而不是用专业术语来应付我。既然她不愿意分享自己的经历，那我也没必要继续追问了。还是说点别的吧，也许可以提一下我最近总是这样，看看她怎么回应。）"
+      }
+    }
+  ],
+  "created": 1795150239,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 1423,
+    "total_tokens": 1574,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 116,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

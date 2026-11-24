@@ -1,0 +1,41 @@
+{
+  "id": "8b4d4eb2504d48b6806180fe318f80fe",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有空调的声音……还有那个钟，滴答滴答的，另外一个……好像是外面走廊有人说话，听不太清。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "你听到的三种声音是什么？如果方便的话，也可以轻声告诉我。（我们一起聆听）",
+        "reasoning": "你听到的三种声音是什么？如果方便的话，也可以轻声告诉我。（我们一起聆听）"
+      }
+    }
+  ],
+  "created": 1795148549,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 46,
+    "prompt_tokens": 1998,
+    "total_tokens": 2044,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 19,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,5 +1,6 @@
 """Shared AxonHub configuration and the existing audited Lingx adapter."""
 import argparse
+import json
 import os
 from pathlib import Path
 import sys
@@ -31,3 +32,22 @@ def configure(args):
         raise SystemExit("Set AXONHUB_API_KEY before running")
     os.environ["PSIARENA_AI_ROLE_BOT_ID"] = str(args.bot_id)
     return os.getenv("AXONHUB_BASE_URL", "https://axonhub.ai-role.cn/v1").rstrip("/"), key
+
+
+def save(path, value):
+    temp = path.with_suffix(".tmp")
+    temp.write_text(json.dumps(value, indent=2, ensure_ascii=False), encoding="utf-8")
+    temp.replace(path)
+
+
+def configure_roles(args):
+    from psiarena.config import get_settings
+
+    FLASH = "deepseek-v4.1-flash-1017"
+    os.environ.update(PSIARENA_AI_ROLE_BOT_ID=str(args.bot_id), PSIARENA_CLIENT_MODEL=FLASH,
+                      PSIARENA_JUDGE_MODEL=FLASH, PSIARENA_COUNSELOR_PROVIDER="ai_role")
+    if args.target == "local":
+        os.environ.update(PSIARENA_COUNSELOR_PROVIDER="openai", PSIARENA_COUNSELOR_MODEL=args.model,
+                          PSIARENA_COUNSELOR_BASE_URL=args.base_url,
+                          PSIARENA_COUNSELOR_API_KEY=os.getenv("LOCAL_MODEL_API_KEY", "EMPTY"))
+    return get_settings()

@@ -1,0 +1,41 @@
+{
+  "id": "98c9efbf84684d178ff9031b2bd83d0c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我……（声音低下去）其实我就想过得轻松点。不用总想着该说什么话、穿什么衣服。可在我家，什么都要考虑合不合适，连找对象都得看条件。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师提到面具和孤独，这让我想起每次相亲前都要花两小时打扮，其实内心特别抗拒。她问真实的我渴望什么生活，这个问题让我有点难受，因为我自己都很少去想。）\n（可能我一直在逃避这个问题。家里总是强调稳定和经济基础，我好像也慢慢接受了这种观念，觉得感情就是条件匹配。但内心深处又觉得不对劲，这种矛盾让我很累。）",
+        "reasoning": "（咨询师提到面具和孤独，这让我想起每次相亲前都要花两小时打扮，其实内心特别抗拒。她问真实的我渴望什么生活，这个问题让我有点难受，因为我自己都很少去想。）\n（可能我一直在逃避这个问题。家里总是强调稳定和经济基础，我好像也慢慢接受了这种观念，觉得感情就是条件匹配。但内心深处又觉得不对劲，这种矛盾让我很累。）"
+      }
+    }
+  ],
+  "created": 1795154193,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1713,
+    "total_tokens": 1841,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

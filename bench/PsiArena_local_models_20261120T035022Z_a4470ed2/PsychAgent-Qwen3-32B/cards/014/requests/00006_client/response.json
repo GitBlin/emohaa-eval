@@ -1,0 +1,41 @@
+{
+  "id": "233d5c9f8f624e46a44fab99f05e1ecc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就我和我老公两个人住，没孩子。我平时上班，下了班就回家，日子挺单调的。最近……家里气氛不太好，我也说不上来为什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这个咨询师问得挺细的，让我有点犹豫。说家里的事……其实我不太想一上来就讲太多，但既然来了，总得说点什么。我和老公两个人住，没有孩子，平时就是上班下班。最近他在家，气氛确实不一样了，可我不确定该不该现在就说他失业的事。）",
+        "reasoning": "（这个咨询师问得挺细的，让我有点犹豫。说家里的事……其实我不太想一上来就讲太多，但既然来了，总得说点什么。我和老公两个人住，没有孩子，平时就是上班下班。最近他在家，气氛确实不一样了，可我不确定该不该现在就说他失业的事。）"
+      }
+    }
+  ],
+  "created": 1795146984,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 1136,
+    "total_tokens": 1244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

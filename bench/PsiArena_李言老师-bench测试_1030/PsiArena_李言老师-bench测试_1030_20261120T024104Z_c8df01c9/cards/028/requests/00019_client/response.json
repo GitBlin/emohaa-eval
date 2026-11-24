@@ -1,0 +1,41 @@
+{
+  "id": "1a469a72b99d45ad8ad2f892caf0a111",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这周六下午吧，我想跟朋友喝个咖啡，不待太晚。我可能得先想好怎么说，不然她一皱眉我就又缩回去了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我具体化行动，这让我觉得有点踏实，但想到真要开口还是紧张。周末安排确实比恋爱、工作那些更容易说出口，可我妈的反应还是让我心里打鼓。）\n（我是不是该先选个最轻的？比如周六下午和朋友喝咖啡，不涉及过夜或者远行，这样她可能不会太反对。但我又怕自己到时候一看到她脸色就说不下去，得提前想好怎么开口才行。）",
+        "reasoning": "（咨询师在引导我具体化行动，这让我觉得有点踏实，但想到真要开口还是紧张。周末安排确实比恋爱、工作那些更容易说出口，可我妈的反应还是让我心里打鼓。）\n（我是不是该先选个最轻的？比如周六下午和朋友喝咖啡，不涉及过夜或者远行，这样她可能不会太反对。但我又怕自己到时候一看到她脸色就说不下去，得提前想好怎么开口才行。）"
+      }
+    }
+  ],
+  "created": 1795143136,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 2786,
+    "total_tokens": 2918,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

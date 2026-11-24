@@ -1,0 +1,41 @@
+{
+  "id": "aa46c8cc7fb34b55a71f241be9922d8a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真听着）“三分钟观察法”……先观察，不急着反应。（有点不确定）可我怕自己一慌就全忘了，能不能先从小事开始练？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在教我一个具体的方法，叫“三分钟观察法”，让我先观察自己的感受再回应。这听起来比直接陷入情绪里要冷静一些，但我还是担心自己做不到。）\n（我想到自己平时一被忽视就慌了，马上开始自责，根本停不下来。这个方法需要练习，可我不知道从哪里开始。也许可以先从小事试起，比如下次朋友回消息慢的时候，先不急着下结论。）",
+        "reasoning": "（咨询师在教我一个具体的方法，叫“三分钟观察法”，让我先观察自己的感受再回应。这听起来比直接陷入情绪里要冷静一些，但我还是担心自己做不到。）\n（我想到自己平时一被忽视就慌了，马上开始自责，根本停不下来。这个方法需要练习，可我不知道从哪里开始。也许可以先从小事试起，比如下次朋友回消息慢的时候，先不急着下结论。）"
+      }
+    }
+  ],
+  "created": 1795146790,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 2439,
+    "total_tokens": 2567,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

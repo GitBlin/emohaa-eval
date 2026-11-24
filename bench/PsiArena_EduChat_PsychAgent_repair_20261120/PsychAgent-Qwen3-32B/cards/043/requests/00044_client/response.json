@@ -1,0 +1,41 @@
+{
+  "id": "18b142fc33b24242b13c80084b8c4bb3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（点头）应该能吧，至少能让我停一下，不会马上躲开。（顿了顿）我想先试试那两句话，别一下子要求自己太多。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（用户角色是来访者，第21轮后期阶段。咨询师问“这句话很有力量……你觉得它们能在类似情境里，帮你多一点空间吗？” 我需要简短回应，情绪趋于稳定，探索行动。可以说：应该能吧，至少能让我停一下，不会马上躲开。然后提到具体尝试。保持2-3句。）",
+        "reasoning": "（用户角色是来访者，第21轮后期阶段。咨询师问“这句话很有力量……你觉得它们能在类似情境里，帮你多一点空间吗？” 我需要简短回应，情绪趋于稳定，探索行动。可以说：应该能吧，至少能让我停一下，不会马上躲开。然后提到具体尝试。保持2-3句。）"
+      }
+    }
+  ],
+  "created": 1795155019,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 3121,
+    "total_tokens": 3229,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

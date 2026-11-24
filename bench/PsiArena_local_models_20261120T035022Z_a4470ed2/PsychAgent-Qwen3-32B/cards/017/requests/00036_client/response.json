@@ -1,0 +1,41 @@
+{
+  "id": "22490ca08da7484cad51ac8260e74e4a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想跟它说……“我听见了，我不会再假装没事。”……可是说完又有点心虚，怕自己做不到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我回应那个害怕的部分……我其实有点不知道说什么。以前没人这样问过我。我想说“我知道了”，可又觉得太简单。也许可以跟它说，我不会再假装没听见它了，但说完又怕自己做不到。）",
+        "reasoning": "（咨询师让我回应那个害怕的部分……我其实有点不知道说什么。以前没人这样问过我。我想说“我知道了”，可又觉得太简单。也许可以跟它说，我不会再假装没听见它了，但说完又怕自己做不到。）"
+      }
+    }
+  ],
+  "created": 1795147112,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 2852,
+    "total_tokens": 2933,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

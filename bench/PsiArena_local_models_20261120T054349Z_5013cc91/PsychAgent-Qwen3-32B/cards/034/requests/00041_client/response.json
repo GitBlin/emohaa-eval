@@ -1,0 +1,41 @@
+{
+  "id": "4c1d4149216f45fa8faff141aa8acefb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，这句有一点像我了，但“此刻”太书面了。我想改成“我现在就是有点紧张，还没想清楚，但我先跟你说一下”。这样比较像我会说的话。",
+        "reasoning": "嗯，这句有一点像我了，但“此刻”太书面了。我想改成“我现在就是有点紧张，还没想清楚，但我先跟你说一下”。这样比较像我会说的话。"
+      }
+    }
+  ],
+  "created": 1795154739,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 39,
+    "prompt_tokens": 2920,
+    "total_tokens": 2959,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 40,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-ef2995ce25944734b291d3954f172ee9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你好，我是咨询师。看到你有寻求帮助的勇气，这本身就是很好的第一步。请问有什么困扰你的事情可以和我分享吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户主动寻求咨询，需要建立信任关系。\n【行动策略】：运用开放式提问，鼓励用户表达具体困扰。\n",
+        "reasoning_content": "\n【诊断分析】：用户主动寻求咨询，需要建立信任关系。\n【行动策略】：运用开放式提问，鼓励用户表达具体困扰。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795147737,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 196,
+    "total_tokens": 260,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

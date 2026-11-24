@@ -1,0 +1,41 @@
+{
+  "id": "c58eba2d519d4979ac7e98c8ae47d155",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（歪着头想了想）可能……出去走走吧，不带手机那种。（有点不确定）或者随便画点什么，不用画得好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我如果不用手机，会想象用什么方式应对焦虑。这让我有点茫然，因为好像除了刷手机，我确实没认真想过别的办法。但咨询师说硬撑也是勇气，这让我稍微没那么自责了。）\n（也许可以试试一些简单的事情？画画以前是喜欢的，虽然现在画不出来，但也许随便涂涂不算太难。或者出去走走，不用跟人说话的那种，应该不会太有压力。）",
+        "reasoning": "（咨询师在问我如果不用手机，会想象用什么方式应对焦虑。这让我有点茫然，因为好像除了刷手机，我确实没认真想过别的办法。但咨询师说硬撑也是勇气，这让我稍微没那么自责了。）\n（也许可以试试一些简单的事情？画画以前是喜欢的，虽然现在画不出来，但也许随便涂涂不算太难。或者出去走走，不用跟人说话的那种，应该不会太有压力。）"
+      }
+    }
+  ],
+  "created": 1795150110,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 122,
+    "prompt_tokens": 3098,
+    "total_tokens": 3220,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

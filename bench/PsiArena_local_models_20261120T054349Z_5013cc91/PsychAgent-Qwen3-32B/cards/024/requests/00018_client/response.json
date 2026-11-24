@@ -1,0 +1,41 @@
+{
+  "id": "6adf23e78cf44d6596685869c9dbd1bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（声音低下来）我爸妈不怎么吵，但家里总是很闷。我记得有一次考差了，我妈就叹了口气，什么都没说……那种沉默比骂我还难受。我好像从那时候就学会了，什么都别多说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（回忆起小时候）我爸妈不太吵架，但家里气氛总是很闷。我记得有一次我考得不好，我妈就叹了口气，什么都没说。那种沉默比骂我还让我难受。我好像从那时候就学会了，什么都别多说。",
+        "reasoning": "（回忆起小时候）我爸妈不太吵架，但家里气氛总是很闷。我记得有一次我考得不好，我妈就叹了口气，什么都没说。那种沉默比骂我还让我难受。我好像从那时候就学会了，什么都别多说。"
+      }
+    }
+  ],
+  "created": 1795154263,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 1736,
+    "total_tokens": 1833,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 50,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

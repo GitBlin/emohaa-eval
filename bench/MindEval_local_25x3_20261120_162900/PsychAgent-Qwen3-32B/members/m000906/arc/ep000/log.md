@@ -1,0 +1,18 @@
+- Member was volunteered by her mother to hand-letter wedding invitations for her cousin without being asked first.
+- Member has not been able to start the invitation project and cannot make herself open the file.
+- Member knows Illustrator and says software is not the obstacle.
+- Member says the block is neither the content nor the design direction of the invitations.
+- Member has tried timers before and says they change nothing.
+- Member says quality is the worry: the family will see the invites and know they are hers.
+- Member says the pressure is worse when people are waiting on the work; work done for herself does not matter because nobody cares.
+- Member says there is no private version of the task because her mother has already told the family.
+- Member rejected drafting a private test piece, saying shrinking the task misses the problem — she could pick a font in ten seconds.
+- Member will not call her mother about the project, saying her mother thinks the lettering is nothing.
+- Member does not know what the invitations should look like but expects that whatever she makes will look wrong to her.
+- Member fixates on uneven loops in her lettering that nobody else would notice, and once seen that is all she can see.
+- Member says alignment tools will not help because the problem is that she sees only what is wrong with everything she makes.
+- Member rejects the "practice piece" and "good enough" framing: a piece is either hers and wrong or not hers at all.
+- Member acknowledges the pattern may connect to her past or how she sees herself but does not want to dig into childhood over wedding invitations.
+- Member has nine years of experience lettering signs.
+- Member rejects using a template because her mother told the family she would do the lettering by hand, and a template would be worse than nothing.
+- Member rejected offering a hand-lettered sample as a draft and ended the session, saying she did not think it would give her anything for tomorrow.

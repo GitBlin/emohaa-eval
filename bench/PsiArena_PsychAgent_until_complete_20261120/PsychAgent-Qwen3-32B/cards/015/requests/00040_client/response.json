@@ -1,0 +1,41 @@
+{
+  "id": "2af433ff5ca6419c89fdc10015c059b8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我想想。可能可以先说一句“我现在有点难受，你愿意听我说两分钟吗”。但真到那时候，我又怕他拒绝。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……我想想。比如我可以说“我现在有点难受，你愿意听我说两分钟吗”，但我说不出口，怕被拒绝。",
+        "reasoning": "嗯……我想想。比如我可以说“我现在有点难受，你愿意听我说两分钟吗”，但我说不出口，怕被拒绝。"
+      }
+    }
+  ],
+  "created": 1795153992,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 64,
+    "prompt_tokens": 2815,
+    "total_tokens": 2879,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

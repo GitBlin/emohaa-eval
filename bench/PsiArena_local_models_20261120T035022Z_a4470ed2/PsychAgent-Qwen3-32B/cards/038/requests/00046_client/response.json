@@ -1,0 +1,41 @@
+{
+  "id": "6d447eda4ebb44bd84bc0913e630b5bd",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "行，我可以试一次。就是怕到时候一紧张又绕开，那我先找个不那么正式的时候说。记录……就记一下当时紧不紧吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我把计划落到具体行动上，我得表现出愿意尝试但又有点发怵的样子。不能太干脆，不然不像我。就顺着他的话，先应下来，再提一句怕自己临时又缩回去。）\n（后面再补一句给自己留点余地，说先找个不那么正式的时候练，这样听起来比较真实。最后再确认一下记录的事，显得我是在认真考虑，不是敷衍。）",
+        "reasoning": "（咨询师在帮我把计划落到具体行动上，我得表现出愿意尝试但又有点发怵的样子。不能太干脆，不然不像我。就顺着他的话，先应下来，再提一句怕自己临时又缩回去。）\n（后面再补一句给自己留点余地，说先找个不那么正式的时候练，这样听起来比较真实。最后再确认一下记录的事，显得我是在认真考虑，不是敷衍。）"
+      }
+    }
+  ],
+  "created": 1795148145,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 124,
+    "prompt_tokens": 3176,
+    "total_tokens": 3300,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

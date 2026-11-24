@@ -1,0 +1,41 @@
+{
+  "id": "7853628c518149c69246a4c8060f45b9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "具体的事……工作上的方案总被打回来，其实也还好。就是我妈那句话，让我觉得好像不管多努力，在她眼里都还差点。（停顿）我是不是太在意她怎么看了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才说努力不是唯一解释，让我觉得被理解了，不像我妈那样直接下结论。但一说到具体压力，脑子里就冒出好多事，不知道从哪件说起。）\n（工作上的事其实还好，真正让我喘不过气的是家里那种永远不够好的感觉。每次跟我妈说话，好像都在证明我哪里又没做好。这种压力比工作更沉。）",
+        "reasoning": "（她刚才说努力不是唯一解释，让我觉得被理解了，不像我妈那样直接下结论。但一说到具体压力，脑子里就冒出好多事，不知道从哪件说起。）\n（工作上的事其实还好，真正让我喘不过气的是家里那种永远不够好的感觉。每次跟我妈说话，好像都在证明我哪里又没做好。这种压力比工作更沉。）"
+      }
+    }
+  ],
+  "created": 1795142955,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1768,
+    "total_tokens": 1891,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 81,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

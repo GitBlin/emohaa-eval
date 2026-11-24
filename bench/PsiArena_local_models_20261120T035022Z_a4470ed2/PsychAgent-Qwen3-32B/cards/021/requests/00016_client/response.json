@@ -1,0 +1,41 @@
+{
+  "id": "fd065788b7ad4180a72a4523a73d77c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是吧。我从小家里就要求挺严的，父母总说我是长子，要有担当。现在母亲病了，我就觉得……这些事本来就该我扛。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到我是不是总想把事情做到完美、给自己很大压力。这让我想起小时候家里对我的要求，还有母亲生病后我那种怎么做都不够的感觉。也许我可以试着多说一点，不只是表面上的担心。）\n（现在好像可以稍微信任他了，说说家里的事应该没关系吧。我想到父母总说我是家里的长子，要担起责任，这种话从小就听，现在母亲病了，这种感觉更重了。）",
+        "reasoning": "（咨询师问到我是不是总想把事情做到完美、给自己很大压力。这让我想起小时候家里对我的要求，还有母亲生病后我那种怎么做都不够的感觉。也许我可以试着多说一点，不只是表面上的担心。）\n（现在好像可以稍微信任他了，说说家里的事应该没关系吧。我想到父母总说我是家里的长子，要担起责任，这种话从小就听，现在母亲病了，这种感觉更重了。）"
+      }
+    }
+  ],
+  "created": 1795147233,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 1490,
+    "total_tokens": 1618,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

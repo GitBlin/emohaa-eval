@@ -1,0 +1,41 @@
+{
+  "id": "5fb9e019fe6c40debcc18bf572a3a75e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "他说后面可能还要看情况……我脑子里马上想到家里以前那些病。外公、舅舅都是那样走的。我有点怕，这事会不会也落到我身上。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问起医生说的哪句话最让我放不下，这让我一下子想到家族遗传的阴影。之前一直没敢提这件事，现在似乎可以稍微说一点了。毕竟已经聊了这么多，信任感在慢慢建立。）\n（但直接说“遗传癌症”还是太沉重，得用更模糊的方式带过去。先提外公和舅舅，看看咨询师的反应。也许可以试探性地问问，这种担忧是不是有点过分。）",
+        "reasoning": "（咨询师问起医生说的哪句话最让我放不下，这让我一下子想到家族遗传的阴影。之前一直没敢提这件事，现在似乎可以稍微说一点了。毕竟已经聊了这么多，信任感在慢慢建立。）\n（但直接说“遗传癌症”还是太沉重，得用更模糊的方式带过去。先提外公和舅舅，看看咨询师的反应。也许可以试探性地问问，这种担忧是不是有点过分。）"
+      }
+    }
+  ],
+  "created": 1795143016,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 1907,
+    "total_tokens": 2036,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 94,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

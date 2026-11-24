@@ -1,0 +1,41 @@
+{
+  "id": "ee1df1b3d3df40978d04890290e609c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这样很好。下周你可以简单记录：触发情境、身体信号、你当时在怕什么。我们下次一起看这些记录，再决定下一步。今天先到这里，你愿意吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了想）嗯，胸口闷和喉咙紧这两个……我确实常有。那就用它们提醒自己停一下。我回去先记一记，看看一周里能抓住几次。",
+        "reasoning": "（想了想）嗯，胸口闷和喉咙紧这两个……我确实常有。那就用它们提醒自己停一下。我回去先记一记，看看一周里能抓住几次。"
+      }
+    }
+  ],
+  "created": 1795155181,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 79,
+    "prompt_tokens": 3468,
+    "total_tokens": 3547,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

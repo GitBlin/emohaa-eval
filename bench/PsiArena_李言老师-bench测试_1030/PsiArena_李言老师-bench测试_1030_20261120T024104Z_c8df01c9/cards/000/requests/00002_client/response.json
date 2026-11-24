@@ -1,0 +1,41 @@
+{
+  "id": "1adcf954bbd94c66b492252031a305a3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实也说不清，就是最近有点……心里不太舒服。工作看起来都正常，但总觉得跟人隔着一层。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的大致流程，说节奏由我掌握……但我不太确定该不该完全相信这种说法。毕竟第一次见面，谁知道会不会又是那种让人不舒服的谈话。）\n（作为习惯了高标准的人，我下意识想先确认对方是不是真的能理解我。但直接说“我最近很困扰”又显得太脆弱了，不如先含糊地说说看，观察对方的反应。同事那句话确实让我在意，但我不想一上来就暴露太多。）",
+        "reasoning": "（刚才咨询师解释了咨询的大致流程，说节奏由我掌握……但我不太确定该不该完全相信这种说法。毕竟第一次见面，谁知道会不会又是那种让人不舒服的谈话。）\n（作为习惯了高标准的人，我下意识想先确认对方是不是真的能理解我。但直接说“我最近很困扰”又显得太脆弱了，不如先含糊地说说看，观察对方的反应。同事那句话确实让我在意，但我不想一上来就暴露太多。）"
+      }
+    }
+  ],
+  "created": 1795142481,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 977,
+    "total_tokens": 1104,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

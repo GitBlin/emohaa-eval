@@ -1,0 +1,15 @@
+- Member has had a temper problem at home for years that came to a head a few weeks ago, and sought counselling because he could not get a read on a recent event.
+- Member broke a mug he had used every morning for twenty years during a fight with his wife, glued it back together, put it on the shelf, and said nothing about it.
+- Member found the repaired mug in the drying rack on Thursday morning — his wife had made her coffee in it and washed it out — and stood frozen at the counter for a minute without understanding why.
+- Member was struck not by his wife touching the mug but by her kindness in using it without making an issue of it, which he experienced as her handing him an opening to speak.
+- Member poured his coffee into a different cup instead of speaking, and identifies this as his usual pattern rather than a new problem.
+- Member has been married twenty-nine years and has never once said out loud to his wife that he was not doing well.
+- Member expects he will keep staying silent and his wife will keep being patient until she stops bothering, and he will still be out in the garage with the glue.
+- Member goes to the garage not because it is safe but so he does not lose his temper in the kitchen again.
+- Member cannot picture himself opening his mouth to speak, and does not know what he is hoping for.
+- Member wants the temper problem to stop, and says that is all he wants.
+- Member filled in the counselling intake form at one in the morning three weeks ago and wrote everything down in it; writing brought him no relief and the content has stayed unaddressed since.
+- Member is expected at the fish fry on the second Friday of Lent and keeps picturing standing in the hall with a ladle while people ask how he is doing.
+- Member rejects saying "fine" to everyone at the fish fry as a victory, calling it the exact lifelong habit he is trying to stop.
+- Member states his wife does not see him, which he gives as the whole reason he sought counselling.
+- Member ended the session early saying he was done for now.

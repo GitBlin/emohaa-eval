@@ -1,0 +1,41 @@
+{
+  "id": "31b34791b3cb46438d2b9dd84fe3a6f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯，是挺在意的。不过……我也知道真朋友不该只看这些，但真到那时候又控制不住自己。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，是挺在意的。不过……我也知道真朋友不该只看这些，但真到那时候又控制不住自己。",
+        "reasoning": "嗯，是挺在意的。不过……我也知道真朋友不该只看这些，但真到那时候又控制不住自己。"
+      }
+    }
+  ],
+  "created": 1795154532,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 2520,
+    "total_tokens": 2574,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 27,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

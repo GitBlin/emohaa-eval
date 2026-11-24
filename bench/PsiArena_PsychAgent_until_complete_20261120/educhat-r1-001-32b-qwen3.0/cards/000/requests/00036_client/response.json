@@ -1,0 +1,41 @@
+{
+  "id": "e47a2a258c104ab0b2b11868c9065cad",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（停顿）你这样一直不回应，我有点泄气。我说了具体的事，你就不能给我一点反馈吗？还是我得自己一个人往下想？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（又是问号。我已经在努力往前走了，试着说出具体能做的事，可对方还是只丢一个问号过来。那种感觉就像我在黑暗里伸手，却抓不到任何回应，很泄气，也有点被晾着。）\n（我本来就不太会主动，现在好不容易说出一个具体的小尝试，却得不到一点确认。问号让我不知道自己是说错了还是说少了，心里又开始发紧。可我也不想就这么退回去，还是得把话说清楚，让对方知道这种沉默式回应让我很难受。）",
+        "reasoning": "（又是问号。我已经在努力往前走了，试着说出具体能做的事，可对方还是只丢一个问号过来。那种感觉就像我在黑暗里伸手，却抓不到任何回应，很泄气，也有点被晾着。）\n（我本来就不太会主动，现在好不容易说出一个具体的小尝试，却得不到一点确认。问号让我不知道自己是说错了还是说少了，心里又开始发紧。可我也不想就这么退回去，还是得把话说清楚，让对方知道这种沉默式回应让我很难受。）"
+      }
+    }
+  ],
+  "created": 1795153473,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 145,
+    "prompt_tokens": 2204,
+    "total_tokens": 2349,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

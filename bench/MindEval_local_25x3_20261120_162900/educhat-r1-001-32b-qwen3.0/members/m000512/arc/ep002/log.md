@@ -1,0 +1,30 @@
+- Member was angry and unable to let go after two people were chosen for the end of semester showcase, one being a guy who does the loudest thing on every brief, which was called risk taking.
+- Member stayed silent during the showcase selection and did not speak up, and later said there was no moment where they decided to stay quiet.
+- Member believes loud is what counts and that their quieter approach means everything they have been doing does not count.
+- Member deleted the piece they had been rebuilding for the next assignment, two weeks of work, dragging it to the trash, not because they thought it was bad but because they could not see the point of it anymore.
+- Member is weighing whether to rebuild the deleted piece, with part of them thinking rebuilding would mean something and another part thinking it is just to prove they belong there, which they called kind of pathetic.
+- Member rejects the idea that art does not need an audience, stating the whole point of making stuff is people seeing it, and said the counsellor does not get why they draw.
+- Member reacted negatively to the suggestion of art as a love letter to themselves, calling it a fridge magnet quote after saying one real thing.
+- Member framed the decision as binary: rebuild tonight and be fine by Monday, or leave it in the trash and feel like a coward either way.
+- Member said they had six weeks of this already and left the session without a next step.
+- Member sat at almost 3am looking at the deleted piece still in the trash and has not emptied it, and asked whether leaving it there is fine or avoidance.
+- Member said relief and hiding feel like the same thing when weighing whether to rebuild or leave the piece.
+- Member said the only thing they want from an audience is for people to stop and look at the piece for a second.
+- Member said every answer they came up with about what would make the work worth it sounded like something they were supposed to say, and pushed back that this was the third time someone told them what their work is really about instead of answering what they asked.
+- Member said looking at the trash at 2am while doing nothing about it is the current state.
+- Member spent about two hours watching sketchbook videos on their phone instead of acting on the piece.
+- Member's mother texted about lunch tomorrow and Member replied "maybe," which Member said is not a step but reluctance to say yes because it would mean talking about school.
+- Member said they cannot picture setting a boundary about school talk at their aunt's table and would not do it, because their mother can tell from one look and would just ask.
+- Member said they were going to try to sleep.
+- Member attended the Sunday lunch and it passed with no one asking about school because the cousin showed apartment photos the whole time; Member still watched their mother throughout.
+- Member said the lunch being easier does not change that their mother will still look at them the same way.
+- Member rejected the counsellor's suggestion of daily noticing as missing the point, saying noticing is not the hard part, what they do with it after is.
+- Member rejected the suggestion of smiling at their mother at the table as a plan they would not carry out.
+- Member spoke up in studio Monday to say a guy's poster type was too tight, and he changed it; Member counts this as something but felt it went weird the moment it came out.
+- Member cannot give themselves credit and says being told the studio comment was brave does not tell them whether it counted.
+- Member said the deleted piece is still in the trash, which they called not courage but them not opening the folder.
+- Member cannot tell whether leaving the piece in the trash is an honest choice or a nicer way of saying they gave up.
+- Member said the studio comment, Thursday and the folder do not line up in their head and they feel they are supposed to leave with a cleaner answer than they have.
+- Member said yes before thinking when Miss Doretha asked them to help hang the kids' art for the winter showcase Thursday. [open]
+- Member said "did I do my best" is the exact question that wrecks them and that good enough is the thing they cannot stand.
+- Member pushed back on being told they passed the test and on the colour-and-shape suggestion as another exercise instead of an answer, and ended the session shortly after.

@@ -1,0 +1,41 @@
+{
+  "id": "a017cb4c01b84af19571058ba88d5e55",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……我可以先把那句话写下来，免得到时候脑子一片空白。可要是她真的不高兴，我估计还是会慌。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师给了具体的自我支持句和停顿方法……听起来可行，但心里还是没底。我得让她知道这个方法可能不够用，万一她脸色真的很难看，我肯定又会慌。也许可以先问问，如果我还是忍不住改口了，那算不算失败？）",
+        "reasoning": "（咨询师给了具体的自我支持句和停顿方法……听起来可行，但心里还是没底。我得让她知道这个方法可能不够用，万一她脸色真的很难看，我肯定又会慌。也许可以先问问，如果我还是忍不住改口了，那算不算失败？）"
+      }
+    }
+  ],
+  "created": 1795154129,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 3324,
+    "total_tokens": 3410,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

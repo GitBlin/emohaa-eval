@@ -1,0 +1,41 @@
+{
+  "id": "298f32fa3e4e44faa9b0db2ecdf9f94e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "现在这个环境……说实话挺难的，家里总是冷冰冰的。不过我想先试试您说的写日记，还有继续来咨询，至少先让自己稳下来。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我现在的环境能不能种下希望的种子，这让我有点犹豫。我确实想改变，但家里这种争吵不断的环境，连好好说话都难。不过最近我偷偷查过一些资料，也许可以先从自己能控制的事情做起。）\n（写日记和咨询算是比较安全的方式吧，至少不用直接面对冲突。虽然不知道能有多大用，但总比什么都不做强。我得先让自己稳住，才能考虑后面的事。）",
+        "reasoning": "（咨询师问我现在的环境能不能种下希望的种子，这让我有点犹豫。我确实想改变，但家里这种争吵不断的环境，连好好说话都难。不过最近我偷偷查过一些资料，也许可以先从自己能控制的事情做起。）\n（写日记和咨询算是比较安全的方式吧，至少不用直接面对冲突。虽然不知道能有多大用，但总比什么都不做强。我得先让自己稳住，才能考虑后面的事。）"
+      }
+    }
+  ],
+  "created": 1795153987,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 2340,
+    "total_tokens": 2467,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 92,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

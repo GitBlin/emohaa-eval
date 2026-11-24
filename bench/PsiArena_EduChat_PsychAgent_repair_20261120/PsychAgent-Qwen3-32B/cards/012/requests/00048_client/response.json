@@ -1,0 +1,41 @@
+{
+  "id": "8fdc594de2a440c29b7f20f17caf40d1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我听见“想写”和“怕矫情”在一起。你可以先写得很小，哪怕只有“先对自己开口”六个字，不用给谁看。这样会不会更容易一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯，我会写的。就是……有点怕写了以后看到又觉得矫情。",
+        "reasoning": "嗯，我会写的。就是……有点怕写了以后看到又觉得矫情。"
+      }
+    }
+  ],
+  "created": 1795153853,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 59,
+    "prompt_tokens": 3268,
+    "total_tokens": 3327,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 18,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

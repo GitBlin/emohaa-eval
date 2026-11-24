@@ -1,0 +1,41 @@
+{
+  "id": "1fe2825e90224ceb848f2a9882879ae2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想带走的是……先停一下，做三次呼吸，别一上来就指责她。可我还是有点怕自己做不到。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我总结今天最想带走的一点，我脑子里还是有点乱。刚才说的“先停一下、三次呼吸、水杯提醒”，听起来简单，可我真能记住吗？我有点怕自己又像以前一样，一急就什么都忘了。不过，至少今天没被评判，也没被硬推着走。也许我真该先记住这个最简单的动作，别一下子想太多。）",
+        "reasoning": "（咨询师让我总结今天最想带走的一点，我脑子里还是有点乱。刚才说的“先停一下、三次呼吸、水杯提醒”，听起来简单，可我真能记住吗？我有点怕自己又像以前一样，一急就什么都忘了。不过，至少今天没被评判，也没被硬推着走。也许我真该先记住这个最简单的动作，别一下子想太多。）"
+      }
+    }
+  ],
+  "created": 1795154381,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 3060,
+    "total_tokens": 3172,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

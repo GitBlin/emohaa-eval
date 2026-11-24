@@ -1,0 +1,41 @@
+{
+  "id": "673f6596bdce4491b79e2bfea0371ee2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "五分钟后起身走一圈，这个计划更现实。那走完一圈回来，如果对方还没回，你希望自己接下来做什么，而不是立刻再盯手机？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……3分钟会不会太短了？我怕自己忍不住又去看。要不设个5分钟吧，5分钟还没回，我就先起来走一圈。",
+        "reasoning": "嗯……3分钟会不会太短了？我怕自己忍不住又去看。要不设个5分钟吧，5分钟还没回，我就先起来走一圈。"
+      }
+    }
+  ],
+  "created": 1795153639,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 69,
+    "prompt_tokens": 2789,
+    "total_tokens": 2858,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 34,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "arc_id": "35007cd2f173",
+  "arc_seed": 3747406497,
+  "episodes": [
+    {
+      "closed_ts": 0.4666666666666667,
+      "compact_ms": 2617.9,
+      "ep_seed": 4397816018234490449,
+      "episode_id": 0,
+      "evolve_ms": null,
+      "gap_hours_since_prev": null,
+      "log_entries": 9,
+      "log_sha": "2a4dcc336982",
+      "opened_ts": 0.0,
+      "run_id": "3f4a39e63f3f",
+      "session_id": "3f4a39e63f3f-s0",
+      "situation_id": "m000858_sit00",
+      "termination": "member_terminated",
+      "trace_path": "ep000/trace.jsonl",
+      "turn_ts": [
+        0.0,
+        0.03333333333333333,
+        0.06666666666666667,
+        0.1,
+        0.13333333333333333,
+        0.16666666666666666,
+        0.2,
+        0.23333333333333334,
+        0.26666666666666666,
+        0.3,
+        0.3333333333333333,
+        0.36666666666666664,
+        0.4,
+        0.43333333333333335,
+        0.4666666666666667
+      ]
+    },
+    {
+      "closed_ts": 81.86372024702113,
+      "compact_ms": 2306.4,
+      "ep_seed": 13631479336541636273,
+      "episode_id": 1,
+      "evolve_ms": 4399.8,
+      "gap_hours_since_prev": 81.16372024702113,
+      "log_entries": 18,
+      "log_sha": "aa7f744a2a36",
+      "opened_ts": 81.6303869136878,
+      "run_id": "85b6825c84dc",
+      "session_id": "85b6825c84dc-s0",
+      "situation_id": "m000858_sit00-ep1",
+      "termination": "member_terminated",
+      "trace_path": "ep001/trace.jsonl",
+      "turn_ts": [
+        81.6303869136878,
+        81.66372024702113,
+        81.69705358035446,
+        81.7303869136878,
+        81.76372024702114,
+        81.79705358035447,
+        81.8303869136878,
+        81.86372024702113
+      ]
+    },
+    {
+      "closed_ts": 89.4888017792911,
+      "compact_ms": 4144.2,
+      "ep_seed": 13367596026492318289,
+      "episode_id": 2,
+      "evolve_ms": 4100.9,
+      "gap_hours_since_prev": 7.2250815322699555,
+      "log_entries": 29,
+      "log_sha": "363bb3b4d5a7",
+      "opened_ts": 89.08880177929109,
+      "run_id": "bd94d24ccaab",
+      "session_id": "bd94d24ccaab-s0",
+      "situation_id": "m000858_sit00-ep2",
+      "termination": "member_terminated",
+      "trace_path": "ep002/trace.jsonl",
+      "turn_ts": [
+        89.08880177929109,
+        89.12213511262442,
+        89.15546844595775,
+        89.18880177929108,
+        89.22213511262443,
+        89.25546844595776,
+        89.28880177929109,
+        89.32213511262442,
+        89.35546844595775,
+        89.38880177929109,
+        89.42213511262442,
+        89.45546844595775,
+        89.4888017792911
+      ]
+    }
+  ],
+  "fingerprint": "b2d4dfd7b708a9ad",
+  "profile_id": "m000858",
+  "schema_version": "1",
+  "shape": {
+    "affect": [
+      "fear",
+      "fear",
+      "anger"
+    ],
+    "anchor_hour": 10.239492550397902,
+    "anchor_weekday": 6,
+    "beats": [
+      "setback",
+      "new_problem"
+    ],
+    "concealment": [
+      "medium",
+      "medium",
+      "medium"
+    ],
+    "gaps_hours": [
+      81.16372024702113,
+      7.2250815322699555
+    ],
+    "n_episodes": 3
+  },
+  "situation_id": "m000858_sit00"
+}

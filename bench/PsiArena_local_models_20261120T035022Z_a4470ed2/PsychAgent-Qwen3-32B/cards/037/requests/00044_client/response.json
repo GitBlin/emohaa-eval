@@ -1,0 +1,41 @@
+{
+  "id": "28c234ec48e04231b83e664212944873",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以，三天对我来说有点长，但我会试试把注意力先放到记录和呼吸上，不一直盯着手机。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "嗯……三天会不会太长了？我怕中间自己忍不住又乱想。不过总比一直盯着手机强，我可以试试定个时间点。",
+        "reasoning": "嗯……三天会不会太长了？我怕中间自己忍不住又乱想。不过总比一直盯着手机强，我可以试试定个时间点。"
+      }
+    }
+  ],
+  "created": 1795148082,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 3158,
+    "total_tokens": 3214,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

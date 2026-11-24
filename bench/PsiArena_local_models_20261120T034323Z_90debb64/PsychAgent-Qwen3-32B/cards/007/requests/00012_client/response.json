@@ -1,0 +1,41 @@
+{
+  "id": "11aa38dd12a44b2bb2561d269b24e691",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……可能是吧。我确实不太想麻烦别人。那个，你刚才说帮我练习表达，具体是怎么练？我……我怕自己说不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有直接答应替我去沟通，这让我稍微松了口气，但又有点失落。她似乎看穿了我既想有人帮我、又怕给人添麻烦的矛盾。我该怎么回应呢……也许可以承认这一点，但别说得太深，毕竟我还不太确定能不能完全信任她。）",
+        "reasoning": "（咨询师没有直接答应替我去沟通，这让我稍微松了口气，但又有点失落。她似乎看穿了我既想有人帮我、又怕给人添麻烦的矛盾。我该怎么回应呢……也许可以承认这一点，但别说得太深，毕竟我还不太确定能不能完全信任她。）"
+      }
+    }
+  ],
+  "created": 1795146612,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 95,
+    "prompt_tokens": 1435,
+    "total_tokens": 1530,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 62,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

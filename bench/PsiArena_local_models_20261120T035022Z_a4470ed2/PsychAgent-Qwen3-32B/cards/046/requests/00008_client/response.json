@@ -1,0 +1,41 @@
+{
+  "id": "f344ae46557f41728a1ab9e888185236",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……好，我明白了。其实我也只是随口问问，不是非要怎么样。就是有时候一个人憋着难受，又不知道跟谁说。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "他在问边界，我需要表现出试探后稍微退一步，但不要完全信任。可以简短回应，带点尴尬和防御。不要深入。",
+        "reasoning": "他在问边界，我需要表现出试探后稍微退一步，但不要完全信任。可以简短回应，带点尴尬和防御。不要深入。"
+      }
+    }
+  ],
+  "created": 1795148720,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 61,
+    "prompt_tokens": 1247,
+    "total_tokens": 1308,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 31,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

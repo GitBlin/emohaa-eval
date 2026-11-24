@@ -1,0 +1,41 @@
+{
+  "id": "668b4fdab3f34c2dbe53251bae3ec76e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻摇头）除了刚才说的那些，我还总是觉得累，睡醒了也累。（犹豫）有时候会想，要是一直这样下去怎么办……",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师好像一直在问身体反应，但我觉得他其实想问的是更深的东西。我不能再绕圈子了，得说点实际的。虽然很难开口，但也许该试着说说那些具体的、让我难受的事。）\n（我想到自己最近总是睡不好，白天也没精神。这些身体上的变化其实都跟心里的事有关。也许我可以试着把这两件事连起来说，这样既回答了问题，又不会显得太回避。）",
+        "reasoning": "（咨询师好像一直在问身体反应，但我觉得他其实想问的是更深的东西。我不能再绕圈子了，得说点实际的。虽然很难开口，但也许该试着说说那些具体的、让我难受的事。）\n（我想到自己最近总是睡不好，白天也没精神。这些身体上的变化其实都跟心里的事有关。也许我可以试着把这两件事连起来说，这样既回答了问题，又不会显得太回避。）"
+      }
+    }
+  ],
+  "created": 1795155241,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 2544,
+    "total_tokens": 2667,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b542ad4377a54c0fbc042e9cc2cd85f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好像胸口没那么紧了，但还有点闷。不过至少没有刚才那么慌了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师让我说暂停的话，我试了，但好像有点卡住。现在他问我身体有没有变化，我得感受一下……胸口好像没那么紧了？不过也可能是心理作用。我得诚实点说，不能假装很有效果。）",
+        "reasoning": "（刚才咨询师让我说暂停的话，我试了，但好像有点卡住。现在他问我身体有没有变化，我得感受一下……胸口好像没那么紧了？不过也可能是心理作用。我得诚实点说，不能假装很有效果。）"
+      }
+    }
+  ],
+  "created": 1795153632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 71,
+    "prompt_tokens": 2505,
+    "total_tokens": 2576,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 52,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

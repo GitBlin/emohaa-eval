@@ -1,0 +1,41 @@
+{
+  "id": "e9008651a44141d98e305bca5f3967e6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "脚底……可以，我走路时就能感觉到。那我是不是先练几天，再找机会跟我妈提？我怕自己临场又全忘了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在提醒我准备不是控制，而是借力，这让我稍微松了口气。但我还是担心自己会过度依赖这些方法，所以想确认一下具体该怎么操作，免得又陷入新的焦虑。）\n（脚底触感听起来比呼吸更自然，不用刻意控制。我想到在学校走廊里可以偷偷做，但又不确定时机是否合适，毕竟我不想让同事或学生注意到我的异常。）",
+        "reasoning": "（咨询师在提醒我准备不是控制，而是借力，这让我稍微松了口气。但我还是担心自己会过度依赖这些方法，所以想确认一下具体该怎么操作，免得又陷入新的焦虑。）\n（脚底触感听起来比呼吸更自然，不用刻意控制。我想到在学校走廊里可以偷偷做，但又不确定时机是否合适，毕竟我不想让同事或学生注意到我的异常。）"
+      }
+    }
+  ],
+  "created": 1795143024,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 118,
+    "prompt_tokens": 3129,
+    "total_tokens": 3247,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

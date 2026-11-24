@@ -1,0 +1,41 @@
+{
+  "id": "db20415fed964aad9565ef81544b6344",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听到你说不等于失败，我心里松了一点。可我还是会忍不住拿自己和别人比，觉得做得不够好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话让我稍微松了口气，但心里还是有点不踏实。她说不等于失败，可我还是忍不住担心自己做不到。也许我应该把这份担心说出来，免得下周又自己跟自己较劲。）\n（不过想到要记录，我还是觉得有点麻烦。可既然已经答应了，就尽量简单点吧。至少先试试看，总比什么都不做强。）",
+        "reasoning": "（咨询师这句话让我稍微松了口气，但心里还是有点不踏实。她说不等于失败，可我还是忍不住担心自己做不到。也许我应该把这份担心说出来，免得下周又自己跟自己较劲。）\n（不过想到要记录，我还是觉得有点麻烦。可既然已经答应了，就尽量简单点吧。至少先试试看，总比什么都不做强。）"
+      }
+    }
+  ],
+  "created": 1795154390,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 3354,
+    "total_tokens": 3453,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

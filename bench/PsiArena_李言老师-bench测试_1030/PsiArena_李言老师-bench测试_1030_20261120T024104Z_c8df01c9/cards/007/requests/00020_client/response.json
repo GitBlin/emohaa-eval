@@ -1,0 +1,41 @@
+{
+  "id": "fda145266c3e477884343a5e4e511288",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "是……一部节奏挺慢的片子，可能有点闷。我说这个是不是有点奇怪，别人估计更爱看热闹的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我喜欢的电影是什么，好像真的在认真听我说。这让我有点意外，也有点不习惯。不过既然她问了，我也可以试着说说看，也许不会像我想的那么奇怪。）\n（只是说完之后，我可能又会忍不住担心，他们会不会觉得我喜欢的这些东西太闷了。这种担心一下子冒出来，让我有点想往后退一点。）",
+        "reasoning": "（她问我喜欢的电影是什么，好像真的在认真听我说。这让我有点意外，也有点不习惯。不过既然她问了，我也可以试着说说看，也许不会像我想的那么奇怪。）\n（只是说完之后，我可能又会忍不住担心，他们会不会觉得我喜欢的这些东西太闷了。这种担心一下子冒出来，让我有点想往后退一点。）"
+      }
+    }
+  ],
+  "created": 1795142646,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 2801,
+    "total_tokens": 2907,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 78,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

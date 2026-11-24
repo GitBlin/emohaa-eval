@@ -1,0 +1,41 @@
+{
+  "id": "8723d499326e48489eedd1d47b00489f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录背后的故事……（想了想）听起来好像没那么可怕了。以前总觉得哭是丢人的事，现在感觉……也许它是在提醒我什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我记录哭泣背后的故事，这让我觉得被接纳了。以前总觉得哭是丢脸的事，现在好像可以换个角度看待它。）\n（虽然还是有点不安，但想到能通过记录来理解自己，心里踏实了一些。也许可以试着把每次哭泣都当作一次了解自己的机会，而不是一味自责。）",
+        "reasoning": "（咨询师在引导我记录哭泣背后的故事，这让我觉得被接纳了。以前总觉得哭是丢脸的事，现在好像可以换个角度看待它。）\n（虽然还是有点不安，但想到能通过记录来理解自己，心里踏实了一些。也许可以试着把每次哭泣都当作一次了解自己的机会，而不是一味自责。）"
+      }
+    }
+  ],
+  "created": 1795155336,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2585,
+    "total_tokens": 2688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 71,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

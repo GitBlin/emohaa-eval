@@ -1,0 +1,41 @@
+{
+  "id": "4831410661434d97a86141214076fca2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以。先不追求“说得好”，只求“说出来”。你可以提前准备一句中性的话，比如“妈，这件事我想说说我的想法”。说之前先慢慢呼一口气，让自己稳住。你觉得这句合适吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（停顿）说一句话……好像也不是完全做不到。可我怕一开口就变成争辩，或者声音发抖，反而更糟。有没有什么办法能让我先稳住一点？",
+        "reasoning": "（停顿）说一句话……好像也不是完全做不到。可我怕一开口就变成争辩，或者声音发抖，反而更糟。有没有什么办法能让我先稳住一点？"
+      }
+    }
+  ],
+  "created": 1795154291,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 2817,
+    "total_tokens": 2902,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 38,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

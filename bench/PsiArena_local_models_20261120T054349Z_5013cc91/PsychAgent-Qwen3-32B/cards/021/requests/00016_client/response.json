@@ -1,0 +1,41 @@
+{
+  "id": "b7f2361feddd420b8e71494dc310e68e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上看到我妈发来的消息，问我吃饭没有。我回了“吃了”，其实没吃。她最近总说以前的事，我一听就……心里发沉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我早上的细节……看来是想帮我理清情绪是怎么一点点起来的。我确实记得醒来时那种闷，然后看到妈妈的消息就更沉了。这些事压在心里很久了，也许可以稍微说一点，但一下子全倒出来还是有点难。）\n（说到妈妈的事，心里就揪得慌。她总提我小时候，让我觉得愧疚，又怕时间不多了。可这些感觉太乱了，不知道从哪讲起。先提一句她最近老说以前的事，看看咨询师怎么接吧。）",
+        "reasoning": "（咨询师在问我早上的细节……看来是想帮我理清情绪是怎么一点点起来的。我确实记得醒来时那种闷，然后看到妈妈的消息就更沉了。这些事压在心里很久了，也许可以稍微说一点，但一下子全倒出来还是有点难。）\n（说到妈妈的事，心里就揪得慌。她总提我小时候，让我觉得愧疚，又怕时间不多了。可这些感觉太乱了，不知道从哪讲起。先提一句她最近老说以前的事，看看咨询师怎么接吧。）"
+      }
+    }
+  ],
+  "created": 1795154192,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1573,
+    "total_tokens": 1723,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

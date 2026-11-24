@@ -1,0 +1,41 @@
+{
+  "id": "cb3a051dedc14b8490bf299443db98e4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是那个周末，我爸在客厅看手机，我妈在厨房忙，我坐在中间，突然特别想哭。我觉得自己像个监视他们的人，特别难受。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师好像看穿了我的两难处境，还提醒我不必二选一。这让我稍微松了口气，但马上又想起那天的事，心里又揪起来了。）\n（那个周末的画面太清晰了，父亲看手机的样子和母亲在厨房的背影，就像一根刺扎在我心里。我其实很怕说出来，怕显得自己小题大做，可又忍不住想让人知道那种说不出的难受。）",
+        "reasoning": "（心理咨询师好像看穿了我的两难处境，还提醒我不必二选一。这让我稍微松了口气，但马上又想起那天的事，心里又揪起来了。）\n（那个周末的画面太清晰了，父亲看手机的样子和母亲在厨房的背影，就像一根刺扎在我心里。我其实很怕说出来，怕显得自己小题大做，可又忍不住想让人知道那种说不出的难受。）"
+      }
+    }
+  ],
+  "created": 1795142919,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 121,
+    "prompt_tokens": 2324,
+    "total_tokens": 2445,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 86,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

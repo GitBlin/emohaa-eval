@@ -1,0 +1,41 @@
+{
+  "id": "209a22b41ce847f397d6594223cb4686",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没找到。我把房间翻了两遍……有时候又觉得，是不是我根本没仔细看。哎，我是不是有点太钻牛角尖了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问得挺细的，我本来以为她会直接安慰我几句就算了。眼霜到底在哪，我自己也说不清，越想越乱。她这么问，我反而有点不知道从哪儿答起，好像一开口就要承认自己可能真的弄丢了什么。）\n（而且我有点想试探她，会不会觉得我太计较。先含糊带过去吧，别一下子把底都交出来。）",
+        "reasoning": "（咨询师问得挺细的，我本来以为她会直接安慰我几句就算了。眼霜到底在哪，我自己也说不清，越想越乱。她这么问，我反而有点不知道从哪儿答起，好像一开口就要承认自己可能真的弄丢了什么。）\n（而且我有点想试探她，会不会觉得我太计较。先含糊带过去吧，别一下子把底都交出来。）"
+      }
+    }
+  ],
+  "created": 1795148794,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 119,
+    "prompt_tokens": 1175,
+    "total_tokens": 1294,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 87,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

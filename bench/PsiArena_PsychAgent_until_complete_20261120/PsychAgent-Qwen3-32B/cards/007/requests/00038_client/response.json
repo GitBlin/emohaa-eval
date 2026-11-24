@@ -1,0 +1,41 @@
+{
+  "id": "58929a53efdc4b729a7827eff800d6a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先试试商量吧。就是……商量一个时间，比如几点以后戴耳机，这样是不是好开口一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我一步步想解决办法……刚才说到找辅导员，我心里还是有点怕。不过他说可以先试试商量，这个好像没那么吓人。我有点犹豫，但觉得可以先跟室友谈谈看。）\n（可是具体怎么谈呢？我平时说话声音小，他们可能根本不当回事。也许我可以先问一下，商量一个大家都同意的时间段，这样听起来比较公平。但我还是担心他们答应了又做不到。）",
+        "reasoning": "（咨询师在引导我一步步想解决办法……刚才说到找辅导员，我心里还是有点怕。不过他说可以先试试商量，这个好像没那么吓人。我有点犹豫，但觉得可以先跟室友谈谈看。）\n（可是具体怎么谈呢？我平时说话声音小，他们可能根本不当回事。也许我可以先问一下，商量一个大家都同意的时间段，这样听起来比较公平。但我还是担心他们答应了又做不到。）"
+      }
+    }
+  ],
+  "created": 1795153654,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2833,
+    "total_tokens": 2948,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

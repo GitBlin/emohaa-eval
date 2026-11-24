@@ -1,0 +1,41 @@
+{
+  "id": "a7651510dc934a8983990d8a6dfa15d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就会觉得跟同学多说话像在做错事，好像对不起他们。可我又真的很想有朋友，这种矛盾让我心里很乱。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问的是“学习最重要”这个想法对我和同学相处的影响。我想到每次想跟人说话，脑子里就会冒出爸妈的声音，然后我就缩回去了。这种感觉很矛盾，好像交朋友就是做错事。我有点犹豫要不要说这么细，但刚才她没逼我，让我稍微放心一点。也许可以试着说一点真实的感觉，不用把全部都说出来。）",
+        "reasoning": "（她问的是“学习最重要”这个想法对我和同学相处的影响。我想到每次想跟人说话，脑子里就会冒出爸妈的声音，然后我就缩回去了。这种感觉很矛盾，好像交朋友就是做错事。我有点犹豫要不要说这么细，但刚才她没逼我，让我稍微放心一点。也许可以试着说一点真实的感觉，不用把全部都说出来。）"
+      }
+    }
+  ],
+  "created": 1795146260,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 112,
+    "prompt_tokens": 1704,
+    "total_tokens": 1816,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 82,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

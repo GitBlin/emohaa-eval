@@ -1,0 +1,41 @@
+{
+  "id": "f81b1f8fbaeb4bc4bf766e878caee549",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这个担心很合理。我们可以给暂停加一句“说明”：离开前只说一句“我需要缓一缓，十分钟后回来继续”，不解释、不辩论。这样既保护你，也减少误会。你觉得这句话说出口难吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（想了一下）离开去喝口水吧，这个我做得来。但我又担心，我一走开，他就觉得我在闹脾气，更不愿意听我说了。",
+        "reasoning": "（想了一下）离开去喝口水吧，这个我做得来。但我又担心，我一走开，他就觉得我在闹脾气，更不愿意听我说了。"
+      }
+    }
+  ],
+  "created": 1795154150,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 2999,
+    "total_tokens": 3086,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

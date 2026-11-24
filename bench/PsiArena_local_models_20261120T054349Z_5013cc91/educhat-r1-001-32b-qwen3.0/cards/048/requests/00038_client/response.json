@@ -1,0 +1,41 @@
+{
+  "id": "c8eaa2e54b334c7ea829d91975aadf7b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "记录情绪分数……可以试试。不过一天三次，我可能会忘。要不我先从晚上记一次开始？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又给了我一个具体的方法，情绪温度计，听起来比深呼吸更实在。她好像总能给出我能抓住的东西，这让我稍微安心了点。）\n（不过记录三次会不会太多了？我平时工作一忙就容易忘。但转念一想，至少这是个能看见自己情绪变化的办法，总比瞎焦虑强。我有点想试试，但又怕自己坚持不下来。）",
+        "reasoning": "（咨询师又给了我一个具体的方法，情绪温度计，听起来比深呼吸更实在。她好像总能给出我能抓住的东西，这让我稍微安心了点。）\n（不过记录三次会不会太多了？我平时工作一忙就容易忘。但转念一想，至少这是个能看见自己情绪变化的办法，总比瞎焦虑强。我有点想试试，但又怕自己坚持不下来。）"
+      }
+    }
+  ],
+  "created": 1795155372,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 2604,
+    "total_tokens": 2708,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 80,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

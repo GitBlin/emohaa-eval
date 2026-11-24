@@ -1,0 +1,41 @@
+{
+  "id": "8fda05282aa3415594b1dc8b061b7a46",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我一般会忍不住说她几句，声音可能就大了……她越顶我越气。其实我小时候我爸妈也是这样，一有错就训我，我那时候特别怕他们。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我怎么回应女儿……说实话，每次她顶嘴的时候，我根本控制不住自己的火气。但回头想想，我好像总是用大人的身份压她，这跟我爸妈当年对我一模一样。也许我该说出来，让咨询师帮我看看这到底是怎么回事。）",
+        "reasoning": "（咨询师问我怎么回应女儿……说实话，每次她顶嘴的时候，我根本控制不住自己的火气。但回头想想，我好像总是用大人的身份压她，这跟我爸妈当年对我一模一样。也许我该说出来，让咨询师帮我看看这到底是怎么回事。）"
+      }
+    }
+  ],
+  "created": 1795147380,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 1593,
+    "total_tokens": 1692,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 59,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

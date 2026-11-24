@@ -1,0 +1,25 @@
+- Member reports sleep problems began in March, previously never had trouble sleeping, and it now affects work and driving.
+- Member takes an hour or more to fall asleep and wakes around 3 a.m., lying awake until the alarm, most nights since March.
+- Member reports sleep is not low mood but driving worries, having hit a rumble strip on US-24 last month, which he has never done before.
+- Member has not told anyone at work about the sleep problem, citing twelve years clean and refusing to put it on the table.
+- Member gets about four to four and a half hours of sleep, tracked by his watch, and reviews sleep stages every morning.
+- Member's father died in March; Member does not believe grief is connected to the sleep problem.
+- Member says nothing helped him wind down before March because he simply went to bed and slept.
+- Member has already tried the standard sleep advice with no change and wants to know what he is missing.
+- Member's pre-bed routine: no caffeine after noon, no alcohol, room at 65, screens off at nine, lights out at ten every night.
+- Member uses the bed only for sleep and goes to bed at ten even when not tired.
+- Member rarely naps, only once in the truck a while back.
+- Member is on his feet all day loading and unloading, and rides the trail loop with Dean on Sundays.
+- Member runs the next day's route in his head turn by turn when awake at 3 a.m.
+- Member keeps a clipboard by the bed with the route written down by nine, and says that is not what keeps him up.
+- Member checks his watch at 3 a.m. and then lies there with his head going.
+- Member rejected the worry-postponement list, saying he already has lists and is awake anyway.
+- Member tried breathing exercises but they give him something else to check himself on, whether he is relaxed enough.
+- Member rejected getting up to sit in a chair at 3 a.m. because he is on the road at 5.
+- Member rejected the dull-activity version too, saying it is the same list he already tried.
+- Member says he is not good at the "why" part of identifying causes.
+- Member rejected staying up later, citing a quarter-to-five wake-up and ten hours of driving on less sleep than he already gets.
+- Member agreed to try going to bed only when sleepy with a latest window of 12:30 a.m., and to get up for 10–15 minutes of low-stim activity like paper maps if awake at 3, for 3–4 nights. [open]
+- Member agreed to try a 20-minute nap around 2:30 p.m. but doubts a nap will fix a four-month problem. [open]
+- Member refused to track numbers, saying the watch sleep stages are already enough.
+- Member refused the counsellor's simplified subjective check-in, saying it was the same thing with fewer boxes. [open]

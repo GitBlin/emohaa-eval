@@ -1,0 +1,41 @@
+{
+  "id": "ed248811b3de4a7686b3a941bdc496ce",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想先回去试试，但不再什么都自己扛。要是实在不行……可能得考虑分开住，虽然这话说出来我自己都觉得难。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在问我还有没有其他想法，看来是想让我继续梳理后面的打算。我现在情绪比之前稳定些了，也意识到不能一直这样下去，得为自己做点什么。）\n（我想到回娘家这段时间，整个人松了不少，但总躲着也不是办法。也许可以先回去，但给自己留点空间，别什么事都硬扛着。）",
+        "reasoning": "（咨询师在问我还有没有其他想法，看来是想让我继续梳理后面的打算。我现在情绪比之前稳定些了，也意识到不能一直这样下去，得为自己做点什么。）\n（我想到回娘家这段时间，整个人松了不少，但总躲着也不是办法。也许可以先回去，但给自己留点空间，别什么事都硬扛着。）"
+      }
+    }
+  ],
+  "created": 1795148307,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 103,
+    "prompt_tokens": 2547,
+    "total_tokens": 2650,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 74,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

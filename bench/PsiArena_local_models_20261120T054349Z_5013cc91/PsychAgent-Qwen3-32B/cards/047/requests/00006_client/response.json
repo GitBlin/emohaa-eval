@@ -1,0 +1,41 @@
+{
+  "id": "1f2b10ee394548128595ea107aff8a01",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……在课堂上，有个学生作业没写好，我本来想好好说他的，结果自己先忍不住掉眼泪了。唉，这种事说出来挺丢人的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师问我最近一次情绪明显的时候发生了什么……我其实不太想马上说具体细节，感觉有点不安全。他会不会觉得我小题大做？还是先试探一下他会不会评判我吧。毕竟在学校里，同事看到我哭的时候那个眼神，让我一直很在意。我可以说一点课堂上的事，但不能说太多，看看他什么反应。）",
+        "reasoning": "（刚才咨询师问我最近一次情绪明显的时候发生了什么……我其实不太想马上说具体细节，感觉有点不安全。他会不会觉得我小题大做？还是先试探一下他会不会评判我吧。毕竟在学校里，同事看到我哭的时候那个眼神，让我一直很在意。我可以说一点课堂上的事，但不能说太多，看看他什么反应。）"
+      }
+    }
+  ],
+  "created": 1795155151,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1055,
+    "total_tokens": 1166,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "52a0485bd4fd49439e535dccc3d0f28d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想问问她最近发的那条动态，好像是去了哪家店。就随口聊两句，不显得太刻意。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我用哪个轻松话题开场，我一下子想到小然之前提过的那家奶茶，但又怕直接问显得太刻意。也许可以顺着她最近发的东西聊，这样自然一点，也不会让她觉得我有什么目的。）\n（不过我还是有点担心，万一她只是随便回我一句，我可能会更不知道该怎么接。但总得试试吧，先从这种小事开始，至少比一直僵着好。）",
+        "reasoning": "（她问我用哪个轻松话题开场，我一下子想到小然之前提过的那家奶茶，但又怕直接问显得太刻意。也许可以顺着她最近发的东西聊，这样自然一点，也不会让她觉得我有什么目的。）\n（不过我还是有点担心，万一她只是随便回我一句，我可能会更不知道该怎么接。但总得试试吧，先从这种小事开始，至少比一直僵着好。）"
+      }
+    }
+  ],
+  "created": 1795143369,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 2686,
+    "total_tokens": 2801,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

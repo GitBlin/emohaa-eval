@@ -1,0 +1,24 @@
+- Member struggles with eating and drinking, which occur at night around 10pm after his wife goes upstairs.
+- Member stands at the kitchen counter in a quiet house with the TV low so as not to wake his wife.
+- Member describes the nighttime feeling as "just quiet" and cannot name it further, saying he is "not good at that stuff."
+- Member has never tried marking the difficult moment with a phrase or gesture.
+- Member is willing to take a 10-minute walk with his wife, who already walks with him after dinner most nights.
+- Member says the TV show is not the obstacle; the hard part is being alone downstairs after his wife goes up.
+- Member will set a 10:05pm phone reminder to leave the counter and walk with his wife. [open]
+- Member declines calling or texting a friend at 10pm, preferring just the walk.
+- Member has not attended Sunday dinners at his mother's in a while.
+- Member finds Sunday dinners hard because everyone watches what he puts on his plate, and his mother now makes him a separate plate.
+- Member describes the Sunday dinner difficulty as "a lot of eyes at that table" and cannot say more.
+- Member will take a 10-minute walk with his wife after Sunday dinner instead of staying for dessert. [open]
+- Member will set a phone reminder after dessert to head out for the Sunday walk. [open]
+- Member agreed to Sunday dinner at his mother's this morning before thinking it through, and has had a turning stomach since.
+- Member's wife Yolanda asked him this morning about the dinner and he said yes without discussing it with her first.
+- Member has not told Yolanda he agreed to the dinner before talking to her, and plans to mention it in the car "like it's nothing."
+- Member will tell Yolanda in the car that he agreed to the dinner before they discussed it, using a simple honest phrase.
+- Member will set the after-dessert reminder specifically for Sundays.
+- Member will drive a lap around the block with the windows down before pulling up to his mother's.
+- Member's mother's house serves coffee and flan after the main course and nobody leaves for another hour.
+- Member attended the Sunday dinner, did the after-dinner walk, and set the Sunday reminder, but did not set the 10:05pm weeknight reminder and drank a couple of beers at the counter after his wife went up to bed.
+- Member told Yolanda in the car that he had agreed to Sunday dinner before discussing it with her, and reported it went fine, though she looked at him after he said he was fine.
+- Member will set the 10:05pm weeknight reminder tonight.
+- Member will try raising his water glass and taking a sip at the 10:05pm reminder as a brief gesture to mark the counter moment and move. [open]

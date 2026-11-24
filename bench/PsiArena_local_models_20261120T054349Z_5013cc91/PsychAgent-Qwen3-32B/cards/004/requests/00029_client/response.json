@@ -1,0 +1,41 @@
+{
+  "id": "4000860e23b048a89a30f0623c3e45f4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（轻轻呼出一口气）好一点，但还是有点闷。老师，我是不是太没用了，连这个都怕。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（有点迟疑地点头）嗯……试试吧。（跟着呼吸了几下）好像……稍微松了一点点。不过一想到明天，还是会紧。",
+        "reasoning": "（有点迟疑地点头）嗯……试试吧。（跟着呼吸了几下）好像……稍微松了一点点。不过一想到明天，还是会紧。"
+      }
+    }
+  ],
+  "created": 1795153609,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 2491,
+    "total_tokens": 2548,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 30,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

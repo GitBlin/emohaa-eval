@@ -1,0 +1,41 @@
+{
+  "id": "6a0770237f6b4c7a8ae07c3d3ff1ae38",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "保持距离……我不太懂那是什么意思。是说我可以不用管别人吗？那……那如果我让你直接去跟我室友说，你会去吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师没有评价我，还提到“懂事”像一条规则……这让我稍微松了口气。但他说“保持一点距离”，我其实不太懂那是什么意思，是让我不管别人吗？）\n（我想试探一下他会不会真的站在我这边。如果我说出更过分的要求，他会怎么回应呢？比如让他直接去跟我室友谈……这样也许能看出他是不是真的愿意帮我，还是只是说些好听的话。）",
+        "reasoning": "（咨询师没有评价我，还提到“懂事”像一条规则……这让我稍微松了口气。但他说“保持一点距离”，我其实不太懂那是什么意思，是让我不管别人吗？）\n（我想试探一下他会不会真的站在我这边。如果我说出更过分的要求，他会怎么回应呢？比如让他直接去跟我室友谈……这样也许能看出他是不是真的愿意帮我，还是只是说些好听的话。）"
+      }
+    }
+  ],
+  "created": 1795146608,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1326,
+    "total_tokens": 1449,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 91,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

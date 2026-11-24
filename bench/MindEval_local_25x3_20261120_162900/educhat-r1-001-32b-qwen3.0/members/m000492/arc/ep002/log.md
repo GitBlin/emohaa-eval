@@ -1,0 +1,30 @@
+- Member wants a straight answer about where they are sleeping next week instead of exploring feelings.
+- Member has been checking housing listings every night and bristled at being asked whether they had explored options.
+- Member stopped painting the week of the funeral; the sketchbook has been in the car since.
+- Member rejects the counsellor's metaphor-heavy language and asked them to stop saying "heart" and to talk like a person.
+- Member's sketchbook sits in the trunk under a box holding their grandmother's apron, her brushes, and an unopened card from her.
+- Member has not opened the card and says that is not happening today.
+- Member acknowledges they steer toward housing because it is "the easy one" and knows that is what they always do.
+- Member's mother believes Member is living on campus for the summer and does not know otherwise; Member calls this the thing sitting on them.
+- Member does not pick up when their mother calls, fearing she will hear it in Member's voice and fall apart, since it was her mother too.
+- Member is unmoved by the idea of seeing a counsellor while keeping the secret from their mother, saying nothing actually changes if her mother still doesn't know.
+- Member declined to discuss physical or bodily reactions, restating that they do not know what is going on in their body.
+- Member described the counsellor's pattern of returning to housing every time Member raises the real issue, and the session ended shortly after with Member saying they were going to go.
+- Member's stated wish is one place to put their stuff down; a one-night airbnb or shelter does not count, being "just another couch with a price tag."
+- Member expects to be on Kayla's floor next week and doubts anything from the sessions will change.
+- Member objects to being the one who decides what is manageable, calling that the whole problem.
+- Member texted the counsellor at 2am from Kayla's floor while everyone else was asleep, wanting company rather than to be the only one awake.
+- Member had looked at a room on the other side of Allentown before texting and did not save it.
+- Member says Kayla would let them stay forever, and calls that "kind of the problem."
+- Member describes the cost of staying as being on a floor in someone's front room and constantly making sure they don't regret it.
+- Member refused to build a plan at 2am, saying that is not why they texted.
+- Member has their car keys on the coffee table in front of them and keeps looking at them, because the trunk holds all of their grandmother's stuff.
+- Member says they are not waiting to open the card — once opened it is opened, and it is the last thing their grandmother ever gave them.
+- Member said they are not opening the card tonight.
+- Member said Kayla's name out loud before texting and Kayla did not wake up.
+- Member ended the session to go because their phone was at 4 percent.
+- Kayla's landlord has told Member no extra people past the 15th, leaving Member roughly two weeks and no plan.
+- Member drove past the Allentown room today and did not slow down; the barrier they named is the far, bad drive past the bungalow and diner, not the room itself.
+- Member has been on the listing sites every night for weeks and says nothing cheaper on their side of town exists or they would already be in it.
+- Member refused to go through who they could ask for a place one name at a time, saying they cannot do it on a front step and don't have it in them.
+- Member refused the hotel option again and ended the session to go before Kayla got home.

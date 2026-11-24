@@ -1,0 +1,41 @@
+{
+  "id": "2a8c064d37a240acb274d6864a6828d2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上周吧……跟我妈打电话，本来聊得好好的，她又开始说相亲的事。（语气变快）我当时就觉得胸口堵得慌，手都在抖。不过……这些跟咨询有什么关系？你们是不是都爱问这些细节？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师用“心灵导航仪”这种比喻，听起来挺温和的，但我还是有点警惕。她问我具体场景，我脑子里立刻闪过上周家里那通电话，但我不想这么快就把细节全抖出来。毕竟才第三次见面，谁知道她会不会像其他人一样觉得是我太敏感。）\n（而且她刚才没直接回答我的问题，反而绕回来问我，这让我有点不舒服。我想再试探一下她，看看她是不是真的能理解我的处境，还是只会说些空话。所以先含糊地提一下家里的事，看看她怎么接。）",
+        "reasoning": "（咨询师用“心灵导航仪”这种比喻，听起来挺温和的，但我还是有点警惕。她问我具体场景，我脑子里立刻闪过上周家里那通电话，但我不想这么快就把细节全抖出来。毕竟才第三次见面，谁知道她会不会像其他人一样觉得是我太敏感。）\n（而且她刚才没直接回答我的问题，反而绕回来问我，这让我有点不舒服。我想再试探一下她，看看她是不是真的能理解我的处境，还是只会说些空话。所以先含糊地提一下家里的事，看看她怎么接。）"
+      }
+    }
+  ],
+  "created": 1795154355,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 168,
+    "prompt_tokens": 1094,
+    "total_tokens": 1262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 119,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

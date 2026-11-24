@@ -1,0 +1,41 @@
+{
+  "id": "9727f3a8af2743c2ad688afe18c5ea29",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那个声音会说“再检查一下”“别急着定”“出错就不好了”。听起来很熟悉，像被反复提醒要稳当。你更像是先听它的，还是有时候会跟它别扭一下？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "她问那个声音具体说什么。我得回答得自然些，带点犹豫。那个声音像我爸的语气，强调稳妥、别出错。我大概会顺着说，然后有点意识到这跟家里有关。简短两句话。",
+        "reasoning": "她问那个声音具体说什么。我得回答得自然些，带点犹豫。那个声音像我爸的语气，强调稳妥、别出错。我大概会顺着说，然后有点意识到这跟家里有关。简短两句话。"
+      }
+    }
+  ],
+  "created": 1795148837,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 1805,
+    "total_tokens": 1896,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 48,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

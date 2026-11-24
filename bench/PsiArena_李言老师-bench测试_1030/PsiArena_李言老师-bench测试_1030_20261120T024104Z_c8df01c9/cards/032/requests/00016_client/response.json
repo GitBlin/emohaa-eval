@@ -1,0 +1,41 @@
+{
+  "id": "cfaf3fb6bd584ba0a3b790e5785980c3",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是上次我发完消息等很久，他没回，我又补了一条“是不是我打扰你了”。现在想想，那会儿我其实特别慌，手比脑子快。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我聚焦到具体场景了，看来是想让我把“停十秒”这个办法落到实际里。我确实需要先想清楚哪些时刻最容易失控，不然光说“试试”还是空泛。）\n（上次那种发完消息又后悔的感觉太难受了，我其实不想每次都把自己搞得那么被动。也许可以先从这种发消息前的犹豫开始练习，至少别让情绪推着走。）",
+        "reasoning": "（咨询师在帮我聚焦到具体场景了，看来是想让我把“停十秒”这个办法落到实际里。我确实需要先想清楚哪些时刻最容易失控，不然光说“试试”还是空泛。）\n（上次那种发完消息又后悔的感觉太难受了，我其实不想每次都把自己搞得那么被动。也许可以先从这种发消息前的犹豫开始练习，至少别让情绪推着走。）"
+      }
+    }
+  ],
+  "created": 1795143270,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 2458,
+    "total_tokens": 2584,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 89,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

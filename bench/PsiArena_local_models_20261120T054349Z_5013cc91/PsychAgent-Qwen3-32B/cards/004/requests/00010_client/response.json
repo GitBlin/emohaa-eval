@@ -1,0 +1,41 @@
+{
+  "id": "d491c005007140f09a4eae80e4fc524c",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（抿了抿嘴，试探地）那……我能不能问你点别的？就是，你会不会像别人一样，听完就再也不管我了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（这是初期，需要测试界限。可以模糊地试探咨询师会不会像父母一样离开，或者能不能多关心我一点。保持简短，两到三句。）",
+        "reasoning": "（这是初期，需要测试界限。可以模糊地试探咨询师会不会像父母一样离开，或者能不能多关心我一点。保持简短，两到三句。）"
+      }
+    }
+  ],
+  "created": 1795153583,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 68,
+    "prompt_tokens": 1369,
+    "total_tokens": 1437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 36,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

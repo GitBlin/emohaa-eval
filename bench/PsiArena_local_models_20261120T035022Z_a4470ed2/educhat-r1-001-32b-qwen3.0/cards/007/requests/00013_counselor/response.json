@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-83f4c6f0b21249d2a356c0dc74d2edcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "你已经很勇敢了，尝试沟通需要勇气。或许我们可以一起探讨如何更好地表达自己的需求？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：来访者尝试沟通未果，可能缺乏有效沟通技巧。\n【行动策略】：肯定来访者的勇气，提供沟通技巧建议。\n",
+        "reasoning_content": "\n【诊断分析】：来访者尝试沟通未果，可能缺乏有效沟通技巧。\n【行动策略】：肯定来访者的勇气，提供沟通技巧建议。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795146991,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 833,
+    "total_tokens": 891,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

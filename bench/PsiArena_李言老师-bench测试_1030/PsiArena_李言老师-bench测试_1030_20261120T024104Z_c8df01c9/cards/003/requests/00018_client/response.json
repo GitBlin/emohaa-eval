@@ -1,0 +1,41 @@
+{
+  "id": "7e6958f195af408b8c0f215c23c8da3a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "午饭吧，这个最自然，大家中午都在。就是……我有点怕问完就冷场，接不下去。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我从哪个话题开始，好像挺认真在帮我找具体的落点。我不能一下子说太多，显得太有准备反而假。午饭吧，这个最自然，中午大家都在，问一句“今天吃什么”应该不会太怪。不过还是有点怕，万一人家就回一句“随便”，然后就没话了。算了，先试试再说，总比一直想强。）\n（而且我本来就是个直性子，太绕的话题我反而不会接。午饭这种日常的，我还能顺着聊两句，不至于太尴尬。就是心里还是会打鼓，怕自己问完就冷场。）",
+        "reasoning": "（她问我从哪个话题开始，好像挺认真在帮我找具体的落点。我不能一下子说太多，显得太有准备反而假。午饭吧，这个最自然，中午大家都在，问一句“今天吃什么”应该不会太怪。不过还是有点怕，万一人家就回一句“随便”，然后就没话了。算了，先试试再说，总比一直想强。）\n（而且我本来就是个直性子，太绕的话题我反而不会接。午饭这种日常的，我还能顺着聊两句，不至于太尴尬。就是心里还是会打鼓，怕自己问完就冷场。）"
+      }
+    }
+  ],
+  "created": 1795142632,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 152,
+    "prompt_tokens": 2694,
+    "total_tokens": 2846,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 126,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "9e7f4ce98b6744068ca4c791e7139e87",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……温和一点吧。其实我也没想好，就是有时候会担心，说了之后别人会不会觉得我太矫情。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这是第7轮，初期最后阶段。需要模糊地表达，不要深入。回应咨询师关于如何让我安心的提问。",
+        "reasoning": "这是第7轮，初期最后阶段。需要模糊地表达，不要深入。回应咨询师关于如何让我安心的提问。"
+      }
+    }
+  ],
+  "created": 1795147649,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 1578,
+    "total_tokens": 1634,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 28,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

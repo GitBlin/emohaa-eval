@@ -1,0 +1,41 @@
+{
+  "id": "f84d2260bcab4f7fa92d9f0d8611c57f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我最希望她先说一句“我知道了”，别马上反过来追问我。哪怕她只说“让我想想”也行，至少别让空气一下子僵住。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望妈妈先回应什么，这让我有点意外。我本来以为她会继续教我怎么说话，或者分析我的情绪。不过这个问题确实让我停下来想了想，我好像从来没认真想过自己希望得到什么样的回应。）\n（最直接的感觉是，我害怕说完之后空气突然安静，那种沉默会让我立刻后悔开口。只要妈妈能说点什么，哪怕只是“我知道了”，我就能松一口气，至少知道她听见了。至于她会不会追问、会不会难过，那是之后的事，我暂时不想给自己加更多压力。）",
+        "reasoning": "（咨询师问我希望妈妈先回应什么，这让我有点意外。我本来以为她会继续教我怎么说话，或者分析我的情绪。不过这个问题确实让我停下来想了想，我好像从来没认真想过自己希望得到什么样的回应。）\n（最直接的感觉是，我害怕说完之后空气突然安静，那种沉默会让我立刻后悔开口。只要妈妈能说点什么，哪怕只是“我知道了”，我就能松一口气，至少知道她听见了。至于她会不会追问、会不会难过，那是之后的事，我暂时不想给自己加更多压力。）"
+      }
+    }
+  ],
+  "created": 1795143040,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 144,
+    "prompt_tokens": 3325,
+    "total_tokens": 3469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 112,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

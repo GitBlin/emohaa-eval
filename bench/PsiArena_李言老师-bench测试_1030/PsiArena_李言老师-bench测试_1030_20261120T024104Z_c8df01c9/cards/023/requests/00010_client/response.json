@@ -1,0 +1,41 @@
+{
+  "id": "109c9314d81c41ffa4375c7f68dbd60f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上个月吧，我妈又提相亲的事，我顶了两句，她就开始哭，说我不懂事。我最后还是把话咽回去了，挂了电话，忍到胃疼。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在引导我回忆具体场景，看来是想让我看清这种压抑的模式。提到最近一次忍住不反驳，我马上想到上个月家里那通电话，那种被否定还要强忍的感觉又冒出来了。）\n（我有点犹豫要不要说细节，但既然已经聊到这儿，说出来也许能松口气。不过说到“忍到胃疼”时，那种熟悉的愤怒和无力感又回来了，声音可能都会有点抖。）",
+        "reasoning": "（咨询师在引导我回忆具体场景，看来是想让我看清这种压抑的模式。提到最近一次忍住不反驳，我马上想到上个月家里那通电话，那种被否定还要强忍的感觉又冒出来了。）\n（我有点犹豫要不要说细节，但既然已经聊到这儿，说出来也许能松口气。不过说到“忍到胃疼”时，那种熟悉的愤怒和无力感又回来了，声音可能都会有点抖。）"
+      }
+    }
+  ],
+  "created": 1795143033,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 132,
+    "prompt_tokens": 1874,
+    "total_tokens": 2006,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e5bb68eb8d7e4911920243b7fabb8c17",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "就是……在学校里吧。有些事说出来挺丢人的，我也不太想细讲。你会不会觉得我这样很麻烦？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我最近最难受的事……其实学校那件事一直压在心里。但我不太想直接说，感觉说了也改变不了什么。她好像挺认真在听，可我还是有点不放心。）\n（也许可以稍微提一点，看看她什么反应。但如果她像其他人一样觉得我小题大做，那我就再也不说了。还是先含糊一点吧，别把话说太满。）",
+        "reasoning": "（她问我最近最难受的事……其实学校那件事一直压在心里。但我不太想直接说，感觉说了也改变不了什么。她好像挺认真在听，可我还是有点不放心。）\n（也许可以稍微提一点，看看她什么反应。但如果她像其他人一样觉得我小题大做，那我就再也不说了。还是先含糊一点吧，别把话说太满。）"
+      }
+    }
+  ],
+  "created": 1795143406,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 1389,
+    "total_tokens": 1500,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

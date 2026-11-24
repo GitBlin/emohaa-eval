@@ -1,0 +1,41 @@
+{
+  "id": "d0bb277c5bd14e0cb73136bca642a966",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "一个词……害怕吧。可说完又觉得，好像不全是害怕，里面还掺着一点……不甘心？我说不清楚。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问到了最真实的感觉……我从来没认真想过这个问题。一个词？脑子里全是乱的，害怕、愧疚、责任……可这些好像都是别人的声音。我自己的呢？我好像是有点想要的，但又不敢承认，怕承认了就得去面对那些风险。这个词说出口，好像就是在承认自己也有私心。）",
+        "reasoning": "（咨询师问到了最真实的感觉……我从来没认真想过这个问题。一个词？脑子里全是乱的，害怕、愧疚、责任……可这些好像都是别人的声音。我自己的呢？我好像是有点想要的，但又不敢承认，怕承认了就得去面对那些风险。这个词说出口，好像就是在承认自己也有私心。）"
+      }
+    }
+  ],
+  "created": 1795147103,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 2545,
+    "total_tokens": 2644,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1cf719a0aad547e98d490939783549de",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……听起来好像要聊很多。我其实也说不太清楚，就是最近心里挺乱的，晚上也睡不好。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（嗯，他解释了咨询的大致流程，听起来是那种先了解情况再一起梳理的方式……但我还是有点不确定。他问我想从哪里开始，可我自己也说不清楚到底哪里出了问题，只是觉得心里堵得慌。也许先随便说一点表面上的感受比较安全，不用一下子把那些乱七八糟的想法都倒出来。）",
+        "reasoning": "（嗯，他解释了咨询的大致流程，听起来是那种先了解情况再一起梳理的方式……但我还是有点不确定。他问我想从哪里开始，可我自己也说不清楚到底哪里出了问题，只是觉得心里堵得慌。也许先随便说一点表面上的感受比较安全，不用一下子把那些乱七八糟的想法都倒出来。）"
+      }
+    }
+  ],
+  "created": 1795154800,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 963,
+    "total_tokens": 1059,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

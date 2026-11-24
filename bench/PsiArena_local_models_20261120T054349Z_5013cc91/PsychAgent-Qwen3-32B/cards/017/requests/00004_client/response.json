@@ -1,0 +1,41 @@
+{
+  "id": "2dad9cfcd8bf4a29abdec19eac7d59c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听起来好像挺自由的……但我还是有点紧张。那个，我想问一下，如果我说的东西你觉得不对，你会站在我这边吗？还是说你会像别人一样劝我？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师解释了咨询是以我为中心，按我的节奏来，这让我稍微放松一点。但我还是不太确定能不能真的信任她，毕竟这些事连我丈夫都不完全理解。我想先试探一下她的专业边界，看看她会不会像亲戚那样给我压力。就问问她会不会站在我这边，这也能看出她是不是真的中立。）",
+        "reasoning": "（咨询师解释了咨询是以我为中心，按我的节奏来，这让我稍微放松一点。但我还是不太确定能不能真的信任她，毕竟这些事连我丈夫都不完全理解。我想先试探一下她的专业边界，看看她会不会像亲戚那样给我压力。就问问她会不会站在我这边，这也能看出她是不是真的中立。）"
+      }
+    }
+  ],
+  "created": 1795153955,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 963,
+    "total_tokens": 1074,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 73,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

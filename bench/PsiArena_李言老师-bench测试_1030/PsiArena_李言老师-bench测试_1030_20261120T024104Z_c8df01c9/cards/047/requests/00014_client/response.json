@@ -1,0 +1,41 @@
+{
+  "id": "4c01e63d47ad4a979342ce41b88df4f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "上次打电话，我差点跟她说我最近老想哭，最后还是咽回去了。我怕她一听就特别担心，然后我又得反过来安慰她。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我最近哪件事最让我担心妈妈会失望...我想到上次在电话里差点说漏嘴的事。其实我真的很想跟妈妈倾诉，但又怕她担心，更怕她觉得我太脆弱了。）\n（作为老师，我明明应该更坚强才对。可是每次听到妈妈用那种担心的语气说话，我就特别矛盾。一方面想得到她的理解，另一方面又觉得自己不该让她操心。这种纠结让我更难受了。）",
+        "reasoning": "（咨询师问我最近哪件事最让我担心妈妈会失望...我想到上次在电话里差点说漏嘴的事。其实我真的很想跟妈妈倾诉，但又怕她担心，更怕她觉得我太脆弱了。）\n（作为老师，我明明应该更坚强才对。可是每次听到妈妈用那种担心的语气说话，我就特别矛盾。一方面想得到她的理解，另一方面又觉得自己不该让她操心。这种纠结让我更难受了。）"
+      }
+    }
+  ],
+  "created": 1795143607,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 2170,
+    "total_tokens": 2295,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 93,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

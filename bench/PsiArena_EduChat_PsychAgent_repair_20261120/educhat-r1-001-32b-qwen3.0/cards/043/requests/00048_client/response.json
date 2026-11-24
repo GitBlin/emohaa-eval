@@ -1,0 +1,41 @@
+{
+  "id": "58804c7b8afe4b9ba459ca931231a1cb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "和父母沟通……我还是有点怕，感觉现在还没准备好。朋友的话……我倒是可以试试，不过最近跟她们关系有点怪，不知道从哪说起。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师又提到和父母沟通了……之前我已经说过试过没用了，他怎么又绕回来了。是不是觉得我没有认真去做？还是说他认为问题就出在我没跟父母说清楚？）\n（不过现在跟刚开始不一样了，我稍微能沉住气了。也许可以先不急着反驳，告诉他我现在还没准备好。朋友那边……倒是可以想想，虽然关系有点复杂，但总比父母好开口一些。）",
+        "reasoning": "（咨询师又提到和父母沟通了……之前我已经说过试过没用了，他怎么又绕回来了。是不是觉得我没有认真去做？还是说他认为问题就出在我没跟父母说清楚？）\n（不过现在跟刚开始不一样了，我稍微能沉住气了。也许可以先不急着反驳，告诉他我现在还没准备好。朋友那边……倒是可以想想，虽然关系有点复杂，但总比父母好开口一些。）"
+      }
+    }
+  ],
+  "created": 1795155207,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 125,
+    "prompt_tokens": 3111,
+    "total_tokens": 3236,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

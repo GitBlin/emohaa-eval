@@ -1,0 +1,41 @@
+{
+  "id": "6c6d35c97c174fc99eab1deae6c967bc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "先无酒吧，至少先把命保住。家里的事我怕一说就吵起来，能不能先从小的开始？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（他问先做哪个。我其实最怕的是酒，身体已经出问题了。家庭沟通也重要，但那个更难开口。先从小处来，别一下要求太多。）先无酒吧，至少先把命保住。家庭那边……我怕一说就吵起来。",
+        "reasoning": "（他问先做哪个。我其实最怕的是酒，身体已经出问题了。家庭沟通也重要，但那个更难开口。先从小处来，别一下要求太多。）先无酒吧，至少先把命保住。家庭那边……我怕一说就吵起来。"
+      }
+    }
+  ],
+  "created": 1795155036,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 4388,
+    "total_tokens": 4469,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 58,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 4096
+    }
+  }
+}

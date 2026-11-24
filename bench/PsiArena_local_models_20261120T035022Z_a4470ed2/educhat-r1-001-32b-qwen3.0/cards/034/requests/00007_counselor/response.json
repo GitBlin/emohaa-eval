@@ -1,0 +1,38 @@
+{
+  "id": "chatcmpl-a6e74cfdc22d4f2490e43e7d4a71f8e9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "这听起来很困扰，这种情况持续多久了呢？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": [],
+        "reasoning": "\n【诊断分析】：用户存在睡眠障碍和思维紊乱，可能与焦虑或压力相关。\n【行动策略】：通过开放性提问引导用户探索潜在原因。\n",
+        "reasoning_content": "\n【诊断分析】：用户存在睡眠障碍和思维紊乱，可能与焦虑或压力相关。\n【行动策略】：通过开放性提问引导用户探索潜在原因。\n"
+      },
+      "stop_reason": null,
+      "token_ids": null
+    }
+  ],
+  "created": 1795149404,
+  "model": "educhat-r1-001-32b-qwen3.0",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 508,
+    "total_tokens": 558,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null,
+  "prompt_token_ids": null,
+  "kv_transfer_params": null
+}

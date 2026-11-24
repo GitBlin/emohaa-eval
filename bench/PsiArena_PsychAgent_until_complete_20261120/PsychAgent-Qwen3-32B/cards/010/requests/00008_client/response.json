@@ -1,0 +1,41 @@
+{
+  "id": "e45e957a84c54ec8833095156d9589b7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能……都有吧。但更让我不舒服的是，他说完以后，我好像会显得特别较真。我也不太懂，为什么这种小事会一直卡在我心里。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我是在意他的感受还是说话方式……我其实更在意他说这些话的时候，好像把大家都比下去了。但直接这么说会不会显得我很小心眼？）\n（而且他那种自贬的语气，让我觉得自己认真复习反而像个傻子。可这种话我说不出口，太丢人了。）",
+        "reasoning": "（咨询师问我是在意他的感受还是说话方式……我其实更在意他说这些话的时候，好像把大家都比下去了。但直接这么说会不会显得我很小心眼？）\n（而且他那种自贬的语气，让我觉得自己认真复习反而像个傻子。可这种话我说不出口，太丢人了。）"
+      }
+    }
+  ],
+  "created": 1795153769,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 1165,
+    "total_tokens": 1266,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 64,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0ca2b7bd718a44ffad5a8ff037bfa9ca",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "嗯……好吧，稍微放心一点。其实我也说不清楚，就是最近总觉得睡不好，白天上课也没精神。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师刚才解释了保密原则，还问我会不会放心一些。我其实心里还是有点打鼓，但至少知道这里说话是有规矩的。不过我不想一下子就把宿舍那些事全倒出来，先随便说点表面上的吧，看看他什么反应。）\n（我最近确实睡不好，室友的事让我很烦，但一下子说太深又觉得不安全。就简单提一下睡眠和学习受影响，看看他会不会追问太多。这样应该可以吧。）",
+        "reasoning": "（咨询师刚才解释了保密原则，还问我会不会放心一些。我其实心里还是有点打鼓，但至少知道这里说话是有规矩的。不过我不想一下子就把宿舍那些事全倒出来，先随便说点表面上的吧，看看他什么反应。）\n（我最近确实睡不好，室友的事让我很烦，但一下子说太深又觉得不安全。就简单提一下睡眠和学习受影响，看看他会不会追问太多。这样应该可以吧。）"
+      }
+    }
+  ],
+  "created": 1795146812,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 123,
+    "prompt_tokens": 1128,
+    "total_tokens": 1251,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 98,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

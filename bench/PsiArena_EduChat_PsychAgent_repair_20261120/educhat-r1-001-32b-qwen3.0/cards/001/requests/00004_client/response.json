@@ -1,0 +1,41 @@
+{
+  "id": "4543da47ce0e432da628655c9ce710d5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "哦……保密啊。（停顿）那，那我说的话你不会告诉别人吧？我是说，比如学校或者我爸妈……（声音有点紧张）",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的基本流程和保密原则，但我还是有点不安。他说的保密性听起来不错，可我还是担心会被别人知道我来咨询的事。毕竟学校里要是传开了，大家会怎么看我啊...而且我连自己到底有什么问题都说不清楚，更别说探讨解决方案了。）\n（作为个内向又敏感的高中生，我确实需要确认这些细节才能稍微放心一点。但直接问会不会显得太不信任咨询师了？不过不问清楚的话，我可能连话都不敢多说。还是试探性地问一下保密的具体范围吧，这样应该不算冒犯...）",
+        "reasoning": "（刚才咨询师解释了咨询的基本流程和保密原则，但我还是有点不安。他说的保密性听起来不错，可我还是担心会被别人知道我来咨询的事。毕竟学校里要是传开了，大家会怎么看我啊...而且我连自己到底有什么问题都说不清楚，更别说探讨解决方案了。）\n（作为个内向又敏感的高中生，我确实需要确认这些细节才能稍微放心一点。但直接问会不会显得太不信任咨询师了？不过不问清楚的话，我可能连话都不敢多说。还是试探性地问一下保密的具体范围吧，这样应该不算冒犯...）"
+      }
+    }
+  ],
+  "created": 1795153436,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 157,
+    "prompt_tokens": 979,
+    "total_tokens": 1136,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 125,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

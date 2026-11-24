@@ -1,0 +1,41 @@
+{
+  "id": "f81101c59f43475e960d31beb489c58a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能……希望有人问我一句“你在看啥呢”吧。不过说出来有点幼稚，我都这么大了还等着别人主动。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问我希望别人说什么或做什么，这让我想到自己其实很渴望被注意到。但直接说出来会不会显得太可怜了？不过现在好像可以试着说一点真实的想法。）\n（也许可以提一句希望有人问问我，但马上又觉得这个想法有点幼稚。毕竟人家凭什么要主动关心我呢？这种矛盾的感觉让我有点不知道该怎么继续表达。）",
+        "reasoning": "（咨询师问我希望别人说什么或做什么，这让我想到自己其实很渴望被注意到。但直接说出来会不会显得太可怜了？不过现在好像可以试着说一点真实的想法。）\n（也许可以提一句希望有人问问我，但马上又觉得这个想法有点幼稚。毕竟人家凭什么要主动关心我呢？这种矛盾的感觉让我有点不知道该怎么继续表达。）"
+      }
+    }
+  ],
+  "created": 1795142611,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 2431,
+    "total_tokens": 2536,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2304
+    }
+  }
+}

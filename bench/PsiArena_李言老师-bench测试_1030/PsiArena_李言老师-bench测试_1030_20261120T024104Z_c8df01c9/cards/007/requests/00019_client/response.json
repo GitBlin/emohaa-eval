@@ -1,0 +1,41 @@
+{
+  "id": "fb2f59fe506d493a901056d8e324d6ff",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "有一部电影我挺喜欢的……不过说出来可能他们也不会感兴趣。我在想，是不是可以先从这种小事试着聊一句？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问我有没有想推荐的作品，好像是在引导我找到和别人连接的小切口。我心里其实有一部电影，但马上又想到，就算我说了，他们大概也不会感兴趣吧。这种担心让我有点犹豫，要不要真的说出来。）\n（不过她问得很自然，也没有逼我。我想，也许可以试着提一下，但得先把自己的顾虑摆出来，这样就算被拒绝，我也算提前给自己留了余地。毕竟，直接推荐给室友我还是有点发怵。）",
+        "reasoning": "（她问我有没有想推荐的作品，好像是在引导我找到和别人连接的小切口。我心里其实有一部电影，但马上又想到，就算我说了，他们大概也不会感兴趣吧。这种担心让我有点犹豫，要不要真的说出来。）\n（不过她问得很自然，也没有逼我。我想，也许可以试着提一下，但得先把自己的顾虑摆出来，这样就算被拒绝，我也算提前给自己留了余地。毕竟，直接推荐给室友我还是有点发怵。）"
+      }
+    }
+  ],
+  "created": 1795142638,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 129,
+    "prompt_tokens": 2716,
+    "total_tokens": 2845,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 102,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

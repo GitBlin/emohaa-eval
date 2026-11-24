@@ -1,0 +1,41 @@
+{
+  "id": "3e3bb810e3c7464394cf195a408da4c7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "差不多吧，反正就是笔不小的数。我不想总绕在钱上，能不能说说接下来我该怎么改？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在确认比例，说明ta想帮我把压力具体化。但我确实不想再算这些数字了，越算越觉得自己失败。不过既然已经聊到这儿，还是简单回应一下比较好，然后赶紧把话题拉回能做的事上。）\n（我现在更想知道接下来能怎么改，而不是继续被这些数字压着。也许可以先问一个小的、能马上做的行动方向，这样至少不会那么空。）",
+        "reasoning": "（咨询师在确认比例，说明ta想帮我把压力具体化。但我确实不想再算这些数字了，越算越觉得自己失败。不过既然已经聊到这儿，还是简单回应一下比较好，然后赶紧把话题拉回能做的事上。）\n（我现在更想知道接下来能怎么改，而不是继续被这些数字压着。也许可以先问一个小的、能马上做的行动方向，这样至少不会那么空。）"
+      }
+    }
+  ],
+  "created": 1795143470,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 2689,
+    "total_tokens": 2803,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 90,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

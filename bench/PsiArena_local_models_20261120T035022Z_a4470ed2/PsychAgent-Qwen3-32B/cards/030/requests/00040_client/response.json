@@ -1,0 +1,41 @@
+{
+  "id": "62469835297e475492cad179eb020144",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我想写成“沉默不代表我不够好”，但写出来又觉得有点别扭，好像太像安慰自己了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要继续对话，当前第20轮后期。用户角色是来访者，咨询师在问提醒语。我们要回复作为来访者，简短2-3句，表达尝试写提醒语，可能犹豫。不要谢谢再见。需要符合后期情绪稳定，探索方案。只针对一个方面。可以回应“我想写成……但有点别扭”。保持真实。",
+        "reasoning": "我们需要继续对话，当前第20轮后期。用户角色是来访者，咨询师在问提醒语。我们要回复作为来访者，简短2-3句，表达尝试写提醒语，可能犹豫。不要谢谢再见。需要符合后期情绪稳定，探索方案。只针对一个方面。可以回应“我想写成……但有点别扭”。保持真实。"
+      }
+    }
+  ],
+  "created": 1795147694,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3597,
+    "total_tokens": 3698,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 76,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

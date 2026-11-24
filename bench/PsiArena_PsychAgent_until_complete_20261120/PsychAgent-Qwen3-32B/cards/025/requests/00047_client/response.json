@@ -1,0 +1,41 @@
+{
+  "id": "acd1e89911ac493381d3087d6453494a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那句“允许自己不完美”……我念着有点别扭，但好像也没那么刺耳。三天里要是没做到，我可能还是会怪自己，不过我会试着先停一下。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师让我别太苛责自己，还给了那句“允许自己不完美”……说实话，这话我听着有点别扭，但也好像松了一点点。三天，就三天，我是不是该真的试试？不过万一没做到，我可能又会怪自己。）",
+        "reasoning": "（咨询师让我别太苛责自己，还给了那句“允许自己不完美”……说实话，这话我听着有点别扭，但也好像松了一点点。三天，就三天，我是不是该真的试试？不过万一没做到，我可能又会怪自己。）"
+      }
+    }
+  ],
+  "created": 1795154345,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 3463,
+    "total_tokens": 3559,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 56,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3328
+    }
+  }
+}

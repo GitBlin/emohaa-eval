@@ -1,0 +1,41 @@
+{
+  "id": "ccb6ecd22d384ce99ded329149ae3699",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "浇水的声音……希望别是浇太多把自己淹了。我想试着对自己松一点，先从晚上记一次情绪开始。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师用花园和种子的比喻来总结，让我觉得被理解了。他好像真的不急着要我立刻变好，这种态度让我放松了一点。）\n（我想到自己确实容易把小事变成大压力，也许可以试着用他说的“浇水”的方式对待自己。但心里还是有点不确定，不知道下次能不能做到。）",
+        "reasoning": "（心理咨询师用花园和种子的比喻来总结，让我觉得被理解了。他好像真的不急着要我立刻变好，这种态度让我放松了一点。）\n（我想到自己确实容易把小事变成大压力，也许可以试着用他说的“浇水”的方式对待自己。但心里还是有点不确定，不知道下次能不能做到。）"
+      }
+    }
+  ],
+  "created": 1795155381,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 2956,
+    "total_tokens": 3052,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "650ce93ed9cc4301bb1d71becf53be3d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "最担心……她会不高兴吧。家里那种氛围，好像我一好，她就得矮一截。可我也说不清她到底怕什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问如果报了课我最担心失去什么……这个问题让我愣了一下，好像从没认真想过。我总在担心她会怎么想，却很少问自己。）",
+        "reasoning": "（她问如果报了课我最担心失去什么……这个问题让我愣了一下，好像从没认真想过。我总在担心她会怎么想，却很少问自己。）"
+      }
+    }
+  ],
+  "created": 1795147521,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 66,
+    "prompt_tokens": 2079,
+    "total_tokens": 2145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 35,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

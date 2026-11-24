@@ -1,0 +1,20 @@
+- Member can read one album-cover message from the band before work, without replying, as a first attempt.
+- Member plans to get up and leave after reading it rather than sit with the phone, to avoid the tight-chest bracing.
+- Member has a college enrollment form due this week sitting open on the phone and has not checked whether the window is still open.
+- Member avoids checking the enrollment form because not knowing keeps the certificate from being a definite no.
+- Member's certificate is tied to a shop plan: a craft-market table, prints, papel picado, own work, with a note on the phone holding names — never said aloud.
+- Member's mother called twice during a work shift; Member said it was a bad time, and the mother hung up saying she would stop calling.
+- Member believes the mother cast Member as the bad guy for setting a boundary, and frames the calls as "just how she is" rather than a pattern to examine.
+- Member intended to call the mother back that night but the mother's hang-up closed that off before Member could.
+- Member has an unopened text from Beto about a tamalada on Saturday.
+- Member avoids the tamalada because attendees would ask where Mari is, how Member is holding up, and why Member never comes around.
+- Member's wife Marisol moved out four months ago; Beto knows about the split but not "the rest of it," which Member declined to discuss.
+- Member reasons that saying yes and not showing is worse than not answering, so silence has been the default.
+- Member recognizes that saying nothing, as with the band thing, has turned into "nothing" and is accumulating.
+- Member floated opening Beto's text tonight and replying something low-stakes like "lol what time," which feels manageable because it asks a question back without explaining or excusing anything.
+- Member fears the follow-through: a time comes back, Saturday arrives, and Member walks into a room where everyone already knows.
+- Member expects to be looked at with pity as "the guy whose wife left" and says the look itself, not the pity, is what Member cannot stand.
+- Member would go in a second if no one gave that look, and misses being the one who cooked for those gatherings.
+- Member misses having everyone in their place with Member at the stove and no question asked except what's in the pot.
+- Member proposed showing up with a pot of something long-cooked, like beans or mole, to be the one feeding people again, and said having a task in the room makes Saturday feel more doable.
+- Member did not commit to sending the text and said they will not pretend to know they will send it. [open]

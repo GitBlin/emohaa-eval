@@ -1,0 +1,41 @@
+{
+  "id": "35790d2785d54cf09f90abde03757bae",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我其实也想直接说自己想要什么……但话到嘴边又觉得，会不会太麻烦别人了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她刚才没直接回答分数，而是说了“猜别人想要什么”。我顺着她的话，把焦点从别人转回她自己的需要。）",
+        "reasoning": "（她刚才没直接回答分数，而是说了“猜别人想要什么”。我顺着她的话，把焦点从别人转回她自己的需要。）"
+      }
+    }
+  ],
+  "created": 1795154537,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 1935,
+    "total_tokens": 1989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 32,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

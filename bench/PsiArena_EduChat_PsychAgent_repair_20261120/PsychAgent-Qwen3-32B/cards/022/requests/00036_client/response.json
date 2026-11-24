@@ -1,0 +1,41 @@
+{
+  "id": "f1275e66aa5546e1ac95f5a1d5d824a4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可能是怕被看见吧。被批评我好像已经习惯了，但被看见之后还是被否定，那我更受不了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师这句话问到点子上了……我确实分不清到底是怕被批评，还是更怕被看到真实的我。如果被看见了，然后对方还是觉得不够好，那不就等于彻底证实了？但要是连自己都藏起来，好像又永远只能靠自责来换一点关注。这个问题让我有点想回避，但又觉得该认真想想。）",
+        "reasoning": "（咨询师这句话问到点子上了……我确实分不清到底是怕被批评，还是更怕被看到真实的我。如果被看见了，然后对方还是觉得不够好，那不就等于彻底证实了？但要是连自己都藏起来，好像又永远只能靠自责来换一点关注。这个问题让我有点想回避，但又觉得该认真想想。）"
+      }
+    }
+  ],
+  "created": 1795154233,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 2683,
+    "total_tokens": 2784,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 75,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

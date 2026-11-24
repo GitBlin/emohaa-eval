@@ -1,0 +1,41 @@
+{
+  "id": "d99f42f3c0154019b81ae6e20906276a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那种“除了成绩，别的都不配”的话，听起来像是一把尺子，一直在量你。这个尺子最早是从哪里来的？是父母平时的说法，还是家里某些场合让你感受到的？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（沉默几秒）都有吧……有时候觉得挺丢人的，别人都能自然聊天，就我不行。可有时候又觉得挺委屈的，好像我除了成绩，别的都不配。",
+        "reasoning": "（沉默几秒）都有吧……有时候觉得挺丢人的，别人都能自然聊天，就我不行。可有时候又觉得挺委屈的，好像我除了成绩，别的都不配。"
+      }
+    }
+  ],
+  "created": 1795153453,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 1765,
+    "total_tokens": 1850,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 41,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1536
+    }
+  }
+}

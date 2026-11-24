@@ -1,0 +1,41 @@
+{
+  "id": "e9e0913ae460410cad247ad66aea1cd7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好，那我们下周见。我回去先试试呼吸练习和记录，要是中间有什么问题……下次再跟你说吧。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说下周看记录，还说我做得认真……这让我稍微松了口气，但又有点担心自己记不好。毕竟我平时就容易想太多，万一记录时又陷进去怎么办。不过他说允许有波动，这句话让我没那么紧张了。也许我可以先答应下来，回去试试看，至少今晚的呼吸练习先做一次。）",
+        "reasoning": "（咨询师说下周看记录，还说我做得认真……这让我稍微松了口气，但又有点担心自己记不好。毕竟我平时就容易想太多，万一记录时又陷进去怎么办。不过他说允许有波动，这句话让我没那么紧张了。也许我可以先答应下来，回去试试看，至少今晚的呼吸练习先做一次。）"
+      }
+    }
+  ],
+  "created": 1795154723,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 3379,
+    "total_tokens": 3477,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 72,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 3072
+    }
+  }
+}

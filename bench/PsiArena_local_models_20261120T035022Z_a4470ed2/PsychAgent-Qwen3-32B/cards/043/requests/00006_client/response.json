@@ -1,0 +1,41 @@
+{
+  "id": "630ed63bc42348fead00131029f7629d",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "我18，高三。最近……就是一直在复习吧，其实也说不上忙，就是坐那儿也学不进去，脑子乱糟糟的。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师问了我的年龄和最近在忙什么，这问题挺普通的，但我还是有点犹豫要不要说太多。毕竟刚来，还不知道这个人靠不靠谱。）\n（我18岁，高三，这些说出来也没什么。但一提到“忙”，我自己都觉得有点讽刺，天天坐在书桌前，可脑子根本不在书上。算了，先简单说一句吧，看看对方会怎么接。）",
+        "reasoning": "（咨询师问了我的年龄和最近在忙什么，这问题挺普通的，但我还是有点犹豫要不要说太多。毕竟刚来，还不知道这个人靠不靠谱。）\n（我18岁，高三，这些说出来也没什么。但一提到“忙”，我自己都觉得有点讽刺，天天坐在书桌前，可脑子根本不在书上。算了，先简单说一句吧，看看对方会怎么接。）"
+      }
+    }
+  ],
+  "created": 1795148516,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 1113,
+    "total_tokens": 1228,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d453db1ea5cc40b0b4b2b3b1c3334ef8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "那……先说半句吧。比如“我需要想一下”这种，不算太暴露。你觉得可以吗？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（她问得更具体了，我得挑一个自己稍微能接受的方式。憋着太难受，但一下子说很多又做不到。也许先用一个词标记感受，比解释一整句安全。）\n（或者从工作场景里开始，说“我需要想一下”这种半句话，既不算暴露太多情绪，也能让我不总是沉默。先试试这个吧。）",
+        "reasoning": "（她问得更具体了，我得挑一个自己稍微能接受的方式。憋着太难受，但一下子说很多又做不到。也许先用一个词标记感受，比解释一整句安全。）\n（或者从工作场景里开始，说“我需要想一下”这种半句话，既不算暴露太多情绪，也能让我不总是沉默。先试试这个吧。）"
+      }
+    }
+  ],
+  "created": 1795153483,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 101,
+    "prompt_tokens": 3018,
+    "total_tokens": 3119,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 77,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2816
+    }
+  }
+}

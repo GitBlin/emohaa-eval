@@ -1,0 +1,41 @@
+{
+  "id": "85a9be1f88cf481389ec397edac337fb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（沉默了一会儿，声音有点闷）同学……我在班上没啥人跟我玩。其实我爸妈也不在家，他们在城里打工，一年回来一两回吧。（顿了顿）我奶奶说，让我别老想这些，好好念书就行。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（现在进入中期阶段，咨询师问到了家里和同学相处。这个问题让我想到学校里那些人...但我不想直接说被欺负的事，太丢人了。不过咨询师好像真的在认真听，也许可以稍微说一点？）\n（想到操场上的事，心里又开始发紧。但爸妈的事更让我难受，他们总说在外面挣钱不容易，我要是说学校的事，他们肯定觉得我不懂事。先说说爸妈的事吧，这个好像没那么难开口。）",
+        "reasoning": "（现在进入中期阶段，咨询师问到了家里和同学相处。这个问题让我想到学校里那些人...但我不想直接说被欺负的事，太丢人了。不过咨询师好像真的在认真听，也许可以稍微说一点？）\n（想到操场上的事，心里又开始发紧。但爸妈的事更让我难受，他们总说在外面挣钱不容易，我要是说学校的事，他们肯定觉得我不懂事。先说说爸妈的事吧，这个好像没那么难开口。）"
+      }
+    }
+  ],
+  "created": 1795146771,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 150,
+    "prompt_tokens": 1646,
+    "total_tokens": 1796,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 99,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

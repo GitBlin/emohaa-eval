@@ -1,0 +1,41 @@
+{
+  "id": "7d6dcf559bda4fcaac680386f2c14872",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "没有疼，就是僵。可能在家写作业的时候更明显，我爸妈一进房间问成绩，我整个人就绷起来了。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在关心我的身体反应，问有没有疼痛手麻头晕。这说明他真的在认真听，不是敷衍我。但我确实没到那种程度，就是紧绷而已。不过提到这个，我突然想到在家的时候更明显，爸妈一说话我就全身紧张，这跟在学校好像不太一样。）\n（我有点犹豫要不要说家里的事，毕竟之前只提了同学比较。但既然他问了身体反应，顺带说出来应该也不算跑题吧。家里那种压力可能比同学的事更深，只是我一直没太往那方面想。）",
+        "reasoning": "（咨询师在关心我的身体反应，问有没有疼痛手麻头晕。这说明他真的在认真听，不是敷衍我。但我确实没到那种程度，就是紧绷而已。不过提到这个，我突然想到在家的时候更明显，爸妈一说话我就全身紧张，这跟在学校好像不太一样。）\n（我有点犹豫要不要说家里的事，毕竟之前只提了同学比较。但既然他问了身体反应，顺带说出来应该也不算跑题吧。家里那种压力可能比同学的事更深，只是我一直没太往那方面想。）"
+      }
+    }
+  ],
+  "created": 1795142530,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 143,
+    "prompt_tokens": 1990,
+    "total_tokens": 2133,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 114,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

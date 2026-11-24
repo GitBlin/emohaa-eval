@@ -1,0 +1,41 @@
+{
+  "id": "9eaa5d2fddbf4eef8579898c55c8fa18",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真想了想）现在大概7分吧。但想到下次相亲，估计又得回到8分。我好像总是临到头就控制不住紧张。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师在帮我量化焦虑程度，这让我能更清楚地看到自己的状态。刚才说“必须完美”的包袱时，其实心里已经有点松动，但提到具体分数还是有点犹豫。）\n（想到下次相亲的场景，那种紧绷感又回来了。8分可能有点夸张，但确实比平时紧张很多。我需要让咨询师知道，虽然意识到问题，但改变没那么容易。）",
+        "reasoning": "（咨询师在帮我量化焦虑程度，这让我能更清楚地看到自己的状态。刚才说“必须完美”的包袱时，其实心里已经有点松动，但提到具体分数还是有点犹豫。）\n（想到下次相亲的场景，那种紧绷感又回来了。8分可能有点夸张，但确实比平时紧张很多。我需要让咨询师知道，虽然意识到问题，但改变没那么容易。）"
+      }
+    }
+  ],
+  "created": 1795154209,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 116,
+    "prompt_tokens": 2387,
+    "total_tokens": 2503,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 83,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bbec6614655744688f6577d9e9559662",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "肩膀好像松了一点……不过一想到他失业以后整天闷在家里，我心里又堵起来了。我是不是对他要求太多了？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师带我做了呼吸练习，肩膀好像松了一点点。但一放松下来，那些烦心事又冒出来了，尤其是想到老公现在整天在家，我心里更堵。我是不是不该对他有那么多要求？可我真的受不了这种冷冰冰的感觉。）",
+        "reasoning": "（咨询师带我做了呼吸练习，肩膀好像松了一点点。但一放松下来，那些烦心事又冒出来了，尤其是想到老公现在整天在家，我心里更堵。我是不是不该对他有那么多要求？可我真的受不了这种冷冰冰的感觉。）"
+      }
+    }
+  ],
+  "created": 1795153947,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 80,
+    "prompt_tokens": 1910,
+    "total_tokens": 1990,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 54,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e96d49dfae3b46939acbd8c470dba5a2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "好……我试试。其实我想到一个办法，可以先问问他怎么看待别人有“不同”的喜好，看看他的反应。这样是不是安全一点？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（咨询师说会一直支持我，这让我稍微安心了一点。但“随时告诉我”这种话听起来有点太理想化了，现实里哪有这么容易。我想到上次和他聊电影时那种尴尬的气氛，心里又有点发怵。）\n（不过“从小的改变开始”这个建议确实比直接摊牌要可行。也许我可以先试探性地问问他对于“不同”的看法，不用一下子暴露自己。这样万一他反应不好，我也能及时收住。）",
+        "reasoning": "（咨询师说会一直支持我，这让我稍微安心了一点。但“随时告诉我”这种话听起来有点太理想化了，现实里哪有这么容易。我想到上次和他聊电影时那种尴尬的气氛，心里又有点发怵。）\n（不过“从小的改变开始”这个建议确实比直接摊牌要可行。也许我可以先试探性地问问他对于“不同”的看法，不用一下子暴露自己。这样万一他反应不好，我也能及时收住。）"
+      }
+    }
+  ],
+  "created": 1795154763,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 135,
+    "prompt_tokens": 2351,
+    "total_tokens": 2486,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 101,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2048
+    }
+  }
+}

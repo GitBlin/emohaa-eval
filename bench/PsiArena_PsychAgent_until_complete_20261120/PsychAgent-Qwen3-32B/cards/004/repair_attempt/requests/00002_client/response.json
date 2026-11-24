@@ -1,0 +1,41 @@
+{
+  "id": "3d2a066c33f641dfa1c5d039962fafcc",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（认真想了想，声音比刚才稳一点）先写“我最近在操场有点害怕，想请你帮个忙”，不写名字？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（点点头，又有点不确定）嗯……热线我打过一次，没接通。那我明天先给体育老师写张纸条试试？老师，我该怎么写才不像告状？",
+        "reasoning": "（点点头，又有点不确定）嗯……热线我打过一次，没接通。那我明天先给体育老师写张纸条试试？老师，我该怎么写才不像告状？"
+      }
+    }
+  ],
+  "created": 1795156068,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 3373,
+    "total_tokens": 3443,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 39,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 0
+    }
+  }
+}

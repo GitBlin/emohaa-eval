@@ -1,0 +1,41 @@
+{
+  "id": "fe2f7b6c679f4cf7ab34a2a8bf8e97ea",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（稍微坐直了一点）嗯……我可以试试。就是那种话冒出来的时候，停下来深呼吸，然后跟自己说一句“我在难受，这不容易”，对吧？听起来有点别扭，但总比一直骂自己强。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（稍微抬起头）嗯……我可以试试。就是那种话出现的时候，深呼吸，然后跟自己说“我在难受，这不容易”对吧？（顿了顿）听起来有点别扭，但总比一直骂自己强。",
+        "reasoning": "（稍微抬起头）嗯……我可以试试。就是那种话出现的时候，深呼吸，然后跟自己说“我在难受，这不容易”对吧？（顿了顿）听起来有点别扭，但总比一直骂自己强。"
+      }
+    }
+  ],
+  "created": 1795155057,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 2771,
+    "total_tokens": 2862,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 44,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 2560
+    }
+  }
+}

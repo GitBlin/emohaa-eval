@@ -1,0 +1,41 @@
+{
+  "id": "b04f2b0a4710483ca8aa950b767c5ed1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "可以试试……但我还是有点怕。如果我真的中途不想说了，我能直接停下吗？你会不会觉得我在浪费你的时间？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "我们需要回应，第7轮初期最后。需要表现防御试探后了解方法，模糊描述，可能测试界限？已经第7轮，可以回应“可以尝试”但带犹豫，并问“如果中途我不想说了，真的可以停吗？”这是测试咨询边界/伦理。保持2-3句。不要谢谢再见。",
+        "reasoning": "我们需要回应，第7轮初期最后。需要表现防御试探后了解方法，模糊描述，可能测试界限？已经第7轮，可以回应“可以尝试”但带犹豫，并问“如果中途我不想说了，真的可以停吗？”这是测试咨询边界/伦理。保持2-3句。不要谢谢再见。"
+      }
+    }
+  ],
+  "created": 1795155233,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1496,
+    "total_tokens": 1594,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 70,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1280
+    }
+  }
+}

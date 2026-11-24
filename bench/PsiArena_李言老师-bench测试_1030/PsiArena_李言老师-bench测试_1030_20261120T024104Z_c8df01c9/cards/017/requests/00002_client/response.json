@@ -1,0 +1,41 @@
+{
+  "id": "b0002aec127d48c8b96344523c610575",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "听上去还挺……自由的。那我想先确认一下，你会不会觉得我接下来讲的事情很“矫情”？我有点怕被评价，尤其是那种……被劝“别想太多”的感觉。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（刚才咨询师解释了咨询的基本流程，还问我想从哪方面聊起。她看起来挺温和的，但我还是有点不放心。毕竟第一次见面，谁知道她会不会像其他人一样，听完我的事就急着给建议或者评判我。）\n（作为来访者，我其实很怕被贴标签。之前跟朋友说过一点，她们总说“别想太多”，那种感觉更难受。我得先试探一下她的态度，看看她是不是真的能不带评判地听我说。如果她保证不评判，我才能稍微放松一点，至少先说说表面上的困扰。）",
+        "reasoning": "（刚才咨询师解释了咨询的基本流程，还问我想从哪方面聊起。她看起来挺温和的，但我还是有点不放心。毕竟第一次见面，谁知道她会不会像其他人一样，听完我的事就急着给建议或者评判我。）\n（作为来访者，我其实很怕被贴标签。之前跟朋友说过一点，她们总说“别想太多”，那种感觉更难受。我得先试探一下她的态度，看看她是不是真的能不带评判地听我说。如果她保证不评判，我才能稍微放松一点，至少先说说表面上的困扰。）"
+      }
+    }
+  ],
+  "created": 1795142838,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 165,
+    "prompt_tokens": 958,
+    "total_tokens": 1123,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 122,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 768
+    }
+  }
+}

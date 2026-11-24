@@ -1,0 +1,41 @@
+{
+  "id": "0570b3af504747b49779ce4b9c50e3db",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "早上啊……就硬撑着起来，洗把脸，装作没事一样去公司。其实脑子里一团乱，也不知道自己在忙什么。",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "这是第5轮，初期阶段，需要继续试探和防御。刚才咨询师问早晨难受时会怎么做。我模糊回答，不直接承认酗酒，可能带点回避。也可以顺便测试界限？但每轮只针对一个方面，这轮还是模糊描述感受/回避。保持简短2-3句。",
+        "reasoning": "这是第5轮，初期阶段，需要继续试探和防御。刚才咨询师问早晨难受时会怎么做。我模糊回答，不直接承认酗酒，可能带点回避。也可以顺便测试界限？但每轮只针对一个方面，这轮还是模糊描述感受/回避。保持简短2-3句。"
+      }
+    }
+  ],
+  "created": 1795148452,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 98,
+    "prompt_tokens": 1367,
+    "total_tokens": 1465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 69,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1024
+    }
+  }
+}

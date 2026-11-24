@@ -1,0 +1,41 @@
+{
+  "id": "cda3b999279b4d42ad3c47d449de1d95",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "（有些紧张）发语音？我……我可能做不到。万一对方觉得奇怪怎么办？要不先发个文字消息试试？",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": "（心理咨询师建议我做个实验，给关心的人发语音消息表达感受。这让我有点紧张，因为平时很少这样直接表达情感。但想到之前讨论的重新定义“出息”，或许这是个机会。）\n（我担心发语音会显得太刻意，万一对方觉得奇怪怎么办。不过咨询师说得对，新定义需要尝试。也许可以找个不那么正式的方式，比如发条简短的消息。）",
+        "reasoning": "（心理咨询师建议我做个实验，给关心的人发语音消息表达感受。这让我有点紧张，因为平时很少这样直接表达情感。但想到之前讨论的重新定义“出息”，或许这是个机会。）\n（我担心发语音会显得太刻意，万一对方觉得奇怪怎么办。不过咨询师说得对，新定义需要尝试。也许可以找个不那么正式的方式，比如发条简短的消息。）"
+      }
+    }
+  ],
+  "created": 1795149842,
+  "model": "deepseek-v4.1-flash-1017",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 113,
+    "prompt_tokens": 2149,
+    "total_tokens": 2262,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 85,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cached_tokens": 1792
+    }
+  }
+}
