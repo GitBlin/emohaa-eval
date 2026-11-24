@@ -1,0 +1,21 @@
+- Member reports sleep has been broken for four months, with one hour or more to fall asleep and waking at 3 a.m. nightly, now affecting work.
+- Member's 3 a.m. waking hours are filled with mentally rehearsing the next day's driving route turn by turn, including stops and one off Route 9.
+- Member describes the night-time route rehearsal as checking rather than worry, comparing it to checking a load before pulling out.
+- Member has followed a strict sleep routine for four months with no improvement: no caffeine after noon, bedroom at 65 degrees, wind-down starting at 9:30, phone down, shower, bed at 10:15, lights out by 10:30.
+- Member lies in bed after lights out checking whether they are relaxed yet, which keeps them alert.
+- Member does not know how to let the checking happen without answering it, and says lying there at 3 a.m. with the clock going is still just them in the bed.
+- Member does clock math at 3 a.m., calculating remaining hours of sleep if they fall asleep right then, and the shrinking number brings a feeling of pressure.
+- Member's chest tightens during the 3 a.m. waking but they stay in bed to avoid waking Dean.
+- Member keeps a blood pressure cuff on the nightstand and checks their numbers two or three times a week when the tightness gets bad; numbers are always fine and give about two minutes of quiet before the route thoughts return.
+- Member believes leaving the cuff in the drawer would not help, since the thought would be there either way.
+- Member says the 3 a.m. wondering is about whether they are alright.
+- Member wants only to sleep through the night and stop doing the drive math.
+- Member slept straight through on only one night in four months: the night of their father's funeral in March, after being on their feet since 5 a.m. getting everything arranged.
+- Member's father died in March, just before the sleep problems began.
+- Member says they took a week off for the death, did what needed doing, and returned to work, and considers the matter handled.
+- Member does not believe grief is connected to the sleep problem and does not know what changed in March.
+- Member's tasks after the death centred on phone calls — who to call, in what order, what the co-op needed to know.
+- Member says the nights got bad after the calls were done and they returned to work on the Monday into quiet.
+- Member used to talk with their father most Sundays about the weather and his tomatoes, and says there is now no one to call about it.
+- Member and Dean walk a trail loop on Sunday afternoons, shorter than last year, a routine of several years and the one part of the week where nobody is driving anything.
+- Member finds the Sunday loop quiet with little talk, which is fine, and distinguishes it from the 3 a.m. quiet because they are moving and Dean is right there.
